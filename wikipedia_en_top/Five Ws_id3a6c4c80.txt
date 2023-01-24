@@ -1,0 +1,30 @@
+Five Ws
+The Five Ws (sometimes referred to as Five Ws and How, 5W1H, or Six Ws) are questions whose answers are considered basic in information gathering or problem solving. They are often mentioned in journalism (cf. news style), research, and police investigations. According to the principle of the Five Ws, a report can only be considered complete if it answers these questions starting with an interrogative word:
+Some others commonly add how to the list.
+Each question should have a factual answer—facts necessary to include for a report to be considered complete. Importantly, none of these questions can be answered with a simple "yes" or "no".
+In the United Kingdom (excluding Scotland), the Five Ws are used in Key Stage 2 and Key Stage 3 lessons (ages 7–14).
+Origin
+The Five Ws and How were long attributed to Hermagoras of Temnos. But in 2010, it was established that Aristotle's Nicomachean Ethics are in fact the source of the elements of circumstance or Septem Circumstantiae. Thomas Aquinas had much earlier acknowledged Aristotle as the originator of the elements of circumstances, providing a detailed commentary on Aristotle's system in his "Treatise on human acts" and specifically in part one of two Q7 "Of the Circumstances of Human Acts". Thomas Aquinas examines the concept of Aristotle's voluntary and involuntary action in his Summa Theologiae as well as a further set of questions about the elements of circumstance. Primarily, he asks "Whether a circumstance is an accident of a human act" (Article 1), "Whether Theologians should take note of the circumstances of human acts?" (Article 2), "Whether the circumstances are properly set forth (in Aristotle's) third book of Ethics" (Article 3) and "Whether the most important circumstances are 'Why' and 'In What the act consists'?" (Article 4).
+For Aristotle, the elements are used to distinguish voluntary or involuntary action, a crucial distinction for him. These elements of circumstances are used by Aristotle as a framework to describe and evaluate moral action in terms of What was or should be done, Who did it, How it was done, Where it happened, and most importantly for what reason (Why), and so on for all the other elements:
+For Aristotle, ignorance of any of these elements can imply involuntary action:
+In the Politics, Aristotle illustrates why the elements are important in terms of human (moral) action:
+Essentially, these elements of circumstances provide a theoretical framework that can be used to particularize, explain or predict any given set of circumstances of action. Hermagoras went so far as to claim that all hypotheses are derived from these seven circumstances:
+In any particular act or situation, one needs to interrogate these questions in order to determine the actual circumstances of the action.
+This aspect is encapsulated by Aristotle in Rhetoric as forensic speech and is used to determine "The characters and circumstances which lead men to commit wrong, or make them the victims of wrong" to accuse or defend. It is this application of the elements of circumstances that was emphasised by latter rhetoricians.
+Rhetoric
+Even though the classical origin of these questions as situated in ethics had long been lost, they have been a standard way of formulating or analyzing rhetorical questions since antiquity. The rhetor Hermagoras of Temnos, as quoted in pseudo-Augustine's De Rhetorica, applied Aristotle's "elements of circumstances" (μόρια περιστάσεως) as the loci of an issue:
+St. Thomas Aquinas also refers to the elements as used by Cicero in De Inventione (Chap. 24 DD1, 104) as:
+Similarly, Quintilian discussed loci argumentorum, but did not put them in the form of questions.
+Victorinus explained Cicero's application of the elements of circumstances by putting them into correspondence with Hermagoras's questions:
+Julius Victor also lists circumstances as questions.
+Boethius "made the seven circumstances fundamental to the arts of prosecution and defense":
+The question form was taken up again in the 12th century by Thierry de Chartres and John of Salisbury.
+To administer suitable penance to sinners, the 21st canon of the Fourth Lateran Council (1215) enjoined confessors to investigate both sins and the circumstances of the sins. The question form was popular for guiding confessors, and it appeared in several different forms:
+The method of questions was also used for the systematic exegesis of a text.
+In the 16th century, Thomas Wilson wrote in English verse:
+In the United States in the 19th century, Prof. William Cleaver Wilkinson popularized the "Three Ws" – What? Why? What of it? – as a method of Bible study in the 1880s, although he did not claim originality. This eventually became the "Five Ws", but the application was rather different from that in journalism:
+The "Five Ws" (and one H) were memorialized by Rudyard Kipling in his Just So Stories (1902), in which a poem, accompanying the tale of The Elephant's Child, opens with:
+By 1917, the "Five Ws" were being taught in high-school journalism classes, and by 1940, the tendency of journalists to address all of the "Five Ws" within the lead paragraph of an article was being characterized as old-fashioned and fallacious:
+Starting in the 2000s, the Five Ws were sometimes misattributed to Kipling, especially in the management and quality literature, and contrasted with the Five whys.
+Etymology
+In English, most of the interrogative words begin with the same letters, wh-; in Latin, most also begin with the same letters, qu-. This is not a coincidence, as they are cognates derived from the Proto-Indo-European interrogative pronoun root kwo-, reflected in Proto-Germanic as χwa- or khwa- and in Latin as qu-.

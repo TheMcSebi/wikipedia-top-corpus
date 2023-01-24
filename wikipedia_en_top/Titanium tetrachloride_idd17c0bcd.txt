@@ -1,0 +1,37 @@
+Titanium tetrachloride
+Titanium tetrachloride is the inorganic compound with the formula TiCl4. It is an important intermediate in the production of titanium metal and the pigment titanium dioxide. TiCl4 is a volatile liquid. Upon contact with humid air, it forms thick clouds of titanium dioxide (TiO2) and hydrochloric acid, a reaction that was formerly exploited for use in smoke machines. It is sometimes referred to as "tickle" or "tickle 4" due to the phonetic resemblance of its molecular formula (TiCl4) to the word.
+Properties and structure
+TiCl4 is a dense, colourless distillable liquid, although crude samples may be yellow or even red-brown. It is one of the rare transition metal halides that is a liquid at room temperature, VCl4 being another example. This property reflects the fact that molecules of TiCl4 weakly self-associate. Most metal chlorides are polymers, wherein the chloride atoms bridge between the metals. Its melting and boiling points are similar to those of CCl4.
+Ti4+ has a "closed" electronic shell, with the same number of electrons as the noble gas argon. The tetrahedral structure for TiCl4 is consistent with its description as a d0 metal center (Ti4+) surrounded by four identical ligands. This configuration leads to highly symmetrical structures, hence the tetrahedral shape of the molecule. TiCl4 adopts similar structures to TiBr4 and TiI4; the three compounds share many similarities. TiCl4 and TiBr4 react to give mixed halides TiCl4-xBrx, where x = 0, 1, 2, 3, 4. Magnetic resonance measurements also indicate that halide exchange is also rapid between TiCl4 and VCl4.
+TiCl4 is soluble in toluene and chlorocarbons. Certain arenes form complexes of the type [(C6R6)TiCl3]+. TiCl4 reacts exothermically with donor solvents such as THF to give hexacoordinated adducts. Bulkier ligands (L) give pentacoordinated adducts TiCl4L.
+Production
+TiCl4 is produced by the chloride process, which involves the reduction of titanium oxide ores, typically ilmenite (FeTiO3), with carbon under flowing chlorine at 900 °C. Impurities are removed by distillation.
+The coproduction of FeCl3 is undesirable, which has motivated the development of alternative technologies. Instead of directly using ilmenite, "rutile slag" is used. This material, an impure form of TiO2, is derived from ilmenite by removal of iron, either using carbon reduction or extraction with sulfuric acid. Crude TiCl4 contains a variety of other volatile halides, including vanadyl chloride (VOCl3), silicon tetrachloride (SiCl4), and tin tetrachloride (SnCl4), which must be separated.
+Applications
+Production of titanium metal
+The world's supply of titanium metal, about 250,000 tons per year, is made from TiCl4. The conversion involves the reduction of the tetrachloride with magnesium metal. This procedure is known as the Kroll process:
+In the Hunter process, liquid sodium is the reducing agent instead of magnesium.
+Production of titanium dioxide
+Around 90% of the TiCl4 production is used to make the pigment titanium dioxide (TiO2). The conversion involves hydrolysis of TiCl4, a process that forms hydrogen chloride:
+In some cases, TiCl4 is oxidised directly with oxygen:
+Smoke screens
+It has been used to produce smoke screens since it produces a heavy, white smoke that has little tendency to rise. "Tickle" was the standard means of producing on-set smoke effects for motion pictures, before being phased out in the 1980s due to concerns about hydrated HCl's effects on the respiratory system.
+Chemical reactions
+Titanium tetrachloride is a versatile reagent that forms diverse derivatives including those illustrated below.
+Alcoholysis and related reactions
+A characteristic reaction of TiCl4 is its easy hydrolysis, signaled by the release of HCl vapors and titanium oxides and oxychlorides. Titanium tetrachloride has been used to create naval smokescreens, as the hydrochloric acid aerosol and titanium dioxide that is formed scatter light very efficiently. This smoke is corrosive, however.
+Alcohols react with TiCl4 to give alkoxides with the formula [Ti(OR)4]n (R = alkyl, n = 1, 2, 4). As indicated by their formula, these alkoxides can adopt complex structures ranging from monomers to tetramers. Such compounds are useful in materials science as well as organic synthesis. A well known derivative is titanium isopropoxide, which is a monomer. Titanium bis(acetylacetonate)dichloride results from treatment of titanium tetrachloride with excess acetylacetone:
+Organic amines react with TiCl4 to give complexes containing amido (R2N−-containing) and imido (RN2−-containing) complexes. With ammonia, titanium nitride is formed. An illustrative reaction is the synthesis of tetrakis(dimethylamido)titanium Ti(N(CH3)2)4, a yellow, benzene-soluble liquid: This molecule is tetrahedral, with planar nitrogen centers.
+Complexes with simple ligands
+TiCl4 is a Lewis acid as implicated by its tendency to hydrolyze. With the ether THF, TiCl4 reacts to give yellow crystals of TiCl4(THF)2. With chloride salts, TiCl4 reacts to form sequentially [Ti2Cl9]−, [Ti2Cl10]2− (see figure above), and [TiCl6]2−. The reaction of chloride ions with TiCl4 depends on the counterion. [N(CH2CH2CH2CH3)4]Cl and TiCl4 gives the pentacoordinate complex [N(CH2CH2CH2CH3)4][TiCl5], whereas smaller [N(CH2CH3)4]+ gives [N(CH2CH3)4]2[Ti2Cl10]. These reactions highlight the influence of electrostatics on the structures of compounds with highly ionic bonding.
+Redox
+Reduction of TiCl4 with aluminium results in one-electron reduction. The trichloride (TiCl3) and tetrachloride have contrasting properties: the trichloride is a colored solid, being a coordination polymer, and is paramagnetic. When the reduction is conducted in THF solution, the Ti(III) product converts to the light-blue adduct TiCl3(THF)3.
+Organometallic chemistry
+The organometallic chemistry of titanium typically starts from TiCl4. An important reaction involves sodium cyclopentadienyl to give titanocene dichloride, TiCl2(C5H5)2. This compound and many of its derivatives are precursors to Ziegler–Natta catalysts. Tebbe's reagent, useful in organic chemistry, is an aluminium-containing derivative of titanocene that arises from the reaction of titanocene dichloride with trimethylaluminium. It is used for the "olefination" reactions.
+Arenes, such as C6(CH3)6 react to give the piano-stool complexes [Ti(C6R6)Cl3]+ (R = H, CH3; see figure above). This reaction illustrates the high Lewis acidity of the TiCl+3 entity, which is generated by abstraction of chloride from TiCl4 by AlCl3.
+Reagent in organic synthesis
+TiCl4 finds occasional use in organic synthesis, capitalizing on its Lewis acidity, its oxophilicity, and the electron-transfer properties of its reduced titanium halides It is used in the Lewis acid catalysed aldol addition Key to this application is the tendency of TiCl4 to activate aldehydes (RCHO) by formation of adducts such as (RCHO)TiCl4OC(H)R.
+Toxicity and safety considerations
+Hazards posed by titanium tetrachloride generally arise from its reaction with water that releases hydrochloric acid, which is severely corrosive itself and whose vapors are also extremely irritating. TiCl4 is a strong Lewis acid, which exothermically forms adducts with even weak bases such as THF and water.
+References
+General reading

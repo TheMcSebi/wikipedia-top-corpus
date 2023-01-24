@@ -1,0 +1,36 @@
+Divisor
+In mathematics, a divisor of an integer $MATH$, also called a factor of $MATH$, is an integer $MATH$ that may be multiplied by some integer to produce $MATH$. In this case, one also says that $MATH$ is a multiple of $MATH$ An integer $MATH$ is divisible or evenly divisible by another integer $MATH$ if $MATH$ is a divisor of $MATH$; this implies dividing $MATH$ by $MATH$ leaves no remainder.
+Definition
+An integer n is divisible by a nonzero integer m if there exists an integer k such that $MATH$. This is written as
+Other ways of saying the same thing are that m divides n, m is a divisor of n, m is a factor of n, and n is a multiple of m. If m does not divide n, then the notation is $MATH$.
+Usually, m is required to be nonzero, but n is allowed to be zero. With this convention, $MATH$ for every nonzero integer m. Some definitions omit the requirement that $MATH$ be nonzero.
+General
+Divisors can be negative as well as positive, although sometimes the term is restricted to positive divisors. For example, there are six divisors of 4; they are 1, 2, 4, −1, −2, and −4, but only the positive ones (1, 2, and 4) would usually be mentioned.
+1 and −1 divide (are divisors of) every integer. Every integer (and its negation) is a divisor of itself. Integers divisible by 2 are called even, and integers not divisible by 2 are called odd.
+1, −1, n and −n are known as the trivial divisors of n. A divisor of n that is not a trivial divisor is known as a non-trivial divisor (or strict divisor). A nonzero integer with at least one non-trivial divisor is known as a composite number, while the units −1 and 1 and prime numbers have no non-trivial divisors.
+There are divisibility rules that allow one to recognize certain divisors of a number from the number's digits.
+Examples
+Further notions and facts
+There are some elementary rules:
+If $MATH$, and $MATH$, then $MATH$. This is called Euclid's lemma.
+If $MATH$ is a prime number and $MATH$ then $MATH$ or $MATH$.
+A positive divisor of $MATH$ which is different from $MATH$ is called a proper divisor or an aliquot part of $MATH$. A number that does not evenly divide $MATH$ but leaves a remainder is sometimes called an aliquant part of $MATH$.
+An integer $MATH$ whose only proper divisor is 1 is called a prime number. Equivalently, a prime number is a positive integer that has exactly two positive factors: 1 and itself.
+Any positive divisor of $MATH$ is a product of prime divisors of $MATH$ raised to some power. This is a consequence of the fundamental theorem of arithmetic.
+A number $MATH$ is said to be perfect if it equals the sum of its proper divisors, deficient if the sum of its proper divisors is less than $MATH$, and abundant if this sum exceeds $MATH$.
+The total number of positive divisors of $MATH$ is a multiplicative function $MATH$, meaning that when two numbers $MATH$ and $MATH$ are relatively prime, then $MATH$. For instance, $MATH$; the eight divisors of 42 are 1, 2, 3, 6, 7, 14, 21 and 42. However, the number of positive divisors is not a totally multiplicative function: if the two numbers $MATH$ and $MATH$ share a common divisor, then it might not be true that $MATH$. The sum of the positive divisors of $MATH$ is another multiplicative function $MATH$ (e.g. $MATH$). Both of these functions are examples of divisor functions.
+
+If the prime factorization of $MATH$ is given by
+then the number of positive divisors of $MATH$ is
+and each of the divisors has the form
+where $MATH$ for each $MATH$
+For every natural $MATH$, $MATH$.
+Also,
+where $MATH$ is Euler–Mascheroni constant.
+One interpretation of this result is that a randomly chosen positive integer n has an average
+number of divisors of about $MATH$. However, this is a result from the contributions of numbers with "abnormally many" divisors.
+In abstract algebra
+Division lattice
+In definitions that include 0, the relation of divisibility turns the set $MATH$ of non-negative integers into a partially ordered set: a complete distributive lattice. The largest element of this lattice is 0 and the smallest is 1. The meet operation ∧ is given by the greatest common divisor and the join operation ∨ by the least common multiple. This lattice is isomorphic to the dual of the lattice of subgroups of the infinite cyclic group $MATH$.
+See also
+Notes

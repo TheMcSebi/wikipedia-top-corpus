@@ -1,0 +1,102 @@
+Malagasy language
+Malagasy (/mæləˈɡæsi/; Malagasy pronunciation: [malaˈɡasʲ]) is an Austronesian language and the national language of Madagascar. Malagasy is the westernmost Malayo-Polynesian language, brought to Madagascar by the settlement of Austronesian peoples from the Sunda islands around the 5th century AD. The Malagasy language is one of the Barito languages and is most closely related to the Ma'anyan language, still spoken on Borneo to this day. Malagasy also includes numerous Malay loanwords, from the time of the early Austronesian settlement and trading between Madagascar and the Sunda Islands. After c. 1000 AD, Malagasy incorporated numerous Bantu and Arabic loanwords, brought over by traders and new settlers.
+Malagasy is spoken by around 25 million people in Madagascar and the Comoros. Most people in Madagascar speak it as a first language, as do some people of Malagasy descent elsewhere. Malagasy is divided between two main dialect groups; Eastern and Western. The central plateau of the island, where the capital Antananarivo and the old heartland of the Merina Kingdom is located, speaks the Merina dialect. The Merina dialect is the basis of Standard Malagasy, which is used by the government and media in Madagascar. Standard Malagasy is one of two official languages of Madagascar alongside French, in the 2010 constitution of the Fourth Republic of Madagascar.
+Malagasy is written in the Latin script introduced by Western missionaries in the early 19th century. Previously, the Sorabe script was used, a local development of the Arabic script.
+Classification
+The Malagasy language is the westernmost member of the Malayo-Polynesian branch of the Austronesian language family, a grouping that includes languages from Indonesia, Malaysia, and the Philippines. In fact, Malagasy's relation with other Austronesian languages had already been noted by early scholars, such as the Dutch scholar Adriaan Reland in 1708.
+Among all Austronesian languages, Dahl (1951) demonstrated that Malagasy and Ma'anyan – an East Barito language spoken in Central Kalimantan, Indonesia on the island of Borneo – were particularly closely related. The language also has apparent influence from early Old Malay. Furthermore, there appears to be a Bantu influence or substratum in Malagasy phonotactics (Dahl 1988).
+Later, Adelaar (1995) suggested that the vocabulary of Malagasy also contains many words that are of South Sulawesi origin. Further evidence for this suggestion was presented by Blench (2018).
+Etymology
+Malagasy is the demonym of Madagascar, from which it is taken to refer to the people of Madagascar in addition to their language.
+History
+Madagascar was first settled by Austronesian peoples from Maritime Southeast Asia from the Sunda Islands (Malay archipelago). As for their route, one possibility is that the Indonesian Austronesian came directly across the Indian Ocean from Java to Madagascar. It is likely that they went through the Maldives, where evidence of old Indonesian boat design and fishing technology persists until the present. The migrations continued along the first millennium, as confirmed by linguistic researchers who showed the close relationship between the Malagasy language and Old Malay and Old Javanese languages of this period. The Malagasy language originates from the Southeast Barito languages, and the Ma'anyan language is its closest relative, with numerous Malay and Javanese loanwords. It is known that Ma'anyan people were brought as labourers and slaves by Malay and Javanese people in their trading fleets, which reached Madagascar by ca. 50–500 AD. Later, c. 1000, the original Austronesian settlers mixed with Bantus and Arabs, amongst others. There is evidence that the predecessors of the Malagasy dialects first arrived in the southern stretch of the east coast of Madagascar.
+Malagasy has a tradition of oratory arts and poetic histories and legends. The most well-known is the national epic, Ibonia, about a Malagasy folk hero of the same name.
+Geographic distribution
+Malagasy is the principal language spoken on the island of Madagascar. It is also spoken by Malagasy communities on neighboring Indian Ocean islands such as Réunion, Mayotte and Mauritius. Expatriate Malagasy communities speaking the language also exist in Europe and North America.
+Legal status
+The Merina dialect of Malagasy is considered the national language of Madagascar. It is one of two official languages alongside French in the 2010 constitution put in place the Fourth Republic. Previously, under the 2007 constitution, Malagasy was one of three official languages alongside French and English. Malagasy is the language of instruction in all public schools through grade five for all subjects, and remains the language of instruction through high school for the subjects of history and Malagasy language.
+Dialects
+There are two principal dialects of Malagasy; Eastern (including Merina) and Western (including Sakalava), with the isogloss running down the spine of the island, the south being western, and the central plateau and much of the north (apart from the very tip) being eastern. Ethnologue encodes 12 variants of Malagasy as distinct languages. They have about a 70% similarity in lexicon with the Merina dialect.
+Eastern Malagasy
+The Eastern dialects are:
+Western Malagasy
+The Western dialects are:
+Additionally, Bushi (41,700 speakers) is spoken on the French overseas territory of Mayotte, which is part of the Comoro island chain situated northwest of Madagascar.
+Region specific variations
+The two main dialects of Malagasy are easily distinguished by several phonological features.
+Sakalava lost final nasal consonants, whereas Merina added a voiceless [ə̥]: 
+Final *t became -[tse] in the one but -[ʈʂə̥] in the other: 
+Sakalava retains ancestral *li and *ti, whereas in Merina these become [di] (as in huditra 'skin' above) and [tsi]:
+However, these last changes started in Borneo before the Malagasy arrived in Madagascar.
+Writing system
+The language has a written literature going back presumably to the 15th century. When the French established Fort-Dauphin in the 17th century, they found an Arabico-Malagasy script in use, known as Sorabe ("large writings"). This Arabic Ajami script was mainly used for astrological and magical texts. The oldest known manuscript in that script is a short Malagasy-Dutch vocabulary from the early 17th century, which was first published in 1908 by Gabriel Ferrand though the script must have been introduced into the southeast area of Madagascar in the 15th century.
+The first bilingual renderings of religious texts are those by Étienne de Flacourt, who also published the first dictionary of the language. Radama I, the first literate representative of the Merina monarchy, though extensively versed in the Arabico-Malagasy tradition, opted in 1823 for a Latin system derived by David Jones and invited the Protestant London Missionary Society to establish schools and churches. The first book to be printed in Malagasy using Latin characters was the Bible, which was translated into Malagasy in 1835 by British Protestant missionaries working in the highlands area of Madagascar.
+The current Malagasy alphabet consists of 21 letters: a, b, d, e, f, g, h, i, j, k, l, m, n, o, p, r, s, t, v, y, z. The orthography maps rather straightforwardly to the phonemic inventory. The letters i and y both represent the /i/ sound (y is used word-finally, and i elsewhere), while o is pronounced /u/. The affricates /ʈʂ/ and /ɖʐ/ are written tr and dr, respectively, while /ts/ and /dz/ are written ts and j. The letter h is often silent. All other letters have essentially their IPA values. The letters c, q, u, w and x are all not used in native Malagasy words.
+Mp and occasionally nt may begin a word, but they are pronounced /p, t/.
+@ is used informally as a short form for amin'ny, which is a preposition followed by the definite form, meaning for instance with the.
+Diacritics
+Diacritics are not obligatory in standard Malagasy, except in the case where its absence leads to an ambiguity: tanàna ("city") must have the diacritic to discriminate itself from tanana ("hand"). They may however be used in the following ways:
+Phonology
+Vowels
+After a stressed syllable, as at the end of most words and in the final two syllables of some, /a, u, i/ are reduced to [ə, ʷ, ʲ]. (/i/ is spelled ⟨y⟩ in such cases, though in monosyllabic words like ny and vy, ⟨y⟩ is pronounced as a full [i].) Final /a/, and sometimes final syllables, are devoiced at the end of an utterance. /e/ and /o/ are never reduced or devoiced. The large number of reduced vowels, and their effect on neighbouring consonants, give Malagasy a phonological quality not unlike that of Portuguese.
+/o/ is marginal in Merina dialect, found in interjections and loan words, though it is also found in place names from other dialectical areas. /ai, au/ are diphthongs [ai̯, au̯] in careful speech, [e, o] or [ɛ, ɔ] in more casual speech. /ai/, whichever way it is pronounced, affects following /k, ɡ/ as /i/ does.
+Consonants
+The alveolars /s ts z dz l/ are slightly palatalized. /ts, dz, s, z/ vary between [ts, dz, s, z] and [tʃ, dʒ, ʃ, ʒ], and are especially likely to be the latter when followed by unstressed /i/: Thus French malgache [malɡaʃ] 'Malagasy'. The velars /k ɡ ᵑk ᵑɡ h/ are palatalized after /i/ (e.g. alika /alikʲa/ 'dog'). /h/ is frequently elided in casual speech.
+The reported postalveolar trilled affricates /ʈʳ ᶯʈʳ ɖʳ ᶯɖʳ/ are sometimes simple stops,  [ʈ ᶯʈ ɖ ᶯɖ], but they often have a rhotic release, [ʈɽ̊˔ ᶯʈɽ̊˔ ɖɽ˔ ᶯɖɽ˔]. It is not clear if they are actually trilled, or are simply non-sibilant affricates [ʈɻ̊˔ ᶯʈɻ̊˔ ɖɻ˔ ᶯɖɻ˔]. However, in another Austronesian language with a claimed trilled affricate, Fijian, trilling occurs but is rare, and the primary distinguishing feature is that it is postalveolar. The Malagasy sounds are frequently transcribed [ʈʂ ᶯʈʂ ɖʐ ᶯɖʐ], and that is the convention used in this article.
+In reduplication, compounding, possessive and verbal constructions, as well as after nasals, fricatives and liquids, 'spirants' become stops, as follows:
+Stress
+Here, stressed syllables are indicated by grave diacritics (à), although these diacritics are normally not used.
+Words are generally accented on the penultimate syllable, unless the word ends in ka, tra and often na, in which case they are stressed on the antepenultimate syllable. Secondary stresses exist in even-numbered syllables from the last stressed syllable, when the word has more than four syllables (fàmantàranàndro [ˌfamˌtarˈnandʐʷ] "watch, clock"). Both affixation and prefixation do not affect stress placement.
+In many dialects, unstressed vowels (except /e/) are devoiced, and in some cases almost completely elided; thus fanòrona is pronounced [fə̥ˈnurnə̥].
+Grammar
+Word order
+Malagasy has a verb–object–subject (VOS) word order:
+Mamaky
+reads
+boky
+book
+ny
+the
+mpianatra
+student
+Mamaky boky ny mpianatra
+reads book the student
+"The student reads the book"
+Nividy
+bought
+ronono
+milk
+ho
+for
+an'ny
+the
+zaza
+child
+ny
+the
+vehivavy
+woman
+Nividy ronono ho an'ny zaza ny vehivavy
+bought milk for the child the woman
+"The woman bought milk for the child"
+Within phrases, Malagasy order is typical of head-initial languages: Malagasy has prepositions rather than postpositions (ho an'ny zaza "for the child"). Determiners precede the noun, while quantifiers, modifying adjective phrases, and relative clauses follow the noun (ny boky "the book(s)", ny boky mena "the red book(s)", ny boky rehetra "all the books", ny boky novakin'ny mpianatra "the book(s) read by the student(s)").
+Somewhat unusually, demonstrative determiners are repeated both before and after the noun ity boky ity "this book" (lit. "this book this").
+Verbs
+Verbs have syntactically three productive "voice" forms according to the thematic role they play in the sentence: the basic "agent focus" forms of the majority of Malagasy verbs, the derived "patient focus" forms used in "passive" constructions, and the derived "goal focus" forms used in constructions with focus on instrumentality. Thus
+all mean "I wash my hands with soap" though focus is determined in each case by the sentence initial verb form and the sentence final (noun) argument: manasa "wash" and aho "I" in (1), sasako "wash" and ny tanako "my hands" in (2), anasako "wash" and ny savony "soap" in (3). There is no equivalent to the English preposition with in (3).
+Verbs inflect for past, present, and future tense, where tense is marked by prefixes (e.g. mividy "buy", nividy "bought", hividy "will buy").
+Nouns and pronouns
+Malagasy has no grammatical gender, and nouns do not inflect for number. However, pronouns and demonstratives have distinct singular and plural forms (cf. io boky io "that book", ireto boky ireto "these books").
+There is a complex series of demonstrative pronouns, depending on the speaker's familiarity and closeness to the referent.
+The following set of pronouns are the pronouns found in Standard Malagasy. Note: the nominative first person singular pronoun is divided between a long and short form; the long form occurs before a verb (focalized or topicalized subjects) and the short form after a verb. The genitive first and second person pronouns are also divided between long and short forms; the long form occurs if the root ends with anything but [na], [ka*] or [tra]; if the stem ends with [na], the long form also occurs but [na] is deleted; and if the stem ends with [ka*] or [tra], the final vowel of the root is deleted and the short form occurs.
+Deixis
+Malagasy has a complex system of deixis (these, those, here, there, etc.), with seven degrees of distance as well as evidentiality across all seven. The evidential dimension is prototypically visible vs. non-visible referents; however, the non-visible forms may be used for visible referents which are only vaguely identified or have unclear boundaries, whereas the visible forms are used for non-visible referents when these are topical to the conversation.
+Notes:
+Vocabulary
+Malagasy shares much of its basic vocabulary with the Ma'anyan language, a language from the region of the Barito River in southern Borneo. The Malagasy language also includes some borrowings from Arabic and Bantu languages (especially the Sabaki branch, from which most notably Swahili derives), and more recently from French and English.
+The following samples are of the Merina dialect or Standard Malagasy, which is spoken in the capital of Madagascar and in the central highlands or "plateau", home of the Merina people. It is generally understood throughout the island.
+Lexicography
+The first dictionary of the language is Étienne de Flacourt's Dictionnaire de la langue de Madagascar published in 1658 though earlier glossaries written in Arabico-Malagasy script exist. A later Vocabulaire Anglais-Malagasy was published in 1729. An 892-page Malagasy–English dictionary was published by James Richardson of the London Missionary Society in 1885, available as a reprint; however, this dictionary includes archaic terminology and definitions. Whereas later works have been of lesser size, several have been updated to reflect the evolution and progress of the language, including a more modern, bilingual frequency dictionary based on a corpus of over 5 million Malagasy words.
+See also
+References
+Sources

@@ -1,0 +1,28 @@
+Minimum-variance unbiased estimator
+In statistics a minimum-variance unbiased estimator (MVUE) or uniformly minimum-variance unbiased estimator (UMVUE) is an unbiased estimator that has lower variance than any other unbiased estimator for all possible values of the parameter.
+For practical statistics problems, it is important to determine the MVUE if one exists, since less-than-optimal procedures would naturally be avoided, other things being equal. This has led to substantial development of statistical theory related to the problem of optimal estimation.
+While combining the constraint of unbiasedness with the desirability metric of least variance leads to good results in most practical settings—making MVUE a natural starting point for a broad range of analyses—a targeted specification may perform better for a given problem; thus, MVUE is not always the best stopping point.
+Definition
+Consider estimation of $MATH$ based on data $MATH$ i.i.d. from some member of a family of densities $MATH$, where $MATH$ is the parameter space. An unbiased estimator $MATH$ of $MATH$ is UMVUE if $MATH$,
+for any other unbiased estimator $MATH$
+If an unbiased estimator of $MATH$ exists, then one can prove there is an essentially unique MVUE. Using the Rao–Blackwell theorem one can also prove that determining the MVUE is simply a matter of finding a complete sufficient statistic for the family $MATH$ and conditioning any unbiased estimator on it.
+Further, by the Lehmann–Scheffé theorem, an unbiased estimator that is a function of a complete, sufficient statistic is the UMVUE estimator.
+Put formally, suppose $MATH$ is unbiased for $MATH$, and that $MATH$ is a complete sufficient statistic for the family of densities. Then
+is the MVUE for $MATH$
+A Bayesian analog is a Bayes estimator, particularly with minimum mean square error (MMSE).
+Estimator selection
+An efficient estimator need not exist, but if it does and if it is unbiased,
+it is the MVUE. Since the mean squared error (MSE) of an estimator δ is
+the MVUE minimizes MSE among unbiased estimators. In some cases biased estimators have lower MSE because they have a smaller variance than does any unbiased estimator; see estimator bias.
+Example
+Consider the data to be a single observation from an absolutely continuous distribution on $MATH$ 
+with density
+and we wish to find the UMVU estimator of
+First we recognize that the density can be written as
+Which is an exponential family with sufficient statistic $MATH$. In fact this is a full rank exponential family, and therefore $MATH$ is complete sufficient. See exponential family 
+for a derivation which shows
+Therefore,
+Here we use Lehmann–Scheffé theorem to get the MVUE
+Clearly $MATH$ is unbiased and $MATH$ is complete sufficient, thus the UMVU estimator is
+This example illustrates that an unbiased function of the complete sufficient statistic will be UMVU, as Lehmann–Scheffé theorem states.
+Other examples

@@ -1,0 +1,43 @@
+Carbonaceous chondrite
+Carbonaceous chondrites or C chondrites are a class of chondritic meteorites comprising at least 8 known groups and many ungrouped meteorites.  They include some of the most primitive known meteorites. The C chondrites represent only a small proportion (4.6%) of meteorite falls.
+Some famous carbonaceous chondrites are: Allende, Murchison, Orgueil, Ivuna, Murray, Tagish Lake, Sutter's Mill and Winchcombe.
+General description
+C chondrites contain a high proportion of carbon (up to 3%), which is in the form of graphite, carbonates and organic compounds, including amino acids.  In addition, they contain water and minerals that have been modified by the influence of water.
+The carbonaceous chondrites were not exposed to higher temperatures, so that they are hardly changed by thermal processes. Some carbonaceous chondrites, such as the Allende meteorite, contain calcium-aluminum-rich inclusions (CAIs). These are compounds that emerged early from the primeval solar nebula, condensed out and represent the oldest minerals formed in the solar system .
+Some primitive carbonaceous chondrites, such as the CM chondrite Murchison, contain presolar minerals, including moissanite (natural silicon carbide) and tiny nanometer-sized diamonds that apparently were not formed in our solar system. These presolar minerals were probably formed during the explosion of a nearby supernova or in the vicinity of a pulsating red giant (more precisely: a so-called AGB star) before they got into the cloud of matter from which our solar system was formed. Such star explosions release pressure waves that can condense clouds of matter in their surroundings, leading to the formation of new ones, stars and solar systems.
+Another carbonaceous chondrite, the Flensburg meteorite (2019), provides evidence of the earliest known occurrence of liquid water in the young solar system to date.
+Composition and classification
+Carbonaceous chondrites are grouped according to distinctive compositions thought to reflect the type of parent body from which they originated. These C chondrite groups are now each named with a standard two-letter CX designation, where C stands for "carbonaceous" (other types of chondrites do not begin with this letter) plus a capital letter in the spot X, which is very often the first letter of the name of a prominent meteorite—often the first to be discovered—in the group. Such meteorites are often named for the place where they fell, thus giving no clue as to the physical nature of the group. Group CH, where H is for "high metal" is so far the only exception. See below for name derivations of each group.
+Several groups of carbonaceous chondrites, notably the CM and CI groups, contain high percentages (3% to 22%) of water, as well as organic compounds. They are composed mainly of silicates, oxides and sulfides, with the minerals olivine and serpentine being characteristic. The presence of volatile organic chemicals and water indicates that they have not undergone significant heating (>200 °C) since they were formed, and their compositions are considered to be close to that of the solar nebula from which the Solar System condensed. Other groups of C chondrites, e.g., CO, CV, and CK chondrites, are relatively poor in volatile compounds, and some of these have experienced significant heating on their parent asteroids.
+CI group
+This group, named after the Ivuna meteorite (Tanzania), have chemical compositions that are close to that measured in the solar photosphere (aside from gaseous elements, and elements such as lithium which are underrepresented in the Sun's photosphere by comparison to their abundance in CI chondrites). In this sense, they are chemically the most primitive known meteorites. 
+CI chondrites typically contain a high proportion of water (up to 22%), and organic matter in the form of amino acids and PAHs. Aqueous alteration promotes a composition of hydrous phyllosilicates, magnetite, and olivine crystals occurring in a black matrix, and a possible lack of chondrules. It is thought they have not been heated above 50 °C (122 °F), indicating that they condensed in the cooler outer portion of the solar nebula.
+Five CI chondrites have been observed to fall: Ivuna, Orgueil, Alais, Tonk, and Revelstoke. Several others have been found by Japanese field parties in Antarctica. In general, the extreme fragility of CI chondrites causes them to be highly susceptible to terrestrial weathering, and they do not survive on Earth's surface for long after they fall.
+CV group
+This group takes its name from Vigarano (Italy). Most of these chondrites belong to the petrologic type 3.
+CV chondrites observed falls:
+CM group
+The group takes its name from Mighei (Ukraine), but the most famous member is the extensively studied Murchison meteorite. Many falls of this type have been observed and CM chondrites are known to contain a rich mix of complex organic compounds such as amino-acids and purine/pyrimidine nucleobases.
+CM chondrite famous falls:
+CR group
+The group takes its name from Renazzo (Italy). The best parent body candidate is 2 Pallas.
+CR chondrites observed falls:
+Other famous CR chondrites:
+CH group
+"H" stands for "high metal" because CH chondrites may contain up to as much as 40% of metal. That makes them one of the most metal-rich of any of the chondrite groups, second only to the CB chondrites and some ungrouped chondrites such as NWA 12273. The first meteorite discovered was ALH 85085. Chemically, these chondrites are closely related to CR and CB groups. All specimens of this group belong only to petrologic types 2 or 3.
+CB group
+The group takes its name from the most representative member: Bencubbin (Australia). Although these chondrites contain over 50% nickel-iron metal, they are not classified as mesosiderites because their mineralogical and chemical properties are strongly associated with CR chondrites.
+CK group
+This group takes its name from Karoonda (Australia). These chondrites are closely related to the CO and CV groups.
+CO group
+The group takes its name from Ornans (France). The chondrule size is only about 0.15 mm on average. They are all of petrologic type 3.
+Famous CO chondrite falls:
+Famous finds:
+CL group
+Officially recognized in 2022 after minimum specimens (five) described. CL chondrites, named after type specimen(s) Loongana, are chondrite-rich, metal-rich, and volatile-poor.
+C ungrouped
+The most famous members:
+Organic matter
+Ehrenfreund et al. (2001) found that amino acids in Ivuna and Orgueil were present at much lower concentrations than in CM chondrites (~30%), and that they had a distinct composition high in β-alanine, glycine, γ-ABA, and β-ABA but low in α-aminoisobutyric acid (AIB) and isovaline. This implies that they had formed by a different synthetic pathway, and on a different parent body from the CM chondrites.
+Most of the organic carbon in CI and CM carbonaceous chondrites is an insoluble complex material.  That is similar to the description for kerogen.  A kerogen-like material is also in the ALH84001 Martian meteorite (an achondrite).
+The CM meteorite Murchison has over 70 extraterrestrial amino acids and other compounds including carboxylic acids, hydroxy carboxylic acids, sulphonic and phosphonic acids, aliphatic, aromatic and polar hydrocarbons, fullerenes, heterocycles, carbonyl compounds, alcohols, amines and amides.

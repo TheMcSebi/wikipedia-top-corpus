@@ -1,0 +1,23 @@
+Anseriformes
+Anseriformes is an order of birds   also known as waterfowl that comprises about 180 living species of birds in three families: Anhimidae (three species of screamers), Anseranatidae (the magpie goose), and Anatidae, the largest family, which includes over 170 species of waterfowl, among them the ducks, geese, and swans. Most modern species in the order are highly adapted for an aquatic existence at the water surface. With the exception of screamers, males have penises, a trait that has been lost in the Neoaves. Due to their aquatic nature, most species are web-footed.
+Evolution
+Anseriformes are one of only two types of modern bird to be confirmed present during the Mesozoic alongside the other dinosaurs, and in fact were among the very few birds to survive their extinction, along with their cousins the galliformes. These two groups only occupied two ecological niches during the Mesozoic, living in water and on the ground, while the toothed enantiornithes were the dominant birds that ruled the trees and air. The asteroid that ended the Mesozoic destroyed all trees as well as animals in the open, a condition that took centuries to recover from. The anseriformes and galliformes are thought to have survived in the cover of burrows and water, and not to have needed trees for food and reproduction.
+The earliest Cretaceous anseriform found so far is Vegavis, a goose-like waterfowl thought to have lived as long as 66 million years ago. Some members apparently surviving the KT extinction event, including presbyornithids, thought to be the common ancestors of ducks, geese, swans, and screamers, the last group once thought to be galliformes, but now genetically confirmed to be closely related to geese. The first known duck fossils start to appear about 34 million years ago.
+Waterfowl are the best-known examples of sexually antagonistic genital coevolution in vertebrates, causing genital adaptations to coevolve in each sex to advance control over mating and fertilization. Sexually antagonistic coevolution (or SAC) occurs as a consequence of sexual conflict between males and females, resulting in coevolutionary process that reduce fit, or that functions to decrease ease of having sex.
+Taxonomy
+The Anseriformes and the Galliformes (pheasants, etc.) belong to a common group, the Galloanserae. They are the most primitive neognathous birds, and as such they should follow the palaeognathae (ratites and tinamous) in bird classification systems. Several unusual extinct families of birds like the albatross-like pseudotooth birds and the giant flightless gastornithids and mihirungs have been found to be stem-anseriforms based on common features found in the skull region, beak physiology and pelvic region. The genus Vegavis for a while was found to be the earliest member of the anseriform crown group but a recent 2017 paper has found it to be just outside the crown group in the family Vegaviidae.
+Below is the general consensus of the phylogeny of anseriforms and their stem relatives.
+
+Systematics
+Anatidae systematics, especially regarding placement of some "odd" genera in the dabbling ducks or shelducks, is not fully resolved. See the Anatidae article for more information, and for alternate taxonomic approaches. Anatidae is traditionally divided into subfamilies Anatinae and Anserinae. The Anatinae consists of tribes Anatini, Aythyini, Mergini and Tadornini. The higher-order classification below follows a phylogenetic analysis performed by Mikko's Phylogeny Archive and John Boyd's website.
+Some fossil anseriform taxa not assignable with certainty to a family are:
+Unassigned Anatidae:
+In addition, a considerable number of mainly Late Cretaceous and Paleogene fossils have been described where it is uncertain whether or not they are anseriforms. This is because almost all orders of aquatic birds living today either originated or underwent a major radiation during that time, making it hard to decide whether some waterbird-like bone belongs into this family or is the product of parallel evolution in a different lineage due to adaptive pressures.
+Phylogeny
+Living Anseriformes based on the work by John Boyd.
+Molecular studies
+Studies of the mitochondrial DNA suggest the existence of four branches – Anseranatidae, Dendrocygninae, Anserinae and Anatinae – with Dendrocygninae being a subfamily within the family Anatidae and Anseranatidae representing an
+independent family. The clade Somaterini has a single genus Somateria.
+See also
+References
+Cited texts

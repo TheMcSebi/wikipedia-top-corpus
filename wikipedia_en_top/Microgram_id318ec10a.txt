@@ -1,0 +1,7 @@
+Microgram
+In the metric system, a microgram or microgramme is a unit of mass equal to one millionth (1×10−6) of a gram. The unit symbol is μg according to the International System of Units (SI); the recommended symbol in the United States and United Kingdom when communicating medical information is mcg.  In μg the prefix symbol for micro- is the Greek letter μ (mu).
+Abbreviation and symbol confusion
+When the Greek lowercase "μ" (mu) in the symbol μg is typographically unavailable, it is occasionally – although not properly – replaced by the Latin lowercase "u". 
+The United States-based Institute for Safe Medication Practices (ISMP) and the U.S. Food and Drug Administration (FDA) recommend that the symbol μg should not be used when communicating medical information due to the risk that the prefix μ (micro-) might be misread as the prefix m (milli-), resulting in a thousandfold overdose. The ISMP recommends the non-SI symbol mcg instead. However, the abbreviation mcg is also the symbol for an obsolete centimetre–gram–second system of units unit of measure known as millicentigram, which is equal to 10 μg.
+Gamma (symbol: γ) is a deprecated non-SI unit of mass equal to 1 μg.
+A fullwidth version of the "microgram" symbol is encoded by Unicode at code point U+338D ㎍ SQUARE MU G for use in CJK contexts. In other contexts, a sequence of the Greek letter mu (U+03BC) and Latin letter g (U+0067) should be used.

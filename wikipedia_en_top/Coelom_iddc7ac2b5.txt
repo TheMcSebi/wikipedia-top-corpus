@@ -1,0 +1,42 @@
+Coelom
+The coelom (or celom) is the main body cavity in most animals and is positioned inside the body to surround and contain the digestive tract and other organs. In some animals, it is lined with mesothelium. In other animals, such as molluscs, it remains undifferentiated. In the past, and for practical purposes, coelom characteristics have been used to classify bilaterian animal phyla into informal groups.
+Etymology
+The term coelom derives from the Ancient Greek word κοιλία (koilía), meaning 'cavity'.
+Structure
+Development
+The coelom is the mesodermally lined cavity between the gut and the outer body wall. 
+During the development of the embryo, coelom formation begins in the gastrulation stage. The developing digestive tube of an embryo forms as a blind pouch called the archenteron.
+In Protostomes, the coelom forms by a process known as schizocoely. The archenteron initially forms, and the mesoderm splits into two layers: the first attaches to the body wall or ectoderm, forming the parietal layer and the second surrounds the endoderm or alimentary canal forming the visceral layer. The space between the parietal layer and the visceral layer is known as the coelom or body cavity.
+In Deuterostomes, the coelom forms by enterocoely. The archenteron wall produces buds of mesoderm, and these mesodermal diverticula hollow to become the coelomic cavities. Deuterostomes are therefore known as enterocoelomates. Examples of deuterostome coelomates belong to three major clades: chordates (vertebrates, tunicates, and lancelets), echinoderms (starfish, sea urchins, sea cucumbers), and hemichordates (acorn worms and graptolites).
+Origins
+The evolutionary origin of the coelom is uncertain. The oldest known animal to have had a body cavity was the Vernanimalcula. Current hypothesis include:
+Functions
+A coelom can absorb shock or provide a hydrostatic skeleton. It can also support an immune system in the form of coelomocytes that may either be attached to the wall of the coelom or may float about in it freely. The coelom allows muscles to grow independently of the body wall — this feature can be seen in the digestive tract of tardigrades (water bears) which is suspended within the body in the mesentery derived from a mesoderm-lined coelom.
+Coelomic fluid
+The fluid inside the coelom is known as coelomic fluid. This is circulated by mesothelial cilia or by contraction of muscles in the body wall which are themselves of mesin. The coelomic fluid serves several functions: it acts as a hydroskeleton; it allows free movement and growth of internal organs; it serves for transport of gases, nutrients and waste products around the body; it allows storage of sperm and eggs during maturation; and it acts as a reservoir for waste.
+Classification in zoology
+In the past, some zoologists grouped bilaterian animal phyla based on characteristics related to the coelom for practical purposes, knowing, and explicitly stating, that these groups were not phylogenetically related. Animals were classified in three informal groups according to the type of body cavity they possess, in a non-taxonomic, utilitarian way, as the Acoelomata, Pseudocoelomata, and Coelomata. These groups were never intended to represent related animals, or a sequence of evolutionary traits.
+However, although this scheme was followed by a number of college textbooks and some general classifications, it is now almost totally abandoned as a formal classification. Indeed, as late as 2010, one author of a molecular phylogeny study mistakenly called this classification scheme the "traditional, morphology-based phylogeny".
+Coelomate animals or Coelomata (also known as eucoelomates – "true coelom") have a body cavity called a coelom with a complete lining called peritoneum derived from mesoderm (one of the three primary tissue layers). The complete mesoderm lining allows organs to be attached to each other so that they can be suspended in a particular order while still being able to move freely within the cavity. Most bilateral animals, including all the vertebrates, are coelomates.
+Pseudocoelomate animals have a pseudocoelom (literally "false cavity"), which is a fluid filled body cavity. Tissue derived from mesoderm partly lines the fluid filled body cavity of these animals. Thus, although organs are held in place loosely, they are not as well organized as in a coelomate. All pseudocoelomates are protostomes; however, not all protostomes are pseudocoelomates. An example of a Pseudocoelomate is the roundworm. Pseudocoelomate animals are also referred to as Blastocoelomate.
+Acoelomate animals, like flatworms, have no body cavity at all. Semi-solid mesodermal tissues between the gut and body wall hold their organs in place.
+Coelomates
+Coeloms developed in triploblasts but were subsequently lost in several lineages. The lack of a coelom is correlated with a reduction in body size. Coelom is sometimes incorrectly used to refer to any developed digestive tract. Some organisms may not possess a coelom or may have a false coelom (pseudocoelom). Animals having coeloms are called coelomates, and those without are called acoelomates. There are also subtypes of coelom:
+Coelomate phyla
+According to Brusca and Brusca, the following bilaterian phyla possess a coelom:
+Pseudocoelomates
+In some protostomes, the embryonic blastocoele persists as a body cavity. These protostomes have a fluid filled main body cavity unlined or partially lined with tissue derived from mesoderm.
+This fluid-filled space surrounding the internal organs serves several functions like distribution of nutrients and removal of waste or supporting the body as a hydrostatic skeleton.
+A pseudocoelomate or blastocoelomate is any invertebrate animal with a three-layered body and a pseudocoel. The coelom was apparently lost or reduced as a result of mutations in certain types of genes that affected early development. Thus, pseudocoelomates evolved from coelomates. "Pseudocoelomate" is no longer considered a valid taxonomic group, since it is not monophyletic. However, it is still used as a descriptive term.
+Important characteristics:
+Pseudocoelomate phyla
+According to Brusca and Brusca, bilaterian pseudocoelomate phyla include:
+Some authors list the following phyla as pseudocoelomates:
+Ecdysozoan pseudocoelomates
+Spiralian pseudocoelomates
+Acoelomates
+Acoelomates lack a fluid-filled body cavity between the body wall and digestive tract. This can cause some serious disadvantages. Fluid compression is negligible, while the tissue surrounding the organs of these animals will compress. Therefore, acoelomate organs are not protected from crushing forces applied to the animal’s outer surface. The coelom can be used for diffusion of gases and metabolites etc. These creatures do not have this need, as the surface area to volume ratio is large enough to allow absorption of nutrients and gas exchange by diffusion alone, due to dorso-ventral flattening.
+According to others, acoelomates include the cnidarians (jellyfish and allies), and the ctenophores (comb jellies), platyhelminthes (flatworms including tapeworms, etc.), Nemertea, and Gastrotricha.
+See also
+References
+Further reading

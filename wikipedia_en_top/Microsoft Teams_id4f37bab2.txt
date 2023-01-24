@@ -1,0 +1,41 @@
+Microsoft Teams
+Microsoft Teams is a proprietary business communication platform developed by Microsoft, as part of the Microsoft 365 family of products. Teams primarily competes with the similar service Slack, offering workspace chat and videoconferencing, file storage, and application integration. Teams replaced other Microsoft-operated business messaging and collaboration platforms, including Skype for Business and Microsoft Classroom. Throughout the COVID-19 pandemic, Teams, and other software such as Zoom and Google Meet, gained much interest as many meetings moved to a virtual environment. As of 2022, it has about 270 million monthly users.
+
+
+History
+Microsoft announced Teams at an event in New York, and launched the service worldwide on March 14, 2017. It was created during an internal hackathon at the company headquarters, and is currently led by Microsoft corporate vice president Brian MacDonald. Microsoft Teams is a web-based desktop app, developed on top of the Electron framework from GitHub which combines the Chromium rendering engine and the Node.js JavaScript platform.
+On August 29, 2007, Microsoft purchased Parlano and its persistent group chat product, MindAlign. On March 4, 2016, Microsoft had considered bidding $8 billion for Slack, but Bill Gates was against the purchase, stating that the firm should instead focus on improving Skype for Business. Qi Lu, EVP of Applications and Services, was leading the push to purchase Slack. After the departure of Lu later that year, Microsoft announced Teams to the public as a direct competitor to Slack on November 2, 2016.
+Slack ran a full-page advertisement in the New York Times acknowledging the competing service. Though Slack is used by 28 companies in the Fortune 100, The Verge wrote executives will question paying for the service if Teams provides a similar function in their company's existing Office 365 subscription at no added cost. ZDNet reported that the companies were not competing for the same audience, as Teams, at the time, did not let members outside the subscription join the platform, and small businesses and freelancers would have been unlikely to switch. Microsoft has since added this functionality. In response to Teams' announcement, Slack deepened in-product integration with Google services.
+On May 3, 2017, Microsoft announced Microsoft Teams would replace Microsoft Classroom in Office 365 Education (formerly known as Office 365 for Education). On July 12, 2018, Microsoft announced a free version of Microsoft Teams, offering most of the platform's communication options for no charge but limiting the number of users and team file storage capacity.
+In January 2019, Microsoft released an update targeting "Firstline Workers" in order to improve the interoperability of Microsoft Teams between different computers for retail workers.
+In September 2019, Microsoft announced that Skype for Business would be phased out in favor of Teams. Hosted Skype for Business Online was discontinued for new Office 365 customers that same month and was discontinued entirely on July 31, 2021.
+On November 19, 2019, Microsoft announced Microsoft Teams reached 20 million active users. This was an increase from 13 million in July of that year. It announced a "Walkie Talkie" feature in early 2020 that uses push-to-talk on smartphones and tablets over Wi-Fi or cellular data. The feature was designed for employees who speak with customers or run day-to-day operations. On March 19, 2020, Microsoft announced Microsoft Teams had hit 44 million daily users, in part due to the COVID-19 pandemic. Microsoft reported that by April 2020, Microsoft Teams had hit 75 million daily users. On a single day in April, it logged 4.1 billion meeting minutes.
+On June 22, 2020, Microsoft announced that its acquired video game live streaming service Mixer would shut down in July of that year and that its staff would be transferred to the Microsoft Teams division.
+Features
+Chats
+Teams allows users to communicate in two-way persistent chats with one or multiple participants. Participants can message using text, emojis, stickers and gifs as well as sharing links and files. Messages can be marked as urgent or important. In August 2022, the chat feature was updated for "chat with yourself"; allowing for the organization of files, notes, comments, images, and videos within a private chat tab.
+Teams
+Teams allows communities, groups, or teams to contribute in a shared workspace where messages and digital content on a specific topic are shared. Team members can join through invitation sent by a team administrator or owner or sharing of a specific URL. Teams for Education allows admins and teachers to set up groups for classes, professional learning communities (PLCs), staff members, and everyone.
+Channels
+Channels allow team members to communicate without the use of email or group SMS (texting). Users can reply to posts with text, images, GIFs, and image macros. Direct messages send private messages to designated users rather than the entire channel. Connectors can be used within a channel to submit information contacted through a third-party service. Connectors include MailChimp, Facebook Pages, Twitter, PowerBI and Bing News.
+Group conversations
+Ad-hoc groups can be created to share instant messaging, audio calls (VoIP), and video calls inside the client software.
+Telephone replacement
+A feature available on one of the higher cost licencing tiers allows connectivity to the public switched telephone network (PSTN) telephone system.  This allows users to use Teams as if it were a telephone, making and receiving calls over the PSTN, including the ability to host 'conference calls' with multiple participants.
+Meeting
+Meetings can be scheduled with multiple participants able to share audio, video, chat and presented content with all participants. This supports thousands of users that can connect via a meeting link.
+Automated minutes are available using the recording and transcript features. Teams has a plugin for Microsoft Outlook to schedule a Teams Meeting in Outlook for a specific date and time and invite others to attend. If a meeting is scheduled within a channel users visiting the channel are able to see if a meeting is in progress.
+Teams Live Events
+Teams Live Events replaces Skype Meeting Broadcast for users to broadcast to 10,000 participants on Teams, Yammer, or Microsoft Stream.
+Breakout Rooms
+Breakout rooms split a meeting into small groups.
+Front Row
+Front Row adjusts the layout of the viewer's screen, placing the speaker or content in the center of the gallery with other meeting participant's video feeds reduced in size and located below the speaker.
+Education
+Microsoft Teams for Education allows teachers to distribute, provide feedback, and grade student assignments turned in via Teams using the Assignments tab through Office 365 for Education subscribers. Quizzes can also be assigned to students through an integration with Office Forms.
+Protocols
+Microsoft Teams is based on a number of Microsoft-specific protocols. Video conferences are realized over the protocol MNP24, known from the Skype consumer version. VoIP and video conference clients based on SIP and H.323 need special gateways to connect to Microsoft Teams servers. With the help of Interactive Connectivity Establishment (ICE), clients behind Network address translation routers and restrictive firewalls are also able to connect, if peer-to-peer is not possible.
+Integrations
+Microsoft Teams has integrations through Microsoft AppSource, its integration marketplace. In 2020, Microsoft partnered with KUDO, a cloud-based solution offering language interpretation, to offer integrated language meeting controls. In June 2022, an update was released using AI to improve call audio through the elimination of background feedback loops and canceling non-vocal audio.
+Operator Connect
+In 2021, Microsoft and BT announce partnership to shape the future of voice calling. 

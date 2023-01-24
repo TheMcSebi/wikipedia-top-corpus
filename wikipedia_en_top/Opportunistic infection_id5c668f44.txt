@@ -1,0 +1,24 @@
+Opportunistic infection
+An opportunistic infection is an infection caused by pathogens (bacteria, fungi, parasites or viruses) that take advantage of an opportunity not normally available. These opportunities can stem from a variety of sources, such as a weakened immune system (as can occur in acquired immunodeficiency syndrome or when being treated with immunosuppressive drugs, as in cancer treatment), an altered microbiome (such as a disruption in gut microbiota), or breached integumentary barriers (as in penetrating trauma). Many of these pathogens do not necessarily cause disease in a healthy host that has a non-compromised immune system, and can, in some cases, act as commensals until the balance of the immune system is disrupted. Opportunistic infections can also be attributed to pathogens which cause mild illness in healthy individuals but lead to more serious illness when given the opportunity to take advantage of an immunocompromised host.
+Types of opportunistic infections
+A wide variety of pathogens are involved in opportunistic infection and can cause a similarly wide range in pathologies. A partial list of opportunistic pathogens and their associated presentations includes:
+Bacteria
+Fungi
+Parasites
+Viruses
+Causes
+Immunodeficiency or immunosuppression are characterized by the absence of or disruption in components of the immune system, leading to lower-than-normal levels of immune function and immunity against pathogens. They can be caused by a variety of factors, including:
+The lack of or the disruption of normal vaginal microbiota allows the proliferation of opportunistic microorganisms and will cause the opportunistic infection bacterial vaginosis.
+Opportunistic Infection and HIV/AIDS
+HIV is a virus that targets T cells of the immune system and, as a result, HIV infection can lead to progressively worsening immunodeficiency, a condition ideal for the development of opportunistic infection. Because of this, respiratory and central nervous system opportunistic infections, including tuberculosis and meningitis, respectively, are associated with later-stage HIV infection, as are numerous other infectious pathologies. Kaposi’s sarcoma, a virally-associated cancer, has higher incidence rates in HIV-positive patients than in the general population. As immune function declines and HIV-infection progresses to AIDS, individuals are at an increased risk of opportunistic infections that their immune systems are no longer capable of responding properly to. Because of this, opportunistic infections are a leading cause of HIV/AIDS-related deaths.
+Prevention
+Since opportunistic infections can cause severe disease, much emphasis is placed on measures to prevent infection. Such a strategy usually includes restoration of the immune system as soon as possible, avoiding exposures to infectious agents, and using antimicrobial medications ("prophylactic medications") directed against specific infections.
+Restoration of immune system
+Avoidance of infectious exposure
+The following may be avoided as a preventative measure to reduce risk of infection:
+Prophylactic medications
+Individuals at higher risk are often prescribed prophylactic medication to prevent an infection from occurring.  A patient's risk level for developing an opportunistic infection is approximated using the patient's CD4 T-cell count and sometimes other markers of susceptibility.  Common prophylaxis treatments include the following:
+Treatment
+Treatment depends on the type of opportunistic infection, but usually involves different antibiotics.
+Veterinary treatment
+Opportunistic infections caused by feline leukemia virus and feline immunodeficiency virus retroviral infections can be treated with lymphocyte T-cell immunomodulator.

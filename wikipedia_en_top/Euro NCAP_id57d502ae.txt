@@ -1,0 +1,69 @@
+Euro NCAP
+The European New Car Assessment Programme (Euro NCAP) is a European voluntary car safety performance assessment programme (i.e. a New Car Assessment Program) based in Leuven (Belgium) formed in 1996, with the first results released in February 1997. It was originally started by the Transport Research Laboratory for the UK Department for Transport, but later backed by several European governments, as well as by the European Union. Their slogan is "For Safer Cars".
+History and activities
+Euro NCAP is a voluntary vehicle safety rating system created by the Swedish Road Administration, the Fédération Internationale de l'Automobile and International Consumer Research & Testing, backed by 14 members, and motoring & consumer organisations in several EU countries. They provide European consumers with information regarding the safety of passenger vehicles. In 1998, operations moved from London to Brussels.
+It was supported by people like Max Mosley.
+The programme is modelled after the New Car Assessment Program, introduced  1979 by the US National Highway Traffic Safety Administration.
+Other areas with similar (but not identical) programmes include Australia and New Zealand with ANCAP, Latin America with Latin NCAP and China with C-NCAP.
+They publish safety reports on new cars, and awards 'star ratings' based on the performance of the vehicles in a variety of crash tests, including front, side and pole impacts, and impacts with pedestrians.
+Testing is not mandatory, with vehicle models either being independently chosen by Euro NCAP or sponsored by the manufacturers. In Europe, new cars are certified as legal for sale under the Whole Vehicle Type Approval regimen that differs from Euro NCAP. According to Euro NCAP, "The frontal and side impact crash tests used by Euro NCAP are based on those used in European legislation. However, much higher performance requirements are used by Euro NCAP. Euro NCAP also states that "Legislation sets a minimum compulsory standard whilst Euro NCAP is concerned with best possible current practice. Progress with vehicle safety legislation can be slow, particularly as all EU Member States’ views have to be taken into account. Also, once in place, legislation provides no further incentive to improve, whereas Euro NCAP provides a continuing incentive by regularly enhancing its assessment procedures to stimulate further improvements in vehicle safety."
+Before Euro NCAP was introduced car buyers had little information if one car was safer than the other; in fact the UK at the time required only a 48 km/h (30 mph) frontal crash test. The first ratings of a group of best selling vehicles were released in 1997, since then Euro NCAP has tested more than 1,800 new cars, published over 600 ratings and has helped save upwards of 78,000 lives in Europe and encouraged manufacturers to build safer cars.  The result of Euro NCAP is that over the years, European automakers' cars have become much safer. Test results are commonly presented by motor press, and in turn, greatly influence consumer demand for a vehicle. One notable example of this is the Rover 100 (an update of a 1980 design, first marketed as an Austin ), which after receiving a one-star Adult Occupant Rating in the tests in 1997, suffered from poor sales and was withdrawn from production soon afterwards: it was the 'What Car' car of the year, for 1980. BMW's 2007 MINI, for example, had its bonnet and headlamp fixture changed to meet the latest pedestrian safety requirements. In 2017, to celebrate Euro NCAP's 20th anniversary, they tested a 1997 Rover 100 and 2017 Honda Jazz under the same frontal offset conditions to demonstrate how far safety has come in Europe.
+2020 test procedures
+A full test can take up to 6 weeks:
+Mobile progressive deformable barrier
+The test car is propelled at 50 km/h (31 mph) into a moving deformable barrier mounted on an oncoming 1400 kg trolley, also travelling at 50 km/h at a 50% overlap. This represents hitting a mid-size family car. Two adult male dummies are seated in the front (a THOR-50M driver and a Hybrid-III 50M passenger) and two child dummies (a 6 year old and a 10 year old) are placed in the back. The aim is to assess the crumple zones and the compatibility of the test car.
+Full width rigid barrier
+The test car is driven into a rigid barrier with full overlap at a speed of 50 km/h (31 mph). A small 5th Percentile dummy is seated in the driving position and in the rear seat. The aim is to test the car's restraint system, such as airbags and seat belts.
+Mobile side impact barrier
+A deformable barrier is mounted on a trolley and is driven at 60 km/h (37 mph) into the side of the stationary test vehicle at a right angle. This is meant to represent another vehicle colliding with the side of a car.
+Side pole
+The car is propelled sideways at 32 km/h (20 mph) against a rigid, narrow pole at a small angle away from perpendicular to simulate a vehicle travelling sideways into roadside objects such as a tree or pole.
+Far side impact
+The body in white (frame) of the vehicle is attached to a sled is propelled sideways to provide accelerations experienced by the vehicle in the side and pole tests, but on the far side of the vehicle. The far side testing was implemented in 2020 to help combat far side injuries (where the driver is struck from the opposite side).  The ‘excursion’ of the dummy - the extent to which the dummy moves towards the impacted side of the vehicle - is measured.
+If the vehicle is equipped with centre airbags then a co-driver (front passenger) is added in either the mobile side impact or the pole test to evaluate its effectiveness.
+Whiplash
+The vehicle seat is propelled forwards rapidly at both 16 and 24 km/h (9.9 and 14.9 mph) to test the seat and head restraint's capabilities to protect the head and neck against whiplash during a rear impact.
+Vulnerable road users (pedestrians & cyclists)
+Head Impact
+Upper Leg Impact
+Lower Leg Impact
+AEB Pedestrian
+AEB Cyclist
+Safety Assist
+AEB car-to-car
+Occupant status monitoring
+Speed assistance
+Lane Support
+Rescue and extrication
+How easy it is for first responders to extricate the occupant and how well eCall performs after a collision.
+Ratings
+Euro NCAP's ratings consist of percentage scores for Adult Occupant, Child Occupant, Vulnerable Road Users and Safety Assist and are delivered in the overall rating of stars, 5 being the best and 0 being the worst.
+5 star safety: Overall excellent performance in crash protection and well equipped with comprehensive and robust crash avoidance technology
+4 star safety: Overall good performance in crash protection and all round; additional crash avoidance technology may be present
+3 star safety: At least average occupant protection but not always equipped with the latest crash avoidance features
+2 star safety: Nominal crash protection but lacking crash avoidance technology
+1 star safety: Marginal crash protection and little in the way of crash avoidance technology
+0 star safety: Meeting type-approval standards so can legally be sold but lacking critical modern safety technology
+Some cars have dual ratings as the lower is for the vehicle with standard equipment, while the higher is for the vehicle when equipped with certain options, often in the form of a safety pack.
+NCAP ratings are valid for a region. Some cars have less standard equipment as imported by other countries.
+Euro NCAP Advanced
+Euro NCAP Advanced is a reward system launched in 2010 for advanced safety technologies, complementing Euro NCAP's existing star rating scheme. Euro NCAP rewards and recognises car manufacturers that make available new safety technologies which demonstrate a scientifically proven safety benefit for consumers and society, but are not yet considered in the star rating By rewarding technologies, Euro NCAP provides an incentive to manufacturers to accelerate the standard fitment of important safety equipment across their model ranges.
+Rating history
+1997 - first crash tests of offset deformable barrier test and side impact
+2003 - New child protection rating
+2008 - Whiplash tests introduced
+2010 - Euro NCAP Advance Award introduced
+2011 - ESC included in vehicle rating
+2014 - AEB included into the rating
+2015
+2016
+2018 - AEB included cyclists
+2020
+Comparison groups
+The results are grouped into 11 increasingly demanding classes:
+Quadricycle Ratings
+There is a different quadricycle rating for four-wheeled micro cars.
+Members and test facilities
+There are many members and test facilities throughout Europe.
+Members
+Testing facilities

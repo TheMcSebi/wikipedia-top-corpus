@@ -1,0 +1,19 @@
+Terrain
+Terrain or relief (also topographical relief) involves the vertical and horizontal dimensions of land surface. The term bathymetry is used to describe underwater relief, while hypsometry studies terrain relative to sea level. The Latin word terra (the root of terrain) means "earth."
+In physical geography, terrain is the lay of the land. This is usually expressed in terms of the elevation, slope, and orientation of terrain features. Terrain affects surface water flow and distribution. Over a large area, it can affect weather and climate patterns.
+Importance
+The understanding of terrain is critical for many reasons: 
+Relief
+Relief (or local relief) refers specifically to the quantitative measurement of vertical elevation change in a landscape. It is the difference between maximum and minimum elevations within a given area, usually of limited extent. A relief can be described qualitatively, such as a "low relief" or "high relief" plain or upland. The relief of a landscape can change with the size of the area over which it is measured, making the definition of the scale over which it is measured very important. Because it is related to the slope of surfaces within the area of interest and to the gradient of any streams present, the relief of a landscape is a useful metric in the study of the Earth's surface. Relief energy, which may be defined inter alia as "the maximum height range in a regular grid", is essentially an indication of the ruggedness or relative height of the terrain.
+Geomorphology
+Geomorphology is in large part the study of the formation of terrain or topography. Terrain is formed by concurrent processes operating on the underlying geological structures over geological time:
+Tectonic processes such as orogenies and uplifts cause land to be elevated, whereas erosional and weathering processes wear the land away by smoothing and reducing topographic features. The relationship of erosion and tectonics rarely (if ever) reaches equilibrium. These processes are also codependent, however the full range of their interactions is still a topic of debate.
+Land surface parameters are quantitative measures of various morphometric properties of a surface. The most common examples are used to derive slope or aspect of a terrain or curvatures at each location. These measures can also be used to derive hydrological parameters that reflect flow/erosion processes. Climatic parameters are based on the modelling of solar radiation or air flow.
+Land surface objects, or landforms, are definite physical objects (lines, points, areas) that differ from the surrounding objects. The most typical examples airlines of watersheds, stream patterns, ridges, break-lines, pools or borders of specific landforms.
+Digital terrain model
+A digital elevation model (DEM) or digital surface model (DSM) is a 3D computer graphics representation of elevation data to represent terrain or overlaying objects, commonly of a planet, moon, or asteroid. A "global DEM" refers to a  discrete global grid. DEMs are used often in geographic information systems (GIS), and are the most common basis for digitally produced relief maps. 
+A digital terrain model (DTM) represents specifically the ground surface while DEM and DSM may represent tree top canopy or building roofs.
+See also
+References
+Bibliography
+Further reading

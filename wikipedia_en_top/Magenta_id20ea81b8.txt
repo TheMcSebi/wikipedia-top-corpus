@@ -1,0 +1,49 @@
+Magenta
+Magenta (/məˈdʒɛntə/) is a color that is variously defined as pinkish-purplish-red, reddish-purplish-pink or mauvish-crimson. On color wheels of the RGB (additive) and CMY (subtractive) color models, it is located exactly midway between red and blue. It is one of the four colors of ink used in color printing by an inkjet printer, along with yellow, black, and cyan, to make all other colors. The tone of magenta used in printing is called "printer's magenta". It is also a shade of purple.
+Magenta took its name from an aniline dye made and patented in 1859 by the French chemist François-Emmanuel Verguin, who originally called it fuchsine. It was renamed to celebrate the Italian-French victory at the Battle of Magenta fought between the French and Austrians on 4 June 1859 near the Italian town of Magenta in Lombardy. A virtually identical color, called roseine, was created in 1860 by two British chemists, Chambers Nicolson and George Maule.
+The web color magenta is also called fuchsia.
+In optics and color science
+Magenta is an extra-spectral color, meaning that it is not a hue associated with monochromatic visible light. Magenta is associated with perception of spectral power distributions concentrated mostly in two bands: longer wavelength reddish components and shorter wavelength blueish components.
+In the RGB color system, used to create all the colors on a television or computer display, magenta is a secondary color, made by combining equal amounts of red and blue light at a high intensity. In this system, magenta is the complementary color of green, and combining green and magenta light on a black screen will create white.
+In the CMYK color model, used in color printing, it is one of the three primary colors, along with cyan and yellow, used to print all the rest of the colors. If magenta, cyan, and yellow are printed on top of each other on a page, they make black. In this model, magenta is the complementary color of green, and these two colors have the highest contrast and the greatest harmony. If combined, green and magenta ink will look dark gray or black. The magenta used in color printing, sometimes called process magenta, is a darker shade than the color used on computer screens.
+In terms of physiology, the color is stimulated in the brain when the eye reports input from short wave blue cone cells along with a sub-sensitivity of the long wave cones which respond secondarily to that same deep blue color, but with little or no input from the middle wave cones.  The brain interprets that combination as some hue of magenta or purple, depending on the relative strengths of the cone responses.
+In the Munsell color system, magenta is called red-purple.
+If the spectrum is wrapped to form a color wheel, magenta (additive secondary) appears midway between red and violet. Violet and red, the two components of magenta, are at opposite ends of the visible spectrum and have very different wavelengths. The additive secondary color magenta is made by combining violet and red light at equal intensity; it is not present in the spectrum itself.
+Fuchsia and magenta
+The web colors fuchsia and magenta are identical, made by mixing the same proportions of blue and red light. In design and printing, there is more variation. The French version of fuchsia in the RGB color model and in printing contains a higher proportion of red than the American version of fuchsia.
+History
+Fuchsine and magenta dye (1859)
+The color magenta was the result of the industrial chemistry revolution of the mid-nineteenth century, which began with the invention by William Perkin of mauveine in 1856, which was the first synthetic aniline dye. The enormous commercial success of the dye and the new color it produced, mauve, inspired other chemists in Europe to develop new colors made from aniline dyes.
+In France, François-Emmanuel Verguin, the director of the chemical factory of Louis Rafard near Lyon, tried many different formulae before finally in late 1858 or early 1859, mixing aniline with carbon tetrachloride, producing a reddish-purple dye which he called "fuchsine", after the color of the flower of the fuchsia plant. He quit the Rafard factory and took his color to a firm of paint manufacturers, Francisque and Joseph Renard, who began to manufacture the dye in 1859.
+In the same year, two British chemists, Chambers Nicolson and George Maule, working at the laboratory of the paint manufacturer George Simpson, located in Walworth, south of London, made another aniline dye with a similar red-purple color, which they began to manufacture in 1860 under the name "roseine". In 1860 they changed the name of the color to "magenta", in honor of the Battle of Magenta fought by the armies of France and Sardinia against Austrians at Magenta, Lombardy the year before, and the new color became a commercial success.
+Starting in 1935 the family of quinacridone dyes was developed. These have colors ranging from red to violet, so nowadays a quinacridone dye is often used for magenta. Various tones of magenta—light, bright, brilliant, vivid, rich, or deep—may be formulated by adding varying amounts of white to quinacridone artist's paints.
+Another dye used for magenta is Lithol Rubine BK. One of its uses is as a food coloring.
+Process magenta (pigment magenta; printer's magenta) (1890s)
+In color printing, the color called process magenta, pigment magenta, or printer's magenta is one of the three primary pigment colors which, along with yellow and cyan, constitute the three subtractive primary colors of pigment. (The secondary colors of pigment are blue, green, and red.) As such, the hue magenta is the complement of green: magenta pigments absorb green light; thus magenta and green are opposite colors.
+The CMYK printing process was invented in the 1890s, when newspapers began to publish color comic strips.
+Process magenta is not an RGB color, and there is no fixed conversion from CMYK primaries to RGB. Different formulations are used for printer's ink, so there may be variations in the printed color that is pure magenta ink.
+Web colors magenta and fuchsia
+The web color magenta is one of the three secondary colors in the RGB color model.
+On the RGB color wheel, magenta is the color between rose and violet, and halfway between red and blue.
+This color is called magenta in X11 and fuchsia in HTML. In the RGB color model, it is created by combining equal intensities of red and blue light. The two web colors magenta and fuchsia are exactly the same color. Sometimes the web color magenta is called electric magenta or electronic magenta.
+While the magenta used in printing and the web color have the same name, they have important differences. Process magenta (the color used for magenta printing ink—also called printer's or pigment magenta) is much less vivid than the color magenta achievable on a computer screen. CMYK printing technology cannot accurately reproduce on paper the color on the computer screen. When the web color magenta is reproduced on paper, it is called fuchsia and it is physically impossible for it to appear on paper as vivid as on a computer screen.
+Colored pencils and crayons called "magenta" are usually colored the color of process magenta (printer's magenta).
+In science and culture
+In art
+In literature
+In film
+In astronomy
+In botany
+Magenta is a common color for flowers, particularly in the tropics and sub-tropics. Because magenta is the complementary color of green, magenta flowers have the highest contrast with the green foliage, and therefore are more visible to the animals needed for their pollination.
+In business
+The German telecommunications company Deutsche Telekom uses a magenta logo.  It has sought to prevent use of any similar color by other businesses, even those in unrelated fields, such as the insurance company Lemonade.
+In public transport
+Magenta was the English name of Tokyo's Oedo subway line color. It was later changed to ruby.
+It is also the color of the Metropolitan line of the London Underground.
+In transportation
+In aircraft autopilot systems, the path that pilot or plane should follow to its destination is usually indicated in cockpit displays using the color magenta.
+In numismatics
+The Reserve Bank of India (RBI) issued a Magenta colored banknote of ₹2000 denomination on 8 November 2016 under Mahatma Gandhi New Series. This is the highest currency note printed by RBI that is in active circulation in India.
+In vexillology and heraldry
+Magenta is an extremely rare color to find on heraldic flags and coats of arms, since its adoption dates back to relatively recent times. However, there are some examples of its use:
+In politics

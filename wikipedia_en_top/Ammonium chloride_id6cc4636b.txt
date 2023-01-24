@@ -1,0 +1,42 @@
+Ammonium chloride
+
+
+Ammonium chloride is an inorganic compound with the formula NH4Cl and a white crystalline salt that is highly soluble in water. Solutions of ammonium chloride are mildly acidic. In its naturally occurring mineralogic form, it is known as sal ammoniac. The mineral is commonly formed on burning coal dumps from condensation of coal-derived gases. It is also found around some types of volcanic vents. It is mainly used as fertilizer and a flavouring agent in some types of liquorice. It is the product from the reaction of hydrochloric acid and ammonia.
+Production
+It is a product of the Solvay process used to produce sodium carbonate:
+Not only is that method the principal one for the manufacture of ammonium chloride, but also it is used to minimize ammonia release in some industrial operations.
+Ammonium chloride is prepared commercially by combining ammonia (NH3) with either hydrogen chloride (gas) or hydrochloric acid (water solution):
+Ammonium chloride occurs naturally in volcanic regions, forming on volcanic rocks near fume-releasing vents (fumaroles). The crystals deposit directly from the gaseous state and tend to be short-lived, as they dissolve easily in water.
+Reactions
+Ammonium chloride appears to sublime upon heating but actually reversibly decomposes into ammonia and hydrogen chloride gas:
+Ammonium chloride reacts with a strong base, like sodium hydroxide, to release ammonia gas:
+Similarly, ammonium chloride also reacts with alkali-metal carbonates at elevated temperatures, giving ammonia and alkali-metal chloride:
+A solution of 5% by mass of ammonium chloride in water has a pH in the range 4.6 to 6.0.
+Some of ammonium chloride's reactions with other chemicals are endothermic, like its reaction with barium hydroxide and its dissolving in water.
+Applications
+The dominant application of ammonium chloride is as a nitrogen source in fertilizers (corresponding to 90% of the world production of ammonium chloride) such as chloroammonium phosphate. The main crops fertilized this way are rice and wheat in Asia.
+Ammonium chloride was used in pyrotechnics in the 18th century but was superseded by safer and less hygroscopic chemicals. Its purpose was to provide a chlorine donor to enhance the green and blue colours from copper ions in the flame.
+It had a secondary use to provide white smoke, but its ready double decomposition reaction with potassium chlorate producing the highly unstable ammonium chlorate made its use very dangerous.
+Metalwork
+Ammonium chloride is used as a flux in preparing metals to be tin coated, galvanized or soldered. It works as a flux by cleaning the surface of workpieces by reacting with the metal oxides at the surface to form a volatile metal chloride. For that purpose, it is sold in blocks at hardware stores for use in cleaning the tip of a soldering iron, and it can also be included in solder as flux.
+Medicine
+Ammonium chloride is used as an expectorant in cough medicine. Its expectorant action is caused by irritative action on the bronchial mucosa, which causes the production of excess respiratory tract fluid, which presumably is easier to cough up. Ammonium salts are an irritant to the gastric mucosa and may induce nausea and vomiting.
+Ammonium chloride is used as a systemic acidifying agent in treatment of severe metabolic alkalosis, in oral acid loading test to diagnose distal renal tubular acidosis, to maintain the urine at an acid pH in the treatment of some urinary-tract disorders.
+Food
+Ammonium chloride, under the name sal ammoniac or salmiak is used as food additive under the E number E510, working as a yeast nutrient in breadmaking and as an acidifier. It is a feed supplement for cattle and an ingredient in nutritive media for yeasts and many microorganisms.
+Ammonium chloride is used to spice up dark sweets called salty liquorice (popular in the Nordic countries, Benelux and northern Germany), in baking to give cookies a very crisp texture, and in the liquor Salmiakki Koskenkorva for flavouring. In Iran, Tajikistan, India, Pakistan and Arab countries it is called "Noshader" and is used to improve the crispness of snacks such as samosas and jalebi.
+In the laboratory
+Ammonium chloride has been used historically to produce low temperatures in cooling baths.
+Ammonium chloride solutions with ammonia are used as buffer solutions including ACK (Ammonium-Chloride-Potassium) lysis buffer.
+In paleontology, ammonium chloride vapor is deposited on fossils, where the substance forms a brilliant white, easily removed and fairly harmless and inert layer of tiny crystals. That covers up any coloration the fossil may have, and if lighted at an angle highly enhances contrast in photographic documentation of three-dimensional specimens. The same technique is applied in archaeology to eliminate reflection on glass and similar specimens for photography.
+In organic synthesis saturated NH4Cl solution is typically used to quench reaction mixtures.
+Flotation
+Giant squid and some other large squid species maintain neutral buoyancy in seawater through an ammonium chloride solution which is found throughout their bodies and is less dense than seawater. This differs from the method of flotation used by most fish, which involves a gas-filled swim bladder.
+Batteries
+Around the turn of the 20th century, ammonium chloride was used in aqueous solution as the electrolyte in Leclanché cells that found a commercial use as the "local battery" in subscribers' telephone installations. Those cells later evolved into zinc–carbon batteries still using ammonium chloride as electrolyte.
+Other applications
+Ammonium chloride is used in a ~5% aqueous solution to work on oil wells with clay swelling problems. Other uses include in hair shampoo, in the glue that bonds plywood, and in cleaning products. In hair shampoo, it is used as a thickening agent in ammonium-based surfactant systems such as ammonium lauryl sulfate. Ammonium chloride is used in the textile and leather industry, in dyeing, tanning, textile printing and cotton clustering. In woodworking, a solution of ammonium chloride and water, when applied to unfinished wood, will burn when subjected to a heat gun resulting in a branding iron mark without use of a branding iron. The solution can be painted onto the wood or applied with a common rubber stamp.
+Ammonium chloride can also be used in the process of making albumen silver prints.
+History
+The earliest mention of ammonium chloride was in 554 A.D. in China.  At that time, ammonium chloride came from two sources:  (1) the vents of underground coal fires in Central Asia, specifically, in the Tian Shan mountains (which extend from Xinjiang province of northwestern China through Kyrgyzstan) as well as in the Alay (or Alai) mountains of southwestern Kyrgyzstan, and (2) the fumaroles of the volcano Mount Taftan in southeastern Iran.  (Indeed, the word for ammonium chloride in several Asian languages derives from the Iranian phrase anosh adur (immortal fire), a reference to the underground fires.)  Ammonium chloride was then transported along the Silk Road eastwards to China and westwards to the Muslim lands and Europe.
+Around 800 A.D. the Arabs of Egypt discovered ammonium chloride in the soot that resulted from burning camel dung, and this source became an alternative to those in Central Asia.

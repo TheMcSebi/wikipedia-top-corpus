@@ -1,0 +1,25 @@
+UTC+01:00
+UTC+01:00 is an identifier for a time offset from UTC of +01:00. In ISO 8601, the associated time would be written as 2019-02-07T23:28:34+01:00. This time is used in:
+Central European Time (Northern Hemisphere winter)
+Principal cities: Berlin, Frankfurt, Munich, Rome, Milan, Paris, Madrid, Barcelona, Warsaw, Prague, Zagreb, Budapest, Brussels, Amsterdam, Vienna, Luxembourg City, Copenhagen, Stockholm, Oslo, Bern, Zurich,  Tirana, Sarajevo, Pristina, Valletta, Monte Carlo, Podgorica, Skopje, San Marino, Dogana, Belgrade, Bratislava, Ljubljana, Vatican City, Monaco, Monaco-Ville, Westside
+Central Europe
+Antarctica
+Western European Summer Time (Northern Hemisphere summer)
+Principal cities: London, Glasgow, Belfast, Cardiff, Dublin, Lisbon, Porto
+Western Europe
+Atlantic Ocean
+As standard time (year-round)
+Principal cities: Lagos, Kinshasa, Algiers, Tunis, Rabat, Casablanca, Yaoundé, Douala, Malabo, Libreville, Niamey, N'Djamena, Bangui, Porto-Novo, Cotonou, Luanda, Laayoune
+West Africa
+Discrepancies between official UTC+01:00 and geographical UTC+01:00
+Areas in UTC+01:00 longitudes using UTC+02:00
+From south to north:
+Areas between meridians 7°30'W and 7°30'E ("physical" UTC+00:00)
+All of:
+Most of:
+Parts of:
+Areas between meridians 22°30'W and 7°30'W ("physical" UTC−01:00)
+Spain
+Norway
+Morocco
+Western Sahara 

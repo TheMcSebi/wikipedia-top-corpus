@@ -1,0 +1,25 @@
+Game controller
+A game controller, gaming controller, or simply controller, is an input device used with video games or entertainment systems to provide input to a video game, typically to control an object or character in the game. Before the seventh generation of video game consoles, plugging in a controller into one of a console's controller ports was the primary means of using a game controller, although since then they have been replaced by wireless controllers, which do not require controller ports on the console but are battery-powered. USB game controllers could also be connected to a computer with a USB port. Input devices that have been classified as game controllers include keyboards, mouses, gamepads, joysticks, etc. Special purpose devices, such as steering wheels for driving games and light guns for shooting games, are also game controllers.
+Controllers which are included with the purchase of a home console are considered as standard controllers, while those that are available to purchase from the console manufacturer or third-party offerings are considered peripheral controllers.
+Game controllers have been designed and improved over the years to be as user friendly as possible. The Microsoft Xbox controller, with its shoulder triggers that mimic actual triggers such as those found on guns, has become popular for shooting games. Some controllers are designed to be best for one type of game, such as steering wheels for driving games, or dance pads for dancing games.
+One of the first video game controllers was a simple dial and single button, used to control the game Tennis for Two. Controllers have since evolved to include directional pads, multiple buttons, analog sticks, joysticks, motion detection, touch screens and a plethora of other features.
+Variants
+Gamepad
+Paddle
+Joystick
+Trackball
+Throttle quadrant
+Steering wheel
+Yoke
+Pedals
+Mouse and keyboard
+Touchscreen
+Motion sensing
+Light gun
+Rhythm game controllers
+Wireless
+Others
+Use on PCs and other devices
+Although gamepads are generally developed for use with consoles, they are also often used for PC gaming and mobile gaming. Modern controllers, such as Sony's DualShock 4 and Nintendo's Switch Pro Controller, support USB and Bluetooth, allowing them to be directly connected to most PCs. Older gamepads can be connected through the use of official or third-party adapters. Controllers typically require the installation of device drivers to be used on contemporary personal computers. The device may be directly supported, or it may require the use of a specialized program which maps controller inputs to mouse and keyboard inputs. Examples of this kind of software include JoyToKey, Xpadder, and antimicro, which is free, open-source, and cross-platform.
+Some controllers are specially designed for usage outside of consoles. In this case, support for mapping to different devices is built into the controller itself, such as with the Nostromo SpeedPad n52, which can act as either a keyboard, mouse, or joystick; or with the Samsung Android GamePad, designed for use with Android mobile phones.
+The usage of gamepads over the mouse and keyboard has been referred to as a debate, with players of MMORPGs, RTS games, and first-person shooters tending to prefer the mouse and keyboard due to the wider variety of inputs and the high precision of the mouse when compared to an analog stick.

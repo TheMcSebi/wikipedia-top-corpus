@@ -1,0 +1,50 @@
+Tuple
+In mathematics, a tuple is a finite ordered list (sequence) of elements.  An n-tuple is a sequence (or ordered list) of n elements, where n is a non-negative integer. There is only one 0-tuple, referred to as the empty tuple. An n-tuple is defined inductively using the construction of an ordered pair.
+Mathematicians usually write tuples by listing the elements within parentheses "( )" and separated by a comma and a space; for example, (2, 7, 4, 1, 7) denotes a 5-tuple. Sometimes other symbols are used to surround the elements, such as square brackets "[ ]" or angle brackets "⟨ ⟩". Braces "{ }" are used to specify arrays in some programming languages but not in mathematical expressions, as they are the standard notation for sets. The term tuple can often occur when discussing other mathematical objects, such as vectors.
+In computer science, tuples come in many forms. Most typed functional programming languages implement tuples directly as product types, tightly associated with algebraic data types, pattern matching, and destructuring assignment. Many programming languages offer an alternative to tuples, known as record types, featuring unordered elements accessed by label. A few programming languages combine ordered tuple product types and unordered record types into a single construct, as in C structs and Haskell records. Relational databases may formally identify their rows (records) as tuples.
+Tuples also occur in relational algebra; when programming the semantic web  with the Resource Description Framework (RDF); in linguistics; and in philosophy.
+Etymology
+The term originated as an abstraction of the sequence: single, couple/double, triple, quadruple, quintuple, sextuple, septuple, octuple, ..., n‑tuple, ..., where the prefixes are taken from the Latin names of the numerals. The unique 0-tuple is called the null tuple or empty tuple. A 1‑tuple is called a single (or singleton), a 2‑tuple is called an ordered pair or couple, and a 3‑tuple is called a triple (or triplet). The number n can be any nonnegative integer. For example, a complex number can be represented as a 2‑tuple of reals, a quaternion can be represented as a 4‑tuple, an octonion can be represented as an 8‑tuple, and a sedenion can be represented as a 16‑tuple.
+Although these uses treat ‑uple as the suffix, the original suffix was ‑ple as in "triple" (three-fold) or "decuple" (ten‑fold). This originates from  medieval Latin plus (meaning "more") related to Greek ‑πλοῦς, which replaced the classical and late antique ‑plex (meaning "folded"), as in "duplex".
+Names for tuples of specific lengths
+Note that for $MATH$, the tuple name in the table above can also function as a verb meaning "to multiply [the direct object] by $MATH$"; for example, "to quintuple" means "to multiply by 5". If $MATH$, then the associated verb is "to double". There is also a verb "sesquiple", meaning "to multiply by 3/2". Theoretically, "monuple" could be used in this way too.
+Properties
+The general rule for the identity of two n-tuples is
+Thus a tuple has properties that distinguish it from a set:
+Definitions
+There are several definitions of tuples that give them the properties described in the previous section.
+Tuples as functions
+The $MATH$-tuple may be identified as the empty function. For $MATH$ the $MATH$-tuple $MATH$ may be identified with the (surjective) function
+with domain
+and with codomain
+that is defined at $MATH$ by
+That is, $MATH$ is the function defined by
+in which case the equality 
+necessarily holds.
+Functions are commonly identified with their graphs, which is a certain set of ordered pairs. 
+Indeed, many authors use graphs as the definition of a function. 
+Using this definition of "function", the above function $MATH$ can be defined as:
+Tuples as nested ordered pairs
+Another way of modeling tuples in Set Theory is as nested ordered pairs. This approach assumes that the notion of ordered pair has already been defined.
+This definition can be applied recursively to the (n − 1)-tuple:
+Thus, for example:
+A variant of this definition starts "peeling off" elements from the other end:
+This definition can be applied recursively:
+Thus, for example:
+Tuples as nested sets
+Using Kuratowski's representation for an ordered pair, the second definition above can be reformulated in terms of pure set theory:
+In this formulation:
+n-tuples of m-sets
+In discrete mathematics, especially combinatorics and finite probability theory, n-tuples arise in the context of various counting problems and are treated more informally as ordered lists of length n. n-tuples whose entries come from a set of m elements are also called arrangements with repetition, permutations of a multiset and, in some non-English literature, variations with repetition. The number of n-tuples of an m-set is mn. This follows from the combinatorial rule of product. If S is a finite set of cardinality m, this number is the cardinality of the n-fold Cartesian power S × S × ⋯ × S. Tuples are elements of this product set.
+Type theory
+In type theory, commonly used in programming languages, a tuple has a product type; this fixes not only the length, but also the underlying types of each component. Formally:
+and the projections are term constructors:
+The tuple with labeled elements used in the relational model has a record type. Both of these types can be defined as simple extensions of the simply typed lambda calculus.
+The notion of a tuple in type theory and that in set theory are related in the following way: If we consider the natural model of a type theory, and use the Scott brackets to indicate the semantic interpretation, then the model consists of some sets $MATH$ (note: the use of italics here that distinguishes sets from types) such that:
+and the interpretation of the basic terms is:
+The n-tuple of type theory has the natural interpretation as an n-tuple of set theory:
+The unit type has as semantic interpretation the 0-tuple.
+See also
+Notes
+References
+Sources

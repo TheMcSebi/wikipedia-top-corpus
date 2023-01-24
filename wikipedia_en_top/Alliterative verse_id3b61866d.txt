@@ -1,0 +1,129 @@
+Alliterative verse
+In prosody, alliterative verse is a form of verse that uses alliteration as the principal ornamental device to help indicate the underlying metrical structure, as opposed to other devices such as rhyme. The most commonly studied traditions of alliterative verse are those found in the oldest literature of the Germanic languages, where scholars use the term 'alliterative poetry' rather broadly to indicate a tradition which not only shares alliteration as its primary ornament but also certain metrical characteristics. The Old English epic Beowulf, as well as most other Old English poetry, the Old High German Muspilli, the Old Saxon Heliand, the Old Norse Poetic Edda, and many Middle English poems such as Piers Plowman, Sir Gawain and the Green Knight, and the Alliterative Morte Arthur all use alliterative verse.
+While alliteration can be found in many poetic traditions, it is 'relatively infrequent' as a structured characteristic of poetic form.: 41  The extensive use of alliteration in the so-called Kalevala meter of the Finnic languages provides a close comparison, and may derive directly from Germanic-language alliterative verse.
+Common Germanic origins and features
+The poetic forms found in the various Germanic languages are not identical, but there is sufficient similarity to make it clear that they are closely related traditions, stemming from a common Germanic source. Knowledge about that common tradition, however, is based almost entirely on inference from later poetry.
+One statement we have about the nature of alliterative verse from a practising alliterative poet is that of Snorri Sturluson in the Prose Edda. He describes metrical patterns and poetic devices used by skaldic poets around the year 1200. Snorri's description has served as the starting point for scholars to reconstruct alliterative meters beyond those of Old Norse. There have been many different metrical theories proposed, all of them attended with controversy. Looked at broadly, however, certain basic features are common from the earliest to the latest poetry.
+Alliterative verse has been found in some of the earliest monuments of Germanic literature. The Golden Horns of Gallehus, discovered in Denmark and likely dating to the 4th century, bear this Runic inscription in Proto-Norse:
+This inscription contains four strongly stressed syllables, the first three of which alliterate on ⟨h⟩ /x/ and the last of which does not alliterate, essentially the same pattern found in much later verse.
+Originally all alliterative poetry was composed and transmitted orally, and much went unrecorded. The degree to which writing may have altered this oral art form remains much in dispute. Nevertheless, there is a broad consensus among scholars that the written verse retains many (and some would argue almost all) of the features of the spoken language.
+Metrical form
+The core metrical features of traditional Germanic alliterative verse are as follows; they can be seen in the Gallehus inscription above:
+Some of these fundamental rules varied in certain traditions over time. Unlike in post-medieval English accentual verse, in which a syllable is either stressed or unstressed, Germanic poets were sensitive to degrees of stress. These can be thought of at three levels:
+If a half-line contains one or more stress-words, their root syllables will be the lifts. (This is the case in the Gallehus Horn inscription above, where all the lifts are nouns.) If it contains no stress-words, the root syllables of any particles will be the lift. Rarely, even a proclitic can be the lift, either because there are no more heavily stressed syllables or because it is given extra stress for some particular reason.
+If a lift was occupied by word with a short root vowel followed by only one consonant followed by an unstressed vowel (i.e. '(-)CVCV(-)) these two syllables were in most circumstances counted as only one syllable. This is called resolution.
+The patterns of unstressed syllables vary significantly in the alliterative traditions of different Germanic languages. The rules for these patterns remain imperfectly understood and subject to debate.
+Rules for alliteration
+Alliteration fits naturally with the prosodic patterns of early Germanic languages. Alliteration essentially involves matching the left edges of stressed syllables. Early Germanic languages share a left-prominent prosodic pattern. In other words, stress falls on the root syllable of a word, which is normally the initial syllable (except where the root is preceded by an unstressed prefix, as in past participles, for example). This means that the first sound of a word was particularly salient to listeners. Traditional Germanic verse had two particular rules about alliteration:
+The precise reasons for this are debated. The most common, but not uniformly accepted, theory for vowel-alliteration is that words beginning with vowels all actually began with a glottal stop (as is still the case in some modern Germanic languages).
+Diction
+The need to find an appropriate alliterating word gave certain other distinctive features to alliterative verse as well. Alliterative poets drew on a specialized vocabulary of poetic synonyms rarely used in prose texts and used standard images and metaphors called kennings.
+Old Saxon and medieval English attest to the word fitt with the sense of 'a section in a longer poem', and this term is sometimes used today by scholars to refer to sections of alliterative poems.
+English alliterative verse
+Old English poetic forms
+Old English classical poetry, epitomised by Beowulf, follows the rules of traditional Germanic poetry outlined above, and is indeed a major source for reconstructing them. J.R.R. Tolkien's essay "On Translating Beowulf" analyses the rules as used in the poem. Some patterns of classical Old English verse begin to break down at the end of the Old English period. Moreover, Thomas Bredehoft has argued that an alternative system of non-classical Old English poetry with looser constraints existed alongside this classical verse. In Bredehoft's reading, this poetry is epitomized by the homilies of Ælfric of Eynsham traditionally described as being in 'rhythmical prose'. This section of the article, however, focuses on the classical form.
+Metrical form
+As described above for the Germanic tradition as a whole, each line of poetry in Old English consists of two half-lines or verses with a pause or caesura in the middle of the line. Each half-line usually has two accented syllables, although the first may only have one. The following example from the poem The Battle of Maldon, spoken by the warrior Beorhtwold, shows the usual pattern:
+Clear indications of Modern English meanings can be heard in the original, using phonetic approximations of the Old English sound-letter system:
+In addition to the rules outlined above, Old English poetry had constraints limiting the lengths of verses and the number and distribution of lifts and dips. However, there is still no consensus on what precisely the constraints were, and they must have varied slightly from one poem to another. The most widely used system for classifying Old English prosodic patterns is based on that developed by Eduard Sievers and extended by Alan Joseph Bliss. Sievers' system is a method of categorization rather than a full theory of meter. It does not, in other words, purport to describe the system the scops actually used to compose their verse, nor does it explain why certain patterns are favored or avoided. Sievers divided verses into five basic types, labeled A–E. The system is founded upon accent, alliteration, quantity of vowels, and patterns of syllabic accentuation. Another popular system is that of Geoffrey Russom, which is predicated on a theory of meter involving two metrical feet per verse. Another is that of Thomas Cable, based on the idea that each verse contains four syllables, with specific rules for the addition of extra unstressed syllables.
+Single 'half-lines' are sometimes found in Old English verse; scholars debate how far these were a characteristic of Old English poetic tradition and how far they arise from defective copying of poems by scribes.
+Rules for alliteration
+Alliteration is the principal ornamental feature of Old English poetry. Two stressed syllables alliterate when they begin with the same sound. In addition to the general rules for alliteration in Germanic poetry listed above, there are some further complications due to sound-changes in Old English:
+The first stressed syllable of the off-verse, or second half-line, usually alliterates with one or both of the stressed syllables of the on-verse, or first half-line. The second stressed syllable of the off-verse does not usually alliterate with the others.
+The Middle English 'alliterative revival'
+Just as rhyme was seen in some Anglo-Saxon poems (e.g. The Rhyming Poem, and, to some degree, The Proverbs of Alfred), the use of alliterative verse continued into Middle English. Layamon's Brut, written in about 1215, uses a loose alliterative scheme. Starting in the mid-14th century, alliterative verse became popular in the English North, the West Midlands, and a little later in Scotland. The Pearl Poet uses a complex scheme of alliteration, rhyme, and iambic metre in his Pearl; a more conventional alliterative metre in Cleanness and Patience, and alliterative verse alternating with rhymed quatrains in Sir Gawain and the Green Knight. William Langland's Piers Plowman is an important English alliterative poem; it was written between c. 1370 and 1390. The form of alliterative verse changed gradually over time. From Piers Plowman:
+A feir feld full of folk   fond I þer bitwene,
+Of alle maner of men,   þe mene and þe riche,
+Worchinge and wandringe   as þe world askeþ.
+
+In modern spelling:
+A fair field full of folk   found I there between,
+Of all manner of men   the mean and the rich,
+Working and wandering   as the world asketh.
+
+In modern translation:
+Among them I found a fair field full of people
+All manner of men, the poor and the rich
+Working and wandering as the world requires.
+Alliteration was sometimes used together with rhyme in Middle English work, as in Pearl and in the densely structured poem The Three Dead Kings. Middle English alliterative poets invented some innovative structures; the Pearl Poet, for instance, often adds a third alliterating word to the first half-line (e.g. Sir Gawain l.2, "the borgh brittened and brent || to brondez and askez"), and the medial pause is not always strictly maintained.
+After the fifteenth century, alliterative verse became fairly uncommon; possibly the last major poem in the tradition is William Dunbar's Tretis of the Tua Marriit Wemen and the Wedo (c. 1500). By the middle of the sixteenth century, the four-beat alliterative line had completely vanished, at least from the written tradition: the last poem using the form that has survived, Scotish Feilde, was written in or soon after 1515 for the circle of Thomas Stanley, 2nd Earl of Derby in commemoration of the Battle of Flodden.
+J. R. R. Tolkien
+J. R. R. Tolkien (1892–1973), a scholar of Old and Middle English, used alliterative verse extensively in both translations and original poetry. Most of his alliterative verse is in modern English, in a variety of styles, but he also composed Old English alliterative verses. Tolkien also wrote alliterative verse based on other traditions, such as the Völsungasaga and Atlakviða, in The Legend of Sigurd and Gudrun (2009), and The Homecoming of Beorhtnoth Beorhthelm's Son describing the aftermath of the Battle of Maldon (1953). His Gothic Bagme Bloma ("Flower of the Trees") uses a trochaic metre, with irregular end-rhymes and irregular alliteration in each line; it was published in Songs for the Philologists (1936). He wrote a variety of pieces of alliterative verse in Old English, including parts of The Seafarer. A version of these appears in The Notion Club Papers. He also made translations including about 600 lines of Beowulf in verse.
+The 2276-line The Lay of the Children of Húrin (c. 1918–1925), published in The Lays of Beleriand (1985) is written in Modern English (albeit with some archaic words) and set to the Beowulf meter. Lines 610-614 are given here:
+'Let the bow of Beleg   to your band be joined;
+and swearing death   to the sons of darkness
+let us suage our sorrow   and the smart of fate!
+Our valour is not vanquished,   nor vain the glory
+that once we did win   in the woods of old.'
+C. S. Lewis
+Alliterative verse is occasionally written by other modern authors. C. S. Lewis (1898–1963) wrote a narrative poem of 742 lines called The Nameless Isle, published posthumously in Narrative Poems (1972). Lines 562–67 read:
+The marble maid,   under mask of stone
+shook and shuddered.   As a shadow streams
+Over the wheat waving,   over the woman's face
+Life came lingering.   Nor was it long after
+Down its blue pathways,   blood returning
+Moved, and mounted   to her maiden cheek.
+W. H. Auden
+W. H. Auden (1907–1973) wrote a number of poems, including The Age of Anxiety (published 1947), in a type of alliterative verse modified for modern English:
+Deep in my dark.   the dream shines
+Yes, of you   you dear always;
+My cause to cry,   cold but my
+Story still,   still my music.
+Mild rose the moon,   moving through our
+Naked nights:   tonight it rains;
+Black umbrellas:   blossom out;
+Gone the gold,   my golden ball. 
+…
+Richard Wilbur
+Richard Wilbur's Junk opens with the lines:
+An axe angles   from my neighbor's ashcan;
+It is hell's handiwork,   the wood not hickory.
+The flow of the grain   not faithfully followed.
+The shivered shaft   rises from a shellheap
+Of plastic playthings,   paper plates.
+Other poets who have experimented with modern alliterative English verse include Ezra Pound in his version of The Seafarer, and Alaric Watts, whose famously complex The Siege of Belgrade combines alliteration with both rhymed meter and abecedarian verse. Many translations of Beowulf, in keeping with the source material, use alliteration: among recent translations that of Seamus Heaney loosely follows the rules of modern alliterative verse, while those of Alan Sullivan and Timothy Murphy follow them more closely.
+Old Norse poetic forms
+The inherited form of alliterative verse was modified somewhat in Old Norse poetry. In Old Norse, as a result of phonetic changes from the original common Germanic language, many unstressed syllables were lost. This lent Old Norse verse a characteristic terseness; the lifts tended to be crowded together at the expense of the weak syllables. In some lines, the weak syllables have been entirely suppressed. From the Hávamál:
+
+The various names of the Old Norse verse forms are given in the Prose Edda by Snorri Sturluson. The Háttatal, or "list of verse forms", contains the names and characteristics of each of the fixed forms of Norse poetry.
+Fornyrðislag
+A verse form close to that of Beowulf was used on runestones and in the Old Norse Poetic Edda; in Norse, it was called fornyrðislag, which means "old story metre". The Norse poets tended to break up their verses into stanzas of from two to eight lines (or more), rather than writing continuous verse after the Old English model. The loss of unstressed syllables made these verses seem denser and more emphatic. The Norse poets, unlike the Old English poets, tended to make each line a complete syntactic unit, avoiding enjambment where a thought begun on one line continues through the following lines; only seldom do they begin a new sentence in the second half-line. This example is from the Waking of Angantyr:
+
+Fornyrðislag has two lifts per half line, with two or three (sometimes one) unstressed syllables. At least two lifts, usually three, alliterate, always including the main stave (the first lift of the second half-line). It had a variant form called málaháttr ("speech meter"), which adds an unstressed syllable to each half-line, making six to eight (sometimes up to ten) unstressed syllables per line. Conversely, another variant, kviðuháttr, has only three syllables in its odd half-lines (but four in the even ones).
+Ljóðaháttr
+Change in form came with the development of ljóðaháttr, which means "song" or "ballad metre", a stanzaic verse form that created four line stanzas. The odd numbered lines were almost standard lines of alliterative verse with four lifts and two or three alliterations, with cæsura; the even numbered lines had three lifts and two alliterations, and no cæsura. This example is from Freyr's lament in Skírnismál:
+
+A number of variants occurred in ljóðaháttr, including galdralag ("incantation meter"), which adds a fifth short (three-lift) line to the end of the stanza; in this form, usually the fifth line echoes the fourth one.
+Dróttkvætt
+These verse forms were elaborated even more into the skaldic poetic form called dróttkvætt, meaning "courtly metre", which added internal rhymes and other forms of assonance that go well beyond the requirements of Germanic alliterative verse and greatly resemble the Celtic forms (Irish and Welsh). The dróttkvætt stanza had eight lines, each having usually three lifts and almost invariably six syllables. Although other stress patterns appear, the verse is predominantly trochaic. The last two syllables in each line had to form a trochee (there are a few specific forms which utilize a stressed word at line-end, such as in some docked forms). In addition, specific requirements obtained for odd-numbered and even-numbered lines.
+In the odd-numbered lines (equivalent to the a-verse of the traditional alliterative line):
+In the even lines (equivalent to the b-verse of the traditional alliterative line):
+The requirements of this verse form were so demanding that occasionally the text of the poems had to run parallel, with one thread of syntax running through the on-side of the half-lines, and another running through the off-side. According to the Fagrskinna collection of sagas, King Harald III of Norway uttered these lines of dróttkvætt at the Battle of Stamford Bridge; the internal assonances and the alliteration are emboldened:
+The bracketed words in the poem ("so said the goddess of hawk-land, true of words") are syntactically separate, but interspersed within the text of the rest of the verse. The elaborate kennings manifested here are also practically necessary in this complex and demanding form, as much to solve metrical difficulties as for the sake of vivid imagery. Intriguingly, the saga claims that Harald improvised these lines after he gave a lesser performance (in fornyrðislag); Harald judged that verse bad, and then offered this one in the more demanding form. While the exchange may be fictionalized, the scene illustrates the regard in which the form was held.
+Most dróttkvætt poems that survive appear in one or another of the Norse Sagas; several of the sagas are biographies of skaldic poets.
+Hrynhenda
+Hrynhenda or hrynjandi háttr ('the flowing verse-form') is a later development of dróttkvætt with eight syllables per line instead of six, with the similar rules of rhyme and alliteration, although each hrynhent-variant shows particular subtleties. It is first attested around 985 in the so-called Hafgerðingadrápa of which four lines survive (alliterants and rhymes bolded):
+The author was said to be a Christian from the Hebrides, who composed the poem asking God to keep him safe at sea. (Note: The third line is, in fact, over-alliterated. There should be exactly two alliterants in the odd-numbered lines.) The metre gained some popularity in courtly poetry, as the rhythm may sound more majestic than dróttkvætt.
+We learn much about these in the Hattatal: Snorri gives for certain at least three different variant-forms of hrynhenda. These long-syllabled lines are explained by Snorri as being extra-metrical in most cases: the "main" form never has alliteration or rhyme in the first 2 syllables of the odd-lines (i.e., rhymes always coming at the fourth-syllable), and the even-lines never have rhyme on the fifth/sixth syllables (i.e.: they cannot harbor rhyme in these places because they extra-metrical), the following couplet shows the paradigm:
+[Note the juxtaposition of alliteration and rhyme of the even-line]
+Then, the variant-forms show unsurprising dróttkvætt patterns overall; the main difference being that the first trochee of the odd-lines are technically not reckoned as extrametrical since they harbor alliteration, but the even-lines' extra-metrical feature is more or less as the same. The 2nd form is the "troll-hrynjandi": in the odd-lines the alliteration is moved to the first metrical position (no longer "extra-metrical") while the rhyme remains the same (Snorri seems to imply that frumhending, which is placing a rhyme on the first syllable of any line, is preferably avoided in all these forms: the rhymes are always preferred as oddhending, "middle-of-the-line rhymes") — in the even-lines the rhyme and alliteration are not juxtaposed, and this is a key feature of its distinction (the significant features only are marked in bold below):
+The next form, which Snorri calls "ordinary/standard hrynhenda", is almost like a "combination" of the previous — alliteration always on the first metrical-position, and the rhymes in the odd-lines juxtaposed (all features in bold in this example):
+There is one more form which is a bit different though seemed to be counted among the previous group by Snorri, called draughent. The syllable-count changes to seven (and, whether relevant to us or not, the second-syllable seems to be counted as the extra-metrical):
+As one can see, there is very often clashing stress in the middle of the line (Vápna hríd velta....//..Vægdarlaus feigum...., etc.), and oddhending seems preferred (as well as keeping alliterative and rhyming syllables separated, which likely has to do with the syllabic-makeup of the line).
+Post-medieval Scandinavian alliterative verse
+Alliterative poetry is still practiced in Iceland in an unbroken tradition since the settlement, most commonly in the form of rímur. The most common alliterative ríma form is ferskeytt.
+High German and Saxon forms
+The Old High German and Old Saxon corpus of Stabreim or alliterative verse is small. Fewer than 200 Old High German lines survive, in four works: the Hildebrandslied, Muspilli, the Merseburg Charms and the Wessobrunn Prayer. All four are preserved in forms that are clearly to some extent corrupt, suggesting that the scribes may themselves not have been entirely familiar with the poetic tradition.
+Two Old Saxon alliterative poems survive. One is the reworking of the four gospels into the epic Heliand (nearly 6000 lines), where Jesus and his disciples are portrayed in a Saxon warrior culture. The other is the fragmentary Genesis (337 lines in 3 unconnected fragments), created as a reworking of Biblical content based on Latin sources.
+However, both German traditions show one common feature which is much less common elsewhere: a proliferation of unaccented syllables. Generally these are parts of speech which would naturally be unstressed — pronouns, prepositions, articles, modal auxiliaries — but in the Old Saxon works there are also adjectives and lexical verbs. The unaccented syllables typically occur before the first stress in the half-line, and most often in the b-verse.
+The Hildebrandslied, lines 4–5:
+
+The Heliand, line 3062:
+This leads to a less dense style, no doubt closer to everyday language, which has been interpreted both as a sign of decadent technique from ill-tutored poets and as an artistic innovation giving scope for additional poetic effects. Either way, it signifies a break with the strict Sievers typology.
+In more recent times, Richard Wagner sought to evoke old German models and what he considered a more natural and less over-civilised style by writing his Ring poems in Stabreim.
+Relationship with Kalevala meter
+The trochaic tetrametrical meter that characterises the traditional poetry of most Finnic-language cultures, known as Kalevala meter, does not deploy alliteration with the structural regularity of Germanic-language alliterative verse, but Kalevala meter does have a very strong convention that, in each line, two lexically stressed syllables should alliterate. In view of the profound influence of the Germanic languages on other aspects of the Finnic languages and the unusualness of such regular requirements for alliteration, it has been argued that Kalevala meter borrowed both its use of alliteration and possibly other metrical features from Germanic.
+Notes
+References
+Sources
+Further reading

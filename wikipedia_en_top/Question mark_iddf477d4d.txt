@@ -1,0 +1,65 @@
+Question mark
+The question mark ? (also known as interrogation point, query, or eroteme in journalism) is a punctuation mark that indicates an interrogative clause or phrase in many languages.
+History
+In the fifth century, Syriac Bible manuscripts used question markers, according to a 2011 theory by manuscript specialist Chip Coakley: he believes the zagwa elaya ("upper pair"), a vertical double dot over a word at the start of a sentence, indicates that the sentence is a question.
+From around 783, in Godescalc Evangelistary, a mark described as "a lightning flash, striking from right to left" is attested. This mark is later called a punctus interrogativus. According to some paleographers, it may have indicated intonation, perhaps associated with early musical notation like neumes. Another theory, is that the "lightning flash" was originally a tilde or titlo, as in ·~, one of many wavy or more or less slanted marks used in medieval texts for denoting things such as abbreviations, which would later become various diacritics or ligatures.
+From the 10th century, the pitch-defining element (if it ever existed) seems to have been gradually forgotten, so that the "lightning flash" sign (with the stroke sometimes slightly curved) is often seen indifferently at the end of clauses, whether they embody a question or not.
+In the early 13th century, when the growth of communities of scholars (universities) in Paris and other major cities led to an expansion and streamlining of the book-production trade, punctuation was rationalized by assigning the "lightning flash" specifically to interrogatives; by this time the stroke was more sharply curved and can easily be recognized as the modern question mark. See for example De Aetna (1496) printed by Aldo Manuzio in Venice.
+In 1598, the English term point of interrogation is attested in an Italian–English dictionary by John Florio.
+In the 1850s, the term question mark is attested:
+Scope
+In English, the question mark typically occurs at the end of a sentence, where it replaces the full stop (period).  However, the question mark may also occur at the end of a clause or phrase, where it replaces the comma :
+or:
+This is quite common in Spanish, where the use of bracketing question marks explicitly indicates the scope of interrogation.
+A question mark may also appear immediately after questionable data, such as dates:
+In other languages and scripts
+Opening and closing question marks in Spanish
+In Spanish, since the second edition of the Ortografía of the Real Academia Española in 1754, interrogatives require both opening ¿ and closing ? question marks. An interrogative sentence, clause, or phrase begins with an inverted question mark ¿ and ends with the question mark ?, as in:
+Question marks must always be matched, but to mark uncertainty rather than actual interrogation omitting the opening one is allowed, although discouraged:
+The omission of the opening mark is common in informal writing, but is considered an error.  The one exception is when the question mark is matched with an exclamation mark, as in:
+(The order may also be reversed, opening with a question mark and closing with an exclamation mark.) Nonetheless, even here the Academia recommends matching punctuation:
+The opening question mark in Unicode is U+00BF ¿ INVERTED QUESTION MARK (&iquest;).
+In other languages of Spain
+Galician also uses the inverted opening question mark, though usually only in long sentences or in cases that would otherwise be ambiguous. Basque only uses the terminal question mark. 
+Armenian question mark
+In Armenian, the question mark is a diacritic that takes the form of an open circle and is placed over the last vowel of the question word. It is defined in Unicode at U+055E ◌՞ ARMENIAN QUESTION MARK.
+
+Greek question mark
+The Greek question mark (Greek: ερωτηματικό, romanized: erōtīmatikó) looks like ;. It appeared around the same time as the Latin one, in the 8th century. It was adopted by Church Slavonic and eventually settled on a form essentially similar to the Latin semicolon. In Unicode, it is separately encoded as U+037E ; GREEK QUESTION MARK, but the similarity is so great that the code point is normalised to U+003B ; SEMICOLON, making the marks identical in practice. In Greek, the question mark is used even for indirect questions.
+Mirrored question mark in right-to-left scripts
+In Arabic and other languages that use Arabic script such as Persian, Urdu and Uyghur (Arabic form), which are written from right to left, the question mark is mirrored right-to-left from the Latin question mark. In Unicode, two encodings are available: U+061F ؟ ARABIC QUESTION MARK (With bi-directional code AL: Right-to-Left Arabic) and U+2E2E ⸮ REVERSED QUESTION MARK (With bi-directional code Other Neutrals). (Some browsers may display the character in the previous sentence as a forward question mark due to font or text directionality issues). In addition, the Thaana script in Dhivehi uses the mirrored question mark: މަރުހަބާ؟
+The Arabic question mark is also used in some other right to left scripts: N'Ko, and Syriac.
+Hebrew and Yiddish are also written right-to-left, but they use a question mark that appears on the page in the same orientation as the left-to-right question mark.
+Fullwidth question mark in East Asian languages
+The question mark is also used in modern writing in Chinese and, to a lesser extent, Japanese. Usually it is written as fullwidth form in Chinese and Japanese, in Unicode: U+FF1F ？ FULLWIDTH QUESTION MARK. 
+Chinese and Japanese also have a spoken indicator of questions, 吗 (ma) and か (ka) respectively, which essentially function as a verbal question mark. Because of this, in Japanese use of the question mark is optional with か. Thus the same sentence could be written both いいですか？('May I?') or いいですか。(Still 'May I?'), but usually, the question mark is used.
+In other scripts
+Some other scripts have a specific question mark:
+Stylistic variants
+French usage should include a narrow non-breaking space before the question mark. (For example, "Que voulez-vous boire ?"), whereas in the English language orthography no space is allowed in front of the question mark (e.g. "What would you like to drink?"). 
+Typological variants of "?"
+The rhetorical question mark or percontation point (see Irony punctuation) was invented by Henry Denham in the 1580s and was used at the end of a rhetorical question;  however, it became obsolete in the 17th century.  It was the reverse of an ordinary question mark, so that instead of the main opening pointing back into the sentence, it opened away from it. This character can be represented using the reversed question mark ⸮ found at Unicode as U+2E2E.
+Bracketed question marks can be used for rhetorical questions, for example Oh, really(?), in informal contexts such as closed captioning.
+The question mark can also be used as a meta-sign to signal uncertainty regarding what precedes it. It is usually put between brackets: (?). The uncertainty may concern either a superficial level (such as unsure spelling), or a deeper truth (real meaning).
+In typography, some other variants and combinations are available: "⁇," "⁈," and "⁉," are usually used for chess annotation symbols; the interrobang, "‽," is used to combine the functions of the question mark and the exclamation mark, superposing these two marks.
+Unicode makes available these variants:
+Computing
+In computing, the question mark character is represented by ASCII code 63 (0x3F hexadecimal), and is located at Unicode code-point U+003F ? QUESTION MARK (&quest;). The full-width (double-byte) equivalent (？), is located at code-point U+FF1F ？ FULLWIDTH QUESTION MARK.
+In shell and scripting languages, the question mark is often utilized as a wildcard character: a symbol that can be used to substitute for any other character or characters in a string. In particular, filename globbing uses "?" as a substitute for any one character, as opposed to the asterisk, "*", which matches zero or more characters in a string. The inverted question mark (¿) corresponds to Unicode code-point U+00BF ¿ INVERTED QUESTION MARK (&iquest;), and can be accessed from the keyboard in Microsoft Windows on the default US layout by holding down the Alt and typing either 1 6 8 (ANSI) or 0 1 9 1 (Unicode) on the numeric keypad. In GNOME applications on Linux operating systems, it can be entered by typing the hexadecimal Unicode character (minus leading zeros) while holding down both Ctrl and Shift, I J mm.e.: Ctrl Shift B F. In recent XFree86 and X.Org incarnations of the X Window System, it can be accessed as a compose sequence of two straight question marks, i.e. pressing Compose ? ? yields ¿. In classic Mac OS and Mac OS X (macOS), the key combination Option Shift ? produces an inverted question mark.
+The question mark is used in ASCII renderings of the International Phonetic Alphabet, such as SAMPA, in place of the glottal stop symbol, ʔ, (which resembles "?" without the dot), and corresponds to Unicode code point U+0294 ʔ LATIN LETTER GLOTTAL STOP.
+In computer programming, the symbol "?" has a special meaning in many programming languages. In C-descended languages, ? is part of the ?: operator, which is used to evaluate simple boolean conditions. In C# 2.0, the ? modifier is used to handle nullable data types and ?? is the null coalescing operator. In the POSIX syntax for regular expressions, such as that used in Perl and Python, ? stands for "zero or one instance of the previous subexpression", i.e. an optional element. It can also make a quantifier like {x,y}, + or * match as few characters as possible, making it lazy, e.g. /^.*?px/ will match the substring 165px in 165px 17px instead of matching 165px 17px. In certain implementations of the BASIC programming language, the ? character may be used as a shorthand for the "print" function; in others (notably the BBC BASIC family), ? is used to address a single-byte memory location. In OCaml, the question mark precedes the label for an optional parameter. In Scheme, as a convention, symbol names ending in ? are used for predicates, such as odd?, null?, and eq?. Similarly, in Ruby, method names ending in ? are used for predicates. In Swift a type followed by ? denotes an option type; ? is also used in "optional chaining", where if an option value is nil, it ignores the following operations. Similarly, in Kotlin, a type followed by ? is nullable and functions similar to option chaining are supported. In APL, ? generates random numbers or a random subset of indices. In Rust, a ? suffix on a function or method call indicates error handling. In SPARQL, the question mark is used to introduce variable names, such as ?name. In MUMPS, it is the pattern match operator.
+In many Web browsers and other computer programs, when converting text between encodings, it may not be possible to map some characters into the target character set. In this situation it is common to replace each unmappable character with a question mark ?, inverted question mark ¿, or the Unicode replacement character, usually rendered as a white question mark in a black diamond: U+FFFD � REPLACEMENT CHARACTER. This commonly occurs for apostrophes and quotation marks when they are written with software that uses its own proprietary non-standard code for these characters, such as Microsoft Office's "smart quotes".
+The generic URL syntax allows for a query string to be appended to a resource location in a Web address so that additional information can be passed to a script; the query mark, ?, is used to indicate the start of a query string. A query string is usually made up of a number of different field/value pairs, each separated by the ampersand symbol, &, as seen in this URL:
+http://www.example.com/search.php?query=testing&database=English
+Here, a script on the page search.php on the server www.example.com is to provide a response to the query string containing the pairs query=testing and database=English.
+Games
+In algebraic chess notation, some chess punctuation conventions include: "?" denotes a bad move, "??" a blunder, "?!" a dubious move, and "!?" an interesting move.
+In Scrabble, a question mark indicates a blank tile.
+Mathematics and formal logic
+
+In mathematics, "?" commonly denotes Minkowski's question mark function. In equations, it can mean "questioned" as opposed to "defined".
+In linear logic, the question mark denotes one of the exponential modalities that control weakening and contraction.
+Medicine
+A question mark is used in English medical notes to suggest a possible diagnosis. It facilitates the recording of a doctor's impressions regarding a patient's symptoms and signs. For example, for a patient presenting with left lower abdominal pain, a differential diagnosis might include ?diverticulitis (read as "query diverticulitis").
+See also
+Notes

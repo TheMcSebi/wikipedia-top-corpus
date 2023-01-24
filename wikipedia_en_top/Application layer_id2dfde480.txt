@@ -1,0 +1,17 @@
+Application layer
+An application layer is an abstraction layer that specifies the shared communications protocols and interface methods used by hosts in a communications network. An application layer abstraction is specified in both the Internet Protocol Suite (TCP/IP) and the OSI model. Although both models use the same term for their respective highest-level layer, the detailed definitions and purposes are different.
+Internet protocol suite
+In the Internet protocol suite, the application layer contains the communications protocols and interface methods used in process-to-process communications across an Internet Protocol (IP) computer network. The application layer only standardizes communication and depends upon the underlying transport layer protocols to establish host-to-host data transfer channels and manage the data exchange in a client–server or peer-to-peer networking model. Though the TCP/IP application layer does not describe specific rules or data formats that applications must consider when communicating, the original specification (in RFC 1123) does rely on and recommend the robustness principle for application design.
+OSI model
+In the OSI model, the definition of the application layer is narrower in scope. The OSI model defines the application layer as only the interface responsible for communicating with host-based and user-facing applications. OSI then explicitly distinguishes the functionality of two additional layers, the session layer and presentation layer, as separate levels below the application layer and above the transport layer. OSI specifies a strict modular separation of functionality at these layers and provides protocol implementations for each. In contrast, the Internet Protocol Suite compiles these functions into a single layer.
+Sublayers
+Originally the OSI model consisted of two kinds of application layer services with their related protocols. These two sublayers are the common application service element (CASE) and specific application service element (SASE). Generally, an application layer protocol is realized by the use of the functionality of a number of application service elements. Some application service elements invoke different procedures based on the version of the session service available.
+CASE
+The common application service element sublayer provides services for the application layer and request services from the session layer.
+It provides support for common application services, such as:
+SASE
+The specific application service element sublayer provides application-specific services (protocols), such as:
+Protocols
+The IETF definition document for the application layer in the Internet Protocol Suite is RFC 1123. It provided an initial set of protocols that covered the major aspects of the functionality of the early Internet:
+Examples
+Additional notable application-layer protocols include the following:

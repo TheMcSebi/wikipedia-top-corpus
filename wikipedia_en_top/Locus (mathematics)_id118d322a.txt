@@ -1,0 +1,31 @@
+Locus (mathematics)
+In geometry, a locus (plural: loci) (Latin word for "place", "location") is a set of all points (commonly, a line, a line segment, a curve or a surface), whose location satisfies or is determined by one or more specified conditions.
+In other words, the set of the points that satisfy some property is often called the locus of a point satisfying this property. The use of the singular in this formulation is a witness that, until the end of the 19th century, mathematicians did not consider infinite sets. Instead of viewing lines and curves as sets of points, they viewed them as places where a point may be located or may move.
+History and philosophy
+Until the beginning of the 20th century, a geometrical shape (for example a curve) was not considered as an infinite set of points; rather, it was considered as an entity on which a point may be located or on which it moves. Thus a circle in the Euclidean plane was defined as the locus of a point that is at a given distance of a fixed point, the center of the circle. In modern mathematics, similar concepts are more frequently reformulated by describing shapes as sets; for instance, one says that the circle is the set of points that are at a given distance from the center.
+In contrast to the set-theoretic view, the old formulation avoids considering infinite collections, as avoiding the actual infinite was an important philosophical position of earlier mathematicians.
+Once set theory became the universal basis over which the whole mathematics is built, the term of locus became rather old-fashioned. Nevertheless, the word is still widely used, mainly for a concise formulation, for example:
+More recently, techniques such as the theory of schemes, and the use of category theory instead of set theory to give a foundation to mathematics, have returned to notions more like the original definition of a locus as an object in itself rather than as a set of points.
+Examples in plane geometry
+Examples from plane geometry include:
+Other examples of loci appear in various areas of mathematics. For example, in complex dynamics, the Mandelbrot set is a subset of the complex plane that may be characterized as the connectedness locus of a family of polynomial maps.
+Proof of a locus
+To prove a geometric shape is the correct locus for a given set of conditions, one generally divides the proof into two stages:
+Examples
+First example
+Find the locus of a point P that has a given ratio of distances k = d1/d2 to two given points.
+In this example k = 3, A(−1, 0) and B(0, 2) are chosen as the fixed points.
+This equation represents a circle with center (1/8, 9/4) and radius $MATH$. It is the circle of Apollonius defined by these values of k, A, and B.
+Second example
+A triangle ABC has a fixed side [AB] with length c. 
+Determine the locus of the third vertex C such that
+the medians from A and C are orthogonal.
+Choose an orthonormal coordinate system such that A(−c/2, 0), B(c/2, 0). 
+C(x, y) is the variable third vertex. The center of [BC] is M((2x + c)/4, y/2). The median from C has a slope  y/x. The median AM has slope  2y/(2x + 3c).
+The locus of the vertex C is a circle with center (−3c/4, 0) and radius 3c/4.
+Third example
+A locus can also be defined by two associated curves depending on one common parameter. If the parameter varies, the intersection points of the associated curves describe the locus.
+In the figure, the points K and L are fixed points on a given line m. The line k is a variable line through K. The line l through L is perpendicular to k. The angle $MATH$ between k and m is the parameter.
+k and  l are  associated lines depending on the common parameter. The variable intersection point S of k and l describes a circle. This circle is the locus of the intersection point of the two associated lines.
+Fourth example
+A locus of points need not be one-dimensional (as a circle, line, etc.). For example, the locus of the inequality 2x + 3y – 6 < 0 is the portion of the plane that is below the line of equation 2x + 3y – 6 = 0.

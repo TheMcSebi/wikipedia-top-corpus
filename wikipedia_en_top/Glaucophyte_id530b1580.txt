@@ -1,0 +1,19 @@
+Glaucophyte
+The glaucophytes, also known as glaucocystophytes or glaucocystids, are a small group of unicellular algae found in freshwater and moist terrestrial environments, less common today than they were during the Proterozoic. The stated number of species in the group varies from about 14 to 26. Together with the red algae (Rhodophyta)  and the green algae plus land plants (Viridiplantae or Chloroplastida), they form the Archaeplastida.  However, the relationships among the red algae, green algae and glaucophytes are unclear, in large part due to limited study of the glaucophytes.
+The glaucophytes are of interest to biologists studying the development of chloroplasts because some studies suggest they may be similar to the original algal type that led to green plants and red algae in that glaucophytes may be basal Archaeplastida.
+Unlike red and green algae, glaucophytes only have asexual reproduction.
+Characteristics
+The plastids of glaucophytes are known as 'muroplasts', 'cyanoplasts', or 'cyanelles'. Unlike the plastids in other organisms, they have a peptidoglycan layer, believed to be a relic of the endosymbiotic origin of plastids from cyanobacteria. Glaucophytes contain the photosynthetic pigment chlorophyll a. Along with red algae and cyanobacteria, they harvest light via phycobilisomes, structures consisting largely of phycobiliproteins. The green algae and land plants have lost that pigment. Like red algae, and in contrast to green algae and plants, glaucophytes store fixed carbon in the cytosol.
+The most basal-branching genus is Cyanophora, which only has one or two plastids. When there are two, they are semi-connected.
+Glaucophytes have mitochondria with flat cristae, and undergo open mitosis without centrioles.  Motile forms have two unequal flagella, which may have fine hairs and are anchored by a multilayered system of microtubules, both of which are similar to forms found in some green algae.
+Phylogeny
+Together with red algae and Viridiplantae (green algae and land plants), glaucophytes form the Archaeplastida – a group of plastid-containing organisms that may share a unique common ancestor that established an endosymbiotic association with a cyanobacterium. The relationship among the three groups remained uncertain as of March 2022, although studies suggest it is most likely that glaucophytes diverged first:
+
+The alternative that glaucophytes and red algae form a clade has been shown to be less plausible, but cannot be ruled out.
+Classification
+The internal classification of the glaucophytes and the number of genera and species varied considerably among taxonomic sources, as of March 2022. A phylogeny of the Glaucocystophyceae published in 2017 divides the group into three families, and includes five genera:
+
+A list of the described glaucophyte species first published in 2018 has the same three subdivisions, treated as orders, but includes a further five unplaced possible species, producing a total of 14–19 possible species.
+As of March 2022, AlgaeBase divided glaucophytes into only two groups, placing Cyanophora in Glaucocystales rather than Cyanophorales (however the entry was dated 2011). AlgaeBase included a total of 26 species in nine genera:
+None of the species of Glaucophyta is particularly common in nature.
+The glaucophytes were considered before as part of family Oocystaceae, in the order Chlorococcales.

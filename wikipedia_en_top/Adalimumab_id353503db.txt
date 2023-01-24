@@ -1,0 +1,73 @@
+Adalimumab
+Adalimumab, sold under the brand name Humira, among others, is a monoclonal antibody used to treat rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis, Crohn's disease, ulcerative colitis, plaque psoriasis, hidradenitis suppurativa, uveitis, and juvenile idiopathic arthritis. It is administered by injection under the skin.
+Common side effects include upper respiratory tract infections, pain at the site of injection, rash, and headache. Other side effects may include serious infections, cancer, anaphylaxis, reactivation of hepatitis B, multiple sclerosis, heart failure, liver failure, and aplastic anemia. Use during pregnancy is not recommended, but some sources show use during breastfeeding may be safe.
+Adalimumab is a disease-modifying antirheumatic drug (DMARD) and monoclonal antibody that works by inactivating tumor necrosis factor-alpha (TNFα).
+Adalimumab was approved for medical use in the United States in 2002. It is on the World Health Organization's List of Essential Medicines. It is available as a biosimilar medication. In 2020, it was the 205th most commonly prescribed medication in the United States, with more than 2 million prescriptions.
+Medical uses
+In the US, adalimumab is indicated for the treatment of rheumatoid arthritis, juvenile idiopathic arthritis, psoriatic arthritis, ankylosing spondylitis, adult crohn's disease, pediatric crohn's disease, ulcerative colitis, plaque psoriasis, hidradenitis suppurativa, and uveitis.
+In the EU it is indicated for the treatment of:
+Rheumatoid arthritis
+Adalimumab has been shown to reduce the signs and symptoms of moderate to severe rheumatoid arthritis in adults. It may be used alone or in combination with disease-modifying antirheumatic drugs (DMARD). It has also been shown to have efficacy in moderate to severe polyarticular juvenile idiopathic arthritis in children four years and older, and is indicated for the treatment of that condition. In rheumatoid arthritis, it is indicated for use alone, or with methotrexate or similar medicines, in the United States since 2002. It has a similar effectiveness as methotrexate and, in combination, nearly doubles the response rate of methotrexate alone.
+Ankylosing spondylitis
+Adalimumab has been shown to reduce the signs and symptoms of, and is approved for treatment for, ankylosing spondylitis in adults.
+Crohn's disease
+Adalimumab has been shown to reduce the signs and symptoms of moderate to severe Crohn's disease. It has been approved for that use in the UK since 2009.
+Ulcerative colitis
+Adalimumab may be effective and well tolerated in ulcerative colitis. It was approved by the US Food and Drug Administration (FDA) for treatment of moderate to severe cases in adults.
+Plaque psoriasis
+Adalimumab has been shown to treat moderate to severe chronic plaque psoriasis in adults who have the condition in many areas of their body and who may benefit from taking injections or pills (systemic therapy) or phototherapy (treatment using ultraviolet light alone or with pills). Adalimumab has been shown to be effective therapy when used either continuously or intermittently in patients with moderate to severe psoriasis.
+Hidradenitis suppurativa
+Adalimumab was approved for hidradenitis suppurativa in 2015.
+Juvenile idiopathic arthritis
+Adalimumab has been shown to reduce the signs and symptoms of moderate to severe polyarticular juvenile idiopathic arthritis in children aged four years and older.
+Non-infectious uveitis
+Adalimumab is indicated for the treatment of non-infectious uveitis (inflammation of the layer beneath the white of the eyeball).
+Adverse effects
+There is strong evidence that adalimumab increases risk of serious infections, such as tuberculosis, and it has also been reported to increase the risk of developing various cancers. However, such an association may reflect an increased risk of developing malignancies inherent in the conditions being treated, and not with adalimumab itself. A systematic review published in 2018, found no increased cancer incidence rate in patients with chronic inflammatory disorders treated with adalimumab and other TNF inhibitors, as compared to those who were not, with a possible exception for non-melanoma skin cancer.
+There are rare reports of serious liver injury; rare reports of demyelinating central nervous system disorders; and rare reports of cardiac failure—the US Food and Drug Administration (FDA) issued a black box warning to doctors, which appears in the product labeling of adalimumab and other TNF-inhibiting drugs, instructing them to screen and monitor potential patients more carefully. Anaphylaxis or other serious allergic reactions may also occur.
+History
+Adalimumab was the first fully human monoclonal antibody approved by the US Food and Drug Administration (FDA). It was derived from phage display.
+Adalimumab was discovered as a result of a collaboration between BASF Bioresearch Corporation and Cambridge Antibody Technology, U.K., itself a collaboration of the government-funded Medical Research Council and three academics, which began in 1993.
+Initially named D2E7, it was then further manufactured at BASF Bioresearch Corporation, developed by BASF Knoll (BASF Pharma), and ultimately manufactured and marketed by Abbott Laboratories after Abbott's acquisition of BASF Pharma. On 1 January 2013, Abbott split into two companies, one retaining the Abbott name and the other named AbbVie. As a result, AbbVie took over development and marketing of Humira. The brand name Humira stands for "human monoclonal antibody in rheumatoid arthritis", and was named by one of Abbott's employees, Richard J. Karwoski, who was also responsible for leading the effort to get Humira approved by the FDA.
+It was the third TNF inhibitor, after infliximab and etanercept, to be approved in the United States. It was constructed from a fully human monoclonal antibody, while infliximab is a mouse-human chimeric antibody and etanercept is a TNF receptor-IgG fusion protein.
+The drug candidate was discovered initially using CAT's phage display technology and named D2E7. The key components of the drug were found by guiding the selection of human antibodies from phage display repertoires to a single epitope of an antigen TNF alpha. The ultimate clinical candidate, D2E7, was created and manufactured at BASF Bioresearch Corporation and taken through most of the drug development process by BASF Knoll, then further development, manufacturing and marketing by Abbott Laboratories, after Abbott acquired the pharmaceutical arm of BASF Knoll.
+Since 2008, adalimumab had been approved by the FDA for the treatment of rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis, Crohn's disease, moderate to severe chronic psoriasis and juvenile idiopathic arthritis. Although only approved for ulcerative colitis from late 2012, by the FDA in the disease's management, it had been used for several years in cases that have not responded to conventional treatment at standard dosing for Crohn's disease.
+Adalimumab, sold under the brand name Humira, was approved for use in the United States in 2002.
+Adalimumab, sold under the brand names Humira and Trudexa, was approved for use in the European Union in September 2003.
+Marketing
+Society and culture
+Economics
+The UK NHS in 2019 listed Humira, Amgevita, Hulio, Hyrimoz, Idacio, and Imraldi as biosimilars available on (almost free) prescription, to be updated in February 2022. The annual cost of adalimumab, the costliest NHS drug, was expected to drop from £400m to £100m by 2021, the biggest saving in NHS history from a single drug negotiation.
+Biosimilars
+From 2012, until the US patent expired in 2016, Humira led the list of top-selling pharmaceutical products, and in 2016, it had US$16 billion of global sales.
+From 2014 biosimilars were manufactured by several companies and sold at a lower price than before patent expiry.
+In 2014, Indian drugmaker Cadila Healthcare declared the launch of the first adalimumab biosimilar at a fifth of its US price. The generic was launched under the brand name Exemptia. In 2016, Indian drugmaker Torrent Pharmaceuticals launched its biosimilar for adalimumab, called Adfrar. It was the second generic biosimilar of adalimumab.
+In September 2016, the FDA approved Amgen's biosimilar adalimumab-atto, sold under the brand name Amjevita. Amjevita will not be available in the US until at least February 2023. In August 2017, the FDA approved German pharmaceutical company Boehringer Ingelheim's biosimilar, Cyltezo.
+In 2017, the biosimilars Amgevita, Solymbic, Imraldi, and Cyltezo were approved for use in the European Union.
+In 2018, the biosimilars Halimatoz, Hefiya, Hyrimoz, and Hulio were approved for use in the European Union.
+Adalimumab biosimilars became available in the European Union in 2018, allowing the National Health Service to make record-breaking cost-savings, as this is the single most expensive drug used in NHS hospitals, costing more than £400 million a year for about 46,000 patients.
+In October 2018, adalimumab-adaz (Hyrimoz) was approved for use in the United States.
+In April 2019, Idacio and Kromeya were approved for use in the European Union.
+In July 2019, adalimumab-bwwd (Hadlima), produced by Samsung Bioepsis, was approved for use in the US. However, it will not be available until at least June 2023, after the availability of Amgen's offering as a result of a negotiated intellectual property settlement with AbbVie.
+In November 2019, adalimumab-afzb (Abrilada) was approved for use in the United States. It was the 25th biosimilar to be approved by the FDA.
+In February 2020, the biosimilar Amsparity was approved for use in the European Union.
+In June 2020, the biosimilar Idacio was approved for use in Australia.
+In July 2020, adalimumab-fkjp (Hulio) was approved for use in the United States.
+In August 2020, the biosimilar Cadalimab was launched in India by Cadila Pharmaceuticals
+Idacio was approved for medical use in Canada in October 2020.
+In November 2020, Amgevita, Hulio, and Hyrimoz were approved for medical use in Canada.
+On 10 December 2020, the Committee for Medicinal Products for Human Use (CHMP) of the European Medicines Agency (EMA) adopted a positive opinion, recommending the granting of a marketing authorization for the medicinal product Yuflyma, intended for the treatment of certain inflammatory and autoimmune disorders. The applicant for this medicinal product is Celltrion Healthcare Hungary Kft. It was approved for medical use in the European Union in February 2021.
+In January 2021, Abrilada was approved for medical use in Canada.
+On 16 September 2021, the CHMP adopted a positive opinion, recommending the granting of a marketing authorization for the medicinal products Libmyris and Hukyndra, intended for the treatment of certain inflammatory and autoimmune disorders. The applicant for these medicinal products is Stada Arzneimittel AG. The biosimilars Libmyris and Hukyndra were approved for medical use in the European Union in November 2021.
+In December 2021, adalimumab-aqvh (Yusimry) was approved for medical use in the United States.
+In December 2021, Yuflyma was approved for medical use in Canada.
+In January 2022, Simlandi was approved for medical use in Canada.
+Idacio (adalimumab-aacf) was approved for medical use in the United States in December 2022.
+Royalty litigation
+In March 2003, Cambridge Antibody Technology (CAT) stated its wish to "initiate discussions regarding the applicability of the royalty offset provisions for Humira" with Abbott Laboratories in the High Court of London. In November 2004, the trial began, and in December 2004, Justice Hugh Laddie ruled for CAT.
+A short version of the full statement of the proceedings was released. In it Justice Laddie remarked, "Abbott was in error when it made its first royalty payment to CAT calculated on the basis that only 2% of the Net Sales was due. It should have calculated on the basis of the full royalty of just over 5% and should have paid and continued to pay CAT accordingly." Justice Laddie went on to observe "...that the construction advanced by Abbott does violence to the language of the agreements, renders them obscure and makes little or no commercial sense. For this reason CAT wins the action."
+Abbott was required to pay CAT US$255 million, some of which was to be passed to its partners in development. Of this sum, the Medical Research Council received US$191 million, and in addition, Abbott was asked to pay the MRC a further US$7.5 million over five years from 2006, providing that Humira remains on the market. The MRC also is to receive a further £5.1 million (sterling) in respect of past royalties.
+Patent litigation
+On 29 May 2009, Johnson & Johnson's Centocor unit, the maker of infliximab, won a ruling for $1.67 billion from Abbott Laboratories for patent infringement on the process for making Humira. However, in 2011, the judgment was overturned by the United States Court of Appeals for the Federal Circuit. In June 2020, a class action lawsuit filed by United Food and Commercial Workers Local 1500 (UFCW Local 1500) against AbbVie, alleging that the drug manufacturer used a patent thicket over 100 strong to maintain a monopoly on Adalimumab, was dismissed by the Northern District Court in Illinois. The dismissal was affirmed by the Seventh Circuit Court of Appeals on August 1, 2022. 
+References
+Further reading

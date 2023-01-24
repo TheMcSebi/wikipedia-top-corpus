@@ -1,0 +1,113 @@
+Error function
+In mathematics, the error function (also called the Gauss error function), often denoted by erf, is a complex function of a complex variable defined as:
+This integral is a special (non-elementary) sigmoid function that occurs often in probability, statistics, and partial differential equations. In many of these applications, the function argument is a real number. If the function argument is real, then the function value is also real.
+In statistics, for non-negative values of x, the error function has the following interpretation: for a random variable Y that is normally distributed with mean 0 and standard deviation 1/√2, erf x is the probability that Y falls in the range [−x, x].
+Two closely related functions are the complementary error function (erfc) defined as
+and the imaginary error function (erfi) defined as
+where i is the imaginary unit
+Name
+The name "error function" and its abbreviation erf were proposed by J. W. L. Glaisher in 1871 on account of its connection with "the theory of Probability, and notably the theory of Errors." The error function complement was also discussed by Glaisher in a separate publication in the same year.
+For the "law of facility" of errors whose density is given by
+(the normal distribution), Glaisher calculates the probability of an error lying between p and q as:
+Applications
+When the results of a series of measurements are described by a normal distribution with standard deviation σ and expected value 0, then erf (a/σ √2) is the probability that the error of a single measurement lies between −a and +a, for positive a. This is useful, for example, in determining the bit error rate of a digital communication system.
+The error and complementary error functions occur, for example, in solutions of the heat equation when boundary conditions are given by the Heaviside step function.
+The error function and its approximations can be used to estimate results that hold with high probability or with low probability. Given a random variable X ~ Norm[μ,σ] (a normal distribution with mean μ and standard deviation σ) and a constant L < μ:
+where A and B are certain numeric constants. If L is sufficiently far from the mean, specifically μ − L ≥ σ√ln k, then:
+so the probability goes to 0 as k → ∞.
+The probability for X being in the interval [La, Lb] can be derived as
+Properties
+The property erf (−z) = −erf z means that the error function is an odd function. This directly results from the fact that the integrand e−t2 is an even function (the antiderivative of an even function which is zero at the origin is an odd function and vice versa).
+Since the error function is an entire function which takes real numbers to real numbers, for any complex number z:
+where z is the complex conjugate of z.
+The integrand f = exp(−z2) and f = erf z are shown in the complex z-plane in the figures at right with domain coloring.
+The error function at +∞ is exactly 1 (see Gaussian integral). At the real axis, erf z approaches unity at z → +∞ and −1 at z → −∞. At the imaginary axis, it tends to ±i∞.
+Taylor series
+The error function is an entire function; it has no singularities (except that at infinity) and its Taylor expansion always converges, but is famously known "[...] for its bad convergence if x > 1."
+The defining integral cannot be evaluated in closed form in terms of elementary functions, but by expanding the integrand e−z2 into its Maclaurin series and integrating term by term, one obtains the error function's Maclaurin series as:
+which holds for every complex number z. The denominator terms are sequence A007680 in the OEIS.
+For iterative calculation of the above series, the following alternative formulation may be useful:
+because −(2k − 1)z2/k(2k + 1) expresses the multiplier to turn the kth term into the (k + 1)th term (considering z as the first term).
+The imaginary error function has a very similar Maclaurin series, which is:
+which holds for every complex number z.
+Derivative and integral
+The derivative of the error function follows immediately from its definition:
+From this, the derivative of the imaginary error function is also immediate:
+An antiderivative of the error function, obtainable by integration by parts, is
+An antiderivative of the imaginary error function, also obtainable by integration by parts, is
+Higher order derivatives are given by
+where H are the physicists' Hermite polynomials.
+Bürmann series
+An expansion, which converges more rapidly for all real values of x than a Taylor expansion, is obtained by using Hans Heinrich Bürmann's theorem:
+where sgn is the sign function. By keeping only the first two coefficients and choosing c1 = 31/200 and c2 = −341/8000, the resulting approximation shows its largest relative error at x = ±1.3796, where it is less than 0.0036127:
+Inverse functions
+Given a complex number z, there is not a unique complex number w satisfying erf w = z, so a true inverse function would be multivalued. However, for −1 < x < 1, there is a unique real number denoted erf−1 x satisfying
+The inverse error function is usually defined with domain (−1,1), and it is restricted to this domain in many computer algebra systems.  However, it can be extended to the disk |z| < 1 of the complex plane, using the Maclaurin series
+where c0 = 1 and
+So we have the series expansion (common factors have been canceled from numerators and denominators):
+(After cancellation the numerator/denominator fractions are entries OEIS: A092676/OEIS: A092677 in the OEIS; without cancellation the numerator terms are given in entry OEIS: A002067.) The error function's value at ±∞ is equal to ±1.
+For |z| < 1, we have erf(erf−1 z) = z.
+The inverse complementary error function is defined as
+For real x, there is a unique real number erfi−1 x satisfying erfi(erfi−1 x) = x.  The inverse imaginary error function is defined as erfi−1 x.
+For any real x, Newton's method can be used to compute erfi−1 x, and for −1 ≤ x ≤ 1, the following Maclaurin series converges:
+where ck is defined as above.
+Asymptotic expansion
+A useful asymptotic expansion of the complementary error function (and therefore also of the error function) for large real x is
+where (2n − 1)!! is the double factorial of (2n − 1), which is the product of all odd numbers up to (2n − 1). This series diverges for every finite x, and its meaning as asymptotic expansion is that for any integer N ≥ 1 one has
+where the remainder, in Landau notation, is
+as x → ∞.
+Indeed, the exact value of the remainder is
+which follows easily by induction, writing
+and integrating by parts.
+For large enough values of x, only the first few terms of this asymptotic expansion are needed to obtain a good approximation of erfc x (while for not too large values of x, the above Taylor expansion at 0 provides a very fast convergence).
+Continued fraction expansion
+A continued fraction expansion of the complementary error function is:
+Integral of error function with Gaussian density function
+which appears related to Ng and Geller, formula 13 in section 4.3 with a change of variables.
+Factorial series
+The inverse factorial series:
+converges for Re(z2) > 0. Here
+zn denotes the rising factorial, and s(n,k) denotes a signed Stirling number of the first kind.
+There also exists a representation by an infinite sum containing the double factorial:
+Numerical approximations
+Approximation with elementary functions
+Related functions
+Complementary error function
+The complementary error function, denoted erfc, is defined as
+which also defines erfcx, the scaled complementary error function (which can be used instead of erfc to avoid arithmetic underflow). Another form of erfc x for x ≥ 0 is known as Craig's formula, after its discoverer:
+This expression is valid only for positive values of x, but it can be used in conjunction with erfc x = 2 − erfc(−x) to obtain erfc(x) for negative values. This form is advantageous in that the range of integration is fixed and finite. An extension of this expression for the erfc of the sum of two non-negative variables is as follows:
+Imaginary error function
+The imaginary error function, denoted erfi, is defined as
+where D(x) is the Dawson function (which can be used instead of erfi to avoid arithmetic overflow).
+Despite the name "imaginary error function", erfi x is real when x is real.
+When the error function is evaluated for arbitrary complex arguments z, the resulting complex error function is usually discussed in scaled form as the Faddeeva function:
+Cumulative distribution function
+The error function is essentially identical to the standard normal cumulative distribution function, denoted Φ, also named norm(x) by some software languages, as they differ only by scaling and translation. Indeed,
+or rearranged for erf and erfc:
+Consequently, the error function is also closely related to the Q-function, which is the tail probability of the standard normal distribution. The Q-function can be expressed in terms of the error function as
+The inverse of Φ is known as the normal quantile function, or probit function and may be expressed in terms of the inverse error function as
+The standard normal cdf is used more often in probability and statistics, and the error function is used more often in other branches of mathematics.
+The error function is a special case of the Mittag-Leffler function, and can also be expressed as a confluent hypergeometric function (Kummer's function):
+It has a simple expression in terms of the Fresnel integral.
+In terms of the regularized gamma function P and the incomplete gamma function,
+sgn x is the sign function.
+Generalized error functions
+Some authors discuss the more general functions:
+Notable cases are:
+After division by n!, all the En for odd n look similar (but not identical) to each other. Similarly, the En for even n look similar (but not identical) to each other after a simple division by n!. All generalised error functions for n > 0 look similar on the positive x side of the graph.
+These generalised functions can equivalently be expressed for x > 0 using the gamma function and incomplete gamma function:
+Therefore, we can define the error function in terms of the incomplete gamma function:
+Iterated integrals of the complementary error function
+The iterated integrals of the complementary error function are defined by
+The general recurrence formula is
+They have the power series
+from which follow the symmetry properties
+and
+Implementations
+As real function of a real argument
+As complex function of a complex argument
+See also
+Related functions
+In probability
+References
+Further reading

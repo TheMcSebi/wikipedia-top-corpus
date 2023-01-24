@@ -1,0 +1,15 @@
+Find My iPhone
+Find My iPhone (known as Find My Mac in macOS) was an app and service provided by Apple Inc. that allowed remote locating of iOS devices, Mac computers, Apple Watch, and AirPods. Find My iPhone was enhanced and merged into the app Find My in iOS 13 and iPadOS 13 in 2019.
+The service itself was integrated into iOS and macOS, while enabled devices could be tracked using either an iOS app or the iCloud website. On iOS 8 and older, the app could be downloaded from the App Store free of charge. Starting with iOS 9, the app has been bundled with the operating system.
+For the app to work, both the tracker device and the device being located had to be supported devices with the Find My iPhone app installed and Location Services turned on, and both must have been connected to the same iCloud account.
+Features
+Find My iPhone allowed users to locate their iOS devices using either the iOS app or iCloud on a computer (such as a desktop). In addition to locating a device, the service provided three additional options:
+The update with iOS 6 added the ability to check the device's battery level.
+Requirements
+For the Find My iPhone app to work, the user must have to set up an iCloud account to create the user's Apple ID. Each device to be tracked must have been linked to the same Apple ID, and the Location Services feature must also have been be turned on on each device to be tracked. Location was determined using GPS in the iOS device when Location Services are turned on, but the location of the iOS device was only approximate. To turn Location Services on, users needed to go to Settings > Privacy > Location Services, then selecting the Find My iPhone app in the list and selecting the "While Using the App" option. To deactivate the app, selecting the "Never" option instead. The user could also track the device by signing in to iCloud.com.
+As of January 2013, Find My iPhone was supported on iPhone, iPad, iPod Touch, and Mac computers running OS X 10.7.5 "Lion" or later. In addition to a compatible device, a free iCloud account was required to use Find My iPhone. Users also can track their Find My iPhone enabled devices through iCloud on Windows, but cannot use it the other way around to track their PC.
+History
+Find My iPhone was first announced on June 10, 2009, and released initially in June 2010 with the iOS 3.0 software update as a feature for paying MobileMe users. It was made free of charge with the iOS 4.2.1 software update on November 22, 2010, but only for devices introduced in 2010. With the release of iCloud in October 2011, the service became free for all users. Also, the service was made available as "Find My Mac" for Mac computers running OS X 10.7.2 "Lion" or later using iCloud.
+In iOS 9, Find my iPhone became a built-in app, and thus could not be removed.
+With the release of MacOS Catalina, the Find My Mac app was combined with the Find My Friends app to create the new Find My app.
+Incidents

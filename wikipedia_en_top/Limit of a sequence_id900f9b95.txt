@@ -1,0 +1,88 @@
+Limit of a sequence
+In mathematics, the limit of a sequence is the value that the terms of a sequence "tend to", and is often denoted using the $MATH$ symbol (e.g., $MATH$). If such a limit exists, the sequence is called convergent. A sequence that does not converge is said to be divergent. The limit of a sequence is said to be the fundamental notion on which the whole of mathematical analysis ultimately rests.
+As the positive integer $MATH$ becomes larger and larger, the value $MATH$ becomes arbitrarily close to $MATH$. We say that "the limit of the sequence $MATH$ equals $MATH$."
+Limits can be defined in any metric or topological space, but are usually first encountered in the real numbers.
+History
+The Greek philosopher Zeno of Elea is famous for formulating paradoxes that involve limiting processes.
+Leucippus, Democritus, Antiphon, Eudoxus, and Archimedes developed the method of exhaustion, which uses an infinite sequence of approximations to determine an area or a volume. Archimedes succeeded in summing what is now called a geometric series.
+Grégoire de Saint-Vincent gave the first definition of limit (terminus) of a geometric series in his work Opus Geometricum (1647): "The terminus of a progression is the end of the series, which none progression can reach, even not if she is continued in infinity, but which she can approach nearer than a given segment."
+Newton dealt with series in his works on Analysis with infinite series (written in 1669, circulated in manuscript, published in 1711), Method of fluxions and infinite series (written in 1671, published in English translation in 1736, Latin original published much later) and Tractatus de Quadratura Curvarum (written in 1693, published in 1704 as an Appendix to his Optiks). In the latter work, Newton considers the binomial expansion of (x + o)n, which he then linearizes by taking the limit as o tends to 0.
+In the 18th century, mathematicians such as Euler succeeded in summing some divergent series by stopping at the right moment; they did not much care whether a limit existed, as long as it could be calculated. At the end of the century, Lagrange in his Théorie des fonctions analytiques (1797) opined that the lack of rigour precluded further development in calculus. Gauss in his etude of hypergeometric series (1813) for the first time rigorously investigated the conditions under which a series converged to a limit.
+The modern definition of a limit (for any ε there exists an index N so that ...) was given by Bernard Bolzano (Der binomische Lehrsatz, Prague 1816, which was little noticed at the time), and by Karl Weierstrass in the 1870s.
+Real numbers
+In the real numbers, a number $MATH$ is the limit of the sequence $MATH$, if the numbers in the sequence become closer and closer to $MATH$, and not to any other number.
+Examples
+Definition
+We call $MATH$ the limit of the sequence $MATH$, which is written
+if the following condition holds:
+In other words, for every measure of closeness $MATH$, the sequence's terms are eventually that close to the limit. The sequence $MATH$ is said to converge to or tend to the limit $MATH$.
+Symbolically, this is:
+
+If a sequence $MATH$ converges to some limit $MATH$, then it is convergent and $MATH$ is the only limit; otherwise $MATH$ is divergent. A sequence that has zero as its limit is sometimes called a null sequence.
+Illustration
+Properties
+Some other important properties of limits of real sequences include the following:
+These properties are extensively used to prove limits, without the need to directly use the cumbersome formal definition. For example, once it is proven that $MATH$, it becomes easy to show—using the properties above—that $MATH$ (assuming that $MATH$).
+Infinite limits
+A sequence $MATH$ is said to tend to infinity, written
+if the following holds:
+Symbolically, this is:
+Similarly, we say a sequence tends to minus infinity, written
+if the following holds:
+Symbolically, this is:
+If a sequence tends to infinity or minus infinity, then it is divergent. However, a divergent sequence need not tend to plus or minus infinity, and the sequence $MATH$ provides one such example.
+Metric spaces
+Definition
+A point $MATH$ of the metric space $MATH$ is the limit of the sequence $MATH$ if:
+Symbolically, this is:
+This coincides with the definition given for real numbers when $MATH$ and $MATH$.
+Properties
+Cauchy sequences
+A Cauchy sequence is a sequence whose terms ultimately become arbitrarily close together, after sufficiently many initial terms have been discarded. The notion of a Cauchy sequence is important in the study of sequences in metric spaces, and, in particular, in real analysis. One particularly important result in real analysis is the Cauchy criterion for convergence of sequences: a sequence of real numbers is convergent if and only if it is a Cauchy sequence. This remains true in other complete metric spaces.
+
+
+Topological spaces
+Definition
+A point $MATH$ of the topological space $MATH$ is a limit or limit point of the sequence $MATH$ if:
+This coincides with the definition given for metric spaces, if $MATH$ is a metric space and $MATH$ is the topology generated by $MATH$.
+A limit of a sequence of points $MATH$ in a topological space $MATH$ is a special case of a limit of a function: the domain is $MATH$ in the space $MATH$, with the induced topology of the affinely extended real number system, the range is $MATH$, and the function argument $MATH$ tends to $MATH$, which in this space is a limit point of $MATH$.
+Properties
+In a Hausdorff space, limits of sequences are unique whenever they exist. Note that this need not be the case in non-Hausdorff spaces; in particular, if two points $MATH$ and $MATH$ are topologically indistinguishable, then any sequence that converges to $MATH$ must converge to $MATH$ and vice versa.
+Hyperreal numbers
+The definition of the limit using the hyperreal numbers formalizes the intuition that for a "very large" value of the index, the corresponding term is "very close" to the limit. More precisely, a real sequence $MATH$ tends to L if for every infinite hypernatural H, the term $MATH$ is infinitely close to L (i.e., the difference $MATH$ is infinitesimal). Equivalently, L is the standard part of $MATH$:
+Thus, the limit can be defined by the formula
+where the limit exists if and only if the righthand side is independent of the choice of an infinite H.
+Sequence of more than one index
+Sometimes one may also consider a sequence with more than one index, for example, a double sequence $MATH$. This sequence has a limit $MATH$ if it becomes closer and closer to $MATH$ when both n and m becomes very large.
+Example
+Definition
+We call $MATH$ the double limit of the sequence $MATH$, written
+if the following condition holds:
+In other words, for every measure of closeness $MATH$, the sequence's terms are eventually that close to the limit. The sequence $MATH$ is said to converge to or tend to the limit $MATH$.
+Symbolically, this is:
+Note that the double limit is different from taking limit in n first, and then in m. The latter is known as iterated limit. Given that both the double limit and the iterated limit exists, they have the same value. However, it is possible that one of them exist but the other does not.
+Infinite limits
+A sequence $MATH$ is said to tend to infinity, written
+if the following holds:
+Symbolically, this is:
+Similarly, a sequence $MATH$ tends to minus infinity, written
+if the following holds:
+Symbolically, this is:
+If a sequence tends to infinity or minus infinity, then it is divergent. However, a divergent sequence need not tend to plus or minus infinity, and the sequence $MATH$ provides one such example.
+Pointwise limits and uniform limits
+For a double sequence $MATH$, we may take limit in one of the indices, say, $MATH$, to obtain a single sequence $MATH$. In fact, there are two possible meanings when taking this limit. The first one is called pointwise limit, denoted
+which means:
+Symbolically, this is:
+When such a limit exists, we say the sequence $MATH$ converges pointwise to $MATH$.
+The second one is called uniform limit, denoted
+which means:
+Symbolically, this is:
+In this definition, the choice of $MATH$ is independent of $MATH$. In other words, the choice of $MATH$ is uniformly applicable to all natural numbers $MATH$. Hence, one can easily see that uniform convergence is a stronger property than pointwise convergence: the existence of uniform limit implies the existence and equality of pointwise limit:
+When such a limit exists, we say the sequence $MATH$ converges uniformly to $MATH$.
+Iterated limit
+For a double sequence $MATH$, we may take limit in one of the indices, say, $MATH$, to obtain a single sequence $MATH$, and then take limit in the other index, namely $MATH$, to get a number $MATH$. Symbolically,
+This limit is known as iterated limit of the double sequence. Note that the order of taking limits may affect the result, i.e.,
+A sufficient condition of equality is given by the Moore-Osgood theorem, which requires the limit $MATH$ to be uniform in m.
+See also
+Notes
+Proofs

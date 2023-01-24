@@ -1,0 +1,25 @@
+Sodium sulfide
+Sodium sulfide is a chemical compound with the formula Na2S, or more commonly its hydrate Na2S·9H2O. Both the anhydrous and the hydrated salts in pure crystalline form are colorless solids, although technical grades of sodium sulfide are generally yellow to brick red owing to the presence of polysulfides and commonly supplied as a crystalline mass, in flake form, or as a fused solid. They are water-soluble, giving strongly alkaline solutions.  When exposed to moist air, Na2S and its hydrates emit hydrogen sulfide, an extremely toxic, flammable and corrosive gas which smells like rotten eggs. 
+Some commercial samples are specified as Na2S·xH2O, where a weight percentage of Na2S is specified. Commonly available grades have around 60% Na2S by weight, which means that x is around 3. These grades of sodium sulfide are often marketed as 'sodium sulfide flakes'.
+Structure
+Na2S adopts the antifluorite structure, which means that the Na+ centers occupy sites of the fluoride in the CaF2 framework, and the larger S2− occupy the sites for Ca2+.
+Production
+Industrially Na2S is produced by carbothermic reduction of sodium sulfate often using coal:
+In the laboratory, the salt can be prepared by reduction of sulfur with sodium in anhydrous ammonia, or by sodium in dry THF with a catalytic amount of naphthalene (forming sodium naphthalenide):
+Reactions with inorganic reagents
+The sulfide ion in sulfide salts such as sodium sulfide can incorporate a proton into the salt by protonation:
+Because of this capture of the proton ( H+), sodium sulfide has basic character. Sodium sulfide is strongly basic, able to absorb two protons. Its conjugate acid is sodium hydrosulfide (SH−). An aqueous solution contains a significant portion of sulfide ions that are singly protonated.
+Sodium sulfide is unstable in the presence of water due to the gradual loss of hydrogen sulfide into the atmosphere.
+When heated with oxygen and carbon dioxide, sodium sulfide can oxidize to sodium carbonate and sulfur dioxide:
+Oxidation with hydrogen peroxide gives sodium sulfate:
+Upon treatment with sulfur, polysulfides are formed:
+Uses
+Sodium sulfide is primarily used in the kraft process in the pulp and paper industry.
+It is used in water treatment as an oxygen scavenger agent and also as a metals precipitant; in chemical photography for toning black and white photographs; in the textile industry as a bleaching agent, for desulfurising and as a dechlorinating agent; and in the leather trade for the sulfitisation of tanning extracts. It is used in chemical manufacturing as a sulfonation and sulfomethylation agent. It is used in the production of rubber chemicals, sulfur dyes and other chemical compounds. It is used in other applications including ore flotation, oil recovery, making dyes, and detergent. It is also used during leather processing, as an unhairing agent in the liming operation.
+Reagent in organic chemistry
+Alkylation of sodium sulfide give thioethers:
+Even aryl halides participate in this reaction. By a broadly similar process sodium sulfide can react with alkenes in the thiol-ene reaction to give thioethers.
+Sodium sulfide can be used as nucleophile in Sandmeyer type reactions. Sodium sulfide reduces1,3-dinitrobenzene derivatives to the 3-nitroanilines. Aqueous solution of sodium sulfide can be refluxed with nitro carrying azo dyes dissolved in dioxane and ethanol to selectively reduce the nitro groups to amine; while other reducible groups, e.g. azo group, remain intact. Sulfide has also been employed in photocatalytic applications.
+Sodium sulfide is the active ingredient in Dr. Scholl's ingrown toenail pain treatment.
+Safety
+Like sodium hydroxide, sodium sulfide is strongly alkaline and can cause chemical burns. Acids react with it to rapidly produce hydrogen sulfide, which is highly toxic.

@@ -1,0 +1,126 @@
+Integral equation
+
+
+In mathematics, integral equations are equations in which an unknown function appears under an integral sign. In mathematical notation, integral equations may thus be expressed as being of the form: 
+where $MATH$ is an integral operator acting on u. Hence, integral equations may be viewed as the analog to differential equations where instead of the equation involving derivatives, the equation contains integrals. A direct comparison can be seen with the mathematical form of the general integral equation above with the general form of a differential equation which may be expressed as follows:
+where $MATH$ may be viewed as a differential operator of order i. Due to this close connection between differential and integral equations, one can often convert between the two. For example, one method of solving a boundary value problem is by converting the differential equation with its boundary conditions into an integral equation and solving the integral equation. In addition, Because one can convert between the two, differential equations in physics such as Maxwell’s equations often have an analog integral and differential form. See also, for example, Green's function and Fredholm theory.
+Classification and overview
+Various classification methods for integral equations exist. A few standard classifications include distinctions between linear and nonlinear; homogenous and inhomogenous; Fredholm and Volterra; first order, second order, and third order; and singular and regular integral equations. These distinctions usually rest on some fundamental property such as the consideration of the linearity of the equation or the homogeneity of the equation. These comments are made concrete through the following definitions and examples:
+Linearity
+Linear: An integral equation is linear if the unknown function u(x) and its integrals appear linear in the equation. Hence, an example of a linear equation would be:
+As a note on naming convention: i) u(x) is called the unknown function, ii) f(x) is called a known function, iii) K(x,t) is a function of two variables and often called the Kernel function, and iv) λ is an unknown factor or parameter, which plays the same role as the eigenvalue in linear algebra.
+Nonlinear: An integral equation is nonlinear if the unknown function u(x) or any of its integrals appear nonlinear in the equation. Hence, examples of nonlinear equations would be the equation above if we replaced u(t) with $MATH$, such as:
+Certain kinds of nonlinear integral equations have specific names. A selection of such equations are:
+More information on the Hammerstein equation and different versions of the Hammerstein equation can be found in the Hammerstein section below.
+Location of the unknown equation
+First kind: An integral equation is called an integral equation of the first kind if the unknown function appears only under the integral sign. An example would be: $MATH$.
+Second kind: An integral equation is called an integral equation of the second kind if the unknown function appears also outside the integral.
+Third kind: An integral equation is called an integral equation of the third kind if it is a linear Integral equation of the following form:
+where g(t) vanishes at least once in the interval [a,b] or where g(t) vanishes at a finite number of points in (a,b).
+Limits of Integration
+Fredholm: An integral equation is called a Fredholm integral equation if both of the limits of integration in all integrals are fixed and constant. An example would be that the integral is taken over a fixed subset of $MATH$. Hence, the following two examples are Fredholm equations:
+
+Note that we can express integral equations such as those above also using integral operator notation. For example, we can define the Fredholm integral operator as:
+Hence, the above Fredholm equation of the second kind may be written compactly as:
+Volterra: An integral equation is called a Volterra integral equation if at least one of the limits of integration is a variable. Hence, the integral is taken over a domain varying with the variable of integration. Examples of Volterra equations would be:
+
+As with Fredholm equations, we can again adopt operator notation. Thus, we can define the linear Volterra integral operator $MATH$, as follows:
+where $MATH$ and K(t,s) is called the kernel and must be continuous on the interval $MATH$. Hence, the Volterra integral equation of the first kind may be written as:
+with $MATH$. In addition, a linear Volterra integral equation of the second kind for an unknown function $MATH$ and a given continuous function $MATH$ on the interval $MATH$ where $MATH$:
+Volterra-Fredholm: In higher dimensions, integral equations such as Fredholm-Volterra integral equations (VFIE) exist. A VFIE has the form:
+with $MATH$ and $MATH$ being a closed bounded region in $MATH$ with piecewise smooth boundary. The Fredholm-Volterrra Integral Operator $MATH$ is defined as:
+Note that while throughout this article, the bounds of the integral are usually written as intervals, this need not be the case. In general, integral equations don't always need to be defined over an interval $MATH$, but could also be defined over a curve or surface.
+Homogeneity
+Homogenous: An integral equation is called homogeneous if the known function $MATH$ is identically zero.
+Inhomogenous: An integral equation is called homogeneous if the known function $MATH$ is nonzero.
+Regularity
+Regular: An integral equation is called regular if the integrals used are all proper integrals.
+Singular or weakly singular: An integral equation is called singular or weakly singular if the integral is an improper integral. This could be either because at least one of the limits of integration is infinite or the kernel becomes unbounded, meaning infinite, on at least one point in the interval or domain over which is being integrated.
+
+
+Examples include:
+These two integral equations are the Fourier transform and the Laplace transform of u(x), respectively, with both being Fredholm equations of the first kind with kernel $MATH$ and $MATH$, respectively. Another example of a singular integral equation in which the kernel becomes unbounded is: 
+This equation is a special form of the more general weakly singular Volterra integral equation of the first kind, called Abel's integral equation: 
+Strongly singular: An integral equation is called strongly singular if the integral is defined by a special regularisation, for example, by the Cauchy principal value.
+Integro-differential equations
+
+An Integro-differential equation, as the name suggests, combines differential and integral operators into one equation. There are many version including the Volterra integro-differential equation and delay type equations as defined below. For example, using the Volterra operator as defined above, the Volterra integro-differential equation may be written as:
+For delay problems, we can define the delay integral operator $MATH$ as:
+where the delay integro-differential equation may be expressed as:
+Volterra integral equations
+Uniqueness and existence theorems in 1D
+
+The solution to a linear Volterra integral equation of the first kind, given by the equation:
+can be described by the following uniqueness and existence theorem. Recall that the Volterra integral operator $MATH$, can be defined as follows:
+where $MATH$ and K(t,s) is called the kernel and must be continuous on the interval $MATH$.
+Theorem — Assume that $MATH$ satisfies $MATH$ and $MATH$ for some $MATH$ Then for any $MATH$ with $MATH$ the integral equation above has a unique solution in $MATH$.
+
+The solution to a linear Volterra integral equation of the second kind, given by the equation:
+can be described by the following uniqueness and existence theorem.
+Theorem — Let $MATH$ and let $MATH$ denote the resolvent Kernel associated with $MATH$. Then, for any $MATH$ , the second-kind Volterra integral equation has a unique solution  $MATH$ and this solution is given by: $MATH$.
+Volterra integral equations in $MATH$
+
+A Volterra Integral equation of the second kind can be expressed as follows:
+where $MATH$ :=[0,X]\times [0,Y]}
+  
+, $MATH$, $MATH$ and $MATH$. This integral equation has a unique solution $MATH$ given by:
+where $MATH$ is the resolvent kernel of K.
+Uniqueness and existence theorems of Fredhom-Volterra equations
+
+As defined above, a VFIE has the form:
+with $MATH$ and $MATH$ being a closed bounded region in $MATH$ with piecewise smooth boundary. The Fredholm-Volterrra Integral Operator $MATH$ is defined as:
+In the case where the Kernel K may be written as $MATH$, K is called the positive memory kernel. With this in mind, we can now introduce the following theorem:
+Theorem — If the linear VFIE given by: $MATH$  with  $MATH$ satisfies the following conditions:
+Then the VFIE has a unique solution $MATH$ given by $MATH$ where $MATH$ is called the Resolvent Kernel and is given by the limit of the Neumann series for the Kernel $MATH$ and solves the resolvent equations: $MATH$
+Special Volterra equations
+
+A special type of Volterra equation which is used in various applications is defined as follows:
+where $MATH$, the function g(t) is continuous on the interval $MATH$, and the Volterra integral operator $MATH$ is given by:
+with $MATH$.
+Converting IVP to integral equations
+In the following section, we give an example of how to convert an initial value problem (IVP) into an integral equation. There are multiple motivations for doing so, among them being that integral equations can often be more readily solvable and are more suitable for proving existence and uniqueness theorems.
+The following example was provided by Wazwaz on pages 1 and 2 in his book. We examine the IVP given by the equation:
+and the initial condition:
+If we integrate both sides of the equation, we get:
+and by the fundamental theorem of calculus, we obtain:
+Rearranging the equation above, we get the integral equation:
+which is a Volterra integral equation of the form:
+where K(x,t) is called the kernel and equal to 2t, and f(x)=1.
+Power series solution for integral equations
+In many cases, if the Kernel of the integral equation is of the form K(xt) and the Mellin transform of K(t) exists, we can find the solution of the integral equation
+in the form of a power series
+where
+are the Z-transform of the function g(s), and M(n + 1) is the Mellin transform of the Kernel.
+Numerical solution
+It is worth noting that integral equations often do not have an analytical solution, and must be solved numerically. An example of this is evaluating the electric-field integral equation (EFIE) or magnetic-field integral equation (MFIE) over an arbitrarily shaped object in an electromagnetic scattering problem.
+One method to solve numerically requires discretizing variables and replacing integral by a quadrature rule
+Then we have a system with n equations and n variables. By solving it we get the value of the n variables
+Integral equations as a generalization of eigenvalue equations
+Certain homogeneous linear integral equations can be viewed as the continuum limit of eigenvalue equations. Using index notation, an eigenvalue equation can be written as
+where M = [Mi,j] is a matrix, v is one of its eigenvectors, and λ is the associated eigenvalue.
+Taking the continuum limit, i.e., replacing the discrete indices i and j with continuous variables x and y, yields
+where the sum over j has been replaced by an integral over y and the matrix M and the vector v have been replaced by the kernel K(x, y) and the eigenfunction φ(y). (The limits on the integral are fixed, analogously to the limits on the sum over j.) This gives a linear homogeneous Fredholm equation of the second type.
+In general, K(x, y) can be a distribution, rather than a function in the strict sense. If the distribution K has support only at the point x = y, then the integral equation reduces to a differential eigenfunction equation.
+In general, Volterra and Fredholm integral equations can arise from a single differential equation, depending on which sort of conditions are applied at the boundary of the domain of its solution.
+Wiener–Hopf integral equations
+Originally, such equations were studied in connection with problems in radiative transfer, and more recently, they have been related to the solution of boundary integral equations for planar problems in which the boundary is only piecewise smooth.
+Hammerstein equations
+
+A Hammerstein equation is a nonlinear first-kind Volterra integral equation of the form:
+Under certain regularity conditions, the equation is equivalent to the implicit Volterra integral equation of the second-kind:
+where:
+The equation may however also be expressed in operator form which motivates the definition of the following operator called the nonlinear Volterra-Hammerstein operator:
+Here $MATH$ is a smooth function while the kernel K may be continuous, i.e. bounded, or weakly singular. The corresponding second-kind Volterra integral equation called the Volterra-Hammerstein Integral Equation of the second kind, or simply Hammerstein equation for short, can be expressed as:
+In certain applications, the nonlinearity of the function G may be treated as being only semi-linear in the form of:
+In this case, we the following semi-linear Volterra integral equation:
+In this form, we can state an existence and uniqueness theorem for the semi-linear Hammerstein integral equation.
+Theorem — Suppose that the semi-linear Hammerstein equation has a unique solution $MATH$ and $MATH$ be a Lipschitz continuous function. Then the solution of this eqution may be written in the form: $MATH$ where $MATH$ denotes the unique solution of the linear part of the equation above and is given by: $MATH$ with $MATH$ denoting the resolvent kernel.
+
+We can also write the Hammerstein equation using a different operator called the Niemytzki operator, or substitution operator, $MATH$ defined as follows:
+More about this can be found on page 75 of this book.
+Applications
+Integral equations are important in many applications. Problems in which integral equations are encountered include radiative transfer, and the oscillation of a string, membrane, or axle. Oscillation problems may also be solved as differential equations.
+See also
+Bibliography
+References
+Further reading

@@ -1,0 +1,24 @@
+Glaciology
+Glaciology (from Latin glacies 'frost, ice', and Ancient Greek λόγος (logos) 'subject matter'; lit. 'study of ice') is the scientific study of glaciers, or more generally ice and natural phenomena that involve ice.
+Glaciology is an interdisciplinary Earth science that integrates geophysics, geology, physical geography, geomorphology, climatology, meteorology, hydrology, biology, and ecology. The impact of glaciers on people includes the fields of human geography and anthropology. The discoveries of water ice on the Moon, Mars, Europa and Pluto add an extraterrestrial component to the field, which is referred to as "astroglaciology".
+Overview
+A glacier is an extended mass of ice formed from snow falling and accumulating over a long period of time; glaciers move very slowly, either descending from high mountains, as in valley glaciers, or moving outward from centers of accumulation, as in continental glaciers.
+Areas of study within glaciology include glacial history and the reconstruction of past glaciation. A glaciologist is a person who studies glaciers. A glacial geologist studies glacial deposits and glacial erosive features on the landscape. Glaciology and glacial geology are key areas of polar research.
+Types
+Glaciers can be identified by their geometry and the relationship to the surrounding topography. There are two general categories of glaciation which glaciologists distinguish: alpine glaciation, accumulations or "rivers of ice" confined to valleys; and continental glaciation, unrestricted accumulations which once covered much of the northern continents.
+Zones of glaciers
+Glacier equilibrium line and ELA
+The glacier equilibrium line is the line separating the glacial accumulation area above from the ablation area below. 
+The equilibrium line altitude (ELA) and its change over the years is a key indicator of the health of a glacier. A long term monitoring of the ELA may be used as indication to climate change.
+Movement
+When a glacier is experiencing an accumulation input by precipitation (snow or refreezing rain) that exceeds the output by ablation, the glacier shows a positive glacier mass balance and will advance. Conversely, if the loss of volume (from evaporation, sublimation, melting, and calving) exceeds the accumulation, the glacier shows a negative glacier mass balance and the glacier will melt back. During times in which the volume input to the glacier by precipitation is equivalent to the ice volume lost from calving, evaporation, and melting, the glacier has a steady-state condition.
+Some glaciers show periods where the glacier is advancing at an extreme rate, that is typically 100 times faster than what is considered normal, it is referred to as a surging glacier. Surge periods may occur at an interval of 10 to 15 years, e.g. on Svalbard. This is caused mainly due to a long lasting accumulation period on subpolar glaciers frozen to the ground in the accumulation area. When the stress due to the additional volume in the accumulation area increases, the pressure melting point of the ice at its base may be reached, the basal glacier ice will melt, and the glacier will surge on a film of meltwater.
+Rate of movement
+The movement of glaciers is usually slow. Its velocity varies from a few centimeters to a few meters per day. The rate of movement depends upon the factors listed below:
+Glacial Terminology
+Glacial deposits
+Stratified
+Unstratified
+See also
+Notes
+Further reading

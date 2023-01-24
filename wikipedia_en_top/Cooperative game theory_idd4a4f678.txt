@@ -1,0 +1,100 @@
+Cooperative game theory
+In game theory, a cooperative game (or coalitional game) is a game with competition between groups of players ("coalitions") due to the possibility of external enforcement of cooperative behavior (e.g. through contract law). Those are opposed to non-cooperative games in which there is either no possibility to forge alliances or all agreements need to be self-enforcing (e.g. through credible threats).
+Cooperative games are often analysed through the framework of cooperative game theory, which focuses on predicting which coalitions will form, the joint actions that groups take and the resulting collective payoffs. It is opposed to the traditional non-cooperative game theory which focuses on predicting individual players' actions and payoffs and analyzing Nash equilibria.
+Cooperative game theory provides a high-level approach as it only describes the structure, strategies and payoffs of coalitions, whereas non-cooperative game theory also looks at how bargaining procedures will affect the distribution of payoffs within each coalition. As non-cooperative game theory is more general, cooperative games can be analyzed through the approach of non-cooperative game theory (the converse does not hold) provided that sufficient assumptions are made to encompass all the possible strategies available to players due to the possibility of external enforcement of cooperation. While it would thus be possible to have all games expressed under a non-cooperative framework, in many instances insufficient information is available to accurately model the formal procedures available to the players during the strategic bargaining process, or the resulting model would be of too high complexity to offer a practical tool in the real world. In such cases, cooperative game theory provides a simplified approach that allows the analysis of the game at large without having to make any assumption about bargaining powers.
+Mathematical definition
+A cooperative game is given by specifying a value for every coalition. Formally, the coalitional game consists of a finite set of players $MATH$, called the grand coalition, and a characteristic function $MATH$  from the set of all possible coalitions of players to a set of payments that satisfies $MATH$. The function describes how much collective payoff a set of players can gain by forming a coalition, and the game is sometimes called a value game or a profit game.
+Conversely, a cooperative game can also be defined with a characteristic cost function $MATH$ satisfying $MATH$. In this setting, players must accomplish some task, and the characteristic function $MATH$ represents the cost of a set of players accomplishing the task together. A game of this kind is known as a cost game. Although most cooperative game theory deals with profit games, all concepts can easily be translated to the cost setting.
+Cooperative game theory definition
+Cooperative game is a mandatory binding contract that can be reached by all parties on the basis of information exchange. Moreover, cooperative game is a mechanism to establish cooperative consciousness, mutual trust, restraint and commitment through negotiation and communication. 
+There are four main points: 
+1. Common interests 
+2. Necessary information exchange
+3. Voluntariness, equality and mutual benefit 
+4. Compulsory contract
+Harsanyi dividend
+The Harsanyi dividend (named after John Harsanyi, who used it to generalize the Shapley value in 1963) identifies the surplus that is created by a coalition of players in a cooperative game. To specify this surplus, the worth of this coalition is corrected by the surplus that is already created by subcoalitions. To this end, the dividend $MATH$ of coalition $MATH$ in game $MATH$ is recursively determined by
+$MATH$
+An explicit formula for the dividend is given by $MATH$. The function $MATH$ is also known as the Möbius inverse of $MATH$. Indeed, we can recover $MATH$ from $MATH$ by help of the formula $MATH$.
+Harsanyi dividends are useful for analyzing both games and solution concepts, e.g. the Shapley value is obtained by distributing the dividend of each coalition among its members, i.e., the Shapley value $MATH$ of player $MATH$ in game $MATH$ is given by summing up a player's share of the dividends of all coalitions that she belongs to, $MATH$.
+Duality
+Let $MATH$ be a profit game. The dual game of $MATH$ is the cost game $MATH$ defined as
+Intuitively, the dual game represents the opportunity cost for a coalition $MATH$ of not joining the grand coalition $MATH$. A dual profit game $MATH$ can be defined identically for a cost game $MATH$. A cooperative game and its dual are in some sense equivalent, and they share many properties. For example, the core of a game and its dual are equal. For more details on cooperative game duality, see for instance (Bilbao 2000).
+Subgames
+Let $MATH$ be a non-empty coalition of players. The subgame $MATH$ on $MATH$ is naturally defined as
+In other words, we simply restrict our attention to coalitions contained in $MATH$. Subgames are useful because they allow us to apply solution concepts defined for the grand coalition on smaller coalitions.
+Properties for characterization
+Superadditivity
+Characteristic functions are often assumed to be superadditive (Owen 1995, p. 213). This means that the value of a union of disjoint coalitions is no less than the sum of the coalitions' separate values:
+$MATH$ whenever $MATH$ satisfy $MATH$.
+Monotonicity
+Larger coalitions gain more:
+$MATH$.
+This follows from superadditivity. i.e. if payoffs are normalized so singleton coalitions have zero value.
+Properties for simple games
+A coalitional game v is considered simple if payoffs are either 1 or 0, i.e. coalitions are either "winning" or "losing".
+Equivalently, a simple game can be defined as a collection W of coalitions, where the members of W are called winning coalitions, and the others losing coalitions.
+It is sometimes assumed that a simple game is nonempty or that it does not contain an empty set. However, in other areas of mathematics, simple games are also called hypergraphs or Boolean functions (logic functions).
+A few relations among the above axioms have widely been recognized, such as the following
+(e.g., Peleg, 2002, Section 2.1):
+More generally, a complete investigation of the relation among the four conventional axioms
+(monotonicity, properness, strongness, and non-weakness), finiteness, and algorithmic computability
+has been made (Kumabe and Mihara, 2011),
+whose results are summarized in the Table "Existence of Simple Games" below.
+The restrictions that various axioms for simple games impose on their Nakamura number were also studied extensively.
+In particular, a computable simple game without a veto player has a Nakamura number greater than 3 only if it is a proper and non-strong game.
+Relation with non-cooperative theory
+Let G be a strategic (non-cooperative) game. Then, assuming that coalitions have the ability to enforce coordinated behaviour, there are several cooperative games associated with G. These games are often referred to as representations of G. The two standard representations are:
+Solution concepts
+The main assumption in cooperative game theory is that the grand coalition $MATH$ will form. The challenge is then to allocate the payoff $MATH$ among the players in some fair way. (This assumption is not restrictive, because even if players split off and form smaller coalitions, we can apply solution concepts to the subgames defined by whatever coalitions actually form.)  A solution concept is a vector $MATH$ (or a set of vectors) that represents the allocation to each player. Researchers have proposed different solution concepts based on different notions of fairness. Some properties to look for in a solution concept include:
+An efficient payoff vector is called a pre-imputation, and an individually rational pre-imputation is called an imputation. Most solution concepts are imputations.
+The stable set
+The stable set of a game (also known as the von Neumann-Morgenstern solution (von Neumann & Morgenstern 1944)) was the first solution proposed for games with more than 2 players. Let $MATH$ be a game and let $MATH$, $MATH$ be two imputations of $MATH$. Then $MATH$ dominates $MATH$ if some coalition $MATH$ satisfies $MATH$ and $MATH$. In other words, players in $MATH$ prefer the payoffs from $MATH$ to those from $MATH$, and they can threaten to leave the grand coalition if $MATH$ is used because the payoff they obtain on their own is at least as large as the allocation they receive under $MATH$.
+A stable set is a set of imputations that satisfies two properties:
+Von Neumann and Morgenstern saw the stable set as the collection of acceptable behaviours in a society: None is clearly preferred to any other, but for each unacceptable behaviour there is a preferred alternative. The definition is very general allowing the concept to be used in a wide variety of game formats.
+Properties
+The core
+Let $MATH$ be a game. The core of $MATH$ is the set of payoff vectors
+In words, the core is the set of imputations under which no coalition has a value greater than the sum of its members' payoffs. Therefore, no coalition has incentive to leave the grand coalition and receive a larger payoff.
+Properties
+The core of a simple game with respect to preferences
+For simple games, there is another notion of the core, when each player is assumed to have preferences on a set $MATH$ of alternatives.
+A profile is a list $MATH$ of individual preferences $MATH$ on $MATH$.
+Here $MATH$ means that individual $MATH$ prefers alternative $MATH$
+to $MATH$ at profile $MATH$.
+Given a simple game $MATH$ and a profile $MATH$, a dominance relation $MATH$ is defined
+on $MATH$ by $MATH$ if and only if there is a winning coalition $MATH$
+(i.e., $MATH$) satisfying $MATH$ for all $MATH$.
+The core $MATH$ of the simple game $MATH$ with respect to the profile $MATH$ of preferences
+is the set of alternatives undominated by $MATH$
+(the set of maximal elements of $MATH$ with respect to $MATH$):
+The Nakamura number of a simple game is the minimal number of winning coalitions with empty intersection.
+Nakamura's theorem states that the core $MATH$ is nonempty for all profiles $MATH$ of acyclic (alternatively, transitive) preferences
+if and only if $MATH$ is finite and the cardinal number (the number of elements) of $MATH$ is less than the Nakamura number of $MATH$.
+A variant by Kumabe and Mihara states that the core $MATH$ is nonempty for all profiles $MATH$ of preferences that have a maximal element
+if and only if the cardinal number of $MATH$ is less than the Nakamura number of $MATH$.  (See Nakamura number for details.)
+The strong epsilon-core
+Because the core may be empty, a generalization was introduced in (Shapley & Shubik 1966). The strong $MATH$-core for some number $MATH$ is the set of payoff vectors
+In economic terms, the strong $MATH$-core is the set of pre-imputations where no coalition can improve its payoff by leaving the grand coalition, if it must pay a penalty of $MATH$ for leaving. Note that $MATH$ may be negative, in which case it represents a bonus for leaving the grand coalition. Clearly, regardless of whether the core is empty, the strong $MATH$-core will be non-empty for a large enough value of $MATH$ and empty for a small enough (possibly negative) value of $MATH$. Following this line of reasoning, the least-core, introduced in (Maschler, Peleg & Shapley 1979), is the intersection of all non-empty strong $MATH$-cores. It can also be viewed as the strong $MATH$-core for the smallest value of $MATH$ that makes the set non-empty (Bilbao 2000).
+The Shapley value
+The Shapley value is the unique payoff vector that is efficient, symmetric, and satisfies monotonicity. It was introduced by Lloyd Shapley (Shapley 1953) who showed that it is the unique payoff vector that is efficient, symmetric, additive, and assigns zero payoffs to dummy players. The Shapley value of a superadditive game is individually rational, but this is not true in general. (Driessen 1988)
+The kernel
+Let $MATH$ be a game, and let $MATH$ be an efficient payoff vector. The maximum surplus of player i over player j with respect to x is
+the maximal amount player i can gain without the cooperation of player j by withdrawing from the grand coalition N under payoff vector x, assuming that the other players in i's withdrawing coalition are satisfied with their payoffs under x. The maximum surplus is a way to measure one player's bargaining power over another. The kernel of $MATH$ is the set of imputations x that satisfy
+for every pair of players i and j. Intuitively, player i has more bargaining power than player j with respect to imputation x if $MATH$, but player j is immune to player i's threats if $MATH$, because he can obtain this payoff on his own. The kernel contains all imputations where no player has this bargaining power over another. This solution concept was first introduced in (Davis & Maschler 1965).
+The nucleolus
+Let $MATH$ be a game, and let $MATH$ be a payoff vector. The excess of $MATH$ for a coalition $MATH$ is the quantity $MATH$; that is, the gain that players in coalition $MATH$ can obtain if they withdraw from the grand coalition $MATH$ under payoff $MATH$ and instead take the payoff $MATH$.
+Now let $MATH$ be the vector of excesses of $MATH$, arranged in non-increasing order. In other words, $MATH$. Notice that $MATH$ is in the core of $MATH$ if and only if it is a pre-imputation and $MATH$. To define the nucleolus, we consider the lexicographic ordering of vectors in $MATH$: For two payoff vectors $MATH$, we say $MATH$ is lexicographically smaller than $MATH$ if for some index $MATH$, we have $MATH$ and $MATH$. (The ordering is called lexicographic because it mimics alphabetical ordering used to arrange words in a dictionary.) The nucleolus of $MATH$ is the lexicographically minimal imputation, based on this ordering. This solution concept was first introduced in (Schmeidler 1969).
+Although the definition of the nucleolus seems abstract, (Maschler, Peleg & Shapley 1979) gave a more intuitive description: Starting with the least-core, record the coalitions for which the right-hand side of the inequality in the definition of $MATH$ cannot be further reduced without making the set empty. Continue decreasing the right-hand side for the remaining coalitions, until it cannot be reduced without making the set empty. Record the new set of coalitions for which the inequalities hold at equality; continue decreasing the right-hand side of remaining coalitions and repeat this process as many times as necessary until all coalitions have been recorded. The resulting payoff vector is the nucleolus.
+Properties
+Convex cooperative games
+Introduced by Shapley in (Shapley 1971), convex cooperative games capture the intuitive property some games have of "snowballing". Specifically, a game is convex if its characteristic function $MATH$ is supermodular:
+It can be shown (see, e.g., Section V.1 of (Driessen 1988)) that the supermodularity of $MATH$ is equivalent to
+that is, "the incentives for joining a coalition increase as the coalition grows" (Shapley 1971), leading to the aforementioned snowball effect. For cost games, the inequalities are reversed, so that we say the cost game is convex if the characteristic function is submodular.
+Properties
+Convex cooperative games have many nice properties:
+Similarities and differences with combinatorial optimization
+Submodular and supermodular set functions are also studied in combinatorial optimization. Many of the results in (Shapley 1971) have analogues in (Edmonds 1970), where submodular functions were first presented as generalizations of matroids. In this context, the core of a convex cost game is called the base polyhedron, because its elements generalize base properties of matroids.
+However, the optimization community generally considers submodular functions to be the discrete analogues of convex functions (Lovász 1983), because the minimization of both types of functions is computationally tractable. Unfortunately, this conflicts directly with Shapley's original definition of supermodular functions as "convex".
+The relationship between cooperative game theory and firm
+Corporate strategic decisions can develop and create value through cooperative game theory. This means that cooperative game theory can become the strategic theory of the firm, and different CGT solutions can simulate different institutions.

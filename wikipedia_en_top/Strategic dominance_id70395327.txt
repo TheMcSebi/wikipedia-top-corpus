@@ -1,0 +1,62 @@
+Strategic dominance
+In game theory, strategic dominance (commonly called simply dominance) occurs when one strategy is better than another strategy for one player, no matter how that player's opponents may play.  Many simple games can be solved using dominance. The opposite, intransitivity, occurs in games where one strategy may be better or worse than another strategy for one player, depending on how the player's opponents may play.
+Terminology
+When a player tries to choose the "best" strategy among a multitude of options, that player may compare two strategies A and B to see which one is better.
+The result of the comparison is one of:
+This notion can be generalized beyond the comparison of two strategies.
+Strategy: A complete contingent plan for a player in the game. A complete contingent plan is a full specification of a player's behavior, describing each action a player would take at every possible decision point. Because information sets represent points in a game where a player must make a decision, a player's strategy describes what that player will do at each information set.
+Rationality: The assumption that each player acts in a way that is designed to bring about what he or she most prefers given probabilities of various outcomes; von Neumann and Morgenstern showed that if these preferences satisfy certain conditions, this is mathematically equivalent to maximizing a payoff. A straightforward example of maximizing payoff is that of monetary gain, but for the purpose of a game theory analysis, this payoff can take any desired outcome. E.g., cash reward, minimization of exertion or discomfort, promoting justice, or amassing overall “utility” - the assumption of rationality states that
+players will always act in the way that best satisfies their ordering from best to worst of various possible outcomes.
+Common Knowledge: The assumption that each player has knowledge of the game, knows the rules and payoffs associated with each course of action, and realizes that every other player has this same level of understanding. This is the premise that allows a player to make a value judgment on the actions of another player, backed by the assumption of rationality, into
+consideration when selecting an action.
+Dominance and Nash equilibria
+If a strictly dominant strategy exists for one player in a game, that player will play that strategy in each of the game's Nash equilibria.  If both players have a strictly dominant strategy, the game has only one unique Nash equilibrium, referred to as a "dominant strategy equilibrium". However, that Nash equilibrium is not necessarily "efficient", meaning that there may be non-equilibrium outcomes of the game that would be better for both players.  The classic game used to illustrate this is the Prisoner's Dilemma.
+Strictly dominated strategies cannot be a part of a Nash equilibrium, and as such, it is irrational for any player to play them.  On the other hand, weakly dominated strategies may be part of Nash equilibria.  For instance, consider the payoff matrix pictured at the right.
+Strategy C weakly dominates strategy D.  Consider playing C: If one's opponent plays C, one gets 1; if one's opponent plays D, one gets 0.  Compare this to D, where one gets 0 regardless.  Since in one case, one does better by playing C instead of D and never does worse, C weakly dominates D.  Despite this, $MATH$ is a Nash equilibrium.  Suppose both players choose D.  Neither player will do any better by unilaterally deviating—if a player switches to playing C, they will still get 0.  This satisfies the requirements of a Nash equilibrium. Suppose both players choose C. Neither player will do better by unilaterally deviating—if a player switches to playing D, they will get 0. This also satisfies the requirements of a Nash equilibrium.
+Iterated elimination of strictly dominated strategies (IESDS)
+The iterated elimination (or deletion) of dominated strategies (also denominated as IESDS or IDSDS) is one common technique for solving games that involves iteratively removing dominated strategies.  In the first step, at most one dominated strategy is removed from the strategy space of each of the players since no rational player would ever play these strategies. This results in a new, smaller game.  Some strategies—that were not dominated before—may be dominated in the smaller game.  The first step is repeated, creating a new even smaller game, and so on. The process stops when no dominated strategy is found for any player. This process is valid since it is assumed that rationality among players is common knowledge, that is, each player knows that the rest of the players are rational, and each player knows that the rest of the players know that he knows that the rest of the players are rational, and so on ad infinitum (see Aumann, 1976).
+There are two versions of this process. One version involves only eliminating strictly dominated strategies.  If, after completing this process, there is only one strategy for each player remaining, that strategy set is the unique Nash equilibrium.
+Strict Dominance Deletion Step-by-Step Example:
+
+
+Another version involves eliminating both strictly and weakly dominated strategies.  If, at the end of the process, there is a single strategy for each player, this strategy set is also a Nash equilibrium.  However, unlike the first process, elimination of weakly dominated strategies may eliminate some Nash equilibria.  As a result, the Nash equilibrium found by eliminating weakly dominated strategies may not be the only Nash equilibrium. (In some games, if we remove weakly dominated strategies in a different order, we may end up with a different Nash equilibrium.)
+Weak Dominance Deletion Step-by-Step Example:
+In any case, if by iterated elimination of dominated strategies there is only one strategy left for each player, the game is called a dominance-solvable game.
+Iterated elimination by mixed strategy
+There are instances when there is no pure strategy that dominates another pure strategy, but a mixture of two or more pure strategies can dominate another strategy. This is called Strictly Dominant Mixed Strategies. Some authors allow for elimination of strategies dominated by a mixed strategy in this way. 
+Example 1:
+In this scenario, for player 1, there is no pure strategy that dominates another pure strategy. Let’s define the probability of player 1 playing up as p, and let p = ½. We can set a mixed strategy where player 1 plays up and down with probabilities (½,½). When player 2 plays left, then the payoff for player 1 playing the mixed strategy of up and down is 1, when player 2 plays right, the payoff for player 1 playing the mixed strategy is 0.5. Thus regardless of whether player 2 chooses left or right, player 1 gets more from playing this mixed strategy between up and down than if the player were to play the middle strategy. In this case, we should eliminate the middle strategy for player 1 since it’s been dominated by the mixed strategy of playing up and down with probability (½,½).
+
+
+Example 2:
+We can demonstrate the same methods on a more complex game and solve for the rational strategies. In this scenario, the blue coloring represents the dominating numbers in the particular strategy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Step-by-step solving:
+For Player 2, X is dominated by the mixed strategy ½X and ½Z. 
+The expected payoff for playing strategy ½X + ½Z must be greater than the expected payoff for playing pure strategy X, assigning ½ and ½ as tester values. The argument for mixed strategy dominance can be made if there is at least one mixed strategy that allows for dominance. 
+Testing with ½ and ½ gets the following: 
+Expected average payoff of ½ Strategy Y: ½(4+0+4) = 4 
+Expected average payoff of ½ Strategy Z: ½(0+5+5) = 5 
+Expected average payoff of pure strategy X: (1+1+3) = 5  
+Set up the inequality to determine whether the mixed strategy will dominate the pure strategy based off expected payoffs. 
+u½X + u½Z ⩼ uX 
+4 + 5 > 5 
+Mixed strategy ½X and ½Z will dominate pure strategy X for Player 2, and thus X can be eliminated from the rationalizable strategies for P2.
+For Player 1, U is dominated by the pure strategy D.
+For player 2, Y is dominated by the pure strategy Z.
+This leaves M dominating D for Player 1.
+The only rationalizable strategy for Players 1 and 2 is then (M,Z) or (3,5).
+

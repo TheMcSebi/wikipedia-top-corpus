@@ -1,0 +1,35 @@
+Intersection (road)
+An intersection or an at-grade junction is a junction where two or more roads converge, diverge, meet or cross at the same height, as opposed to an interchange, which uses bridges or tunnels to separate different roads. Major intersections are often delineated by gores and may be classified by road segments, traffic controls and lane design.
+Types
+Road segments
+One way to classify intersections is by the number of road segments (arms) that are involved.
+Traffic controls
+Another way of classifying intersections is by traffic control technology:
+Lane design
+Turns
+At intersections, turns are usually allowed, but are often regulated to avoid interference with other traffic. Certain turns may be not allowed or may be limited by regulatory signs or signals, particularly those that cross oncoming traffic. Alternative designs often attempt to reduce or eliminate such potential conflicts.
+Turn lanes
+At intersections with large proportions of turning traffic, turn lanes (also known as turn bays) may be provided. For example, in the intersection shown in the diagram, left turn lanes are present in the right-left street.
+Turn lanes allow vehicles,  to cross oncoming traffic (i.e., a left turn in right-side driving countries, or a right turn in left-side driving countries), or to exit a road without crossing traffic (i.e., a right turn in right-side driving countries, or a left turn in left-side driving countries). Absence of a turn lane does not normally indicate a prohibition of turns in that direction. Instead, traffic control signs are used to prohibit specific turns.
+Turn lanes can increase the capacity of an intersection or improve safety. Turn lanes can have a dramatic effect on the safety of a junction. In rural areas, crash frequency can be reduced by up to 48% if left turn lanes are provided on both main-road approaches at stop-controlled intersections. At signalized intersections, crashes can be reduced by 33%. Results are slightly lower in urban areas.
+Turn lanes are marked with an arrow bending into the direction of the turn which is to be made from that lane. Multi-headed arrows indicate that vehicle drivers may travel in any one of the directions pointed to by an arrow.
+Turn signals
+Traffic signals facing vehicles in turn lanes often have arrow-shaped indications. North America uses various indication patterns. Green arrows indicate protected turn phases, when vehicles may turn unhindered by oncoming traffic. Red arrows may be displayed to prohibit turns in that direction. Red arrows may be displayed along with a circular green indication to show that turns in the direction of the arrow are prohibited, but other movements are allowed. In some jurisdictions, a red arrow prohibits a turn on red. In Europe, if different lanes have differing phases, red, yellow and green traffic lights corresponding to each lane have blacked-out areas in the middle in the shape of arrows indicating the direction(s) drivers in that lane may travel in. This makes it easier for drivers to be aware which traffic light they need to pay attention to. A green arrow may also be provided; when it is on, drivers heading in the direction of the arrow may proceed, but must yield to all other vehicles. This is similar to the right turn on red in the US.
+Disadvantages to turn lanes include increased pavement area, with associated increases in construction and maintenance costs, as well as increased amounts of stormwater runoff. They also increase the distance over which pedestrians crossing the street are exposed to vehicle traffic. If a turn lane has a separate signal phase, it often increases the delay experienced by oncoming through traffic. Without a separate phase, left crossing traffic does not get the full safety benefit of the turn lane.
+Lane management
+Alternative intersection configurations, formerly called unconventional intersections, can manage turning traffic to increase safety and intersection throughput. These include the Michigan left/Superstreet (RCUT/MUT) and continuous flow intersection (CFI/DLT), to improve traffic flow, and also interchange types like Diverging diamond interchange (DDI/DCD) design as part of the Federal Highway Administration's Every Day Counts initiative which started in 2012.
+Vulnerable road users
+Vulnerable road users include pedestrians, cyclists, motorcyclists, and individuals using motorized scooters and similar devices. Compared to people who are in motor vehicles (like cars and trucks), they are much more likely to suffer catastrophic or fatal injuries at an intersection.
+Pedestrians
+Intersections generally must manage pedestrian as well as vehicle traffic. Pedestrian aids include crosswalks, pedestrian-directed traffic signals ("walk light") and over/underpasses. Traffic signals can be time consuming to navigate, especially if programmed to prioritise vehicle flow over pedestrians, while over and underpasses which rely on stairs are inaccessible to those who can't climb them. Walk lights may be accompanied by audio signals to aid the visually impaired. Medians can offer pedestrian islands, allowing pedestrians to divide their crossings into a separate segment for each traffic direction, possibly with a separate signal for each.
+Some intersections display red lights in all directions for a period of time. Known as a pedestrian scramble, this type of vehicle all-way stop allows pedestrians to cross safely in any direction, including diagonally. All green for non motorists is known from the crossing at Shibuya Station, Tokyo.
+In 2020, NHTSA reported that more than 50% of pedestrian deaths in the United States (3,262 total) were attributed to failure to yield the right of way-- which typically occurs at intersections. 
+Cyclists and motorcyclists
+Poor visibility at junctions can lead to drivers colliding with cyclists and motorcyclists. Some junctions use advanced stop lines which allow cyclists to filter to the front of a traffic queue which makes them more visible to drivers.
+Safety
+A European study found that in Germany and Denmark, the most important crash scenario involving vulnerable road users was:
+
+
+These findings are supported by data elsewhere. According to the U.S. National Highway Traffic Safety Administration, roughly half of all U.S. car crashes occurred at intersections or were intersection related in 2019.
+At grade railways
+In the case of railways or rail tracks the term at grade applies to a rail line that is not on an embankment nor in an open cut. As such, it crosses streets and roads without going under or over them. This requires level crossings. At-grade railways may run along the median of a highway. The opposite is grade-separated. There may be overpasses or underpasses.

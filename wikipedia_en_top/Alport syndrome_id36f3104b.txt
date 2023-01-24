@@ -1,0 +1,47 @@
+Alport syndrome
+Alport syndrome is a genetic disorder affecting around 1 in 5,000-10,000 children, characterized by glomerulonephritis, end-stage kidney disease, and hearing loss. Alport syndrome can also affect the eyes, though the changes do not usually affect vision, except when changes to the lens occur in later life. Blood in urine is universal. Proteinuria is a feature as kidney disease progresses.
+The disorder was first identified in a British family by the physician Cecil A. Alport in 1927. Alport syndrome once also had the label hereditary nephritis, but this is misleading as there are many other causes of hereditary kidney disease and 'nephritis'.
+Alport syndrome is caused by an inherited defect in type IV collagen—a structural material that is needed for the normal function of different parts of the body. Since type IV collagen is found in the ears, eyes, and kidneys, this explains why Alport syndrome affects different seemingly unrelated parts of the body (ears, eyes, kidneys, etc.).
+Depending on where the mutation is located in the genome, Alport syndrome can present itself in many forms. This includes X-linked Alport syndrome (XLAS), autosomal recessive Alport syndrome (ARAS), and autosomal dominant Alport syndrome (ADAS).
+Signs and symptoms
+These descriptions refer to 'classic' Alport syndrome, which usually causes significant disease from young adult or late childhood life.  Some individuals, usually with milder mutations or 'carrier' status, develop disease later, or show only some of the features of classic disease.
+Chronic kidney disease
+Blood in urine is a usual feature of Alport syndrome from early infancy, identifiable on urine dipsticks. In young children, episodes of visible (macroscopic) haematuria may occur. Protein begins to appear in urine as the disease progresses.  This is now regarded as an indication for treatment with ACE inhibitors. Progressive loss of kidney function (reflected clinically by increases in serum creatinine or decreases in estimated glomerular filtration rate) can occur and may require treatment with renal replacement: dialysis or a kidney transplant.
+Hearing loss
+Alport syndrome can also cause hearing loss although some patients are not affected.  Hearing in Alport syndrome patients is normal at birth. Hearing loss in affected patients develops progressively, usually at the stage when kidney function is normal, but there is substantial proteinuria.  However, in some patients, hearing loss is only noted after kidney function has been lost. Characteristically the early changes are reduced ability to hear high-frequency sounds, 'sensorineural deafness'.  This becomes more severe and affects lower frequencies too. Hearing loss is not usually complete in Alport syndrome; good communication is almost always possible with the use of hearing aids.
+Eye changes
+Various eye abnormalities are often seen including lenticonus, keratoconus, cataracts and corneal erosion as well as retinal flecks in the macula and mid-periphery. These rarely threaten vision. Lenticonus (cone-shaped lens) can be treated by replacement of the lens, as for cataracts. Mild keratoconus can be managed with hard, scleral, piggy-back or other specialty medical contact lenses; progressive cases may be halted with corneal collagen cross linking; and severe cases may require a corneal transplant. Macular abnormalities such as incomplete foveal hypoplasia or staircase foveopathy are common in Alport syndrome.
+It may also be associated with retinitis pigmentosa.
+Leiomyomatosis
+Diffuse leiomyomatosis of the oesophagus and tracheobronchial tree has been reported in some families with Alport syndrome. Symptoms usually appear in late childhood and include dysphagia, postprandial vomiting, substernal or epigastric pain, recurrent bronchitis, dyspnea, cough, and stridor. Leiomyomatosis is confirmed by computed tomography (CT) scanning or magnetic resonance imaging (MRI).
+Other abnormalities
+Aortic dissection has been described very rarely in patients with early-onset disease.  Leiomyomas, tumours of smooth muscle affecting the oesophagus and female genital tract, may occur in a rare overlap syndrome involving the adjacent COL4A5 and COL4A6 genes.
+Pathophysiology
+Alport Syndrome is a relatively common genetic disorder affecting around 1 in 5,000-10,000 children. 
+Genetics
+Alport syndrome is caused by mutations in COL4A3, COL4A4, and COL4A5, three of six human genes involved in basement membrane (type IV) collagen biosynthesis. Mutations in any of these genes prevent the proper production or assembly of the specialised type IV collagen '345' network which is an important structural component of basement membranes in the kidney, inner ear, and eye. It is also found in other locations, including the alveoli of the lungs.  Basement membranes are thin, sheet-like structures that separate and support cells in many tissues. Type IV collagen '112' type is found in both vertebrates and invertebrates and is the major isoform in most human basement membranes.  When mutations prevent the formation of 345 type IV collagen network in the glomerulus, the 112 network, which is formed in fetal development but usually replaced by 345, persists into adult life.
+Inheritance patterns
+Alport syndrome can have different inheritance patterns depending on which specific mutation is present.
+Clinical utility gene card for: Alport syndrome.
+Diagnosis
+The diagnosis can usually be made on a combination of clinical, family history, and biopsy criteria.
+Biopsy of kidneys or skin
+To be helpful, kidney biopsies need to be taken before the disease is too advanced.  Changes on conventional (light) microscopy are not characteristic, and the possibility of other diagnoses, particularly focal segmental glomerulosclerosis (FSGS), may be raised.  Electron microscopy shows a characteristic sequence of changes from thinning of the glomerular basement membrane (GBM), developing into areas of thinning and thickening, and finally into a complex appearance with apparent splitting, often described as a 'basketweave' appearance.  Early or very localised changes on this spectrum are not diagnostic, but the later changes are considered diagnostic.
+Immunohistochemistry or immunofluorescence studies to identify the COL3-4-5 proteins in GBM can be helpful.  However, these studies may be normal in some patients with Alport syndrome, especially milder variants.
+The skin contains type IV collagen in a '556' network.  Skin biopsies have been used to show the absence of the COL4A5 gene product, but these techniques are not straightforward, only apply to patients with severe COL4A5 mutations, and are not widely available.  Genetic testing is now a better alternative if kidney biopsy is not possible.
+Family history
+A family history of end-stage renal disease with hearing impairment is suggestive of Alport syndrome, but other conditions can cause this combination of abnormalities. Most can be distinguished by clinical features. The finding of haematuria in relatives is suggestive.
+While X-linked inheritance is the most common pattern, genetic testing is revealing that atypical presentations may be more common than currently thought.
+Genetic testing
+Genetic testing plays an increasingly important role in confirming the diagnosis where the clinical features do not amount to proof.
+Other tests
+The use of eye examinations for screening has been proposed. Other tests may include a urine or blood test.
+Treatment
+Kidney disease and kidney failure
+In addition to measures for chronic kidney disease (CKD) of any cause, there is evidence that ACE inhibitors can slow the deterioration of kidney function in Alport syndrome, delaying the need for dialysis or transplantation. The development of proteinuria has been recommended as an indication for commencing treatment.
+Once kidney failure has developed, patients usually do well on dialysis or with a kidney transplant. Transplantation can rarely be associated with the formation of antibodies to type IV collagen in the donor kidney resulting in progressive graft failure as a result of Goodpasture syndrome ('Alport post-transplant anti-GBM disease').
+Gene therapy has been frequently discussed, but delivering it to the podocytes in the glomerulus that normally produce the type IV collagen in the glomerular basement membrane is challenging.
+Hearing loss
+It is not known whether ACE inhibitors or other treatments affect hearing loss.  For those with classic Alport syndrome, hearing aids are often required in teenage or young adult years.
+Prognosis
+Studies of the life expectancy of patients with Alport syndrome are rare, but one 2012 study found that Alport patients receiving renal replacement therapy (dialysis or kidney transplantation) exhibited, on average, better survival compared with matched controls who had other kidney diseases (and who also received renal replacement therapy).

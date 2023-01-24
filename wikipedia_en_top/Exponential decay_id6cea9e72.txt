@@ -1,0 +1,50 @@
+Exponential decay
+A quantity is subject to exponential decay if it decreases at a rate proportional to its current value.  Symbolically, this process can be expressed by the following differential equation, where N is the quantity and λ (lambda) is a positive rate called the exponential decay constant, disintegration constant, rate constant, or transformation constant:
+The solution to this equation (see derivation below) is:
+where N(t) is the quantity at time t, N0 = N(0) is the initial quantity, that is, the quantity at time t = 0.
+Measuring rates of decay
+Mean lifetime
+If the decaying quantity, N(t), is the number of discrete elements in a certain set, it is possible to compute the average length of time that an element remains in the set.  This is called the mean lifetime (or simply the lifetime), where the exponential time constant, $MATH$, relates to the decay rate constant, λ, in the following way:
+The mean lifetime can be looked at as a "scaling time", because the exponential decay equation can be written in terms of the mean lifetime, $MATH$, instead of the decay constant, λ:
+and that $MATH$ is the time at which the population of the assembly is reduced to 1/e ≈ 0.367879441 times its initial value.
+For example, if the initial population of the assembly, N(0), is 1000, then the population at time $MATH$, $MATH$, is 368.
+A very similar equation will be seen below, which arises when the base of the exponential is chosen to be 2, rather than e. In that case the scaling time is the "half-life".
+Half-life
+A more intuitive characteristic of exponential decay for many people is the time required for the decaying quantity to fall to one half of its initial value. (If N(t) is discrete, then this is the median life-time rather than the mean life-time.) This time is called the half-life, and often denoted by the symbol t1/2.  The half-life can be written in terms of the decay constant, or the mean lifetime, as:
+When this expression is inserted for $MATH$ in the exponential equation above, and ln 2 is absorbed into the base, this equation becomes:
+Thus, the amount of material left is 2−1 = 1/2 raised to the (whole or fractional) number of half-lives that have passed. Thus, after 3 half-lives there will be 1/23 = 1/8 of the original material left.
+Therefore, the mean lifetime $MATH$ is equal to the half-life divided by the natural log of 2, or:
+For example, polonium-210 has a half-life of 138 days, and a mean lifetime of 200 days.
+Solution of the differential equation
+The equation that describes exponential decay is
+or, by rearranging (applying the technique called separation of variables),
+Integrating, we have
+where C is the constant of integration, and hence
+where the final substitution, N0 = eC, is obtained by evaluating the equation at t = 0, as N0 is defined as being the quantity at t = 0.
+This is the form of the equation that is most commonly used to describe exponential decay.  Any one of decay constant, mean lifetime, or half-life is sufficient to characterise the decay.  The notation λ for the decay constant is a remnant of the usual notation for an eigenvalue.  In this case, λ is the eigenvalue of the negative of the differential operator with N(t) as the corresponding eigenfunction. The units of the decay constant are s−1.
+Derivation of the mean lifetime
+Given an assembly of elements, the number of which decreases ultimately to zero, the mean lifetime, $MATH$, (also called simply the lifetime) is the expected value of the amount of time before an object is removed from the assembly.  Specifically, if the individual lifetime of an element of the assembly is the time elapsed between some reference time and the removal of that element from the assembly, the mean lifetime is the arithmetic mean of the individual lifetimes.
+Starting from the population formula
+first let c be the normalizing factor to convert to a probability density function:
+or, on rearranging,
+Exponential decay is a scalar multiple of the exponential distribution (i.e. the individual lifetime of each object is exponentially distributed), which has a well-known expected value.  We can compute it here using integration by parts.
+Decay by two or more processes
+A quantity may decay via two or more different processes simultaneously. In general, these processes (often called "decay modes", "decay channels", "decay routes" etc.) have different probabilities of occurring, and thus occur at different rates with different half-lives, in parallel. The total decay rate of the quantity N is given by the sum of the decay routes; thus, in the case of two processes:
+The solution to this equation is given in the previous section, where the sum of $MATH$ is treated as a new total decay constant $MATH$.
+Partial mean life associated with individual processes is by definition the multiplicative inverse of corresponding partial decay constant: $MATH$. A combined $MATH$ can be given in terms of $MATH$s:
+Since half-lives differ from mean life $MATH$ by a constant factor, the same equation holds in terms of the two corresponding half-lives:
+where $MATH$ is the combined or total half-life for the process, $MATH$ and $MATH$ are so-named partial half-lives of corresponding processes. Terms "partial half-life" and "partial mean life" denote quantities derived from a decay constant as if the given decay mode were the only decay mode for the quantity. The term "partial half-life" is misleading, because it cannot be measured as a time interval for which a certain quantity is halved.
+In terms of separate decay constants, the total half-life $MATH$ can be shown to be
+For a decay by three simultaneous exponential processes the total half-life can be computed as above:
+Decay series / coupled decay
+In nuclear science and pharmacokinetics, the agent of interest might be situated in a decay chain, where the accumulation is governed by exponential decay of a source agent, while the agent of interest itself decays by means of an exponential process. 
+These systems are solved using the Bateman equation. 
+In the pharmacology setting, some ingested substances might be absorbed into the body by a process reasonably modeled as exponential decay, or might be deliberately formulated to have such a release profile. 
+Applications and examples
+Exponential decay occurs in a wide variety of situations.  Most of these fall into the domain of the natural sciences.
+Many decay processes that are often treated as exponential, are really only exponential so long as the sample is large and the law of large numbers holds.  For small samples, a more general analysis is necessary, accounting for a Poisson process.
+Natural sciences
+Social sciences
+Computer science
+See also
+Notes

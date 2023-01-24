@@ -1,0 +1,39 @@
+Azithromycin
+Azithromycin, sold under the brand names Zithromax (in oral form) and Azasite (as an eye drop), is an antibiotic medication used for the treatment of a number of bacterial infections. This includes middle ear infections, strep throat, pneumonia, traveler's diarrhea, and certain other intestinal infections. Along with other medications, it may also be used for malaria. It can be taken by mouth or intravenously.
+Common side effects include nausea, vomiting, diarrhea and upset stomach. An allergic reaction, such as anaphylaxis, QT prolongation, or a type of diarrhea caused by Clostridium difficile is possible. No harm has been found with its use during pregnancy. Its safety during breastfeeding is not confirmed, but it is likely safe. Azithromycin is an azalide, a type of macrolide antibiotic. It works by decreasing the production of protein, thereby stopping bacterial growth.
+Azithromycin was discovered in 1980 by the Yugoslav pharmaceutical company Pliva and approved for medical use under the brand name Sumamed in 1988. It is on the World Health Organization's List of Essential Medicines. The World Health Organization classifies it as critically important for human medicine. It is available as a generic medication and is sold under many trade names worldwide. In 2020, it was the 68th most commonly prescribed medication in the United States, with more than 10 million prescriptions.
+Medical uses
+Azithromycin is used to treat diverse infections, including:
+Bacterial susceptibility
+Azithromycin has relatively broad but shallow antibacterial activity. It inhibits some Gram-positive bacteria, some Gram-negative bacteria, and many atypical bacteria.
+A strain of gonorrhea reported to be highly resistant to azithromycin was found in the population in 2015. Neisseria gonorrhoeae is normally susceptible to azithromycin, but the drug is not widely used as monotherapy due to a low barrier to resistance development. Extensive use of azithromycin has resulted in growing Streptococcus pneumoniae resistance.
+Aerobic and facultative Gram-positive microorganisms
+Aerobic and facultative anaerobic Gram-negative microorganisms
+Anaerobic microorganisms
+Other microorganisms
+Pregnancy and breastfeeding
+No harm has been found with use during pregnancy. However, there are no adequate well-controlled studies in pregnant women.
+The safety of the medication during breastfeeding is unclear. It was reported that because only low levels are found in breast milk and the medication has also been used in young children, it is unlikely that breastfed infants would have adverse effects. Nevertheless, it is recommended that the drug be used with caution during breastfeeding.
+Airway diseases
+Azithromycin appears to be effective in the treatment of chronic obstructive pulmonary disease through its suppression of inflammatory processes. And potentially useful in asthma and sinusitis via this mechanism. Azithromycin is believed to produce its effects through suppressing certain immune responses that may contribute to inflammation of the airways.
+Adverse effects
+Most common adverse effects are diarrhea (5%), nausea (3%), abdominal pain (3%), and vomiting. Fewer than 1% of people stop taking the drug due to side effects. Nervousness, skin reactions, and anaphylaxis have been reported. Clostridium difficile infection has been reported with use of azithromycin. Azithromycin does not affect the efficacy of birth control unlike some other antibiotics such as rifampin. Hearing loss has been reported.
+Occasionally, people have developed cholestatic hepatitis or delirium. Accidental intravenous overdose in an infant caused severe heart block, resulting in residual encephalopathy.
+In 2013 the FDA issued a warning that azithromycin "can cause abnormal changes in the electrical activity of the heart that may lead to a potentially fatal irregular heart rhythm." The FDA noted in the warning a 2012 study that found the drug may increase the risk of death, especially in those with heart problems, compared with those on other antibiotics such as amoxicillin or no antibiotic. The warning indicated people with preexisting conditions are at particular risk, such as those with QT interval prolongation, low blood levels of potassium or magnesium, a slower than normal heart rate, or those who use certain drugs to treat abnormal heart rhythms.
+It has been reported that azithromycin blocks autophagy and may predispose cystic fibrosis patients to mycobacterial infection.
+Pharmacology
+Mechanism of action
+Azithromycin prevents bacteria from growing by interfering with their protein synthesis. It binds to the 50S subunit of the bacterial ribosome, thus inhibiting translation of mRNA. Nucleic acid synthesis is not affected.
+Pharmacokinetics
+Azithromycin is an acid-stable antibiotic, so it can be taken orally with no need of protection from gastric acids. It is readily absorbed, but absorption is greater on an empty stomach. Time to peak concentration (Tmax) in adults is 2.1 to 3.2 hours for oral dosage forms. Due to its high concentration in phagocytes, azithromycin is actively transported to the site of infection. During active phagocytosis, large concentrations are released. The concentration of azithromycin in the tissues can be over 50 times higher than in plasma due to ion trapping and its high lipid solubility. Azithromycin's half-life allows a large single dose to be administered and yet maintain bacteriostatic levels in the infected tissue for several days.
+Following a single dose of 500 mg, the apparent terminal elimination half-life of azithromycin is 68 hours. Biliary excretion of azithromycin, predominantly unchanged, is a major route of elimination. Over the course of a week, about 6% of the administered dose appears as an unchanged drug in urine.
+History
+A team of researchers at the pharmaceutical company Pliva in Zagreb, Croatia,—Gabrijela Kobrehel, Gorjana Radobolja-Lazarevski, and Zrinka Tamburašev, led by Slobodan Đokić—discovered azithromycin in 1980. The company Pliva patented it in 1981. In 1986, Pliva and Pfizer signed a licensing agreement, which gave Pfizer exclusive rights for the sale of azithromycin in Western Europe and the United States. Pliva put its azithromycin on the market in Central and Eastern Europe under the brand name Sumamed in 1988. Pfizer launched azithromycin under Pliva's license in other markets under the brand name Zithromax in 1991. Patent protection ended in 2005.
+Society and culture
+Available forms
+Azithromycin is available as a generic medication. Azithromycin is commonly administered in film-coated tablet, capsule, oral suspension, intravenous injection, granules for suspension in sachet, and ophthalmic solution.
+Usage
+In 2010, azithromycin was the most prescribed antibiotic for outpatients in the US, whereas in Sweden, where outpatient antibiotic use is a third as prevalent, macrolides are only on 3% of prescriptions. In 2017, azithromycin was the second most prescribed antibiotic for outpatients in the United States.
+Research
+COVID-19
+Despite early evidence showing azithromycin slowed down coronavirus multiplication in laboratory settings, further research indicates it to be ineffective as a treatment for COVID-19 in humans. After a large-scale trial showed no benefit of using azithromycin in treating COVID-19, the UK's National Institute for Health and Care Excellence (NICE) updated its guidance and no longer recommends the medication for COVID-19.

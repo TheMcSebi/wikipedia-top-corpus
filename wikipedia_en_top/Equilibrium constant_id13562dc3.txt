@@ -1,0 +1,127 @@
+Equilibrium constant
+The equilibrium constant of a chemical reaction is the value of its reaction quotient at chemical equilibrium, a state approached by a dynamic chemical system after sufficient time has elapsed at which its composition has no measurable tendency towards further change. For a given set of reaction conditions, the equilibrium constant is independent of the initial analytical concentrations of the reactant and product species in the mixture.  Thus, given the initial composition of a system, known equilibrium constant values can be used to determine the composition of the system at equilibrium.  However, reaction parameters like temperature, solvent, and ionic strength may all influence the value of the equilibrium constant.
+A knowledge of equilibrium constants is essential for the understanding of many chemical systems, as well as biochemical processes such as oxygen transport by hemoglobin in blood and acid–base homeostasis in the human body.
+Stability constants, formation constants, binding constants, association constants and dissociation constants are all types of equilibrium constants.
+Basic definitions and properties
+For a system undergoing a reversible reaction described by the general chemical equation
+a thermodynamic equilibrium constant, denoted by $MATH$, is defined to be the value of the reaction quotient Qt when forward and reverse reactions occur at the same rate. At chemical equilibrium, the chemical composition of the mixture does not change with time and the Gibbs free energy change $MATH$ for the reaction is zero. If the composition of a mixture at equilibrium is changed by addition of some reagent, a new equilibrium position will be reached, given enough time. An equilibrium constant is related to the composition of the mixture at equilibrium by
+
+where {X} denotes the thermodynamic activity of reagent X at equilibrium, [X] the numerical value  of the corresponding concentration in moles per liter, and γ the corresponding activity coefficient. If X is a gas, instead of [X] the numerical value of the partial pressure $MATH$ in bar is used. If it can be assumed that the quotient of activity coefficients, $MATH$, is constant over a range of experimental conditions, such as pH, then an equilibrium constant can be derived as a quotient of concentrations.
+An equilibrium constant is related to the standard Gibbs free energy change of reaction $MATH$ by 
+where R is the universal gas constant, T is the absolute temperature (in kelvins), and ln is the natural logarithm. This expression implies that $MATH$ must be a pure number and cannot have a dimension, since logarithms can only be taken of pure numbers. $MATH$ must also be a pure number. On the other hand, the reaction quotient at equilibrium
+does have the dimension of concentration raised to some power (see § Dimensionality, below). Such reaction quotients are often referred to, in the biochemical literature, as equilibrium constants.
+For an equilibrium mixture of gases, an equilibrium constant can be defined in terms of partial pressure or fugacity.
+An equilibrium constant is related to the forward and backward rate constants, kf and kr of the reactions involved in reaching equilibrium:
+Types of equilibrium constants
+Cumulative and stepwise formation constants
+A cumulative or overall constant, given the symbol β, is the constant for the formation of a complex from reagents. For example, the cumulative constant for the formation of ML2 is given by
+The stepwise constant, K, for the formation of the same complex from ML and L is given by
+It follows that
+A cumulative constant can always be expressed as the product of stepwise constants. There is no agreed notation for stepwise constants, though a symbol such as KLML is sometimes found in the literature. It is best always to define each stability constant by reference to an equilibrium expression.
+Competition method
+A particular use of a stepwise constant is in the determination of stability constant values outside the normal range for a given method. For example, EDTA complexes of many metals are outside the range for the potentiometric method. The stability constants for those complexes were determined by competition with a weaker ligand.
+The formation constant of [Pd(CN)4]2− was determined by the competition method.
+Association and dissociation constants
+In organic chemistry and biochemistry it is customary to use pKa values for acid dissociation equilibria.
+where log denotes a logarithm to base 10 or common logarithm, and Kdiss is a stepwise acid dissociation constant. For bases, the base association constant, pKb is used. For any given acid or base the two constants are related by pKa + pKb = pKw, so pKa can always be used in calculations.
+On the other hand, stability constants for metal complexes, and binding constants for host–guest complexes are generally expressed as association constants. When considering equilibria such as
+it is customary to use association constants for both ML and HL. Also, in generalized computer programs dealing with equilibrium constants it is general practice to use cumulative constants rather than stepwise constants and to omit ionic charges from equilibrium expressions. For example, if NTA, nitrilotriacetic acid, N(CH2CO2H)3 is designated as H3L and forms complexes ML and MHL with a metal ion M, the following expressions would apply for the dissociation constants.
+The cumulative association constants can be expressed as
+Note how the subscripts define the stoichiometry of the equilibrium product.
+Micro-constants
+When two or more sites in an asymmetrical molecule may be involved in an equilibrium reaction there are more than one possible equilibrium constants. For example, the molecule L-DOPA has two non-equivalent hydroxyl groups which may be deprotonated. Denoting L-DOPA as LH2, the following diagram shows all the species that may be formed (X = CH2CH(NH2)CO2H).
+The concentration of the species LH is equal to the sum of the concentrations of the two micro-species with the same chemical formula, labelled L1H and L2H. The constant K2 is for a reaction with these two micro-species as products, so that [LH] = [L1H] + [L2H] appears in the numerator, and it follows that this macro-constant is equal to the sum of the two micro-constants for the component reactions.
+However, the constant K1 is for a reaction with these two micro-species as reactants, and [LH] = [L1H] + [L2H] in the denominator, so that in this case
+and therefore K1 =k11 k12 / (k11 + k12).
+Thus, in this example there are four micro-constants whose values are subject to two constraints; in consequence, only the two macro-constant values, for K1 and K2 can be derived from experimental data.
+Micro-constant values can, in principle, be determined using a spectroscopic technique, such as infrared spectroscopy, where each micro-species gives a different signal. Methods which have been used to estimate micro-constant values include
+Although the value of a micro-constant cannot be determined from experimental data, site occupancy, which is proportional to the micro-constant value, can be very important for biological activity. Therefore, various methods have been developed for estimating micro-constant values. For example, the isomerization constant for L-DOPA has been estimated to have a value of 0.9, so the micro-species L1H and L2H have almost equal concentrations at all pH values.
+pH considerations (Brønsted constants)
+pH is defined in terms of the activity of the hydrogen ion
+In the approximation of ideal behaviour, activity is replaced by concentration. pH is measured by means of a glass electrode, a mixed equilibrium constant, also known as a Brønsted constant, may result.
+It all depends on whether the electrode is calibrated by reference to solutions of known activity or known concentration. In the latter case the equilibrium constant would be a concentration quotient. If the electrode is calibrated in terms of known hydrogen ion concentrations it would be better to write p[H] rather than pH, but this suggestion is not generally adopted.
+Hydrolysis constants
+In aqueous solution the concentration of the hydroxide ion is related to the concentration of the hydrogen ion by
+The first step in metal ion hydrolysis can be expressed in two different ways
+It follows that β* = KKW. Hydrolysis constants are usually reported in the β* form and therefore often have values much less than 1. For example, if log K = 4 and log KW = −14, log β* = 4 + (−14) = −10 so that β* = 10−10. In general when the hydrolysis product contains n hydroxide groups log β* = log K + n log KW
+Conditional constants
+Conditional constants, also known as apparent constants, are concentration quotients which are not true equilibrium constants but can be derived from them. A very common instance is where pH is fixed at a particular value. For example, in the case of iron(III) interacting with EDTA, a conditional constant could be defined by
+This conditional constant will vary with pH. It has a maximum at a certain pH. That is the pH where the ligand sequesters the metal most effectively.
+In biochemistry equilibrium constants are often measured at a pH fixed by means of a buffer solution. Such constants are, by definition, conditional and different values may be obtained when using different buffers.
+Gas-phase equilibria
+For equilibria in a gas phase, fugacity, f, is used in place of activity. However, fugacity has the dimension of pressure, so it must be divided by a standard pressure, usually 1 bar, in order to produce a dimensionless quantity, f/po. An equilibrium constant is expressed in terms of the dimensionless quantity. For example, for the equilibrium 2NO2 ⇌ N2O4,
+Fugacity is related to partial pressure, $MATH$, by a dimensionless fugacity coefficient ϕ:  $MATH$. Thus, for the example,
+Usually the standard pressure is omitted from such expressions. Expressions for equilibrium constants in the gas phase then resemble the expression for solution equilibria with fugacity coefficient in place of activity coefficient and partial pressure in place of concentration.
+Thermodynamic basis for equilibrium constant expressions
+Thermodynamic equilibrium is characterized by the free energy for the whole (closed) system being a minimum. For systems at constant temperature and pressure the Gibbs free energy is minimum. The slope of the reaction free energy with respect to the extent of reaction, ξ, is zero when the free energy is at its minimum value. 
+The free energy change, dGr, can be expressed as a weighted sum of change in amount times the chemical potential, the partial molar free energy of the species. The chemical potential, μi, of the ith species in a chemical reaction is the partial derivative of the free energy with respect to the number of moles of that species, Ni
+A general chemical equilibrium can be written as
+where nj are the stoichiometric coefficients of the reactants in the equilibrium equation, and mj are the coefficients of the products. At equilibrium
+The chemical potential, μi, of the ith species can be calculated in terms of its activity, ai.
+μoi is the standard chemical potential of the species, R is the gas constant and T is the temperature. Setting the sum for the reactants j to be equal to the sum for the products, k, so that δGr(Eq) = 0
+Rearranging the terms,
+This relates the standard Gibbs free energy change, ΔGo to an equilibrium constant, K, the reaction quotient of activity values at equilibrium.
+Equivalence of thermodynamic and kinetic expressions for equilibrium constants
+At equilibrium the rate of the forward reaction is equal to the backward reaction rate. A simple reaction, such as ester hydrolysis
+has reaction rates given by expressions
+According to Guldberg and Waage, equilibrium is attained when the forward and backward reaction rates are equal to each other. In these circumstances, an equilibrium constant  is defined to be equal to the ratio of the forward and backward reaction rate constants  
+The concentration of water may be taken to be constant, resulting in the simpler expression 
+This particular concentration quotient, $MATH$, has the dimension of concentration, but the thermodynamic equilibrium constant, K, is always dimensionless.
+Unknown activity coefficient values
+It is very rare for activity coefficient values to have been determined experimentally for a system at equilibrium. There are three options for dealing with the situation where activity coefficient values are not known from experimental measurements.
+Dimensionality
+An equilibrium constant is related to the standard Gibbs free energy change, $MATH$, for the reaction by the expression
+Therefore, K, must be a number from which a logarithm can be derived. In the case of a simple equilibrium
+the thermodynamic equilibrium constant is defined in terms of the activities, {AB}, {A} and {B}, of the species in equilibrium with each other.
+Now, each activity term can be expressed as a product of a concentration $MATH$ and a corresponding activity coefficient, $MATH$. Therefore,
+When $MATH$, the quotient of activity coefficients, is set equal to 1, we get 
+K then appears to have the dimension of 1/concentration. This is what usually happens in practice when an equilibrium constant is calculated as a quotient of concentration values. This can be avoided by dividing each concentration by its standard-state value (usually mol/L or bar), which is standard practice in chemistry.
+The assumption underlying this practice is that the quotient of activities is constant under the conditions in which the equilibrium constant value is determined. These conditions are usually achieved by keeping the reaction temperature constant and by using a medium of relatively high ionic strength as the solvent. It is not unusual, particularly in texts relating to biochemical equilibria, to see an equilibrium constant value quoted with a dimension. The justification for this practice is that the concentration scale used may be either mol dm−3 or mmol dm−3, so that the concentration unit has to be stated in order to avoid there being any ambiguity.
+Note. When the concentration values are measured on the mole fraction scale all concentrations and activity coefficients are dimensionless quantities.
+In general equilibria between two reagents can be expressed as
+in which case the equilibrium constant is defined, in terms of numerical concentration values, as
+The apparent dimension of this K value is concentration1−p−q; this may be written as M(1−p−q) or mM(1−p−q), where the symbol M signifies a molar concentration (1M = 1 mol dm−3). The apparent dimension of a dissociation constant is the reciprocal of the apparent dimension of the corresponding association constant, and vice versa.
+When discussing the thermodynamics of chemical equilibria it is necessary to take dimensionality into account. There are two possible approaches.
+In both approaches the numerical value of the stability constant is unchanged. The first is more useful for practical purposes; in fact, the unit of the concentration quotient is often attached to a published stability constant value in the biochemical literature. The second approach is consistent with the standard exposition of Debye–Hückel theory, where $MATH$, etc. are taken to be pure numbers.
+Water as both reactant and solvent
+For reactions in aqueous solution, such as an acid dissociation reaction 
+the concentration of water may be taken as being  constant and the formation of the hydronium ion is implicit. 
+Water concentration is omitted from expressions defining equilibrium constants, except when solutions are very concentrated.
+Similar considerations apply to  metal ion hydrolysis reactions.
+Enthalpy and entropy: temperature dependence
+If both the equilibrium constant, $MATH$ and the standard enthalpy change, $MATH$, for a reaction have been determined experimentally, the standard entropy change for the reaction is easily derived. Since $MATH$ and $MATH$
+To a first approximation the standard enthalpy change is independent of temperature. Using this approximation, definite integration of the van 't Hoff equation
+gives
+This equation can be used to calculate the value of log K at a temperature, T2, knowing the value at temperature T1.
+The van 't Hoff equation also shows that, for an exothermic reaction ($MATH$), when temperature increases K decreases  and when temperature decreases K increases, in accordance with Le Chatelier's principle. The reverse applies when the reaction is endothermic.
+When K has been determined at more than two temperatures, a straight line fitting procedure may be applied to a plot of $MATH$ against $MATH$ to obtain a value for $MATH$. Error propagation theory can be used to show that, with this procedure, the error on the calculated $MATH$ value is much greater than the error on individual log K values. Consequently, K needs to be determined to high precision when using this method. For example, with a silver ion-selective electrode each log K value was determined with a precision of ca. 0.001 and the method was applied successfully.
+Standard thermodynamic arguments can be used to show that, more generally, enthalpy will change with temperature.
+where Cp is the heat capacity at constant pressure.
+A more complex formulation
+The calculation of K at a particular temperature from a known K at another given temperature can be approached as follows if standard thermodynamic properties are available. The effect of temperature on equilibrium constant is equivalent to the effect of temperature on Gibbs energy because:
+where ΔrGo is the reaction standard Gibbs energy, which is the sum of the standard Gibbs energies of the reaction products minus the sum of standard Gibbs energies of reactants.
+Here, the term "standard" denotes the ideal behaviour (i.e., an infinite dilution) and a hypothetical standard concentration (typically 1 mol/kg). It does not imply any particular temperature or pressure because, although contrary to IUPAC recommendation, it is more convenient when describing aqueous systems over wide temperature and pressure ranges.
+The standard Gibbs energy (for each species or for the entire reaction) can be represented (from the basic definitions) as:
+In the above equation, the effect of temperature on Gibbs energy (and thus on the equilibrium constant) is ascribed entirely to heat capacity. To evaluate the integrals in this equation, the form of the dependence of heat capacity on temperature needs to be known.
+If the standard molar heat capacity  Cop can be approximated by some analytic function of temperature (e.g. the Shomate equation), then the integrals involved in calculating other parameters may be solved to yield analytic expressions for them. For example,  using approximations of the following forms:
+then the integrals can be evaluated and the following final form is obtained:
+The constants A, B, C, a, b and the absolute entropy, S̆  o298 K, required for evaluation of Cop(T), as well as the values of G298 K and S298 K for many species are tabulated in the literature.
+Pressure dependence
+The pressure dependence of the equilibrium constant is usually weak in the range of pressures normally encountered in industry, and therefore, it is usually neglected in practice. This is true for condensed reactant/products (i.e., when reactants and products are solids or liquid) as well as gaseous ones.
+For a gaseous-reaction example, one may consider the well-studied reaction of hydrogen with nitrogen to produce ammonia:
+If the pressure is increased by the addition of an inert gas, then neither the composition at equilibrium nor the equilibrium constant are appreciably affected (because the partial pressures remain constant, assuming an ideal-gas behaviour of all gases involved). However, the composition at equilibrium will depend appreciably on pressure when:
+In the example reaction above, the number of moles changes from 4 to 2, and an increase of pressure by system compression will result in appreciably more ammonia in the equilibrium mixture. In the general case of a gaseous reaction:
+the change of mixture composition with pressure can be quantified using:
+where p denote the partial pressures and X the mole fractions of the components, P is the total system pressure, Kp is the equilibrium constant expressed in terms of partial pressures and KX is the equilibrium constant expressed in terms of mole fractions.
+The above change in composition is in accordance with Le Chatelier's principle and does not involve any change of the equilibrium constant with the total system pressure. Indeed, for ideal-gas reactions Kp is independent of pressure.
+In a condensed phase, the pressure dependence of the equilibrium constant is associated with the reaction volume. For reaction:
+the reaction volume is:
+where V̄ denotes a partial molar volume of a reactant or a product.
+For the above reaction, one can expect the change of the reaction equilibrium constant (based either on mole-fraction or molal-concentration scale) with pressure at constant temperature to be:
+The matter is complicated as partial molar volume is itself dependent on pressure.
+Effect of isotopic substitution
+Isotopic substitution can lead to changes in the values of equilibrium constants, especially if hydrogen is replaced by deuterium (or tritium). This equilibrium isotope effect is analogous to the kinetic isotope effect on rate constants, and is primarily due to the change in zero-point vibrational energy of H–X bonds due to the change in mass upon isotopic substitution. The zero-point energy is inversely proportional to the square root of the mass of the vibrating hydrogen atom, and will therefore be smaller for a D–X bond that for an H–X bond.
+An example is a hydrogen atom abstraction reaction R' + H–R ⇌ R'–H + R with equilibrium constant KH, where R' and R are organic radicals such that R' forms a stronger bond to hydrogen than does R. The decrease in zero-point energy due to deuterium substitution will then be more important for R'–H than for R–H, and R'–D will be stabilized more than R–D, so that the equilibrium constant KD for R' + D–R ⇌ R'–D + R is greater than KH. This is summarized in the rule the heavier atom favors the stronger bond.
+Similar effects occur in solution for acid dissociation constants (Ka) which describe the transfer of H+ or D+ from a weak aqueous acid to a solvent molecule: HA + H2O = H3O+ + A− or DA + D2O ⇌ D3O+ + A−. The deuterated acid is studied in heavy water, since if it were dissolved in ordinary water the deuterium would rapidly exchange with hydrogen in the solvent.
+The product species H3O+ (or D3O+) is a stronger acid than the solute acid, so that it dissociates more easily, and its H–O (or D–O) bond is weaker than the H–A (or D–A) bond of the solute acid. The decrease in zero-point energy due to isotopic substitution is therefore less important in D3O+ than in DA so that KD < KH, and the deuterated acid in D2O is weaker than the non-deuterated acid in H2O. In many cases the difference of logarithmic constants pKD – pKH is about 0.6, so that the pD corresponding to 50% dissociation of the deuterated acid is about 0.6 units higher than the pH for 50% dissociation of the non-deuterated acid.
+For similar reasons the self-ionization of heavy water is less than that of ordinary water at the same temperature.

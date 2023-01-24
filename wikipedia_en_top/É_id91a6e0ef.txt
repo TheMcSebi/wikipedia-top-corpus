@@ -1,0 +1,61 @@
+É
+É, é (e-acute) is a letter of the Latin alphabet. In English, it is used for loanwords (such as French résumé), romanization (Japanese Pokémon) or occasionally as a pronunciation aid in poetry.
+Languages may use é to indicate a certain sound (French), stress pattern (Spanish), length (Czech) or tone (Vietnamese), as well as to write loanwords or distinguish identical-sounding words (Dutch). Certain romanization systems such as pinyin (Standard Chinese) also use é for tone. Some languages use the letter only in specific contexts, such as in Indonesian dictionaries.
+Languages
+Afrikaans
+In Afrikaans, é is used to differentiate meaning and word types. For example: in a sentence that repeats a word (that contains the vowel e) with different meaning or specificity, the e in one of the occurrences could be replaced with é to indicate the different meaning or specificity. Furthermore, é is respected when writing foreign words, mainly from French; and it is used to add visual stress on words in the same way English might use italics. 
+Czech and Slovak
+É is the 9th letter of the Czech alphabet and the 12th letter of the Slovak alphabet and represents /ɛː/.
+Danish, Norwegian, and Swedish
+In Danish, Norwegian, and Swedish, the letter "é" is used to indicate that a terminal syllable with the vowel e is stressed, and it is often used only when it changes the meaning. See Acute accent for a more detailed description. In addition, Danish uses é in some loanwords to represent /i/.
+Dutch
+Like in English, é is respected when writing foreign words, mainly from French.  It is also used to differentiate the article "een," equivalent to either "a" or "an" in English, and "één", the number one. It is also used to add visual stress on words in the same way English might use italics. In Dutch, some people use "hé" as a greeting, like "hey" or "hi".
+Emilian-Romagnol
+In Emilian, é is used to represent [e], e.g. récc [rekː] "rich". In Romagnol the same letter is used to represent [eː], e.g. lédar [ˈleːdar] "thieves".
+English
+In English, the e-acute has some uses, mostly in words of French origin, such as née, résumé, fiancée, sauté and coupé and names such as Beyoncé, Breneé, JonBenét, and Théo. Pokémon, the media franchise owned by Japanese corporation Nintendo, uses [k]é to signify the proper pronunciation of the katakana ケ.
+French
+The letter é (pronounced /e/) contrasts with è (which is pronounced /ɛ/) and is widely used in French.
+Hungarian
+É is the 10th letter of the Hungarian alphabet and represents /eː/.
+Icelandic
+É is the 7th letter of the Icelandic alphabet and represents /jɛː/.
+Indonesian
+Used in Indonesian dictionaries to denote /e/, in contrast with E, e /ə/.
+Irish
+In Irish the acute accent (fada) marks a long vowel and so é is pronounced /eː/.
+Italian
+É is a variant of E carrying an acute accent; it represents an /e/ carrying the tonic accent. It is used only if it is the last letter of the word except in dictionaries or when a different pronunciation may affect the meaning of a word: perché ("why"/"because", pronounced [perˈke]) and pésca ("fishing", [ˈpeska]), to be compared with caffè ("coffee", [kafˈfɛ]) and pèsca ("peach", [ˈpɛska]), which have a grave accent.
+Kashubian
+É is the 8th letter of the Kashubian alphabet and represents /ɛ/. It also represents [ej] in some dialects and represents [i]/[ɨ] in area between Puck and Kartuzy.
+Polish
+In Polish, é was historically used for a vowel called e pochylone or e ścieśnione, sounded as [e], [ɨ] or [i] depending on the dialect. Since 1891, é is no longer used in standard Polish and is replaced by the simple e. It is, however, retained in editions of poetry where the rhyme suggests pronouncing it as i or y.
+Portuguese
+In Portuguese, é is used to mark a stressed /ɛ/ in words whose stressed syllable is in unpredictable within the word, as in péssimo (very bad). If the location of the stressed syllable is predictable, the acute accent is not used. É /ɛ/ contrasts with ê /e/. É ("is") is also the third-person singular present indicative of ser ("to be").
+Russian
+In Russian, é is used in the BS 2979:1958 system of Russian transliteration as the letter Э.
+Scottish Gaelic
+É was once used in Scottish Gaelic, but has now been largely superseded by "è". It can still be seen, but it is no longer used in the standard orthography.
+Spanish
+In Spanish, é is an accented letter and is pronounced just like "e" /e/. The accent indicates the stressed syllable in words with irregular stress, as in "éxtasis" or "bebé". See Diacritic and Acute accent for more details.
+Standard Chinese/Mandarin (pinyin)
+É or é is used for /ɤ/ with  a rising tone ([ɤ̌]) in Pinyin, a romanization system for Standard Chinese.
+Sundanese
+⟨É⟩ is used in Sundanese for the close-mid front unrounded vowel /e/ since 1975 with the publishing of Kamus Umum Basa Sunda (General Sundanese Dictionary), replacing the regular ⟨e⟩ used before to represent the vowel. ⟨E⟩ is now used for the mid central vowel /ə/, previously written as ⟨ê⟩.
+Tuareg Berber
+In Tuareg Berber, spoken in southern Algeria, southwestern Libya, northern Mali and northern Niger, é is one of the seven major vowels.
+Vietnamese
+In Vietnamese, the letter "é" indicates the rising tone. It can also be combined with "ê" to form "ế".
+Welsh
+In Welsh, word stress usually falls on the penultimate syllable, but one way of indicating stress on a final (short) vowel is through the use of the acute accent, often found on e in borrowed words: personél [pɛrsɔˈnɛl] "personnel", sigarét [sɪɡaˈrɛt] "cigarette", ymbarél [əmbaˈrɛl] "umbrella".
+Yoruba
+e with a Mí    High with a rising tone, depicted by an acute accent 
+The pronunciation of words in Yorùbá language is tonal; where a different pitch conveys a different word meaning or grammatical distinction.
+This means that pronouncing words in Yorùbá is based on what is called Àmì ohùn – Tone Marks. These marks are applied to the top of the vowel within each syllable of a word or phrase.
+There are three types of tone marks namely:
+Dò    Low with a falling tone, depicted by a grave accent
+Re    Mid with a flat tone, depicted by an absence of any accent 
+Mí    High with a rising tone, depicted by an acute accent 
+Understanding the use of tone marks is key to properly reading, writing and speaking the Yorùbá language. This is because some words have similar spellings but at the addition of tone marks, these words could have very different meanings.
+Character mappings
+Key strokes

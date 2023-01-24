@@ -1,0 +1,41 @@
+Intersection (set theory)
+In set theory, the intersection of two sets $MATH$ and $MATH$ denoted by $MATH$ is the set containing all elements of $MATH$ that also belong to $MATH$ or equivalently, all elements of $MATH$ that also belong to $MATH$
+Notation and terminology
+Intersection is written using the symbol "$MATH$" between the terms; that is, in infix notation. For example:
+The intersection of more than two sets (generalized intersection) can be written as:
+which is similar to capital-sigma notation. 
+For an explanation of the symbols used in this article, refer to the table of mathematical symbols.
+Definition
+The intersection of two sets $MATH$ and $MATH$ denoted by $MATH$, is the set of all objects that are members of both the sets $MATH$ and $MATH$
+In symbols:
+That is, $MATH$ is an element of the intersection $MATH$ if and only if $MATH$ is both an element of $MATH$ and an element of $MATH$
+For example:
+Intersecting and disjoint sets
+We say that $MATH$ intersects (meets) $MATH$ if there exists some $MATH$ that is an element of both $MATH$ and $MATH$ in which case we also say that $MATH$ intersects (meets) $MATH$ at $MATH$. Equivalently, $MATH$ intersects $MATH$ if their intersection $MATH$ is an inhabited set, meaning that there exists some $MATH$ such that $MATH$
+We say that $MATH$ and $MATH$ are disjoint if $MATH$ does not intersect $MATH$ In plain language, they have no elements in common. $MATH$ and $MATH$ are disjoint if their intersection is empty, denoted $MATH$
+For example, the sets $MATH$ and $MATH$ are disjoint, while the set of even numbers intersects the set of multiples of 3 at the multiples of 6.
+Algebraic properties
+Binary intersection is an associative operation; that is, for any sets $MATH$ and $MATH$ one has
+Thus the parentheses may be omitted without ambiguity: either of the above can be written as $MATH$. Intersection is also commutative. That is, for any $MATH$ and $MATH$ one has
+The intersection of any set with the empty set results in the empty set; that is, that for any set $MATH$,
+Also, the intersection operation is idempotent; that is, any set $MATH$ satisfies that $MATH$. All these properties follow from analogous facts about logical conjunction.
+Intersection distributes over union and union distributes over intersection. That is, for any sets $MATH$ and $MATH$ one has
+
+Inside a universe $MATH$ one may define the complement $MATH$ of $MATH$ to be the set of all elements of $MATH$ not in $MATH$ Furthermore, the intersection of $MATH$ and $MATH$ may be written as the complement of the union of their complements, derived easily from De Morgan's laws:
+Arbitrary intersections
+The most general notion is the intersection of an arbitrary nonempty collection of sets.
+If $MATH$ is a nonempty set whose elements are themselves sets, then $MATH$ is an element of the intersection of $MATH$ if and only if for every element $MATH$ of $MATH$ $MATH$ is an element of $MATH$
+In symbols:
+The notation for this last concept can vary considerably. Set theorists will sometimes write "$MATH$", while others will instead write "$MATH$".
+The latter notation can be generalized to "$MATH$", which refers to the intersection of the collection $MATH$
+Here $MATH$ is a nonempty set, and $MATH$ is a set for every $MATH$
+In the case that the index set $MATH$ is the set of natural numbers, notation analogous to that of an infinite product may be seen:
+When formatting is difficult, this can also be written "$MATH$".  This last example, an intersection of countably many sets, is actually very common; for an example, see the article on σ-algebras.
+Nullary intersection
+Note that in the previous section, we excluded the case where $MATH$ was the empty set ($MATH$). The reason is as follows: The intersection of the collection $MATH$ is defined as the set (see set-builder notation)
+If $MATH$ is empty, there are no sets $MATH$ in $MATH$ so the question becomes "which $MATH$'s satisfy the stated condition?" The answer seems to be every possible $MATH$. When $MATH$ is empty, the condition given above is an example of a vacuous truth. So the intersection of the empty family should be the universal set (the identity element for the operation of intersection),
+but in standard (ZF) set theory, the universal set does not exist.
+In type theory however, $MATH$ is of a prescribed type $MATH$ so the intersection is understood to be of type $MATH$ (the type of sets whose elements are in $MATH$), and we can define $MATH$ to be the universal set of $MATH$ (the set whose elements are exactly all terms of type $MATH$).
+See also
+References
+Further reading

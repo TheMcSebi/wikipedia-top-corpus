@@ -1,0 +1,31 @@
+Functor
+In mathematics, specifically category theory, a functor is a mapping between categories.  Functors were first considered in algebraic topology, where algebraic objects (such as the fundamental group) are associated to topological spaces, and maps between these algebraic objects are associated to continuous maps between spaces.   Nowadays, functors are used throughout modern mathematics to relate various categories.   Thus, functors are important in all areas within mathematics to which category theory is applied.
+The words category and functor were borrowed by mathematicians from the philosophers Aristotle and Rudolf Carnap, respectively.  The latter used functor in a linguistic context;
+see function word.
+Definition
+Let C and D be categories. A functor F from C to D is a mapping that
+That is, functors must preserve identity morphisms and composition of morphisms.
+Covariance and contravariance
+There are many constructions in mathematics that would be functors but for the fact that they "turn morphisms around" and "reverse composition". We then define a contravariant functor F from C to D as a mapping that
+Note that contravariant functors reverse the direction of composition.
+Ordinary functors are also called covariant functors in order to distinguish them from contravariant ones. Note that one can also define a contravariant functor as a covariant functor on the opposite category $MATH$. Some authors prefer to write all expressions covariantly. That is, instead of saying $MATH$ is a contravariant functor, they simply write $MATH$ (or sometimes $MATH$) and call it a functor.
+Contravariant functors are also occasionally called cofunctors.
+There is a convention which refers to "vectors"—i.e., vector fields, elements of the space of sections $MATH$ of a tangent bundle $MATH$—as "contravariant" and to "covectors"—i.e., 1-forms, elements of the space of sections $MATH$ of a cotangent bundle $MATH$—as "covariant". This terminology originates in physics, and its rationale has to do with the position of the indices ("upstairs" and "downstairs") in expressions such as $MATH$ for $MATH$ or $MATH$ for $MATH$ In this formalism it is observed that the coordinate transformation symbol $MATH$ (representing the matrix $MATH$) acts on the basis vectors "in the same way" as on the "covector coordinates": $MATH$—whereas it acts "in the opposite way" on the "vector coordinates" (but "in the same way" as on the basis covectors: $MATH$). This terminology is contrary to the one used in category theory because it is the covectors that have pullbacks in general and are thus contravariant, whereas vectors in general are covariant since they can be pushed forward. See also Covariance and contravariance of vectors.
+Opposite functor
+Every functor $MATH$ induces the opposite functor $MATH$, where $MATH$ and $MATH$ are the opposite categories to $MATH$ and $MATH$. By definition, $MATH$ maps objects and morphisms in the identical way as does $MATH$. Since $MATH$ does not coincide with $MATH$ as a category, and similarly for $MATH$, $MATH$ is distinguished from $MATH$. For example, when composing $MATH$ with $MATH$, one should use either $MATH$ or $MATH$. Note that, following the property of opposite category, $MATH$.
+Bifunctors and multifunctors
+A bifunctor (also known as a binary functor) is a functor whose domain is a product category. For example, the Hom functor is of the type Cop × C → Set. It can be seen as a functor in two arguments. The Hom functor is a natural example; it is contravariant in one argument, covariant in the other.
+A multifunctor is a generalization of the functor concept to n variables. So, for example, a bifunctor is a multifunctor with n = 2.
+Properties
+Two important consequences of the functor axioms are:
+One can compose functors, i.e. if F is a functor from A to B and G is a functor from B to C then one can form the composite functor G ∘ F from A to C. Composition of functors is associative where defined. Identity of composition of functors is the identity functor. This shows that functors can be considered as morphisms in categories of categories, for example in the category of small categories.
+A small category with a single object is the same thing as a monoid: the morphisms of a one-object category can be thought of as elements of the monoid, and composition in the category is thought of as the monoid operation. Functors between one-object categories correspond to monoid homomorphisms. So in a sense, functors between arbitrary categories are a kind of generalization of monoid homomorphisms to categories with more than one object.
+Examples
+Relation to other categorical concepts
+Let C and D be categories. The collection of all functors from C to D forms the objects of a category: the functor category. Morphisms in this category are natural transformations between functors.
+Functors are often defined by universal properties; examples are the tensor product, the direct sum and direct product of groups or vector spaces, construction of free groups and modules, direct and inverse limits. The concepts of limit and colimit generalize several of the above.
+Universal constructions often give rise to pairs of adjoint functors.
+Computer implementations
+Functors sometimes appear in functional programming. For instance, the programming language Haskell has a class Functor where fmap is a polytypic function used to map functions (morphisms on Hask, the category of Haskell types) between existing types to functions between some new types.
+See also
+Notes

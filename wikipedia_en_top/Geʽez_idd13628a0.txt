@@ -1,0 +1,326 @@
+Geʽez
+Geʽez (/ˈɡiːɛz/; ግዕዝ Gəʽ(ə)z IPA: [ˈɡɨʕ(ɨ)z] (listen), and sometimes referred to in scholarly literature as Classical Ethiopic) is an ancient Ethiopian Semitic language. The language originates from what is now northern Ethiopia and Eritrea.
+Today, Geʽez is used as the main liturgical language of the Ethiopian Orthodox Tewahedo Church and Eritrean Orthodox Tewahedo Church, the Ethiopian Catholic Church and Eritrean Catholic Church, and the Beta Israel Jewish community.
+The closest living languages to Geʽez are Tigre and Tigrinya, with lexical similarity at 71% and 68%, respectively. Most linguists believe that Geʽez does not constitute a common ancestor of modern Ethio-Semitic languages but became a separate language early on from another hypothetical unattested common language.
+Phonology
+Vowels
+Historically, /ɨ/ has a basic correspondence with Proto-Semitic short *i and *u, /æ ~ ɐ/ with short *a, the vowels /i, u, a/ with Proto-Semitic long *ī, *ū, *ā respectively, and /e, o/ with the Proto-Semitic diphthongs *ay and *aw. In Geʽez there still exist many alternations between /o/ and /aw/, less so between /e/ and /aj/, e.g. ተሎኩ taloku ~ ተለውኩ talawku ("I followed").
+In the transcription employed by the Encyclopaedia Aethiopica, which is widely employed in academia, the contrast here represented as a/ā is represented as ä/a.
+Transliteration
+Geʽez is transliterated according to the following system (see the phoneme table below for IPA values):
+Because Geʽez is no longer spoken in daily life by large communities, the early pronunciation of some consonants is not completely certain. Gragg writes that "[t]he consonants corresponding to the graphemes ś (Geʽez ሠ) and ḍ (Geʽez ፀ) have merged with ሰ and ጸ respectively in the phonological system represented by the traditional pronunciation—and indeed in all modern Ethiopian Semitic. ... There is, however, no evidence either in the tradition or in Ethiopian Semitic [for] what value these consonants may have had in Geʽez."
+A similar problem is found for the consonant transliterated ḫ. Gragg notes that it corresponds in etymology to velar or uvular fricatives in other Semitic languages, but it is pronounced exactly the same as ḥ in the traditional pronunciation. Though the use of a different letter shows that it must originally have had some other pronunciation, what that pronunciation was is not certain.
+The chart below lists /ɬ/ and /ɬʼ/ as possible values for ś (ሠ) and ḍ (ፀ) respectively. It also lists /χ/ as a possible value for ḫ (ኀ). These values are tentative, but based on the reconstructed Proto-Semitic consonants that they are descended from.
+Phonemes of Geʽez
+The following table presents the consonants of the Geʽez language. The reconstructed phonetic value of a phoneme is given in IPA transcription, followed by its representation in the Geʽez script and scholarly transliteration.
+Geʽez consonants in relation to Proto-Semitic
+Geʽez consonants have a triple opposition between voiceless, voiced, and ejective (or emphatic) obstruents. The Proto-Semitic "emphasis" in Geʽez has been generalized to include emphatic p̣ /pʼ/. Geʽez has phonologized labiovelars, descending from Proto-Semitic biphonemes. Geʽez ś ሠ Sawt (in Amharic, also called śe-nigūś, i.e. the se letter used for spelling the word nigūś "king") is reconstructed as descended from a Proto-Semitic voiceless lateral fricative [ɬ]. Like Arabic, Geʽez merged Proto-Semitic š and s in ሰ (also called se-isat: the se letter used for spelling the word isāt "fire"). Apart from this, Geʽez phonology is comparably conservative; the only other Proto-Semitic phonological contrasts lost may be the interdental fricatives and ghayn.
+Stress
+There is no evidence within the script of stress rules in the ancient period, but stress patterns exist within the liturgical tradition(s). Accounts of these patterns are, however, contradictory. One early 20th-century account may be broadly summarized as follows:
+As one example of a discrepancy, a different late 19th-century account says the masculine singular imperative is stressed on the ultima (e.g. ንግር nəgə́r, "speak!"), and that, in some patterns, words can be stressed on the third-, fourth- or even fifth-to-last syllable (e.g. በረከተ bárakata).
+Due to the high predictability of stress location in most words, textbooks, dictionaries and grammars generally do not mark it. Minimal pairs do exist, however, such as yənaggərā́ ("he speaks to her", with the pronoun suffix -(h)ā́ "her") vs. yənaggə́rā ("they speak", feminine plural), both written ይነግራ.
+Morphology
+Nouns
+Geʽez distinguishes two genders, masculine and feminine, the latter of which is sometimes marked with the suffix ት -t, e.g. እኅት ʼəxt ("sister"). These are less strongly distinguished than in other Semitic languages, as many nouns not denoting humans can be used in either gender: in translated Christian texts there is even a tendency for nouns to follow the gender of the noun with a corresponding meaning in Greek.
+There are two numbers, singular and plural. The plural can be constructed either by suffixing ኣት -āt to a word (regardless of gender, but often ኣን -ān if it's a male human noun), or by using an internal plural.
+Nouns also have two cases: the nominative, which is not marked, and the accusative, which is marked with final -a. As in other Semitic languages, there are at least two "states", absolute (unmarked) and construct (marked with -a as well). 
+As in Akkadian and Classical/Standard Arabic, singular and plural nouns take the same final inflectional affixes for case and state, as number morphology is achieved via attaching a suffix to the stem and/or an internal change in the stem.
+There is some morphological interaction between consonant-final nouns and a pronoun suffix (see the table of suffix pronouns below). For example, when followed by የ -ya ("my"), in both nominative and accusative the resulting form is ሊቅየ liqə́ya (i.e. the accusative is not *ሊቀየ *liqáya), but with ከ -ka ("your", masculine singular) there's a distinction between nominative ሊቅከ liqə́ka and accusative ሊቀከ liqáka, and similarly with -hu ("his") between nominative ሊቁ liqú (< *liq-ə-hu) and accusative ሊቆ liqó (< *liqa-hu).
+Internal plural
+Internal plurals follow certain patterns. Triconsonantal nouns follow one of the following patterns.
+Quadriconsonantal and some triconsonantal nouns follow the following pattern. Triconsonantal nouns that take this pattern must have at least one "long" vowel (namely /i e o u/).
+Pronominal morphology
+In the independent pronouns, gender is not distinguished in the 1st person, and case is only distinguished in the 3rd person singular.
+Suffix pronouns attach at the end of a noun, preposition or verb. The accusative/construct -a is lost when a plural noun with a consonant-final stem has a pronoun suffix attached (generally replaced by the added -i-, as in -i-hu, "his"), thereby losing the case/state distinction, but the distinction may be retained in the case of consonant-final singular nouns. Furthermore, suffix pronouns may or may not attract stress to themselves. In the following table, pronouns with a stress mark (an acute) are not stressed, vowel-initial suffixes have also been given the base በ /b/ in the script.
+Verb conjugation
+
+
+Syntax
+Noun phrases
+Noun phrases have the following overall order:
+በዛ
+ba-zā
+in-this:F
+ሀገር
+hagar
+city
+በዛ ሀገር
+ba-zā hagar
+in-this:F city
+in this city
+ንጉሥ
+nəguś
+king
+ክቡር
+kəbur
+glorious
+ንጉሥ ክቡር
+nəguś kəbur
+king glorious
+a/the glorious king
+Adjectives and determiners agree with the noun in gender and number:
+ዛቲ
+zāti
+this:FEM
+ንግሥት
+nəgəśt
+queen
+ክብርት
+kəbərt
+glorious:FEM
+ዛቲ ንግሥት ክብርት
+zāti nəgəśt kəbərt
+this:FEM queen glorious:FEM
+this glorious queen
+እሉ
+ʼəllu
+these:M.PL
+ነገሥት
+nagaśt
+kings
+ክቡራን
+kəburān
+glorious:PL
+እሉ ነገሥት ክቡራን
+ʼəllu nagaśt kəburān
+these:M.PL kings glorious:PL
+these glorious kings
+Relative clauses are introduced by a pronoun which agrees in gender and number with the preceding noun:
+ብእሲ
+bəʾsi
+man
+ዘቀተልዎ
+za=qatal-əww-o
+which:MASC=kill-3.M.PL-3.M.SG
+ለወልዱ
+la=wald-u
+to=son=3.M.SG
+ብእሲ ዘቀተልዎ ለወልዱ
+bəʾsi za=qatal-əww-o la=wald-u
+man which:MASC=kill-3.M.PL-3.M.SG to=son=3.M.SG
+the man whose son they killed
+As in many Semitic languages, possession by a noun phrase is shown through the construct state. In Geʽez, this is formed by suffixing the construct suffix -a to the possessed noun, which is followed by the possessor, as in the following examples:
+ወልደ
+wald-a
+son-construct
+ንጉሥ
+nəguś
+king
+ወልደ ንጉሥ
+wald-a nəguś
+son-construct king
+the son of the king
+ስመ
+səm-a
+name-construct
+መልአክ
+malʼak
+angel
+ስመ መልአክ
+səm-a malʼak
+name-construct angel
+the name of the angel
+Another common way of indicating possession by a noun phrase combines the pronominal suffix on a noun with the possessor preceded by the preposition /la=/ 'to, for':
+ስሙ
+səm-u
+name-3SG
+ለንጉሥ
+la=nəguś
+to=king
+ስሙ ለንጉሥ
+səm-u la=nəguś
+name-3SG to=king
+'the king's name; the name of the king'
+Lambdin notes that in comparison to the construct state, this kind of possession is only possible when the possessor is definite and specific. Lambdin also notes that the construct state is the unmarked form of possession in Geʽez.
+Prepositional phrases
+Geʽez is a prepositional language, as in the following example:
+ውስተ
+wəsta
+to
+ሀገር
+hagar
+city
+ውስተ ሀገር
+wəsta hagar
+to city
+to the city
+There are three special prepositions, /ba=/ 'in, with', /la=/ 'to, for', /ʼəm=/ 'from', which always appear as clitics, as in the following examples:
+እምሀገር
+ʼəm=hagar
+from=city
+እምሀገር
+ʼəm=hagar
+from=city
+from the city
+በሀገር
+ba=hagar
+in=city
+በሀገር
+ba=hagar
+in=city
+in the city
+እምዲበ
+’əm=diba
+from=on
+ደብር
+dabr
+mountain
+እምዲበ ደብር
+’əm=diba dabr
+from=on mountain
+down from the mountain
+በዝ
+ba=zə
+in=this
+ብት
+bet
+house
+በዝ ብት
+ba=zə bet
+in=this house
+in this house
+These proclitic prepositions in Geʽez are similar to the Hebrew inseparable prepositions.
+Sentences
+The normal word order for declarative sentences is VSO. Objects of verbs show accusative case marked with the suffix /-a/:
+ተከለ
+takal-a
+plant-3.M.SG
+ብእሲ
+bəʾsi
+man
+ዕፀ
+ʿəḍ-a
+tree-ACC
+ተከለ ብእሲ ዕፀ
+takal-a bəʾsi ʿəḍ-a
+plant-3.M.SG man tree-ACC
+The man planted a tree
+Questions with a wh-word ('who', 'what', etc.) show the question word at the beginning of the sentence:
+አየ
+ʾayya
+which
+ሀገር
+hagar
+city
+ሐነጹ
+ḥanaṣ-u
+flee-3PL
+አየ ሀገር ሐነጹ
+ʾayya hagar ḥanaṣ-u
+which city flee-3PL
+Which city did they flee?
+Negation
+The common way of negation is the prefix ኢ ʾi- which descends from ʾəy- (which is attested in Axum inscriptions), from earlier *ʾay, from Proto-Semitic *ʾal by palatalization. It is prefixed to verbs as follows:
+ንሕነ
+nəḥna
+we
+ኢንክል
+ʾi-nəkl
+(we) cannot
+ሐዊረ
+ḥawira
+go
+ንሕነ ኢንክል ሐዊረ
+nəḥna ʾi-nəkl ḥawira
+we {(we) cannot} go
+we cannot go
+Writing system
+Geʽez is written with Ethiopic or the Geʽez abugida, a script that was originally developed specifically for this language. In languages that use it, such as Amharic and Tigrinya, the script is called Fidäl, which means script or alphabet.
+Geʽez is read from left to right.
+The Geʽez script has been adapted to write other languages, usually ones that are also Semitic. The most widespread use is for Amharic in Ethiopia and Tigrinya in Eritrea and Ethiopia. It is also used for Sebatbeit, Meʼen, Agew, and most other languages of Ethiopia. In Eritrea it is used for Tigre, and it is often used for Bilen, a Cushitic language. Some other languages in the Horn of Africa, such as Oromo, used to be written using Geʽez but have switched to Latin-based alphabets.
+It also uses four series of consonant signs for labialized velar consonants, which are variants of the non-labialized velar consonants:
+History and literature
+Although it is often said that Geʽez literature is dominated by the Bible including the Deuterocanonical books, in fact there are many medieval and early modern original texts in the language. Most of its important works are also the literature of the Eritrean Orthodox Tewahedo Church and Ethiopian Orthodox Tewahedo Church, which include Christian liturgy (service books, prayers, hymns), hagiographies, and Patristic literature. For instance, around 200 texts were written about indigenous Ethiopian saints from the fourteenth through the nineteenth century. This religious orientation of Geʽez literature was a result of traditional education being the responsibility of priests and monks. "The Church thus constituted the custodian of the nation's culture", notes Richard Pankhurst, and describes the traditional education as follows:
+However, works of history and chronography, ecclesiastical and civil law, philology, medicine, and letters were also written in Geʽez.
+Significant collections of Ethiopian manuscripts are found outside of Ethiopia in France, Italy, the United Kingdom, and the United States. The collection in the British Library comprises some 800 manuscripts dating from the 15th to the 20th centuries, notably including magical and divinatory scrolls, and illuminated manuscripts of the 16th to 17th centuries. It was initiated by a donation of 74 codices by the Church of England Missionary Society in the 1830s and 1840s, and substantially expanded by 349 codices, looted by the British from the Emperor Tewodros II's capital at Magdala in the 1868 Expedition to Abyssinia. The Metropolitan Museum of Art in New York City has at least two illuminated manuscripts in Geʽez.
+Origins
+The Geʽez language is classified as a South Semitic language, though an alternative hypothesis posits that the Semitic languages of Eritrea and Ethiopia may best be considered an independent branch of Semitic, with Geʽez and the closely-related Tigrinya and Tigre languages forming a northern branch (Amharic is a more distant relative).
+Inscriptions dating to the mid-1st millennium BCE, written in the Sabaean language in the epigraphic South Arabian script, have been found in the kingdom of Dʿmt, serving at least as a witness to a presence of speakers of Semitic languages in the region. There is some evidence of Semitic languages being spoken in Eritrea since approximately 2000 BC. Unlike previously assumed, the Geʽez language is now not regarded as an offshoot of Sabaean or any other forms of Old South Arabian.
+Early inscriptions in Geʽez from the Kingdom of Aksum (appearing varyingly in the epigraphic South Arabian script, and unvocalized or vocalized Ethiopic/Geʽez script) have been dated to as early as the 4th century CE. The surviving Geʽez literature properly begins in the same century with the Christianization of the Aksum in the same century, during the reign of Ezana of Aksum. The oldest known example of the Geʽez script, unvocalized and containing religiously pagan references, is found on the Hawulti obelisk in Matara, Eritrea. There exist about a dozen long inscriptions dating to the 4th and 5th centuries, and over 200 short ones.
+5th to 7th centuries
+The oldest surviving Geʽez manuscript is thought to be the second of the Garima Gospels, dating to the 5th or 6th century. Almost all transmitted texts from this early "Aksumite" period are religious (Christian) in nature, and translated from Greek. Indeed, the range and scope of the translation enterprise undertaken in the first century of the new Axumite church has few parallels in the early centuries of Christian history. The outcome was an Ethiopic Bible containing 81 Books: 46 of the Old Testament and 35 of the New. A number of these Books are called "deuterocanonical" (or "apocryphal" according to certain Western theologians), such as the Ascension of Isaiah, Jubilees, Enoch, the Paralipomena of Baruch, Noah, Ezra, Nehemiah, Maccabees, and Tobit. The Book of Enoch in particular is notable since its complete text has survived in no other language; and, for the other works listed, the Ethiopic version is highly regarded as a witness to the original text.
+Also to this early period dates Qerlos, a collection of Christological writings beginning with the treatise of Saint Cyril (known as Hamanot Reteʼet or De Recta Fide). These works are the theological foundation of the Ethiopic Church. In the later 5th century, the Aksumite Collection—an extensive selection of liturgical, theological, synodical and historical materials—was translated into Geʽez from Greek, providing a fundamental set of instructions and laws for the developing Axumite Church. Included in this collection is a translation of the Apostolic Tradition (attributed to Hippolytus of Rome, and lost in the original Greek) for which the Ethiopic version provides much the best surviving witness. Another important religious document is Serʼata Paknemis, a translation of the monastic Rules of Pachomius. Non-religious works translated in this period include Physiologus, a work of natural history also very popular in Europe.
+13th to 14th centuries
+After the decline of the Aksumites, a lengthy gap follows; Some writers consider the period beginning from the 14th century an actual "Golden Age" of Geʽez literature—although by this time Geʽez was no longer a living language; in particular in the major enterprise of translating an extensive library of Coptic Arabic religious works into Ge'ez.
+While there is ample evidence that it had been replaced by Amharic in the south and by Tigrinya and Tigre in the north, Geʽez remained in use as the official written language until the 19th century, its status comparable to that of Medieval Latin in Europe.
+Important hagiographies from this period include:
+Also at this time the Apostolic Constitutions was retranslated into Geʽez from Arabic. Another translation from this period is Zena ʼAyhud, a translation (probably from an Arabic translation) of Joseph ben Gurion's "History of the Jews" ("Sefer Josippon") written in Hebrew in the 10th century, which covers the period from the Captivity to the capture of Jerusalem by Titus.
+Apart from theological works, the earliest contemporary Royal Chronicles of Ethiopia are date to the reign of Amda Seyon I (1314–44). With the appearance of the "Victory Songs" of Amda Seyon, this period also marks the beginning of Amharic literature.
+The 14th century Kebra Nagast or "Glory of the Kings" by the Neburaʼed Yeshaq of Aksum is among the most significant works of Ethiopian literature, combining history, allegory and symbolism in a retelling of the story of the Queen of Sheba (i.e., Saba), King Solomon, and their son Menelik I of Ethiopia. Another work that began to take shape in this period is the Mashafa Aksum or "Book of Axum".
+15th to 16th centuries
+The early 15th century Fekkare Iyasus "The Explication of Jesus" contains a prophecy of a king called Tewodros, which rose to importance in 19th century Ethiopia as Tewodros II chose this throne name.
+Literature flourished especially during the reign of Emperor Zara Yaqob. Written by the Emperor himself were Matsʼhafe Berhan ("The Book of Light") and Matshafe Milad ("The Book of Nativity"). Numerous homilies were written in this period, notably Retuʼa Haimanot ("True Orthodoxy") ascribed to John Chrysostom. Also of monumental importance was the appearance of the Geʽez translation of the Fetha Negest ("Laws of the Kings"), thought to have been around 1450, and ascribed to one Petros Abda Sayd — that was later to function as the supreme Law for Ethiopia, until it was replaced by a modern Constitution in 1931.
+By the beginning of the 16th century, the Islamic invasions put an end to the flourishing of Ethiopian literature.
+A letter of Abba ʼEnbaqom (or "Habakkuk") to Ahmad ibn Ibrahim al-Ghazi, entitled Anqasa Amin ("Gate of the Faith"), giving his reasons for abandoning Islam, although probably first written in Arabic and later rewritten in an expanded Geʽez version around 1532, is considered one of the classics of later Geʽez literature. During this period, Ethiopian writers begin to address differences between the Ethiopian and the Roman Catholic Church in such works as the Confession of Emperor Gelawdewos, Sawana Nafs ("Refuge of the Soul"), Fekkare Malakot ("Exposition of the Godhead") and Haymanote Abaw ("Faith of the Fathers"). Around the year 1600, a number of works were translated from Arabic into Geʽez for the first time, including the Chronicle of John of Nikiu and the Universal History of George Elmacin.
+Current usage in Eritrea, Ethiopia and Israel
+Geʽez is the liturgical language of Ethiopian Orthodox Tewahedo, Eritrean Orthodox Tewahedo, Ethiopian Catholic and Eritrean Catholic Christians and the Beta Israel (Falasha Jews), and is used in prayer and in scheduled public celebrations.
+The liturgical rite used by the Christian churches is referred to as the Ethiopic Rite or the Geʽez Rite.
+Sample
+The first sentence of the Book of Enoch:
+ቃለ
+Qāla
+፡
+ 
+በረከት
+barakat
+፡
+ 
+ዘሄኖክ
+za-Henok
+፡
+ 
+ዘከመ
+zakama
+፡
+ 
+ባረከ
+bāraka
+፡
+ 
+ኅሩያነ
+ḫəruyāna
+፡
+ 
+ወጻድቃነ
+waṣādəqāna
+፡
+ 
+እለ
+ʾəlla
+፡
+ 
+ሀለዉ
+hallawu
+፡
+ 
+ይኩኑ
+yəkunu
+፡
+ 
+በዕለተ
+baʿəlata
+፡
+ 
+ምንዳቤ
+məndābe
+፡
+ 
+ለአሰስሎ
+laʾasassəlo
+፡
+ 
+ኵሉ
+kʷəllu
+፡
+ 
+እኩያን
+ʾəkuyān
+፡
+ 
+ወረሲዓን
+warasiʿān
+።
+ 
+ቃለ ፡ በረከት ፡ ዘሄኖክ ፡ ዘከመ ፡ ባረከ ፡ ኅሩያነ ፡ ወጻድቃነ ፡ እለ ፡ ሀለዉ ፡ ይኩኑ ፡ በዕለተ ፡ ምንዳቤ ፡ ለአሰስሎ ፡ ኵሉ ፡ እኩያን ፡ ወረሲዓን ።
+Qāla {} barakat {} za-Henok {} zakama {} bāraka {} ḫəruyāna {} waṣādəqāna {} ʾəlla {} hallawu {} yəkunu {} baʿəlata {} məndābe {} laʾasassəlo {} kʷəllu {} ʾəkuyān {} warasiʿān {}
+"Word of blessing of Henok, wherewith he blessed the chosen and righteous who would be alive in the day of tribulation for the removal of all wrongdoers and backsliders."

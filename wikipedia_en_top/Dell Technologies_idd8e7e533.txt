@@ -1,0 +1,26 @@
+Dell Technologies
+Dell Technologies Inc. is an American multinational technology company headquartered in Round Rock, Texas. It was formed as a result of the September 2016 merger of Dell and EMC Corporation (which later became Dell EMC).
+
+
+Dell's products include personal computers, servers, smartphones, televisions, computer software, computer security and network security, as well as information security services. Dell ranked 35th on the 2018 Fortune 500 rankings of the largest United States corporations by total revenue.
+Current operations
+Approximately 50% of the company's revenue is derived in the United States.
+Dell operates under two divisions:
+Dell divested its ownership in Boomi, VMware (80%) and Pivotal Software, but owns other businesses such as Secureworks, Virtustream.
+History
+On October 12, 2015, Dell announced its intent to acquire EMC Corporation, an enterprise software and storage company, in a $67 billion transaction. It was labeled the "highest-valued tech acquisition in history". In addition to Michael Dell, Singapore's Temasek Holdings and Silver Lake Partners were major Dell shareholders that supported the transaction.
+On September 7, 2016, Dell Inc. completed the merger with EMC Corp., which involved the issuance of $45.9 billion in debt and $4.4 billion common stock.
+The Dell Services, Dell Software Group, and the Dell EMC Enterprise Content Divisions were sold shortly thereafter for proceeds of $7.0 billion, which was used to repay debt. In October 2017, It was reported that Dell would invest $1 billion in IoT research and development.
+Dell Inc. had returned to private ownership in 2013, claiming that it faced bleak prospects and would need several years out of the public eye to rebuild its business.
+EMC was being pressured by Elliott Management Corporation, a hedge fund holding 2.2% of EMC's stock, to reorganize the unusual "Federation" structure, in which EMC's divisions were effectively being run as independent companies. Elliott argued this structure deeply undervalued EMC's core "EMC II" data storage business, and that increasing competition between EMC II and VMware products was confusing the market and hindering both companies.
+The Wall Street Journal estimated that in 2014 Dell had revenue of $27.3 billion from personal computers and $8.9 billion from servers, while EMC had $16.5 billion from EMC II, $1bn from RSA Security, $6bn from VMware, and $230 million from Pivotal Software.
+EMC owned around 80% of the stock of VMware. The acquisition maintained VMware as a separate company, held via a new tracking stock, while the rest of EMC were rolled into Dell.
+The acquisition required Dell to publish quarterly financial results, having ceased these on going private in 2013.
+Dell Technologies has products and services in the field of scale-out architecture, converged infrastructure and private cloud computing.
+In February 2018, McLaren announced a multi-year partnership deal with Dell Technologies. The partnership deal was extended in October 2021.
+On April 15, 2021, it was reported that Dell Technologies will spin out the remainder of its VMware shares to shareholders. The two companies will continue to operate without major changes for at least five years.
+IPO
+On January 29, 2018, it was reported that Dell Technologies was considering a reverse merger with its VMware subsidiary to take the company public.
+On December 28, 2018, Dell Technologies became a public company, bypassing the traditional IPO process by buying back shares that tracked the financial performance of VMware.
+Carbon footprint
+Dell Technologies reported Total CO2e emissions (Direct + Indirect) for the twelve months ending 31 December 2020 at 406 Kt (-64 /-13.6% y-o-y). Reported emissions have been declining steadily since 2016.

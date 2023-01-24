@@ -1,0 +1,230 @@
+Möbius transformation
+In geometry and complex analysis, a Möbius transformation of the complex plane is a rational function of the form
+of one complex variable z; here the coefficients a, b, c, d are complex numbers satisfying ad − bc ≠ 0.
+Geometrically, a Möbius transformation can be obtained by first performing stereographic projection from the plane to the unit two-sphere, rotating and moving the sphere to a new location and orientation in space, and then performing stereographic projection (from the new position of the sphere) to the plane.
+These transformations preserve angles, map every straight line to a line or circle, and map every circle to a line or circle.
+The Möbius transformations are the projective transformations of the complex projective line. They form a group called the Möbius group, which is the projective linear group PGL(2,C). Together with its subgroups, it has numerous applications in mathematics and physics.
+Möbius transformations are named in honor of August Ferdinand Möbius; they are also variously named homographies, homographic transformations, linear fractional transformations, bilinear transformations, fractional linear transformations, and spin transformations (in relativity theory).
+Overview
+Möbius transformations are defined on the extended complex plane $MATH$ (i.e., the complex plane augmented by the point at infinity).
+Stereographic projection identifies $MATH$ with a sphere, which is then called the Riemann sphere; alternatively, $MATH$ can be thought of as the complex projective line $MATH$.  The Möbius transformations are exactly the bijective conformal maps from the Riemann sphere to itself, i.e., the automorphisms of the Riemann sphere as a complex manifold; alternatively, they are the automorphisms of $MATH$ as an algebraic variety.  Therefore, the set of all Möbius transformations forms a group under composition.  This group is called the Möbius group, and is sometimes denoted $MATH$.
+The Möbius group is isomorphic to the group of orientation-preserving isometries of hyperbolic 3-space and therefore plays an important role when studying hyperbolic 3-manifolds.
+In physics, the identity component of the Lorentz group acts on the celestial sphere in the same way that the Möbius group acts on the Riemann sphere. In fact, these two groups are isomorphic. An observer who accelerates to relativistic velocities will see the pattern of constellations as seen near the Earth continuously transform according to infinitesimal Möbius transformations. This observation is often taken as the starting point of twistor theory.
+Certain subgroups of the Möbius group form the automorphism groups of the other simply-connected Riemann surfaces (the complex plane and the hyperbolic plane). As such, Möbius transformations play an important role in the theory of Riemann surfaces. The fundamental group of every Riemann surface is a discrete subgroup of the Möbius group (see Fuchsian group and Kleinian group). A particularly important discrete subgroup of the Möbius group is the modular group; it is central to the theory of many fractals, modular forms, elliptic curves and Pellian equations.
+Möbius transformations can be more generally defined in spaces of dimension n > 2 as the bijective conformal orientation-preserving maps from the n-sphere to the n-sphere. Such a transformation is the most general form of conformal mapping of a domain. According to Liouville's theorem a Möbius transformation can be expressed as a composition of translations, similarities, orthogonal transformations and inversions.
+Definition
+The general form of a Möbius transformation is given by
+where a, b, c, d are any complex numbers satisfying ad − bc ≠ 0. If ad = bc, the rational function defined above is a constant since
+and is thus not considered a Möbius transformation.
+In case c ≠ 0, this definition is extended to the whole Riemann sphere by defining
+If c = 0, we define
+Thus a Möbius transformation is always a bijective holomorphic function from the Riemann sphere to the Riemann sphere.
+The set of all Möbius transformations forms a group under composition. This group can be given the structure of a complex manifold in such a way that composition and inversion are holomorphic maps. The Möbius group is then a complex Lie group. The Möbius group is usually denoted $MATH$ as it is the automorphism group of the Riemann sphere.
+Fixed points
+Every non-identity Möbius transformation has two fixed points $MATH$ on the Riemann sphere. Note that the fixed points are counted here with multiplicity; the parabolic transformations are those where the fixed points coincide. Either or both of these fixed points may be the point at infinity.
+Determining the fixed points
+The fixed points of the transformation
+are obtained by solving the fixed point equation f(γ) = γ. For c ≠ 0, this has two roots obtained by expanding this equation to
+and applying the quadratic formula. The roots are
+with discriminant
+Parabolic transforms have coincidental fixed points due to zero discriminant. For c nonzero and nonzero discriminant the transform is elliptic or hyperbolic.
+When c = 0, the quadratic equation degenerates into a linear equation and the transform is linear. This corresponds to the situation that one of the fixed points is the point at infinity. When a ≠ d the second fixed point is finite and is given by
+In this case the transformation will be a simple transformation composed of translations, rotations, and dilations:
+If c = 0 and a = d, then both fixed points are at infinity, and the Möbius transformation corresponds to a pure translation:
+Topological proof
+Topologically, the fact that (non-identity) Möbius transformations fix 2 points (with multiplicity) corresponds to the Euler characteristic of the sphere being 2:
+Firstly, the projective linear group PGL(2,K) is sharply 3-transitive – for any two ordered triples of distinct points, there is a unique map that takes one triple to the other, just as for Möbius transforms, and by the same algebraic proof (essentially dimension counting, as the group is 3-dimensional). Thus any map that fixes at least 3 points is the identity.
+Next, one can see by identifying the  Möbius group with $MATH$ that any Möbius function is homotopic to the identity. Indeed, any member of the general linear group can be reduced to the identity map by Gauss-Jordan elimination, this shows that the projective linear group is path-connected as well, providing a homotopy to the identity map. The Lefschetz–Hopf theorem states that the sum of the indices (in this context, multiplicity) of the fixed points of a map with finitely many fixed points equals the Lefschetz number of the map, which in this case is the trace of the identity map on homology groups, which is simply the Euler characteristic.
+By contrast, the projective linear group of the real projective line, PGL(2,R) need not fix any points – for example $MATH$ has no (real) fixed points: as a complex transformation it fixes ±i – while the map 2x fixes the two points of 0 and ∞. This corresponds to the fact that the Euler characteristic of the circle (real projective line) is 0, and thus the Lefschetz fixed-point theorem says only that it must fix at least 0 points, but possibly more.
+Normal form
+Möbius transformations are also sometimes written in terms of their fixed points in so-called normal form. We first treat the non-parabolic case, for which there are two distinct fixed points.
+Non-parabolic case:
+Every non-parabolic transformation is conjugate to a dilation/rotation, i.e., a transformation of the form
+(k ∈ C) with fixed points at 0 and ∞. To see this define a map
+which sends the points (γ1, γ2) to (0, ∞). Here we assume that γ1 and γ2 are distinct and finite. If one of them is already at infinity then g can be modified so as to fix infinity and send the other point to 0.
+If f has distinct fixed points (γ1, γ2) then the transformation $MATH$ has fixed points at 0 and ∞ and is therefore a dilation: $MATH$. The fixed point equation for the transformation f can then be written
+Solving for f gives (in matrix form):
+or, if one of the fixed points is at infinity:
+From the above expressions one can calculate the derivatives of f at the fixed points:
+ and 
+Observe that, given an ordering of the fixed points, we can distinguish one of the multipliers (k) of f as the characteristic constant of f. Reversing the order of the fixed points is equivalent to taking the inverse multiplier for the characteristic constant:
+For loxodromic transformations, whenever |k| > 1, one says that γ1 is the repulsive fixed point, and γ2 is the attractive fixed point. For |k| < 1, the roles are reversed.
+Parabolic case:
+In the parabolic case there is only one fixed point γ. The transformation sending that point to ∞ is
+or the identity if γ is already at infinity. The transformation $MATH$ fixes infinity and is therefore a translation:
+Here, β is called the translation length. The fixed point formula for a parabolic transformation is then
+Solving for f (in matrix form) gives
+or, if γ = ∞:
+Note that β is not the characteristic constant of f, which is always 1 for a parabolic transformation. From the above expressions one can calculate:
+Poles of the transformation
+The point $MATH$ is called the pole of $MATH$; it is that point which is transformed to the point at infinity under $MATH$.
+The inverse pole $MATH$ is that point to which the point at infinity is transformed. The point midway between the two poles is always the same as the point midway between the two fixed points:
+These four points are the vertices of a parallelogram which is sometimes called the characteristic parallelogram of the transformation.
+A transform $MATH$ can be specified with two fixed points γ1, γ2 and the pole $MATH$.
+This allows us to derive a formula for conversion between k and $MATH$ given $MATH$:
+which reduces down to
+The last expression coincides with one of the (mutually reciprocal) eigenvalue ratios $MATH$ of the matrix
+representing the transform (compare the discussion in the preceding section about the characteristic constant of a transformation). Its characteristic polynomial is equal to
+which has roots
+Simple  Möbius transformations and composition
+A Möbius transformation can be composed as a sequence of simple transformations.
+The following simple transformations are also Möbius transformations:
+Composition of simple transformations
+If $MATH$, let:
+Then these functions can be composed, showing that, if  
+one has
+In other terms, one has
+with
+This decomposition makes many properties of the Möbius transformation obvious.
+Elementary properties
+A Möbius transformation is equivalent to a sequence of simpler transformations. The composition makes many properties of the Möbius transformation obvious.
+Formula for the inverse transformation
+The existence of the inverse Möbius transformation and its explicit formula are easily derived by the composition of the inverse functions of the simpler transformations. That is, define functions g1, g2, g3, g4 such that each gi is the inverse of fi. Then the composition
+gives a formula for the inverse.
+Preservation of angles and generalized circles
+From this decomposition, we see that Möbius transformations carry over all non-trivial properties of circle inversion. For example, the preservation of angles is reduced to proving that circle inversion preserves angles since the other types of transformations are dilations and isometries (translation, reflection, rotation), which trivially preserve angles.
+Furthermore, Möbius transformations map generalized circles to generalized circles since circle inversion has this property. A generalized circle is either a circle or a line, the latter being considered as a circle through the point at infinity. Note that a Möbius transformation does not necessarily map circles to circles and lines to lines: it can mix the two. Even if it maps a circle to another circle, it does not necessarily map the first circle's center to the second circle's center.
+Cross-ratio preservation
+Cross-ratios are invariant under Möbius transformations. That is, if a Möbius transformation maps four distinct points $MATH$ to four distinct points $MATH$ respectively, then
+If one of the points $MATH$ is the point at infinity, then the cross-ratio has to be defined by taking the appropriate limit; e.g. the cross-ratio of $MATH$ is
+The cross ratio of four different points is real if and only if there is a line or a circle passing through them. This is another way to show that Möbius transformations preserve generalized circles.
+Conjugation
+Two points z1 and z2 are conjugate with respect to a generalized circle C, if, given a generalized circle D passing through z1 and z2 and cutting C in two points a and b, (z1, z2; a, b) are in harmonic cross-ratio (i.e. their cross ratio is −1). This property does not depend on the choice of the circle D. This property is also sometimes referred to as being symmetric with respect to a line or circle.
+Two points z, z∗ are conjugate with respect to a line, if they are symmetric with respect to the line. Two points are conjugate with respect to a circle if they are exchanged by the inversion with respect to this circle.
+The point z∗ conjugate to z when L is the line determined by the vector based eiθ at the point z0 can be explicitly given as
+The point z∗ conjugate to z when C is the circle of radius r centered z0 can be explicitly given as
+Since Möbius transformations preserve generalized circles and cross-ratios, they preserve also the conjugation.
+Projective matrix representations
+The natural action of PGL(2,C) on the complex projective line CP1 is exactly the natural action of the Möbius group on the Riemann sphere, where the projective line CP1 and the Riemann sphere are identified as follows:
+Here [z1:z2] are homogeneous coordinates on CP1; the point [1:0] corresponds to the point ∞ of the Riemann sphere. By using homogeneous coordinates, many concrete calculations involving Möbius transformations can be simplified, since no case distinctions dealing with ∞ are required.
+With every invertible complex 2×2 matrix
+we can associate the Möbius transformation
+The condition ad − bc ≠ 0 is equivalent to the condition that the determinant of above matrix be nonzero, i.e. that the matrix be invertible.
+It is straightforward to check that then the product of two matrices will be associated with the composition of the two corresponding Möbius transformations. In other words, the map
+from the general linear group GL(2,C) to the Möbius group, which sends the matrix $MATH$ to the transformation f, is a group homomorphism.
+Note that any matrix obtained by multiplying $MATH$ by a complex scalar λ determines the same transformation, so a Möbius transformation determines its matrix only up to scalar multiples. In other words: the kernel of π consists of all scalar multiples of the identity matrix I, and the first isomorphism theorem of group theory states that the quotient group GL(2,C) / ((C \ {0})I) is isomorphic to the Möbius group. This quotient group is known as the projective linear group and is usually denoted PGL(2,C).
+The same identification of PGL(2,K) with the group of fractional linear transformations and with the group of projective linear automorphisms of the projective line holds over any field K, a fact of algebraic interest, particularly for finite fields, though the case of the complex numbers has the greatest geometric interest.
+If one restricts $MATH$ to matrices of determinant one, the map π restricts to a surjective map from the special linear group SL(2,C) to the Möbius group; in the restricted setting the kernel is formed by plus and minus the identity, and the quotient group SL(2,C) / {±I}, denoted by PSL(2,C), is therefore also isomorphic to the Möbius group:
+From this we see that the Möbius group is a 3-dimensional complex Lie group (or a 6-dimensional real Lie group). It is a semisimple non-compact Lie group.
+Note that there are precisely two matrices with unit determinant which can be used to represent any given Möbius transformation. That is, SL(2,C) is a double cover of PSL(2,C). Since SL(2,C) is simply-connected it is the universal cover of the Möbius group. Therefore, the fundamental group of the Möbius group is Z2.
+Specifying a transformation by three points
+Given a set of three distinct points $MATH$ on the Riemann sphere and a second set of distinct points $MATH$, there exists precisely one Möbius transformation $MATH$ with $MATH$ for $MATH$. (In other words: the action of the Möbius group on the Riemann sphere is sharply 3-transitive.) There are several ways to determine $MATH$ from the given sets of points.
+Mapping first to 0, 1, ∞
+It is easy to check that the Möbius transformation
+with matrix
+maps $MATH$ to $MATH$ respectively. If one of the $MATH$ is $MATH$, then the proper formula for $MATH$ is obtained from the above one by first dividing all entries by $MATH$ and then taking the limit $MATH$.
+If $MATH$ is similarly defined to map $MATH$ to $MATH$ then the matrix $MATH$ which maps $MATH$ to $MATH$ becomes
+.
+The stabilizer of $MATH$ (as an unordered set) is a subgroup known as the anharmonic group.
+Explicit determinant formula
+The equation
+is equivalent to the equation of a standard hyperbola
+in the $MATH$-plane. The problem of constructing a Möbius transformation $MATH$ mapping a triple $MATH$ to another triple $MATH$ is thus equivalent to finding the coefficients $MATH$ of the hyperbola passing through the points $MATH$. An explicit equation can be found by evaluating the determinant
+by means of a Laplace expansion along the first row. This results in the determinant formulae
+for the coefficients $MATH$ of the representing matrix $MATH$. The constructed matrix $MATH$ has determinant equal to $MATH$ which does not vanish if the $MATH$ resp. $MATH$ are pairwise different thus the Möbius transformation is well-defined. If one of the points $MATH$ or $MATH$ is $MATH$, then we first divide all four determinants by this variable and then take the limit as the variable approaches $MATH$.
+Subgroups of the Möbius group
+If we require the coefficients $MATH$ of a Möbius transformation to be real numbers with $MATH$, we obtain a subgroup of the Möbius group denoted as PSL(2,R). This is the group of those Möbius transformations that map the upper half-plane H = x + iy : y > 0 to itself, and is equal to the group of all biholomorphic (or equivalently: bijective, conformal and orientation-preserving) maps H → H. If a proper metric is introduced, the upper half-plane becomes a model of the hyperbolic plane H2, the Poincaré half-plane model, and PSL(2,R) is the group of all orientation-preserving isometries of H2 in this model.
+The subgroup of all Möbius transformations that map the open disk D = z : |z| < 1 to itself consists of all transformations of the form
+with $MATH$ ∈ R, b ∈ C and |b| < 1. This is equal to the group of all biholomorphic (or equivalently: bijective, angle-preserving and orientation-preserving) maps D → D. By introducing a suitable metric, the open disk turns into another model of the hyperbolic plane, the Poincaré disk model, and this group is the group of all orientation-preserving isometries of H2 in this model.
+Since both of the above subgroups serve as isometry groups of H2, they are isomorphic. A concrete isomorphism is given by conjugation with the transformation
+which bijectively maps the open unit disk to the upper half plane.
+Alternatively, consider an open disk with radius r, centered at r i. The Poincaré disk model in this disk becomes identical to the upper-half-plane model as r approaches ∞.
+A maximal compact subgroup of the Möbius group $MATH$ is given by (Tóth 2002)
+and corresponds under the isomorphism $MATH$ to the projective special unitary group PSU(2,C) which is isomorphic to the special orthogonal group SO(3) of rotations in three dimensions, and can be interpreted as rotations of the Riemann sphere. Every finite subgroup is conjugate into this maximal compact group, and thus these correspond exactly to the polyhedral groups, the point groups in three dimensions.
+Icosahedral groups of Möbius transformations were used by Felix Klein to give an analytic solution to the quintic equation in (Klein 1888); a modern exposition is given in (Tóth 2002).
+If we require the coefficients a, b, c, d of a Möbius transformation to be integers with ad − bc = 1, we obtain the modular group PSL(2,Z), a discrete subgroup of PSL(2,R) important in the study of lattices in the complex plane, elliptic functions and elliptic curves. The discrete subgroups of PSL(2,R) are known as Fuchsian groups; they are important in the study of Riemann surfaces.
+Classification
+In the following discussion we will always assume that the representing matrix $MATH$ is normalized such that $MATH$.
+Non-identity Möbius transformations are commonly classified into four types, parabolic, elliptic, hyperbolic and loxodromic, with the hyperbolic ones being a subclass of the loxodromic ones. The classification has both algebraic and geometric significance. Geometrically, the different types result in different transformations of the complex plane, as the figures below illustrate.
+The four types can be distinguished by looking at the trace $MATH$. Note that the trace is invariant under conjugation, that is,
+and so every member of a conjugacy class will have the same trace. Every Möbius transformation can be written such that its representing matrix $MATH$ has determinant one (by multiplying the entries with a suitable scalar). Two Möbius transformations $MATH$ (both not equal to the identity transform) with $MATH$ are conjugate if and only if $MATH$
+Parabolic transforms
+A non-identity Möbius transformation defined by a matrix $MATH$ of determinant one is said to be parabolic if
+(so the trace is plus or minus 2; either can occur for a given transformation since $MATH$ is determined only up to sign). In fact one of the choices for $MATH$ has the same characteristic polynomial X2−2X+1 as the identity matrix, and is therefore unipotent. A Möbius transform is parabolic if and only if it has exactly one fixed point in the extended complex plane $MATH$, which happens if and only if it can be defined by a matrix conjugate to
+which describes a translation in the complex plane.
+The set of all parabolic Möbius transformations with a given fixed point in $MATH$, together with the identity, forms a subgroup isomorphic to the group of matrices
+this is an example of the unipotent radical of a Borel subgroup (of the Möbius group, or of SL(2,C) for the matrix group; the notion is defined for any reductive Lie group).
+Characteristic constant
+All non-parabolic transformations have two fixed points and are defined by a matrix conjugate to
+with the complex number λ not equal to 0, 1 or −1, corresponding to a dilation/rotation through multiplication by the complex number k = λ2, called the characteristic constant or multiplier of the transformation.
+Elliptic transforms
+The transformation is said to be elliptic if it can be represented by a matrix $MATH$ whose trace is real with
+A transform is elliptic if and only if |λ| = 1 and λ ≠ ±1. Writing $MATH$, an elliptic transform is conjugate to
+with α real.
+Note that for any $MATH$ with characteristic constant k, the characteristic constant of $MATH$ is kn. Thus, all Möbius transformations of finite order are elliptic transformations, namely exactly those where λ is a root of unity, or, equivalently, where α is a rational multiple of π. The simplest possibility of a fractional multiple means α = π/2, which is also the unique case of $MATH$, is also denoted as a circular transform; this corresponds geometrically to rotation by 180° about two fixed points. This class is represented in matrix form as:
+There are 3 representatives fixing {0, 1, ∞}, which are the three transpositions in the symmetry group of these 3 points: $MATH$ which fixes 1 and swaps 0 with ∞ (rotation by 180° about the points 1 and −1), $MATH$, which fixes ∞ and swaps 0 with 1 (rotation by 180° about the points 1/2 and ∞), and $MATH$ which fixes 0 and swaps 1 with ∞ (rotation by 180° about the points 0 and 2).
+Hyperbolic transforms
+The transform is said to be hyperbolic if it can be represented by a matrix $MATH$ whose trace is real with
+A transform is hyperbolic if and only if λ is real and λ ≠ ±1.
+Loxodromic transforms
+The transform is said to be loxodromic if $MATH$ is not in [0,4]. A transformation is loxodromic if and only if $MATH$.
+Historically, navigation by loxodrome or rhumb line refers to a path of constant bearing; the resulting path is a logarithmic spiral, similar in shape to the transformations of the complex plane that a loxodromic Möbius transformation makes. See the geometric figures below.
+The real case and a note on terminology
+Over the real numbers (if the coefficients must be real), there are no non-hyperbolic loxodromic transformations, and the classification is into elliptic, parabolic, and hyperbolic, as for real conics. The terminology is due to considering half the absolute value of the trace, |tr|/2, as the eccentricity of the transformation – division by 2 corrects for the dimension, so the identity has eccentricity 1 (tr/n is sometimes used as an alternative for the trace for this reason), and absolute value corrects for the trace only being defined up to a factor of ±1 due to working in PSL. Alternatively one may use half the trace squared as a proxy for the eccentricity squared, as was done above; these classifications (but not the exact eccentricity values, since squaring and absolute values are different) agree for real traces but not complex traces. The same terminology is used for the classification of elements of SL(2, R) (the 2-fold cover), and analogous classifications are used elsewhere. Loxodromic transformations are an essentially complex phenomenon, and correspond to complex eccentricities.
+Geometric interpretation of the characteristic constant
+The following picture depicts (after stereographic transformation from the sphere to the plane) the two fixed points of a Möbius transformation in the non-parabolic case:
+The characteristic constant can be expressed in terms of its logarithm:
+When expressed in this way, the real number ρ becomes an expansion factor. It indicates how repulsive the fixed point γ1 is, and how attractive γ2 is. The real number α is a rotation factor, indicating to what extent the transform rotates the plane anti-clockwise about γ1 and clockwise about γ2.
+Elliptic transformations
+If ρ = 0, then the fixed points are neither attractive nor repulsive but indifferent, and the transformation is said to be elliptic. These transformations tend to move all points in circles around the two fixed points. If one of the fixed points is at infinity, this is equivalent to doing an affine rotation around a point.
+If we take the one-parameter subgroup generated by any elliptic Möbius transformation, we obtain a continuous transformation, such that every transformation in the subgroup fixes the same two points. All other points flow along a family of circles which is nested between the two fixed points on the Riemann sphere. In general, the two fixed points can be any two distinct points.
+This has an important physical interpretation.
+Imagine that some observer rotates with constant angular velocity about some axis. Then we can take the two fixed points to be the North and South poles of the celestial sphere. The appearance of the night sky is now transformed continuously in exactly the manner described by the one-parameter subgroup of elliptic transformations sharing the fixed points 0, ∞, and with the number α corresponding to the constant angular velocity of our observer.
+Here are some figures illustrating the effect of an elliptic Möbius transformation on the Riemann sphere (after stereographic projection to the plane):
+These pictures illustrate the effect of a single Möbius transformation. The one-parameter subgroup which it generates continuously moves points along the family of circular arcs suggested by the pictures.
+Hyperbolic transformations
+If α is zero (or a multiple of 2π), then the transformation is said to be hyperbolic. These transformations tend to move points along circular paths from one fixed point toward the other.
+If we take the one-parameter subgroup generated by any hyperbolic Möbius transformation, we obtain a continuous transformation, such that every transformation in the subgroup fixes the same two points. All other points flow along a certain family of circular arcs away from the first fixed point and toward the second fixed point. In general, the two fixed points may be any two distinct points on the Riemann sphere.
+This too has an important physical interpretation. Imagine that an observer accelerates (with constant magnitude of acceleration) in the direction of the North pole on his celestial sphere. Then the appearance of the night sky is transformed in exactly the manner described by the one-parameter subgroup of hyperbolic transformations sharing the fixed points 0, ∞, with the real number ρ corresponding to the magnitude of his acceleration vector. The stars seem to move along longitudes, away from the South pole toward the North pole. (The longitudes appear as circular arcs under stereographic projection from the sphere to the plane.)
+Here are some figures illustrating the effect of a hyperbolic Möbius transformation on the Riemann sphere (after stereographic projection to the plane):
+These pictures resemble the field lines of a positive and a negative electrical charge located at the fixed points, because the circular flow lines subtend a constant angle between the two fixed points.
+Loxodromic transformations
+If both ρ and α are nonzero, then the transformation is said to be loxodromic. These transformations tend to move all points in S-shaped paths from one fixed point to the other.
+The word "loxodrome" is from the Greek: "λοξος (loxos), slanting + δρόμος (dromos), course". When sailing on a constant bearing – if you maintain a heading of (say) north-east, you will eventually wind up sailing around the north pole in a logarithmic spiral. On the mercator projection such a course is a straight line, as the north and south poles project to infinity. The angle that the loxodrome subtends relative to the lines of longitude (i.e. its slope, the "tightness" of the spiral) is the argument of k. Of course, Möbius transformations may have their two fixed points anywhere, not just at the north and south poles. But any loxodromic transformation will be conjugate to a transform that moves all points along such loxodromes.
+If we take the one-parameter subgroup generated by any loxodromic Möbius transformation, we obtain a continuous transformation, such that every transformation in the subgroup fixes the same two points. All other points flow along a certain family of curves, away from the first fixed point and toward the second fixed point. Unlike the hyperbolic case, these curves are not circular arcs, but certain curves which under stereographic projection from the sphere to the plane appear as spiral curves which twist counterclockwise infinitely often around one fixed point and twist clockwise infinitely often around the other fixed point. In general, the two fixed points may be any two distinct points on the Riemann sphere.
+You can probably guess the physical interpretation in the case when the two fixed points are 0, ∞: an observer who is both rotating (with constant angular velocity) about some axis and moving along the same axis, will see the appearance of the night sky transform according to the one-parameter subgroup of loxodromic transformations with fixed points 0, ∞, and with ρ, α determined respectively by the magnitude of the actual linear and angular velocities.
+Stereographic projection
+These images show Möbius transformations stereographically projected onto the Riemann sphere. Note in particular that when projected onto a sphere, the special case of a fixed point at infinity looks no different from having the fixed points in an arbitrary location.
+Iterating a transformation
+If a transformation $MATH$ has fixed points γ1, γ2, and characteristic constant k, then $MATH$ will have $MATH$.
+This can be used to iterate a transformation, or to animate one by breaking it up into steps.
+These images show three points (red, blue and black) continuously iterated under transformations with various characteristic constants.
+And these images demonstrate what happens when you transform a circle under Hyperbolic, Elliptical, and Loxodromic transforms. Note that in the elliptical and loxodromic images, the α value is 1/10 .
+ 
+
+
+Higher dimensions
+In higher dimensions, a Möbius transformation is a homeomorphism of $MATH$, the one-point compactification of $MATH$, which is a finite composition of inversions in spheres and reflections in hyperplanes. Liouville's theorem in conformal geometry states that in dimension at least three, all conformal transformations are Möbius transformations. Every Möbius transformation can be put in the form
+where $MATH$, $MATH$, $MATH$ is an orthogonal matrix, and $MATH$ is 0 or 2. The group of Möbius transformations is also called the Möbius group.
+The orientation-preserving Möbius transformations form the connected component of the identity in the Möbius group.  In dimension n = 2, the orientation-preserving Möbius transformations are exactly the maps of the Riemann sphere covered here.  The orientation-reversing ones are obtained from these by complex conjugation.
+The domain of Möbius transformations, i.e. $MATH$, is homeomorphic to the n-dimensional sphere $MATH$. The canonical isomorphism between these two spaces is the Cayley transform, which is itself a Möbius transformation of $MATH$. This identification means that Möbius transformations can also be thought of as conformal isomorphisms of $MATH$. The n-sphere, together with action of the Möbius group, is a geometric structure (in the sense of Klein's Erlangen program) called Möbius geometry.
+Applications
+Lorentz transformation
+An isomorphism of the Möbius group with the Lorentz group was noted by several authors: Based on previous work of Felix Klein (1893, 1897) on automorphic functions related to hyperbolic geometry and Möbius geometry, Gustav Herglotz (1909) showed that hyperbolic motions (i.e. isometric automorphisms of a hyperbolic space) transforming the unit sphere into itself correspond to Lorentz transformations, by which Herglotz was able to classify the one-parameter Lorentz transformations into loxodromic, elliptic, hyperbolic, and parabolic groups. Other authors include Emil Artin (1957), H. S. M. Coxeter (1965), and Roger Penrose, Wolfgang Rindler (1984), Tristan Needham (1997) and W. M. Olivia (2002).
+Minkowski space consists of the four-dimensional real coordinate space R4 consisting of the space of ordered quadruples (x0,x1,x2,x3) of real numbers, together with a quadratic form
+Borrowing terminology from special relativity, points with Q > 0 are considered timelike; in addition, if x0 > 0, then the point is called future-pointing. Points with Q < 0 are called spacelike. The null cone S consists of those points where Q = 0; the future null cone N+ are those points on the null cone with x0 > 0. The celestial sphere is then identified with the collection of rays in N+ whose initial point is the origin of R4. The collection of linear transformations on R4 with positive determinant preserving the quadratic form Q and preserving the time direction form the restricted Lorentz group SO+(1,3).
+In connection with the geometry of the celestial sphere, the group of transformations SO+(1,3) is identified with the group PSL(2,C) of Möbius transformations of the sphere. To each (x0, x1, x2, x3) ∈ R4, associate the hermitian matrix
+The determinant of the matrix X is equal to Q(x0, x1, x2, x3). The special linear group acts on the space of such matrices via
+for each A ∈ SL(2,C), and this action of SL(2,C) preserves the determinant of X because det A = 1. Since the determinant of X is identified with the quadratic form Q, SL(2,C) acts by Lorentz transformations. On dimensional grounds, SL(2,C) covers a neighborhood of the identity of SO(1,3). Since SL(2,C) is connected, it covers the entire restricted Lorentz group SO+(1,3). Furthermore, since the kernel of the action (1) is the subgroup {±I}, then passing to the quotient group gives the group isomorphism
+Focusing now attention on the case when (x0,x1,x2,x3) is null, the matrix X has zero determinant, and therefore splits as the outer product of a complex two-vector ξ with its complex conjugate:
+The two-component vector ξ is acted upon by SL(2,C) in a manner compatible with (1). It is now clear that the kernel of the representation of SL(2,C) on hermitian matrices is {±I}.
+The action of PSL(2,C) on the celestial sphere may also be described geometrically using stereographic projection. Consider first the hyperplane in R4 given by x0 = 1. The celestial sphere may be identified with the sphere S+ of intersection of the hyperplane with the future null cone N+. The stereographic projection from the north pole (1,0,0,1) of this sphere onto the plane x3 = 0 takes a point with coordinates (1,x1,x2,x3) with
+to the point
+Introducing the complex coordinate
+the inverse stereographic projection gives the following formula for a point (x1, x2, x3) on S+:
+The action of SO+(1,3) on the points of N+ does not preserve the hyperplane S+, but acting on points in S+ and then rescaling so that the result is again in S+ gives an action of SO+(1,3) on the sphere which goes over to an action on the complex variable ζ. In fact, this action is by fractional linear transformations, although this is not easily seen from this representation of the celestial sphere. Conversely, for any fractional linear transformation of ζ variable goes over to a unique Lorentz transformation on N+, possibly after a suitable (uniquely determined) rescaling.
+A more invariant description of the stereographic projection which allows the action to be more clearly seen is to consider the variable ζ = z:w as a ratio of a pair of homogeneous coordinates for the complex projective line CP1. The stereographic projection goes over to a transformation from C2 − {0} to N+ which is homogeneous of degree two with respect to real scalings
+which agrees with (4) upon restriction to scales in which $MATH$ The components of (5) are precisely those obtained from the outer product
+In summary, the action of the restricted Lorentz group SO+(1,3) agrees with that of the Möbius group PSL(2,C). This motivates the following definition. In dimension n ≥ 2, the Möbius group Möb(n) is the group of all orientation-preserving conformal isometries of the round sphere Sn to itself. By realizing the conformal sphere as the space of future-pointing rays of the null cone in the Minkowski space R1,n+1, there is an isomorphism of Möb(n) with the restricted Lorentz group SO+(1,n+1) of Lorentz transformations with positive determinant, preserving the direction of time.
+Coxeter began instead with the equivalent quadratic form $MATH$
+He identified the Lorentz group with transformations for which {x : Q(x) = -1} is stable. Then he interpreted the x's as homogeneous coordinates  and {x : Q(x) = 0}, the null cone, as the Cayley absolute for a hyperbolic space of points {x : Q(x) < 0}. Next, Coxeter introduced the variables
+so that the Lorentz-invariant quadric corresponds to the sphere $MATH$ Coxeter notes that Felix Klein also wrote of this correspondence, applying stereographic projection from (0, 0, 1) to the complex plane $MATH$ Coxeter used the fact that circles of the inversive plane represent planes of hyperbolic space, and the general homography is the product of inversions in two or four circles, corresponding to the general hyperbolic displacement which is the product of inversions in two or four planes.
+Hyperbolic space
+As seen above, the Möbius group PSL(2,C) acts on Minkowski space as the group of those isometries that preserve the origin, the orientation of space and the direction of time. Restricting to the points where Q=1 in the positive light cone, which form a model of hyperbolic 3-space H3, we see that the Möbius group acts on H3 as a group of orientation-preserving isometries. In fact, the Möbius group is equal to the group of orientation-preserving isometries of hyperbolic 3-space.
+If we use the Poincaré ball model, identifying the unit ball in R3 with H3, then we can think of the Riemann sphere as the "conformal boundary" of H3. Every orientation-preserving isometry of H3 gives rise to a Möbius transformation on the Riemann sphere and vice versa; this is the very first observation leading to the AdS/CFT correspondence conjectures in physics.
+See also
+Notes
+References
+Specific
+General
+Further reading

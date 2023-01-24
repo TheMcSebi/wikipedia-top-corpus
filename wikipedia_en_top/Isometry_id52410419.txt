@@ -1,0 +1,52 @@
+Isometry
+In mathematics, an isometry (or congruence, or congruent transformation) is a distance-preserving transformation between metric spaces, usually assumed to be bijective. The word isometry is derived from the Ancient Greek: ἴσος isos meaning "equal", and μέτρον metron meaning "measure".
+Introduction
+Given a metric space (loosely, a set and a scheme for assigning distances between elements of the set), an isometry is a transformation which maps elements to the same or another metric space such that the distance between the image elements in the new metric space is equal to the distance between the elements in the original metric space. 
+In a two-dimensional or three-dimensional Euclidean space, two geometric figures are congruent if they are related by an isometry;
+the isometry that relates them is either a rigid motion (translation or rotation), or a composition of a rigid motion and a reflection.
+Isometries are often used in constructions where one space is embedded in another space. For instance, the completion of a metric space $MATH$ involves an isometry from $MATH$ into $MATH$ a quotient set of the space of Cauchy sequences on $MATH$ 
+The original space $MATH$ is thus isometrically isomorphic to a subspace of a complete metric space, and it is usually identified with this subspace. 
+Other embedding constructions show that every metric space is isometrically isomorphic to a closed subset of some normed vector space and that every complete metric space is isometrically isomorphic to a closed subset of some Banach space.
+An isometric surjective linear operator on a Hilbert space is called a unitary operator.
+Definition
+Let  $MATH$ and $MATH$ be metric spaces with metrics (e.g., distances) $MATH$ and $MATH$ 
+A map $MATH$is called an isometry or distance preserving if for any $MATH$one has
+An isometry is automatically injective; otherwise two distinct points, a and b, could be mapped to the same point, thereby contradicting the coincidence axiom of the metric d. 
+This proof is similar to the proof that an order embedding between partially ordered sets is injective. Clearly, every isometry between metric spaces is a topological embedding.
+A global isometry, isometric isomorphism or congruence mapping is a bijective isometry. Like any other bijection, a global isometry has a function inverse. 
+The inverse of a global isometry is also a global isometry.
+Two metric spaces X and Y are called isometric if there is a bijective isometry from X to Y. 
+The set of bijective isometries from a metric space to itself forms a group with respect to function composition, called the isometry group.
+There is also the weaker notion of path isometry or arcwise isometry:
+A path isometry or arcwise isometry is a map which preserves the lengths of curves; such a map is not necessarily an isometry in the distance preserving sense, and it need not necessarily be bijective, or even injective. 
+This term is often abridged to simply isometry, so one should take care to determine from context which type is intended.
+Isometries between normed spaces
+The following theorem is due to Mazur and Ulam. 
+Theorem — Let A : X → Y be a surjective isometry between normed spaces that maps 0 to 0 (Stefan Banach called such maps rotations) where note that A is not assumed to be a linear isometry. 
+Then A maps midpoints to midpoints and is linear as a map over the real numbers $MATH$. 
+If X and Y are complex vector spaces then A may fail to be linear as a map over $MATH$.
+Linear isometry
+Given two normed vector spaces $MATH$ and $MATH$ a linear isometry is a linear map $MATH$ that preserves the norms:
+for all $MATH$ 
+Linear isometries are distance-preserving maps in the above sense. 
+They are global isometries if and only if they are surjective.
+In an inner product space, the above definition reduces to 
+for all $MATH$ which is equivalent to saying that $MATH$ This also implies that isometries preserve inner products, as
+Linear isometries are not always unitary operators, though, as those require additionally that $MATH$ and $MATH$
+By the Mazur–Ulam theorem, any isometry of normed vector spaces over $MATH$ is affine.
+Manifold
+An isometry of a manifold is any (smooth) mapping of that manifold into itself, or into another manifold that preserves the notion of distance between points. 
+The definition of an isometry requires the notion of a metric on the manifold; a manifold with a (positive-definite) metric is a Riemannian manifold, one with an indefinite metric is a pseudo-Riemannian manifold. Thus, isometries are studied in Riemannian geometry.
+A local isometry from one (pseudo-)Riemannian manifold to another is a map which pulls back the metric tensor on the second manifold to the metric tensor on the first. When such a map is also a diffeomorphism, such a map is called an isometry (or isometric isomorphism), and provides a notion of isomorphism ("sameness") in the category Rm of Riemannian manifolds.
+Definition
+Let $MATH$ and $MATH$ be two (pseudo-)Riemannian manifolds, and let $MATH$ be a diffeomorphism. Then $MATH$ is called an isometry (or isometric isomorphism) if
+where $MATH$ denotes the pullback of the rank (0, 2) metric tensor $MATH$ by $MATH$ 
+Equivalently, in terms of the pushforward $MATH$ we have that for any two vector fields $MATH$ on $MATH$ (i.e. sections of the tangent bundle $MATH$),
+If $MATH$ is a local diffeomorphism such that $MATH$ then $MATH$ is called a local isometry.
+Properties
+A collection of isometries typically form a group, the isometry group. When the group is a continuous group, the infinitesimal generators of the group are the Killing vector fields. 
+The Myers–Steenrod theorem states that every isometry between two connected Riemannian manifolds is smooth (differentiable). A second form of this theorem states that the isometry group of a Riemannian manifold is a Lie group.
+Riemannian manifolds that have isometries defined at every point are called symmetric spaces.
+Generalizations
+See also
+Footnotes

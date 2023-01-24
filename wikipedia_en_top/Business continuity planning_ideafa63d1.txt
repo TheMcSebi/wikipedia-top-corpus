@@ -1,0 +1,80 @@
+Business continuity planning
+Business continuity may be defined as "the capability of an organization to continue the delivery of products or services at pre-defined acceptable levels following a disruptive incident", and business continuity planning  (or business continuity and resiliency planning) is the process of creating systems of prevention and recovery to deal with potential threats to a company. In addition to prevention, the goal is to enable ongoing operations before and during execution of disaster recovery. Business continuity is the intended outcome of proper execution of both business continuity planning and disaster recovery.
+Several business continuity standards have been published by various standards bodies to assist in check listing ongoing planning tasks.
+An organization's resistance to failure is "the ability ... to withstand changes in its environment and still function". Often called resilience, it is a capability that enables organizations to either endure environmental changes without having to permanently adapt, or the organization is forced to adapt a new way of working that better suits the new environmental conditions.
+Overview
+Any event that could negatively impact operations should be included in the plan, such as supply chain interruption, loss of or damage to critical infrastructure (major machinery or computing/network resource). As such, BCP is a subset of risk management. In the U.S., government entities refer to the process as continuity of operations planning (COOP). A Business Continuity Plan outlines a range of disaster scenarios and the steps the business will take in any particular scenario to return to regular trade. BCP's are written ahead of time and can also include precautions to be put in place. Usually created with the input of key staff as well as stakeholders, a BCP is a set of contingencies to minimize potential harm to businesses during adverse scenarios.
+Resilience
+A 2005 analysis of how disruptions can adversely affect the operations of corporations and how investments in resilience can give a competitive advantage over entities not prepared for various contingencies extended then-common business continuity planning practices. Business organizations such as the Council on Competitiveness embraced this resilience goal.
+Adapting to change in an apparently slower, more evolutionary manner - sometimes over many years or decades - has been described as being more resilient, and the term "strategic resilience" is now used to go beyond resisting a one-time crisis, but rather continuously anticipating and adjusting, "before the case for change becomes desperately obvious".
+This approach is sometimes summarized as: preparedness, protection, response and recovery.
+Resilience Theory can be related to the field of Public Relations. Resilience is a communicative process that is constructed by citizens, families, media system, organizations and governments through everyday talk and mediated conversation.
+The theory is based on the work of Patrice M. Buzzanell, a professor at the Brian Lamb School of Communication at Purdue University. In her 2010 article, "Resilience: Talking, Resisting, and Imagining New Normalcies Into Being" Buzzanell discussed the ability for organizations to thrive after having a crisis through building resistance. Buzzanell notes that there are five different processes that individuals use when trying to maintain resilience- crafting normalcy, affirming identity anchors, maintaining and using communication networks, putting alternative logics to work and downplaying negative feelings while foregrounding positive emotions.
+When looking at the resilience theory, the crisis communication theory is similar, but not the same. The crisis communication theory is based on the reputation of the company, but the resilience theory is based on the process of recovery of the company. There are five main components of resilience: crafting normalcy, affirming identity anchors, maintaining and using communication networks, putting alternative logics to work, and downplaying negative feelings while foregrounding negative emotions. Each of these processes can be applicable to businesses in crisis times, making resilience an important factor for companies to focus on while training.
+There are three main groups that are affected by a crisis. They are micro (individual), meso (group or organization) and macro (national or interorganizational). There are also two main types of resilience, which are proactive and post resilience. Proactive resilience is preparing for a crisis and creating a solid foundation for the company. Post resilience includes continuing to maintain communication and check in with employees. Proactive resilience is dealing with issues at hand before they cause a possible shift in the work environment and post resilience maintaining communication and accepting chances after an incident has happened. Resilience can be applied to any organization.
+In New Zealand, the Canterbury University Resilient Organizations programme developed an assessment tool for benchmarking the Resilience of Organizations. It covers 11 categories, each having 5 to 7 questions. A Resilience Ratio summarizes this evaluation.
+Continuity
+Plans and procedures are used in business continuity planning to ensure that the critical organizational operations required to keep an organization running continue to operate during events when key dependencies of operations are disrupted. Continuity does not need to apply to every activity which the organization undertakes. For example, under ISO 22301:2019, organizations are required to define their business continuity objectives, the minimum levels of product and service operations which will be considered acceptable and the maximum tolerable period of disruption (MTPD) which can be allowed.
+A major cost in planning for this is the preparation of audit compliance management documents; automation tools are available to reduce the time and cost associated with manually producing this information.
+Inventory
+Planners must have information about:
+Analysis
+The analysis phase consists of 
+Quantifying of loss ratios must also include "dollars to defend a lawsuit." It has been estimated that a dollar spent in loss prevention can prevent "seven dollars of disaster-related economic loss."
+Business impact analysis (BIA)
+A Business impact analysis (BIA) differentiates critical (urgent) and non-critical (non-urgent) organization functions/activities. A function may be considered critical if dictated by law.
+Each function/activity typically relies on a combination of constituent components in order to operate:
+For each function, two values are assigned:
+Maximum RTO
+Maximum time constraints for how long an enterprise's key products or services can be unavailable or undeliverable before stakeholders perceive unacceptable consequences have been named as:
+According to ISO 22301 the terms maximum acceptable outage and maximum tolerable period of disruption mean the same thing and are defined using exactly the same words.
+Consistency
+When more than one system crashes, recovery plans must balance the need for data consistency with other objectives, such as RTO and RPO.
+ Recovery Consistency Objective (RCO) is the name of this goal. It applies data consistency objectives, to define a measurement for the consistency of distributed business data within interlinked systems after a disaster incident. Similar terms used in this context are "Recovery Consistency Characteristics" (RCC) and "Recovery Object Granularity" (ROG).
+While RTO and RPO are absolute per-system values, RCO is expressed as a percentage that measures the deviation between actual and targeted state of business data across systems for process groups or individual business processes.
+The following formula calculates RCO with "n" representing the number of business processes and "entities" representing an abstract value for business data:
+$MATH$
+100% RCO means that post recovery, no business data deviation occurs.
+Threat and risk analysis (TRA)
+After defining recovery requirements, each potential threat may require unique recovery steps. Common threats include:
+The above areas can cascade: Responders can stumble. Supplies may become depleted. During the 2002-2003 SARS outbreak, some organizations compartmentalized and rotated teams to match the incubation period of the disease. They also banned in-person contact during both business and non-business hours. This increased resiliency against the threat.
+Impact scenarios
+Impact scenarios are identified and documented:
+These should reflect the widest possible damage.
+Tiers of preparedness
+SHARE's seven tiers of disaster recovery released in 1992, were updated in 2012 by IBM as an eight tier model:
+Solution design
+Two main requirements from the impact analysis stage are:
+This phase overlaps with Disaster recovery disaster recovery planning.
+The solution phase determines:
+Standards
+ISO Standards
+There are many standards that are available to support business continuity planning and management. 
+The International Organization for Standardization (ISO) has for example developed a whole series of standards on Business continuity management systems  under responsibility of technical committee ISO/TC 292: 
+British standards
+The British Standards Institution (BSI Group) released a series of standards which have since been withdrawn and replaced by the ISO standards above. 
+Within the UK, BS 25999-2:2007 and BS 25999-1:2006 were being used for business continuity management across all organizations, industries and sectors. These documents give a practical plan to deal with most eventualities—from extreme weather conditions to terrorism, IT system failure, and staff sickness.
+In 2004, following crises in the preceding years, the UK government passed the Civil Contingencies Act of 2004: Businesses must have continuity planning measures to survive and continue to thrive whilst working towards keeping the incident as minimal as possible.
+The Act was separated into two parts: 
+Part 1: civil protection, covering roles & responsibilities for local responders
+Part 2: emergency powers.
+In the United Kingdom, resilience is implemented locally by the Local Resilience Forum.
+Australian standards
+United States
+Implementation and testing
+The implementation phase involves policy changes, material acquisitions, staffing and testing.
+Testing and organizational acceptance
+The 2008 book Exercising for Excellence, published by The British Standards Institution identified three types of exercises that can be employed when testing business continuity plans.
+While start and stop times are pre-agreed, the actual duration might be unknown if events are allowed to run their course.
+Maintenance
+Biannual or annual maintenance cycle maintenance of a BCP manual is broken down into three periodic activities.
+Issues found during the testing phase often must be reintroduced to the analysis phase.
+Information and targets
+The BCP manual must evolve with the organization, and maintain information about who has to know what:
+Technical
+Specialized technical resources must be maintained. Checks include:
+Testing and verification of recovery procedures
+Software and work process changes must be documented and validated, including verification that documented work process recovery tasks and supporting disaster recovery infrastructure allow staff to recover within the predetermined recovery time objective.
+See also
+References
+Further reading

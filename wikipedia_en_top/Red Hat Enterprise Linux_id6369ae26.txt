@@ -1,0 +1,71 @@
+Red Hat Enterprise Linux
+Red Hat Enterprise Linux (RHEL) is a commercial open-source Linux distribution developed by Red Hat for the commercial market. Red Hat Enterprise Linux is released in server versions for x86-64, Power ISA, ARM64, and IBM Z and a desktop version for x86-64. Fedora Linux serves as its upstream source. All of Red Hat's official support and training, together with the Red Hat Certification Program, focuses on the Red Hat Enterprise Linux platform.
+The first version of Red Hat Enterprise Linux to bear the name originally came onto the market as "Red Hat Linux Advanced Server". In 2003, Red Hat rebranded Red Hat Linux Advanced Server to "Red Hat Enterprise Linux AS" and added two more variants, Red Hat Enterprise Linux ES and Red Hat Enterprise Linux WS.
+Red Hat uses strict trademark rules to restrict free re-distribution of their officially supported versions of Red Hat Enterprise Linux but still freely provides its source code. Third-party derivatives can be built and redistributed by stripping away non-free components like Red Hat's trademarks. Examples include community-supported distributions like Rocky Linux and AlmaLinux, and commercial forks like Oracle Linux.
+Variants
+Red Hat Enterprise Linux Server subscription is available at no cost for development purposes. Developers need to register for the Red Hat Developer Program and agree to license terms forbidding production use. This free developer subscription was announced on March 31, 2016.
+There are also "Academic" editions of the Desktop and Server variants. They are offered to schools and students, are less expensive, and are provided with Red Hat technical support as an optional extra. Web support based on the number of customer contacts can be purchased separately.
+It is often assumed the branding ES, AS, and WS stand for "Entry-level Server", "Advanced Server" and "Work Station", respectively. The reason for this is that the ES product is indeed the company's base enterprise server product, while AS is the more advanced product. However, nowhere on its site or in its literature does Red Hat say what AS, ES, and WS stand for.
+In Red Hat Enterprise Linux 5 there are new editions that substitute former Red Hat Enterprise Linux AS/ES/WS/Desktop:
+Red Hat had also announced its Red Hat Global Desktop Linux edition "for emerging markets".
+RHEL 4, 3, and prior releases had four variants:
+Relationship with Fedora Linux
+The Fedora Project provides the following explanation:
+Originally, Red Hat sold boxed versions of Red Hat Linux directly to consumers and business through phone support. The Fedora Project began in 2002 as a set of community supported packages for Red Hat Linux. However, the six month release cycle of Red Hat Linux was too disruptive for business users and Red Hat wanted a more reliable revenue stream. In 2002 Red Hat began releasing Red Hat Enterprise Linux based on Red Hat Linux, but with a much more conservative release cycle and a subscription based support program. A year later, Red Hat discontinued the Red Hat Linux product line, merging it with the Fedora community packages and releasing the resulting Fedora distribution for free.
+Fedora now serves as upstream for future versions of RHEL: RHEL trees are forked off the Fedora repository, and released after a substantial stabilization and quality assurance effort. For example, RHEL 6 was forked from Fedora at the end of 2009 (approximately at the time of the Fedora 12 release) and released more or less together with Fedora 14. By the time RHEL 6 was released, many features from Fedora 13 and 14 had already been backported into it. The Fedora Project lists the following lineages for older Red Hat Enterprise releases:
+In addition, the Fedora project publishes a set of packages for RHEL called the Extra Packages for Enterprise Linux (EPEL). EPEL packages can be expected to work in RHEL, but it is up to willing community members to maintain the packages and back port any upstream changes. As such, packages "may come and go" during the ten year lifespan of the RHEL release and Red Hat support plans do not include resolving issues caused by EPEL packages.
+Rebuilds
+Originally, Red Hat's enterprise product, then known as Red Hat Linux, was made freely available to anybody who wished to download it, while Red Hat made money from support. Red Hat then moved towards splitting its product line into Red Hat Enterprise Linux which was designed to be stable and with long-term support for enterprise users and Fedora as the community distribution and project sponsored by Red Hat. The use of trademarks prevents verbatim copying of Red Hat Enterprise Linux.
+Since Red Hat Enterprise Linux is based completely on free and open source software, Red Hat makes available the complete source code to its enterprise distribution through its FTP site to anybody who wants it. Accordingly, several groups have taken this source code and compiled their own versions of Red Hat Enterprise Linux, typically with the only changes being the removal of any references to Red Hat's trademarks and pointing the update systems to non-Red Hat servers. Groups which have undertaken this include AlmaLinux, CentOS, MIRACLE LINUX, Oracle Linux, CloudLinux OS, Rocky Linux, Scientific Linux, StartCom Enterprise Linux, Pie Box Enterprise Linux, X/OS, Lineox, and Bull's XBAS for high-performance computing. All provide a free mechanism for applying updates without paying a service fee to the distributor.
+Rebuilds of Red Hat Enterprise Linux are free but do not get any commercial support or consulting services from Red Hat and lack any software, hardware or security certifications. Also, the rebuilds do not get access to Red Hat services like Red Hat Network.
+Unusually, Red Hat took steps to obfuscate their changes to the Linux kernel for 6.0 by not publicly providing the patch files for their changes in the source tarball, and only releasing the finished product in source form. Speculation suggested that the move was made to affect Oracle's competing rebuild and support services, which further modifies the distribution. This practice however, still complies with the GNU GPL since source code is defined as "[the] preferred form of the work for making modifications to it", and the distribution still complies with this definition. Red Hat's CTO Brian Stevens later confirmed the change, stating that certain information (such as patch information) would now only be provided to paying customers to make the Red Hat product more competitive against the growing number of companies offering support for products based on RHEL. CentOS developers had no objections to the change since they do not make any changes to the kernel beyond what is provided by Red Hat. Their competitor Oracle announced in November 2012 that they were releasing a RedPatch service, which allows public view of the RHEL kernel changes, broken down by patch.
+Related products and add-ons
+A number of commercial vendors use Red Hat Enterprise Linux as a base for the operating system in their products. Two of the best known are the Console Operating System in VMware ESX Server and Oracle Linux respin.
+Version history and timeline
+Naming convention
+Each release is given a codename which is selected by a vote of the developers. The codenames don't have a specific pattern (unlike Ubuntu or Debian).
+RHEL 9
+Red Hat Enterprise Linux 9 was announced at Red Hat Summit on May 10, 2022 and was officially released on May 17, 2022 (2022-05-17). In this version of the system introduced a Linux Kernel 5.14.0 and Gnome 40. 
+RHEL 9 was the first to be based on CentOS Stream, itself based on Fedora Linux, while historically RHEL was based directly on Fedora Linux.
+The first beta for Red Hat Enterprise Linux 9 (Plow), based on Fedora Linux 34, was released on November 3, 2021.
+Red Hat Enterprise Linux 9 (Plow) was released on May 18, 2022. The name Plow was the Appalachian Trail nickname for Tim Burke, one of the founders of RHEL and retired leader of RHEL engineering.
+RHEL 8
+Red Hat Enterprise Linux 8 (Ootpa) is based on Fedora 28, upstream Linux kernel 4.18, GCC 8.2, glibc 2.28, systemd 239, GNOME 3.28, and the switch to Wayland. The first beta was announced on November 14, 2018. Red Hat Enterprise Linux 8 was officially released on May 7, 2019 (2019-05-07).
+With Release 8 of Red Hat Enterprise Linux, IBM has completed transition of POWER8 and POWER9 servers to
+little-endian mode.
+The name Ootpa was a tribute to Larry Troan. His son, Eric Troan was Red Hat's first head engineer and his username was ewt, so his father was given the name ewt's pa, pronounced Ootpa.
+RHEL 7
+Red Hat Enterprise Linux 7 (Maipo) is based on Fedora 19, upstream Linux kernel 3.10, systemd 208 (updated to 219 in RHEL 7.2), and GNOME 3.8 (rebased to GNOME 3.28 in RHEL 7.6) The first beta was announced on 11 December 2013, and a release candidate was made available on 15 April 2014. On June 10, 2014 (2014-06-10) Red Hat Enterprise Linux 7 was officially released.
+RHEL 6
+Red Hat Enterprise Linux 6 was forked from Fedora 12 and contains many backported features from Fedora 13 and 14.
+RHEL 5
+RHEL 4
+RHEL 4 introduced Linux kernel 2.6 versions and extended attributes on ext2 and ext3 file systems.
+RHEL 3
+RHEL 2.1
+Product life cycle
+The life cycle of Red Hat Enterprise Linux is at least seven years for versions 3 and 4, and spans at least 10 years for versions 5, 6, 7 and 8. The life cycle comprises several phases of varying length with different degrees of support. During the first phase ("Production 1"), Red Hat provides full support and updates software and hardware drivers. In later phases ("Production 2" and "Production 3"), only security and other important fixes are provided and support for new hardware is gradually reduced.
+In the last years of the support lifecycle (after seven years for version 4 and earlier, and after 10 years for version 5 and later), critical and security-related fixes are only provided to customers who pay an additional subscription ("Extended Lifecycle Support Add-On") that is available for versions 3, 4 and 5, and covers a limited number of packages. Red Hat only supports major version upgrades from version 6 to version 7 and from version 7 to version 8.
+Kernel backporting
+To maintain a stable application binary interface (ABI), Red Hat does not update the kernel version, but instead backports new features to the same kernel version with which a particular version of RHEL has been released. New features are backported throughout the Production 1 phase of the RHEL lifecycle. Consequently, RHEL may use a Linux kernel with a dated version number, yet the kernel is up-to-date regarding not only security fixes, but also certain features. One specific example is the SO_REUSEPORT socket option which was added to Linux kernel 3.9, and was subsequently backported and became available since RHEL 6.5, which uses version 2.6.32 of the Linux kernel.
+Extended Update Support (EUS) / Z Tree
+The Extended Update Support (EUS) allows an organization / company to choose when they change to a new minor version. For the first 6 months of the EUS channel / yum repo, features may be added, but then the channel is locked down so that only bug and security fixes are patched. The organization / company then has 24 months to move to a new EUS branch. EUS allows the organization / company to stay on a minor version if required by a third party application which is only tested with a particular minor version of RHEL, such as Oracle Database, IBM Db2, IBM Cloud Orchestrator, Hortonworks. There may also be extra costs associated with using the EUS repos/channels depending on the agreement the organization / company has with Red Hat. For more information on what is Included/Excluded from the EUS see.
+Note
+Updates
+In general one can move from z streams to the next version of the z stream.
+Any 7.y.z EUS channel where y is greater than 1.
+The standard base channel for Red Hat Enterprise Linux 7, which is the most recent minor release aka rhel 7Y where y is the latest greatest.
+One can not go back in time, aka 7.5.z to 7.4.z and will NOT be supported.
+RHEL 6
+Red Hat Enterprise Linux 6 was forked from Fedora 12 and contains many backported features from Fedora 13 and 14.
+RHEL 7
+Red Hat Enterprise Linux 7 (Maipo) is based on Fedora 19, upstream Linux kernel 3.10, 10 June 2014, uses Linux kernel 3.10.0-123
+RHEL 8
+Red Hat Enterprise Linux 8 (Ootpa) is based on Fedora 28, upstream Linux kernel 4.18, systemd 239, and GNOME 3.28. The first beta was announced on 14 November 2018. Red Hat Enterprise Linux 8 was officially released on 2019-05-07 (2019-05-07).
+For RHEL 8, the update schedule is approximately:
+RHEL 8 application streams
+In addition to normal OS updates, RHEL 8 also maintains application streams to allow for certain applications to be supported and updated independent of the base OS and to match the maintenance stream of the application vendor. Each application stream will be supported from two to five years with new versions only available during the Red Hat Enterprise Linux Full Support Phase. These apps should be expected to be updated frequently with shorter lifecycles than the base OS packages.
+Packages currently offered as streams
+See also
+References
+Further reading

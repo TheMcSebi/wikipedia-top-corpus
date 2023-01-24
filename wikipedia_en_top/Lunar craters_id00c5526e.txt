@@ -1,0 +1,33 @@
+Lunar craters
+Lunar craters are impact craters on Earth's Moon. The Moon's surface has many craters, all of which were formed by impacts. The International Astronomical Union currently recognizes 9,137 craters, of which 1,675 have been dated.
+History
+The word crater was adopted from the Greek word for "vessel" (Κρατήρcode: ell promoted to code: el , a Greek vessel used to mix wine and water). Galileo built his first telescope in late 1609, and turned it to the Moon for the first time on November 30, 1609. He discovered that, contrary to general opinion at that time, the Moon was not a perfect sphere, but had both mountains and cup-like depressions. These were named craters by Johann Hieronymus Schröter (1791), extending its previous use with volcanoes.
+Robert Hooke in Micrographia (1665) proposed two hypotheses for lunar crater formation: one, that the craters were caused by projectile bombardment from space, the other, that they were 
+the products of subterranean lunar volcanism.
+Scientific opinion as to the origin of craters swung back and forth over the ensuing centuries.  The competing theories were:
+Grove Karl Gilbert suggested in 1893 that the Moon's craters were formed by large asteroid impacts.  Ralph Baldwin in 1949 wrote that the Moon's craters were mostly of impact origin.  Around 1960, Gene Shoemaker revived the idea.  According to David H. Levy, Shoemaker "saw the craters on the Moon as logical impact sites that were formed not gradually, in eons, but explosively, in seconds."
+Evidence collected during the Apollo Project and from unmanned spacecraft of the same period proved conclusively that meteoric impact, or impact by asteroids for larger craters, was the origin of almost all lunar craters, and by implication, most craters on other bodies as well.
+The formation of new craters is studied in the lunar impact monitoring program at NASA. The biggest recorded creation was caused by an impact recorded on March 17, 2013. Visible to the naked eye, the impact is believed to be from an approximately 40 kg (88 lb) meteoroid striking the surface at a speed of 90,000 km/h (56,000 mph; 16 mi/s).
+In March 2018, the discovery of around 7,000 formerly unidentified lunar craters via convolutional neural network developed at the University of Toronto Scarborough, Canada was announced. A similar study in December 2020 identified around 109,000 new craters using a deep neural network.
+Characteristics
+Because of the Moon's lack of water, atmosphere, and tectonic plates, there is little erosion, and craters are found that exceed two billion years in age.  The age of large craters is determined by the number of smaller craters contained within it, older craters generally accumulating more small, contained craters.
+The smallest craters found have been microscopic in size, found in rocks returned to Earth from the Moon.  The largest crater called such is about 290 km (180 mi) across in diameter, located near the lunar south pole. However, it is believed that many of the lunar maria were formed by giant impacts, with the resulting depression filled by upwelling lava.
+Craters typically will have some or all of the following features:
+Statistics
+There are at least 1.3 million craters larger than 1 km (0.62 mi) in diameter; of these, 83,000 are greater than 5 km (3 mi) in diameter, and 6,972 are greater than 20 km (12 mi) in diameter.
+Lunar crater categorization
+In 1978, Chuck Wood and Leif Andersson of the Lunar & Planetary Lab devised a system of categorization of lunar impact craters.
+They used a sampling of craters that were relatively unmodified by subsequent impacts, then grouped the results into five broad categories. These successfully accounted for about 99% of all lunar impact craters.
+The LPC Crater Types were as follows:
+Beyond a couple of hundred kilometers diameter, the central peak of the TYC class disappear and they are classed as basins. Large craters, similar in size to maria, but without (or with a small amount of) dark lava filling, are sometimes called thalassoids.
+Beginning in 2009 Nadine G. Barlow of Northern Arizona University, U.S. began to convert the Wood and Andersson lunar impact-crater database into digital format. Barlow is also creating a new lunar impact crater database similar to Wood and Andersson's, except hers will include all impact craters greater than or equal to five kilometers in diameter and is based on the Clementine spacecraft's images of the lunar surface.
+The Moon Zoo project within the Zooniverse program aimed to use citizen scientists to map the size and shape of as many craters as possible using data from the NASA Lunar Reconnaissance Orbiter.  However, it has since been retired.
+Names
+Craters constitute 95% of all named lunar features. Usually they are named after deceased scientists and other explorers. This tradition comes from Giovanni Battista Riccioli, who started it in 1651. Since 1919, assignment of these names is regulated by the International Astronomical Union.
+Small craters of special interest (for example, visited by lunar missions) receive human first names (Robert, José, Louise etc.). One of the biggest lunar craters, Apollo, is named after Apollo missions. Many smaller craters inside and near it bear the names of deceased American astronauts, and many craters inside and near Mare Moscoviense bear the names of deceased Soviet cosmonauts. Besides this, in 1970 twelve craters were named after twelve living astronauts (6 Soviet and 6 American).
+The majority of named lunar craters are satellite craters: their names consist of the name of a nearby named crater and a capital letter (for example, Copernicus A, Copernicus B, Copernicus C and so on).
+Lunar crater chains are usually named after a nearby crater. Their Latin names contain the word Catena ("chain"). For example, Catena Davy is situated near the crater Davy.
+Locations of major craters
+The red marker on these images illustrates the location of the named crater feature on the near side of the Moon.
+See also
+Notes

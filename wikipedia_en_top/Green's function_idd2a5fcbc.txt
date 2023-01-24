@@ -1,0 +1,99 @@
+Green's function
+In mathematics, a Green's function is the impulse response of an inhomogeneous linear differential operator defined on a domain with specified initial conditions or boundary conditions.
+This means that if $MATH$ is the linear differential operator, then
+Through the superposition principle, given a linear ordinary differential equation (ODE), $MATH$, one can first solve $MATH$, for each s, and realizing that, since the source is a sum of delta functions, the solution is a sum of Green's functions as well, by linearity of L.
+Green's functions are named after the British mathematician George Green, who first developed the concept in the 1820s. In the modern study of linear partial differential equations, Green's functions are studied largely from the point of view of fundamental solutions instead.
+Under many-body theory, the term is also used in physics, specifically in quantum field theory, aerodynamics, aeroacoustics, electrodynamics, seismology and statistical field theory, to refer to various types of correlation functions, even those that do not fit the mathematical definition. In quantum field theory, Green's functions take the roles of propagators.
+Definition and uses
+A Green's function, G(x,s), of a linear differential operator $MATH$ acting on distributions over a subset of the Euclidean space $MATH$, at a point s, is any solution of
+where δ is the Dirac delta function. This property of a Green's function can be exploited to solve differential equations of the form
+If the kernel of L is non-trivial, then the Green's function is not unique. However, in practice, some combination of symmetry, boundary conditions and/or other externally imposed criteria will give a unique Green's function. Green's functions may be categorized, by the type of boundary conditions satisfied, by a Green's function number. Also, Green's functions in general are distributions, not necessarily functions of a real variable.
+Green's functions are also useful tools in solving wave equations and diffusion equations. In quantum mechanics, Green's function of the Hamiltonian is a key concept with important links to the concept of density of states.
+The Green's function as used in physics is usually defined with the opposite sign, instead. That is,
+This definition does not significantly change any of the properties of Green's function due to the evenness of the Dirac delta function.
+If the operator is translation invariant, that is, when $MATH$ has constant coefficients with respect to x, then the Green's function can be taken to be a convolution kernel, that is,
+In this case, Green's function is the same as the impulse response of linear time-invariant system theory.
+Motivation
+Loosely speaking, if such a function G can be found for the operator $MATH$, then, if we multiply the equation (1) for the Green's function by f(s), and then integrate with respect to s, we obtain,
+Because the operator $MATH$ is linear and acts only on the variable x (and not on the variable of integration s), one may take the operator $MATH$ outside of the integration, yielding
+This means that
+is a solution to the equation $MATH$
+Thus, one may obtain the function u(x) through knowledge of the Green's function in equation (1) and the source term on the right-hand side in equation (2). This process relies upon the linearity of the operator $MATH$.
+In other words, the solution of equation (2),  u(x), can be determined by the integration given in equation (3). Although f(x) is known, this integration cannot be performed unless G is also known. The problem now lies in finding the Green's function G that satisfies equation (1). For this reason, the Green's function is also sometimes called the fundamental solution associated to the operator $MATH$.
+Not every operator $MATH$ admits a Green's function. A Green's function can also be thought of as a right inverse of $MATH$. Aside from the difficulties of finding a Green's function for a particular operator, the integral in equation (3) may be quite difficult to evaluate. However the method gives a theoretically exact result.
+This can be thought of as an expansion of f according to a Dirac delta function basis (projecting f over $MATH$; and a superposition of the solution on each projection. Such an integral equation is known as a Fredholm integral equation, the study of which constitutes Fredholm theory.
+Green's functions for solving inhomogeneous boundary value problems
+The primary use of Green's functions in mathematics is to solve non-homogeneous boundary value problems. In modern theoretical physics, Green's functions are also usually used as propagators in Feynman diagrams; the term Green's function is often further used for any correlation function.
+Framework
+Let $MATH$ be the Sturm–Liouville operator, a linear differential operator of the form
+and let $MATH$ be the vector-valued boundary conditions operator
+Let $MATH$ be a continuous function in $MATH$ Further suppose that the problem
+is "regular", i.e., the only solution for $MATH$ for all x is $MATH$.
+Theorem
+There is one and only one solution $MATH$ that satisfies
+and it is given by
+where $MATH$ is a Green's function satisfying the following conditions:
+Advanced and retarded Green's functions
+Green's function is not necessarily unique since the addition of any solution of the homogeneous equation to one Green's function results in another Green's function. Therefore if the homogeneous equation has nontrivial solutions, multiple Green's functions exist. In some cases, it is possible to find one Green's function that is nonvanishing only for $MATH$, which is called a retarded Green's function, and another Green's function that is nonvanishing only for $MATH$, which is called an advanced Green's function. In such cases, any linear combination of the two Green's functions is also a valid Green's function. The terminology advanced and retarded is especially useful when the variable x corresponds to time. In such cases, the solution provided by the use of the retarded Green's function depends only on the past sources and is causal whereas the solution provided by the use of the advanced Green's function depends only on the future sources and is acausal.  In these problems, it is often the case that the causal solution is the physically important one. The use of advanced and retarded Green's function is especially common for the analysis of solutions of the inhomogeneous electromagnetic wave equation.
+Finding Green's functions
+Units
+While it doesn't uniquely fix the form the Green's function will take, performing a dimensional analysis to find the units a Green's function must have is an important sanity check on any Green's function found through other means. A quick examination of the defining equation,
+shows that the units of $MATH$ depend not only on the units of $MATH$ but also on the number and units of the space of which the position vectors $MATH$ and $MATH$ are elements. This leads to the relationship:
+where $MATH$ is defined as, "the physical units of $MATH$", and $MATH$ is the volume element of the space (or spacetime).
+For example, if $MATH$ and time is the only variable then:
+If $MATH$, the d'Alembert operator, and space has 3 dimensions then:
+Eigenvalue expansions
+If a differential operator L admits a set of eigenvectors Ψn(x) (i.e., a set of functions Ψn and scalars λn such that LΨn = λn Ψn ) that is complete, then it is possible to construct a Green's function from these eigenvectors and eigenvalues.
+"Complete" means that the set of functions {Ψn} satisfies the following completeness relation,
+Then the following holds,
+$MATH$
+where $MATH$ represents complex conjugation.
+Applying the operator L to each side of this equation results in the completeness relation, which was assumed.
+The general study of Green's function written in the above form, and its relationship to the function spaces formed by the eigenvectors, is known as Fredholm theory.
+There are several other methods for finding Green's functions, including the method of images, separation of variables, and Laplace transforms.
+Combining Green's functions
+If the differential operator $MATH$ can be factored as $MATH$ then the Green's function of $MATH$ can be constructed from the Green's functions for $MATH$ and $MATH$:
+The above identity follows immediately from taking $MATH$ to be the representation of the right operator inverse of $MATH$, analogous to how for the invertible linear operator $MATH$, defined by $MATH$, is represented by its matrix elements $MATH$.
+A further identity follows for differential operators that are scalar polynomials of the derivative, $MATH$. The fundamental theorem of algebra, combined with the fact that $MATH$ commutes with itself, guarantees that the polynomial can be factored, putting $MATH$ in the form:
+where $MATH$ are the zeros of $MATH$. Taking the Fourier transform of $MATH$ with respect to both $MATH$ and $MATH$ gives:
+The fraction can then be split into a sum using a partial fraction decomposition before Fourier transforming back to $MATH$ and $MATH$ space. This process yields identities that relate integrals of Green's functions and sums of the same. For example, if $MATH$ then one form for its Green's function is:
+While the example presented is tractable analytically, it illustrates a process that works when the integral is not trivial (for example, when $MATH$ is the operator in the polynomial).
+Table of Green's functions
+The following table gives an overview of Green's functions of frequently appearing differential operators, where $MATH$, $MATH$, $MATH$ is the Heaviside step function, $MATH$ is a Bessel function, $MATH$ is a modified Bessel function of the first kind, and $MATH$ is a modified Bessel function of the second kind. Where time (t) appears in the first column, the retarded (causal) Green's function is listed.
+Green's functions for the Laplacian
+Green's functions for linear differential operators involving the Laplacian may be readily put to use using the second of Green's identities.
+To derive Green's theorem, begin with the divergence theorem (otherwise known as Gauss's theorem),
+Let $MATH$ and substitute into Gauss' law.
+Compute $MATH$ and apply the product rule for the ∇ operator,
+Plugging this into the divergence theorem produces Green's theorem,
+Suppose that the linear differential operator L is the Laplacian, ∇2, and that there is a Green's function G for the Laplacian. The defining property of the Green's function still holds,
+Let $MATH$ in Green's second identity, see Green's identities.  Then,
+Using this expression, it is possible to solve Laplace's equation ∇2φ(x) = 0 or Poisson's equation ∇2φ(x) = −ρ(x), subject to either Neumann or Dirichlet boundary conditions. In other words, we can solve for φ(x) everywhere inside a volume where either (1) the value of φ(x) is specified on the bounding surface of the volume (Dirichlet boundary conditions), or (2) the normal derivative of φ(x) is specified on the bounding surface (Neumann boundary conditions).
+Suppose the problem is to solve for φ(x) inside the region. Then the integral
+reduces to simply φ(x) due to the defining property of the Dirac delta function and we have
+This form expresses the well-known property of harmonic functions, that if the value or normal derivative is known on a bounding surface, then the value of the function inside the volume is known everywhere.
+In electrostatics, φ(x) is interpreted as the electric potential,  ρ(x) as electric charge density, and the normal derivative $MATH$ as the normal component of the electric field.
+If the problem is to solve a Dirichlet boundary value problem, the Green's function should be chosen such that G(x,x′)  vanishes when either x or x′ is on the bounding surface. Thus only one of the two terms in the surface integral remains. If the problem is to solve a Neumann boundary value problem, it might seem logical to choose Green's function so that its normal derivative vanishes on the bounding surface.  However, application of Gauss's theorem to the differential equation defining the Green's function yields
+meaning the normal derivative of G(x,x′)  cannot vanish on the surface, because it must integrate to 1 on the surface.
+The simplest form the normal derivative can take is that of a constant, namely 1/S, where S is the surface area of the surface. The surface term in the solution becomes
+where $MATH$ is the average value of the potential on the surface.  This number is not known in general, but is often unimportant, as the goal is often to obtain the electric field given by the gradient of the potential, rather than the potential itself.
+With no boundary conditions, the Green's function for the Laplacian (Green's function for the three-variable Laplace equation) is
+Supposing that the bounding surface goes out to infinity and plugging in this expression for the Green's function finally yields the standard expression for electric potential in terms of electric charge density as
+$MATH$
+Example
+Find the Green function for the following problem, whose Green's function number is X11:
+First step: The Green's function for the linear operator at hand is defined as the solution to
+If $MATH$, then the delta function gives zero, and the general solution is
+For $MATH$, the boundary condition at $MATH$ implies
+if $MATH$ and $MATH$.
+For $MATH$, the boundary condition at $MATH$ implies
+The equation of $MATH$ is skipped for similar reasons.
+To summarize the results thus far:
+Second step: The next task is to determine $MATH$ and $MATH$.
+Ensuring continuity in the Green's function at $MATH$ implies
+One can ensure proper discontinuity in the first derivative by integrating the defining differential equation (i.e., Eq. *) from $MATH$ to $MATH$ and taking the limit as $MATH$ goes to zero. Note that we only integrate the second derivative as the remaining term will be continuous by construction.
+The two (dis)continuity equations can be solved for $MATH$ and $MATH$ to obtain
+So Green's function for this problem is:
+Further examples
+See also
+Footnotes

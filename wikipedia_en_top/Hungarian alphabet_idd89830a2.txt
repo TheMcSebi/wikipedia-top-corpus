@@ -1,0 +1,42 @@
+Hungarian alphabet
+The Hungarian alphabet (Hungarian: magyar ábécé) is an extension of the Latin alphabet used for writing the Hungarian language.
+The alphabet is based on the Latin alphabet, with several added variations of letters. The alphabet consists of the 26 letters of the ISO basic Latin alphabet, as well as five letters with an acute accent, two letters with an umlaut, two letters with a double acute accent, eight letters made up of two characters, and one letter made up of three characters. In some other languages, characters with diacritical marks would be considered variations of the base letter, however in Hungarian, these characters are considered letters in their own right.
+One sometimes speaks of the smaller (or basic) and greater (or extended) Hungarian alphabets, depending on whether or not the digraphs Dz or Dzs is counted as a letter, and whether or not letters Q, W, X, Y, which can only be found in foreign words and traditional orthography of names. (As for Y, however, it exists as part of several digraphs)
+The 44 letters of the extended Hungarian alphabet are:
+Description
+Each sign shown above counts as a letter in its own right in Hungarian.  Some, such as the letter ⟨ó⟩ and ⟨ő⟩, are inter-filed with the letter preceding it when sorting words alphabetically, whereas others, such as ⟨ö⟩, have their own place in collation rather than also being inter-filed with ⟨o⟩.
+While long vowels count as different letters, long (or geminate) consonants do not.  Long consonants are marked by duplication: e.g. ⟨tt⟩, ⟨gg⟩, ⟨zz⟩ (ette 'he ate' (det.obj.), függ 'it hangs', azzal 'with that'). For the di- and tri-graphs a simplification rule normally applies (but not when the compound is split at the end of a line of text due to hyphenation), only the first letter being duplicated, e.g.
+An exception is made at the joining points of compound words, for example: jegygyűrű 'engagement ring' (jegy + gyűrű) rather than *jeggyűrű.
+⟨Dz⟩ and ⟨dzs⟩ were recognized as individual letters in the 11th edition of Hungarian orthography (1984).  Prior to that, they were analyzed as two-letter combinations ⟨d⟩+⟨z⟩ and ⟨d⟩+⟨zs⟩.
+Pronunciation
+The pronunciation given for the following Hungarian letters is that of standard Hungarian.
+The letter ë is not part of the Hungarian alphabet; however, linguists use this letter to distinguish between the two kinds of short e sounds of some dialects. This letter was first used in 1770 by György Kalmár, but has never officially been part of the Hungarian alphabet, as the standard Hungarian language does not distinguish between these two sounds.  However, the ë sound is pronounced differently from the e sound in 6 out of the 10 Hungarian dialects and the sound is pronounced as ö in 1 dialect. It is also used in names. Other letter for this sound is Ėė (rarely).
+A more open variety of /ɛ/, close to [æ], can be denoted as Ää in Hungarian linguistics works.
+The digraph ch also exists in some words (technika, monarchia) and is pronounced the same as h. In names, however, it is pronounced like cs as well as like h or k (as in German) (see below).
+The letter Y is only used in loanwords and several digraphs (gy, ly, ny, ty), and thus in a native Hungarian word, Y never comes as the initial of a word, except in loanwords. So, for native Hungarian words, the capital Y only exists in all caps or small caps formats, such as the titles of newspapers.
+Historic spellings used in names and historical documents
+Old spellings (sometimes similar to German orthography) used in some Hungarian names and their corresponding pronunciation according to modern spelling include the following:
+On áá: 
+Generally, y in historic spellings of names formed with the -i affix (not to be confused with a possessive -i- of plural objects, as in szavai!) can exist after many other letters (e.g.: Teleky, Rákóczy, Dézsy). Here are listed only examples which can be easily misread because of such spelling.
+Examples:
+Historic spellings of article and conjunctions
+In early editions the article a/az was written according to the following rules:
+The abbreviated form of the conjunction és (and), which is always written today as s, was likely to be written with an apostrophe before — ’s (e.g. föld  ’s nép).
+Capitalisation
+The di- and the trigraphs are capitalised in names and at the beginning of sentences by capitalising the first glyph of them only.
+In abbreviations and when writing with all capital letters, however, one capitalises the second (and third) character as well.
+Thus ("The Rules of Hungarian Orthography", a book edited by the Hungarian Academy of Sciences):
+Alphabetical ordering (collation)
+While the characters with diacritical marks are considered separate letters, vowels that differ only in length are treated the same when ordering words. Therefore, for example, the pairs O/Ó and Ö/Ő are not distinguished in ordering, but Ö follows O. In cases where two words are differentiated solely by the presence of an accent, the one without the accent is put before the other one. (The situation is the same for lower and upper-case letters: in alphabetical ordering, varga is followed by Varga.)
+The polygraphic consonant signs are treated as single letters.
+The simplified geminates of multigraphs (see above) such as <nny>, <ssz> are collated as <ny>+<ny>, <sz>+<sz> etc., if they are double geminates, rather than co-occurrences of a single letter and a geminate.
+Similar 'ambiguities', which can occur with compounds (which are highly common in Hungarian) are dissolved and collated by sense.
+These rules make Hungarian alphabetic ordering algorithmically difficult (one has to know the correct segmentation of a word to sort it correctly), which was a problem for computer software development.
+Keyboard layout
+The standard Hungarian keyboard layout is German-based (QWERTZ). This layout allows direct access to every character in the Hungarian alphabet.
+The letter "Í" is often placed left of the space key, leaving the width of the left Shift key intact. "Ű" may be located to the left of Backspace, making that key smaller, but allowing for a larger Enter key. Ű being close to Enter often leads to it being typed instead of hitting Enter, especially when one has just switched from a keyboard that has Ű next to backspace. The German "Ä" and "ß", the Polish "Ł", and the Croatian "Đ" are also present.
+Letter frequencies
+The most common letters in Hungarian are e and a.
+The list below shows the letter frequencies for the smaller Hungarian alphabet in descending order.
+The spelling alphabet
+Note that some letters were omitted (notably, Dz, Dzs, Gy, Í, Ly, Ny, Ty, Ú, Ű).

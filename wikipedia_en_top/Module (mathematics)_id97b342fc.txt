@@ -1,0 +1,40 @@
+Module (mathematics)
+In mathematics, a module is a generalization of the notion of vector space in which the field of scalars is replaced by a ring. The concept of module generalizes also the notion of abelian group, since the abelian groups are exactly the modules over the ring of integers.
+Like a vector space, a module is an additive abelian group, and scalar multiplication is distributive over the operation of addition between elements of the ring or module and is compatible with the ring multiplication.
+Modules are very closely related to the representation theory of groups. They are also one of the central notions of commutative algebra and homological algebra, and are used widely in algebraic geometry and algebraic topology.
+Introduction and definition
+Motivation
+In a vector space, the set of scalars is a field and acts on the vectors by scalar multiplication, subject to certain axioms such as the distributive law.  In a module, the scalars need only be a ring, so the module concept represents a significant generalization.  In commutative algebra, both ideals and quotient rings are modules, so that many arguments about ideals or quotient rings can be combined into a single argument about modules.  In non-commutative algebra, the distinction between left ideals, ideals, and modules becomes more pronounced, though some ring-theoretic conditions can be expressed either about left ideals or left modules.
+Much of the theory of modules consists of extending as many of the desirable properties of vector spaces as possible to the realm of modules over a "well-behaved" ring, such as a principal ideal domain. However, modules can be quite a bit more complicated than vector spaces; for instance, not all modules have a basis, and even those that do, free modules, need not have a unique rank if the underlying ring does not satisfy the invariant basis number condition, unlike vector spaces, which always have a (possibly infinite) basis whose cardinality is then unique. (These last two assertions require the axiom of choice in general, but not in the case of finite-dimensional spaces, or certain well-behaved infinite-dimensional spaces such as Lp spaces.)
+Formal definition
+Suppose that R is a ring, and 1 is its multiplicative identity.
+A left R-module M consists of an abelian group (M, +) and an operation · : R × M → M such that for all r, s in R and x, y in M, we have
+The operation · is called scalar multiplication.  Often the symbol · is omitted, but in this article we use it and reserve juxtaposition for multiplication in R. One may write RM to emphasize that M is a left R-module.  A right R-module MR is defined similarly in terms of an operation · : M × R → M.
+Authors who do not require rings to be unital omit condition 4 in the definition above; they would call the structures defined above "unital left R-modules". In this article, consistent with the glossary of ring theory, all rings and modules are assumed to be unital.
+An (R,S)-bimodule is an abelian group together with both a left scalar multiplication · by elements of R and a right scalar multiplication ∗ by elements of S, making it simultaneously a left R-module and a right S-module, satisfying the additional condition (r · x) ∗ s = r ⋅ (x ∗ s) for all r in R, x in M, and s in S.
+If R is commutative, then left R-modules are the same as right R-modules and are simply called R-modules.
+Examples
+Submodules and homomorphisms
+Suppose M is a left R-module and N is a subgroup of M.  Then N is a submodule (or more explicitly an R-submodule) if for any n in N and any r in R, the product r ⋅ n (or n ⋅ r for a right R-module) is in N.
+If X is any subset of an R-module M, then the submodule spanned by X is defined to be $MATH$ where N runs over the submodules of M which contain X, or explicitly $MATH$, which is important in the definition of tensor products.
+The set of submodules of a given module M, together with the two binary operations + and ∩, forms a lattice which satisfies the modular law:
+Given submodules U, N1, N2 of M such that N1 ⊂ N2, then the following two submodules are equal: (N1 + U) ∩ N2 = N1 + (U ∩ N2).
+If M and N are left R-modules, then a map f : M → N is a homomorphism of R-modules if for any m, n in M and r, s in R,
+This, like any homomorphism of mathematical objects, is just a mapping which preserves the structure of the objects.  Another name for a homomorphism of R-modules is an R-linear map.
+A bijective module homomorphism f : M → N is called a module isomorphism, and the two modules M and N are called isomorphic. Two isomorphic modules are identical for all practical purposes, differing solely in the notation for their elements.
+The kernel of a module homomorphism f : M → N is the submodule of M consisting of all elements that are sent to zero by f, and the image of f is the submodule of N consisting of values f(m) for all elements m of M. The isomorphism theorems familiar from groups and vector spaces are also valid for R-modules.
+Given a ring R, the set of all left R-modules together with their module homomorphisms forms an abelian category, denoted by R-Mod (see category of modules).
+Types of modules
+Further notions
+Relation to representation theory
+A representation of a group G over a field k is a module over the group ring k[G].
+If M is a left R-module, then the action of an element r in R is defined to be the map M → M that sends each x to rx (or xr in the case of a right module), and is necessarily a group endomorphism of the abelian group (M, +).  The set of all group endomorphisms of M is denoted EndZ(M) and forms a ring under addition and composition, and sending a ring element r of R to its action actually defines a ring homomorphism from R to EndZ(M).
+Such a ring homomorphism R → EndZ(M) is called a representation of R over the abelian group M; an alternative and equivalent way of defining left R-modules is to say that a left R-module is an abelian group M together with a representation of R over it. Such a representation R → EndZ(M) may also be called a ring action of R on M.
+A representation is called faithful if and only if the map R → EndZ(M) is injective. In terms of modules, this means that if r is an element of R such that rx = 0 for all x in M, then r = 0. Every abelian group is a faithful module over the integers or over some ring of integers modulo n, Z/nZ.
+Generalizations
+A ring R corresponds to a preadditive category R with a single object. With this understanding, a left R-module is just a covariant additive functor from R to the category Ab of abelian groups, and right R-modules are contravariant additive functors. This suggests that, if C is any preadditive category, a covariant additive functor from C to Ab should be considered a generalized left module over C. These functors form a functor category C-Mod which is the natural generalization of the module category R-Mod.
+Modules over commutative rings can be generalized in a different direction: take a ringed space (X, OX) and consider the sheaves of OX-modules (see sheaf of modules). These form a category OX-Mod, and play an important role in modern algebraic geometry. If X has only a single point, then this is a module category in the old sense over the commutative ring OX(X).
+One can also consider modules over a semiring. Modules over rings are abelian groups, but modules over semirings are only commutative monoids. Most applications of modules are still possible. In particular, for any semiring S, the matrices over S form a semiring over which the tuples of elements from S are a module (in this generalized sense only). This allows a further generalization of the concept of vector space incorporating the semirings from theoretical computer science.
+Over near-rings, one can consider near-ring modules, a nonabelian generalization of modules.
+See also
+Notes

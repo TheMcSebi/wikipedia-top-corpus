@@ -1,0 +1,52 @@
+Mahanagar Telephone Nigam Limited
+Mahanagar Telephone Nigam Limited (MTNL) (d/b/a MTNL) is a wholly owned subsidiary of Bharat Sanchar Nigam Limited which is in turn under the ownership of Department of Telecommunications, Ministry of Communications, Government of India. Headquartered in New Delhi, India. MTNL Provides services in the metro cities of Mumbai and New Delhi in India and in the island nation of Mauritius in Africa. It had a monopoly in Mumbai and New Delhi until 1992, when the telecom sector was opened to other service providers. "Transparency makes us different" is its motto. The Bharat Sanchar Nigam Limited currently holds 100% of its stock. 
+. As of June 2021, it has 3.28 million subscribers. 
+It is also a wholly owned subsidiary of a central public sector unit.
+
+
+Name
+It has its name derived from Hindi: mahanagar meaning "metropolis" (maha "big", nagar "city") and nigam meaning "corporation".
+History
+Bombay Telephone was founded in 1882. The first telephone exchange in Mumbai began operations on 28 January 1882. Delhi's first telephone system was established in 1911. Mahanagar Telephone Nigam was created by the Government of India in 1986 to oversee the telephone services of Delhi and Mumbai.
+Products
+Telephone and Mobile
+MTNL provides fixed line telephones and WLL services. It also provides mobile services on GSM and CDMA platforms. MTNL various service brands are:
+Phone numbers belonging to MTNL start with the prefix 2 in fixed line telephones and WLL. In GSM, mobile numbers start with the prefixes 901x, 9757, 9868, 9869, 9968, and 9969.
+MTNL's efficiency has drastically improved over the years. In the past, a customer had to wait much longer to secure a connection but now he/she can receive a connection within hours of the subscription request being filed.
+Spectrum frequency holding summary
+MTNL owns spectrum in 900 MHz, 1800 MHz, and 2100 MHz bands across two circle of country.
+3G Mobile Service
+MTNL started 3G services in India under the name of "MTNL 3G Jadoo." Services offered include video calling, mobile TV and mobile broadband with high speed data connectivity up to 3.6 Mbit/s from 11 December 2008. MTNL plans to offer 3G services across India by mid-2009. MTNL also provides 3G data cards for usage in devices other than mobile phones. MTNL will be installing 15 lakh 3G lines in the first phase of its 3G roll-out in Mumbai and Delhi (which currently have 40 lakh existing mobile lines). MTNL announced in Jan, 2012 that they will upgrade its 3G network to more advanced HSPA+ with download speeds up to 28.8Mbit/s before the end of 2012.
+MTNL rolled out its BlackBerry solutions on the 2G and 3G networks by launching India's first 3G-enabled BlackBerry Bold smart phones.
+Broadband and FTTH
+MTNL is the largest ISP in Mumbai and Delhi (in terms of market share), and the third largest ISP in India though it has presence just in two circles. MTNL provides TriBand Internet services through dialup and DSL. It provides games on demand, video on demand, and IPTV services in India through TriBand. TriBand is targeted at homes and small businesses.
+MTNL began offering fibre-to-the-home (FTTH) triple play (voice, video, and data) high speed broadband service in Delhi on 9 November 2011. FTTH, with core network speed up to 1 Gbit/s, was launched in Mumbai on 1 March 2012. MTNL FTTH Broadband offers several services based on triple play services like IPTV, HDTV, 3DTV, video on demand, bandwidth on demand, instant video conferencing, interactive gaming and several other value added services.
+In 2004, telecom regulator TRAI mandated a minimum speed of 256 kbit/s for all broadband connections. MTNL increased the minimum speed of all its broadband plans to 512 kbit/s from existing 256 kbit/s, effective 26 January 2012, becoming the first ISP in India to opt for a minimum broadband speed from 256 kbit/s to 512 kbit/s, without any mandatory regulation. On 12 November 2013, MTNL announced that it would upgrade the speed of all its existing unlimited broadband plans in Mumbai to a minimum of 1 Mbit/s, at no additional cost.
+MTNL also provides other services such as VPN, VOIP, and leased lines through BSNL and VSNL.
+Mahanagar Telephone Mauritius Limited (MTML)
+MTNL has set up a wholly owned subsidiary called Mahanagar Telephone Mauritius Limited (MTML) in Mauritius, providing mobile and international long distance services. MTML is the second operator in Mauritius. Necessary licenses were obtained in January 2004. MTML has already started its ILD & CDMA based basic services in Mauritius. In Mauritius, 44,312 telephone connections are operational from a total switching capacity of 50,000. Moreover, through joint ventures with local telecommunications providers, MTML planned to offer Internet access through its wireless network by February 2009.
+Merger with BSNL
+On the 23rd day of October 2019, the Government of India announced revival package for BSNL and MTNL which includes monetising assets, raising funds, TD-LTE spectrum, voluntary retirement scheme for employees. Apart from package, Ministry of Communications decided to merge of MTNL with Bharat Sanchar Nigam Limited. Pending this, MTNL will be subsidiary of BSNL.
+Joint Ventures
+MTNL-STPI IT Services Limited
+MTNL-STPI IT Services Ltd. is a 50:50 joint venture between Software Technology Parks of India (STPI) and Mahanagar Telephone Nigam Limited, (MTNL).
+Millennium Telecom Limited (MTL)
+MTNL has restructured Millennium Telecom Ltd. (MTL) as a joint venture company of MTNL and BSNL with 50% and 50% equity participation respectively. The company will now be entering into new business stream of international long distance operations and will be executing a project of submarine cable system, both east and west from India.
+Telephone Advisory Committees
+Telephone Advisory Committees also known as TAC is an Indian Government body made up of Members of parliament and nominated members by the Ministry of Communications and Information Technology (India) to address issues concerning telecommunication in India. Looked upon as a privileged panel, the Telephone Advisory Committees (TAC), constituted by the Ministry of Communications and Information Technology (India) of the Government of India to serve as a vital feedback mechanism for improvement of services in the Telecommunications sector by the Department of Telecommunications
+List of TAC Members
+B
+C
+D
+G
+H
+J
+K
+L
+M
+N
+P
+R
+S
+T
+V

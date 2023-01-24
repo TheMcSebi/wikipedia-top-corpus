@@ -1,0 +1,46 @@
+4
+4 (four) is a number, numeral and digit. It is the natural number following 3 and preceding 5. It is a square number, the smallest semiprime and composite number, and is considered unlucky in many East Asian cultures.
+
+
+In mathematics
+Four is the smallest composite number, its proper divisors being 1 and 2.. Four is the sum and product of two with itself: $MATH$ + $MATH$ = $MATH$ = $MATH$ x $MATH$, the only number $MATH$ such that $MATH$ + $MATH$ = $MATH$ = $MATH$ x $MATH$, which also makes four the smallest squared prime number $MATH$. In Knuth's up-arrow notation, 2 ↑↑ 2 = 2 ↑↑↑ 2 = 4, and so forth, for any number of up arrows. By consequence, four is the only square one more than a prime number, specifically three. The sum of the first four prime numbers two + three + five + seven is the only sum of four consecutive prime numbers that yields an odd prime number, seventeen, which is the fourth super-prime. Four lies between the first proper pair of twin primes, three and five, which are the first two Fermat primes, like seventeen, which is the third. On the other hand, the square of four 42, equivalently the fourth power of two 24, is sixteen; the only number that has $MATH$ = $MATH$ as a form of factorization. Holistically, there are four elementary arithmetic operations in mathematics: addition (+), subtraction (−), multiplication (×), and division (÷); and four basic number systems, the real numbers $MATH$, rational numbers $MATH$, integers $MATH$, and natural numbers $MATH$.
+Each natural number divisible by 4 is a difference of squares of two natural numbers, i.e. $MATH$ = $MATH$ − $MATH$. A number is a multiple of 4 if its last two digits are a multiple of 4. For example, 1092 is a multiple of 4 because 92 = 4 × 23.
+Lagrange's four-square theorem states that every positive integer can be written as the sum of at most four square numbers. Three are not always sufficient; 7 for instance cannot be written as the sum of three squares.
+There are four all-Harshad numbers: 1, 2, 4, and 6. 12, which is divisible by four thrice over, is a Harshad number in all bases except octal. 
+A four-sided plane figure is a quadrilateral or quadrangle, sometimes also called a tetragon. It can be further classified as a rectangle or oblong, kite, rhombus, and square.
+Four is the highest degree general polynomial equation for which there is a solution in radicals.
+The four-color theorem states that a planar graph (or, equivalently, a flat map of two-dimensional regions such as countries) can be colored using four colors, so that adjacent vertices (or regions) are always different colors. Three colors are not, in general, sufficient to guarantee this. The largest planar complete graph has four vertices.
+A solid figure with four faces as well as four vertices is a tetrahedron, which is the smallest possible number of faces and vertices a polyhedron can have. The regular tetrahedron, also called a 3-simplex, is the simplest Platonic solid. It has four regular triangles as faces that are themselves at dual positions with the vertices of another tetrahedron. Tetrahedra can be inscribed inside all other four Platonic solids, and tessellate space alongside the regular octahedron in the alternated cubic honeycomb.
+Four-dimensional space is the highest-dimensional space featuring more than three regular convex figures: 
+The fourth dimension is also the highest dimension where regular self-intersecting figures exist:
+Altogether, sixteen (or 16 = 42) regular convex and star polychora are generated from symmetries of four (4) Coxeter Weyl groups and point groups in the fourth dimension: the $MATH$ simplex, $MATH$ hypercube, $MATH$ icositetrachoric, and $MATH$ hexacosichoric groups; with the $MATH$ demihypercube group generating two alternative constructions.   
+There are also sixty-four (or 64 = 43) four-dimensional Bravais lattices, and sixty-four uniform polychora in the fourth dimension based on the same $MATH$, $MATH$, $MATH$ and $MATH$ Coxeter groups, and extending to prismatic groups of uniform polyhedra, including one special non-Wythoffian form, the grand antiprism. There are also two infinite families of duoprisms and antiprismatic prisms in the fourth dimension.
+Four-dimensional differential manifolds have some unique properties. There is only one differential structure on $MATH$ except when $MATH$ = $MATH$, in which case there are uncountably many.
+The smallest non-cyclic group has four elements; it is the Klein four-group. An alternating groups are not simple for values $MATH$ ≤ $MATH$.
+Further extensions of the real numbers under Hurwitz's theorem states that there are four normed division algebras: the real numbers $MATH$, the complex numbers $MATH$, the quaternions $MATH$, and the octonions $MATH$. Under Cayley–Dickson constructions, the sedenions $MATH$ constitute a further fourth extension over $MATH$. The real numbers are ordered, commutative and associative algebras, as well as alternative algebras with power-associativity. The complex numbers $MATH$ share all four multiplicative algebraic properties of the reals $MATH$, without being ordered. The quaternions loose a further commutative algebraic property, while holding associative, alternative, and power-associative properties. The octonions are alternative and power-associative, while the sedenions are only power-associative. The sedenions and all further extensions of these four normed division algebras are solely power-associative with non-trivial zero divisors, which makes them non-division algebras. $MATH$ has a vector space of dimension 1, while $MATH$, $MATH$, $MATH$ and $MATH$ work in algebraic number fields of dimensions 2, 4, 8, and 16, respectively.
+Evolution of the Hindu-Arabic digit
+Brahmic numerals represented 1, 2, and 3 with as many lines. 4 was simplified by joining its four lines into a cross that looks like the modern plus sign. The Shunga would add a horizontal line on top of the digit, and the Kshatrapa and Pallava evolved the digit to a point where the speed of writing was a secondary concern. The Arabs' 4 still had the early concept of the cross, but for the sake of efficiency, was made in one stroke by connecting the "western" end to the "northern" end; the "eastern" end was finished off with a curve. The Europeans dropped the finishing curve and gradually made the digit less cursive, ending up with a digit very close to the original Brahmin cross.
+While the shape of the character for the digit 4 has an ascender in most modern typefaces, in typefaces with text figures the glyph usually has a descender, as, for example, in .
+On the seven-segment displays of pocket calculators and digital watches, as well as certain optical character recognition fonts, 4 is seen with an open top.
+Television stations that operate on channel 4 have occasionally made use of another variation of the "open 4", with the open portion being on the side, rather than the top. This version resembles the Canadian Aboriginal syllabics letter ᔦ. The magnetic ink character recognition "CMC-7" font also uses this variety of "4".
+In religion
+Buddhism
+Judeo-Christian symbolism
+Hinduism
+Islam
+Taoism
+Other
+In politics
+In computing
+In science
+In astronomy
+In biology
+In chemistry
+In physics
+In logic and philosophy
+In technology
+In transport
+In sports
+In other fields
+In music
+Groups of four

@@ -1,0 +1,8 @@
+Aryl
+In organic chemistry, an aryl is any functional group or substituent derived from an aromatic ring, usually an aromatic hydrocarbon, such as phenyl and naphthyl. "Aryl" is used for the sake of abbreviation or generalization, and "Ar" is used as a placeholder for the aryl group in chemical structure diagrams, analogous to “R” used for any organic substituent. “Ar” is not to be confused with the elemental symbol for argon.
+A simple aryl group is phenyl (C6H5), a group derived from benzene. Examples of other aryl groups consist of:
+Arylation is the process in which an aryl group is attached to a substituent.  It is typically achieved by cross-coupling reactions.
+Nomenclature
+The most basic aryl group is phenyl, which is made up of a benzene ring with one hydrogen atom substituted for some substituent, and has the molecular formula C6H5−. Note that a phenyl group is not the same as a benzyl group, the latter consisting of a phenyl group attached to a methyl group and a molecular formula of C6H5CH2−.
+To name compounds containing phenyl groups, the phenyl group can be taken to be the parent hydrocarbon and be represented by the suffix "– benzene". Alternatively, the phenyl group could be treated as the substituent, being described within the name as "phenyl". This is usually done when the group attached to the phenyl group consists of six or more carbon atoms.
+As an example, consider a hydroxyl group connected to a phenyl group. In this case, if the phenyl group were taken to be the parent hydrocarbon, the compound would be named hydroxybenzene. Alternatively, and more commonly, the hydroxyl group could be taken as the parent group and the phenyl group treated as the substituent, resulting in the more familiar name phenol.

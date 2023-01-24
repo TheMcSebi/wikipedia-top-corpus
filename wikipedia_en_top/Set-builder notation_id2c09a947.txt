@@ -1,0 +1,46 @@
+Set-builder notation
+In set theory and its applications to logic, mathematics, and computer science, set-builder notation is a mathematical notation for describing a set by enumerating its elements, or stating the properties that its members must satisfy.
+The set of all even integers,  expressed in set-builder notation.
+Defining sets by properties is also known as set comprehension, set abstraction or as defining a set's intension.
+Sets defined by enumeration
+A set can be described directly by enumerating all of its elements between curly brackets, as in the following two examples:
+This is sometimes called the "roster method" for specifying a set.
+When it is desired to denote a set that contains elements from a regular sequence, an ellipses notation may be employed, as shown in the next examples:
+There is no order among the elements of a set (this explains and validates the equality of the last example), but with the ellipses notation, we use an ordered sequence before (or after) the ellipsis as a convenient notational vehicle for explaining which elements are in a set. The first few elements of the sequence are shown, then the ellipses indicate that the simplest interpretation should be applied for continuing the sequence. Should no terminating value appear to the right of the ellipses, then the sequence is considered to be unbounded.
+In general, $MATH$ denotes the set of all natural numbers $MATH$ such that $MATH$. Another notation for $MATH$ is the bracket notation $MATH$. A subtle special case is $MATH$, in which $MATH$ is equal to the empty set $MATH$. Similarly, $MATH$ denotes the set of all $MATH$ for $MATH$.
+In each preceding example, each set is described by enumerating its elements. Not all sets can be described in this way, or if they can, their enumeration may be too long or too complicated to be useful. Therefore, many sets are defined by a property that characterizes their elements. This characterization may be done informally using general prose, as in the following example.
+However, the prose approach may lack accuracy or be ambiguous. Thus, set-builder notation is often used with a predicate characterizing the elements of the set being defined, as described in the following section.
+Sets defined by a predicate
+Set-builder notation can be used to describe a set that is defined by a predicate, that is, a logical formula that evaluates to true for an element of the set, and false otherwise. In this form, set-builder notation has three parts: a variable, a colon or vertical bar separator, and a predicate. Thus there is a variable on the left of the separator, and a rule on the right of it. These three parts are contained in curly brackets:
+or
+The vertical bar (or colon) is a separator that can be read as "such that",  "for which", or "with the property that".  The formula Φ(x) is said to be the rule or the predicate. All values of x for which the predicate holds (is true) belong to the set being defined. All values of x for which the predicate does not hold do not belong to the set.  Thus $MATH$ is the set of all values of x that satisfy the formula Φ. It may be the empty set, if no value of x satisfies the formula.
+Specifying the domain
+A domain E can appear on the left of the vertical bar:
+or by adjoining it to the predicate:
+The ∈ symbol here denotes set membership, while the $MATH$ symbol denotes the logical "and" operator, known as logical conjunction. This notation represents the set of all values of x that belong to some given set E for which the predicate is true (see "Set existence axiom" below). If $MATH$ is a conjunction $MATH$, then $MATH$ is sometimes written $MATH$, using a comma instead of the symbol $MATH$.
+In general, it is not a good idea to consider sets without defining a domain of discourse, as this would represent the subset of all possible things that may exist for which the predicate is true. This can easily lead to contradictions and paradoxes. For example, Russell's paradox shows that the expression $MATH$ although seemingly well formed as a set builder expression, cannot define a set without producing a contradiction.
+In cases where the set E is clear from context, it may be not explicitly specified. It is common in the literature for an author to state the domain ahead of time, and then not specify it in the set-builder notation. For example, an author may say something such as, "Unless otherwise stated, variables are to be taken to be natural numbers," though in less formal contexts where the domain can be assumed, a written mention is often unnecessary.
+Examples
+The following examples illustrate particular sets defined by set-builder notation via predicates. In each case, the domain is specified on the left side of the vertical bar, while the rule is specified on the right side. 
+More complex expressions on the left side of the notation
+An extension of set-builder notation replaces the single variable x with an expression. So instead of  $MATH$, we may have $MATH$ which should be read
+For example:
+When inverse functions can be explicitly stated, the expression on the left can be eliminated through simple substitution. Consider the example set $MATH$. Make the substitution $MATH$, which is to say $MATH$, then replace t in the set builder notation to find 
+Equivalent predicates yield equal sets
+Two sets are equal if and only if they have the same elements. Sets defined by set builder notation are equal if and only if their set builder rules, including the domain specifiers, are equivalent. That is 
+if and only if 
+Therefore, in order to prove the equality of two sets defined by set builder notation, it suffices to prove the equivalence of their predicates, including the domain qualifiers.
+For example,
+because the two rule predicates are logically equivalent:
+This equivalence holds because, for any real number x, we have $MATH$ if and only if x is a rational number with $MATH$. In particular, both sets are equal to the set $MATH$.
+Set existence axiom
+In many formal set theories, such as Zermelo–Fraenkel set theory, set builder notation is not part of the formal syntax of the theory. Instead, there is a set existence axiom scheme, which states that if E is a set and Φ(x) is a formula in the language of set theory, then there is a set Y whose members are exactly the elements of E that satisfy Φ:
+The set Y obtained from this axiom is exactly the set described in set builder notation as $MATH$.
+In programming languages
+A similar notation available in a number of programming languages (notably Python and Haskell) is the list comprehension, which combines map and filter operations over one or more lists.
+In Python, the set-builder's braces are replaced with square brackets, parentheses, or curly braces, giving list, generator, and set objects, respectively. Python uses an English-based syntax. Haskell replaces the set-builder's braces with square brackets and uses symbols, including the standard set-builder vertical bar.
+The same can be achieved in Scala using Sequence Comprehensions, where the "for" keyword returns a list of the yielded variables using the "yield" keyword.
+Consider these set-builder notation examples in some programming languages:
+The set builder notation and list comprehension notation are both instances of a more general notation known as monad comprehensions, which permits map/filter-like operations over any monad with a zero element.
+See also
+Notes

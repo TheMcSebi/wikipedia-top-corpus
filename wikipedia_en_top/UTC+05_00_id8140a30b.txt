@@ -1,0 +1,23 @@
+UTC+05:00
+UTC+05:00 is an identifier for a time offset from UTC of +05:00. This time is used in:
+As standard time (year-round)
+Principal cities: Karachi, Lahore, Tashkent, Peshawar, Quetta, Islamabad, Ashgabat, Dushanbe, Malé, Yekaterinburg, Martin-de-Viviès, Port-aux-Français, Aktobe, Atyrau, Kyzylorda, Aktau
+South Asia
+Central Asia
+Eastern Europe
+Southern Ocean
+Armenia and Azerbaijan used this as daylight saving time (DST) in 1981–2012 and 1981–2016 respectively, called Armenia Summer Time (AMST) and Azerbaijan Summer Time (AZST).
+Discrepancies between official UTC+05:00 and geographical UTC+05:00
+Areas in UTC+05:00 longitudes using other time zones
+Using UTC+08:00
+Using UTC+07:00
+Using UTC+06:00
+Using UTC+05:45
+Using UTC+05:30
+Using UTC+04:30
+Using UTC+03:00
+Areas between 82°30' E and 97°30' E ("physical" UTC+06:00)
+Areas between 52°30' E and 67°30' E ("physical" UTC+04:00)
+Areas between 37°30' E and 52°30' E ("physical" UTC+03:00)
+Historical time offsets
+Kyrgyzstan adopted this time zone as its standard time from 2 May 1924 to 21 June 1930, and from 31 March 1991 to 12 August 2005.

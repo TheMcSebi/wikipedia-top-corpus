@@ -1,0 +1,37 @@
+Hypoxemia
+Hypoxemia is an abnormally low level of oxygen in the blood. More specifically, it is oxygen deficiency in arterial blood. Hypoxemia has many causes, and often causes hypoxia as the blood is not supplying enough oxygen to the tissues of the body.
+Definition
+Hypoxemia refers to the low level of oxygen in blood, and the more general term hypoxia is an abnormally low oxygen content in any tissue or organ, or the body as a whole. Hypoxemia can cause hypoxia (hypoxemic hypoxia), but hypoxia can also occur via other mechanisms, such as anemia.
+Hypoxemia is usually defined in terms of reduced partial pressure of oxygen (mm Hg) in arterial blood, but also in terms of reduced content of oxygen (ml oxygen per dl blood) or percentage saturation of hemoglobin (the oxygen-binding protein within red blood cells) with oxygen, which is either found singly or in combination.
+While there is general agreement that an arterial blood gas measurement which shows that the partial pressure of oxygen is lower than normal constitutes hypoxemia, there is less agreement concerning whether the oxygen content of blood is relevant in determining hypoxemia. This definition would include oxygen carried by hemoglobin. The oxygen content of blood is thus sometimes viewed as a measure of tissue delivery rather than hypoxemia.
+Just as extreme hypoxia can be called anoxia, extreme hypoxemia can be called anoxemia.
+Signs and symptoms
+In an acute context, hypoxemia can cause symptoms such as those in respiratory distress. These include breathlessness, an increased rate of breathing, use of the chest and abdominal muscles to breathe, and lip pursing.: 642 
+Chronic hypoxemia may be compensated or uncompensated. The compensation may cause symptoms to be overlooked initially, however, further disease or a stress such as any increase in oxygen demand may finally unmask the existing hypoxemia. In a compensated state, blood vessels supplying less-ventilated areas of the lung may selectively contract, to redirect the blood to areas of the lungs which are better ventilated. However, in a chronic context, and if the lungs are not well ventilated generally, this mechanism can result in pulmonary hypertension, overloading the right ventricle of the heart and causing cor pulmonale and right sided heart failure. Polycythemia can also occur. In children, chronic hypoxemia may manifest as delayed growth, neurological development and motor development and decreased sleep quality with frequent sleep arousals.
+Other symptoms of hypoxemia may include cyanosis, digital clubbing, and symptoms that may relate to the cause of the hypoxemia, including cough and hemoptysis.: 642 
+Serious hypoxemia typically occurs when the partial pressure of oxygen in blood is less than 60 mmHg (8.0 kPa), the beginning of the steep portion of the oxygen–hemoglobin dissociation curve, where a small decrease in the partial pressure of oxygen results in a large decrease in the oxygen content of the blood. Severe hypoxia can lead to respiratory failure
+Causes
+Hypoxemia refers to insufficient oxygen in the blood. Thus any cause that influences the rate or volume of air entering the lungs (ventilation) or any cause that influences the transfer of air from the lungs to the blood may cause hypoxemia. As well as these respiratory causes, cardiovascular causes such as shunts may also result in hypoxemia.
+Hypoxemia is caused by five categories of etiologies: hypoventilation, ventilation/perfusion mismatch, right-to-left shunt, diffusion impairment, and low PO2. Low PO2 and hypoventilation are associated with a normal alveolar–arterial gradient (A-a gradient) whereas the other categories are associated with an increased A-a gradient. : 229 
+Ventilation
+If the alveolar ventilation is low, there will not be enough oxygen delivered to the alveoli for the body's use. This can cause hypoxemia even if the lungs are normal, as the cause is in the brainstem's control of ventilation or in the body's inability to breathe effectively.
+Respiratory drive
+Respiration is controlled by centers in the medulla, which influence the rate of breathing and the depth of each breath. This is influenced by the blood level of carbon dioxide, as determined by central and peripheral chemoreceptors located in the central nervous system and carotid and aortic bodies, respectively. Hypoxia occurs when the breathing center doesn't function correctly or when the signal is not appropriate:
+Physical states
+A variety of conditions that physically limit airflow can lead to hypoxemia.
+Environmental oxygen
+In conditions where the proportion of oxygen in the air is low, or when the partial pressure of oxygen has decreased, less oxygen is present in the alveoli of the lungs. The alveolar oxygen is transferred to hemoglobin, a carrier protein inside red blood cells, with an efficiency that decreases with the partial pressure of oxygen in the air. 
+Ventilation-perfusion mismatch
+This refers to a disruption in the ventilation/perfusion equilibrium. Oxygen entering the lungs typically diffuses across the alveolar-capillary membrane into blood. However this equilibration does not occur when the alveolus is insufficiently ventilated, and as a consequence the blood exiting that alveolus is relatively hypoxemic.  When such blood is added to blood from well ventilated alveoli, the mix has a lower oxygen partial pressure than the alveolar air, and so the A-a difference develops. Examples of states that can cause a ventilation-perfusion mismatch include:
+Shunting
+Shunting refers to blood that bypasses the pulmonary circulation, meaning that the blood does not receive oxygen from the alveoli. In general, a shunt may be within the heart or lungs, and cannot be corrected by administering oxygen alone. Shunting may occur in normal states:
+Shunting may also occur in disease states:
+Exercise
+Exercise-induced arterial hypoxemia occurs during exercise when a trained individual exhibits an arterial oxygen saturation below 93%. It occurs in fit, healthy individuals of varying ages and genders. Adaptations due to training include an increased cardiac output from cardiac hypertrophy, improved venous return, and metabolic vasodilation of muscles, and an increased VO2 max. There must be a corresponding increase in VCO2 thus a necessity to clear the carbon dioxide to prevent a metabolic acidosis. Hypoxemia occurs in these individuals due to increased pulmonary blood flow causing:
+Physiology
+Key to understanding whether the lung is involved in a particular case of hypoxemia is the difference between the alveolar and the arterial oxygen levels; this A-a difference is often called the A-a gradient and is normally small. The arterial oxygen partial pressure is obtained directly from an arterial blood gas determination.  The oxygen contained in the alveolar air can be calculated because it will be directly proportional to its fractional composition in air. Since the airways humidify (and so dilute) the inhaled air, the barometric pressure of the atmosphere is reduced by the vapor pressure of water.
+History
+The term hypoxemia was originally used to describe low blood oxygen occurring at high altitudes and was defined generally as defective oxygenation of the blood.
+In modern times there are a lot of tools to detects hypoxemia including smartwatches. In 2022 a research has shown smartwatches can detect short-time hypoxemia as well as standard medical devices.
+References
+Further reading

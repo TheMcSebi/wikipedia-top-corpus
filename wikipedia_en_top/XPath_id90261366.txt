@@ -1,0 +1,79 @@
+XPath
+XPath (XML Path Language) is an expression language designed to support the query or transformation of XML documents. It was defined by the World Wide Web Consortium (W3C) and can be used to compute values (e.g., strings, numbers, or Boolean values) from the content of an XML document. Support for XPath exists in applications that support XML, such as web browsers, and many programming languages.
+Overview
+The XPath language is based on a tree representation of the XML document, and provides the ability to navigate around the tree, selecting nodes by a variety of criteria. In popular use (though not in the official specification), an XPath expression is often referred to simply as "an XPath".
+Originally motivated by a desire to provide a common syntax and behavior model between XPointer and XSLT, subsets of the XPath query language are used in other W3C specifications such as XML Schema, XForms and the Internationalization Tag Set (ITS).
+XPath has been adopted by a number of XML processing libraries and tools, many of which also offer CSS Selectors, another W3C standard, as a simpler alternative to XPath.
+Versions
+There are several versions of XPath in use. XPath 1.0 was published in 1999, XPath 2.0 in 2007 (with a second edition in 2010), XPath 3.0 in 2014, and XPath 3.1 in 2017. However, XPath 1.0 is still the version that is most widely available.
+Syntax and semantics (XPath 1.0)
+The most important kind of expression in XPath is a location path. A location path consists of a sequence of location steps. Each location step has three components:
+An XPath expression is evaluated with respect to a context node. An Axis Specifier such as 'child' or 'descendant' specifies the direction to navigate from the context node. The node test and the predicate are used to filter the nodes specified by the axis specifier: For example, the node test 'A' requires that all nodes navigated to must have label 'A'. A predicate can be used to specify that the selected nodes have certain properties, which are specified by XPath expressions themselves.
+The XPath syntax comes in two flavors: the abbreviated syntax, is more compact and allows XPaths to be written and read easily using intuitive and, in many cases, familiar characters and constructs. The full syntax is more verbose, but allows for more options to be specified, and is more descriptive if read carefully.
+Abbreviated syntax
+The compact notation allows many defaults and abbreviations for common cases. Given source XML containing at least
+the simplest XPath takes a form such as
+that selects C elements that are children of B elements that are children of the A element that forms the outermost element of the XML document. The XPath syntax is designed to mimic URI (Uniform Resource Identifier) and Unix-style file path syntax.
+More complex expressions can be constructed by specifying an axis other than the default 'child' axis, a node test other than a simple name, or predicates, which can be written in square brackets after any step. For example, the expression
+selects the first child ('*[1]'), whatever its name, of every B element that itself is a child or other, deeper descendant ('//') of an A element that is a child of the current context node (the expression does not begin with a '/'). Note that the predicate [1] binds more tightly than the / operator. To select the first node selected by the expression A//B/*, write (A//B/*)[1]. Note also, index values in XPath predicates (technically, 'proximity positions' of XPath node sets) start from 1, not 0 as common in languages like C and Java.
+Expanded syntax
+In the full, unabbreviated syntax, the two examples above would be written
+Here, in each step of the XPath, the axis (e.g. child or descendant-or-self) is explicitly specified, followed by :: and then the node test, such as A or node() in the examples above.
+Here the same, but shorter: A//B/*[position()=1]
+Axis specifiers
+Axis specifiers indicate navigation direction within the tree representation of the XML document. The axes available are:
+As an example of using the attribute axis in abbreviated syntax, //a/@href selects the attribute called href in a elements anywhere in the document tree.
+The expression . (an abbreviation for self::node()) is most commonly used within a predicate to refer to the currently selected node.
+For example, h3[.='See also'] selects an element called h3 in the current context, whose text content is See also.
+Node tests
+Node tests may consist of specific node names or more general expressions. In the case of an XML document in which the namespace prefix gs has been defined, //gs:enquiry will find all the enquiry elements in that namespace, and //gs:* will find all elements, regardless of local name, in that namespace.
+Other node test formats are:
+Predicates
+Predicates, written as expressions in square brackets, can be used to filter a node-set according to some condition. For example, a returns a node-set (all the a elements which are children of the context node), and a[@href='help.php'] keeps only those elements having an href attribute with the value help.php.
+There is no limit to the number of predicates in a step, and they need not be confined to the last step in an XPath. They can also be nested to any depth. Paths specified in predicates begin at the context of the current step (i.e. that of the immediately preceding node test) and do not alter that context. All predicates must be satisfied for a match to occur.
+When the value of the predicate is numeric, it is syntactic-sugar for comparing against the node's position in the node-set (as given by the function position()).  So p[1] is shorthand for p[position()=1] and selects the first p element child, while p[last()] is shorthand for p[position()=last()] and selects the last p child of the context node.
+In other cases, the value of the predicate is automatically converted to a boolean. When the predicate evaluates to a node-set, the result is true when the node-set is non-empty. Thus p[@x] selects those p elements that have an attribute named x.
+A more complex example: the expression a[/html/@lang='en'][@href='help.php'][1]/@target selects the value of the target attribute of the first a element among the children of the context node that has its href attribute set to help.php, provided the document's html top-level element also has a lang attribute set to en. The reference to an attribute of the top-level element in the first predicate affects neither the context of other predicates nor that of the location step itself.
+Predicate order is significant if predicates test the position of a node. Each predicate takes a node-set returns a (potentially) smaller node-set. So a[1][@href='help.php'] will find a match only if the first a child of the context node satisfies the condition @href='help.php', while a[@href='help.php'][1] will find the first a child that satisfies this condition.
+Functions and operators
+XPath 1.0 defines four data types: node-sets (sets of nodes with no intrinsic order), strings, numbers and booleans.
+The available operators are:
+The function library includes:
+Some of the more commonly useful functions are detailed below.
+Node set functions
+String functions
+Boolean functions
+Number functions
+Usage examples
+Expressions can be created inside predicates using the operators: =, !=, <=, <, >= and >. Boolean expressions may be combined with brackets () and the boolean operators and and or as well as the not() function described above. Numeric calculations can use *, +, -, div and mod. Strings can consist of any Unicode characters.
+//item[@price > 2*@discount] selects items whose price attribute is greater than twice the numeric value of their discount attribute.
+Entire node-sets can be combined ('unioned') using the vertical bar character |. Node sets that meet one or more of several conditions can be found by combining the conditions inside a predicate with 'or'.
+v[x or y] | w[z] will return a single node-set consisting of all the v elements that have x or y child-elements, as well as all the w elements that have z child-elements, that were found in the current context.
+Examples
+Given a sample XML document
+The XPath expression
+selects name attributes for all projects, and
+selects all editions of all projects, and
+selects addresses of all English Wikimedia projects (text of all edition elements where language attribute is equal to English). And the following
+selects addresses of all Wikipedias (text of all edition elements that exist under project element with a name attribute of Wikipedia).
+Implementations
+Command-line tools
+C/C++
+Free Pascal
+Implementations for database engines
+Java
+The Java
+package javax.xml.xpath has been part of Java standard edition since Java 5 via the Java API for XML Processing. Technically this is an XPath API rather than an XPath implementation, and it allows the programmer the ability to select a specific implementation that conforms to the interface.
+JavaScript
+.NET Framework
+Perl
+PHP
+Python
+Ruby
+Scheme
+SQL
+Tcl
+Use in schema languages
+XPath is increasingly used to express constraints in schema languages for XML.
+See also
+Notes

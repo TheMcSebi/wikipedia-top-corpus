@@ -1,0 +1,13 @@
+Kazachok
+The ExoMars Kazachok (Russian: Казачок; formerly ExoMars 2020 Surface Platform) was a planned robotic Mars lander led by Roscosmos, part of the ExoMars 2022 joint mission with the European Space Agency. Kazachok translates as "Little Cossack", and is also the name of a folk dance.
+The plan calls for a Russian Proton-M rocket to launch the Russian-built lander that will deliver the Rosalind Franklin rover to the surface of Mars. Once safely landed, Kazachok will deploy the rover and will start a one Earth-year mission to investigate the surface environment at the landing site.
+The spacecraft was scheduled to launch in 2020 and land on Mars in mid 2021, but due to the failure of the entry parachutes to pass testing, the launch was moved to a twelve-day launch window starting on 20 September 2022.
+In March 2022, amidst the backdrop of the Russian invasion of Ukraine, the European Space Agency voted to suspend their cooperation with Russia on the ExoMars mission, placing the future of the Kazachok lander in jeopardy. ESA would later terminate their cooperation with Russia on the project.
+Scientific instruments
+The Kazachok lander project is led by Roscosmos, but its scientific payload will also include two European instruments and European contributions to four Russian-led instruments. The payload mass is about 45 kg and consists of the following instruments (plus an instrument interface and memory unit (BIP)): 
+The science and communication instruments on the lander will be powered by solar panels and rechargeable batteries. The automated voltage power system is being developed and build by ISS Reshetnev.
+Russia previously evaluated the option of using a radioisotope thermoelectric generator (RTG) to power the science instruments, and a radioisotope heater unit (RHU) to provide thermal control while on the frozen Martian surface.
+Landing site selection
+After a review by an ESA-appointed panel, a short list of four sites was formally recommended in October 2014 for further detailed analysis:
+On 21 October 2015, Oxia Planum was chosen as the preferred landing site for the ExoMars rover, now the Rosalind Franklin rover, assuming a 2018 launch. But since the launch was postponed to 2020, Aram Dorsum and Mawrth Vallis are also being considered. ESA convened further workshops to re-evaluate the three remaining options and in March 2017 selected two sites to study in detail:
+After deliberation, ESA selected Oxia Planum to be the landing site in November 2018.

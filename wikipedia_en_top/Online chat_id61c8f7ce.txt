@@ -1,0 +1,28 @@
+Online chat
+Online chat may refer to any kind of communication over the Internet that offers a real-time transmission of text messages from sender to receiver. Chat messages are generally short in order to enable other participants to respond quickly. Thereby, a feeling similar to a spoken conversation is created, which distinguishes chatting from other text-based online communication forms such as Internet forums and email. Online chat may address point-to-point communications as well as multicast communications from one sender to many receivers and voice and video chat, or may be a feature of a web conferencing service.
+Online chat in a less stringent definition may be primarily any direct text-based or video-based (webcams), one-on-one chat or one-to-many group chat (formally also known as synchronous conferencing), using tools such as instant messengers, Internet Relay Chat (IRC), talkers and possibly MUDs or other online games. The expression online chat comes from the word chat which means "informal conversation". Online chat includes web-based applications that allow communication – often directly addressed, but anonymous between users in a multi-user environment. Web conferencing is a more specific online service, that is often sold as a service, hosted on a web server controlled by the vendor.
+History
+The first online chat system was called Talkomatic, created by Doug Brown and David R. Woolley in 1973 on the PLATO System at the University of Illinois. It offered several channels, each of which could accommodate up to five people, with messages appearing on all users' screens character-by-character as they were typed. Talkomatic was very popular among PLATO users into the mid-1980s. In 2014, Brown and Woolley released a web-based version of Talkomatic.
+The first online system to use the actual command "chat" was created for The Source in 1979 by Tom Walker and Fritz Thane of Dialcom, Inc.
+Other chat platforms flourished during the 1980s. Among the earliest with a GUI was BroadCast, a Macintosh extension that became especially popular on university campuses in America and Germany.
+The first transatlantic Internet chat took place between Oulu, Finland and Corvallis, Oregon in February 1989.
+The first dedicated online chat service that was widely available to the public was the CompuServe CB Simulator in 1980, created by CompuServe executive Alexander "Sandy" Trevor in Columbus, Ohio. Ancestors include network chat software such as UNIX "talk" used in the 1970s.
+Chat is implemented in many video-conferencing tools. A study of chat use during work-related videoconferencing found that chat during meetings allows participants to communicate without interrupting the meeting, plan action around common resources, and enables greater inclusion. The study also found that chat can cause distractions and information asymmetries between participants.
+Chatiquette
+The term chatiquette (chat etiquette) is a variation of netiquette (Internet etiquette) and describes basic rules of online communication. These conventions or guidelines have been created to avoid misunderstandings and to simplify the communication between users. Chatiquette varies from community to community and generally describes basic courtesy. As an example, it is considered rude to write only in upper case, because it appears as if the user is shouting. The word "chatiquette" has been used in connection with various chat systems (e.g. Internet Relay Chat) since 1995.
+Chatrooms can produce a strong sense of online identity leading to impression of subculture.
+Chats are valuable sources of various types of information, the automatic processing of which is the object of chat/text mining technologies.
+Social criticism
+Criticism of online chatting and text messaging include concern that they replace proper English with shorthand or with an almost completely new hybrid language.
+Writing is changing as it takes on some of the functions and features of speech. Internet chat rooms and rapid real-time teleconferencing allow users to interact with whoever happens to coexist in cyberspace. These virtual interactions involve us in 'talking' more freely and more widely than ever before. With chatrooms replacing many face-to-face conversations, it is necessary to be able to have quick conversation as if the person were present, so many people learn to type as quickly as they would normally speak. Some critics are wary that this casual form of speech is being used so much that it will slowly take over common grammar; however, such a change has yet to be seen.
+
+
+With the increasing population of online chatrooms there has been a massive growth of new words created or slang words, many of them documented on the website Urban Dictionary. Sven Birkerts wrote:
+
+
+In Guy Merchant's journal article Teenagers in Cyberspace: An Investigation of Language Use and Language Change in Internet Chatrooms; Merchant says
+  Merchant also says "Younger people tend to be more adaptable than other sectors of society and, in general, quicker to adapt to new technology. To some extent they are the innovators, the forces of change in the new communication landscape." In this article he is saying that young people are merely adapting to what they were given.
+Software and protocols
+The following are common chat programs and protocols:
+Chat programs supporting multiple protocols:
+Web sites with browser-based chat services (also see web chat):

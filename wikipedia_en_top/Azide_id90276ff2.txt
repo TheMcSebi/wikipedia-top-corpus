@@ -1,0 +1,22 @@
+Azide
+In chemistry, azide is a linear, polyatomic anion with the formula N−3 and structure −N=N+=N−. It is the conjugate base of hydrazoic acid HN3. Organic azides are organic compounds with the formula RN3, containing the azide functional group. The dominant application of azides is as a propellant in air bags.
+Preparation
+Sodium azide is made industrially by the reaction of nitrous oxide, N2O with sodium amide NaNH2 in liquid ammonia as solvent:
+Many inorganic azides can be prepared directly or indirectly from sodium azide. For example, lead azide, used in detonators, may be prepared from the metathesis reaction between lead nitrate and sodium azide. An alternative route is direct reaction of the metal with silver azide dissolved in liquid ammonia. Some azides are produced by treating the carbonate salts with hydrazoic acid.
+Bonding
+Azide is isoelectronic with carbon dioxide CO2, cyanate OCN−, nitrous oxide N2O, nitronium ion NO+2 and cyanogen fluoride NCF. Per valence bond theory, azide can be described by several resonance structures; an important one being N−=N+=N−
+Reactions
+Azide salts can decompose with release of nitrogen gas. The decomposition temperatures of the alkali metal azides are: NaN3 (275 °C), KN3 (355 °C), RbN3 (395 °C), and CsN3 (390 °C). This method is used to produce ultrapure alkali metals:
+Protonation of azide salts gives toxic hydrazoic acid in the presence of strong acids:
+Azide as a ligand forms numerous transition metal azide complexes. Some such compound are more shock sensitive.
+Many inorganic covalent azides (e.g., chlorine, bromine, and iodine azides) have been described.
+The azide anion behaves as a nucleophile; it undergoes nucleophilic substitution for both aliphatic and aromatic systems. It reacts with epoxides, causing a ring-opening; it undergoes Michael-like conjugate addition to 1,4-unsaturated carbonyl compounds.
+Azides can be used as precursors of the metal nitrido complexes by being induced to release N2, generating a metal complex in unusual oxidation states (see high-valent iron).
+Disposal
+Azides decompose with nitrite compounds such as sodium nitrite when acidified. This is a method of destroying residual azides, prior to disposal. In the process, nitrogen, nitrogen oxides, and hydroxides are formed:
+Applications
+About 251 tons of azide-containing compounds are produced annually, the main product being sodium azide. Sodium azide NaN3 is the propellant in automobile airbags. It decomposes on heating to give nitrogen gas, which is used to quickly expand the air bag:
+Heavy metal azides, such as lead azide, Pb(N3)2, are shock-sensitive detonators which decompose to the corresponding metal and nitrogen, for example:
+Silver azide AgN3 and barium azide Ba(N3)2 are used similarly. Some organic azides are potential rocket propellants, an example being 2-dimethylaminoethylazide (DMAZ) (CH3)2NCH2CH2N3.
+Safety
+Azides are explosophores and poisons. Sodium azide is as toxic as sodium cyanide (with an oral LD50 of 27 mg/kg in rats) and can be absorbed through the skin. Heavy metal azides, such as lead azide are primary high explosives detonable when heated or shaken. Heavy-metal azides are formed when solutions of sodium azide or HN3 vapors come into contact with heavy metals or their salts. Heavy-metal azides can accumulate under certain circumstances, for example, in metal pipelines and on the metal components of diverse equipment (rotary evaporators, freezedrying equipment, cooling traps, water baths, waste pipes), and thus lead to violent explosions.

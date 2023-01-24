@@ -1,0 +1,34 @@
+Wicket
+In cricket, the term wicket has several meanings: 
+
+
+History
+The origin of the word is from wicket gate, a small gate. Originally, cricket wickets had only two stumps and one bail and looked like a gate, much like the wicket used in the North American game of wicket.  The third (middle) stump was introduced in 1775, after Lumpy Stevens bowled three successive deliveries to John Small that went straight through the two stumps rather than hitting them.
+Stumps and bails
+The size and shape of the wicket has changed several times during the last 300 years; its dimensions and placing is now determined by Law 8 in the Laws of Cricket, thus:
+There are also specified lengths for the barrel and spigots of the bail. There are different specifications for the wickets and bails for junior cricket. The umpires may dispense with the bails if conditions are unfit (e.g., if it is windy they might fall off by themselves). Further details on the specifications of the wickets are contained in Appendix D to the laws.
+Putting down a wicket
+The wicket can be thought of as the target of the fielding team, as the bowler and fielders alike can dismiss the batter by hitting the wicket with the ball, and in particular, can prevent run-scoring (off a ball that has not reached the boundary) by managing or threatening to run out batters.
+For a batsman to be dismissed by being bowled, run out, stumped or hit wicket, his wicket needs to be put down, potentially when neither batsman is in the ground of the wicket. This generally occurs when a fielder throws the ball at the wicket, or hits it with ball in hand. What this means is defined by Law 29. A wicket is put down if:
+The wicket is also put down if a fielder pulls a stump out of the ground in the same manner.
+Special situations:
+If the umpires have agreed to dispense with bails, because, for example, it is too windy for the bails to remain on the stumps, the decision as to whether the wicket has been put down is one for the umpire concerned to decide. After a decision to play without bails, the wicket has been put down if the umpire concerned is satisfied that the wicket has been struck by the ball, by the striker's bat, person, or items of his clothing or equipment separated from his person as described above, or by a fielder with the hand holding the ball or with the arm of the hand holding the ball.
+Modern innovations
+As per the ICC Playing Conditions, when using the LED wickets, "the moment at which the wicket has been put down [...] shall be deemed to be the first frame in which the LED lights are illuminated and subsequent frames show the bail permanently removed from the top of the stumps." The manufacturer is reviewing the LED wicket's performance after a number of international cricketers criticized the Zing bails during the 2019 Cricket World Cup.
+Dismissal of a batsman
+The dismissal of a batsman is known as the taking of a wicket. The batsman is said to have lost his wicket, the batting side is said to have lost a wicket, the fielding side to have taken a wicket, and the bowler is also said to have taken his (i.e. the batsman's) wicket, if the dismissal is one of the types for which the bowler receives credit. This language is used even if the dismissal did not actually involve the stumps and bails in any way (for example, a catch). The other four of the five most common methods of dismissal (bowled, LBW, run out, and stumped) involve the stumps and bails being put down (in the case of LBW, theoretically).
+The word wicket has this meaning in the following contexts:
+Scoring
+A team's score is described in terms of the total number of runs scored and the total number of wickets lost.
+Bowling analyses
+The number of wickets taken is a primary measure of an individual bowler's ability, and a key part of a bowling analysis.
+Batting partnerships
+The sequence of time over which two particular batsmen bat together, a partnership, is referred to as a specifically numbered wicket when discriminating it from other partnerships in the innings. This can be thought of as saying "this was the number of runs scored while this team had lost [n-1] wickets and had yet to lose their nth wicket."
+Winning by number of wickets
+A team can win a match by a certain number of wickets. This means that they were batting last, and reached the winning target with a certain number of batsmen still not dismissed. For example, if the side scored the required number of runs to win with only three batsmen dismissed, they are said to have won by seven wickets (as a team's innings ends when ten batsmen are dismissed).
+The pitch
+The word wicket is also sometimes used to refer to the cricket pitch itself. According to the Laws of Cricket, this usage is incorrect, but it is in common usage and commonly understood by cricket followers.
+The term sticky wicket refers to a situation in which the pitch has become damp, typically due to rain or high humidity. This makes the path of the ball more unpredictable thus making the job of defending the stumps that much more difficult. The full phrase is thought to have originally been "to bat on a sticky wicket." Such pitches were commonplace at all levels of the game (i.e. up to Test match level) until the late 1950s.
+In other sports
+Even though it's a cricket term, the arches used in croquet and roque are sometimes referred to as wickets, especially in American English.  These arches descend from the ancestral game of ground billiards (which may also be related to cricket), and were formerly called the hoop, arch or port.  The port remained a prominent feature of indoor table billiards until well into the 18th century.
+In baseball, the strike zone is similar to the wicket, in that a batter who fails to hit a ball that is going towards the strike zone is at risk of being out.

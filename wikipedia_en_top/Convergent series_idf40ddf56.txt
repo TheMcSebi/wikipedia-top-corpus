@@ -1,0 +1,45 @@
+Convergent series
+In mathematics, a series is the sum of the terms of an infinite sequence of numbers. More precisely, an infinite sequence $MATH$ defines a series S that is denoted 
+The nth partial sum Sn is the sum of the first n terms of the sequence; that is,
+A series is convergent (or converges) if the sequence $MATH$ of its partial sums  tends to a limit; that means that, when adding one $MATH$ after the other in the order given by the indices, one gets partial sums that become closer and closer to a given number. More precisely, a series converges, if there exists a number $MATH$ such that for every arbitrarily small positive number $MATH$, there is a (sufficiently large) integer $MATH$ such that for all $MATH$,
+If the series is convergent, the (necessarily unique) number $MATH$ is called the sum of the series.
+The same notation 
+is used for the series, and, if it is convergent, to its sum. This convention is similar to that which is used for addition: a + b denotes the operation of adding a and b as well as the result of this addition, which is called the sum of a and b.
+Any series that is not convergent is said to be divergent or to diverge.
+Examples of convergent and divergent series
+Convergence tests
+There are a number of methods of determining whether a series converges or diverges.
+Comparison test. The terms of the sequence $MATH$ are compared to those of another sequence $MATH$.  If,
+for all n, $MATH$, and $MATH$ converges, then so does $MATH$
+However,
+if, for all n, $MATH$, and $MATH$ diverges, then so does $MATH$
+Ratio test. Assume that for all n, $MATH$ is not zero.  Suppose that there exists $MATH$ such that
+If r < 1, then the series is absolutely convergent.  If r > 1, then the series diverges.  If r = 1, the ratio test is inconclusive, and the series may converge or diverge.
+Root test or  nth root test. Suppose that the terms of the sequence in question are non-negative.  Define r as follows:
+If r < 1, then the series converges.  If r > 1, then the series diverges.  If r = 1, the root test is inconclusive, and the series may converge or diverge.
+The ratio test and the root test are both based on comparison with a geometric series, and as such they work in similar situations.  In fact, if the ratio test works (meaning that the limit exists and is not equal to 1) then so does the root test; the converse, however, is not true.  The root test is therefore more generally applicable, but as a practical matter the limit is often difficult to compute for commonly seen types of series.
+Integral test. The series can be compared to an integral to establish convergence or divergence.  Let $MATH$ be a positive and monotonically decreasing function.  If
+then the series converges.  But if the integral diverges, then the series does so as well.
+Limit comparison test. If $MATH$, and the limit $MATH$ exists and is not zero, then $MATH$ converges if and only if $MATH$ converges.
+Alternating series test. Also known as the Leibniz criterion, the alternating series test states that for an alternating series of the form $MATH$, if $MATH$ is monotonically decreasing, and has a limit of 0 at infinity, then the series converges.
+Cauchy condensation test. If $MATH$ is a positive monotone decreasing sequence, then
+$MATH$ converges if and only if $MATH$ converges.
+Dirichlet's test
+Abel's test
+Conditional and absolute convergence
+For any sequence $MATH$, $MATH$ for all n. Therefore,
+This means that if $MATH$ converges, then $MATH$ also converges (but not vice versa).
+If the series $MATH$ converges, then the series $MATH$ is absolutely convergent.  The Maclaurin series of the exponential function is absolutely convergent for every complex value of the variable.
+If the series $MATH$ converges but the series $MATH$ diverges, then the series $MATH$ is conditionally convergent. The Maclaurin series of the logarithm function $MATH$ is conditionally convergent for x = 1.
+The Riemann series theorem states that if a series converges conditionally, it is possible to rearrange the terms of the series in such a way that the series converges to any value, or even diverges.
+Uniform convergence
+Let $MATH$ be a sequence of functions.  
+The series $MATH$ is said to converge uniformly to f
+if the sequence $MATH$ of partial sums defined by
+converges uniformly to f.
+There is an analogue of the comparison test for infinite series of functions called the Weierstrass M-test.
+Cauchy convergence criterion
+The Cauchy convergence criterion states that a series
+converges if and only if the sequence of partial sums is a Cauchy sequence.
+This means that for every $MATH$ there is a positive integer $MATH$ such that for all $MATH$ we have
+which is equivalent to 

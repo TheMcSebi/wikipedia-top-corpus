@@ -1,0 +1,290 @@
+Distribution (mathematics)
+Distributions, also known as Schwartz distributions or generalized functions, are objects that generalize the classical notion of functions in mathematical analysis. Distributions make it possible to differentiate functions whose derivatives do not exist in the classical sense. In particular, any locally integrable function has a distributional derivative.
+Distributions are widely used in the theory of partial differential equations, where it may be easier to establish the existence of distributional solutions than classical solutions, or where appropriate classical solutions may not exist. Distributions are also important in physics and engineering where many problems naturally lead to differential equations whose solutions or initial conditions are singular, such as the Dirac delta function.
+A function $MATH$ is normally thought of as acting on the points in the function domain by "sending" a point $MATH$ in its domain to the point $MATH$ Instead of acting on points, distribution theory reinterprets functions such as $MATH$ as acting on test functions in a certain way. 
+In applications to physics and engineering, test functions are usually infinitely differentiable complex-valued (or real-valued) functions with compact support that are defined on some given non-empty open subset $MATH$. (Bump functions are examples of test functions.) The set of all such test functions forms a vector space that is denoted by $MATH$ or $MATH$
+Most commonly encountered functions, including all continuous maps $MATH$ if using $MATH$ can be canonically reinterpreted as acting via "integration against a test function." Explicitly, this means that $MATH$ "acts on" a test function $MATH$ by "sending" it to the number $MATH$ which is often denoted by $MATH$ This new action $MATH$ of $MATH$ is a scalar-valued map, denoted by $MATH$ whose domain is the space of test functions $MATH$ This functional $MATH$ turns out to have the two defining properties of what is known as a distribution on $MATH$: it is linear and also continuous when $MATH$ is given a certain topology called the canonical LF topology. The action of this distribution on a test function can be interpreted as a weighted average of the distribution on the support of the test function, even if the values of the distribution at a single point are not well-defined. Distributions like $MATH$ that arise from functions in this way are prototypical examples of distributions, but many cannot be defined by integration against any function. Examples of the latter include the Dirac delta function and distributions defined to act by integration of test functions against certain measures. It is nonetheless still possible to reduce any arbitrary distribution down to a simpler family of related distributions that do arise via such actions of integration.
+More generally, a distribution on $MATH$ is by definition a linear functional on $MATH$ that is continuous when $MATH$ is given a topology called the canonical LF topology. This leads to the space of (all) distributions on $MATH$, usually denoted by $MATH$ (note the prime), which by definition is the space of all distributions on $MATH$ (that is, it is the continuous dual space of $MATH$); it is these distributions that are the main focus of this article.
+Definitions of the appropriate topologies on spaces of test functions and distributions are given in the article on spaces of test functions and distributions. This article is primarily concerned with the definition of distributions, together with their properties and some important examples.
+History
+The practical use of distributions can be traced back to the use of Green functions in the 1830s to solve ordinary differential equations, but was not formalized until much later. According to Kolmogorov & Fomin (1957), generalized functions originated in the work of Sergei Sobolev (1936) on second-order hyperbolic partial differential equations, and the ideas were developed in somewhat extended form by Laurent Schwartz in the late 1940s. According to his autobiography, Schwartz introduced the term "distribution" by analogy with a distribution of electrical charge, possibly including not only point charges but also dipoles and so on. Gårding (1997) comments that although the ideas in the transformative book by Schwartz (1951) were not entirely new, it was Schwartz's broad attack and conviction that distributions would be useful almost everywhere in analysis that made the difference.
+Notation
+The following notation will be used throughout this article:
+Definitions of test functions and distributions
+In this section, some basic notions and definitions needed to define real-valued distributions on U are introduced. Further discussion of the topologies on the spaces of test functions and distributions is given in the article on spaces of test functions and distributions.
+For all $MATH$ and any compact subsets $MATH$ and $MATH$ of $MATH$, we have:
+Distributions on U are continuous linear functionals on $MATH$ when this vector space is endowed with a particular topology called the canonical LF-topology. The following proposition states two necessary and sufficient conditions for the continuity of a linear function on $MATH$ that are often straightforward to verify.
+Proposition: A linear functional T on $MATH$ is continuous, and therefore a distribution, if and only if either of the following equivalent conditions is satisfied:
+Topology on Ck(U)
+We now introduce the seminorms that will define the topology on $MATH$ Different authors sometimes use different families of seminorms so we list the most common families below. However, the resulting topology is the same no matter which family is used.
+All of the functions above are non-negative $MATH$-valued seminorms on $MATH$ As explained in this article, every set of seminorms on a vector space induces a locally convex vector topology.
+Each of the following sets of seminorms 
+generate the same locally convex vector topology on $MATH$ (so for example, the topology generated by the seminorms in $MATH$ is equal to the topology generated by those in $MATH$). 
+With this topology, $MATH$ becomes a locally convex Fréchet space that is not normable. Every element of $MATH$ is a continuous seminorm on $MATH$
+Under this topology, a net $MATH$ in $MATH$ converges to $MATH$ if and only if for every multi-index $MATH$ with $MATH$ and every compact $MATH$ the net of partial derivatives $MATH$ converges uniformly to $MATH$ on $MATH$ For any $MATH$ any (von Neumann) bounded subset of $MATH$ is a relatively compact subset of $MATH$ In particular, a subset of $MATH$ is bounded if and only if it is bounded in $MATH$ for all $MATH$ The space $MATH$ is a Montel space if and only if $MATH$
+A subset $MATH$ of $MATH$ is open in this topology if and only if there exists $MATH$ such that $MATH$ is open when $MATH$ is endowed with the subspace topology induced on it by $MATH$
+Topology on Ck(K)
+As before, fix $MATH$ Recall that if $MATH$ is any compact subset of $MATH$ then $MATH$
+If $MATH$ is finite then $MATH$ is a Banach space with a topology that can be defined by the norm
+And when $MATH$ then $MATH$ is even a Hilbert space.
+Trivial extensions and independence of Ck(K)'s topology from U
+Suppose $MATH$ is an open subset of $MATH$ and $MATH$ is a compact subset. By definition, elements of $MATH$ are functions with domain $MATH$ (in symbols, $MATH$), so the space $MATH$ and its topology depend on $MATH$ to make this dependence on the open set $MATH$ clear, temporarily denote $MATH$ by $MATH$ 
+Importantly, changing the set $MATH$ to a different open subset $MATH$ (with $MATH$) will change the set $MATH$ from $MATH$ to $MATH$ so that elements of $MATH$ will be functions with domain $MATH$ instead of $MATH$ 
+Despite $MATH$ depending on the open set ($MATH$), the standard notation for $MATH$ makes no mention of it. 
+This is justified because, as this subsection will now explain, the space $MATH$ is canonically identified as a subspace of $MATH$ (both algebraically and topologically). 
+It is enough to explain how to canonically identify $MATH$ with $MATH$ when one of $MATH$ and $MATH$ is a subset of the other. The reason is that if $MATH$ and $MATH$ are arbitrary open subsets of $MATH$ containing $MATH$ then the open set $MATH$ also contains $MATH$ so that each of $MATH$ and $MATH$ is canonically identified with $MATH$ and now by transitivity, $MATH$ is thus identified with $MATH$ 
+So assume $MATH$ are open subsets of $MATH$ containing $MATH$
+Given $MATH$ its trivial extension to $MATH$ is the function $MATH$ defined by:
+This trivial extension belongs to $MATH$ (because $MATH$ has compact support) and it will be denoted by $MATH$ (that is, $MATH$). The assignment $MATH$ thus induces a map $MATH$ that sends a function in $MATH$ to its trivial extension on $MATH$ This map is a linear injection and for every compact subset $MATH$ (where $MATH$ is also a compact subset of $MATH$ since $MATH$), 
+If $MATH$ is restricted to $MATH$ then the following induced linear map is a homeomorphism (linear homeomorphisms are called TVS-isomorphisms):
+and thus the next map is a topological embedding:
+Using the injection
+the vector space $MATH$ is canonically identified with its image in $MATH$ Because $MATH$ through this identification, $MATH$ can also be considered as a subset of $MATH$
+Thus the topology on $MATH$ is independent of the open subset $MATH$ of $MATH$ that contains $MATH$ which justifies the practice of writing $MATH$ instead of $MATH$
+Canonical LF topology
+Recall that $MATH$ denotes all functions in $MATH$ that have compact support in $MATH$ where note that $MATH$ is the union of all $MATH$ as $MATH$ ranges over all compact subsets of $MATH$ Moreover, for each $MATH$ is a dense subset of $MATH$ The special case when $MATH$ gives us the space of test functions.
+The canonical LF-topology is not metrizable and importantly, it is strictly finer than the subspace topology that $MATH$ induces on $MATH$ However, the canonical LF-topology does make $MATH$ into a complete reflexive nuclear Montel bornological barrelled Mackey space; the same is true of its strong dual space (that is, the space of all distributions with its usual topology). The canonical LF-topology can be defined in various ways.
+Distributions
+As discussed earlier, continuous linear functionals on a $MATH$ are known as distributions on $MATH$ Other equivalent definitions are described below.
+There is a canonical duality pairing between a distribution $MATH$ on $MATH$ and a test function $MATH$ which is denoted using angle brackets by
+One interprets this notation as the distribution $MATH$ acting on the test function $MATH$ to give a scalar, or symmetrically as the test function $MATH$ acting on the distribution $MATH$
+Characterizations of distributions
+Proposition. If $MATH$ is a linear functional on $MATH$ then the following are equivalent:
+Topology on the space of distributions and its relation to the weak-* topology
+The set of all distributions on $MATH$ is the continuous dual space of $MATH$ which when endowed with the strong dual topology is denoted by $MATH$ Importantly, unless indicated otherwise, the topology on $MATH$ is the strong dual topology; if the topology is instead the weak-* topology then this will be indicated. Neither topology is metrizable although unlike the weak-* topology, the strong dual topology makes $MATH$ into a complete nuclear space, to name just a few of its desirable properties.
+Neither $MATH$ nor its strong dual $MATH$ is a sequential space and so neither of their topologies can be fully described by sequences (in other words, defining only what sequences converge in these spaces is not enough to fully/correctly define their topologies).
+However, a sequence in $MATH$ converges in the strong dual topology if and only if it converges in the weak-* topology (this leads many authors to use pointwise convergence to define the convergence of a sequence of distributions; this is fine for sequences but this is not guaranteed to extend to the convergence of nets of distributions because a net may converge pointwise but fail to converge in the strong dual topology).
+More information about the topology that $MATH$ is endowed with can be found in the article on spaces of test functions and distributions and the articles on polar topologies and dual systems.
+A linear map from $MATH$ into another locally convex topological vector space (such as any normed space) is continuous if and only if it is sequentially continuous at the origin. However, this is no longer guaranteed if the map is not linear or for maps valued in more general topological spaces (for example, that are not also locally convex topological vector spaces). The same is true of maps from $MATH$ (more generally, this is true of maps from any locally convex bornological space).
+Localization of distributions
+There is no way to define the value of a distribution in $MATH$ at a particular point of U. However, as is the case with functions, distributions on U restrict to give distributions on open subsets of U. Furthermore, distributions are locally determined in the sense that a distribution on all of U can be assembled from a distribution on an open cover of U satisfying some compatibility conditions on the overlaps. Such a structure is known as a sheaf.
+Extensions and restrictions to an open subset
+Let $MATH$ be open subsets of $MATH$ 
+Every function $MATH$ can be extended by zero from its domain V to a function on U by setting it equal to $MATH$ on the complement $MATH$ This extension is a smooth compactly supported function called the trivial extension of $MATH$ to $MATH$ and it will be denoted by $MATH$
+This assignment $MATH$ defines the trivial extension operator 
+$MATH$ 
+which is a continuous injective linear map. It is used to canonically identify $MATH$ as a vector subspace of $MATH$ (although not as a topological subspace). 
+Its transpose (explained here) 
+is called the restriction to $MATH$ of distributions in $MATH$ and as the name suggests, the image $MATH$ of a distribution $MATH$ under this map is a distribution on $MATH$ called the restriction of $MATH$ to $MATH$ The defining condition of the restriction $MATH$ is:
+If $MATH$ then the (continuous injective linear) trivial extension map $MATH$ is not a topological embedding (in other words, if this linear injection was used to identify $MATH$ as a subset of $MATH$ then $MATH$'s topology would strictly finer than the subspace topology that $MATH$ induces on it; importantly, it would not be a topological subspace since that requires equality of topologies) and its range is also not dense in its codomain $MATH$ Consequently if $MATH$ then the restriction mapping is neither injective nor surjective. A distribution $MATH$ is said to be extendible to U if it belongs to the range of the transpose of $MATH$ and it is called extendible if it is extendable to $MATH$
+Unless $MATH$ the restriction to V is neither injective nor surjective. Lack of surjectivity follows since distributions can blow up towards the boundary of V. For instance, if $MATH$ and $MATH$ then the distribution
+is in $MATH$ but admits no extension to $MATH$
+Gluing and distributions that vanish in a set
+Theorem — Let $MATH$ be a collection of open subsets of $MATH$ For each $MATH$ let $MATH$ and suppose that for all $MATH$ the restriction of $MATH$ to $MATH$ is equal to the restriction of $MATH$ to $MATH$ (note that both restrictions are elements of $MATH$). Then there exists a unique $MATH$ such that for all $MATH$ the restriction of T to $MATH$ is equal to $MATH$
+Let V be an open subset of U. $MATH$ is said to vanish in V if for all $MATH$ such that $MATH$ we have $MATH$ T vanishes in V if and only if the restriction of T to V is equal to 0, or equivalently, if and only if T lies in the kernel of the restriction map $MATH$
+Corollary — Let $MATH$ be a collection of open subsets of $MATH$ and let $MATH$ $MATH$ if and only if for each $MATH$ the restriction of T to $MATH$ is equal to 0.
+Corollary — The union of all open subsets of U in which a distribution T vanishes is an open subset of U in which T vanishes.
+Support of a distribution
+This last corollary implies that for every distribution T on U, there exists a unique largest subset V of U such that T vanishes in V (and does not vanish in any open subset of U that is not contained in V); the complement in U of this unique largest open subset is called the support of T. Thus
+If $MATH$ is a locally integrable function on U and if $MATH$ is its associated distribution, then the support of $MATH$ is the smallest closed subset of U in the complement of which $MATH$ is almost everywhere equal to 0. If $MATH$ is continuous, then the support of $MATH$ is equal to the closure of the set of points in U at which $MATH$ does not vanish. The support of the distribution associated with the Dirac measure at a point $MATH$ is the set $MATH$ If the support of a test function $MATH$ does not intersect the support of a distribution T then $MATH$ A distribution T is 0 if and only if its support is empty. If $MATH$ is identically 1 on some open set containing the support of a distribution T then $MATH$ If the support of a distribution T is compact then it has finite order and there is a constant $MATH$ and a non-negative integer $MATH$ such that:
+If T has compact support, then it has a unique extension to a continuous linear functional $MATH$ on $MATH$; this function can be defined by $MATH$ where $MATH$ is any function that is identically 1 on an open set containing the support of T.
+If $MATH$ and $MATH$ then $MATH$ and $MATH$ Thus, distributions with support in a given subset $MATH$ form a vector subspace of $MATH$ Furthermore, if $MATH$ is a differential operator in U, then for all distributions T on U and all $MATH$ we have $MATH$ and $MATH$
+Support in a point set and Dirac measures
+For any $MATH$ let $MATH$ denote the distribution induced by the Dirac measure at $MATH$ For any $MATH$ and distribution $MATH$ the support of T is contained in $MATH$ if and only if T is a finite linear combination of derivatives of the Dirac measure at $MATH$ If in addition the order of T is $MATH$ then there exist constants $MATH$ such that:
+Said differently, if T has support at a single point $MATH$ then T is in fact a finite linear combination of distributional derivatives of the $MATH$ function at P. That is, there exists an integer m and complex constants $MATH$ such that
+where $MATH$ is the translation operator.
+Distribution with compact support
+Theorem — Suppose T is a distribution on U with compact support K. There exists a continuous function $MATH$ defined on U and a multi-index p such that
+where the derivatives are understood in the sense of distributions. That is, for all test functions $MATH$ on U,
+Distributions of finite order with support in an open subset
+Theorem — Suppose T is a distribution on U with compact support K and let V be an open subset of U containing K. Since every distribution with compact support has finite order, take N to be the order of T and define $MATH$ There exists a family of continuous functions $MATH$ defined on U with support in V such that
+where the derivatives are understood in the sense of distributions. That is, for all test functions $MATH$ on U,
+Global structure of distributions
+The formal definition of distributions exhibits them as a subspace of a very large space, namely the topological dual of $MATH$ (or the Schwartz space $MATH$ for tempered distributions). It is not immediately clear from the definition how exotic a distribution might be. To answer this question, it is instructive to see distributions built up from a smaller space, namely the space of continuous functions. Roughly, any distribution is locally a (multiple) derivative of a continuous function. A precise version of this result, given below, holds for distributions of compact support, tempered distributions, and general distributions. Generally speaking, no proper subset of the space of distributions contains all continuous functions and is closed under differentiation. This says that distributions are not particularly exotic objects; they are only as complicated as necessary.
+Distributions as sheaves
+Theorem — Let T be a distribution on U.
+There exists a sequence $MATH$ in $MATH$ such that each Ti has compact support and every compact subset $MATH$ intersects the support of only finitely many $MATH$ and the sequence of partial sums $MATH$ defined by $MATH$ converges in $MATH$ to T; in other words we have:
+Recall that a sequence converges in $MATH$ (with its strong dual topology) if and only if it converges pointwise.
+Decomposition of distributions as sums of derivatives of continuous functions
+By combining the above results, one may express any distribution on U as the sum of a series of distributions with compact support, where each of these distributions can in turn be written as a finite sum of distributional derivatives of continuous functions on U. In other words, for arbitrary $MATH$ we can write:
+where $MATH$ are finite sets of multi-indices and the functions $MATH$ are continuous.
+Theorem — Let T be a distribution on U. For every multi-index p there exists a continuous function $MATH$ on U such that
+Moreover, if T has finite order, then one can choose $MATH$ in such a way that only finitely many of them are non-zero.
+Note that the infinite sum above is well-defined as a distribution. The value of T for a given $MATH$ can be computed using the finitely many $MATH$ that intersect the support of $MATH$
+Operations on distributions
+Many operations which are defined on smooth functions with compact support can also be defined for distributions. In general, if $MATH$ is a linear map that is continuous with respect to the weak topology, then it is possible to extend $MATH$ to a map $MATH$ by passing to the limit.
+Preliminaries: Transpose of a linear operator
+Operations on distributions and spaces of distributions are often defined using the transpose of a linear operator. This is because the transpose allows for a unified presentation of the many definitions in the theory of distributions and also because its properties are well-known in functional analysis. For instance, the well-known Hermitian adjoint of a linear operator between Hilbert spaces is just the operator's transpose (but with the Riesz representation theorem used to identify each Hilbert space with its continuous dual space). In general, the transpose of a continuous linear map $MATH$ is the linear map 
+or equivalently, it is the unique map satisfying $MATH$ for all $MATH$ and all $MATH$ (the prime symbol in $MATH$ does not denote a derivative of any kind; it merely indicates that $MATH$ is an element of the continuous dual space $MATH$). Since $MATH$ is continuous, the transpose $MATH$ is also continuous when both duals are endowed with their respective strong dual topologies; it is also continuous when both duals are endowed with their respective weak* topologies (see the articles polar topology and dual system for more details).
+In the context of distributions, the characterization of the transpose can be refined slightly. Let $MATH$ be a continuous linear map. Then by definition, the transpose of $MATH$ is the unique linear operator $MATH$ that satisfies:
+Since $MATH$ is dense in $MATH$ (here, $MATH$ actually refers to the set of distributions $MATH$) it is sufficient that the defining equality hold for all distributions of the form $MATH$ where $MATH$ Explicitly, this means that a continuous linear map $MATH$ is equal to $MATH$ if and only if the condition below holds:
+where the right-hand side equals $MATH$
+Differentiation of distributions
+Let $MATH$ be the partial derivative operator $MATH$ To extend $MATH$ we compute its transpose:
+Therefore $MATH$ Thus, the partial derivative of $MATH$ with respect to the coordinate $MATH$ is defined by the formula
+With this definition, every distribution is infinitely differentiable, and the derivative in the direction $MATH$ is a linear operator on $MATH$
+More generally, if $MATH$ is an arbitrary multi-index, then the partial derivative $MATH$ of the distribution $MATH$ is defined by
+Differentiation of distributions is a continuous operator on $MATH$ this is an important and desirable property that is not shared by most other notions of differentiation.
+If $MATH$ is a distribution in $MATH$ then
+where $MATH$ is the derivative of $MATH$ and $MATH$ is a translation by $MATH$ thus the derivative of $MATH$ may be viewed as a limit of quotients.
+Differential operators acting on smooth functions
+A linear differential operator in $MATH$ with smooth coefficients acts on the space of smooth functions on $MATH$ Given such an operator
+$MATH$
+we would like to define a continuous linear map, $MATH$ that extends the action of $MATH$ on $MATH$ to distributions on $MATH$ In other words, we would like to define $MATH$ such that the following diagram commutes:
+where the vertical maps are given by assigning $MATH$ its canonical distribution $MATH$ which is defined by: 
+With this notation, the diagram commuting is equivalent to:
+To find $MATH$ the transpose $MATH$ of the continuous induced map $MATH$ defined by $MATH$ is considered in the lemma below. 
+This leads to the following definition of the differential operator on $MATH$ called the formal transpose of $MATH$ which will be denoted by $MATH$ to avoid confusion with the transpose map, that is defined by
+Lemma — Let $MATH$ be a linear differential operator with smooth coefficients in $MATH$ Then for all $MATH$ we have
+which is equivalent to:
+The Lemma combined with the fact that the formal transpose of the formal transpose is the original differential operator, that is, $MATH$ enables us to arrive at the correct definition: the formal transpose induces the (continuous) canonical linear operator $MATH$ defined by $MATH$ We claim that the transpose of this map, $MATH$ can be taken as $MATH$ To see this, for every $MATH$ compute its action on a distribution of the form $MATH$ with $MATH$:
+We call the continuous linear operator $MATH$ the differential operator on distributions extending $MATH$. Its action on an arbitrary distribution $MATH$ is defined via:
+If $MATH$ converges to $MATH$ then for every multi-index $MATH$ converges to $MATH$
+Multiplication of distributions by smooth functions
+A differential operator of order 0 is just multiplication by a smooth function. And conversely, if $MATH$ is a smooth function then $MATH$ is a differential operator of order 0, whose formal transpose is itself (that is, $MATH$). The induced differential operator $MATH$ maps a distribution $MATH$ to a distribution denoted by $MATH$ We have thus defined the multiplication of a distribution by a smooth function.
+We now give an alternative presentation of the multiplication of a distribution $MATH$ on $MATH$ by a smooth function $MATH$ The product $MATH$ is defined by
+This definition coincides with the transpose definition since if $MATH$ is the operator of multiplication by the function $MATH$ (that is, $MATH$), then
+so that $MATH$
+Under multiplication by smooth functions, $MATH$ is a module over the ring $MATH$ With this definition of multiplication by a smooth function, the ordinary product rule of calculus remains valid. However, some unusual identities also arise. For example, if $MATH$ is the Dirac delta distribution on $MATH$ then $MATH$ and if $MATH$ is the derivative of the delta distribution, then
+The bilinear multiplication map $MATH$ given by $MATH$ is not continuous; it is however, hypocontinuous.
+Example. The product of any distribution $MATH$ with the function that is identically 1 on $MATH$ is equal to $MATH$
+Example. Suppose $MATH$ is a sequence of test functions on $MATH$ that converges to the constant function $MATH$ For any distribution $MATH$ on $MATH$ the sequence $MATH$ converges to $MATH$
+If $MATH$ converges to $MATH$ and $MATH$ converges to $MATH$ then $MATH$ converges to $MATH$
+Problem of multiplying distributions
+It is easy to define the product of a distribution with a smooth function, or more generally the product of two distributions whose singular supports are disjoint. With more effort, it is possible to define a well-behaved product of several distributions provided their wave front sets at each point are compatible. A limitation of the theory of distributions (and hyperfunctions) is that there is no associative product of two distributions extending the product of a distribution by a smooth function, as has been proved by Laurent Schwartz in the 1950s. For example, if $MATH$ is the distribution obtained by the Cauchy principal value
+If $MATH$ is the Dirac delta distribution then
+but,
+so the product of a distribution by a smooth function (which is always well-defined) cannot be extended to an associative product on the space of distributions.
+Thus, nonlinear problems cannot be posed in general and thus are not solved within distribution theory alone. In the context of quantum field theory, however, solutions can be found. In more than two spacetime dimensions the problem is related to the regularization of divergences. Here Henri Epstein and Vladimir Glaser developed the mathematically rigorous (but extremely technical) causal perturbation theory. This does not solve the problem in other situations. Many other interesting theories are non-linear, like for example the Navier–Stokes equations of fluid dynamics.
+Several not entirely satisfactory theories of algebras of generalized functions have been developed, among which Colombeau's (simplified) algebra is maybe the most popular in use today.
+Inspired by Lyons' rough path theory, Martin Hairer proposed a consistent way of multiplying distributions with certain structures (regularity structures), available in many examples from stochastic analysis, notably stochastic partial differential equations. See also Gubinelli–Imkeller–Perkowski (2015) for a related development based on Bony's paraproduct from Fourier analysis.
+Composition with a smooth function
+Let $MATH$ be a distribution on $MATH$ Let $MATH$ be an open set in $MATH$ and $MATH$ If $MATH$ is a submersion then it is possible to define
+This is the composition of the distribution $MATH$ with $MATH$, and is also called the pullback of $MATH$ along $MATH$, sometimes written
+The pullback is often denoted $MATH$ although this notation should not be confused with the use of '*' to denote the adjoint of a linear mapping.
+The condition that $MATH$ be a submersion is equivalent to the requirement that the Jacobian derivative $MATH$ of $MATH$ is a surjective linear map for every $MATH$ A necessary (but not sufficient) condition for extending $MATH$ to distributions is that $MATH$ be an open mapping. The Inverse function theorem ensures that a submersion satisfies this condition.
+If $MATH$ is a submersion, then $MATH$ is defined on distributions by finding the transpose map. The uniqueness of this extension is guaranteed since $MATH$ is a continuous linear operator on $MATH$ Existence, however, requires using the change of variables formula, the inverse function theorem (locally), and a partition of unity argument.
+In the special case when $MATH$ is a diffeomorphism from an open subset $MATH$ of $MATH$ onto an open subset $MATH$ of $MATH$ change of variables under the integral gives:
+In this particular case, then, $MATH$ is defined by the transpose formula:
+Convolution
+Under some circumstances, it is possible to define the convolution of a function with a distribution, or even the convolution of two distributions.
+Recall that if $MATH$ and $MATH$ are functions on $MATH$ then we denote by $MATH$ the convolution of $MATH$ and $MATH$ defined at $MATH$ to be the integral
+provided that the integral exists. If $MATH$ are such that $MATH$ then for any functions $MATH$ and $MATH$ we have $MATH$ and $MATH$ If $MATH$ and $MATH$ are continuous functions on $MATH$ at least one of which has compact support, then $MATH$ and if $MATH$ then the value of $MATH$ on $MATH$ do not depend on the values of $MATH$ outside of the Minkowski sum $MATH$
+Importantly, if $MATH$ has compact support then for any $MATH$ the convolution map $MATH$ is continuous when considered as the map $MATH$ or as the map $MATH$
+Translation and symmetry
+Given $MATH$ the translation operator $MATH$ sends $MATH$ to $MATH$ defined by $MATH$ This can be extended by the transpose to distributions in the following way: given a distribution $MATH$ the translation of $MATH$ by $MATH$ is the distribution $MATH$ defined by $MATH$
+Given $MATH$ define the function $MATH$ by $MATH$ Given a distribution $MATH$ let $MATH$ be the distribution defined by $MATH$ The operator $MATH$ is called the symmetry with respect to the origin.
+Convolution of a test function with a distribution
+Convolution with $MATH$ defines a linear map:
+which is continuous with respect to the canonical LF space topology on $MATH$
+Convolution of $MATH$ with a distribution $MATH$ can be defined by taking the transpose of $MATH$ relative to the duality pairing of $MATH$ with the space $MATH$ of distributions. If $MATH$ then by Fubini's theorem
+Extending by continuity, the convolution of $MATH$ with a distribution $MATH$ is defined by
+An alternative way to define the convolution of a test function $MATH$ and a distribution $MATH$ is to use the translation operator $MATH$ The convolution of the compactly supported function $MATH$ and the distribution $MATH$ is then the function defined for each $MATH$ by
+It can be shown that the convolution of a smooth, compactly supported function and a distribution is a smooth function. If the distribution $MATH$ has compact support, and if $MATH$ is a polynomial (resp. an exponential function, an analytic function, the restriction of an entire analytic function on $MATH$ to $MATH$ the restriction of an entire function of exponential type in $MATH$ to $MATH$), then the same is true of $MATH$ If the distribution $MATH$ has compact support as well, then $MATH$ is a compactly supported function, and the Titchmarsh convolution theorem Hörmander (1983, Theorem 4.3.3) implies that:
+where $MATH$ denotes the convex hull and $MATH$ denotes the support.
+Convolution of a smooth function with a distribution
+Let $MATH$ and $MATH$ and assume that at least one of $MATH$ and $MATH$ has compact support. The convolution of $MATH$ and $MATH$ denoted by $MATH$ or by $MATH$ is the smooth function:
+satisfying for all $MATH$:
+Let $MATH$ be the map $MATH$. If $MATH$ is a distribution, then $MATH$ is continuous as a map $MATH$. If $MATH$ also has compact support, then $MATH$ is also continuous as the map $MATH$ and continuous as the map $MATH$
+If $MATH$ is a continuous linear map such that $MATH$ for all $MATH$ and all $MATH$ then there exists a distribution $MATH$ such that $MATH$ for all $MATH$
+Example. Let $MATH$ be the Heaviside function on $MATH$ For any $MATH$
+Let $MATH$ be the Dirac measure at 0 and let $MATH$ be its derivative as a distribution. Then $MATH$ and $MATH$ Importantly, the associative law fails to hold:
+Convolution of distributions
+It is also possible to define the convolution of two distributions $MATH$ and $MATH$ on $MATH$ provided one of them has compact support. Informally, to define $MATH$ where $MATH$ has compact support, the idea is to extend the definition of the convolution $MATH$ to a linear operation on distributions so that the associativity formula
+continues to hold for all test functions $MATH$
+It is also possible to provide a more explicit characterization of the convolution of distributions. Suppose that $MATH$ and $MATH$ are distributions and that $MATH$ has compact support. Then the linear maps
+are continuous. The transposes of these maps:
+are consequently continuous and it can also be shown that
+This common value is called the convolution of $MATH$ and $MATH$ and it is a distribution that is denoted by $MATH$ or $MATH$ It satisfies $MATH$ If $MATH$ and $MATH$ are two distributions, at least one of which has compact support, then for any $MATH$ $MATH$ If $MATH$ is a distribution in $MATH$ and if $MATH$ is a Dirac measure then $MATH$; thus $MATH$ is the identity element of the convolution operation. Moreover, if $MATH$ is a function then $MATH$ where now the associativity of convolution implies that $MATH$ for all functions $MATH$ and $MATH$
+Suppose that it is $MATH$ that has compact support. For $MATH$ consider the function
+It can be readily shown that this defines a smooth function of $MATH$ which moreover has compact support. The convolution of $MATH$ and $MATH$ is defined by
+This generalizes the classical notion of convolution of functions and is compatible with differentiation in the following sense: for every multi-index $MATH$
+The convolution of a finite number of distributions, all of which (except possibly one) have compact support, is associative.
+This definition of convolution remains valid under less restrictive assumptions about $MATH$ and $MATH$
+The convolution of distributions with compact support induces a continuous bilinear map $MATH$ defined by $MATH$ where $MATH$ denotes the space of distributions with compact support. However, the convolution map as a function $MATH$ is not continuous although it is separately continuous. The convolution maps $MATH$ and $MATH$ given by $MATH$ both fail to be continuous. Each of these non-continuous maps is, however, separately continuous and hypocontinuous.
+Convolution versus multiplication
+In general, regularity is required for multiplication products, and locality is required for convolution products. It is expressed in the following extension of the Convolution Theorem which guarantees the existence of both convolution and multiplication products. Let $MATH$ be a rapidly decreasing tempered distribution or, equivalently, $MATH$ be an ordinary (slowly growing, smooth) function within the space of tempered distributions and let $MATH$ be the normalized (unitary, ordinary frequency) Fourier transform. Then, according to Schwartz (1951),
+hold within the space of tempered distributions. In particular, these equations become the Poisson Summation Formula if $MATH$ is the Dirac Comb. The space of all rapidly decreasing tempered distributions is also called the space of convolution operators $MATH$ and the space of all ordinary functions within the space of tempered distributions is also called the space of multiplication operators $MATH$ More generally, $MATH$ and $MATH$ A particular case is the Paley-Wiener-Schwartz Theorem which states that $MATH$ and $MATH$ This is because $MATH$ and $MATH$ In other words, compactly supported tempered distributions $MATH$ belong to the space of convolution operators $MATH$ and
+Paley-Wiener functions $MATH$ better known as bandlimited functions, belong to the space of multiplication operators $MATH$
+For example, let $MATH$ be the Dirac comb and $MATH$ be the Dirac delta;then $MATH$ is the function that is constantly one and both equations yield the Dirac-comb identity. Another example is to let $MATH$ be the Dirac comb and $MATH$ be the rectangular function; then $MATH$ is the sinc function and both equations yield the Classical Sampling Theorem for suitable $MATH$ functions. More generally, if $MATH$ is the Dirac comb and $MATH$ is a smooth window function (Schwartz function), for example, the Gaussian, then $MATH$ is another smooth window function (Schwartz function). They are known as mollifiers, especially in partial differential equations theory, or as regularizers in physics because they allow turning generalized functions into regular functions.
+Tensor products of distributions
+Let $MATH$ and $MATH$ be open sets. Assume all vector spaces to be over the field $MATH$ where $MATH$ or $MATH$ For $MATH$ define for every $MATH$ and every $MATH$ the following functions:
+Given $MATH$ and $MATH$ define the following functions:
+where $MATH$ and $MATH$ 
+These definitions associate every $MATH$ and $MATH$ with the (respective) continuous linear map:
+Moreover, if either $MATH$ (resp. $MATH$) has compact support then it also induces a continuous linear map of $MATH$ (resp. $MATH$).
+Fubini's theorem for distributions — Let $MATH$ and $MATH$ If $MATH$ then 
+The tensor product of $MATH$ and $MATH$ denoted by $MATH$ or $MATH$ is the distribution in $MATH$ defined by:
+Spaces of distributions
+For all $MATH$ and all $MATH$ every one of the following canonical injections is continuous and has an image (also called the range) that is a dense subset of its codomain:
+where the topologies on $MATH$ ($MATH$) are defined as direct limits of the spaces $MATH$ in a manner analogous to how the topologies on $MATH$ were defined (so in particular, they are not the usual norm topologies). The range of each of the maps above (and of any composition of the maps above) is dense in its codomain.
+Suppose that $MATH$ is one of the spaces $MATH$ (for $MATH$) or $MATH$ (for $MATH$) or $MATH$ (for $MATH$). Because the canonical injection $MATH$ is a continuous injection whose image is dense in the codomain, this map's transpose $MATH$ is a continuous injection. This injective transpose map thus allows the continuous dual space $MATH$ of $MATH$ to be identified with a certain vector subspace of the space $MATH$ of all distributions (specifically, it is identified with the image of this transpose map). This transpose map is continuous but it is not necessarily a topological embedding.
+A linear subspace of $MATH$ carrying a locally convex topology that is finer than the subspace topology induced on it by $MATH$ is called a space of distributions.
+Almost all of the spaces of distributions mentioned in this article arise in this way (for example, tempered distribution, restrictions, distributions of order $MATH$ some integer, distributions induced by a positive Radon measure, distributions induced by an $MATH$-function, etc.) and any representation theorem about the continuous dual space of $MATH$ may, through the transpose $MATH$ be transferred directly to elements of the space $MATH$
+Radon measures
+The inclusion map $MATH$ is a continuous injection whose image is dense in its codomain, so the transpose $MATH$ :(C_{c}^{0}(U))'_{b}\to {\mathcal {D}}'(U)=(C_{c}^{\infty }(U))'_{b}}
+  
+ is also a continuous injection.
+Note that the continuous dual space $MATH$ can be identified as the space of Radon measures, where there is a one-to-one correspondence between the continuous linear functionals $MATH$ and integral with respect to a Radon measure; that is,
+Through the injection $MATH$ :(C_{c}^{0}(U))'_{b}\to {\mathcal {D}}'(U),}
+  
+ every Radon measure becomes a distribution on U. If $MATH$ is a locally integrable function on U then the distribution $MATH$ is a Radon measure; so Radon measures form a large and important space of distributions.
+The following is the theorem of the structure of distributions of Radon measures, which shows that every Radon measure can be written as a sum of derivatives of locally $MATH$ functions on U:
+Theorem. — Suppose $MATH$ is a Radon measure, where $MATH$ let $MATH$ be a neighborhood of the support of $MATH$ and let $MATH$ There exists a family $MATH$ of locally $MATH$ functions on U such that $MATH$ for every $MATH$ and
+Furthermore, $MATH$ is also equal to a finite sum of derivatives of continuous functions on $MATH$ where each derivative has order $MATH$
+Positive Radon measures
+A linear function $MATH$ on a space of functions is called positive if whenever a function $MATH$ that belongs to the domain of $MATH$ is non-negative (that is, $MATH$ is real-valued and $MATH$) then $MATH$ One may show that every positive linear functional on $MATH$ is necessarily continuous (that is, necessarily a Radon measure).
+Lebesgue measure is an example of a positive Radon measure.
+Locally integrable functions as distributions
+One particularly important class of Radon measures are those that are induced locally integrable functions. The function $MATH$ is called locally integrable if it is Lebesgue integrable over every compact subset K of U. This is a large class of functions that includes all continuous functions and all Lp space $MATH$ functions. The topology on $MATH$ is defined in such a fashion that any locally integrable function $MATH$ yields a continuous linear functional on $MATH$ – that is, an element of $MATH$ – denoted here by $MATH$ whose value on the test function $MATH$ is given by the Lebesgue integral:
+Conventionally, one abuses notation by identifying $MATH$ with $MATH$ provided no confusion can arise, and thus the pairing between $MATH$ and $MATH$ is often written
+If $MATH$ and $MATH$ are two locally integrable functions, then the associated distributions $MATH$ and $MATH$ are equal to the same element of $MATH$ if and only if $MATH$ and $MATH$ are equal almost everywhere (see, for instance, Hörmander (1983, Theorem 1.2.5)). Similarly, every Radon measure $MATH$ on $MATH$ defines an element of $MATH$ whose value on the test function $MATH$ is $MATH$ As above, it is conventional to abuse notation and write the pairing between a Radon measure $MATH$ and a test function $MATH$ as $MATH$ Conversely, as shown in a theorem by Schwartz (similar to the Riesz representation theorem), every distribution which is non-negative on non-negative functions is of this form for some (positive) Radon measure.
+Test functions as distributions
+The test functions are themselves locally integrable, and so define distributions. The space of test functions $MATH$ is sequentially dense in $MATH$ with respect to the strong topology on $MATH$ This means that for any $MATH$ there is a sequence of test functions, $MATH$ that converges to $MATH$ (in its strong dual topology) when considered as a sequence of distributions. Or equivalently,
+Distributions with compact support
+The inclusion map $MATH$ is a continuous injection whose image is dense in its codomain, so the transpose map $MATH$ :(C^{\infty }(U))'_{b}\to {\mathcal {D}}'(U)=(C_{c}^{\infty }(U))'_{b}}
+  
+ is also a continuous injection. Thus the image of the transpose, denoted by $MATH$ forms a space of distributions.
+The elements of $MATH$ can be identified as the space of distributions with compact support. Explicitly, if $MATH$ is a distribution on U then the following are equivalent,
+Compactly supported distributions define continuous linear functionals on the space $MATH$; recall that the topology on $MATH$ is defined such that a sequence of test functions $MATH$ converges to 0 if and only if all derivatives of $MATH$ converge uniformly to 0 on every compact subset of U. Conversely, it can be shown that every continuous linear functional on this space defines a distribution of compact support. Thus compactly supported distributions can be identified with those distributions that can be extended from $MATH$ to $MATH$
+Distributions of finite order
+Let $MATH$ The inclusion map $MATH$ is a continuous injection whose image is dense in its codomain, so the transpose $MATH$ :(C_{c}^{k}(U))'_{b}\to {\mathcal {D}}'(U)=(C_{c}^{\infty }(U))'_{b}}
+  
+ is also a continuous injection. Consequently, the image of $MATH$ denoted by $MATH$ forms a space of distributions. The elements of $MATH$ are the distributions of order $MATH$ The distributions of order $MATH$ which are also called distributions of order 0 are exactly the distributions that are Radon measures (described above).
+For $MATH$ a distribution of order k is a distribution of order $MATH$ that is not a distribution of order $MATH$.
+A distribution is said to be of finite order if there is some integer $MATH$ such that it is a distribution of order $MATH$ and the set of distributions of finite order is denoted by $MATH$ Note that if $MATH$ then $MATH$ so that $MATH$ is a vector subspace of $MATH$, and furthermore, if and only if $MATH$
+Structure of distributions of finite order
+Every distribution with compact support in U is a distribution of finite order. Indeed, every distribution in U is locally a distribution of finite order, in the following sense: If V is an open and relatively compact subset of U and if $MATH$ is the restriction mapping from U to V, then the image of $MATH$ under $MATH$ is contained in $MATH$
+The following is the theorem of the structure of distributions of finite order, which shows that every distribution of finite order can be written as a sum of derivatives of Radon measures:
+Theorem — Suppose $MATH$ has finite order and $MATH$ Given any open subset V of U containing the support of $MATH$ there is a family of Radon measures in U, $MATH$ such that for very $MATH$ and
+Example. (Distributions of infinite order) Let $MATH$ and for every test function $MATH$ let 
+Then $MATH$ is a distribution of infinite order on U. Moreover, $MATH$ can not be extended to a distribution on $MATH$; that is, there exists no distribution $MATH$ on $MATH$ such that the restriction of $MATH$ to U is equal to $MATH$
+Tempered distributions and Fourier transform
+Defined below are the tempered distributions, which form a subspace of $MATH$ the space of distributions on $MATH$ This is a proper subspace: while every tempered distribution is a distribution and an element of $MATH$ the converse is not true. Tempered distributions are useful if one studies the Fourier transform since all tempered distributions have a Fourier transform, which is not true for an arbitrary distribution in $MATH$
+Schwartz space
+The Schwartz space $MATH$ is the space of all smooth functions that are rapidly decreasing at infinity along with all partial derivatives. Thus $MATH$ :\mathbb {R} ^{n}\to \mathbb {R} }
+  
+ is in the Schwartz space provided that any derivative of $MATH$ multiplied with any power of $MATH$ converges to 0 as $MATH$ These functions form a complete TVS with a suitably defined family of seminorms. More precisely, for any multi-indices $MATH$ and $MATH$ define:
+Then $MATH$ is in the Schwartz space if all the values satisfy:
+The family of seminorms $MATH$ defines a locally convex topology on the Schwartz space. For $MATH$ the seminorms are, in fact, norms on the Schwartz space. One can also use the following family of seminorms to define the topology:
+Otherwise, one can define a norm on $MATH$ via
+The Schwartz space is a Fréchet space (that is, a complete metrizable locally convex space). Because the Fourier transform changes $MATH$ into multiplication by $MATH$ and vice versa, this symmetry implies that the Fourier transform of a Schwartz function is also a Schwartz function.
+A sequence $MATH$ in $MATH$ converges to 0 in $MATH$ if and only if the functions $MATH$ converge to 0 uniformly in the whole of $MATH$ which implies that such a sequence must converge to zero in $MATH$
+$MATH$ is dense in $MATH$ The subset of all analytic Schwartz functions is dense in $MATH$ as well.
+The Schwartz space is nuclear and the tensor product of two maps induces a canonical surjective TVS-isomorphisms
+where $MATH$ represents the completion of the injective tensor product (which in this case is identical to the completion of the projective tensor product).
+Tempered distributions
+The inclusion map $MATH$ :{\mathcal {D}}(\mathbb {R} ^{n})\to {\mathcal {S}}(\mathbb {R} ^{n})}
+  
+ is a continuous injection whose image is dense in its codomain, so the transpose $MATH$ :({\mathcal {S}}(\mathbb {R} ^{n}))'_{b}\to {\mathcal {D}}'(\mathbb {R} ^{n})}
+  
+ is also a continuous injection. Thus, the image of the transpose map, denoted by $MATH$ forms a space of distributions.
+The space $MATH$ is called the space of tempered distributions. It is the continuous dual space of the Schwartz space. Equivalently, a distribution $MATH$ is a tempered distribution if and only if
+The derivative of a tempered distribution is again a tempered distribution. Tempered distributions generalize the bounded (or slow-growing) locally integrable functions; all distributions with compact support and all square-integrable functions are tempered distributions. More generally, all functions that are products of polynomials with elements of Lp space $MATH$ for $MATH$ are tempered distributions.
+The tempered distributions can also be characterized as slowly growing, meaning that each derivative of $MATH$ grows at most as fast as some polynomial. This characterization is dual to the rapidly falling behaviour of the derivatives of a function in the Schwartz space, where each derivative of $MATH$ decays faster than every inverse power of $MATH$ An example of a rapidly falling function is $MATH$ for any positive $MATH$
+Fourier transform
+To study the Fourier transform, it is best to consider complex-valued test functions and complex-linear distributions. The ordinary continuous Fourier transform $MATH$ is a TVS-automorphism of the Schwartz space, and the Fourier transform is defined to be its transpose $MATH$ which (abusing notation) will again be denoted by $MATH$ So the Fourier transform of the tempered distribution $MATH$ is defined by $MATH$ for every Schwartz function $MATH$ $MATH$ is thus again a tempered distribution. The Fourier transform is a TVS isomorphism from the space of tempered distributions onto itself. This operation is compatible with differentiation in the sense that
+and also with convolution: if $MATH$ is a tempered distribution and $MATH$ is a slowly increasing smooth function on $MATH$ $MATH$ is again a tempered distribution and
+is the convolution of $MATH$ and $MATH$ In particular, the Fourier transform of the constant function equal to 1 is the $MATH$ distribution.
+Expressing tempered distributions as sums of derivatives
+If $MATH$ is a tempered distribution, then there exists a constant $MATH$ and positive integers $MATH$ and $MATH$ such that for all Schwartz functions $MATH$
+This estimate, along with some techniques from functional analysis, can be used to show that there is a continuous slowly increasing function $MATH$ and a multi-index $MATH$ such that
+Restriction of distributions to compact sets
+If $MATH$ then for any compact set $MATH$ there exists a continuous function $MATH$compactly supported in $MATH$ (possibly on a larger set than K itself) and a multi-index $MATH$ such that $MATH$ on $MATH$
+Using holomorphic functions as test functions
+The success of the theory led to an investigation of the idea of hyperfunction, in which spaces of holomorphic functions are used as test functions. A refined theory has been developed, in particular Mikio Sato's algebraic analysis, using sheaf theory and several complex variables. This extends the range of symbolic methods that can be made into rigorous mathematics, for example, Feynman integrals.
+See also
+Notes
+References
+Bibliography
+Further reading

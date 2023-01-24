@@ -1,0 +1,48 @@
+Conjugacy class
+In mathematics, especially group theory, two elements $MATH$ and $MATH$ of a group are conjugate if there is an element $MATH$ in the group such that $MATH$ This is an equivalence relation whose equivalence classes are called conjugacy classes.  In other words, each conjugacy class is closed under $MATH$ for all elements $MATH$ in the group.
+Members of the same conjugacy class cannot be distinguished by using only the group structure, and therefore share many properties. The study of conjugacy classes of non-abelian groups is fundamental for the study of their structure. For an abelian group, each conjugacy class is a set containing one element (singleton set).
+Functions that are constant for members of the same conjugacy class are called class functions.
+Definition
+Let $MATH$ be a group. Two elements $MATH$ are conjugate if there exists an element $MATH$ such that $MATH$ in which case $MATH$ is called a conjugate of $MATH$ and $MATH$ is called a conjugate of $MATH$
+In the case of the general linear group $MATH$ of invertible matrices, the conjugacy relation is called  matrix similarity.
+It can be easily shown that conjugacy is an equivalence relation and therefore partitions $MATH$ into equivalence classes. (This means that every element of the group belongs to precisely one conjugacy class, and the classes $MATH$ and $MATH$ are equal if and only if $MATH$ and $MATH$ are conjugate, and disjoint otherwise.) The equivalence class that contains the element $MATH$ is
+and is called the conjugacy class of $MATH$ The class number of $MATH$ is the number of distinct (nonequivalent) conjugacy classes. All elements belonging to the same conjugacy class have the same order.
+Conjugacy classes may be referred to by describing them, or more briefly by abbreviations such as "6A", meaning "a certain conjugacy class with elements of order 6", and "6B" would be a different conjugacy class with elements of order 6; the conjugacy class 1A is the conjugacy class of the identity which has order 1. In some cases, conjugacy classes can be described in a uniform way; for example, in the symmetric group they can be described by cycle type.
+Examples
+The symmetric group $MATH$ consisting of the 6 permutations of three elements, has three conjugacy classes:
+These three classes also correspond to the classification of the isometries of an equilateral triangle.
+The symmetric group $MATH$ consisting of the 24 permutations of four elements, has five conjugacy classes, listed with their description, cycle type, member order, and members:
+The proper rotations of the cube, which can be characterized by permutations of the body diagonals, are also described by conjugation in $MATH$
+In general, the number of conjugacy classes in the symmetric group $MATH$ is equal to the number of integer partitions of $MATH$  This is because each conjugacy class corresponds to exactly one partition of $MATH$ into cycles, up to permutation of the elements of $MATH$
+In general, the Euclidean group can be studied by conjugation of isometries in Euclidean space.
+Properties
+Conjugacy as group action
+For any two elements $MATH$ let
+This defines a group action of $MATH$ on $MATH$ The orbits of this action are the conjugacy classes, and the stabilizer of a given element is the element's centralizer.
+Similarly, we can define a group action of $MATH$ on the set of all subsets of $MATH$ by writing
+or on the set of the subgroups of $MATH$
+Conjugacy class equation
+If $MATH$ is a finite group, then for any group element $MATH$ the elements in the conjugacy class of $MATH$ are in one-to-one correspondence with cosets of the centralizer $MATH$ This can be seen by observing that any two elements $MATH$ and $MATH$ belonging to the same coset (and hence, $MATH$ for some $MATH$ in the centralizer $MATH$) give rise to the same element when conjugating $MATH$: 
+That can also be seen from the orbit-stabilizer theorem, when considering the group as acting on itself through conjugation, so that orbits are conjugacy classes and stabilizer subgroups are centralizers. The converse holds as well.
+Thus the number of elements in the conjugacy class of $MATH$ is the index $MATH$ of the centralizer $MATH$ in $MATH$; hence the size of each conjugacy class divides the order of the group.
+Furthermore, if we choose a single representative element $MATH$ from every conjugacy class, we infer from the disjointness of the conjugacy classes that 
+where $MATH$ is the centralizer of the element $MATH$ Observing that each element of the center $MATH$ forms a conjugacy class containing just itself gives rise to the class equation:
+where the sum is over a representative element from each conjugacy class that is not in the center.
+Knowledge of the divisors of the group order $MATH$ can often be used to gain information about the order of the center or of the conjugacy classes.
+Example
+Consider a finite $MATH$-group $MATH$ (that is, a group with order $MATH$ where $MATH$ is a prime number and $MATH$). We are going to prove that every finite $MATH$-group has a non-trivial center.
+Since the order of any conjugacy class of $MATH$ must divide the order of $MATH$ it follows that each conjugacy class $MATH$ that is not in the center also has order some power of $MATH$ where $MATH$ But then the class equation requires that $MATH$ From this we see that $MATH$ must divide $MATH$ so $MATH$
+In particular, when $MATH$ then $MATH$ is an abelian group since any non-trivial group element is of order $MATH$ or $MATH$ If some element $MATH$ of $MATH$ is of order $MATH$ then $MATH$ is isomorphic to the cyclic group of order $MATH$ hence abelian. On the other hand, if every non-trivial element in $MATH$ is of order $MATH$ hence by the conclusion above $MATH$ then $MATH$ or $MATH$ We only need to consider the case when $MATH$ then there is an element $MATH$ of $MATH$ which is not in the center of $MATH$ Note that $MATH$ includes $MATH$ and the center which does not contain $MATH$ but at least $MATH$ elements.  Hence the order of $MATH$ is strictly larger than $MATH$ therefore $MATH$ therefore $MATH$ is an element of the center of $MATH$ a contradiction. Hence $MATH$ is abelian and in fact isomorphic to the direct product of two cyclic groups each of order $MATH$
+Conjugacy of subgroups and general subsets
+More generally, given any subset $MATH$ ($MATH$ not necessarily a subgroup), define a subset $MATH$ to be conjugate to $MATH$ if there exists some $MATH$ such that $MATH$ Let $MATH$ be the set of all subsets $MATH$ such that $MATH$ is conjugate to $MATH$
+A frequently used theorem is that, given any subset $MATH$ the index of $MATH$ (the normalizer of $MATH$) in $MATH$ equals the order of $MATH$:
+This follows since, if $MATH$ then $MATH$ if and only if $MATH$ in other words, if and only if $MATH$ are in the same coset of $MATH$
+By using $MATH$ this formula generalizes the one given earlier for the number of elements in a conjugacy class. 
+The above is particularly useful when talking about subgroups of $MATH$ The subgroups can thus be divided into conjugacy classes, with two subgroups belonging to the same class if and only if they are conjugate.
+Conjugate subgroups are isomorphic, but isomorphic subgroups need not be conjugate. For example, an abelian group may have two different subgroups which are isomorphic, but they are never conjugate.
+Geometric interpretation
+Conjugacy classes in the fundamental group of a path-connected topological space can be thought of as equivalence classes of free loops under free homotopy.
+Conjugacy class and irreducible representations in finite group
+In any finite group, the number of distinct (non-isomorphic) irreducible representations over the complex numbers is precisely the number of conjugacy classes.
+See also
+Notes

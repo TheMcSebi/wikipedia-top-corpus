@@ -1,0 +1,37 @@
+Euler's identity
+In mathematics, Euler's identity (also known as Euler's equation) is the equality
+where
+Euler's identity is named after the Swiss mathematician Leonhard Euler. It is a special case of Euler's formula $MATH$ when evaluated for x = π. Euler's identity is considered to be an exemplar of mathematical beauty as it shows a profound connection between the most fundamental numbers in mathematics. In addition, it is directly used in a proof that π is transcendental, which implies the impossibility of squaring the circle.
+Mathematical beauty
+Euler's identity is often cited as an example of deep mathematical beauty. Three of the basic arithmetic operations occur exactly once each: addition, multiplication, and exponentiation. The identity also links five fundamental mathematical constants:
+Furthermore, the equation is given in the form of an expression set equal to zero, which is common practice in several areas of mathematics.
+Stanford University mathematics professor Keith Devlin has said, "like a Shakespearean sonnet that captures the very essence of love, or a painting that brings out the beauty of the human form that is far more than just skin deep, Euler's equation reaches down into the very depths of existence". And Paul Nahin, a professor emeritus at the University of New Hampshire, who has written a book dedicated to Euler's formula and its applications in Fourier analysis, describes Euler's identity as being "of exquisite beauty".
+Mathematics writer Constance Reid has opined that Euler's identity is "the most famous formula in all mathematics". And Benjamin Peirce, a 19th-century American philosopher, mathematician, and professor at Harvard University, after proving Euler's identity during a lecture, stated that the identity "is absolutely paradoxical; we cannot understand it, and we don't know what it means, but we have proved it, and therefore we know it must be the truth".
+A poll of readers conducted by The Mathematical Intelligencer in 1990 named Euler's identity as the "most beautiful theorem in mathematics". In another poll of readers that was conducted by Physics World in 2004, Euler's identity tied with Maxwell's equations (of electromagnetism) as the "greatest equation ever".
+At least three books in popular mathematics have been published about Euler's identity:
+Explanations
+Imaginary exponents
+Fundamentally, Euler's identity asserts that $MATH$ is equal to −1. The expression $MATH$ is a special case of the expression $MATH$, where z is any complex number. In general, $MATH$ is defined for complex z by extending one of the definitions of the exponential function from real exponents to complex exponents. For example, one common definition is:
+Euler's identity therefore states that the limit, as n approaches infinity, of $MATH$ is equal to −1. This limit is illustrated in the animation to the right.
+Euler's identity is a special case of Euler's formula, which states that for any real number x,
+where the inputs of the trigonometric functions sine and cosine are given in radians.
+In particular, when x = π,
+Since
+and
+it follows that
+which yields Euler's identity:
+Geometric interpretation
+Any complex number $MATH$ can be represented by the point $MATH$ on the complex plane. This point can also be represented in polar coordinates as $MATH$, where r is the absolute value of z (distance from the origin), and $MATH$ is the argument of z (angle counterclockwise from the positive x-axis). By the definitions of sine and cosine, this point has cartesian coordinates of $MATH$, implying that $MATH$. According to Euler's formula, this is equivalent to saying $MATH$.
+Euler's identity says that $MATH$. Since $MATH$ is $MATH$ for r = 1 and $MATH$, this can be interpreted as a fact about the number −1 on the complex plane: its distance from the origin is 1, and its angle from the positive x-axis is $MATH$ radians.
+Additionally, when any complex number z is multiplied by $MATH$, it has the effect of rotating z counterclockwise by an angle of $MATH$ on the complex plane. Since multiplication by −1 reflects a point across the origin, Euler's identity can be interpreted as saying that rotating any point $MATH$ radians around the origin has the same effect as reflecting the point across the origin.  Similarly, setting $MATH$ equal to $MATH$ yields the related equation $MATH$ which can be interpreted as saying that rotating any point by one turn around the origin returns it to its original position.
+Generalizations
+Euler's identity is also a special case of the more general identity that the nth roots of unity, for n > 1, add up to 0:
+Euler's identity is the case where n = 2.
+In another field of mathematics, by using quaternion exponentiation, one can show that a similar identity also applies to quaternions. Let {i, j, k} be the basis elements; then,
+In general, given real a1, a2, and a3 such that a12 + a22 + a32 = 1, then,
+For octonions, with real an such that a12 + a22 + ... + a72 = 1, and with the octonion basis elements {i1, i2, ..., i7},
+History
+While Euler's identity is a direct result of Euler's formula, published in his monumental work of mathematical analysis in 1748, Introductio in analysin infinitorum, it is questionable whether the particular concept of linking five fundamental constants in a compact form can be attributed to Euler himself, as he may never have expressed it.
+Robin Wilson states the following.
+See also
+Notes

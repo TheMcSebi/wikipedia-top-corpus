@@ -1,0 +1,60 @@
+Georgian language
+Georgian (ქართული ენა, romanized: kartuli ena, pronounced [kʰɑɾtʰuli ɛnɑ]) is the most widely-spoken Kartvelian language, and serves as the literary language or lingua franca for speakers of related languages. It is the official language of Georgia and the native or primary language of 87.6% of its population. Its speakers today number approximately four million.
+Classification
+No claimed genetic links between the Kartvelian languages and any other language family in the world are accepted in mainstream linguistics. Among the Kartvelian languages, Georgian is most closely related to the so-called Zan languages (Megrelian and Laz); glottochronological studies indicate that it split from the latter approximately 2700 years ago. Svan is a more distant relative that split off much earlier, perhaps 4000 years ago.
+Dialects
+Standard Georgian is largely based on the Kartlian dialect. Over the centuries it has exerted a strong influence on the other dialects, as a result of which they are all, for the most part, mutually intelligible with it and with each other.
+History
+The history of the Georgian language is conventionally divided into the following phases:
+The earliest extant references to Georgian are found in the writings of Marcus Cornelius Fronto, a Roman grammarian from the 2nd century AD. The first direct attestations of the language are inscriptions and palimpsests dating to the 5th century, and the oldest surviving literary work is the 5th century Martyrdom of the Holy Queen Shushanik by Iakob Tsurtaveli.
+The emergence of Georgian as a written language appears to have been the result of the Christianization of Georgia in the mid-4th century, which led to the replacement of Aramaic as the literary language.
+By the 11th century, Old Georgian had developed into Middle Georgian. The most famous work of this period is the epic poem The Knight in the Panther's Skin, written by Shota Rustaveli in the 12th century.
+In 1629 a certain Nikoloz Cholokashvili authored the first printed books written (partially) in Georgian, the Alphabetum Ibericum sive Georgianum cum Oratione and the Dittionario giorgiano e italiano. These were meant to help western Catholic missionaries learn Georgian for evangelical purposes.
+Phonology
+Consonants
+On the left are IPA symbols, and on the right are the corresponding letters of the modern Georgian alphabet, which is essentially phonemic.
+Former /qʰ/ (ჴ) has merged with /x/ (ხ), leaving only the latter.
+The glottalization of the ejectives is rather light, and in many romanization systems it is not marked, for transcriptions such as ejective p, t, ts, ch, k and q, against aspirated p‘, t‘, ts‘, ch‘ and k‘ (as in transcriptions of Armenian).
+The coronal occlusives (/tʰ tʼ d n/, not necessarily affricates) are variously described as apical dental, laminal alveolar, and "dental".
+Vowels
+Per Canepari, the main realizations of the vowels are [i], [e̞], [ä], [o̞], [u].
+Aronson describes their realizations as [i̞], [e̞], [ä] (but "slightly fronted"), [o̞], [u̞].
+Shosted transcribed one speaker's pronunciation more-or-less consistently with [i], [ɛ], [ɑ], [ɔ], [u].
+Allophonically, [ə] may be inserted to break up consonant clusters, as in /dɡas/ [dəɡäs].
+Prosody
+Prosody in Georgian involves stress, intonation, and rhythm.  Stress is very weak, and linguists disagree as to where stress occurs in words.  Jun, Vicenik, and Lofstedt have proposed that Georgian stress and intonation are the result of pitch accents on the first syllable of a word and near the end of a phrase.
+Phonotactics
+Georgian contains many "harmonic clusters" involving two consonants of a similar type (voiced, aspirated, or ejective) which are pronounced with only a single release; e.g. ბგერა bgera (sound), ცხოვრება tskhovreba (life), and წყალი ts'q'ali (water). There are also frequent consonant clusters, sometimes involving more than six consonants in a row, as may be seen in words like გვფრცქვნი gvprtskvni ("you peel us") and მწვრთნელი mts'vrtneli ("trainer").
+Vicenik has observed that Georgian vowels following ejective stops have creaky voice and suggests this may be one cue distinguishing ejectives from their aspirated and voiced counterparts.
+Writing system
+Georgian has been written in a variety of scripts over its history. Currently the Mkhedruli script is almost completely dominant; the others are used mostly in religious documents and architecture.
+Mkhedruli has 33 letters in common use; a half dozen more are obsolete in Georgian, though still used in other alphabets, like Mingrelian, Laz, and Svan. The letters of Mkhedruli correspond closely to the phonemes of the Georgian language.
+According to the traditional account written down by Leonti Mroveli in the 11th century, the first Georgian script was created by the first ruler of the Kingdom of Iberia, Pharnavaz, in the 3rd century BC. However, the first examples of a Georgian script date from the 5th century AD. There are now three Georgian scripts, called Asomtavruli "capitals", Nuskhuri "small letters", and Mkhedruli. The first two are used together as upper and lower case in the writings of the Georgian Orthodox Church and together are called Khutsuri "priests' [alphabet]".
+In Mkhedruli, there is no case. Sometimes, however, a capital-like effect, called Mtavruli, "title" or "heading", is achieved by modifying the letters so that their vertical sizes are identical and they rest on the baseline with no descenders. These capital-like letters are often used in page headings, chapter titles, monumental inscriptions, and the like.
+Keyboard layout
+This is the Georgian standard keyboard layout. The standard Windows keyboard is essentially that of manual typewriters.
+Grammar
+Morphology
+Georgian is an agglutinative language. There are certain prefixes and suffixes that are joined together in order to build a verb. In some cases, there can be up to eight different morphemes in one verb at the same time. An example is ageshenebinat ("you (pl.) should have built (it)"). The verb can be broken down to parts: a-g-e-shen-eb-in-a-t. Each morpheme here contributes to the meaning of the verb tense or the person who has performed the verb. The verb conjugation also exhibits polypersonalism; a verb may potentially include morphemes representing both the subject and the object.
+Morphophonology
+In Georgian morphophonology, syncope is a common phenomenon. When a suffix (especially the plural suffix -eb-) is attached to a word which has either of the vowels a or e in the last syllable, this vowel is, in most words, lost. For example, megobari means "friend". To say "friends", one says megobrebi (megobØrebi), with the loss of a in the last syllable of the word stem.
+Inflection
+Georgian has seven noun cases: nominative, ergative, dative, genitive, instrumental, adverbial and vocative. An interesting feature of Georgian is that, while the subject of a sentence is generally in the nominative case and the object is in the accusative case (or dative), one can find this reversed in many situations (this depends mainly on the character of the verb). This is called the dative construction. In the past tense of the transitive verbs, and in the present tense of the verb "to know", the subject is in the ergative case.
+Syntax
+Vocabulary
+Georgian has a rich word-derivation system. By using a root, and adding some definite prefixes and suffixes, one can derive many nouns and adjectives from the root. For example, from the root -kart-, the following words can be derived: Kartveli (a Georgian person), Kartuli (the Georgian language) and Sakartvelo (Georgia).
+Most Georgian surnames end in -dze ("son") (Western Georgia), -shvili ("child") (Eastern Georgia), -ia (Western Georgia, Samegrelo), -ani (Western Georgia, Svaneti), -uri (Eastern Georgia), etc.  The ending -eli is a particle of nobility, comparable to French de, German von or Polish -ski.
+Georgian has a vigesimal numeric system like Basque or (partially) French.  Numbers greater than 20 and less than 100 are described as the sum of the greatest possible multiple of 20 plus the remainder. For example, "93" literally translates as "four times twenty plus thirteen" (ოთხმოცდაცამეტი - otkhmotsdatsamet'i).
+One of the most important Georgian dictionaries is the Explanatory dictionary of the Georgian language (Georgian: ქართული ენის განმარტებითი ლექსიკონი). It consists of eight volumes and about 115,000 words. It was produced between 1950 and 1964, by a team of linguists under the direction of Arnold Chikobava.
+Examples
+Word formations
+Georgian has a word derivation system, which allows the derivation of nouns from verb roots both with prefixes and suffixes, for example:
+It is also possible to derive verbs from nouns:
+Likewise, verbs can be derived from adjectives, for example:
+Words that begin with multiple consonants
+In Georgian many nouns and adjectives begin with two or more contiguous consonants. This is because syllables in the language often begin with two consonants. Recordings are available on the relevant Wiktionary entries, linked to below.
+Language example
+Article 1 of the Universal Declaration of Human Rights in Georgian:
+ყველა ადამიანი იბადება თავისუფალი და თანასწორი თავისი ღირსებითა და უფლებებით. მათ მინიჭებული აქვთ გონება და სინდისი და ერთმანეთის მიმართ უნდა იქცეოდნენ ძმობის სულისკვეთებით.
+q'vela adamiani ibadeba tavisupali da tanasts'ori tavisi ghirsebita da uplebebit. mat minich'ebuli akvt goneba da sindisi da ertmanetis mimart unda iktseodnen dzmobis sulisk'vetebit.
+All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.

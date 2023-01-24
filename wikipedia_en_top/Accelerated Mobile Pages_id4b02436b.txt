@@ -1,0 +1,61 @@
+Accelerated Mobile Pages
+AMP (originally an acronym for Accelerated Mobile Pages) is an open source HTML framework developed by the AMP Open Source Project. It was originally created by Google as a competitor to Facebook Instant Articles and Apple News. AMP is optimized for mobile web browsing and intended to help webpages load faster. AMP pages may be cached by a CDN, such as Microsoft Bing or Cloudflare's AMP caches, which allows pages to be served more quickly.
+AMP was first announced on October 7, 2015. After a technical preview period, AMP pages began appearing in Google mobile search results in February 2016. AMP has been criticized for potentially giving further control over the web to Google and other concerns. The AMP Project announced it would move to an open governance model on September 18, 2018.
+History
+Announcement and launch
+The AMP Project was announced by Google on October 7, 2015, following discussions with its partners in the Digital News Initiative (DNI), and other news publishers and technology companies around the world, about improving the performance of the mobile web. More than 30 news publishers and several technology companies (including Twitter, Pinterest, LinkedIn and WordPress) were initially announced as collaborators in the AMP Project.
+AMP pages first appeared to web users in February 2016, when Google began to show the AMP versions of webpages in mobile search results. Initially links to AMP pages were restricted to a "Top Stories" section of Google's mobile search results; by September 2016 Google started linking to AMP content in the main mobile search results area. At the time, Google search distinguished AMP links with an icon.
+According to one of the co-founders of the AMP Project, Malte Ubl, AMP was originally called PCU, which stood for Portable Content Unit.
+Growth and expansion
+In September 2016, Microsoft announced support for AMP in the Bing apps for iOS and Android.
+In February 2017, a year after the public launch of AMP, Adobe reported AMP pages accounted for 7% of all web traffic for top publishers in the United States.
+In May 2017, Google reported 900,000 web domains were publishing AMP pages with more than two billion AMP pages published globally.
+In June 2017, Twitter started linking to AMP pages from its iOS and Android apps.
+In September 2018, Microsoft began rolling out its own Bing AMP viewer and AMP cache.
+On December 7, 2018, AMP announced their official WordPress plugin, which allowed WordPress websites to include AMP-ready pages.
+As announced by AMP's tech lead Malte Ubl at AMP Conf '19, AMP is now just AMP, and does not stand for Accelerated Mobile Pages anymore. AMP is designed to be mobile friendly but isn't just for mobile. It works across many device types, including desktop and tablet, and comes with helpful responsive design features.
+Other developments
+Starting in 2021, support for AMP is being discontinued in some apps. In November, Twitter updated its developer guidelines to say that "We’re in the process of discontinuing support for this feature"; the Twitter mobile apps for Android and iOS simply load the non-AMP versions of webpages. In April 2021, Google removed AMP as an SEO criterion in favor of page loading speed and other "page experience" metrics. In search results, the Top Stories list will no longer be restricted to AMP pages, and AMP pages will no longer be distinguished by an icon.
+On April 20, 2022, Brave Browser rolled out new features to automatically bypass AMP pages. Also on the same day, DuckDuckGo announced that they will also automatically bypass AMP pages on their DuckDuckGo browser and on their DuckDuckGo Privacy Essentials browser extension.
+AMP Framework
+AMP HTML
+The AMP framework consists of three components: 
+AMP HTML, which is standard HTML markup with web components; 
+AMP JavaScript, which manages resource loading; and AMP caches, which serve and validate AMP pages.
+Most AMP pages are delivered by Google's AMP cache, but other companies can support AMP caches.  Internet performance and security company Cloudflare launched an AMP cache in March 2017.
+Web Stories
+Web Stories, known as AMP Stories until April 2020, were introduced in 2018. Web stories are a mobile-focused format for delivering news and information as tap-through stories.
+AMP Email
+In 2018, Google announced the new AMP Email section of the AMP framework. AMP for email allows senders to include interactive AMP components inside emails. Email clients that support AMP are able to display components directly inside the email. When viewed in an unsupported email client, AMP emails display fallback HTML no different than a standard HTML email as an alternative.
+AMP Ads
+AMP Ads are new way to deliver digital ads for AMP enabled pages. These ads are different from traditional HTML/JavaScript ads. AMPHTML ads load as fast as content, increasing viewability and enticing engagement. AMPHTML ads are only delivered after being validated, ensuring that the ads are free of malware.
+Technology
+Online format
+AMP pages are published online and can be displayed in most current browsers. When a standard webpage has an AMP counterpart, a link to the AMP page is usually placed in an HTML tag in the source code of the standard page.
+Third-party integration
+Any organization or individual can build products or features which will work on AMP pages, provided they comply with the AMP Project specifications. As of July 2017, the AMP Project's website listed around 120 advertising companies and around 30 analytics companies as AMP Project participants.
+Performance
+Google reports that AMP pages served in Google search typically load in less than one second and use ten times less data than the equivalent non-AMP pages. CNBC reported a 75% decrease in mobile page load time for AMP Pages over non-AMP pages, while Gizmodo reported that AMP pages loaded three times faster than non-AMP pages.
+An academic paper about AMP reveals that AMP pages' page load time is 2.5 times faster than non-AMP versions in Google's search result page without pre-rendering. With pre-rendering, the AMP version is approximately nine times faster than the non-AMP version, though pre-rendering may consume additional mobile data.
+Parity with canonical pages
+Google has announced that as of February 1, 2018, it will require the content of canonical pages and those displayed through AMP be substantially the same. This is aimed at improving the experience of users by avoiding common difficulties with the user interface, and increase security and trust (see below).
+Reception
+Comparison to other formats
+AMP is often compared to Facebook Instant Articles and Apple News. All three formats were announced in 2015 with the stated goal of making mobile content faster and easier to consume. AMP Project supporters claim that AMP is a collaborative effort among publishers and technology companies, and that AMP is designed to work on the web instead of proprietary mobile apps.
+Google control
+Google's Richard Gingras said:
+However, some critics believe that AMP is an impending walled garden as Google begins to host AMP-restricted versions of their websites directly on google.com:
+AMP has been criticized by figures inside the tech industry as an attempt by Google to exert its dominance on the web by dictating how websites are built and monetized, and that "AMP is Google's attempt to lock publishers into its ecosystem".
+Joshua Benton, director of the Nieman Journalism Lab at Harvard University, said: "There is a sense in which AMP is a Google-built version of the web. We are moving from a world where you can put anything on your website to one where you can't because Google says so." Ramon Tremosa, a Spanish member of the European Parliament, said: "AMP is an example of Google dialing up its anti-competitive practices under the nose of the competition regulators."
+Matthew Ingram of Fortune expressed concerns about Google's role and motives regarding the AMP Project:
+These charges were rebutted by Google. Madhav Chinnappa stated that AMP must be a collaborative industry initiative in order for it to succeed in the long term:
+In September 2018, Google began transitioning AMP to a more open governance model with governing committees composed of different stakeholders in the project, ranging from publishers that use AMP including The Washington Post and Axios to other companies such as Microsoft and Twitter.
+Pre-rendering problems
+Some AMP implementations such as Google search results use pre-rendering to improve loading speeds of AMP pages. As in other cases where pre-rendering is used, this is out of the user's control and may increase data usage.
+Monetization
+Some publishers reported that AMP pages generate less advertising revenue per page than non-AMP pages. The Wall Street Journal's Jack Marshall said:
+Other publishers have reported better success with AMP monetization. The Washington Post has been able to generate approximately the same amount of revenue from AMP pages as from standard mobile pages, according to director of product Joey Marburger. CNN chief product officer Alex Wellen said AMP Pages "largely monetize at the same rate" as standard mobile pages.
+To improve advertising performance, the AMP Project launched the AMP Ads Initiative which includes support for more advertising formats and optimizations to improve ad load speed.
+Exploitation for malicious purposes
+Some observers believe AMP allows more effective phishing attempts. One serious flaw, noted by tech writer Kyle Chayka, is that disreputable parties who misuse AMP (as well as Facebook's similar Instant Articles) enable junk websites to share many of the same visual cues and features found on legitimate sites. Chayka stated that "All publishers end up looking more similar than different. That makes separating the real from the fake even harder."
+In September 2017, Russian hackers used an AMP vulnerability in phishing e-mails sent to investigative journalists critical of the Russian government, and hacked into their websites. Google announced on November 16, 2017, that it would prevent sites in Google search results from exploiting AMP to bait-and-switch users. Since February 2018, AMP pages in Google search results must contain content equivalent to that of the non-AMP page.

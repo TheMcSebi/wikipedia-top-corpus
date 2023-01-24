@@ -1,0 +1,72 @@
+Imaginary unit
+The imaginary unit or unit imaginary number (i) is a solution to the quadratic equation $MATH$. Although there is no real number with this property, i can be used to extend the real numbers to what are called complex numbers, using addition and multiplication. A simple example of the use of i in a complex number is $MATH$.
+Imaginary numbers are an important mathematical concept; they extend the real number system $MATH$ to the complex number system $MATH$, in which at least one root for every nonconstant polynomial exists (see Algebraic closure and Fundamental theorem of algebra). Here, the term "imaginary" is used because there is no real number having a negative square.
+There are two complex square roots of −1: i and $MATH$, just as there are two complex square roots of every real number other than zero (which has one double square root).
+In contexts in which use of the letter i is ambiguous or problematic, the letter j or the Greek $MATH$ is sometimes used instead. For example, in electrical engineering and control systems engineering, the imaginary unit is normally denoted by j instead of i, because i is commonly used to denote electric current.
+Definition
+The imaginary number i is defined solely by the property that its square is −1:
+With i defined this way, it follows directly from algebra that i and $MATH$ are both square roots of −1.
+Although the construction is called "imaginary", and although the concept of an imaginary number may be intuitively more difficult to grasp than that of a real number, the construction is perfectly valid from a mathematical standpoint. Real number operations can be extended to imaginary and complex numbers, by treating i as an unknown quantity while manipulating an expression (and using the definition to replace any occurrence of $MATH$ with −1). Higher integral powers of i can also be replaced with $MATH$, 1, i, or −1:
+ or, equivalently, 
+Similarly, as with any non-zero real number:
+As a complex number, i is represented in rectangular form as $MATH$, with a zero real component and a unit imaginary component. In polar form, i is represented as $MATH$ (or just $MATH$), with an absolute value (or magnitude) of 1 and an argument (or angle) of $MATH$. In the complex plane (also known as the Argand plane), which is a special interpretation of a Cartesian plane, i is the point located one unit from the origin along the imaginary axis (which is orthogonal to the real axis).
+i vs. −i
+ 
+Being a quadratic polynomial with no multiple root, the defining equation $MATH$ has two distinct solutions, which are equally valid and which happen to be additive and multiplicative inverses of each other. Once a solution i of the equation has been fixed, the value $MATH$, which is distinct from i, is also a solution. Since the equation is the only definition of i, it appears that the definition is ambiguous (more precisely, not well-defined). However, no ambiguity will result as long as one or other of the solutions is chosen and labelled as "i", with the other one then being labelled as $MATH$. After all, although $MATH$ and $MATH$ are not quantitatively equivalent (they are negatives of each other), there is no algebraic difference between $MATH$ and $MATH$, as both imaginary numbers have equal claim to being the number whose square is −1.
+In fact, if all mathematical textbooks and published literature referring to imaginary or complex numbers were to be rewritten with $MATH$ replacing every occurrence of $MATH$ (and, therefore, every occurrence of $MATH$ replaced by $MATH$), all facts and theorems would remain valid. The distinction between the two roots x of $MATH$, with one of them labelled with a minus sign, is purely a notational relic; neither root can be said to be more primary or fundamental than the other, and neither of them is "positive" or "negative".
+The issue can be a subtle one. One way of articulating the situation is that although the complex field is unique (as an extension of the real numbers) up to isomorphism, it is not unique up to a unique isomorphism. Indeed, there are two field automorphisms of C that keep each real number fixed, namely the identity and complex conjugation.  For more on this general phenomenon, see Galois group.
+Matrices
+A similar issue arises if the complex numbers are interpreted as $MATH$ real matrices (see matrix representation of complex numbers), because then both
+ and 
+would be solutions to the matrix equation
+In this case, the ambiguity results from the geometric choice of which "direction" around the unit circle is "positive" rotation. A more precise explanation is to say that the automorphism group of the special orthogonal group SO(2, R) has exactly two elements: The identity and the automorphism which exchanges "CW" (clockwise) and "CCW" (counter-clockwise) rotations. For more, see orthogonal group.
+All these ambiguities can be solved by adopting a more rigorous definition of complex number, and by explicitly choosing one of the solutions to the equation to be the imaginary unit. For example, the ordered pair (0, 1), in the usual construction of the complex numbers with two-dimensional vectors.
+
+
+Consider the matrix equation 
+ Here, $MATH$, so the product xy is negative because $MATH$; thus, the point $MATH$ lies in quadrant II or IV. Furthermore,
+so $MATH$ is bounded by the hyperbola $MATH$.
+Proper use
+The imaginary unit is sometimes written $MATH$ in advanced mathematics contexts (as well as in less advanced popular texts). However, great care needs to be taken when manipulating formulas involving radicals. The radical sign notation is reserved either for the principal square root function, which is only defined for real $MATH$, or for the principal branch of the complex square root function. Attempting to apply the calculation rules of the principal (real) square root function to manipulate the principal branch of the complex square root function can produce false results:
+Similarly:
+The calculation rules
+and
+are only valid for real, positive values of a and b.
+These problems can be avoided by writing and manipulating expressions like $MATH$, rather than $MATH$. For a more thorough discussion, see square root and branch point.
+Properties
+Square roots
+Just like all nonzero complex numbers, i has two square roots: they are
+Indeed, squaring both expressions yields:
+Using the radical sign for the principal square root, we get:
+Cube roots
+The three cube roots of i are:
+Similar to all the roots of 1, all the roots of i are the vertices of regular polygons, which are inscribed within the unit circle in the complex plane.
+Multiplication and division
+Multiplying a complex number by i gives:
+(This is equivalent to a 90° counter-clockwise rotation of a vector about the origin in the complex plane.)
+Dividing by i is equivalent to multiplying by the reciprocal of i:
+Using this identity to generalize division by i to all complex numbers gives:
+(This is equivalent to a 90° clockwise rotation of a vector about the origin in the complex plane.)
+Powers
+The powers of i repeat in a cycle expressible with the following pattern, where n is any integer:
+This leads to the conclusion that
+where mod represents the modulo operation.  Equivalently:
+i raised to the power of i
+Making use of Euler's formula, $MATH$ is
+where k ∈ Z, the set of integers.
+The principal value (for $MATH$) is $MATH$, or approximately 0.207879576.
+Factorial
+The factorial of the imaginary unit i is most often given in terms of the gamma function evaluated at $MATH$:
+Also,
+Other operations
+Many mathematical operations that can be carried out with real numbers can also be carried out with i, such as exponentiation, roots, logarithms, and trigonometric functions. All of the following functions are complex multi-valued functions, and it should be clearly stated which branch of the Riemann surface the function is defined on in practice. Listed below are results for the most commonly chosen branch.
+A number raised to the ni power is:
+The nith root of a number is:
+The imaginary-base logarithm of a number is:
+As with any complex logarithm, the log base i is not uniquely defined.
+The cosine of i is a real number:
+And the sine of i is purely imaginary:
+See also
+Notes
+References
+Further reading

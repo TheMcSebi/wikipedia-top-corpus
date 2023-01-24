@@ -1,0 +1,66 @@
+Solid angle
+In geometry, a solid angle (symbol: Ω) is a measure of the amount of the field of view from some particular point that a given object covers. That is, it is a measure of how large the object appears to an observer looking from that point.
+The point from which the object is viewed is called the apex of the solid angle, and the object is said to subtend its solid angle at that point.
+In the International System of Units (SI), a solid angle is expressed in a dimensionless unit called a steradian (symbol: sr). One steradian corresponds to one unit of area on the unit sphere surrounding the apex, so an object that blocks all rays from the apex would cover a number of steradians equal to the total surface area of the unit sphere, $MATH$. Solid angles can also be measured in squares of angular measures such as degrees, minutes, and seconds.
+A small object nearby may subtend the same solid angle as a larger object farther away. For example, although the Moon is much smaller than the Sun, it is also much closer to Earth. Indeed, as  viewed from any point on Earth, both objects have approximately the same solid angle as well as apparent size. This is evident during a solar eclipse.
+Definition and properties
+An object's solid angle in steradians is equal to the area of the segment of a unit sphere, centered at the apex, that the object covers. Giving the area of a segment of a unit sphere in steradians is analogous to giving the length of an arc of a unit circle in radians. Just like a planar angle in radians is the ratio of the length of an arc to its radius, a solid angle in steradians is the ratio of the area covered on a sphere by an object to the area given by the square of the radius of said sphere. The formula is 
+where A is the spherical surface area and r is the radius of the considered sphere.
+Solid angles are often used in astronomy, physics, and in particular astrophysics. The solid angle of an object that is very far away is roughly proportional to the ratio of area to squared distance. Here "area" means the area of the object when projected along the viewing direction.
+The solid angle of a sphere measured from any point in its interior is 4π sr, and the solid angle subtended at the center of a cube by one of its faces is one-sixth of that, or 2π/3 sr. Solid angles can also be measured in square degrees (1 sr = (180/π)2 square degrees), in square minutes and square seconds, or in fractions of the sphere (1 sr = 1/4π fractional area), also known as spat (1 sp = 4π sr).
+In spherical coordinates there is a formula for the differential,
+where θ is the colatitude (angle from the North Pole) and φ is the longitude.
+The solid angle for an arbitrary oriented surface S subtended at a point P is equal to the solid angle of the projection of the surface S to the unit sphere with center P, which can be calculated as the surface integral:
+where $MATH$ is the unit vector corresponding to $MATH$, the position vector of an infinitesimal area of surface dS with respect to point P, and where $MATH$ represents the unit normal vector to dS. Even if the projection on the unit sphere to the surface S is not isomorphic, the multiple folds are correctly considered according to the surface orientation described by the sign of the scalar product $MATH$.
+Thus one can approximate the solid angle subtended by a small facet having flat surface area dS, orientation $MATH$, and distance r from the viewer as:
+where the surface area of a sphere is A = 4πr2.
+Practical applications
+Solid angles for common objects
+Cone, spherical cap, hemisphere
+The solid angle of a cone with its apex at the apex of the solid angle, and with apex angle 2θ, is the area of a spherical cap on a unit sphere
+For small θ such that cos θ ≈ 1 − θ2/2 this reduces to πθ2, the area of a circle.
+The above is found by computing the following double integral using the unit surface element in spherical coordinates:
+This formula can also be derived without the use of calculus. Over 2200 years ago Archimedes proved that the surface area of a spherical cap is always equal to the area of a circle whose radius equals the distance from the rim of the spherical cap to the point where the cap's axis of symmetry intersects the cap. In the diagram this radius is given as
+Hence for a unit sphere the solid angle of the spherical cap is given as
+
+When θ = π/2, the spherical cap becomes a hemisphere having a solid angle 2π.
+The solid angle of the complement of the cone is
+This is also the solid angle of the part of the celestial sphere that an astronomical observer positioned at latitude θ can see as the Earth rotates. At the equator all of the celestial sphere is visible; at either pole, only one half.
+The solid angle subtended by a segment of a spherical cap cut by a plane at angle γ from the cone's axis and passing through the cone's apex can be calculated by the formula
+For example, if γ = −θ, then the formula reduces to the spherical cap formula above: the first term becomes π, and the second π cos θ.
+Tetrahedron
+Let OABC be the vertices of a tetrahedron with an origin at O subtended by the triangular face ABC where $MATH$ are the vector positions of the vertices A, B and C. Define the vertex angle θa to be the angle BOC and define θb, θc correspondingly. Let $MATH$ be the dihedral angle between the planes that contain the tetrahedral faces OAC and OBC and define $MATH$, $MATH$ correspondingly. The solid angle Ω subtended by the triangular surface ABC is given by
+This follows from the theory of spherical excess and it leads to the fact that there is an analogous theorem to the theorem that "The sum of internal angles of a planar triangle is equal to π", for the sum of the four internal solid angles of a tetrahedron as follows:
+where $MATH$ ranges over all six of the dihedral angles between any two planes that contain the tetrahedral faces OAB, OAC, OBC and ABC.
+A useful formula for calculating the solid angle of the tetrahedron at the origin O that is purely a function of the vertex angles θa, θb, θc is given by L'Huilier's theorem as
+where
+Another interesting formula involves expressing the vertices as vectors in 3 dimensional space. Let $MATH$ be the vector positions of the vertices A, B and C, and let a, b, and c be the magnitude of each vector (the origin-point distance). The solid angle Ω subtended by the triangular surface ABC is:
+where
+denotes the scalar triple product of the three vectors and $MATH$ denotes the scalar product.
+Care must be taken here to avoid negative or incorrect solid angles. One source of potential errors is that the scalar triple product can be negative if a, b, c have the wrong winding. Computing  is a sufficient solution since no other portion of the equation depends on the winding. The other pitfall arises when the scalar triple product is positive but the divisor is negative. In this case returns a negative value that must be increased by π.
+Pyramid
+The solid angle of a four-sided right rectangular pyramid with apex angles a and b (dihedral angles measured to the opposite side faces of the pyramid) is
+If both the side lengths (α and β) of the base of the pyramid and the distance (d) from the center of the base rectangle to the apex of the pyramid (the center of the sphere) are known, then the above equation can be manipulated to give
+The solid angle of a right n-gonal pyramid, where the pyramid base is a regular n-sided polygon of circumradius r, with a 
+pyramid height h is
+The solid angle of an arbitrary pyramid with an n-sided base defined by the sequence of unit vectors representing edges {s1, s2}, ... sn can be efficiently computed by:
+where parentheses (* *) is a scalar product and square brackets [* * *] is a scalar triple product, and i is an imaginary unit. Indices are cycled: s0 = sn and s1 = sn + 1.  The complex products add the phase associated with each vertex angle of the polygon.  However, a multiple of
+$MATH$ is lost in the branch cut of $MATH$ and must be kept track of separately.  Also, the running product of complex phases must scaled occasionally to avoid underflow in the limit of nearly parallel segments.
+Latitude-longitude rectangle
+The solid angle of a latitude-longitude rectangle on a globe is
+where φN and φS are north and south lines of latitude (measured from the equator in radians with angle increasing northward), and θE and θW are east and west lines of longitude (where the angle in radians increases eastward). Mathematically, this represents an arc of angle ϕN − ϕS swept around a sphere by θE − θW radians. When longitude spans 2π radians and latitude spans π radians, the solid angle is that of a sphere.
+A latitude-longitude rectangle should not be confused with the solid angle of a rectangular pyramid. All four sides of a rectangular pyramid intersect the sphere's surface in great circle arcs. With a latitude-longitude rectangle, only lines of longitude are great circle arcs; lines of latitude are not.
+Celestial objects
+By using the definition of angular diameter, the formula for the solid angle of a celestial object can be defined in terms of the radius of the object, $MATH$, and the distance from the observer to the object, $MATH$:
+By inputting the appropriate average values for the Sun and the Moon (in relation to Earth), the average solid angle of the Sun is 6.794×10−5 steradians and the average solid angle of the Moon is 6.418×10−5 steradians. In terms of the total celestial sphere, the Sun and the Moon subtend average fractional areas of 0.0005406% (5.406 ppm) and 0.0005107% (5.107 ppm), respectively. As these solid angles are about the same size, the Moon can cause both total and annular solar eclipses depending on the distance between the Earth and the Moon during the eclipse.
+Solid angles in arbitrary dimensions
+The solid angle subtended by the complete (d − 1)-dimensional spherical surface of the unit sphere in d-dimensional Euclidean space can be defined in any number of dimensions d. One often needs this solid angle factor in calculations with spherical symmetry. It is given by the formula
+where Γ is the gamma function. When d is an integer, the gamma function can be computed explicitly. It follows that
+This gives the expected results of 4π steradians for the 3D sphere bounded by a surface of area 4πr2 and 2π radians for the 2D circle bounded by a circumference of length 2πr. It also gives the slightly less obvious 2 for the 1D case, in which the origin-centered  1D "sphere" is the interval [−r, r] and this is bounded by two limiting points.
+The counterpart to the vector formula in arbitrary dimension was derived by Aomoto
+and independently by Ribando. It expresses them as an infinite multivariate Taylor series:
+Given d unit vectors $MATH$ defining the angle, let V denote the matrix formed by combining them so the ith column is $MATH$, and $MATH$. The variables $MATH$ form a multivariable $MATH$. For a "congruent" integer multiexponent $MATH$ define $MATH$. Note that here $MATH$ = non-negative integers, or natural numbers beginning with 0. The notation $MATH$ for $MATH$ means the variable $MATH$, similarly for the exponents $MATH$. 
+Hence, the term $MATH$ means the sum over all terms in $MATH$ in which l appears as either the first or second index.
+Where this series converges, it converges to the solid angle defined by the vectors.
+References
+Further reading

@@ -1,0 +1,32 @@
+Magnesium oxide
+
+
+Magnesium oxide (MgO), or magnesia, is a white hygroscopic solid mineral that occurs naturally as periclase and is a source of magnesium (see also oxide). It has an empirical formula of MgO and consists of a lattice of Mg2+ ions and O2− ions held together by ionic bonding. Magnesium hydroxide forms in the presence of water (MgO + H2O → Mg(OH)2), but it can be reversed by heating it to remove moisture.
+Magnesium oxide was historically known as magnesia alba (literally, the white mineral from Magnesia), to differentiate it from magnesia negra, a black mineral containing what is now known as manganese.
+Related oxides
+While "magnesium oxide" normally refers to MgO, the compound magnesium peroxide MgO2 is also known. According to evolutionary crystal structure prediction, MgO2 is thermodynamically stable at pressures above 116 GPa (gigapascals), and a semiconducting suboxide Mg3O2 is thermodynamically stable above 500 GPa. Because of its stability, MgO is used as a model system for investigating vibrational properties of crystals.
+Electric properties
+Pure MgO is not conductive and has a high resistance to electric current at room temperature. The pure powder of MgO has a relative permittivity inbetween 3.2 to 9.9 $MATH$ with an approximate dielectric loss of tan(δ) > 2.16x103 at 1kHz.
+Production
+Magnesium oxide is produced by the calcination of magnesium carbonate or magnesium hydroxide.  The latter is obtained by the treatment of magnesium chloride MgCl2 solutions, typically seawater, with limewater or milk of lime.
+Calcining at different temperatures produces magnesium oxide of different reactivity. High temperatures 1500 – 2000 °C diminish the available surface area and produces dead-burned (often called dead burnt) magnesia, an unreactive form used as a refractory. Calcining temperatures 1000 – 1500 °C produce hard-burned magnesia, which has limited reactivity and calcining at lower temperature, (700–1000 °C) produces light-burned magnesia, a reactive form, also known as caustic calcined magnesia.  Although some decomposition of the carbonate to oxide occurs at temperatures below 700 °C, the resulting materials appears to reabsorb carbon dioxide from the air.
+Applications
+Heating elements
+MgO is prized as a refractory material, i.e. a solid that is physically and chemically stable at high temperatures. It has two useful attributes: high thermal conductivity and low electrical conductivity. Filling the spiral Calrod range top heating elements on kitchen electric stoves is a major use. "By far the largest consumer of magnesia worldwide is the refractory industry, which consumed about 56% of the magnesia in the United States in 2004, the remaining 44% being used in agricultural, chemical, construction, environmental, and other industrial applications." MgO is used as a basic refractory material for crucibles.
+Fireproofing
+It is a principal fireproofing ingredient in construction materials. As a construction material, magnesium oxide wallboards have several attractive characteristics: fire resistance, termite resistance, moisture resistance, mold and mildew resistance, and strength.
+Gas mantles
+Most gas mantles utilize magnesium oxide.  Early iterations such as the Clamond basket used only this.  Later versions use ~60% magnesium oxide, with other components such as lanthanum oxide or yttrium oxide making up the rest.  Another exception would be thoriated gas mantles.
+Niche uses
+MgO is one of the components in Portland cement in dry process plants.
+Magnesium oxide is used extensively in the soil and groundwater remediation, wastewater treatment, drinking water treatment, air emissions treatment, and waste treatment industries for its acid buffering capacity and related effectiveness in stabilizing dissolved heavy metal species.
+Many heavy metals species, such as lead and cadmium are most soluble in water at acidic pH (below 6) as well as high pH (above 11). Solubility of metals affects bioavailability of the species and mobility soil and groundwater systems. Most metal species are toxic to humans at certain concentrations, therefore it is imperative to minimize metal bioavailability and mobility.
+Granular MgO is often blended into metals-contaminated soil or waste material, which is also commonly of a low pH (acidic), in order to drive the pH into the 8–10 range where most metals are at their lowest solubilities (basic).  Metal-hydroxide complexes have a tendency to precipitate out of aqueous solution in the pH range of 8–10. MgO is widely regarded as the most effective metals stabilization compound when compared to Portland cement, lime, kiln dust products, power generation waste products, and various proprietary products due to MgO's superior buffering capacity, cost effectiveness, and ease/safety of handling.
+Most, if not all products that are marketed as metals stabilization technologies create very high pH conditions in aquifers whereas MgO creates an ideal aquifer condition with a pH of 8–10.  Additionally, magnesium, an essential element to most biological systems, is provided to soil and groundwater microbial populations during MgO-assisted metals remediation as an added benefit.
+Medical
+Magnesium oxide is used for relief of heartburn and indigestion, as an antacid, magnesium supplement, and as a short-term laxative. It is also used to improve symptoms of indigestion. Side effects of magnesium oxide may include nausea and cramping. In quantities sufficient to obtain a laxative effect, side effects of long-term use may rarely cause enteroliths to form, resulting in bowel obstruction.
+Other
+Precautions
+Inhalation of magnesium oxide fumes can cause metal fume fever.
+See also
+Notes

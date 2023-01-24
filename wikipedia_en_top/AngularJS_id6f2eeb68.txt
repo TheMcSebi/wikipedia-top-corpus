@@ -1,0 +1,43 @@
+AngularJS
+AngularJS is a discontinued free and open-source JavaScript-based web framework for developing single-page applications. It was maintained mainly by Google and a community of individuals and corporations. It aimed to simplify both the development and the testing of such applications by providing a framework for client-side model–view–controller (MVC) and model–view–viewmodel (MVVM) architectures, along with components commonly used in web applications and progressive web applications.
+AngularJS was used as the frontend of the MEAN stack, that consisted of MongoDB database, Express.js web application server framework, AngularJS itself (or Angular), and Node.js server runtime environment.
+As of January 1, 2022, Google no longer updates AngularJS to fix security, browser compatibility, or jQuery issues. The Angular team recommends upgrading to Angular (v2+) as the best path forward, but they also provided some other options.
+Overview
+The AngularJS framework worked by first reading the HyperText Markup Language (HTML) page, which had additional custom HTML attributes embedded into it. Angular interpreted those attributes as directives to bind input or output parts of the page to a model that is represented by standard JavaScript variables. The values of those JavaScript variables could be manually set within the code or retrieved from static or dynamic JSON resources.
+AngularJS was built on the belief that declarative programming should be used to create user interfaces and connect software components, while imperative programming was better suited to defining an application's business logic. The framework adapted and extended traditional HTML to present dynamic content through two-way data-binding that allowed for the automatic synchronization of models and views. As a result, AngularJS de-emphasized explicit Document Object Model (DOM) manipulation with the goal of improving testability and performance.
+AngularJS's design goals included:
+AngularJS implemented the MVC pattern to separate presentation, data, and logic components. Using dependency injection, Angular brought traditionally server-side services, such as view-dependent controllers, to client-side web applications. Consequently, much of the burden on the server could be reduced.
+Scope
+AngularJS used the term "scope" in a manner akin to the fundamentals of computer science.
+Scope in computer science describes when in the program a particular binding is valid. The ECMA-262 specification defines scope as: a lexical environment in which a Function object is executed in client-side web scripts; akin to how scope is defined in lambda calculus.
+As a part of the "MVC" architecture, the scope forms the "Model", and all variables defined in the scope can be accessed by the "View" as well as the "Controller". The scope behaves as a glue and binds the "View" and the "Controller".
+Bootstrap
+The task performed by the AngularJS bootstrapper occurred in three phases after the DOM has been loaded:
+AngularJS directives allowed the developer to specify custom and reusable HTML-like elements and attributes that define data bindings and the behavior of presentation components. Some of the most commonly used directives were:
+Since ng-* attributes are not valid in HTML specifications, data-ng-* can also be used as a prefix. For example, both ng-app and data-ng-app are valid in AngularJS.
+Two-way data binding
+AngularJS two-way data binding had its most notable feature, largely relieving the server backend of templating responsibilities. Instead, templates were rendered in plain HTML according to data contained in a scope defined in the model. The $scope service in Angular detected changes to the model section and modified HTML expressions in the view via a controller. Likewise, any alterations to the view were reflected in the model. This circumvented the need to actively manipulate the DOM and encouraged bootstrapping and rapid prototyping of web applications.
+AngularJS detected changes in models by comparing the current values with values stored earlier in a process of dirty-checking, unlike Ember.js and Backbone.js that triggered listeners when the model values are changed.
+Development history
+AngularJS was originally developed in 2009 by Miško Hevery at Brat Tech LLC as the software behind an online JSON storage service, that would have been priced by the megabyte, for easy-to-make applications for the enterprise. This venture was located at the web domain "GetAngular.com", and had a few subscribers, before the two decided to abandon the business idea and release Angular as an open-source library.
+The 1.6 release added many of the concepts of Angular to AngularJS, including the concept of a component-based application architecture. This release among others removed the Sandbox, which many developers believed provided additional security, despite numerous vulnerabilities that had been discovered that bypassed the sandbox. The current (as of March 2020) stable release of AngularJS is 1.7.9
+In January 2018, a schedule was announced for phasing-out AngularJS: after releasing 1.7.0, the active development on AngularJS would continue till June 30, 2018. Afterwards, 1.7 was supported till December 31, 2021 as long-term support.
+Legacy browser support
+Versions 1.3 and later of AngularJS did not support Internet Explorer 8 or earlier. While AngularJS 1.2 supported IE8, its team does not.
+Angular and AngularDart
+Subsequent versions of AngularJS are simply called Angular. Angular is an incompatible TypeScript-based rewrite of AngularJS. Angular 4 was announced on 13 December 2016, skipping 3 to avoid a confusion due to the misalignment of the router package's version which was already distributed as v3.3.0.
+AngularDart works on Dart, which is an object-oriented, class defined, single inheritance programming language using C style syntax, that is different from Angular JS (which uses JavaScript) and Angular 2/ Angular 4 (which uses TypeScript). Angular 4 released in March 2017, with the framework's version aligned with the version number of the router it used. Angular 5 was released on November 1, 2017. Key improvements in Angular 5 include support for progressive Web apps, a build optimizer and improvements related to Material Design. Angular 6 was released on 3 May 2018, Angular 7 was released on 18 October 2018, and Angular 8 was released on May 28, 2019. 
+Angular follows Semantic Versioning standards, with each major version number indicating potentially breaking changes. Angular has pledged to provide 6 months of active support for each major version followed by 12 months of long term support. Major releases are bi-yearly with 1 to 3 minor releases for every major release.
+Angular Universal
+A normal Angular application executes in the browser, while Angular Universal generates static application pages on the server through server-side rendering (SSR).
+Libraries
+AngularJS Material
+AngularJS Material was a UI component library that implemented Material Design in AngularJS. The library provided a set of reusable, well-tested, and accessible UI components. In January 2022, the library was closed, as announced on their official website. The AngularJS Material library is a mature and stable product that is ready for production use and works only with AngularJS 1.x. The Angular Material library is available in the angular/material2 GitHub repository.
+Chrome extension
+In July 2012, the Angular team built an extension for the Google Chrome browser called Batarang, that improved the debugging experience for web applications built with Angular. The extension aimed to allow for easy detection of performance bottlenecks and offered a GUI for debugging applications. For a time during late 2014 and early 2015, the extension was not compatible with recent releases (after v1.2.x) of Angular. The last update made to this extension was on April 4, 2017.
+Performance
+AngularJS set out the paradigm of a digest cycle. This cycle could be considered a loop, during which AngularJS checked if there were any changes to all the variables watched by all the $scopes. If $scope.myVar is defined in a controller and this variable was marked for watching, Angular would monitor the changes on myVar in each loop iteration.
+This approach potentially led to slow rendering when AngularJS checked on too many variables in the $scope every cycle. Miško Hevery suggested keeping fewer than 2000 watchers on any page.
+See also
+References
+Further reading

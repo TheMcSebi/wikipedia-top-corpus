@@ -1,0 +1,41 @@
+Thionyl chloride
+Thionyl chloride is an inorganic compound with the chemical formula SOCl2. It is a moderately volatile, colourless liquid with an unpleasant acrid odour. Thionyl chloride is primarily used as a chlorinating reagent, with approximately 45,000 tonnes (50,000 short tons) per year being produced during the early 1990s, but is occasionally also used as a solvent. It is toxic, reacts with water, and is also listed under the Chemical Weapons Convention as it may be used for the production of chemical weapons.
+Thionyl chloride is sometimes confused with sulfuryl chloride, SO2Cl2, but the properties of these compounds differ significantly. Sulfuryl chloride is a source of chlorine whereas thionyl chloride is a source of chloride ions.
+Production
+The major industrial synthesis involves the reaction of sulfur trioxide and sulfur dichloride: This synthesis can be adapted to the laboratory by heating oleum to slowly distill the sulfur trioxide into a cooled flask of sulfur dichloride.
+Other methods include syntheses from: 
+The first of the above four reactions also affords phosphorus oxychloride (phosphoryl chloride), which resembles thionyl chloride in many of its reactions.
+Properties and structure
+SOCl2 adopts a trigonal pyramidal molecular geometry with Cs molecular symmetry. This geometry is attributed to the effects of the lone pair on the central sulfur(IV) center.
+In the solid state SOCl2 forms monoclinic crystals with the space group P21/c.
+Stability
+Thionyl chloride has a long shelf life, however "aged" samples develop a yellow hue, possibly due to the formation of disulfur dichloride. It slowly decomposes to S2Cl2, SO2 and Cl2 at just above the boiling point. Thionyl chloride is susceptible to photolysis, which primarily proceeds via a radical mechanism. Samples showing signs of ageing can be purified by distillation under reduced pressure, to give a colourless liquid.
+Reactions
+Thionyl chloride is mainly used in the industrial production of organochlorine compounds, which are often intermediates in pharmaceuticals and agrichemicals. It usually is preferred over other reagents, such as phosphorus pentachloride, as its by-products (HCl and SO2) are gaseous, which simplifies purification of the product.
+Many of the products of thionyl chloride are themselves highly reactive and as such it is involved in a wide range of reactions.
+With water and alcohols
+Thionyl chloride reacts exothermically with water to form sulfur dioxide and hydrochloric acid:
+By a similar process it also reacts with alcohols to form alkyl chlorides. If the alcohol is chiral the reaction generally proceeds via an SNi mechanism with retention of stereochemistry; however, depending on the exact conditions employed, stereo-inversion can also be achieved. Historically the use of SOCl2 with pyridine was called the Darzens halogenation, but this name is rarely used by modern chemists.
+Reactions with an excess of alcohol produce sulfite esters, which can be powerful methylation, alkylation and hydroxyalkylation reagents.
+For example, the addition of SOCl2 to amino acids in methanol selectively yields the corresponding methyl esters.
+With carboxylic acids
+Classically, it converts carboxylic acids to acyl chlorides:
+The reaction mechanism has been investigated:
+With nitrogen species
+With primary amines, thionyl chloride gives sulfinylamine derivatives (RNSO), one example being N-sulfinylaniline. Thionyl chloride reacts with primary formamides to form isocyanides and with secondary formamides to give chloroiminium ions; as such a reaction with dimethylformamide will form the Vilsmeier reagent.
+By an analogous process primary amides will react with thionyl chloride to form imidoyl chlorides, with secondary amides also giving chloroiminium ions. These species are highly reactive and can be used to catalyse the conversion of carboxylic acids to acyl chlorides, they are also exploited in the Bischler–Napieralski reaction as a means of forming isoquinolines.
+Primary amides will continue on to form nitriles if heated (Von Braun amide degradation).
+Thionyl chloride has also been used to promote the Beckmann rearrangement of oximes.
+With sulfur species
+With phosphorus species
+Thionyl chloride converts phosphonic acids and phosphonates into phosphoryl chlorides. It is for this type of reaction that thionyl chloride is listed as a Schedule 3 compound, as it can be used in the "di-di" method of producing G-series nerve agents. For example, thionyl chloride converts dimethyl methylphosphonate into methylphosphonic acid dichloride, which can be used in the production of sarin and soman.
+With metals
+As SOCl2 reacts with water it can be used to dehydrate various metal chloride hydrates, such magnesium chloride (MgCl2·6H2O), aluminium chloride (AlCl3·6H2O), and iron(III) chloride (FeCl3·6H2O). This conversion involves treatment with refluxing thionyl chloride and follows the following general equation:
+Other reactions
+Batteries
+Thionyl chloride is a component of lithium–thionyl chloride batteries, where it acts as the positive electrode (in batteries: cathode) with lithium forming the negative electrode (anode); the electrolyte is typically lithium tetrachloroaluminate. The overall discharge reaction is as follows:
+These non-rechargeable batteries had many advantages over other forms of lithium batteries such as a high energy density, a wide operational temperature range, and long storage and operational lifespans. However, their high cost, non-rechargeability, and safety concerns have limited their use. The contents of the batteries are highly toxic and require special disposal procedures; additionally, they may explode if shorted. The technology was used on the Sojourner Mars rover.
+Safety
+SOCl2 is highly reactive and can violently release hydrochloric acid upon contact with water and alcohols. It is also a controlled substance under the Chemical Weapons Convention, where it is listed as a Schedule 3 substance, since it is used in the "di-di" method of producing G-series nerve agents and the Meyer and Meyer–Clarke methods of producing sulfur-based mustard gases.
+History
+In 1849, the French chemists Jean-François Persoz and Bloch, and the German chemist Peter Kremers (1827-?), independently first synthesized thionyl chloride by reacting phosphorus pentachloride with sulfur dioxide.  However, their products were impure:  both Persoz and Kremers claimed that thionyl chloride contained phosphorus, and Kremers recorded its boiling point as 100 °C (instead of 74.6 °C).  In 1857, the German-Italian chemist Hugo Schiff subjected crude thionyl chloride to repeated fractional distillations and obtained a liquid which boiled at 82 °C and which he called Thionylchlorid.  In 1859, the German chemist Georg Ludwig Carius noted that thionyl chloride could be used to make acid anhydrides and acyl chlorides from carboxylic acids and to make alkyl chlorides from alcohols.

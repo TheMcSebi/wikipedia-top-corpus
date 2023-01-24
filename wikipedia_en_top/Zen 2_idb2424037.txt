@@ -1,0 +1,38 @@
+Zen 2
+Zen 2 is a computer processor microarchitecture by AMD. It is the successor of AMD's Zen and Zen+ microarchitectures, and is fabricated on the 7 nanometer MOSFET node from TSMC. The microarchitecture powers the third generation of Ryzen processors, known as Ryzen 3000 for the mainstream desktop chips (codename "Matisse"), Ryzen 4000U/H (codename "Renoir") and Ryzen 5000U (codename "Lucienne") for mobile applications, as Threadripper 3000 for high-end desktop systems, and as Ryzen 4000G for accelerated processing units (APUs). The Ryzen 3000 series CPUs were released on 7 July 2019, while the Zen 2-based Epyc server CPUs (codename "Rome") were released on 7 August 2019. An additional chip, the Ryzen 9 3950X, was released in November 2019.
+ 
+At CES 2019, AMD showed a Ryzen third-generation engineering sample that contained one chiplet with eight cores and 16 threads. AMD CEO Lisa Su also said to expect more than eight cores in the final lineup. At Computex 2019, AMD revealed that the Zen 2 "Matisse" processors would feature up to 12 cores, and a few weeks later a 16 core processor was also revealed at E3 2019, being the aforementioned Ryzen 9 3950X.
+Zen 2 includes hardware mitigations to the Spectre security vulnerability. Zen 2-based EPYC server CPUs use a design in which multiple CPU dies (up to eight in total) manufactured on a 7 nm process ("chiplets") are combined with a 14 nm I/O die on each multi-chip module (MCM) package. Using this, up to 64 physical cores and 128 total compute threads (with simultaneous multithreading) are supported per socket. This architecture is nearly identical to the layout of the "pro-consumer" flagship processor Threadripper 3990X. Zen 2 delivers about 15% more instructions per clock than Zen and Zen+, the 14- and 12-nm microarchitectures utilized on first and second generation Ryzen respectively.
+The Steam Deck, PlayStation 5, Xbox Series X and Series S all use chips based on the Zen 2 microarchitecture, with proprietary tweaks and different configurations in each system's implementation than AMD sells in its own commercially available APUs.
+Design
+Zen 2 is a significant departure from the physical design paradigm of AMD's previous Zen architectures, Zen and Zen+. Zen 2 moves to a multi-chip module design where the I/O components of the CPU are laid out on its own, separate die, which is also called a chiplet in this context.  This separation has benefits in scalability and manufacturability. As physical interfaces don't scale very well with shrinks in process technology, their separation into a different die allows these components to be manufactured using a larger, more mature process node than the CPU dies. The CPU dies (referred to by AMD as core complex dies or CCDs), now more compact due to the move of I/O components onto another die, can be manufactured using a smaller process with fewer manufacturing defects than a larger die would exhibit (since the chances of a die having a defect increases with device (die) size) while also allowing for more dies per wafer. In addition, the central I/O die can service multiple chiplets, making it easier to construct processors with a large number of cores.
+With Zen 2, each CPU chiplet houses 8 CPU cores, arranged in 2 core complexes (CCXs), each of 4 CPU cores. These chiplets are manufactured using TSMC's 7 nanometer MOSFET node and are about 74 to 80 mm2 in size. The chiplet has about 3.8 billion transistors, while the 12 nm I/O die (IOD) is ~125 mm2 and has 2.09 billion transistors. The amount of L3 cache has been doubled to 32 MB, with each CCX in the chiplet now having access to 16 MB of L3 compared to the 8 MB of Zen and Zen+. AVX2 performance is greatly improved by an increase in execution unit width from 128-bit to 256-bit. There are multiple variants of the I/O die: one manufactured on GlobalFoundries 14 nanometer process, and another manufactured using the same company's 12 nanometer process. The 14 nanometer dies have more features and are used for the EPYC Rome processors, whereas the 12 nm versions are used for consumer processors. Both processes have similar feature sizes, so their transistor density is also similar.
+AMD's Zen 2 architecture can deliver higher performance at a lower power consumption than Intel's Cascade Lake architecture, with an example being the AMD Ryzen Threadripper 3970X running with a TDP of 140 W in ECO mode delivering higher performance than the Intel Core i9-10980XE running with a TDP of 165 W.
+New features
+Feature tables
+CPUs
+CPU features table
+APUs
+APU features table
+Products
+On 26 May 2019, AMD announced six Zen 2-based desktop Ryzen processors (codenamed "Matisse"). These included 6-core and 8-core variants in the Ryzen 5 and Ryzen 7 product lines, as well as a new Ryzen 9 line that includes the company's first 12-core and 16-core mainstream desktop processors. 
+The Matisse I/O die is also used as the X570 chipset.
+AMD's second generation of Epyc processors, codenamed "Rome", feature up to 64 cores, and were launched on 7 August 2019.
+3000 series (Matisse)
+Common features of Ryzen 3000 desktop CPUs:
+Common features of Ryzen 3000 HEDT/workstation CPUs:
+4000 series (Renoir)
+Based on the Ryzen 4000G series APUs but with the integrated graphics disabled.
+Common features of Ryzen 4000 desktop CPUs:
+Desktop APUs
+Common features of Ryzen 4000 desktop APUs:
+Renoir (4000 series)
+Common features of Ryzen 4000 notebook APUs:
+Lucienne (5000 series)
+Common features:
+Ultra-mobile APUs
+In 2022, AMD announced the Mendocino ulra-mobile APUs.
+Embedded APUs
+Server CPUs
+Common features of these CPUs:
+Video game consoles and other embedded

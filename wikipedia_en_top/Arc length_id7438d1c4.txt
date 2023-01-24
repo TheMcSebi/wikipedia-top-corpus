@@ -1,0 +1,84 @@
+Arc length
+Arc length is the distance between two points along a section of a curve.
+Determining the length of an irregular arc segment by approximating the arc segment as connected (straight) line segments is also called curve rectification. A rectifiable curve has a finite number of segments in its rectification (so the curve has a finite length).
+If a curve can be parameterized as an injective and continuously differentiable function (i.e., the derivative is a continuous function) $MATH$, then the curve is rectifiable (i.e., it has a finite length).
+The advent of infinitesimal calculus led to a general formula that provides closed-form solutions in some cases.
+General approach
+A curve in the plane can be approximated by connecting a finite number of points on the curve using (straight) line segments to create a polygonal path. Since it is straightforward to calculate the length of each linear segment (using the Pythagorean theorem in Euclidean space, for example), the total length of the approximation can be found by summation of the lengths of each linear segment; that approximation is known as the (cumulative) chordal distance.
+If the curve is not already a polygonal path, then using a progressively larger number of line segments of smaller lengths will result in better curve length approximations. Such a curve length determination by approximating the curve as connected (straight) line segments is called rectification of a curve. The lengths of the successive approximations will not decrease and may keep increasing indefinitely, but for smooth curves they will tend to a finite limit as the lengths of the segments get arbitrarily small.
+For some curves, there is a smallest number $MATH$ that is an upper bound on the length of all polygonal approximations (rectification). These curves are called rectifiable and the arc length is defined as the number $MATH$.
+A signed arc length can be defined to convey a sense of orientation or "direction" with respect to a reference point taken as origin in the curve (see also: curve orientation and signed distance).
+Formula for a smooth curve
+Let $MATH$ be an injective and continuously differentiable (i.e., the derivative is a continuous function) function. The length of the curve defined by $MATH$ can be defined as the limit of the sum of linear segment lengths for a regular partition of $MATH$ as the number of segments approaches infinity. This means
+where $MATH$ with $MATH$ for $MATH$ This definition is equivalent to the standard definition of arc length as an integral:
+The last equality is proved by the following steps:
+
+With the above step result, it becomes 
+
+Terms are rearranged so that it becomes 
+ where in the leftmost side $MATH$ is used. By $MATH$ for $MATH$ so that $MATH$, it becomes
+with $MATH$, $MATH$, and $MATH$. In the limit $MATH$ $MATH$ so $MATH$ thus the left side of $MATH$ approaches to $MATH$. In other words, $MATH$ in this limit, and the right side of this equality is just the Riemann integral of $MATH$ on $MATH$ This definition of arc length shows that the length of a curve represented by a continuously differentiable function $MATH$ on $MATH$ is always finite, i.e., rectifiable.
+The definition of arc length of a smooth curve as the integral of the norm of the derivative is equivalent to the definition
+where the supremum is taken over all possible partitions $MATH$ of $MATH$ This definition as the supremum of the all possible partition sums is also valid if $MATH$ is merely continuous, not differentiable.
+A curve can be parameterized in infinitely many ways. Let $MATH$ :[a,b]\to [c,d]}
+  
+ be any continuously differentiable bijection. Then $MATH$ is another continuously differentiable parameterization of the curve originally defined by $MATH$ The arc length of the curve is the same regardless of the parameterization used to define the curve:
+Finding arc lengths by integration
+If a planar curve in $MATH$ is defined by the equation $MATH$ where $MATH$ is continuously differentiable, then it is simply a special case of a parametric equation where $MATH$ and $MATH$  The Euclidean distance of each infinitesimal segment of the arc can be given by:
+The arc length is then given by:
+Curves with closed-form solutions for arc length include the catenary, circle, cycloid, logarithmic spiral, parabola, semicubical parabola and straight line. The lack of a closed form solution for the arc length of an elliptic and hyperbolic arc led to the development of the elliptic integrals.
+Numerical integration
+In most cases, including even simple curves, there are no closed-form solutions for arc length and numerical integration is necessary.  Numerical integration of the arc length integral is usually very efficient.  For example, consider the problem of finding the length of a quarter of the unit circle by numerically integrating the arc length integral.  The upper half of the unit circle can be parameterized as $MATH$  The interval $MATH$ corresponds to a quarter of the circle.  Since $MATH$ and $MATH$ the length of a quarter of the unit circle is
+The 15-point Gauss–Kronrod rule estimate for this integral of 1.570796326808177 differs from the true length of
+by 1.3×10−11 and the 16-point Gaussian quadrature rule estimate of 1.570796326794727 differs from the true length by only 1.7×10−13.  This means it is possible to evaluate this integral to almost machine precision with only 16 integrand evaluations.
+Curve on a surface
+Let $MATH$ be a surface mapping and let $MATH$ be a curve on this surface.  The integrand of the arc length integral is $MATH$  Evaluating the derivative requires the chain rule for vector fields:
+
+
+The squared norm of this vector is 
+ (where $MATH$ is the first fundamental form coefficient), so the integrand of the arc length integral can be written as $MATH$ (where $MATH$ and $MATH$).
+Other coordinate systems
+Let $MATH$ be a curve expressed in polar coordinates.  The mapping that transforms from polar coordinates to rectangular coordinates is
+The integrand of the arc length integral is  $MATH$  The chain rule for vector fields shows that $MATH$  So the squared integrand of the arc length integral is
+So for a curve expressed in polar coordinates, the arc length is:
+The second expression is for a polar graph $MATH$ parametrized by $MATH$.
+Now let $MATH$ be a curve expressed in spherical coordinates where $MATH$ is the polar angle measured from the positive $MATH$-axis and $MATH$ is the azimuthal angle.  The mapping that transforms from spherical coordinates to rectangular coordinates is
+Using the chain rule again shows that $MATH$  All dot products $MATH$ where $MATH$ and $MATH$ differ are zero, so the squared norm of this vector is
+So for a curve expressed in spherical coordinates, the arc length is
+A very similar calculation shows that the arc length of a curve expressed in cylindrical coordinates is
+Simple cases
+Arcs of circles
+Arc lengths are denoted by s, since the Latin word for length (or size) is spatium.
+In the following lines, $MATH$ represents the radius of a circle, $MATH$ is its diameter, $MATH$ is its circumference, $MATH$ is the length of an arc of the circle, and $MATH$ is the angle which the arc subtends at the centre of the circle. The distances $MATH$ and $MATH$ are expressed in the same units.
+Great circles on Earth
+Two units of length, the nautical mile and the metre (or kilometre), were originally defined so the lengths of arcs of great circles on the Earth's surface would be simply numerically related to the angles they subtend at its centre. The simple equation $MATH$ applies in the following circumstances:
+The lengths of the distance units were chosen to make the circumference of the Earth equal 40000 kilometres, or 21600 nautical miles. Those are the numbers of the corresponding angle units in one complete turn.
+Those definitions of the metre and the nautical mile have been superseded by more precise ones, but the original definitions are still accurate enough for conceptual purposes and some calculations. For example, they imply that one kilometre is exactly 0.54 nautical miles. Using official modern definitions, one nautical mile is exactly 1.852 kilometres, which implies that 1 kilometre is about 0.53995680 nautical miles. This modern ratio differs from the one calculated from the original definitions by less than one part in 10,000.
+Other simple cases
+Historical methods
+Antiquity
+For much of the history of mathematics, even the greatest thinkers considered it impossible to compute the length of an irregular arc. Although Archimedes had pioneered a way of finding the area beneath a curve with his "method of exhaustion", few believed it was even possible for curves to have definite lengths, as do straight lines. The first ground was broken in this field, as it often has been in calculus, by approximation. People began to inscribe polygons within the curves and compute the length of the sides for a somewhat accurate measurement of the length. By using more segments, and by decreasing the length of each segment, they were able to obtain a more and more accurate approximation. In particular, by inscribing a polygon of many sides in a circle, they were able to find approximate values of π.
+17th century
+In the 17th century, the method of exhaustion led to the rectification by geometrical methods of several transcendental curves: the logarithmic spiral by Evangelista Torricelli in 1645 (some sources say John Wallis in the 1650s), the cycloid by Christopher Wren in 1658, and the catenary by Gottfried Leibniz in 1691.
+In 1659, Wallis credited William Neile's discovery of the first rectification of a nontrivial algebraic curve, the semicubical parabola. The accompanying figures appear on page 145. On page 91, William Neile is mentioned as Gulielmus Nelius.
+Integral form
+Before the full formal development of calculus, the basis for the modern integral form for arc length was independently discovered by Hendrik van Heuraet and Pierre de Fermat.
+In 1659 van Heuraet published a construction showing that the problem of determining arc length could be transformed into the problem of determining the area under a curve (i.e., an integral).  As an example of his method, he determined the arc length of a semicubical parabola, which required finding the area under a parabola.  In 1660, Fermat published a more general theory containing the same result in his De linearum curvarum cum lineis rectis comparatione dissertatio geometrica (Geometric dissertation on curved lines in comparison with straight lines).
+Building on his previous work with tangents, Fermat used the curve
+whose tangent at x = a had a slope of
+so the tangent line would have the equation
+Next, he increased a by a small amount to a + ε, making segment AC a relatively good approximation for the length of the curve from A to D. To find the length of the segment AC, he used the Pythagorean theorem:
+which, when solved, yields
+In order to approximate the length, Fermat would sum up a sequence of short segments.
+Curves with infinite length
+As mentioned above, some curves are non-rectifiable. That is, there is no upper bound on the lengths of polygonal approximations; the length can be made arbitrarily large. Informally, such curves are said to have infinite length. There are continuous curves on which every arc (other than a single-point arc) has infinite length. An example of such a curve is the Koch curve. Another example of a curve with infinite length is the graph of the function defined by f(x) = x sin(1/x) for any open set with 0 as one of its delimiters and f(0) = 0. Sometimes the Hausdorff dimension and Hausdorff measure are used to quantify the size of such curves.
+Generalization to (pseudo-)Riemannian manifolds
+Let $MATH$ be a (pseudo-)Riemannian manifold, $MATH$ :[0,1]\rightarrow M}
+  
+ a curve in $MATH$ and $MATH$ the (pseudo-) metric tensor.
+The length of $MATH$ is defined to be
+where $MATH$ is the tangent vector of $MATH$ at $MATH$  The sign in the square root is chosen once for a given curve, to ensure that the square root is a real number. The positive sign is chosen for spacelike curves; in a pseudo-Riemannian manifold, the negative sign may be chosen for timelike curves. Thus the length of a curve is a non-negative real number. Usually no curves are considered which are partly spacelike and partly timelike.
+In theory of relativity, arc length of timelike curves (world lines) is the proper time elapsed along the world line, and arc length of a spacelike curve the proper distance along the curve.
+See also
+References
+Sources

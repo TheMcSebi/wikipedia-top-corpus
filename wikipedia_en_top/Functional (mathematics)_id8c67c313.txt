@@ -1,0 +1,28 @@
+Functional (mathematics)
+In mathematics, a functional (as a noun) is a certain type of function. The exact definition of the term varies depending on the subfield (and sometimes even the author).
+This article is mainly concerned with the second concept, which arose in the early 18th century as part of the calculus of variations. The first concept, which is more modern and abstract, is discussed in detail in a separate article, under the name linear form. The third concept is detailed in the computer science article on higher-order functions.
+In the case where the space $MATH$ is a space of functions, the functional is a "function of a function", and some older authors actually define the term "functional" to mean "function of a function".
+However, the fact that $MATH$ is a space of functions is not mathematically essential, so this older definition is no longer prevalent.
+The term originates from the calculus of variations, where one searches for a function that minimizes (or maximizes) a given functional. A particularly important application in physics is search for a state of a system that minimizes (or maximizes) the action, or in other words the time integral of the Lagrangian.
+Details
+Duality
+The mapping
+is a function, where $MATH$ is an argument of a function $MATH$ 
+At the same time, the mapping of a function to the value of the function at a point
+is a functional; here, $MATH$ is a parameter.
+Provided that $MATH$ is a linear function from a vector space to the underlying scalar field, the above linear maps are dual to each other, and in functional analysis both are called linear functionals.
+Definite integral
+Integrals such as
+form a special class of functionals. They map a function $MATH$ into a real number, provided that $MATH$ is real-valued. Examples include
+Inner product spaces
+Given an inner product space $MATH$ and a fixed vector $MATH$ the map defined by $MATH$ is a linear functional on $MATH$ The set of vectors $MATH$ such that $MATH$ is zero is a vector subspace of $MATH$ called the null space or kernel of the functional, or the orthogonal complement of $MATH$ denoted $MATH$
+For example, taking the inner product with a fixed function $MATH$ defines a (linear) functional on the Hilbert space $MATH$ of square integrable functions on $MATH$
+Locality
+If a functional's value can be computed for small segments of the input curve and then summed to find the total value, the functional is called local. Otherwise it is called non-local. For example:
+is local while
+is non-local. This occurs commonly when integrals occur separately in the numerator and denominator of an equation such as in calculations of center of mass.
+Functional equations
+The traditional usage also applies when one talks about a functional equation, meaning an equation between functionals: an equation $MATH$ between functionals can be read as an 'equation to solve', with solutions being themselves functions. In such equations there may be several sets of variable unknowns, like when it is said that an additive map $MATH$ is one satisfying Cauchy's functional equation: 
+Derivative and integration
+Functional derivatives are used in Lagrangian mechanics. They are derivatives of functionals; that is, they carry information on how a functional changes when the input function changes by a small amount.
+Richard Feynman used functional integrals as the central idea in his sum over the histories formulation of quantum mechanics. This usage implies an integral taken over some function space.

@@ -1,0 +1,32 @@
+Lead(II,IV) oxide
+Lead(II,IV) oxide, also called red lead or minium, is the inorganic compound with the formula $MATH$. A bright red or orange solid, it is used as pigment, in the manufacture of batteries, and rustproof primer paints. It is an example of a mixed valence compound, being composed of both Pb(II) and Pb(IV) in the ratio of two to one.
+Structure
+Lead(II,IV) oxide has a tetragonal crystal structure at room temperature, which then transforms to an orthorhombic (Pearson symbol oP28, Space group Pbam, No. 55) form at temperature 170 K (−103 °C). This phase transition only changes the symmetry of the crystal and slightly modifies the interatomic distances and angles.
+Preparation
+Lead(II,IV) oxide is prepared by calcination of lead(II) oxide ($MATH$; also called litharge) in air at about 450–480 °C:
+The resulting material is contaminated with PbO. If a pure compound is desired, PbO can be removed by a potassium hydroxide solution:
+Another method of preparation relies on annealing of lead(II) carbonate (cerussite) in air:
+Yet another method is oxidative annealing of white lead:
+In solution, lead(II,IV) oxide can be prepared by reaction of potassium plumbate with lead(II) acetate, yielding yellow insoluble lead(II,IV) oxide monohydrate $MATH$, which can be turned into the anhydrous form by gentle heating:
+Natural minium is uncommon, forming only in extreme oxidizing conditions of lead ore bodies. The best known natural specimens come from Broken Hill, New South Wales, Australia, where they formed as the result of a mine fire.
+Reactions
+Red lead is virtually insoluble in water and in ethanol. However, it is soluble in hydrochloric acid present in the stomach, and is therefore toxic when ingested. It also dissolves in glacial acetic acid and a diluted mixture of nitric acid and hydrogen peroxide.
+When heated to 500 °C, it decomposes to lead(II) oxide and oxygen. At 580 °C, the reaction is complete.
+Nitric acid dissolves the lead(II) oxide component, leaving behind the insoluble lead(IV) oxide:
+With iron oxides and with elemental iron, lead(II,IV) oxide forms insoluble iron(II) and iron(III) plumbates, which is the basis of the anticorrosive properties of lead-based paints applied to iron objects.
+Use
+Red lead  has been used as a pigment for primer paints for iron objects. Due to its toxicity, its use is being limited.  It finds limited use in some amateur pyrotechnics as a delay charge and was used in the past in the manufacture of dragon's egg pyrotechnic stars.
+Red lead is used as a curing agent in some polychloroprene rubber compounds. It is used in place of magnesium oxide to provide better water resistance properties.
+Red lead was used for engineer's scraping, before being supplanted by engineer's blue.
+It is also used as an adultering agent in turmeric powder.
+Physiological effects
+When inhaled, lead(II,IV) oxide irritates lungs. In case of high dose, the victim experiences a metallic taste, chest pain, and abdominal pain. When ingested, it is dissolved in the gastric acid and absorbed, leading to lead poisoning. High concentrations can be absorbed through skin as well, and it is important to follow safety precautions when working with lead-based paint.
+Long-term contact with lead(II,IV) oxide may lead to accumulation of lead compounds in organisms, with development of symptoms of acute lead poisoning. Chronic poisoning displays as agitation, irritability, vision disorders, hypertension, and a grayish facial hue.
+Lead(II,IV) oxide was shown to be carcinogenic for laboratory animals. Its carcinogenicity for humans was not proven.
+History
+This compound's Latin name minium originates from the Minius, a river in northwest Iberia where it was first mined.
+Lead(II,IV) oxide was used as a red pigment in ancient Rome, where it was prepared by calcination of white lead. In the ancient and medieval periods it was used as a pigment in the production of illuminated manuscripts, and gave its name to the minium or miniature, a style of picture painted with the colour.
+Made into a paint with linseed oil, red lead was used as a durable paint to protect exterior ironwork. In 1504 the portcullis at Stirling Castle in Scotland was painted with red lead, as were cannons including Mons Meg.
+As a finely divided powder, it was also sprinkled on dielectric surfaces to study Lichtenberg figures.
+In traditional Chinese medicine, red lead is used to treat ringworms and ulcerations, though the practice is limited due to its toxicity. Also, azarcón, a Mexican folk remedy for gastrointestinal disorders, contains up to 95% lead(II,IV) oxide.
+It was also used before the 18th century as medicine.

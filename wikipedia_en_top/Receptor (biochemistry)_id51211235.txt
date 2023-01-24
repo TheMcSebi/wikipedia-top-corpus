@@ -1,0 +1,45 @@
+Receptor (biochemistry)
+In biochemistry and pharmacology, receptors are chemical structures, composed of protein, that receive and transduce signals that may be integrated into biological systems. These signals are typically chemical messengers which bind to a receptor and cause some form of cellular/tissue response, e.g. a change in the electrical activity of a cell. There are three main ways the action of the receptor can be classified: relay of signal, amplification, or integration. Relaying sends the signal onward, amplification increases the effect of a single ligand, and integration allows the signal to be incorporated into another biochemical pathway.
+Receptor proteins can be classified by their location. Transmembrane receptors include ligand-gated ion channels, G protein-coupled receptors, and enzyme-linked hormone receptors. Intracellular receptors are those found inside the cell, and include cytoplasmic receptors and nuclear receptors. A molecule that binds to a receptor is called a ligand and can be a protein, peptide (short protein), or another small molecule, such as a neurotransmitter, hormone, pharmaceutical drug, toxin, calcium ion or parts of the outside of a virus or microbe. An endogenously produced substance that binds to a particular receptor is referred to as its endogenous ligand. E.g. the endogenous ligand for the nicotinic acetylcholine receptor is acetylcholine, but it can also be activated by nicotine and blocked by curare. Receptors of a particular type are linked to specific cellular biochemical pathways that correspond to the signal. While numerous receptors are found in most cells, each receptor will only bind with ligands of a particular structure. This has been analogously compared to how locks will only accept specifically shaped keys. When a ligand binds to a corresponding receptor, it activates or inhibits the receptor's associated biochemical pathway, which may also be highly specialised.
+Structure
+The structures of receptors are very diverse and include the following major categories, among others: 
+Membrane receptors may be isolated from cell membranes by complex extraction procedures using solvents, detergents, and/or affinity purification.
+The structures and actions of receptors may be studied by using biophysical methods such as X-ray crystallography, NMR, circular dichroism, and dual polarisation interferometry. Computer simulations of the dynamic behavior of receptors have been used to gain understanding of their mechanisms of action.
+Binding and activation
+Ligand binding is an equilibrium process. Ligands bind to receptors and dissociate from them according to the law of mass action in the following equation, for a ligand L and receptor, R. The brackets around chemical species denote their concentrations.
+One measure of how well a molecule fits a receptor is its binding affinity, which is inversely related to the dissociation constant Kd. A good fit corresponds with high affinity and low Kd. The final biological response (e.g. second messenger cascade, muscle-contraction), is only achieved after a significant number of receptors are activated.
+Affinity is a measure of the tendency of a ligand to bind to its receptor. Efficacy is the measure of the bound ligand to activate its receptor.
+Agonists versus antagonists
+Not every ligand that binds to a receptor also activates that receptor. The following classes of ligands exist:
+Note that the idea of receptor agonism and antagonism only refers to the interaction between receptors and ligands and not to their biological effects.
+Constitutive activity
+A receptor which is capable of producing a biological response in the absence of a bound ligand is said to display "constitutive activity". The constitutive activity of a receptor may be blocked by an inverse agonist. The anti-obesity drugs rimonabant and taranabant are inverse agonists at the cannabinoid CB1 receptor and though they produced significant weight loss, both were withdrawn owing to a high incidence of depression and anxiety, which are believed to relate to the inhibition of the constitutive activity of the cannabinoid receptor.
+The GABAA receptor has constitutive activity and conducts some basal current in the absence of an agonist. This allows beta carboline to act as an inverse agonist and reduce the current below basal levels.
+Mutations in receptors that result in increased constitutive activity underlie some inherited diseases, such as precocious puberty (due to mutations in luteinizing hormone receptors) and hyperthyroidism (due to mutations in thyroid-stimulating hormone receptors).
+Theories of drug-receptor interaction
+Occupation
+Early forms of the receptor theory of pharmacology stated that a drug's effect is directly proportional to the number of receptors that are occupied. Furthermore, a drug effect ceases as a drug-receptor complex dissociates.
+Ariëns & Stephenson introduced the terms  "affinity" & "efficacy" to describe the action of ligands bound to receptors.
+Rate
+In contrast to the accepted Occupation Theory, Rate Theory proposes that the activation of receptors is directly proportional to the total number of encounters of a drug with its receptors per unit time. Pharmacological activity is directly proportional to the rates of dissociation and association, not the number of receptors occupied:
+Induced-fit
+As a drug approaches a receptor, the receptor alters the conformation of its binding site to produce drug—receptor complex.
+Spare Receptors
+In some receptor systems (e.g. acetylcholine at the neuromuscular junction in smooth muscle), agonists are able to elicit maximal response at very low levels of receptor occupancy (<1%). Thus, that system has spare receptors or a receptor reserve. This arrangement produces an economy of neurotransmitter production and release.
+Receptor regulation
+Cells can increase (upregulate) or decrease (downregulate) the number of receptors to a given hormone or neurotransmitter to alter their sensitivity to different molecules. This is a locally acting feedback mechanism.
+Examples and ligands
+The ligands for receptors are as diverse as their receptors. GPCRs (7TMs) are a particularly vast family, with at least 810 members. There are also LGICs for at least a dozen endogenous ligands, and many more receptors possible through different subunit compositions. Some common examples of ligands and receptors include:
+Ion channels and G protein coupled receptors
+Some example ionotropic (LGIC) and metabotropic (specifically, GPCRs) receptors are shown in the table below. The chief neurotransmitters are glutamate and GABA; other neurotransmitters are neuromodulatory. This list is by no means exhaustive.
+Enzyme linked receptors
+Enzyme linked receptors include Receptor tyrosine kinases (RTKs), serine/threonine-specific protein kinase, as in bone morphogenetic protein and guanylate cyclase, as in atrial natriuretic factor receptor. Of the RTKs, 20 classes have been identified, with 58 different RTKs as members. Some examples are shown below:
+Intracellular Receptors
+Receptors may be classed based on their mechanism or on their position in the cell. 4 examples of intracellular LGIC are shown below:
+Role in health and disease
+In genetic disorders
+Many genetic disorders involve hereditary defects in receptor genes. Often, it is hard to determine whether the receptor is nonfunctional or the hormone is produced at decreased level; this gives rise to the "pseudo-hypo-" group of endocrine disorders, where there appears to be a decreased hormonal level while in fact it is the receptor that is not responding sufficiently to the hormone.
+In the immune system
+The main receptors in the immune system are pattern recognition receptors (PRRs), toll-like receptors (TLRs), killer activated and killer inhibitor receptors (KARs and KIRs), complement receptors, Fc receptors, B cell receptors and T cell receptors.
+See also
+Notes

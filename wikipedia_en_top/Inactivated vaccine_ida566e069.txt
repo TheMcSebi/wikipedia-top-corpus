@@ -1,0 +1,15 @@
+Inactivated vaccine
+An inactivated vaccine (or killed vaccine) is a vaccine consisting of virus particles, bacteria, or other pathogens that have been grown in culture and then killed to destroy disease-producing capacity. In contrast, live vaccines use pathogens that are still alive (but are almost always attenuated, that is, weakened). Pathogens for inactivated vaccines are grown under controlled conditions and are killed as a means to reduce infectivity and thus prevent infection from the vaccine.
+Inactivated vaccines were first developed in the late 1800s and early 1900s for cholera, plague, and typhoid. Today, inactivated vaccines exist for many pathogens, including influenza, polio (IPV), rabies, hepatitis A and pertussis.
+Because inactivated pathogens tend to produce a weaker response by the immune system than live pathogens, immunologic adjuvants and multiple "booster" injections may be required in some vaccines to provide an effective immune response against the pathogen. Attenuated vaccines are often preferable for generally healthy people because a single dose is often safe and very effective. However, some people cannot take attenuated vaccines because the pathogen poses too much risk for them (for example, elderly people or people with immunodeficiency). For those patients, an inactivated vaccine can provide protection.
+Mechanism
+The pathogen particles are destroyed and cannot divide, but the pathogens maintain some of their integrity to be recognized by the immune system and evoke an adaptive immune response.  When manufactured correctly, the vaccine is not infectious, but improper inactivation can result in intact and infectious particles.
+When a vaccine is administered, the antigen will be taken up by an antigen-presenting cell (APC) and transported to a draining lymph node in vaccinated people. The APC will place a piece of the antigen, an epitope, on its surface along with a major histocompatibility complex (MHC) molecule. It can now interact with and activate T cells. The resulting helper T cells will then stimulate an antibody-mediated or cell-mediated immune response and develop an antigen-specific adaptive response. This process creates an immunological memory against the specific pathogen and allows the immune system to respond more effectively and rapidly after subsequent encounters with that pathogen.
+Inactivated vaccines tend to produce an immune response that is primarily antibody-mediated.  However, deliberate adjuvant selection allows inactivated vaccines to stimulate a more robust cell-mediated immune response.
+Types
+Inactivated vaccines often refer to non-live vaccines. They are further classified depending on the method used to inactivate the pathogen:
+Examples
+Types include:
+Advantages and disadvantages
+Advantages
+Disadvantages

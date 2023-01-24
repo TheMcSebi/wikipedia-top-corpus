@@ -1,0 +1,16 @@
+Adobe Dreamweaver
+Adobe Dreamweaver is a proprietary web development tool from Adobe Inc. It was created by Macromedia in 1997 and developed by them until Macromedia was acquired by Adobe Systems in 2005.
+Adobe Dreamweaver is available for the macOS and Windows operating systems.
+Following Adobe's acquisition of the Macromedia product suite, releases of Dreamweaver subsequent to version 8.0 have been more compliant with W3C standards. Recent versions have improved support for Web technologies such as CSS, JavaScript, and various server-side scripting languages and frameworks including ASP (ASP JavaScript, ASP VBScript, ASP.NET C#, ASP.NET VB), ColdFusion, Scriptlet, and PHP.
+Features
+Adobe Dreamweaver CC is a web design and an Integrated Development Environment (IDE) application that is used to develop and design websites. Dreamweaver includes a code editor that supports syntax highlighting, code completion, real-time syntax checking, and code introspection for generating code hints to assist the user in writing code.
+Dreamweaver, like other HTML editors, edits files locally then uploads them to the remote web server using FTP, SFTP, or WebDAV. Dreamweaver CS4 supports the Subversion (SVN) version control system.
+Since version 5, Dreamweaver supports syntax highlighting for the following languages:
+Support for Active Server Pages (ASP) and JavaServer Pages was dropped in version CS5.
+Users can add their language syntax highlighting.
+Code completion is available for many of these languages.
+Internationalization and Localization
+Language availability
+Adobe Dreamweaver CS6 is available in the following languages: Brazilian Portuguese, Simplified Chinese, Traditional Chinese, Czech, Dutch, English, French, German, Italian, Japanese, Korean (Windows only), Polish, Russian, Spanish, Swedish and Turkish.
+Specific features for Arabic and Hebrew languages
+The older Adobe Dreamweaver CS3 also features a Middle Eastern version that allows typing Arabic, Persian, Urdu, or Hebrew text (written from right to left) within the code view. Whether the text is fully Middle Eastern (written from right to left) or includes both English and Middle Eastern text (written left to right and right to left), it will be displayed properly.

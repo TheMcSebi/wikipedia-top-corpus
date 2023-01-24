@@ -1,0 +1,23 @@
+iPadOS
+iPadOS is a mobile operating system developed by Apple Inc. for its iPad line of tablet computers. It is a rebranded variant of iOS, the operating system used by Apple's iPhones, renamed to reflect the diverging features of the two product lines, particularly the iPad's multitasking capabilities. It was introduced as iPadOS 13 in 2019, reflecting its status as the successor to iOS 12 for the iPad, at the company's 2019 Worldwide Developers Conference. iPadOS was released to the public on September 24, 2019. The current public release is iPadOS 16.2, released on December 13, 2022.
+
+
+History
+The first iPad was released on January 10th, 2010 and ran iPhone OS 3.2, which added support for the larger device to the operating system, previously only used on the iPhone and its smaller counterpart, the iPod Touch. This shared operating system was rebranded as "iOS" with the release of iOS 4.
+The operating system initially had rough feature parity running on the iPhone, iPod Touch, and iPad, with variations in user interface depending on screen size, and minor differences in the selection of apps included. However, over time, the variant of iOS for the iPad incorporated a growing set of differentiating features, such as picture-in-picture, the ability to display multiple running apps simultaneously (both introduced with iOS 9 in 2015), drag and drop, and a dock that more closely resembled the dock from macOS than the one on the iPhone (added in 2017 with iOS 11). Standard iPad apps were increasingly designed to support the optional use of a physical keyboard.
+To emphasize the different feature set available on the iPad, and to signal their intention to develop the platforms in divergent directions, at WWDC 2019, Apple announced that the variant of iOS that runs on the iPad would be rebranded as “iPadOS.” The new naming strategy began with iPadOS 13.1, in 2019.
+On June 22, 2020, at WWDC 2020, Apple announced iPadOS 14, with compact designs for search, Siri, and calls, improved app designs, handwriting recognition, better AR features, enhanced privacy protections, and app widgets. iPadOS 14 was released to the public on September 16, 2020.
+On June 7, 2021, at WWDC 2021, iPadOS 15 was announced with widgets on the Home Screen and App Library, the same features that came to iPhone with iOS 14 in 2020. The update also brought stricter privacy measurements with Safari such as IP Address blocking so other websites cannot see it. iPadOS 15 was released to the public on September 20, 2021.
+On June 6, 2022, at WWDC 2022, iPadOS 16 was announced with a Weather app and Stage Manager, along with most of the features included in iOS 16, excluding a customizable lock screen.
+Features
+Many features of iPadOS are also available on iOS; however, iPadOS contains some features that are not available in iOS and lacks some features that are available in iOS.
+Scribble
+Introduced in iPadOS 14, Scribble converts text handwritten by an Apple Pencil into typed text in most text fields.
+Widgets
+Beginning with iPadOS 15, widgets can be placed on the home screen.
+Translate
+Beginning with iPadOS 15, Translate is available. The feature was announced on June 7, 2021 at WWDC 2021. Translation works with 11 languages.
+Weather
+Beginning with iPadOS 16, the Weather app was added to iPad. The application had previously only been available on the iPhone and iPod Touch. The feature was announced on June 6, 2022, at WWDC 2022.
+Stage Manager
+iPadOS 16 has another new feature called Stage Manager that automatically sorts windows by app.

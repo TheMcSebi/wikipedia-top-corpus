@@ -1,0 +1,143 @@
+Affine space
+In mathematics, an affine space is a geometric structure that generalizes some of the properties of Euclidean spaces in such a way that these are independent of the concepts of distance and measure of angles, keeping only the properties related to parallelism and ratio of lengths for parallel line segments.
+In an affine space, there is no distinguished point that serves as an origin. Hence, no vector has a fixed origin and no vector can be uniquely associated to a point. In an affine space, there are instead displacement vectors, also called translation vectors or simply translations, between two points of the space. Thus it makes sense to subtract two points of the space, giving a translation vector, but it does not make sense to add two points of the space. Likewise, it makes sense to add a displacement vector to a point of an affine space, resulting in a new point translated from the starting point by that vector.
+Any vector space may be viewed as an affine space; this amounts to forgetting the special role played by the zero vector. In this case, elements of the vector space may be viewed either as points of the affine space or as displacement vectors or translations. When considered as a point, the zero vector is called the origin. Adding a fixed vector to the elements of a linear subspace (vector subspace) of a vector space produces an affine subspace. One commonly says that this affine subspace has been obtained by translating (away from the origin) the linear subspace by the translation vector (the vector added to all the elements of the linear space). In finite dimensions, such an affine subspace is the solution set of an inhomogeneous linear system. The displacement vectors for that affine space are the solutions of the corresponding homogeneous linear system, which is a linear subspace. Linear subspaces, in contrast, always contain the origin of the vector space.
+The dimension of an affine space is defined as the dimension of the vector space of its translations. An affine space of dimension one is an affine line. An affine space of dimension 2 is an affine plane. An affine subspace of dimension n – 1 in an affine space or a vector space of dimension n is an affine hyperplane.
+Informal description
+The following characterization may be easier to understand than the usual formal definition: an affine space is what is left of a vector space after one has forgotten which point is the origin (or, in the words of the French mathematician Marcel Berger, "An affine space is nothing more than a vector space whose origin we try to forget about, by adding translations to the linear maps"). Imagine that Alice knows that a certain point is the actual origin, but Bob believes that another point—call it p—is the origin. Two vectors, a and b, are to be added. Bob draws an arrow from point p to point a and another arrow from point p to point b, and completes the parallelogram to find what Bob thinks is a + b, but Alice knows that he has actually computed
+Similarly, Alice and Bob may evaluate any linear combination of a and b, or of any finite set of vectors, and will generally get different answers. However, if the sum of the coefficients in a linear combination is 1, then Alice and Bob will arrive at the same answer.
+If Alice travels to
+then Bob can similarly travel to
+Under this condition, for all coefficients λ + (1 − λ) = 1, Alice and Bob describe the same point with the same linear combination, despite using different origins.
+While only Alice knows the "linear structure", both Alice and Bob know the "affine structure"—i.e. the values of affine combinations, defined as linear combinations in which the sum of the coefficients is 1. A set with an affine structure is an affine space.
+Definition
+An affine space is a set A together with a vector space $MATH$, and a transitive and free action of the additive group of $MATH$ on the set A. The elements of the affine space A are called points. The vector space $MATH$ is said to be associated to the affine space, and its elements are called vectors, translations, or sometimes free vectors.
+Explicitly, the definition above means that the action is a mapping, generally denoted as an addition,
+that has the following properties.
+The first two properties are simply defining properties of a (right) group action. The third property characterizes free and transitive actions, the onto character coming from transitivity, and then the injective character follows from the action being free. There is a fourth property that follows from 1, 2 above:
+Property 3 is often used in the following equivalent form (the 5th property).
+Another way to express the definition is that an affine space is a principal homogeneous space for the action of the additive group of a vector space. Homogeneous spaces are by definition endowed with a transitive group action, and for a principal homogeneous space such a transitive action is by definition free.
+Subtraction and Weyl's axioms
+The properties of the group action allows for the definition of subtraction for any given ordered pair (b, a) of points in A, producing a vector of $MATH$. This vector, denoted $MATH$ or $MATH$, is defined to be the unique vector in $MATH$ such that
+Existence follows from the transitivity of the action, and uniqueness follows because the action is free.
+This subtraction has the two following properties, called Weyl's axioms:
+In Euclidean geometry, the second of Weyl's axiom is commonly called the parallelogram rule.
+Affine spaces can be equivalently defined as a point set A, together with a vector space $MATH$, and a subtraction satisfying Weyl's axioms. In this case, the addition of a vector to a point is defined from the first of Weyl's axioms.
+Affine subspaces and parallelism
+An affine subspace (also called, in some contexts, a linear variety, a flat, or, over the real numbers, a linear manifold)  B of an affine space A is a subset of A such that, given a point $MATH$, the set of vectors $MATH$ is a linear subspace of $MATH$. This property, which does not depend on the choice of a, implies that B is an affine space, which has $MATH$ as its associated vector space.
+The affine subspaces of A are the subsets of A of the form
+where a is a point of A, and V a linear subspace of $MATH$.
+The linear subspace associated with an affine subspace is often called its direction, and two subspaces that share the same direction are said to be parallel.
+This implies the following generalization of Playfair's axiom: Given a direction V, for any point a of A there is one and only one affine subspace of direction V, which passes through a, namely the subspace a + V.
+Every translation $MATH$ maps any affine subspace to a parallel subspace.
+The term parallel is also used for two affine subspaces such that the direction of one is included in the direction of the other.
+Affine map
+Given two affine spaces A and B whose associated vector spaces are $MATH$ and $MATH$, an affine map or affine homomorphism from A to B is a map
+such that
+is a well defined linear map. By $MATH$ being well defined is meant that b – a = d – c implies  f(b) – f(a) = f(d) – f(c).
+This implies that, for a point $MATH$ and a vector $MATH$, one has
+Therefore, since for any given b in A, b = a + v for a unique v, f is completely defined by its value on a single point and the associated linear map $MATH$.
+Endomorphisms
+An affine transformation or endomorphism of an affine space $MATH$ is an affine map from that space to itself.  One important family of examples is the translations: given a vector $MATH$, the translation map $MATH$ that sends $MATH$ for every $MATH$ in $MATH$ is an affine map.  Another important family of examples are the linear maps centred at an origin: given a point $MATH$ and a linear map $MATH$, one may define an affine map $MATH$ by
+for every $MATH$ in $MATH$.
+After making a choice of origin $MATH$, any affine map may be written uniquely as a combination of a translation and a linear map centred at $MATH$.
+Vector spaces as affine spaces
+Every vector space V may be considered as an affine space over itself. This means that every element of V may be considered either as a point or as a vector. This affine space is sometimes denoted (V, V) for emphasizing the double role of the elements of V. When considered as a point, the zero vector is commonly denoted o (or O, when upper-case letters are used for points) and called the origin.
+If A is another affine space over the same vector space (that is $MATH$) the choice of any point a in A defines a unique affine isomorphism, which is the identity of V and maps a to o. In other words, the choice of an origin a in A allows us to identify A and (V, V) up to a canonical isomorphism. The counterpart of this property is that the affine space A may be identified with the vector space V in which "the place of the origin has been forgotten".
+Relation to Euclidean spaces
+Definition of Euclidean spaces
+Euclidean spaces (including the one-dimensional line, two-dimensional plane, and three-dimensional space commonly studied in elementary geometry, as well as higher-dimensional analogues) are affine spaces.
+Indeed, in most modern definitions, a Euclidean space is defined to be an affine space, such that the associated vector space is a real inner product space of finite dimension, that is a vector space over the reals with a positive-definite quadratic form q(x). The inner product of two vectors x and y is the value of the symmetric bilinear form
+The usual Euclidean distance between two points A and B is 
+In older definition of Euclidean spaces through synthetic geometry, vectors are defined as equivalence classes of ordered pairs of points under equipollence (the pairs (A, B) and (C, D) are equipollent if the points A, B, D, C (in this order) form a parallelogram). It is straightforward to verify that the vectors form a vector space, the square of the Euclidean distance is a quadratic form on the space of vectors, and the two definitions of Euclidean spaces are equivalent.
+Affine properties
+In Euclidean geometry, the common phrase "affine property" refers to a property that can be proved in affine spaces, that is, it can be proved without using the quadratic form and its associated inner product. In other words, an affine property is a property that does not involve lengths and angles. Typical examples are parallelism, and the definition of a tangent. A non-example is the definition of a normal.
+Equivalently, an affine property is a property that is invariant under affine transformations of the Euclidean space.
+Affine combinations and barycenter
+Let a1, ..., an be a collection of n points in an affine space, and $MATH$ be n elements of the ground field.
+Suppose that $MATH$. For any two points o and o'  one has
+Thus, this sum is independent of the choice of the origin, and the resulting vector may be denoted
+When $MATH$, one retrieves the definition of the subtraction of points.
+Now suppose instead that the field elements satisfy $MATH$. For some choice of an origin o, denote by $MATH$ the unique point such that
+One can show that $MATH$ is independent from the choice of o. Therefore, if
+one may write
+The point $MATH$ is called the barycenter of the $MATH$ for the weights $MATH$. One says also that $MATH$ is an affine combination of the $MATH$ with coefficients $MATH$.
+Examples
+Affine span and bases
+For any subset X of an affine space A, there is a smallest affine subspace that contains it, called the affine span of X. It is the intersection of all affine subspaces containing X, and its direction is the intersection of the directions of the affine subspaces that contain X.
+The affine span of X is the set of all (finite) affine combinations of points of X, and its direction is the linear span of the x − y for x and y in X. If one chooses a particular point x0, the direction of the affine span of X is also the linear span of the x – x0 for x in X.
+One says also that the affine span of X is generated by X and that X is a generating set of its affine span.
+A set X of points of an affine space is said to be affinely independent or, simply, independent, if the affine span of any strict subset of X is a strict subset of the affine span of X. An affine basis or barycentric frame (see § Barycentric coordinates, below) of an affine space is a generating set that is also independent (that is a minimal generating set).
+Recall that the dimension of an affine space is the dimension of its associated vector space. The bases of an affine space of finite dimension n are the independent subsets of n + 1 elements, or, equivalently, the generating subsets of n + 1 elements. Equivalently, {x0, ..., xn} is an affine basis of an affine space if and only if {x1 − x0, ..., xn − x0} is a linear basis of the associated vector space.
+Coordinates
+There are two strongly related kinds of coordinate systems that may be defined on affine spaces.
+Barycentric coordinates
+Let A be an affine space of dimension n over a field k, and $MATH$ be an affine basis of A. The properties of an affine basis imply that for every x in A there is a unique (n + 1)-tuple $MATH$ of elements of k such that
+and
+The $MATH$ are called the barycentric coordinates of x over the affine basis $MATH$. If the xi are viewed as bodies that have weights  (or masses) $MATH$, the point x is thus the barycenter of the xi, and this explains the origin of the term barycentric coordinates.
+The barycentric coordinates define an affine isomorphism between the affine space A and the affine subspace of kn + 1 defined by the equation $MATH$.
+For affine spaces of infinite dimension, the same definition applies, using only finite sums. This means that for each point, only a finite number of coordinates are non-zero.
+Affine coordinates
+An affine frame of an affine space consists of a point, called the origin, and a linear basis of the associated vector space. More precisely, for an affine space A with associated vector space $MATH$, the origin o belongs to A, and the linear basis is a basis (v1, ..., vn) of $MATH$ (for simplicity of the notation, we consider only the case of finite dimension, the general case is similar).
+For each point p of A, there is a unique sequence $MATH$ of elements of the ground field such that
+or equivalently
+The $MATH$ are called the affine coordinates of p over the affine frame (o, v1, ..., vn).
+Example: In Euclidean geometry, Cartesian coordinates are affine coordinates relative to an orthonormal frame, that is an affine frame (o, v1, ..., vn) such that (v1, ..., vn) is an orthonormal basis.
+Relationship between barycentric and affine coordinates
+Barycentric coordinates and affine coordinates are strongly related, and may be considered as equivalent.
+In fact, given a barycentric frame
+one deduces immediately the affine frame
+and, if
+are the barycentric coordinates of a point over the barycentric frame, then the affine coordinates of the same point over the affine frame are
+Conversely, if
+is an affine frame, then
+is a barycentric frame. If
+are the affine coordinates of a point over the affine frame, then its barycentric coordinates over the barycentric frame are
+Therefore, barycentric and affine coordinates are almost equivalent. In most applications, affine coordinates are preferred, as involving less coordinates that are independent. However, in the situations where the important points of the studied problem are affinely independent, barycentric coordinates may lead to simpler computation, as in the following example.
+Example of the triangle
+The vertices of a non-flat triangle form an affine basis of the Euclidean plane. The barycentric coordinates allows easy characterization of the elements of the triangle that do not involve angles or distances:
+The vertices are the points of barycentric coordinates (1, 0, 0),  (0, 1, 0) and  (0, 0, 1). The lines supporting the edges are the points that have a zero coordinate. The edges themselves are the points that have one zero coordinate and two nonnegative coordinates. The interior of the triangle are the points whose coordinates are all positive. The medians are the points that have two equal coordinates, and the centroid is the point of coordinates (1/3, 1/3, 1/3).
+Properties of affine homomorphisms
+Image and fibers
+Let
+be an affine homomorphism, with
+as associated linear map.
+The image of f is the affine subspace f(E) of  F, which has $MATH$ as associated vector space. As an affine space does not have a zero element, an affine homomorphism does not have a kernel. However, for any point x of f(E), the inverse image f–1(x) is an affine subspace of E, of direction $MATH$. This affine subspace is called the fiber of x.
+Projection
+An important example is the projection parallel to some direction onto an affine subspace. The importance of this example lies in the fact that Euclidean spaces are affine spaces, and that these kinds of projections are fundamental in Euclidean geometry.
+More precisely, given an affine space E with associated vector space $MATH$, let F be an affine subspace of direction $MATH$, and D be a complementary subspace of $MATH$ in $MATH$ (this means that every vector of $MATH$ may be decomposed in a unique way as the sum of an element of $MATH$ and an element of D). For every point x of E, its projection to F parallel to D is the unique point p(x) in F such that
+This is an affine homomorphism whose associated linear map $MATH$ is defined by
+for x and y in E.
+The image of this projection is  F, and its fibers are the subspaces of direction  D.
+Quotient space
+Although kernels are not defined for affine spaces, quotient spaces are defined. This results from the fact that "belonging to the same fiber of an affine homomorphism" is an equivalence relation.
+Let  E be an affine space, and  D be a linear subspace of the associated vector space $MATH$. The quotient E/D of  E by  D is the quotient of  E by the equivalence relation such that x and y are equivalent if
+This quotient is an affine space, which has $MATH$ as associated vector space.
+For every affine homomorphism $MATH$, the image is isomorphic to the quotient of  E by the kernel of the associated linear map. This is the first isomorphism theorem for affine spaces.
+Axioms
+Affine spaces are usually studied by analytic geometry using coordinates, or equivalently vector spaces. They can also be studied as synthetic geometry by writing down axioms, though this approach is much less common. There are several different systems of axioms for affine space.
+Coxeter (1969, p. 192) axiomatizes the special case of affine geometry over the reals as ordered geometry together with an affine form of Desargues's theorem and an axiom stating that in a plane there is at most one line through a given point not meeting a given line.
+Affine planes satisfy the following axioms (Cameron 1991, chapter 2):
+(in which two lines are called parallel if they are equal or
+disjoint):
+As well as affine planes over fields (or division rings), there are also many non-Desarguesian planes satisfying these axioms. (Cameron 1991, chapter 3) gives axioms for higher-dimensional affine spaces.
+Purely axiomatic affine geometry is more general than affine spaces and is treated in a separate article.
+Relation to projective spaces
+Affine spaces are contained in projective spaces.  For example, an affine plane can be obtained from any projective plane by removing one line and all the points on it, and conversely any affine plane can be used to construct a projective plane as a closure by adding a line at infinity whose points correspond to equivalence classes of parallel lines.  Similar constructions hold in higher dimensions.
+Further, transformations of projective space that preserve affine space (equivalently, that leave the hyperplane at infinity invariant as a set) yield transformations of affine space. Conversely, any affine linear transformation extends uniquely to a projective linear transformation, so the affine group is a subgroup of the projective group. For instance, Möbius transformations (transformations of the complex projective line, or Riemann sphere) are affine (transformations of the complex plane) if and only if they fix the point at infinity.
+Affine algebraic geometry
+In algebraic geometry, an affine variety (or, more generally, an affine algebraic set) is defined as the subset of an affine space that is the set of the common zeros of a set of so-called polynomial functions over the affine space. For defining a polynomial function over the affine space, one has to choose an affine frame. Then, a polynomial function is a function such that the image of any point is the value of some multivariate polynomial function of the coordinates of the point. As a change of affine coordinates may be expressed by linear functions (more precisely affine functions) of the coordinates, this definition is independent of a particular choice of coordinates.
+The choice of a system of affine coordinates for an affine space $MATH$ of dimension n over a field k induces an affine isomorphism between $MATH$ and the affine coordinate space kn. This explains why, for simplification, many textbooks write $MATH$, and introduce affine algebraic varieties as the common zeros of polynomial functions over kn.
+As the whole affine space is the set of the common zeros of the zero polynomial, affine spaces are affine algebraic varieties.
+Ring of polynomial functions
+By the definition above, the choice of an affine frame of an affine space $MATH$ allows one to identify the polynomial functions on $MATH$ with polynomials in n variables, the ith variable representing the function that maps a point to its ith coordinate. It follows that the set of polynomial functions over $MATH$ is a k-algebra, denoted $MATH$, which is isomorphic to the polynomial ring $MATH$.
+When one changes coordinates, the isomorphism between $MATH$ and $MATH$ changes accordingly, and this induces an automorphism of $MATH$, which maps each indeterminate to a polynomial of degree one. It follows that the total degree defines a filtration of $MATH$, which is independent from the choice of coordinates. The total degree defines also a graduation, but it depends on the choice of coordinates, as a change of affine coordinates may map indeterminates on non-homogeneous polynomials.
+Zariski topology
+Affine spaces over topological fields, such as the real or the complex numbers, have a natural topology. The Zariski topology, which is defined for affine spaces over any field, allows use of topological methods in any case. Zariski topology is the unique topology on an affine space whose closed sets are affine algebraic sets (that is sets of the common zeros of polynomial functions over the affine set). As, over a topological field, polynomial functions are continuous, every Zariski closed set is closed for the usual topology, if any. In other words, over a topological field, Zariski topology is coarser than the natural topology.
+There is a natural injective function from an affine space into the set of prime ideals (that is the spectrum) of its ring of polynomial functions. When affine coordinates have been chosen, this function maps the point of coordinates $MATH$ to the maximal ideal $MATH$. This function is a homeomorphism (for the Zariski topology of the affine space and of the spectrum of the ring of polynomial functions) of the affine space onto the image of the function.
+The case of an algebraically closed ground field is especially important in algebraic geometry, because, in this case, the homeomorphism above is a map between the affine space and the set of all maximal ideals of the ring of functions (this is Hilbert's Nullstellensatz).
+This is the starting idea of scheme theory of Grothendieck, which consists, for studying algebraic varieties, of considering as "points", not only the points of the affine space, but also all the prime ideals of the spectrum. This allows gluing together algebraic varieties in a similar way as, for manifolds, charts are glued together for building a manifold.
+Cohomology
+Like all affine varieties, local data on an affine space can always be patched together globally: the cohomology of affine space is trivial. More precisely, $MATH$ for all coherent sheaves F, and integers $MATH$. This property is also enjoyed by all other affine varieties. But also all of the étale cohomology groups on affine space are trivial. In particular, every line bundle is trivial. More generally, the Quillen–Suslin theorem implies that every algebraic vector bundle over an affine space is trivial.
+See also
+Notes

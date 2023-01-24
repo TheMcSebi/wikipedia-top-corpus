@@ -1,0 +1,21 @@
+Mountain Time Zone
+The Mountain Time Zone of North America keeps time by subtracting seven hours from Coordinated Universal Time (UTC) when standard time (UTC−07:00) is in effect, and by subtracting six hours during daylight saving time (UTC−06:00). The clock time in this zone is based on the mean solar time at the 105th meridian west of the Greenwich Observatory.  In the United States, the exact specification for the location of time zones and the dividing lines between zones is set forth in the Code of Federal Regulations at 49 CFR 71.
+In the United States and Canada, this time zone is generically called Mountain Time (MT). Specifically, it is Mountain Standard Time (MST) when observing standard time, and Mountain Daylight Time (MDT) when observing daylight saving time.  The term refers to the Rocky Mountains, which range from British Columbia to New Mexico. In Mexico, this time zone is known as the tiempo de la montaña or zona Pacífico ("Pacific Zone"). In the US and Canada, the Mountain Time Zone is to the east of the Pacific Time Zone and to the west of the Central Time Zone.
+In some areas, starting in 2007, the local time changes from MST to MDT at 2 am MST to 3 am MDT on the second Sunday in March and returns at 2 am MDT to 1 am MST on the first Sunday in November.
+Sonora in Mexico and most of Arizona in the United States do not observe daylight saving time, and during the spring, summer, and autumn months they are on the same time as Pacific Daylight Time. The Navajo Nation, most of which lies within Arizona but extends into Utah and New Mexico (which do observe DST), does observe DST, although the Hopi Reservation, as well as some Arizona state offices lying within the Navajo Nation, do not.
+The largest city in the Mountain Time Zone is Phoenix, Arizona; the Phoenix metropolitan area is the largest metropolitan area in the zone.
+Canada
+One province and one territory are fully contained in the Mountain Time Zone:
+On September 24, 2020, Yukon switched to the Mountain Standard Time year-round. Therefore, clocks in Yukon and Alberta are the same in the winter, and Alberta is one hour ahead in summer. Previously the territory had used the Pacific Time Zone with daylight saving time: UTC−8 in winter and UTC−7 in summer.
+One province and one territory are split between the Mountain Time Zone and the Pacific Time Zone:
+One territory and one province are split between the Mountain Time Zone and the Central Time Zone
+Mexico
+The following states have the same time as Mountain Time Zone:
+United States
+Six states are fully contained in the Mountain Time Zone:
+Three states are split between the Mountain Time Zone and the Pacific Time Zone. The following locations observe Mountain Time:
+Five states are split between the Mountain Time Zone and the Central Time Zone. The following locations observe Mountain Time:
+Major metropolitan areas
+The following is a list of major cities located within the Mountain Time Zone, ordered alphabetically.
+See also
+Notes

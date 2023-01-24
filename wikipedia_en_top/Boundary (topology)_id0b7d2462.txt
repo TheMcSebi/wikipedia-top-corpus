@@ -1,0 +1,63 @@
+Boundary (topology)
+In topology and mathematics in general, the boundary of a subset S of a topological space X is the set of points in the closure of S not belonging to the interior of S. An element of the boundary of S is called a boundary point of S. The term boundary operation refers to finding or taking the boundary of a set.  Notations used for boundary of a set S include $MATH$  and $MATH$.  Some authors (for example Willard, in General Topology) use the term frontier instead of boundary in an attempt to avoid confusion with a different definition used in algebraic topology and the theory of manifolds.  Despite widespread acceptance of the meaning of the terms boundary and frontier, they have sometimes been used to refer to other sets.  For example, Metric Spaces by E. T. Copson uses the term boundary to refer to Hausdorff's border, which is defined as the intersection of a set with its boundary. Hausdorff also introduced the term residue, which is defined as the intersection of a set with the closure of the border of its complement.
+A connected component of the boundary of S is called a boundary component of S.
+Common definitions
+There are several equivalent definitions for the boundary of a subset $MATH$ of a topological space $MATH$ which will be denoted by $MATH$ $MATH$ or simply $MATH$ if $MATH$ is understood:
+A boundary point of a set refers to any element of that set's boundary. The boundary $MATH$ defined above is sometimes called the set's topological boundary to distinguish it from other similarly named notions such as the boundary of a manifold with boundary or the boundary of a manifold with corners, to name just a few examples.
+Properties
+The closure of a set $MATH$ equals the union of the set with its boundary: 
+where $MATH$ denotes the closure of $MATH$ in $MATH$ 
+A set is closed if and only if it contains its boundary, and open if and only if it is disjoint from its boundary. The boundary of a set is closed; this follows from the formula $MATH$ which expresses $MATH$ as the intersection of two closed subsets of $MATH$
+ 
+
+("Trichotomy") Given any subset $MATH$ each point of $MATH$ lies in exactly one of the three sets $MATH$ and $MATH$  Said differently, 
+ and these three sets are pairwise disjoint. Consequently, if these set are not empty then they form a partition of $MATH$
+A point $MATH$ is a boundary point of a set if and only if every neighborhood of $MATH$ contains at least one point in the set and at least one point not in the set. 
+The boundary of the interior of a set as well as the boundary of the closure of a set are both contained in the boundary of the set. 
+
+Conceptual Venn diagram showing the relationships among different points of a subset $MATH$ of $MATH$ $MATH$ = set of limit points of $MATH$ $MATH$ set of boundary points of $MATH$ area shaded green = set of interior points of $MATH$ area shaded yellow = set of isolated points of $MATH$ areas shaded black = empty sets.  Every point of $MATH$ is either an interior point or a boundary point.  Also, every point of $MATH$ is either an accumulation point or an isolated point.  Likewise, every boundary point of $MATH$ is either an accumulation point or an isolated point.  Isolated points are always boundary points.
+Examples
+Characterizations and general examples
+The boundary of a set is equal to the boundary of the set's complement: 
+A set $MATH$ is a dense open subset of $MATH$ if and only if $MATH$
+The interior of the boundary of a closed set is the empty set. 
+Consequently, the interior of the boundary of the closure of a set is the empty set. 
+The interior of the boundary of an open set is also the empty set. 
+Consequently, the interior of the boundary of the interior of a set is the empty set. 
+In particular, if $MATH$ is a closed or open subset of $MATH$ then there does not exist any non-empty subset $MATH$ such that $MATH$ is also an open subset of $MATH$ 
+This fact is important for the definition and use of nowhere dense subsets, meager subsets, and Baire spaces. 
+A set is the boundary of some open set if and only if it is closed and nowhere dense. 
+The boundary of a set is empty if and only if the set is both closed and open (that is, a clopen set).
+Concrete examples
+Consider the real line $MATH$ with the usual topology (that is, the topology whose basis sets are open intervals) and $MATH$ the subset of rational numbers (whose topological interior in $MATH$ is empty).  Then
+These last two examples illustrate the fact that the boundary of a dense set with empty interior is its closure. They also show that it is possible for the boundary $MATH$ of a subset $MATH$ to contain a non-empty open subset of $MATH$; that is, for the interior of $MATH$ in $MATH$ to be non-empty. However, a closed subset's boundary always has an empty interior. 
+In the space of rational numbers with the usual topology (the subspace topology of $MATH$), the boundary of $MATH$ where $MATH$ is irrational, is empty.
+The boundary of a set is a topological notion and may change if one changes the topology.  For example, given the usual topology on $MATH$ the boundary of a closed disk $MATH$ is the disk's surrounding circle: $MATH$  If the disk is viewed as a set in $MATH$ with its own usual topology, that is, $MATH$ then the boundary of the disk is the disk itself: $MATH$  If the disk is viewed as its own topological space (with the subspace topology of $MATH$), then the boundary of the disk is empty. 
+Boundary of an open ball vs. its surrounding sphere
+This example demonstrates that the topological boundary of an open ball of radius $MATH$ is not necessarily equal to the corresponding sphere of radius $MATH$ (centered at the same point); it also shows that the closure of an open ball of radius $MATH$ is not necessarily equal to the closed ball of radius $MATH$ (again centered at the same point). 
+Denote the usual Euclidean metric on $MATH$ by
+which induces on $MATH$ the usual Euclidean topology. 
+Let $MATH$ denote the union of the $MATH$-axis $MATH$ with the unit circle 
+ centered at the origin $MATH$ :=(0,0)\in \mathbb {R} ^{2}}
+  
+; that is, $MATH$ which is a topological subspace of $MATH$ whose topology is equal to that induced by the (restriction of) the metric $MATH$
+In particular, the sets $MATH$ and $MATH$ are all closed subsets of $MATH$ and thus also closed subsets of its subspace $MATH$ 
+Henceforth, unless it clearly indicated otherwise, every open ball, closed ball, and sphere should be assumed to be centered at the origin $MATH$ and moreover, only the metric space $MATH$ will be considered (and not its superspace $MATH$); this being a path-connected and locally path-connected complete metric space. 
+Denote the open ball of radius $MATH$ in $MATH$ by 
+$MATH$
+so that when $MATH$ then 
+is the open sub-interval of the $MATH$-axis strictly between $MATH$ and $MATH$ 
+The unit sphere in $MATH$ ("unit" meaning that its radius is $MATH$) is 
+while the closed unit ball in $MATH$ is the union of the open unit ball and the unit sphere centered at this same point: 
+However, the topological boundary $MATH$ and topological closure $MATH$ in $MATH$ of the open unit ball $MATH$ are:
+In particular, the open unit ball's topological boundary $MATH$ is a proper subset of the unit sphere $MATH$ in $MATH$ 
+And the open unit ball's topological closure $MATH$ is a proper subset of the closed unit ball $MATH$ in $MATH$ 
+The point $MATH$ for instance, cannot belong to $MATH$ because there does not exist a sequence in $MATH$ that converges to it; the same reasoning generalizes to also explain why no point in $MATH$ outside of the closed sub-interval $MATH$ belongs to $MATH$ Because the topological boundary of the set $MATH$ is always a subset of $MATH$'s closure, it follows that $MATH$ must also be a subset of $MATH$
+In any metric space $MATH$ the topological boundary in $MATH$ of an open ball of radius $MATH$ centered at a point $MATH$ is always a subset of the sphere of radius $MATH$ centered at that same point $MATH$; that is, 
+always holds. 
+Moreover, the unit sphere in $MATH$ contains $MATH$ which is an open subset of $MATH$ This shows, in particular, that the unit sphere $MATH$ in $MATH$ contains a non-empty open subset of $MATH$
+Boundary of a boundary
+For any set $MATH$ where $MATH$ denotes the superset with equality holding if and only if the boundary of $MATH$ has no interior points, which will be the case for example if $MATH$ is either closed or open.  Since the boundary of a set is closed, $MATH$ for any set $MATH$  The boundary operator thus satisfies a weakened kind of idempotence.
+In discussing boundaries of manifolds or simplexes and their simplicial complexes, one often meets the assertion that the boundary of the boundary is always empty.  Indeed, the construction of the singular homology rests critically on this fact.  The explanation for the apparent incongruity is that the topological boundary (the subject of this article) is a slightly different concept from the boundary of a manifold or of a simplicial complex.  For example, the boundary of an open disk viewed as a manifold is empty, as is its topological boundary viewed as a subset of itself, while its topological boundary viewed as a subset of the real plane is the circle surrounding the disk.  Conversely, the boundary of a closed disk viewed as a manifold is the bounding circle, as is its topological boundary viewed as a subset of the real plane, while its topological boundary viewed as a subset of itself is empty.  In particular, the topological boundary depends on the ambient space, while the boundary of a manifold is invariant.
+See also
+Notes

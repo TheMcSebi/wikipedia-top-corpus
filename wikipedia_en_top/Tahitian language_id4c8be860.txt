@@ -1,0 +1,111 @@
+Tahitian language
+Tahitian (Tahitian: Reo Tahiti, part of Reo Māʼohi, languages of French Polynesia) is a Polynesian language, spoken mainly on the Society Islands in French Polynesia. It belongs to the Eastern Polynesian group.
+As Tahitian had no written tradition before the arrival of the Western colonists, the spoken language was first transcribed by missionaries of the London Missionary Society in the early 19th century.
+Context
+Tahitian is the most prominent of the indigenous Polynesian languages spoken in French Polynesia (reo māʼohi). The latter also include:
+History
+When Europeans first arrived in Tahiti at the end of the 18th century, there was no writing system and Tahitian was only a spoken language. Reports by some early European explorers including Quirós include attempts to transcribe notable Tahitian words heard during initial interactions with the indigenous people of Marquesa. Aboard the Endeavour, Lt. James Cook and the ship's master, Robert Molyneux, transcribed the names of 72 and 55 islands respectively as recited by the Tahitian arioi, Tupaia. Many of these were "non-geographic" or "ghost islands" of Polynesian mythology and all were transcribed using phonetic English spelling. In 1797, Protestant missionaries arrived in Tahiti on a British ship called Duff, captained by James Wilson. Among the missionaries was Henry Nott (1774–1844) who learned the Tahitian language and worked with Pōmare II, a Tahitian king, and the Welsh missionary, John Davies (1772–1855), to translate the Bible into Tahitian. A system of five vowels and nine consonants was adopted for the Tahitian Bible, which would become the key text by which many Polynesians would learn to read and write. John Davies's spelling book (1810) was the first book to be printed in the Tahitian language. He also published a grammar and a dictionary of that language.
+Phonology
+Tahitian features a very small number of phonemes: five vowels and nine consonants, not counting the lengthened vowels and diphthongs. Notably, the consonant inventory lacks any sort of phonemic dorsal consonants.
+There is a five-vowel inventory with vowel length:
+When two vowels follow each other in a V1V2 sequence, they form a diphthong when V1 is more open, and as a consequence more sonorant, than V2. An exception to this rule is the sequence /eu/, which never becomes the diphthong [eu̯]. Two vowels with the same sonority are generally pronounced in hiatus, as in [no.ˈe.ma] 'November', but there is some variability. The word tiuno 'June' may be pronounced [ti.ˈu.no], with hiatus, or [ˈtiu̯.no], with a diphthong.
+Next follows a table with all phonemes in more detail.
+The glottal stop or ʼeta is a genuine consonant. This is typical of Polynesian languages (compare to the Hawaiian ʻokina and others). See Typography below.
+Tahitian makes a phonemic distinction between long and short vowels; long vowels are marked with macron or tārava. For example, pāto, meaning 'to pick, to pluck' and pato, 'to break out', are distinguished solely by their vowel length. However, macrons are seldom written among older people because Tahitian writing was not taught at school until 1981.
+In rapid speech, the common article te is pronounced with a schwa, as [tə].
+Also in rapid speech, /tVt/ sequences are dissimilated to [kVt], so te tāne 'man, male' is pronounced [kə taːne], te peretiteni 'president' becomes [tə perekiteni]. Intervening syllables prevent this dissimilation, so te mata 'eye' is never pronounced with a [k].
+While standard Tahitian only has [k] as a result of dissimilation, the dialects of the Leeward Islands have many cases of [k] corresponding to standard Tahitian [t]. For example, inhabitants of Maupiti pronounce their island's name [maupiki].
+Finally there is a toro ʼaʼï, a trema put on the i, but only used in ïa when used as a reflexive pronoun. It does not indicate a different pronunciation. Usage of this diacritic was promoted by academics but has now virtually disappeared, mostly because there is no difference in the quality of the vowel when the trema is used and when the macron is used.
+Tahitian syllables are entirely open, as is usual in Polynesian languages. If a content word is composed of a single syllable with a single vowel, its vowel must be long. Thus, every Tahitian content word is at least two moras long.
+Stress
+Stress is predictable in Tahitian. It always falls on one of the final three syllables of a word, and relies on the distinction between heavy and light syllables. Syllables with diphthongs or with long vowels are both considered to be heavy. Other syllables are considered to be light. Heavy syllables always bear secondary stress. In general main stress falls on the penultimate syllable in a word. However, if there is a long vowel or diphthong in the last syllable, that syllable receives main stress. If there is a long vowel in the antepenultimate syllable, and the penultimate syllable is light, the antepenultimate syllable receives main stress.
+There is another type of words whose stress pattern requires another rule to explain. These include mutaʼa 'first', tiaʼa 'shoe', ariʼi 'king', all of which are stressed on the antepenultimate syllable. In all these words, the last two vowels are identical, and are separated by a glottal stop. One can posit that in such words, the last syllable is extrametrical, and does not count towards stress assignment.
+This extrametricality does not apply in the case of words with only two syllables, which remain stressed on the penultimate syllable.
+In compound words, each morpheme's stressed syllable carries secondary stress, and the stressed syllable of the last morpheme carries primary stress. Thus, for example, manureva 'airplane', from manu 'bird' and reva 'leave', is pronounced [ˌmanuˈreva].
+Tahitian has reduplication as well. The endings of some verbs can be duplicated in order to add a repetitive sense to the verb. For example, reva becomes revareva, haʼaviti 'do quickly' becomes haʼavitiviti, and pīhae 'to tear' becomes pīhaehae. In reduplicated verbs, the final verb ending bears main stress while the earlier ones bears secondary stress.
+When suffixes are added to a word, primary and secondary stresses in the root word are maintained as secondary and tertiary stresses, and a new primary stress is calculated for the word. Tertiary and secondary stress are often merged. The suffix does not always carry main stress. For example, when the nominalizing suffix -raʼa is applied to verbs, regular stress assignment results in the last syllable of the root verb being stressed. This is due to the destressing of the V1 in /V1ʔV2/. To give an example, the word oraraʼa 'life', from ora 'to live' and -raʼa, is pronounced with antepenultimate stress.
+Prefixes added to a root word do not carry primary stress. For example, ʼōrama 'vision', related to rama 'vision', is stressed on the second syllable, and not the first, even though it has a long vowel. This can also be seen with the verb taʼa 'to be understood'. When combined with the causative prefix faʼa-, it becomes faʼataʼa, which is stressed on the penultimate syllable.
+Typography
+In former practice, the glottal stop used to be seldom written, but today it is commonly spelled out, although often as a straight apostrophe (ʼ, see below) instead of the turned curly apostrophe used in Hawaiian. Alphabetical word ordering in dictionaries used to ignore the existence of glottal stops. However, academics and scholars now publish text content with due use of glottal stops.
+Although the use of ʼeta and tārava is equal to the usage of such symbols in other Polynesian languages, it is promoted by the Académie tahitienne and adopted by the territorial government. There are at least a dozen other ways of applying accents. Some methods are historical and no longer used. At this moment, the Académie tahitienne seems to have not made a final decision yet whether the ʼeta should appear as a normal letter apostrophe (U+02BC ʼ MODIFIER LETTER APOSTROPHE) or a turned letter apostrophe (U+02BB ʻ MODIFIER LETTER TURNED COMMA, called ʻokina in Hawaiian).
+As the ASCII apostrophe (U+0027 ' APOSTROPHE) is the character output when hitting the apostrophe key on a usual French AZERTY keyboard, it has become natural for writers to use the punctuation mark for glottal stops, although to avoid the complications caused by substituting punctuation characters for letters in digital documents, the saltillo (U+A78C ꞌ LATIN SMALL LETTER SALTILLO) may be used instead.
+Today, macronized vowels and ʼeta are also available on mobile devices, either by default or after installing an application to input vowels with macron as well as the ʼeta.
+Grammar
+In its morphology, Tahitian relies on the use of "helper words" (such as prepositions, articles, and particles) to encode grammatical relationships, rather than on inflection, as would be typical of European languages. It is a very analytic language, except when it comes to the personal pronouns, which have separate forms for singular, plural and dual numbers.
+Personal pronouns
+Like many Austronesian languages, Tahitian has separate words for inclusive and exclusive we, and distinguishes singular, dual, and plural.
+Singular
+Dual
+Plural
+Word order
+Typologically, Tahitian word order is VSO (verb–subject–object), which is typical of Polynesian languages. Some examples of word order are:
+tē
+PRS.CONT
+tāmāꞌa
+eat
+nei
+PRS.CONT
+au
+I
+tē tāmāꞌa nei au
+PRS.CONT eat PRS.CONT I
+"I am eating"
+ꞌua
+PFV
+tāpū
+chop
+vau
+I
+ꞌi
+O
+te
+the
+vahie
+wood
+ꞌua tāpū vau ꞌi te vahie
+PFV chop I O the wood
+"I chopped the wood"
+ꞌua
+PFV
+hohoni
+bite
+hia
+PAS
+ꞌoia
+he
+e
+by
+te
+the
+ꞌūrī
+dog
+ꞌua hohoni hia ꞌoia e te ꞌūrī
+PFV bite PAS he by the dog
+"He was bitten by the dog"
+[*e mea marō te haʼari – 'Are thing dry the coconut', 'The coconuts are dry']
+[*e taʼata pūai ʼoia – 'Is man strong he', 'He is a strong man']
+Definite article
+The article te is the definite article and means 'the'. In conversation it is also used as an indefinite article for 'a' or 'an' – for example:
+The plural of the definite article te is te mau – for example:
+te alone (with no plural marking) can also encode an unspecified, generic number – for example:
+vs.
+E
+The indefinite article is e
+For example;
+The article e also introduces an indefinite common noun.
+For example;
+In contrast, te hōʼē means 'a certain'.
+For example;
+ʼO
+The article ʼo is used with proper nouns and pronouns and implies 'it is'.
+For example;
+Aspect and modality markers
+Verbal aspect and modality are important parts of Tahitian grammar, and are indicated with markers preceding and/or following the invariant verb. Important examples are:
+Taboo names – piʼi
+In many parts of Polynesia the name of an important leader was (and sometimes still is) considered sacred (tapu) and was therefore accorded appropriate respect (mana). In order to avoid offense, all words resembling such a name were suppressed and replaced by another term of related meaning until the personage died. If, however, the leader should happen to live to a very great age this temporary substitution could become permanent.
+In the rest of Polynesia tū means 'to stand', but in Tahitian it became tiʼa because the word was included in the name of king Tū-nui-ʼēʼa-i-te-atua. Likewise fetū ('star') has become in Tahiti fetiʼa and aratū ('pillar') became aratiʼa. Although nui ('big') still occurs in some compounds, like Tahiti-nui, the usual word is rahi (which is a common word in Polynesian languages for 'large'). The term ʼēʼa fell into disuse, replaced by purūmu or porōmu. Currently ʼēʼa means 'path' while purūmu means 'road'.
+Tū also had a nickname, Pō-mare (literally means 'night coughing'), under which his dynasty has become best known. By consequence pō ('night') became ruʼi (currently only used in the Bible, pō having become the word commonly in use once again), but mare (literally 'cough') has irreversibly been replaced by hota.
+Other examples include:
+Some of the old words are still used on the Leewards.
+See also
+Notes

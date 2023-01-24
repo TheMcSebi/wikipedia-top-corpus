@@ -1,0 +1,89 @@
+Linear map
+In mathematics, and more specifically in linear algebra, a linear map (also called a linear mapping, linear transformation, vector space homomorphism, or in some contexts linear function) is a mapping $MATH$ between two  vector spaces that preserves the operations of vector addition and scalar multiplication. The same names and the same definition are also used for the more general case of modules over a ring; see Module homomorphism.
+If a linear map is a bijection then it is called a linear isomorphism. In the case where $MATH$, a linear map is called a (linear) endomorphism. Sometimes the term linear operator refers to this case, but the term "linear operator" can have different meanings for different conventions: for example, it can be used to emphasize that $MATH$ and $MATH$ are real vector spaces (not necessarily with $MATH$), or it can be used to emphasize that $MATH$ is a function space, which is a common convention in functional analysis. Sometimes the term linear function has the same meaning as linear map, while in analysis it does not.
+A linear map from V  to W always maps the origin of V  to the origin of W. Moreover, it maps  linear subspaces in V onto linear subspaces in W (possibly of a lower dimension); for example, it maps a plane through the origin in V to either a plane through the origin in W, a line through the origin in W, or just the origin in W. Linear maps can often be represented as matrices, and simple examples include rotation and reflection linear transformations.
+In the language of category theory, linear maps are the morphisms of vector spaces.
+Definition and first consequences
+Let $MATH$ and $MATH$ be vector spaces over the same field $MATH$. 
+A function $MATH$ is said to be a linear map if for any two vectors $MATH$ and any scalar $MATH$ the following two conditions are satisfied:
+Thus, a linear map is said to be operation preserving. In other words, it does not matter whether the linear map is applied before (the right hand sides of the above examples) or after (the left hand sides of the examples) the operations of addition and scalar multiplication.
+By the associativity of the addition operation denoted as +, for any vectors $MATH$ and scalars $MATH$ the following equality holds:
+  Thus a linear map is one which preserves linear combinations.
+Denoting the zero elements of the vector spaces $MATH$ and $MATH$ by $MATH$ and $MATH$ respectively, it follows that $MATH$ Let $MATH$ and $MATH$ in the equation for homogeneity of degree 1:
+A linear map $MATH$ with $MATH$ viewed as a one-dimensional vector space over itself is called a linear functional.
+These statements generalize to any left-module $MATH$ over a ring $MATH$ without modification, and to any right-module upon reversing of the scalar multiplication.
+Examples
+Linear extensions
+Often, a linear map is constructed by defining it on a subset of a vector space and then extending it by linearity to the linear span of the domain. 
+A linear extension of a function $MATH$ is an extension of $MATH$ to some  vector space that is a linear map.
+Suppose $MATH$ and $MATH$ are vector spaces and $MATH$ is a function defined on some subset $MATH$ 
+Then $MATH$ can be extended to a linear map $MATH$ if and only if whenever $MATH$ is an integer, $MATH$ are scalars, and $MATH$ are vectors such that $MATH$ then necessarily $MATH$ 
+If a linear extension of $MATH$ exists then the linear extension $MATH$ is unique and
+holds for all $MATH$ and $MATH$ as above. 
+If $MATH$ is linearly independent then every function $MATH$ into any vector space has a linear extension to a (linear) map $MATH$ (the converse is also true). 
+For example, if $MATH$ and $MATH$ then the assignment $MATH$ and $MATH$ can be linearly extended from the linearly independent set of vectors $MATH$ to a linear map on $MATH$ The unique linear extension $MATH$ is the map that sends $MATH$ to
+Every (scalar-valued) linear functional $MATH$ defined on a vector subspace of a real or complex vector space $MATH$ has a linear extension to all of $MATH$ 
+Indeed, the Hahn–Banach dominated extension theorem even guarantees that when this linear functional $MATH$ is dominated by some given seminorm $MATH$ (meaning that $MATH$ holds for all $MATH$ in the domain of $MATH$) then there exists a linear extension to $MATH$ that is also dominated by $MATH$
+Matrices
+If $MATH$ and $MATH$ are finite-dimensional vector spaces and a basis is defined for each vector space, then every linear map from $MATH$ to $MATH$ can be represented by a matrix. This is useful because it allows concrete calculations. Matrices yield examples of linear maps: if $MATH$ is a real $MATH$ matrix, then $MATH$ describes a linear map $MATH$ (see Euclidean space).
+Let $MATH$ be a basis for $MATH$. Then every vector $MATH$ is uniquely determined by the coefficients $MATH$ in the field $MATH$:
+If $MATH$ is a linear map,
+which implies that the function f is entirely determined by the vectors $MATH$. Now let $MATH$ be a basis for $MATH$.  Then we can represent each vector $MATH$ as
+Thus, the function $MATH$ is entirely determined by the values of $MATH$. If we put these values into an $MATH$ matrix $MATH$, then we can conveniently use it to compute the vector output of $MATH$ for any vector in $MATH$.  To get $MATH$, every column $MATH$ of $MATH$ is a vector
+corresponding to $MATH$ as defined above. To define it more clearly, for some column $MATH$ that corresponds to the mapping $MATH$,
+where $MATH$ is the matrix of $MATH$. In other words, every column $MATH$ has a corresponding vector $MATH$ whose coordinates $MATH$ are the elements of column $MATH$. A single linear map may be represented by many matrices. This is because the values of the elements of a matrix depend on the bases chosen.
+The matrices of a linear transformation can be represented visually:
+Such that starting in the bottom left corner $MATH$ and looking for the bottom right corner $MATH$, one would left-multiply—that is, $MATH$. The equivalent method would be the "longer" method going clockwise from the same point such that $MATH$ is left-multiplied with $MATH$, or $MATH$.
+Examples in two dimensions
+In two-dimensional space R2 linear maps are described by 2 × 2 matrices. These are some examples:
+Vector space of linear maps
+The composition of linear maps is linear: if $MATH$ and $MATH$ are linear, then so is their composition $MATH$. It follows from this that the class of all vector spaces over a given field K, together with K-linear maps as morphisms, forms a category.
+The inverse of a linear map, when defined, is again a linear map.
+If $MATH$ and $MATH$ are linear, then so is their pointwise sum $MATH$, which is defined by $MATH$.
+If $MATH$ is linear and $MATH$ is an element of the ground field $MATH$, then the map $MATH$, defined by $MATH$, is also linear.
+Thus the set $MATH$ of linear maps from $MATH$ to $MATH$ itself forms a vector space over $MATH$, sometimes denoted $MATH$. Furthermore, in the case that $MATH$, this vector space, denoted $MATH$, is an associative algebra under composition of maps, since the composition of two linear maps  is again a linear map, and the composition of maps is always associative. This case is discussed in more detail below.
+Given again the finite-dimensional case, if bases have been chosen, then the composition of linear maps corresponds to the matrix multiplication, the addition of linear maps corresponds to the matrix addition, and the multiplication of linear maps with scalars corresponds to the multiplication of matrices with scalars.
+Endomorphisms and automorphisms
+A linear transformation $MATH$ is an endomorphism of $MATH$; the set of all such endomorphisms $MATH$  together with addition, composition and scalar multiplication as defined above forms an associative algebra with identity element over the field $MATH$ (and in particular a ring). The multiplicative identity element of this algebra is the identity map $MATH$.
+An endomorphism of $MATH$ that is also an isomorphism is called an automorphism of $MATH$. The composition of two automorphisms is again an automorphism, and the set of all automorphisms of $MATH$ forms a group, the automorphism group of $MATH$ which is denoted by $MATH$ or $MATH$. Since the automorphisms are precisely those endomorphisms which possess inverses under composition, $MATH$ is the group of units in the ring $MATH$.
+If $MATH$ has finite dimension $MATH$, then $MATH$ is isomorphic to the associative algebra of all $MATH$ matrices with entries in $MATH$. The automorphism group of $MATH$ is isomorphic to the  general linear group $MATH$ of all $MATH$ invertible matrices with entries in $MATH$.
+Kernel, image and the rank–nullity theorem
+If $MATH$ is linear, we define the kernel and the image or range of $MATH$ by
+$MATH$ is a subspace of $MATH$ and $MATH$ is a subspace of $MATH$.  The following dimension formula is known as the rank–nullity theorem:
+The number $MATH$ is also called the rank of $MATH$ and written as $MATH$, or sometimes, $MATH$; the number $MATH$ is called the nullity of $MATH$ and written as $MATH$ or $MATH$. If $MATH$ and $MATH$ are finite-dimensional, bases have been chosen and $MATH$ is represented by the matrix $MATH$, then the rank and nullity of $MATH$ are equal to the rank and nullity of the matrix $MATH$, respectively.
+Cokernel
+A subtler invariant of a linear transformation $MATH$ is the cokernel, which is defined as
+This is the dual notion to the kernel: just as the kernel is a subspace of the domain, the co-kernel is a quotient space of the target. Formally, one has the exact sequence
+These can be interpreted thus: given a linear equation f(v) = w to solve,
+The dimension of the co-kernel and the dimension of the image (the rank) add up to the dimension of the target space. For finite dimensions, this means that the dimension of the quotient space W/f(V) is the dimension of the target space minus the dimension of the image.
+As a simple example, consider the map f: R2 → R2, given by f(x, y) = (0, y). Then for an equation f(x, y) = (a, b) to have a solution, we must have a = 0 (one constraint), and in that case the solution space is (x, b) or equivalently stated, (0, b) + (x, 0), (one degree of freedom). The kernel may be expressed as the subspace (x, 0) < V: the value of x is the freedom in a solution – while the cokernel may be expressed via the map W → R, $MATH$: given a vector (a, b), the value of a is the obstruction to there being a solution.
+An example illustrating the infinite-dimensional case is afforded by the map f: R∞ → R∞, $MATH$ with b1 = 0 and bn + 1 = an for n > 0. Its image consists of all sequences with first element 0, and thus its cokernel consists of the classes of sequences with identical first element. Thus, whereas its kernel has dimension 0 (it maps only the zero sequence to the zero sequence), its co-kernel has dimension 1. Since the domain and the target space are the same, the rank and the dimension of the kernel add up to the same sum as the rank and the dimension of the co-kernel ($MATH$), but in the infinite-dimensional case it cannot be inferred that the kernel and the co-kernel of an endomorphism have the same dimension (0 ≠ 1). The reverse situation obtains for the map h: R∞ → R∞, $MATH$ with cn = an + 1. Its image is the entire target space, and hence its co-kernel has dimension 0, but since it maps all sequences in which only the first element is non-zero to the zero sequence, its kernel has dimension 1.
+Index
+For a linear operator with finite-dimensional kernel and co-kernel, one may define index as:
+namely the degrees of freedom minus the number of constraints.
+For a transformation between finite-dimensional vector spaces, this is just the difference dim(V) − dim(W), by rank–nullity. This gives an indication of how many solutions or how many constraints one has: if mapping from a larger space to a smaller one, the map may be onto, and thus will have degrees of freedom even without constraints. Conversely, if mapping from a smaller space to a larger one, the map cannot be onto, and thus one will have constraints even without degrees of freedom.
+The index of an operator is precisely the Euler characteristic of the 2-term complex 0 → V → W → 0. In operator theory, the index of Fredholm operators is an object of study, with a major result being the Atiyah–Singer index theorem.
+Algebraic classifications of linear transformations
+No classification of linear maps could be exhaustive. The following incomplete list enumerates some important classifications that do not require any additional structure on the vector space.
+Let V and W denote vector spaces over a field F and let T: V → W be a linear map.
+Monomorphism
+T is said to be injective or a monomorphism if any of the following equivalent conditions are true:
+Epimorphism
+T is said to be surjective or an epimorphism if any of the following equivalent conditions are true:
+Isomorphism
+T is said to be an isomorphism if it is both left- and right-invertible. This is equivalent to T being both one-to-one and onto (a bijection of sets) or also to T being both epic and monic, and so being a bimorphism.
+If T: V → V is an endomorphism, then:
+Change of basis
+Given a linear map which is an endomorphism whose matrix is A, in the basis B of the space it transforms vector coordinates [u] as [v] = A[u]. As vectors change with the inverse of B (vectors are contravariant) its inverse transformation is [v] = B[v'].
+Substituting this in the first expression
+hence
+Therefore, the matrix in the new basis is A′ = B−1AB, being B the matrix of the given basis.
+Therefore, linear maps are said to be 1-co- 1-contra-variant objects, or type (1, 1) tensors.
+Continuity
+A linear transformation between topological vector spaces, for example normed spaces, may be continuous. If its domain and codomain are the same, it will then be a continuous linear operator. A linear operator on a normed linear space is continuous if and only if it is bounded, for example, when the domain is finite-dimensional. An infinite-dimensional domain may have discontinuous linear operators.
+An example of an unbounded, hence discontinuous, linear transformation is differentiation on the space of smooth functions equipped with the supremum norm (a function with small values can have a derivative with large values, while the derivative of 0 is 0). For a specific example, sin(nx)/n converges to 0, but its derivative cos(nx) does not, so differentiation is not continuous at 0 (and by a variation of this argument, it is not continuous anywhere).
+Applications
+A specific application of linear maps is for geometric transformations, such as those performed in computer graphics, where the translation, rotation and scaling of 2D or 3D objects is performed by the use of a transformation matrix. Linear mappings also are used as a mechanism for describing change: for example in calculus correspond to derivatives; or in relativity, used as a device to keep track of the local transformations of reference frames.
+Another application of these transformations is in compiler optimizations of nested-loop code, and in parallelizing compiler techniques.
+See also
+Notes

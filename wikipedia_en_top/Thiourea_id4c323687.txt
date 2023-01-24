@@ -1,0 +1,42 @@
+Thiourea
+Thiourea (/ˌθaɪ.oʊjʊəˈriː.ə, -ˈjʊəri-/) is an organosulfur compound with the formula SC(NH2)2 and the structure H2N−C(=S)−NH2. It is structurally similar to urea (H2N−C(=O)−NH2), except that the oxygen atom is replaced by a sulfur atom (as implied by the thio- prefix); however, the properties of urea and thiourea differ significantly. 
+Thiourea is a reagent in organic synthesis. "Thioureas" refer to a broad class of compounds with the general structure R2N−C(=S)−NR2. Thioureas are related to thioamides, e.g. RC(S)NR2, where R is methyl, ethyl, etc.
+Structure and bonding
+Thiourea is a planar molecule. The C=S bond distance is 1.71 Å. The C-N distances average 1.33 Å. The weakening of the C-S bond by C-N pi-bonding is indicated by the short C=S bond in thiobenzophenone, which is 1.63 Å.
+Thiourea occurs in two tautomeric forms, of which the thione form predominates in aqueous solutions. The equilibrium constant has been calculated as Keq is 1.04×10−3. The thiol form, which is also known as an isothiourea, can be encountered in substituted compounds such as isothiouronium salts.
+Production
+The global annual production of thiourea is around 10,000 tonnes. About 40% is produced in Germany, another 40% in China, and 20% in Japan. Thiourea can be produced from ammonium thiocyanate, but more commonly it is produced by the reaction of hydrogen sulfide with calcium cyanamide in the presence of carbon dioxide.
+Applications
+Thiox precursor
+Thiourea per se has few applications. It is mainly consumed as a precursor to thiourea dioxide, which is a common reducing agent in textile processing.
+Fertilizers
+Recently thiourea has been investigated for its multiple desirable properties as a fertilizer especially under conditions of environmental stress. It may be applied in various capacities, such as a seed pretreatment (for priming), foliar spray or medium supplementation.
+Other uses
+Other industrial uses of thiourea include production of flame retardant resins, and vulcanization accelerators.
+Thiourea is used as an auxiliary agent in diazo paper, light-sensitive photocopy paper and almost all other types of copy paper.
+It is also used to tone silver-gelatin photographic prints.
+Thiourea is used in the Clifton-Phillips and Beaver bright and semi-bright electroplating processes. It is also used in a solution with tin(II) chloride as an electroless tin plating solution for copper printed circuit boards.
+Reactions
+The material has the unusual property of changing to ammonium thiocyanate upon heating above 130 °C. Upon cooling, the ammonium salt converts back to thiourea.
+Reductant
+Thiourea reduces peroxides to the corresponding diols. The intermediate of the reaction is an unstable endoperoxide.
+Thiourea is also used in the reductive workup of ozonolysis to give carbonyl compounds. Dimethyl sulfide is also an effective reagent for this reaction, but it is highly volatile (boiling point 37 °C) and has an obnoxious odor whereas thiourea is odorless and conveniently non-volatile (reflecting its polarity).
+Source of sulfide
+Thiourea is employed as a source of sulfide, such as for converting alkyl halides to thiols.  The reaction capitalizes on the high nucleophilicity of the sulfur center and easy hydrolysis of the intermediate isothiouronium salt:
+In this example, ethane-1,2-dithiol is prepared from 1,2-dibromoethane:
+Like other thioamides, thiourea can serve as a source of sulfide upon reaction with metal ions. For example, mercury sulfide forms when mercuric salts in aqueous solution are treated with thiourea:
+These sulfiding reactions, which have been applied to the synthesis of many metal sulfides, require water and typically some heating.
+Precursor to heterocycles
+Thioureas are building blocks to pyrimidine derivatives. Thus thioureas condense with β-dicarbonyl compounds. The amino group on the thiourea initially condenses with a carbonyl, followed by cyclization and tautomerization. Desulfurization delivers the pyrimidine.
+Similarly, aminothiazoles can be synthesized by the reaction of α-haloketones and thiourea.
+The pharmaceuticals thiobarbituric acid and sulfathiazole are prepared using thiourea. 4-Amino-3-hydrazino-5-mercapto-1,2,4-triazole is prepared by the reaction of thiourea and hydrazine.
+Silver polishing
+According to the label on consumer products TarnX and Silver Dip, the liquid silver cleaning products contain thiourea along with a warning that thiourea is a chemical on California's list of carcinogens. A lixiviant for gold and silver leaching can be created by selectively oxidizing thiourea, bypassing the steps of cyanide use and smelting.
+Kurnakov reaction
+Thiourea is an essential reagent in the Kurnakov test used to differentiate cis- and trans- isomers of certain square planar platinum complexes. The reaction was discovered in 1893 by Russian chemist Nikolai Kurnakov and is still performed as an assay for compounds of this type.
+Safety
+The LD50 for thiourea is 125 mg/kg for rats (oral).
+A goitrogenic effect (enlargement of the thyroid gland) has been reported for chronic exposure, reflecting the ability of thiourea to interfere with iodide uptake.
+See also
+References
+Further reading

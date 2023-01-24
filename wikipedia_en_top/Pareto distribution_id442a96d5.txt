@@ -1,0 +1,118 @@
+Pareto distribution
+The Pareto distribution, named after the Italian civil engineer, economist, and sociologist Vilfredo Pareto (Italian: [paˈreːto] US: /pəˈreɪtoʊ/ pə-RAY-toh), is a power-law probability distribution that is used in description of social, quality control, scientific, geophysical, actuarial, and many other types of observable phenomena; the principle originally applied to describing the distribution of wealth in a society, fitting the trend that a large portion of wealth is held by a small fraction of the population. The Pareto principle or "80-20 rule" stating that 80% of outcomes are due to 20% of causes was named in honour of Pareto, but the concepts are distinct, and only Pareto distributions with shape value (α) of log45 ≈ 1.16 precisely reflect it. Empirical observation has shown that this 80-20 distribution fits a wide range of cases, including natural phenomena and human activities.
+Definitions
+If X is a random variable with a Pareto (Type I) distribution, then the probability that X is greater than some number x, i.e. the survival function (also called tail function), is given by
+where xm is the (necessarily positive) minimum possible value of X, and α is a positive parameter. The Pareto Type I distribution is characterized by a scale parameter xm and a shape parameter α, which is known as the tail index. When this distribution is used to model the distribution of wealth, then the parameter α is called the Pareto index.
+Cumulative distribution function
+From the definition, the cumulative distribution function of a Pareto random variable with parameters α and xm is
+Probability density function
+It follows (by differentiation) that the probability density function is
+When plotted on linear axes, the distribution assumes the familiar J-shaped curve which approaches each of the orthogonal axes asymptotically. All segments of the curve are self-similar (subject to appropriate scaling factors). When plotted in a log-log plot, the distribution is represented by a straight line.
+Properties
+Moments and characteristic function
+Thus, since the expectation does not converge on an open interval containing $MATH$ we say that the moment generating function does not exist.
+The parameters may be solved for using the method of moments.
+Conditional distributions
+The conditional probability distribution of a Pareto-distributed random variable, given the event that it is greater than or equal to a particular number $MATH$ exceeding $MATH$, is a Pareto distribution with the same Pareto index $MATH$ but with minimum $MATH$ instead of $MATH$. This implies that the conditional expected value (if it is finite, i.e. $MATH$) is proportional to $MATH$. In case of random variables that describe the lifetime of an object, this means that life expectancy is proportional to age, and is called the Lindy effect or Lindy's Law.
+A characterization theorem
+Suppose $MATH$ are independent identically distributed random variables whose probability distribution is supported on the interval $MATH$ for some $MATH$. Suppose that for all $MATH$, the two random variables $MATH$ and $MATH$ are independent. Then the common distribution is a Pareto distribution.
+Geometric mean
+The geometric mean (G) is
+Harmonic mean
+The harmonic mean (H) is
+Graphical representation
+The characteristic curved 'long tail' distribution when plotted on a linear scale, masks the underlying simplicity of the function when plotted on a log-log graph, which then takes the form of a straight line with negative gradient: It follows from the formula for the probability density function that for x ≥ xm,
+Since α is positive, the gradient −(α + 1) is negative.
+Related distributions
+Generalized Pareto distributions
+There is a hierarchy  of Pareto distributions known as Pareto Type I, II, III, IV, and Feller–Pareto distributions. Pareto Type IV contains Pareto Type I–III as special cases. The Feller–Pareto distribution generalizes Pareto Type IV.
+Pareto types I–IV
+The Pareto distribution hierarchy is summarized in the next table comparing the survival functions (complementary CDF).
+When μ = 0, the Pareto distribution Type II is also known as the Lomax distribution.
+In this section, the symbol xm, used before to indicate the minimum value of x, is replaced by σ.
+The shape parameter α is the tail index, μ is location, σ is scale, γ is an inequality parameter. Some special cases of Pareto Type (IV) are
+The finiteness of the mean, and the existence and the finiteness of the variance depend on the tail index α (inequality index γ). In particular, fractional δ-moments are finite for some δ > 0, as shown in the table below, where δ is not necessarily an integer.
+Feller–Pareto distribution
+Feller defines a Pareto variable by transformation U = Y−1 − 1 of a beta random variable Y, whose probability density function is
+where B( ) is the beta function. If
+then W has a Feller–Pareto distribution FP(μ, σ, γ, γ1, γ2).
+If $MATH$ and $MATH$ are independent Gamma variables, another construction of a Feller–Pareto (FP) variable is
+and we write W ~ FP(μ, σ, γ, δ1, δ2). Special cases of the Feller–Pareto distribution are
+Inverse-Pareto Distribution / Power Distribution
+When a random variable $MATH$ follows a pareto distribution, then its inverse $MATH$ follows an Inverse Pareto distribution.
+Inverse Pareto distribution is equivalent to a Power distribution
+Relation to the exponential distribution
+The Pareto distribution is related to the exponential distribution as follows. If X is Pareto-distributed with minimum xm and index α, then
+is exponentially distributed with rate parameter α. Equivalently, if Y is exponentially distributed with rate α, then
+is Pareto-distributed with minimum xm and index α.
+This can be shown using the standard change-of-variable techniques:
+The last expression is the cumulative distribution function of an exponential distribution with rate α.
+Pareto distribution can be constructed by hierarchical exponential distributions. Let
+$MATH$ and
+$MATH$. Then we have $MATH$ and, as a result, $MATH$.
+More in general, if $MATH$ (shape-rate parametrization) and $MATH$, then $MATH$.
+Equivalently, if $MATH$ and $MATH$, then $MATH$.
+Relation to the log-normal distribution
+The Pareto distribution and log-normal distribution are alternative distributions for describing the same types of quantities. One of the connections between the two is that they are both the distributions of the exponential of random variables distributed according to other common distributions, respectively the exponential distribution and normal distribution. (See the previous section.)
+Relation to the generalized Pareto distribution
+The Pareto distribution is a special case of the generalized Pareto distribution, which is a family of distributions of similar form, but containing an extra parameter in such a way that the support of the distribution is either bounded below (at a variable point), or bounded both above and below (where both are variable), with the Lomax distribution as a special case. This family also contains both the unshifted and shifted exponential distributions.
+The Pareto distribution with scale $MATH$ and shape $MATH$ is equivalent to the generalized Pareto distribution with location $MATH$, scale $MATH$ and shape $MATH$. Vice versa one can get the Pareto distribution from the GPD by $MATH$ and $MATH$.
+Bounded Pareto distribution
+The bounded (or truncated) Pareto distribution has three parameters: α, L and H. As in the standard Pareto distribution α determines the shape. L denotes the minimal value, and H denotes the maximal value.
+The probability density function is
+where L ≤ x ≤ H, and α > 0.
+Generating bounded Pareto random variables
+If U is uniformly distributed on (0, 1), then applying inverse-transform method 
+is a bounded Pareto-distributed.
+Symmetric Pareto distribution
+The purpose of Symmetric Pareto distribution and Zero Symmetric Pareto distribution is to capture some special statistical distribution with a sharp probability peak and symmetric long probability tails. These two distributions are derived from Pareto distribution. Long probability tail normally means that probability decays slowly. Pareto distribution performs fitting job in many cases. But if the distribution has symmetric structure with two slow decaying tails, Pareto could not do it. Then Symmetric Pareto or Zero Symmetric Pareto distribution is applied instead.
+The Cumulative distribution function (CDF) of Symmetric Pareto distribution is defined as following:
+$MATH$
+The corresponding probability density function (PDF) is:
+$MATH$
+This distribution has two parameters: a and b. It is symmetric by b. Then the mathematic expectation is b. When, it has variance as following:
+$MATH$
+The CDF of Zero Symmetric Pareto (ZSP) distribution is defined as following:
+$MATH$
+The corresponding PDF is:
+$MATH$
+This distribution is symmetric by zero. Parameter a is related to the decay rate of probability and (a/2b) represents peak magnitude of probability.
+Multivariate Pareto distribution
+The univariate Pareto distribution has been extended to a multivariate Pareto distribution.
+Statistical inference
+Estimation of parameters
+The likelihood function for the Pareto distribution parameters α and xm, given an independent sample x = (x1, x2, ..., xn), is
+Therefore, the logarithmic likelihood function is
+It can be seen that $MATH$ is monotonically increasing with xm, that is, the greater the value of xm, the greater the value of the likelihood function. Hence, since x ≥ xm, we conclude that
+To find the estimator for α, we compute the corresponding partial derivative and determine where it is zero:
+Thus the maximum likelihood estimator for α is:
+The expected statistical error is:
+Malik (1970) gives the exact joint distribution of $MATH$. In particular, $MATH$ and $MATH$ are independent and $MATH$ is Pareto with scale parameter xm and shape parameter nα, whereas $MATH$ has an inverse-gamma distribution with shape and scale parameters n − 1 and nα, respectively.
+Occurrence and applications
+General
+Vilfredo Pareto originally used this distribution to describe the allocation of wealth among individuals since it seemed to show rather well the way that a larger portion of the wealth of any society is owned by a smaller percentage of the people in that society. He also used it to describe distribution of income. This idea is sometimes expressed more simply as the Pareto principle or the "80-20 rule" which says that 20% of the population controls 80% of the wealth. However, the 80-20 rule corresponds to a particular value of α, and in fact, Pareto's data on British income taxes in his Cours d'économie politique indicates that about 30% of the population had about 70% of the income. The probability density function (PDF) graph at the beginning of this article shows that the "probability" or fraction of the population that owns a small amount of wealth per person is rather high, and then decreases steadily as wealth increases. (The Pareto distribution is not realistic for wealth for the lower end, however. In fact, net worth may even be negative.) This distribution is not limited to describing wealth or income, but to many situations in which an equilibrium is found in the distribution of the "small" to the "large". The following examples are sometimes seen as approximately Pareto-distributed:
+Relation to Zipf's law
+The Pareto distribution is a continuous probability distribution. Zipf's law, also sometimes called the zeta distribution, is a discrete distribution, separating the values into a simple ranking. Both are a simple power law with a negative exponent, scaled so that their cumulative distributions equal 1.  Zipf's can be derived from the Pareto distribution if the $MATH$ values (incomes) are binned into $MATH$ ranks so that the number of people in each bin follows a 1/rank pattern. The distribution is normalized by defining $MATH$ so that $MATH$ where $MATH$ is the generalized harmonic number. This makes Zipf's probability density function derivable from Pareto's.
+where  $MATH$ and $MATH$ is an integer representing rank from 1 to N where N is the highest income bracket.  So a randomly selected person (or word, website link, or city) from a population (or language, internet, or country) has $MATH$ probability of ranking $MATH$.
+Relation to the "Pareto principle"
+The "80–20 law", according to which 20% of all people receive 80% of all income, and 20% of the most affluent 20% receive 80% of that 80%, and so on, holds precisely when the Pareto index is $MATH$. This result can be derived from the Lorenz curve formula given below. Moreover, the following have been shown to be mathematically equivalent:
+This does not apply only to income, but also to wealth, or to anything else that can be modeled by this distribution.
+This excludes Pareto distributions in which 0 < α ≤ 1, which, as noted above, have an infinite expected value, and so cannot reasonably model income distribution.
+Relation to Price's law
+Price's square root law is sometimes offered as a property of or as similar to the Pareto distribution. However, the law only holds in the case that $MATH$. Note that in this case, the total and expected amount of wealth are not defined, and the rule only applies asymptotically to random samples. The extended Pareto Principle mentioned above is a far more general rule.
+Lorenz curve and Gini coefficient
+The Lorenz curve is often used to characterize income and wealth distributions. For any distribution, the Lorenz curve L(F) is written in terms of the PDF f or the CDF F as
+where x(F) is the inverse of the CDF. For the Pareto distribution,
+and the Lorenz curve is calculated to be
+For $MATH$ the denominator is infinite, yielding L=0. Examples of the Lorenz curve for a number of Pareto distributions are shown in the graph on the right.
+According to Oxfam (2016) the richest 62 people have as much wealth as the poorest half of the world's population. We can estimate the Pareto index that would apply to this situation. Letting ε equal $MATH$ we have:
+or
+The solution is that α equals about 1.15, and about 9% of the wealth is owned by each of the two groups. But actually the poorest 69% of the world adult population owns only about 3% of the wealth.
+The Gini coefficient is a measure of the deviation of the Lorenz curve from the equidistribution line which is a line connecting [0, 0] and [1, 1], which is shown in black (α = ∞) in the Lorenz plot on the right. Specifically, the Gini coefficient is twice the area between the Lorenz curve and the equidistribution line. The Gini coefficient for the Pareto distribution is then calculated (for $MATH$) to be
+(see Aaberge 2005).
+Random variate generation
+Random samples can be generated using inverse transform sampling. Given a random variate U drawn from the uniform distribution on the unit interval (0, 1], the variate T given by
+is Pareto-distributed. If U is uniformly distributed on [0, 1), it can be exchanged with (1 − U).
+See also
+References
+Notes

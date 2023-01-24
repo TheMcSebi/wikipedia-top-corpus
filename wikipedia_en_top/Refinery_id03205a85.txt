@@ -1,0 +1,18 @@
+Refinery
+A refinery is a production facility composed of a group of chemical engineering unit processes and unit operations refining certain materials or converting raw material into products of value.
+Types of refineries
+Different types of refineries are as follows:
+A typical oil refinery
+The image below is a schematic flow diagram of a typical oil refinery depicting various unit processes and the flow of intermediate products between the inlet crude oil feedstock and the final products.  The diagram depicts only one of the hundreds of different configurations. It does not include any of the usual facilities providing utilities such as steam, cooling water, and electric power as well as storage tanks for crude oil feedstock and for intermediate products and end products.
+Natural gas processing plant
+The image below is a schematic block flow diagram of a typical natural gas processing plant. It shows various unit processes converting raw natural gas into gas pipelined to end users.
+The block flow diagram also shows how processing of the raw natural gas yields byproduct sulfur, byproduct ethane, and natural gas liquids (NGL) propane, butanes and natural gasoline (denoted as pentanes +).
+Sugar refining
+Sugar is generally produced from sugarcane or sugar beets. As the global production of sugar from sugarcane is at least twice the production from sugar beets, this section focuses on sugarcane.
+Milling
+Sugarcane is traditionally refined into sugar in two stages. In the first stage, raw sugar is produced by the milling of harvested sugarcane. In a sugar mill, sugarcane is washed, chopped, and shredded by revolving knives. The shredded cane is mixed with water and crushed. The juices (containing 10-15 percent sucrose) are collected and mixed with lime to adjust pH to 7, prevent decay into glucose and fructose, and precipitate impurities. The lime and other suspended solids are settled out, and the clarified juice is concentrated in a multiple-effect evaporator to make a syrup with about 60 weight percent sucrose. The syrup is further concentrated under vacuum until it becomes supersaturated and is then seeded with crystalline sugar. Upon cooling, sugar crystallizes out of the syrup. Centrifuging then separates the sugar from the remaining liquid (molasses). Raw sugar has a yellow to brown color. Sugar is sometimes consumed locally at this stage but usually undergoes further purification. Sulfur dioxide is bubbled through the cane juice subsequent to crystallization in a process known as "sulfitation." This process inhibits color forming reactions and stabilizes the sugar juices to produce “mill white” or “plantation white” sugar.
+
+
+The fibrous solids, called bagasse, remaining after the crushing of the shredded sugarcane are burned for fuel which helps a sugar mill to become self-sufficient in energy. Any excess bagasse can be used for animal feed, to produce paper, or burned to generate electricity for the local power grid.
+Refining
+The second stage is often executed in heavy sugar-consuming regions such as North America, Europe, and Japan. In the second stage, white sugar is produced that is more than 99 percent pure sucrose. In such refineries, raw sugar is further purified by fractional crystallization.

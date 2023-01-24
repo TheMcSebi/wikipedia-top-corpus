@@ -1,0 +1,21 @@
+Open file format
+
+An open file format is a file format for storing digital data, defined by an openly published specification usually maintained by a standards organization, and which can be used and implemented by anyone. Open file format is licensed with open license. For example, an open format can be implemented by both proprietary and free and open-source software, using the typical software licenses used by each. In contrast to open file formats, closed file formats are considered trade secrets. However, the actual image used by an open file format may still be copyrighted or trademarked.
+Depending on the definition, the specification of an open format may require a fee to access or, very rarely, contain other restrictions. The range of meanings is similar to that of the term open standard.
+Specific definitions
+Sun Microsystems
+Sun Microsystems defined the criteria for open formats as follows:
+UK government
+In 2012 the UK Government created the policy Open Standards Principles, stating that the Open Standards Principles apply to every aspect of government IT and that Government technology must remain open to everyone. They have seven principles for selecting open standards for use in government, following these principals many open formats were adopted, notably Open Document Format (ODF). The seven principles for selecting open standards for use in the UK government are:
+US government
+Within the framework of Open Government Initiative, the federal government of the United States adopted the Open Government Directive, according to which: "An open format is one that is platform independent, machine readable, and made available to the public without restrictions that would impede the re-use of that information".
+State of Minnesota
+The State of Minnesota defines the criteria for open, XML-based file formats as follows:
+Commonwealth of Massachusetts
+The Commonwealth of Massachusetts "defines open formats as specifications for data file formats that are based on an underlying open standard, developed by an open community, affirmed and maintained by a standards body and are fully documented and publicly available."
+The Enterprise Technical Reference Model (ETRM) classifies four formats as "Open Formats":
+The Linux Information Project
+According to The Linux Information Project, the term open format should refer to "any format that is published for anyone to read and study but which may or may not be encumbered by patents, copyrights or other restrictions on use" – as opposed to a free format which is not encumbered by any copyrights, patents, trademarks or other restrictions.
+Examples of open formats
+Open formats (in the royalty-free and free access sense) include:
+The following formats are open (royalty-free with a one-time fee on the standard):

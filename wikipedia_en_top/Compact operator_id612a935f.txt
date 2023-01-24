@@ -1,0 +1,31 @@
+Compact operator
+In functional analysis, a branch of mathematics, a compact operator is a linear operator $MATH$, where $MATH$ are normed vector spaces, with the property that $MATH$ maps bounded subsets of $MATH$ to relatively compact subsets of $MATH$ (subsets with compact closure in $MATH$). Such an operator is necessarily a bounded operator, and so continuous. Some authors require that $MATH$ are Banach, but the definition can be extended to more general spaces.
+Any bounded operator $MATH$ that has finite rank is a compact operator; indeed, the class of compact operators is a natural generalization of the class of finite-rank operators in an infinite-dimensional setting. When $MATH$ is a Hilbert space, it is true that any compact operator is a limit of finite-rank operators, so that the class of compact operators can be defined alternatively as the closure of the set of finite-rank operators in the norm topology. Whether this was true in general for Banach spaces (the approximation property) was an unsolved question for many years; in 1973 Per Enflo gave a counter-example, building on work by Grothendieck and Banach.
+The origin of the theory of compact operators is in the theory of integral equations, where integral operators supply concrete examples of such operators. A typical Fredholm integral equation gives rise to a compact operator K on function spaces; the compactness property is shown by equicontinuity. The method of approximation by finite-rank operators is basic in the numerical solution of such equations. The abstract idea of Fredholm operator is derived from this connection.
+Equivalent formulations
+A linear map $MATH$ between two topological vector spaces is said to be compact if there exists a neighborhood $MATH$ of the origin in $MATH$ such that $MATH$ is a relatively compact subset of $MATH$.
+Let $MATH$ be normed spaces and $MATH$ a linear operator. Then the following statements are equivalent, and some of them are used as the principal definition by different authors
+If in addition $MATH$ is Banach, these statements are also equivalent to:
+If a linear operator is compact, then it is continuous.
+Important properties
+In the following, $MATH$ are Banach spaces, $MATH$ is the space of bounded operators $MATH$ under the operator norm, and $MATH$ denotes the space of compact operators $MATH$. $MATH$ denotes the identity operator on $MATH$, $MATH$, and $MATH$.
+Now suppose that $MATH$ is a Banach space and $MATH$ is a compact linear operator, and $MATH$ is the adjoint or transpose of T.
+Origins in integral equation theory
+A crucial property of compact operators is the Fredholm alternative, which asserts that the existence of solution of linear equations of the form
+$MATH$
+(where K is a compact operator, f is a given function, and u is the unknown function to be solved for) behaves much like as in finite dimensions. The spectral theory of compact operators then follows, and it is due to Frigyes Riesz (1918).  It shows that a compact operator K on an infinite-dimensional Banach space has spectrum that is either a finite subset of C which includes 0, or the spectrum is a countably infinite subset of C which has 0 as its only limit point.  Moreover, in either case the non-zero elements of the spectrum are eigenvalues of K with finite multiplicities (so that K − λI has a finite-dimensional kernel for all complex λ ≠ 0).
+An important example of a compact operator is compact embedding of Sobolev spaces, which, along with the Gårding inequality and the Lax–Milgram theorem, can be used to convert an elliptic boundary value problem into a Fredholm integral equation. Existence of the solution and spectral properties then follow from the theory of compact operators; in particular, an elliptic boundary value problem on a bounded domain has infinitely many isolated eigenvalues. One consequence is that a solid body can vibrate only at isolated frequencies, given by the eigenvalues, and arbitrarily high vibration frequencies always exist.
+The compact operators from a Banach space to itself form a two-sided ideal in the algebra of all bounded operators on the space. Indeed, the compact operators on an infinite-dimensional separable Hilbert space form a maximal ideal, so the quotient algebra, known as the Calkin algebra, is simple.  More generally, the compact operators form an operator ideal.
+Compact operator on Hilbert spaces
+For Hilbert spaces, another equivalent definition of compact operators is given as follows.
+An operator $MATH$ on an infinite-dimensional Hilbert space $MATH$
+is said to be compact if it can be written in the form
+where $MATH$ and $MATH$ are orthonormal sets (not necessarily complete), and $MATH$ is a sequence of positive numbers with limit zero, called the singular values of the operator.  The singular values can accumulate only at zero. If the sequence becomes stationary at zero, that is $MATH$ for some $MATH$ and every $MATH$, then the operator has finite rank, i.e, a finite-dimensional range and can be written as
+The bracket $MATH$ is the scalar product on the Hilbert space; the sum on the right hand side converges in the operator norm.
+An important subclass of compact operators is the trace-class or nuclear operators.
+Completely continuous operators
+Let X and Y be Banach spaces.  A bounded linear operator T : X → Y is called completely continuous if, for every weakly convergent sequence $MATH$ from X, the sequence $MATH$ is norm-convergent in Y (Conway 1985, §VI.3).  Compact operators on a Banach space are always completely continuous.  If X is a reflexive Banach space, then every completely continuous operator T : X → Y is compact.
+Somewhat confusingly, compact operators are sometimes referred to as "completely continuous" in older literature, even though they are not necessarily completely continuous by the definition of that phrase in modern terminology.
+Examples
+See also
+Notes

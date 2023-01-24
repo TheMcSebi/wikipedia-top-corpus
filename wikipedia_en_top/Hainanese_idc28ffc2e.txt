@@ -1,0 +1,12 @@
+Hainanese
+Hainanese (Hainan Romanised: Hái-nâm-oe, Hainanese Pinyin: Hhai3 nam2 ue1,simplified Chinese: 海南话; traditional Chinese: 海南話; pinyin: Hǎinánhuà), also known as Qióngwén, Heng2 vun2 (simplified Chinese: 琼文; traditional Chinese: 瓊文) or Qióngyǔ, Heng2 yi2 (琼语; 瓊語), is a group of Min Chinese varieties spoken in the southern Chinese island province of Hainan and Overseas Chinese such as Malaysia. In the classification of Yuan Jiahua, it was included in the Southern Min group, being mutually unintelligible with other Southern Min varieties such as Hokkien–Taiwanese and Teochew.  In the classification of Li Rong, used by the Language Atlas of China, it was treated as a separate Min subgroup.  Hou Jingyi combined it with Leizhou Min, spoken on the neighboring mainland Leizhou Peninsula, in a Qiong–Lei group.  "Hainanese" is also used for the language of the Li people living in Hainan, but generally refers to Min varieties spoken in Hainan.
+Phonology
+Hainanese has seven phonemic vowels .
+Hainanese notably has a series of implosive consonants, which it acquired through contact with surrounding languages, probably Hlai.
+The phonological system of Hainanese corresponds well with that of Hokkien, but it has had some restructuring. In particular, etymological *anterior plain stops have undergone implosivization (*p > [ɓ], *t > [ɗ]), etymological *aspirated stops have spirantized (*pʰ > [f], *tʰ > [h], *cʰ > [ɕ] *kʰ > [x]), and etymological *s have hardened into stops (*s > [t]), and *h > [ɦ]. Additionally, some dialects have [ɡ], and [ʑ] is allophonic with /j/. These changes also make Hainanese fairly close to the Chinese-based vocabulary within Vietnamese. For example 邪, 仙, 散, 迹, 神, 痴 (xié, xiān, sàn, jì, shén, chī) in Mandarin or (siâ, sian, suànn, jiak, sîn, chi) in Hokkien is (dia2, din1, dan4, di1, din2, si1) in Hainanese and (da, tiên, tàn, ty, tích, thần, si) in Sino-Vietnamese.
+Romanization
+Hainanese Pinyin
+Hainanese Pinyin (海南话拼音方案) was a phonetic system announced by the Education Administration Department of Guangdong Province in September 1960. It mark tones with numbers.
+See also
+References
+Further reading

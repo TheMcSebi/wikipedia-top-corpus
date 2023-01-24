@@ -1,0 +1,40 @@
+Fear, uncertainty, and doubt
+
+Fear, uncertainty and doubt (often shortened to FUD) is a propaganda tactic used in sales, marketing, public relations, politics, polling and cults. FUD is generally a strategy to influence perception by disseminating negative and dubious or false information and a manifestation of the appeal to fear.
+Definition
+The term "fear, uncertainty and doubt" appeared as far back as the 1920s, whereas the similar formulation "doubts, fears and uncertainties" reaches back to 1693. By 1975, the term was appearing abbreviated as FUD in marketing and sales contexts as well as in public relations:
+The abbreviation FUD is also alternatively rendered as "fear, uncertainty and disinformation".
+FUD was first used with its common current technology-related meaning by Gene Amdahl in 1975, after he left IBM to found his own company, Amdahl Corp.:
+This usage of FUD to describe disinformation in the computer hardware industry is said to have led to subsequent popularization of the term.
+As Eric Steven Raymond wrote:
+By spreading questionable information about the drawbacks of less well-known products, an established company can discourage decision-makers from choosing those products over its own, regardless of the relative technical merits. This is a recognized phenomenon, epitomized by the traditional axiom of purchasing agents that "nobody ever got fired for buying IBM equipment". The aim is to have IT departments buy software they know to be technically inferior because upper management is more likely to recognize the brand.
+Examples
+Tobacco Industry
+The strategy of deliberately sowing doubts about scientific findings was used by the Tobacco Industry.
+Microsoft
+From the 1990s onward, the term became most often associated with Microsoft. Roger Irwin said:
+In 1996, Caldera, Inc. accused Microsoft of several anti-competitive practices, including issuing vaporware announcements, creating FUD, and excluding competitors from participating in beta-test programs in order to destroy competition in the DOS market.
+One of the claims was related to having modified Windows 3.1 so that it would not run on DR DOS 6.0 although there were no technical reasons for it not to work. This was caused by the so-called AARD code, some encrypted piece of code, which had been found in a number of Microsoft programs. The code would fake nonsensical error messages if run on DR DOS, like:
+If the user chose to press C, Windows would continue to run on DR DOS without problems. While it had been already speculated in the industry that the purpose of this code was to create doubts about DR DOS's compatibility and thereby destroy the product's reputation, internal Microsoft memos published as part of the United States v. Microsoft antitrust case later revealed that the specific focus of these error messages was DR DOS. At one point, Microsoft CEO Bill Gates sent a memo to a number of employees, reading
+ Microsoft Senior Vice President Brad Silverberg later sent another memo, stating
+ In 2000, Microsoft settled the lawsuit out-of-court for an undisclosed sum, which in 2009 was revealed to be $280 million.
+At around the same time, the leaked internal Microsoft "Halloween documents" stated "OSS [Open Source Software] is long-term credible… [therefore] FUD tactics cannot be used to combat it."
+Open source software, and the Linux community in particular, are widely perceived as frequent targets of Microsoft's FUD:
+SCO v. IBM
+The SCO Group's 2003 lawsuit against IBM, funded by Microsoft, claiming $5 billion in intellectual property infringements by the free software community, is an example of FUD, according to IBM, which argued in its counterclaim that SCO was spreading "fear, uncertainty, and doubt".
+Magistrate Judge Brooke C. Wells wrote (and Judge Dale Albert Kimball concurred) in her order limiting SCO's claims: "The court finds SCO's arguments unpersuasive. SCO's arguments are akin to SCO telling IBM, 'sorry, we are not going to tell you what you did wrong because you already know...' SCO was required to disclose in detail what it feels IBM misappropriated... the court finds it inexcusable that SCO is... not placing all the details on the table. Certainly if an individual were stopped and accused of shoplifting after walking out of Neiman Marcus they would expect to be eventually told what they allegedly stole. It would be absurd for an officer to tell the accused that 'you know what you stole, I'm not telling.' Or, to simply hand the accused individual a catalog of Neiman Marcus' entire inventory and say 'it's in there somewhere, you figure it out.'"
+Regarding the matter, Darl Charles McBride, President and CEO of SCO, made the following statements:
+SCO stock skyrocketed from under US$3 a share to over US$20 in a matter of weeks in 2003. It later dropped to around US$1.2—then crashed to under 50 cents on 13 August 2007, in the aftermath of a ruling that Novell owns the UNIX copyrights.
+Apple
+Apple's claim that iPhone jailbreaking could potentially allow hackers to crash cell phone towers was described by Fred von Lohmann, a representative of the Electronic Frontier Foundation (EFF), as a "kind of theoretical threat...more FUD than truth".
+Security industry
+FUD is widely recognized as a tactic to promote the sale or implementation of security products and measures. It is possible to find pages describing purely artificial problems. Such pages frequently contain links to the demonstrating source code that does not point to any valid location and sometimes even links that "will execute malicious code on your machine regardless of current security software", leading to pages without any executable code.
+The drawback to the FUD tactic in this context is that, when the stated or implied threats fail to materialize over time, the customer or decision-maker frequently reacts by withdrawing budgeting or support from future security initiatives.
+FUD has also been utilized in technical support scams, which may use fake error messages to scare unwitting computer users, especially the elderly or computer-illiterate, into paying for a supposed fix for a non-existent problem, to avoid being framed for criminal charges such as unpaid taxes, or in extreme cases, false accusations of illegal acts such as child pornography.
+Caltex
+The FUD tactic was used by Caltex Australia in 2003. According to an internal memo, which was subsequently leaked, they wished to use FUD to destabilize franchisee confidence, and thus get a better deal for Caltex. This memo was used as an example of unconscionable behaviour in a Senate inquiry. Senior management claimed that it was contrary to and did not reflect company principles.
+Clorox
+In 2008, Clorox was the subject of both consumer and industry criticism for advertising its Green Works line of allegedly environmentally friendly cleaning products using the slogan, "Finally, Green Works." The slogan implied both that "green" products manufactured by other companies which had been available to consumers prior to the introduction of Clorox's GreenWorks line had all been ineffective, and also that the new GreenWorks line was at least as effective as Clorox's existing product lines. The intention of this slogan and the associated advertising campaign has been interpreted as appealing to consumers' fears that products from companies with less brand recognition are less trustworthy or effective. Critics also pointed out that, despite its representation of GreenWorks products as "green" in the sense of being less harmful to the environment and/or consumers using them, the products contain a number of ingredients advocates of natural products have long campaigned against the use of in household products due to toxicity to humans or their environment. All three implicit claims have been disputed, and some of their elements disproven, by environmental groups, consumer-protection groups, and the industry self-regulatory Better Business Bureau.
+See also
+References
+Further reading

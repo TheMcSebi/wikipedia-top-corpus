@@ -1,0 +1,84 @@
+Textile manufacturing
+Textile Manufacturing or Textile Engineering is a major industry. It is largely based on the conversion of fibre into yarn, then yarn into fabric. These are then dyed or printed, fabricated into cloth which is then converted into useful goods such as clothing, household items, upholstery and various industrial products.
+
+
+Different types of fibres are used to produce yarn. Cotton remains the most widely used and common natural fiber making up 90% of all-natural fibers used in the textile industry. People often use cotton clothing and accessories because of comfort, not limited to different weathers. There are many variable processes available at the spinning and fabric-forming stages coupled with the complexities of the finishing and colouration processes to the production of a wide range of products.
+History
+Textile manufacturing in the modern era is an evolved form of the art and craft industries. Until the 18th and 19th centuries, the textile industry was a household work. It became mechanised in the 18th and 19th centuries, and has continued to develop through science and technology in the twentieth and twenty-first centuries.
+Processing of cotton
+Cotton is the world's most important natural fibre. In the year 2007, the global yield was 25 million tons from 35 million hectares cultivated in more than 50 countries.
+There are six stages to the manufacturing of cotton textiles:
+Cultivating and harvesting
+Cotton is grown in locations with long, hot, dry summers with plenty of sunshine and low humidity. Indian cotton, Gossypium arboreum, is finer but the staple is only suitable for hand processing. American cotton, Gossypium hirsutum, produces the longer staple needed for mechanised textile production. The planting season is from September to mid-November, and the crop is harvested between March and June. The cotton bolls are harvested by stripper harvesters and spindle pickers that remove the entire boll from the plant. The cotton boll is the seed pod of the cotton plant; attached to each of the thousands of seeds are fibres about 2.5 cm long. There is a higher rate of cotton being produced compared to the actual workers needed to produce the material. In 2013 a cotton farmer in Mississippi, Bower Flowers, produced around 13,000 bales of cotton in that year alone. This amount of cotton could be used to produce up to 9.4 million T-shirts.
+Preparatory processes – preparation of yarn
+Scutching refers to the process of cleaning cotton of its seeds and other impurities. The first scutching machine was invented in 1797, but did not come into further mainstream use until after 1808 or 1809, when it was introduced and used in Manchester, England. By 1816, it had become generally adopted. The scutching machine worked by passing the cotton through a pair of rollers, and then striking it with iron or steel bars called beater bars or beaters. The beaters, which turn very quickly, strike the cotton hard and knock the seeds out. This process is done over a series of parallel bars so as to allow the seeds to fall through. At the same time, air is blown across the bars, which carries the cotton into a cotton chamber.
+Spinning – yarn manufacture
+Measurements
+Weaving
+The weaving process uses a loom. The lengthwise threads are known as the warp, and the crosswise threads are known as the weft. The warp, which must be strong, needs to be presented to loom on a warp beam. The weft passes across the loom in a shuttle that carries the yarn on a pirn. These pirns are automatically changed by the loom. Thus, the yarn needs to be wrapped onto a beam, and onto pirns before weaving can commence.
+Measurements
+Associated job titles
+Issues
+When a hand loom was located in the home, children helped with the weaving process from an early age. Piecing needs dexterity, and a child can be as productive as an adult. When weaving moved from the home to the mill, children were often allowed to help their older sisters, and laws had to be made to prevent child labour from becoming established.
+Knitting – fabric manufacture
+Knitting by machine is done in two different ways; warp and weft. Weft knitting (as seen in the pictures) is similar in method to hand knitting with stitches all connected to each other horizontally. Various weft machines can be configured to produce textiles from a single spool of yarn or multiple spools, depending on the size of the machine cylinder (in which the needles are bedded). In a warp knit, there are many pieces of yarn and there are vertical chains, zigzagged together by crossing the cotton yarn.
+Warp knits do not stretch as much as a weft knits, and they are run-resistant. A weft knit is not run-resistant, but it has more stretch. This is especially true if spools of elastane are processed from separate spool containers and interwoven through the cylinder with cotton yarn, giving the finished product more flexibility and preventing it from having a 'baggy' appearance.  The average t-shirt is a weft knit.
+Finishing – processing of textiles
+Finishing is a broad range of physical and chemical processes/treatments that complete one stage of textile manufacturing, sometimes in preparation for the next step. Finishing adds value to the product and makes it more attractive, useful and functional for the end-user. Fresh off the loom, cotton fabric not only contains impurities, including warp size, but it also requires further treatment to develop its full potential and to add to its value.
+Desizing
+Depending on the size that has been used, the cloth may be steeped in a dilute acid and then rinsed, or enzymes may be used to break down the size.
+Scouring
+Scouring is a chemical washing process carried out on cotton fabric to remove natural waxes and non-fibrous impurities (like the remains of seed fragments) from the fibres and any soiling or dirt that might remain. Scouring is usually carried out in iron vessels called kiers. The fabric is boiled in an alkali solution, which forms a soap with free fatty acids. A kier is usually enclosed, so the solution of sodium hydroxide can be boiled under pressure, excluding oxygen, which would degrade the cellulose in the fibre. If the appropriate reagents are used, scouring will also remove size from the fabric, although desizing often precedes scouring and is considered to be a separate process. Preparation and scouring are prerequisites to most of the other finishing processes. At this stage, even the most naturally white cotton fibres are yellowish, and bleaching is required.
+Bleaching
+Bleaching improves whiteness by removing natural colouration and whatever impurities remain in the cotton; the degree of bleaching is determined by the levels of whiteness and absorbency required of the fabric. Cotton, being a vegetable fibre, is bleached using an oxidizing agent, such as diluted sodium hypochlorite or diluted hydrogen peroxide. If the fabric is to be dyed a deep shade, then lower levels of bleaching are acceptable. However, for white bedding and for medical applications, the highest levels of whiteness and absorbency are essential.
+Mercerising
+A further possibility is mercerising, during which the fabric is treated with a caustic soda solution, to cause swelling of the fibres. This results in improved lustre, strength and dye affinity. Cotton is mercerised under tension, and all alkali must be washed out before the tension is released, or shrinkage will take place.
+Many other chemical treatments may be applied to cotton fabrics to produce low flammability, crease-resistance and other qualities, but the four most important non-chemical finishing treatments are:
+Singeing
+Singeing is designed to burn off the surface fibres from the fabric to produce smoothness. The fabric passes over brushes to raise the fibres, then passes over a plate heated by gas flames.
+Raising
+During raising, the fabric surface is treated with sharp teeth to lift the surface fibres, thereby imparting downiness, softness and warmth, as in flannelette.
+Calendering
+Calendering is a procecss in which the fabric is passed between heated rollers to generate smooth, polished or embossed effects.
+Shrinking (sanforising)
+Sanforisation is a form of mechanical pre-shrinking, so that the fabric will shrink less upon laundering.
+Dyeing
+Dyeing is commonly carried out with an anionic direct dye by completely immersing the fabric (or yarn) in an aqueous dye bath according to a prescribed procedure. For improved fastness to washing, rubbing and light, further dyeing methods can used. These require more complex chemistry during processing, and are thus more expensive to apply.
+Printing
+Printing is the application of colour in the form of a paste or ink to the surface of a fabric in a predetermined pattern. It can be described as a form of localised dyeing. Printing designs onto previously dyed fabric is also possible.
+Economic, environmental and political consequences of cotton manufacture
+Production of cotton requires arable land.
+In addition, cotton is farmed intensively and uses large amounts of fertilizer and 25% of the world's insecticides. Native Indian varieties of cotton were rainwater fed, but modern hybrids used for the mills need irrigation, which spreads pests. The 5% of cotton-bearing land in India uses 55% of all pesticides used in India.
+The consumption of energy in form of water and electricity is relatively high, especially in processes like washing, de-sizing, bleaching, rinsing, dyeing, printing, coating and finishing. Processing is time-consuming. The major portion of water in textile industry is used for wet processing of textile (70 per cent). Approximately 25 per cent of energy in the total textile production like fibre production, spinning, twisting, weaving, knitting, clothing manufacturing etc. is used in dyeing. About 34 per cent of energy is consumed in spinning, 23 per cent in weaving, 38 per cent in chemical wet processing and five per cent in miscellaneous processes. Power dominates consumption pattern in spinning and weaving, while thermal energy is the major factor for chemical wet processing.
+Cotton acts as a carbon sink as it contains cellulose and this contains 44.44% carbon.  However, due to carbon emissions from fertiliser application, use of mechanized tools to harvest the cotton and so forth cotton manufacture tends to emit more CO2 than is stored in the form of cellulose.
+The growth of cotton is divided into two segments i.e. organic and genetically modified. Cotton crop provides livelihood to millions of people but its production is becoming expensive because of high water consumption, use of expensive pesticides, insecticides and fertiliser. Genetically modified products aim to increase disease resistance and reduce the water required. The organic sector in India was worth $583 million. Genetically modified cotton, in 2007, occupied 43% of cotton growing areas in India.
+Before mechanisation, cotton was harvested manually by farmers in India and by African slaves in America. In 2012 Uzbekistan was a major exporter of cotton and uses manual labour during the harvest. Human rights groups have expressed concerns over healthcare professionals and children being forced to pick cotton.
+There was a 1.5 million tonne cotton deficit in 2018 due to adverse weather conditions, limited water, and pest issues.
+Processing of other vegetable fibres
+Flax
+Flax is a bast fibre, which means it comes in bundles under the bark of the Linum usitatissimum plant. The plant flowers and is harvested.
+It is now treated like cotton.
+Jute
+Jute is a bast fibre, which comes from the inner bark of the plants of the Corchorus genus. It is retted like flax, sundried and baled. When spinning a small amount of oil must be added to the fibre. It can be bleached and dyed. It was used for sacks and bags but is now used for the backing for carpets. Jute can be blended with other fibres to make composite fabrics and work continues in Bangladesh to refine the processes and extend the range of usage possible. In the 1970s, jute-cotton composite fabrics were known as jutton fabrics.
+Hemp
+Hemp is a bast fibre from the inner bark of Cannabis sativa. It is difficult to bleach, and is used for making cord and rope.
+Other bast fibres
+These bast fibres can also be used: kenaf, urena, ramie, nettle.
+Other leaf fibres
+Sisal is the main leaf fibre used; others are: abacá and henequen.
+Processing of wool and silk
+Wool
+Wool comes from domesticated sheep. It is used to create two kinds of yarn, woolens and worsteds. These are distinguished by the direction of the wool fibres in relation to the thread; woolens are perpendicularly arranged, allowing for fluffy yarns that trap air, while worsteds have parallel fibres, creating a strong and smooth yarn.
+Modern sheep have uniform fleeces, while primitive and landrace sheep often have dual coats; a soft, short under layer and a hardier, coarser, and longer guard layer. These can be sorted to be processed separately, or spun together. The differing characteristics of each coat allows for very different yarn; the guard hairs can be used for durable outerwear, while the inner coat is what is traditionally used to produce the ultrafine wedding ring shawls across Europe. Spinning them together, like in lopi, produces a unique yarn that combines the strength of the guard hairs with the loft and softness of the undercoat.
+Wool that has never been used is known as virgin wool and can be mixed with wool that has been recovered from rags. "Shoddy" is the term for recovered wool that is not matted, while "mungo" comes from felted wool. Extract is recovered chemically from mixed cotton/wool fabrics.
+The fleece is shorn in one piece from the sheep. Ideally, the wool is cut as close to the skin as possible to maximise fibre length. Going over the same spot twice produces small fibres that will produce pills in finished fabric, something that skilled shearers are usually able to avoid. This is then skirted to remove the soiled wool from around the legs and anus, graded, and baled. Grading is done on quality as well as length of the fibres. Long wool fibres can be up to 15 in, but anything over 2.5 inches is suitable for combing into worsteds. Fibres less than that form short wool and are described as clothing or carding wool, and are best suited for the jumbled arrangement of woolens.
+At the mill the wool is scoured in a detergent to remove grease (the yolk) and impurities. This is done mechanically in the opening machine. Vegetable matter can be removed chemically using sulphuric acid (carbonising). Washing uses a solution of soap and sodium carbonate. The wool is oiled before carding or combing.
+Silk
+The processes in silk production are similar to those of cotton but take account that reeled silk is a continuous fibre. The terms used are different.
+Environmental consequences of wool and silk manufacture
+Both wool and silk require farmland. Whereas silkworms require mulberry leaves, sheep eat grass, clover, forbs and other pasture plants. Sheep, like all ruminants emit CO2 via their digestive system. Also, their pastures may sometimes be fertilised which further increases emissions.
+Synthetic fibres
+Synthetic fibres are the result of extensive development by scientists to improve upon the naturally occurring animal and plant fibres. In general, synthetic fibres are created by forcing, or extruding, fibre forming materials through holes (called spinnerets) into the air, thus forming a thread. Before synthetic fibres were developed, cellulose fibres were made from natural cellulose, which comes from plants.
+The first artificial fibre, known as art silk from 1799 onwards, became known as viscose around 1894, and finally rayon in 1924. A similar product known as cellulose acetate was discovered in 1865. Rayon and acetate are both artificial fibres, but not truly synthetic, being made from wood. Although these artificial fibres were discovered in the mid-nineteenth century, successful modern manufacture began much later in the 1930s. Nylon, the first synthetic fibre, made its debut in the United States as a replacement for silk, and was used for parachutes and other military uses. 
+The techniques used to process these fibres in yarn are essentially the same as with natural fibres, modifications have to be made as these fibres are of great length, and have no texture such as the scales in cotton and wool that aid meshing.
+Unlike natural fibres, produced by plants, animals or insects, synthetic fibres are made from fossil fuels, and thus require no farmland.

@@ -1,0 +1,52 @@
+BMW 3 Series (E46)
+The fourth generation of the BMW 3 Series range of compact executive cars is designated under the model code E46, which was produced by the German automaker BMW from 1997 to 2006, and was the successor to the E36 3 Series which ceased production in 2000. First introduced in November 1997, the E46 was available in sedan, coupé, convertible, station wagon and hatchback body styles. The latter has been marketed as the 3 Series Compact.
+The M3 performance model was introduced in June 2000 with a 2-door coupé body style, followed by the convertible counterpart in April 2001. The M3 is powered by the BMW S54 straight-six engine with either a 6-speed manual or a 6-speed SMG-II automated manual transmission.
+The E46 line-up was phased out starting from late 2004, following the introduction of the E90 3 Series sedans. However, the E46 coupé and convertible body styles remained in production until August 2006.
+Overview
+Development
+In 1993, the development programme for the E46 began under the lead of chief engineer Wolfgang Ziebart and head of R&D Wolfgang Reitzle. In late 1993, design work began under the lead of chief designer Chris Bangle and continued into 1995. In May 1995, the general exterior design of the E46 by Erik Goplen of DesignworksUSA was approved and as a result DesignworksUSA was contracted by BMW to work alongside BMW Group's in-house design team to create the exterior bodywork for the 3 Series range in February 1996. The design team put an emphasis on improving aerodynamics and increasing the car's aggressive stance. Design patents were filed in Germany on 16 July 1997 and in the US on 16 January 1998.
+Chris Bangle and Wolfgang Reitzle were responsible through 1995 for the production sedan's exterior, as evident in the 1997 design patent. Production development of the sedan took 24 months following design freeze and was 31 months from executive board styling approval in 1995 to its start of series production in December 1997. Erik Goplen designed the production coupé, convertible and station wagon during between 1996 and 1997. The E46 sedan was unveiled via press release on 11 November 1997 and was launched on the market at the end of April 1998 with customer deliveries.
+Chassis
+The body shell of the E46 was claimed by BMW to be 70% more rigid than its E36 predecessor. Aluminium was used for an increased quantity of suspension components, in order to decrease unsprung mass. However, with a curb weight of 1,450 kg (3,197 lb), the E46 328ci is 55 kg (121 lb) heavier than the E36 equivalent.
+In tune with BMW's core values regarding handling dynamics, the E46 was initially available with a rear-wheel drive layout and a 50/50 weight distribution. All-wheel drive, which was last available in the 3 Series in 1991, was reintroduced for the E46 on the 325xi, 330xi and 330xd models.
+Electronics
+The electronic components in the E46 are more integrated than previous generations of 3 Series, including the use of a CAN bus system. Drivetrain information (such as engine, transmission and stability control) is communicated using the CAN bus. Vehicle electronics (such as the radio, navigation, television and telecommunications) can communicate to each other via the K-bus.
+The E46 was the first 3 Series to be available with an engine using Valvetronic (variable valve lift). Various electronic features were also introduced to the 3 Series in the E46 generation, including satellite navigation, electronic brake-force distribution, rain-sensing wipers and LED tail-lights.
+Production and sales
+The E46 was produced in Germany (Leipzig, Munich and Regensburg) and in South Africa (Rosslyn). Local assembly of complete knock-down (CKD) kits was used for cars sold in China, Egypt, Indonesia, Malaysia, Mexico, Thailand and Russia.
+The highest selling year for the E46 chassis was 2002, when 561,249 vehicles were sold worldwide.
+Body styles
+The body styles of the range are:
+3 Series Compact (E46/5)
+The shorter three-door hatchback version of the E46 was marketed as the BMW 3 Series Compact. The exterior styling has several differences to the rest of the E46 3 Series range, notably the distinctive headlights and tail-lights. Mechanically, the Compact shares many elements with the rest of the E46 range, however the steering rack has a faster ratio.
+Engines
+Factory specifications are listed below. Coupe and convertible models were badged as "Ci (petrol) or Cd (diesel)", and all-wheel drive models were badged as "Xi (petrol) or Xd (diesel)".
+Drivetrain
+Manual transmissions
+Automatic transmissions
+M3
+The E46 M3, first introduced in October 2000, was available with the 3.2-litre S54 M-tuned engine. It was available in coupé and convertible body styles.
+The M3's S54 engine has a redline of 8,000 rpm. As with most M engines, the S54 has 6 individual throttle bodies, in this case electronically operated (drive-by-wire throttle). The transmission options for the M3 were a 6-speed manual or the 6-speed "SMG-II" automated manual transmission.
+M3 GTR road car
+In order for the M3 GTR race car to compete in the American Le Mans Series, BMW produced 10 examples of the "M3 GTR Straßen Version" (street version) in 2001. As per the race M3 GTR, the roadgoing Version was powered by the BMW P60B40 4.0 L V8 engine which was slightly detuned and generated a maximum power output of 283 kW (380 hp) at 7,000 rpm. Power was delivered to the rear wheels via a race type 6-speed dual clutch sequential transmission with M locking differential. The engine featured dry sump lubrication as its racing counterpart and bigger radiators.
+The stiffer chassis and suspension system were a carryover from the race version. The car was lowered further than a standard M3 and featured additional strut braces between the firewall and strut towers as well as between the right shock towers. The redesigned front and rear fascias and the rear wing optimised aerodynamics.
+The roof, the hood, the rear wing and front and rear fascias were made from carbon-fibre in order to reduce weight. Notable changes made to the interior included leather Recaro bucket seats, removal of rear seats and special M3 GTR sill plates.
+M3 CSL, CSL stands for " Coupe Sport Leichtbau " means Coupe Sport Lightweight and the spec is to do the weight reduction such as the original roof, door panel, center console were replaced with the carbon fiber. 
+Alpina models
+The Alpina "B3 3.3" and "B3 S" were based on the E46 and were powered by inline-six petrol engines.
+Special models
+Performance package (ZHP)
+The Performance Package was an option sold in North America, which is commonly referred to by its order code in the United States, ZHP (the order code in Canada was ZAM). It was available for 330i sedans from model years 2003 to 2005, and available for 330ci coupés and convertibles from 2004 to 2006. It included various aesthetic changes over the regular 3 series, as well as functional and mechanical enhancements.
+The ZHP was equipped with sportier camshafts and revised engine tuning to increase power output from 168–175 kW (225–235 hp)  as well as a shorter final drive gear ratio, and a corresponding increase in redline from 6,500 rpm to 6,800 rpm. Suspension was modified over the standard suspension with firmer springs and dampers, larger anti-roll bars, stronger front control arm ball joints, a lower ride height, heavy duty steering rack, and slightly more negative camber. Car and Driver magazine track-tested the car, which recorded a 0–60 mph (97 km/h) acceleration time of 5.6 seconds and a 1/4 mile time of 14.3 seconds.
+325i SULEV
+In some parts of the United States, BMW sold a version of the 325i which met the super ultra low emission vehicle (SULEV) emissions standards. California, New York, and Massachusetts received the SULEV E46's in 2003, and Vermont in 2004. They utilised a variant of the M54 engine named the BMW M56. The M56 meets SULEV standards, as well as partial zero emission vehicle (PZEV) and zero evaporative emissions requirements. The M56 is claimed to have identical power output as its M54 counterpart.
+Model year changes
+2000
+2001 facelift (LCI)
+In September 2001, the facelift (LCI) versions of the sedan and Touring were released for the 2002 model year.
+2003
+In March 2003, the facelift (LCI) versions of the coupe and convertible models (except M3) were released for the 2004 model year.
+Motorsport
+Andy Priaulx won the 2004 European Touring Car Championship season and 2005 World Touring Car Championship season championships driving a 320i. Franz Engstler won the 2006 Asian Touring Car Championship season in a 320i.
+The E46 has also competed in the British, European and Russian touring car championships.
+In the United States, the National Auto Sport Association and BMW Car Club of America (BMW CCA) have organized a "Spec E46" amateur racing series. The Spec E46 cars are built to a standard with limited modifications, to create a level playing field and increased competition between drivers. By mid-2020, Spec E46 had become one of BMW CCA's three largest racing classes.

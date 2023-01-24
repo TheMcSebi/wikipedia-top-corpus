@@ -1,0 +1,82 @@
+Measure (mathematics)
+In mathematics, the concept of a measure is a generalization and formalization of geometrical measures (length, area, volume) and other common notions, such as mass and probability of events. These seemingly distinct concepts have many similarities and can often be treated together in a single mathematical context. Measures are foundational in probability theory, integration theory, and can be generalized to assume negative values, as with electrical charge. Far-reaching  generalizations (such as spectral measures and projection-valued measures) of measure are widely used in quantum physics and physics in general.
+The intuition behind this concept dates back to ancient Greece, when Archimedes tried to calculate the area of a circle. But it was not until the late 19th and early 20th centuries that measure theory became a branch of mathematics. The foundations of modern measure theory were laid in the works of Émile Borel, Henri Lebesgue, Nikolai Luzin, Johann Radon, Constantin Carathéodory, and Maurice Fréchet, among others.
+Definition
+Let $MATH$ be a set and $MATH$ a $MATH$-algebra over $MATH$ A set function $MATH$ from $MATH$ to the extended real number line is called a measure if it satisfies the following properties:
+If at least one set $MATH$ has finite measure, then the requirement $MATH$ is met automatically due to countable additivity:
+and therefore $MATH$
+If the condition of non-negativity is dropped, and $MATH$ takes on at most one of the values of $MATH$ then $MATH$ is called a signed measure.
+The pair $MATH$ is called a measurable space, and the members of $MATH$ are called measurable sets.
+A triple $MATH$ is called a measure space. A probability measure is a measure with total measure one – that is, $MATH$ A probability space is a measure space with a probability measure.
+For measure spaces that are also topological spaces various compatibility conditions can be placed for the measure and the topology. Most measures met in practice in analysis (and in many cases also in probability theory) are Radon measures. Radon measures have an alternative definition in terms of linear functionals on the locally convex topological vector space of continuous functions with compact support. This approach is taken by Bourbaki (2004) and a number of other sources. For more details, see the article on Radon measures.
+Instances
+Some important measures are listed here.
+Other 'named' measures used in various theories include: Borel measure, Jordan measure, ergodic measure, Gaussian measure, Baire measure, Radon measure, Young measure, and Loeb measure.
+In physics an example of a measure is spatial distribution of mass (see for example, gravity potential), or another non-negative extensive property, conserved (see conservation law for a list of these) or not. Negative values lead to signed measures, see "generalizations" below.
+Basic properties
+Let $MATH$ be a measure.
+Monotonicity
+If $MATH$ and $MATH$ are measurable sets with $MATH$ then
+Subadditivity
+For any countable sequence $MATH$ of (not necessarily disjoint) measurable sets $MATH$ in $MATH$ :}
+  
+
+Continuity from below
+If $MATH$ are measurable sets that are increasing (meaning that $MATH$) then the union of the sets $MATH$ is measurable and
+Continuity from above
+If $MATH$ are measurable sets that are decreasing (meaning that $MATH$) then the intersection of the sets $MATH$ is measurable; furthermore, if at least one of the $MATH$ has finite measure then
+This property is false without the assumption that at least one of the $MATH$ has finite measure. For instance, for each $MATH$ let $MATH$ which all have infinite Lebesgue measure, but the intersection is empty.
+Other properties
+Completeness
+A measurable set $MATH$ is called a null set if $MATH$ A subset of a null set is called a negligible set. A negligible set need not be measurable, but every measurable negligible set is automatically a null set. A measure is called complete if every negligible set is measurable.
+A measure can be extended to a complete one by considering the σ-algebra of subsets $MATH$ which differ by a negligible set from a measurable set $MATH$ that is, such that the symmetric difference of $MATH$ and $MATH$ is contained in a null set. One defines $MATH$ to equal $MATH$
+μ{x : f(x) ≥ t} = μ{x : f(x) > t} (a.e.)
+If $MATH$ is $MATH$-measurable, then
+for almost all $MATH$ This property is used in connection with Lebesgue integral.
+Both $MATH$ and $MATH$ are monotonically non-increasing functions of $MATH$ so both of them have at most countably many discontinuities and thus they are continuous almost everywhere, relative to the Lebesgue measure. 
+If $MATH$ then $MATH$ so that $MATH$ as desired. 
+If $MATH$ is such that $MATH$ then monotonicity implies
+so that $MATH$ as required. 
+If $MATH$ for all $MATH$ then we are done, so assume otherwise. Then there is a unique $MATH$ such that $MATH$ is infinite to the left of $MATH$ (which can only happen when $MATH$) and finite to the right. 
+Arguing as above, $MATH$ when $MATH$ Similarly, if $MATH$ and $MATH$ then $MATH$
+For $MATH$ let $MATH$ be a monotonically non-decreasing sequence converging to $MATH$ The monotonically non-increasing sequence $MATH$ of members of $MATH$ has at least one finitely $MATH$-measurable component, and
+Continuity from above guarantees that
+The right-hand side $MATH$ then equals $MATH$ if $MATH$ is a point of continuity of $MATH$ Since $MATH$ is continuous almost everywhere, this completes the proof.
+Additivity
+Measures are required to be countably additive. However, the condition can be strengthened as follows.
+For any set $MATH$ and any set of nonnegative $MATH$ define:
+That is, we define the sum of the $MATH$ to be the supremum of all the sums of finitely many of them.
+A measure $MATH$ on $MATH$ is $MATH$-additive if for any $MATH$ and any family of disjoint sets $MATH$ the following hold:
+Note that the second condition is equivalent to the statement that the ideal of null sets is $MATH$-complete.
+Sigma-finite measures
+A measure space $MATH$ is called finite if $MATH$ is a finite real number (rather than $MATH$). Nonzero finite measures are analogous to probability measures in the sense that any finite measure $MATH$ is proportional to the probability measure $MATH$ A measure $MATH$ is called σ-finite if $MATH$ can be decomposed into a countable union of measurable sets of finite measure. Analogously, a set in a measure space is said to have a σ-finite measure if it is a countable union of sets with finite measure.
+For example, the real numbers with the standard Lebesgue measure are σ-finite but not finite. Consider the closed intervals $MATH$ for all integers $MATH$ there are countably many such intervals, each has measure 1, and their union is the entire real line. Alternatively, consider the real numbers with the counting measure, which assigns to each finite set of reals the number of points in the set. This measure space is not σ-finite, because every set with finite measure contains only finitely many points, and it would take uncountably many such sets to cover the entire real line. The σ-finite measure spaces have some very convenient properties; σ-finiteness can be compared in this respect to the Lindelöf property of topological spaces. They can be also thought of as a vague generalization of the idea that a measure space may have 'uncountable measure'.
+Semifinite measures
+Let $MATH$ be a set, let $MATH$ be a sigma-algebra on $MATH$ and let $MATH$ be a measure on $MATH$ We say $MATH$ is semifinite to mean that for all $MATH$ $MATH$
+Semifinite measures generalize sigma-finite measures, in such a way that some big theorems of measure theory that hold for sigma-finite but not arbitrary measures can be extended with little modification to hold for semifinite measures. (To-do: add examples of such theorems; cf. the talk page.)
+Basic examples
+Involved example
+The zero measure is sigma-finite and thus semifinite. In addition, the zero measure is clearly less than or equal to $MATH$ It can be shown there is a greatest measure with these two properties:
+Theorem (semifinite part) — For any measure $MATH$ on $MATH$ there exists, among semifinite measures on $MATH$ that are less than or equal to $MATH$ a greatest element $MATH$
+We say the semifinite part of $MATH$ to mean the semifinite measure $MATH$ defined in the above theorem. We give some nice, explicit formulas, which some authors may take as definition, for the semifinite part:
+Since $MATH$ is semifinite, it follows that if $MATH$ then $MATH$ is semifinite. It is also evident that if $MATH$ is semifinite then $MATH$
+Non-examples
+Every $MATH$ measure that is not the zero measure is not semifinite. (Here, we say $MATH$ measure to mean a measure whose range lies in $MATH$: $MATH$) Below we give examples of $MATH$ measures that are not zero measures.
+Involved non-example
+Theorem (Luther decomposition) — For any measure $MATH$ on $MATH$ there exists a $MATH$ measure $MATH$ on $MATH$ such that $MATH$ for some semifinite measure $MATH$ on $MATH$ In fact, among such measures $MATH$ there exists a least measure $MATH$ Also, we have $MATH$
+We say the $MATH$ part of $MATH$ to mean the measure $MATH$ defined in the above theorem. Here is an explicit formula for $MATH$: $MATH$
+Results regarding semifinite measures
+Localizable measures
+Localizable measures are a special case of semifinite measures and a generalization of sigma-finite measures.
+Let $MATH$ be a set, let $MATH$ be a sigma-algebra on $MATH$ and let $MATH$ be a measure on $MATH$
+s-finite measures
+A measure is said to be s-finite if it is a countable sum of bounded measures. S-finite measures are more general than sigma-finite ones and have applications in the theory of stochastic processes.
+Non-measurable sets
+If the axiom of choice is assumed to be true, it can be proved that not all subsets of Euclidean space are Lebesgue measurable; examples of such sets include the Vitali set, and the non-measurable sets postulated by the Hausdorff paradox and the Banach–Tarski paradox.
+Generalizations
+For certain purposes, it is useful to have a "measure" whose values are not restricted to the non-negative reals or infinity. For instance, a countably additive set function with values in the (signed) real numbers is called a signed measure, while such a function with values in the complex numbers is called a complex measure. Observe, however, that complex measure is necessarily of finite variation, hence complex measures include finite signed measures but not, for example, the Lebesgue measure.
+Measures that take values in Banach spaces have been studied extensively. A measure that takes values in the set of self-adjoint projections on a Hilbert space is called a projection-valued measure; these are used in functional analysis for the spectral theorem. When it is necessary to distinguish the usual measures which take non-negative values from generalizations, the term positive measure is used. Positive measures are closed under conical combination but not general linear combination, while signed measures are the linear closure of positive measures.
+Another generalization is the finitely additive measure, also known as a content. This is the same as a measure except that instead of requiring countable additivity we require only finite additivity. Historically, this definition was used first. It turns out that in general, finitely additive measures are connected with notions such as Banach limits, the dual of $MATH$ and the Stone–Čech compactification. All these are linked in one way or another to the axiom of choice.  Contents remain useful in certain technical problems in geometric measure theory; this is the theory of Banach measures.
+A charge is a generalization in both directions: it is a finitely additive, signed measure. (Cf. ba space for information about bounded charges, where we say a charge is bounded to mean its range its a bounded subset of R.)
+See also
+Notes

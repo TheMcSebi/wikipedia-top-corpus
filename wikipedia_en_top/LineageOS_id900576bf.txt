@@ -1,0 +1,46 @@
+LineageOS
+LineageOS is an Android-based operating system for smartphones, tablet computers, and set-top boxes, with mostly free and open-source software. It is the successor to CyanogenMod, from which it was forked in December 2016, when Cyanogen Inc. announced it was discontinuing development and shut down the infrastructure behind the project. Since Cyanogen Inc. retained the rights to the Cyanogen name, the project rebranded its fork as LineageOS.
+LineageOS was officially launched on 24 December 2016, with the source code available on both GitHub and GitLab. In March 2017, it reportedly had one million users with the OnePlus One being the most popular device.
+History
+CyanogenMod (often abbreviated "CM") was a popular open-source operating system for smartphones and tablet computers, based on the Android mobile platform. CyanogenMod users can opt-in to report their use of the firmware. In March 2015, Forbes indicated over 50 million people were running CyanogenMod on their phones.
+In 2013, the founder, Stefanie Kondik, obtained venture funding under the name Cyanogen Inc. to allow commercialization of the project. In her view, the company did not capitalize on the project's success and in 2016 she either left or was forced out as part of a corporate restructure which involved a change of CEO, closure of offices and projects, and cessation of services. The code itself, being both open source and popular, was forked under the new name LineageOS and efforts began to resume development as a community project.
+CyanogenMod offered a number of features and options not available in the official firmware distributed by most mobile device vendors. Features supported by CyanogenMod included native theme support, FLAC audio codec support, a large Access Point Name list, Privacy Guard (per-application permission management application), support for tethering over common interfaces, CPU overclocking, root access, soft buttons and other "tablet tweaks," toggles in the notification pull-down (such as Wi-Fi, Bluetooth and satellite navigation), and other interface and performance enhancements. Many of the features from CyanogenMod were later integrated into the official Android code base. CyanogenMod's developers said that it did not contain spyware or bloatware.
+Development
+Like CyanogenMod, the LineageOS project is developed by many device-specific maintainers and uses Gerrit for its code review process. It also retained the old versioning format (for example, Android 7.1 is LineageOS 14.1). Prior to the official launch of LineageOS, many developers from XDA had already developed unofficial versions of LineageOS from the source code. All the released builds are signed with LineageOS' private keys.
+Builds were released on a weekly basis until 12 November 2018, when the release cycle for devices has changed: the latest LineageOS branch is built daily, with devices receiving a "nightly" OTA update, while devices on the older branch were moved to a weekly release cycle.
+Starting on 5 June 2020, the latest LineageOS branch is also moved to a weekly release cycle, as the server couldn't build all available supported devices in just one day, with some devices receiving updates later on the next day.
+Version history
+Features
+Like its predecessor, CyanogenMod, LineageOS is perceived as free from unnecessary software often pre-installed by a phone's manufacturer or carrier that is considered to be bloatware.
+Community
+LineageOS allows the community to get involved with development in various ways. Gerrit is used for the code review process for both the operating system and the infrastructure.
+The wiki, containing information regarding installation, support, and development of LineageOS, is also open to contributions through Gerrit. Other Lineage platforms include Crowdin for managing translations, Gitlab Issues for bug tracking, and a stats page, which displays the number of active installations from users who opt in to report this statistic. There is also an IRC channel hosted on Libera.chat (#lineageos) and subreddit (r/lineageos).
+The XDA Developers forums have been used by members of the Lineage community since the software's inception. Many devices are left unsupported by official releases so community members develop their own unofficial ROMs allowing older phones to use Lineage. These unofficial releases are often bundled with software intended to aid the user's experience that would otherwise be unseen in an official release. They also come with known bugs and security issues that may not be seen in official releases.
+During August 2017 the LineageOS team held a Summer Survey in which they asked users for feedback to improve the development of the operating system. The results were published in October and, according to the team, they used the gathered data to improve the upcoming LineageOS 15 release. A second Summer Survey was conducted in August 2018.
+As a response to one of the main suggestions received during their first public survey, LineageOS launched a section on their blog titled "LineageOS Engineering Blog" where Lineage maintainers and developers can contribute articles discussing advanced technical information pertaining to Android development.
+LineageOS is also known for posting a "regularly irregular review" on its blog in which the active development of the work is discussed.
+LineageOS apps
+LineageOS includes free and open-source apps:
+Current
+Former
+Although they are not included in LineageOS as such due to legal issues, users can flash the normal Google apps, including the Google Play Store and Play Apps, with a Zip package, usually referred to as gapps, while installing LineageOS. A side effect of using LineageOS and other custom roms is the impact on SafetyNet API. App developers can choose to enable a toggle in the app developer console to hide their app on the Play Store if a device doesn't pass SafetyNet tests, or can choose to check the SafetyNet status of a device to disable certain functionality. Notable examples would be Netflix, which is hidden on the Play Store, and Google Pay, which checks SafetyNet each time the app is used. Devices running LineageOS may have a smaller selection of usable apps in the Play Store as a result of these checks. LineageOS can be made to work with apps such as Netflix and Google Pay by installing Magisk and certain modules designed to hide the bootloader status.
+Customization features
+LineageOS offers several features that Android Open Source Project (AOSP) does not include. Some of these features are:
+Security & privacy features
+Developers & power user features
+Trust interface
+As LineageOS evolved through development, the Trust interface was introduced for all the LineageOS 15.1 builds released since 12 June 2018. The interface can be found on supported devices under Security and Privacy tab under the Settings option, and enables the user to "get an overview of the status of core security features and explanations on how to act to make sure the device is secure and the data is private".
+Additionally, while carrying out any action on the device, the trust icon is displayed, notifying the user that the action is safe.
+Supported devices
+The number of devices supported by LineageOS has increased over time, with 157 for 17.1 and 18.1 as of April 1, 2021. Official builds on currently supported development branches are labeled as "nightly". For the first two months of the project, parallel experimental builds were also produced, allowing in-place upgrades from previous CyanogenMod installations and easing migration to LineageOS.
+In 2019, LineageOS development builds were available for 109 phone models with over 2.8 million active installs. As of 26 April 2022, 41 devices are receiving official 19 builds and 136 devices are receiving official 18.1 builds.
+Criticism and reception
+2018 April Fools' prank
+LineageOS was criticized for a deceptive April Fool's prank included with some April 2018 builds.
+During the first week of April 2018 LineageOS released new builds with the "LOSGenuine" prank that informed unaware users of the software possibly being counterfeit via a persistent notification (which could not be disabled unless the user ran the following command in a root shell):
+When the notification was tapped, the software claimed that the device was "uncertified" and needed to mine "LOSCoins", which were a virtual currency and could not actually be spent. Affected builds also had a preinstalled "Wallet" app that showed the current balance of LOSCoins.
+Many users mistook the prank for actual malware, and others reportedly found it to be in "poor taste". It was especially criticized for being too "late" for an April Fool's joke, since many users didn't receive the update until days later, making the jest less obvious. On 10 April 2018, LineageOS team director ciwrl issued an official apology for the deceptive prank.
+Forks
+LineageOS has a number of notable forks:
+See also
+References and notes

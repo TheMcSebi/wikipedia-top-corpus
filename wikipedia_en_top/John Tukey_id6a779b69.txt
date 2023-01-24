@@ -1,0 +1,23 @@
+John Tukey
+John Wilder Tukey (/ˈtuːki/; June 16, 1915 – July 26, 2000) was an American mathematician and statistician, best known for the development of the fast Fourier Transform (FFT) algorithm and box plot. The Tukey range test, the Tukey lambda distribution, the Tukey test of additivity, and the Teichmüller–Tukey lemma all bear his name. He is also credited with coining the term 'bit' and the first published use of the word 'software'.
+Biography
+Tukey was born in New Bedford, Massachusetts in 1915, to a Latin teacher father and a private tutor. He was mainly taught by his mother and attended regular classes only for certain subjects like French. Tukey obtained a BA in 1936 and MSc in 1937 in chemistry, from Brown University, before moving to Princeton University, where in 1939 he received a PhD in mathematics after completing a doctoral dissertation titled "On denumerability in topology".
+During World War II, Tukey worked at the Fire Control Research Office and collaborated with Samuel Wilks and William Cochran. He is claimed to have helped design the U-2 spy plane. After the war, he returned to Princeton, dividing his time between the university and AT&T Bell Laboratories. In 1962, Tukey was elected to the American Philosophical Society. He became a full professor at 35 and founding chairman of the Princeton statistics department in 1965.
+Among many contributions to civil society, Tukey served on a committee of the American Statistical Association that produced a report critiquing the statistical methodology of the Kinsey Report, Statistical Problems of the Kinsey Report on Sexual Behavior in the Human Male, which summarised "While much remains to be done, our overall impression of their work to date is favorable".
+From 1960 to 1980, Tukey helped design the NBC television network polls used to predict and analyze elections. He was also a consultant to the Educational Testing Service, the Xerox Corporation, and Merck & Company.
+He was awarded the National Medal of Science by President Nixon in 1973. He was awarded the IEEE Medal of Honor in 1982 "For his contributions to the spectral analysis of random processes and the fast Fourier transform (FFT) algorithm".
+Tukey retired in 1985. He died in New Brunswick, New Jersey, on July 26, 2000.
+Scientific contributions
+Early in his career Tukey worked on developing statistical methods for computers at Bell Labs where he invented the term "bit" in 1947.
+His statistical interests were many and varied. He is particularly remembered for his development with James Cooley of the Cooley–Tukey FFT algorithm. In 1970, he contributed significantly to what is today known as the jackknife estimation—also termed Quenouille–Tukey jackknife. He introduced the box plot in his 1977 book, "Exploratory Data Analysis".
+Tukey's range test, the Tukey lambda distribution, Tukey's test of additivity, Tukey's lemma, and the Tukey window all bear his name. He is also the creator of several little-known methods such as the trimean and median-median line, an easier alternative to linear regression.
+In 1974, he developed, with Jerome H. Friedman, the concept of the projection pursuit.
+Statistical practice
+He also contributed to statistical practice and articulated the important distinction between exploratory data analysis and confirmatory data analysis, believing that much statistical methodology placed too great an emphasis on the latter.
+Though he believed in the utility of separating the two types of analysis, he pointed out that sometimes, especially in natural science, this was problematic and termed such situations uncomfortable science.
+A. D. Gordon offered the following summary of Tukey's principles for statistical practice:
+Tukey's lectures were described to be unusual. McCullagh described his lecture given in London in 1977:
+Coining the term bit
+While working with John von Neumann on early computer designs, Tukey introduced the word "bit" as a portmanteau of "binary digit". The term "bit" was first used in an article by Claude Shannon in 1948.
+See also
+Publications

@@ -1,0 +1,44 @@
+Noble metal
+A noble metal is ordinarily regarded as a metallic chemical element that is generally resistant to corrosion and is usually found in nature in its raw form. Gold, platinum, and the other platinum group metals (ruthenium, rhodium, palladium, osmium, iridium) are most often so classified. Silver, copper and mercury are sometimes included as noble metals, however less often as each of these usually occurs in nature combined with sulfur.
+
+
+In more specialized fields of study and applications the number of elements counted as noble metals can be smaller or larger. In physics, there are only three noble metals: copper, silver and gold. In dentistry, silver is not always counted as a noble metal since it is subject to corrosion when present in the mouth. In chemistry, the term noble metal is sometimes applied more broadly to any metallic or semimetallic element that does not react with a weak acid and give off hydrogen gas in the process. This broader set includes copper, mercury, technetium, rhenium, arsenic, antimony, bismuth and polonium, as well as gold, the six platinum group metals, and silver.
+Meaning and history
+While noble metal lists can differ, they tend to cluster around the six platinum group metals (ruthenium, rhodium, palladium, osmium, iridium, platinum) plus gold.
+In addition to this term's function as a compound noun, there are circumstances where noble is used as an adjective for the noun metal.  A galvanic series is a hierarchy of metals (or other electrically conductive materials, including composites and semimetals) that runs from noble to active, and allows one to predict how materials will interact in the environment used to generate the series. In this sense of the word, graphite is more noble than silver and the relative nobility of many materials is highly dependent upon context, as for aluminium and stainless steel in conditions of varying pH.
+The term noble metal can be traced back to at least the late 14th century and has slightly different meanings in different fields of study and application.
+Prior to Mendeleev's publication in 1869 of the first (eventually) widely accepted periodic table, Odling published a table in 1864, in which the "noble metals" rhodium, ruthenium, palladium; and platinum, iridium, and osmium were grouped together, and adjacent to silver and gold.
+Properties
+Geochemical
+The noble metals are siderophiles (iron-lovers). They tend to sink into the Earth's core because they dissolve readily in iron either as solid solutions or in the molten state. Most siderophile elements have practically no affinity whatsoever for oxygen: indeed, oxides of gold are thermodynamically unstable with respect to the elements.
+Copper, silver, gold, and the six platinum group metals are the only native metals that occur naturally in relatively large amounts.
+Corrosion resistance
+Copper is dissolved by nitric acid and aqueous potassium cyanide.
+Ruthenium can be dissolved in aqua regia, a highly concentrated mixture of hydrochloric acid and nitric acid, only when in the presence of oxygen, while rhodium must be in a fine pulverized form. Palladium and silver are soluble in nitric acid, with the solubility of silver being limited by the formation of silver chloride precipitate.
+Rhenium reacts with oxidizing acids, and hydrogen peroxide, and is said to be tarnished by moist air. Osmium and iridium are chemically inert in ambient conditions. Platinum and gold can be dissolved in aqua regia. Mercury reacts with oxidising acids.
+In 2010, US researchers discovered that an organic "aqua regia" in the form of a mixture of thionyl chloride SOCl2 and the organic solvent pyridine C5H5N achieved "high dissolution rates of noble metals under mild conditions, with the added benefit of being tunable to a specific metal" for example, gold but not palladium or platinum.
+Electronic
+In physics, the expression "noble metal" is sometimes confined to copper, silver, and gold, since their full d-subshells contribute to what noble character they have. In contrast, the other noble metals, especially the platinum group metals, have notable catalytic applications, arising from their partially filled d-subshells. This is the case with palladium which has a full d-subshell in the atomic state but in condensed form has a partially filled sp band at the expense of d-band occupancy.
+The difference in reactivity can be seen during the preparation of clean metal surfaces in an ultra-high vacuum: surfaces of "physically defined" noble metals (e.g., gold) are easy to clean and keep clean for a long time, while those of platinum or palladium, for example, are covered by carbon monoxide very quickly.
+Electrochemical
+Standard reduction potentials in aqueous solution are also a useful way of predicting the non-aqueous chemistry of the metals involved. Thus, metals with high negative potentials, such as sodium, or potassium, will ignite in air, forming the respective oxides. These fires cannot be extinguished with water, which also react with the metals involved to give hydrogen, which is itself explosive. Noble metals, in contrast, are disinclined to react with oxygen and, for that reason (as well as their scarcity) have been valued for millennia, and used in jewellery and coins.
+The adjacent table lists standard reduction potential in volts; electronegativity (revised Pauling); and electron affinity values (kJ/mol), for some metals and metalloids.
+The simplified entries in the reaction column can be read in detail from the Pourbaix diagrams of the considered element in water. Noble metals have large positive potentials; elements not in this table have a negative standard potential or are not metals.
+Electronegativity is included since it is reckoned to be, "a major driver of metal nobleness and reactivity".
+On account of their high electron affinity values, the incorporation of a noble metal in the electrochemical photolysis process, such as platinum and gold, among others, can increase photoactivity.
+Arsenic and antimony are usually considered to be metalloids rather than noble metals. However, physically speaking their most stable allotropes are metallic. Semiconductors, such as selenium and tellurium, have been excluded.
+The black tarnish commonly seen on silver arises from its sensitivity to hydrogen sulfide:
+Rayner-Canham contends that, "silver is so much more chemically-reactive and has such a different chemistry, that it should not be considered as a 'noble metal'." In dentistry, silver is not regarded as a noble metal due to its tendency to corrode in the oral environment.
+The relevance of the entry for water is addressed by Li et al. in the context of galvanic corrosion. Such a process will only occur when:
+The superheavy elements from hassium (element 108) to livermorium (116) inclusive are expected to be "partially very noble metals"; chemical investigations of hassium has established that it behaves like its lighter congener osmium, and preliminary investigations of nihonium and flerovium have suggested but not definitively established noble behavior. Copernicium's behaviour seems to partly resemble both its lighter congener mercury and the noble gas radon.
+Oxides
+As long ago as 1890, Hiorns observed as follows:
+Smith, writing in 1946, continued the theme:
+Such nobility is mainly associated with the relatively high electronegativity values of the noble metals, resulting in only weakly polar covalent bonding with oxygen. The table lists the melting points of the oxides of the noble metals, and for some of those of the non-noble metals, for the elements in their most stable oxidation states.
+Catalytic properties
+Many of the noble metals can act as catalysts. For example, platinum is used in catalytic converters, devices which convert toxic gases produced in car engines, such as the oxides of nitrogen, into non-polluting substances.
+Gold has many industrial applications; it is used as a catalyst in hydrogenation and the water gas shift reaction.
+See also
+Notes
+References
+Further reading

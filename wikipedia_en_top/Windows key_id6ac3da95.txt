@@ -1,0 +1,43 @@
+Windows key
+The Windows logo key (also known as Windows, win, start, logo, flag, OS, or super key) is a keyboard key which was originally introduced on the Microsoft Natural keyboard in 1994. This key became a standard key on PC keyboards. In Windows tapping the key brings up the start menu. Ctrl+Esc performs the same function, in case the keyboard lacks this key.
+History and usage
+Historically, the addition of two Windows keys and a menu key marked the change from the 101/102-key to 104/105-key layout for PC keyboards. Compared to the former layout, a Windows key was placed between the left Ctrl and the left Alt and another Windows key and the menu key were placed between the right Alt (or AltGr) and the right Ctrl key.
+The key is predated by the ⌘ Command key on Apple computers in the 1980s, and before that by the Super (or Meta) key on Lisp/Unix workstation computers in the 1970s.
+In laptop and other compact keyboards it is common to have just one Windows key (usually on the left). On Microsoft's Entertainment Desktop sets (designed for Windows Vista), the Windows key is in the middle of the keyboard, below all other keys (where the user's thumbs rest).
+Some keyboards during the Windows Vista and 7 era feature a circular bump surrounding the logo which distinguishes its feeling from the other buttons.
+On Windows 8 tablet computers, hardware certification requirements initially mandated that the Windows key be centered on the bezel below the screen, except on a convertible laptop, where the button is allowed to be off-center in a tablet configuration. This requirement was relaxed in Windows 8.1, allowing the Windows key to be placed on any bezel or edge of the unit, though a centered location along the bottom bezel is still preferred.
+Licensing
+Microsoft regulates the appearance of the Windows key logo picture with a specially crafted license for keyboard manufacturers ("Microsoft Windows Logo Key Logo License Agreement for Keyboard Manufacturers"). With the introduction of a new Microsoft Windows logo, first used with Windows XP, the agreement was updated to require that the new design be adopted for all keyboards manufactured after 1 September 2003. However, with the release of Windows Vista, Microsoft published guidelines for a new Windows Logo key that incorporates the Windows logo recessed in a chamfered lowered circle with a contrast ratio of at least 3:1 with respect to background that the key is applied to.
+In Common Building Block Keyboard Specification, all CBB compliant keyboards were to comply with the Windows Vista Hardware Start Button specification beginning on 1 June 2007.
+Wikipedia uses the Unicode character U+229E ⊞ SQUARED PLUS as a simulation of the logo.
+Use with Microsoft Windows
+From the Windows 95 to Windows 7 releases of the operating system, tapping the Windows key by itself traditionally revealed Windows Taskbar (if not visible) and opened the Start menu. In Windows Server 2012 and Windows 8, this key launches the Start screen but doesn't show the taskbar. However, this feature was added back into Windows 10.
+Pressing the key in combination with other keys allows invoking many common functions through the keyboard. Holding down Ctrl+Esc will not substitute for the Windows key in these combinations. Which Windows key combinations ("shortcuts") are available and active in a given Windows session depends on many factors, such as accessibility options, the type of the session (regular or Terminal Services), the Windows version, the presence of specific software such as IntelliType and Group Policy if applicable.
+Below is a list of notable shortcuts which work natively. Unless otherwise noted, they are valid in the next version of Windows. Using aftermarket scripts, users can also make custom shortcuts.
+Windows 95 and Windows NT 4.0
+The following shortcuts are valid in Windows 95 and Windows NT 4.0.
+Windows 2000
+Windows 2000 adds the following:
+Windows XP
+Windows XP adds the following:
+Windows XP Media Center Edition
+Windows XP Media Center Edition adds the following:
+Windows Vista
+Windows Vista adds the following shortcuts:
+Windows 7
+Windows 7 adds the following shortcuts:
+Windows 8
+Windows 8 introduces the following:
+Windows 8.1
+Windows 8.1 introduces the following:
+Windows 10
+Windows 10 introduces the following:
+Microsoft Office
+Additional installed software may introduce other shortcuts using the Windows key.  For example, various Microsoft Office applications add shortcuts of their own:
+Use with other operating systems
+The Windows key can also be used on other operating systems.
+On Unix and Unix-like operating systems, the key is usually given the X keysym "Super" (on earlier versions "Meta" was often used), and turns on the shift bit called MOD4. Most desktop environments use it much like Windows, with press+release popping up a primary menu similar to the Windows start menu (GNOME Shell bringing up the Activities Overview, KDE Plasma, Cinnamon and most other desktop environments pop up their main system menus), and with combinations with letters performing actions such as run-command, often with the shortcuts and actions copied from Windows. A common action that is not shared with Windows is for the key to allow dragging a window around from any location without raising it, and in the Compiz window manager it causes the scroll wheel to zoom in or out of any part of the desktop.
+If one plugs a Windows keyboard into a macOS computer, the Windows key acts as the ⌘ Command. This swaps the locations of ⌘ Command and Alt from standard Macintosh keyboards. Plugging a Macintosh keyboard into a Windows (or Linux) machine makes ⌘ Command act like ⊞ Win, again with the locations swapped with Alt from standard.
+If one plugs a Windows keyboard into a ChromeOS computer, the Windows key acts as the Search key. This key is in the location where the Caps Lock key would be on other keyboards.
+If one plugs a Windows keyboard into an Xbox 360, pressing the Windows key performs the same action as the Guide button on Xbox 360 Controller or remote controls, opening the Xbox Guide. Holding down the Windows key and pressing M opens a pop up conversation window over gameplay, if an instant message conversation is in progress. On a PlayStation 3 console, pressing the Windows key performs the same action as the PS Button on the Sixaxis Controller, opening the XrossMediaBar.
+If one plugs a Windows keyboard into an Xbox One or Xbox Series S|X, pressing the Windows key performs the same action as pressing the Xbox button on a controller.

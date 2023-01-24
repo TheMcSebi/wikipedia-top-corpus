@@ -1,0 +1,17 @@
+Carbonyl group
+In organic chemistry, a carbonyl group is a functional group composed of a carbon atom double-bonded to an oxygen atom: C=O. It is common to several classes of organic compounds, as part of many larger functional groups. A compound containing a carbonyl group is often referred to as a carbonyl compound.
+The term carbonyl can also refer to carbon monoxide as a ligand in an inorganic or organometallic complex (a metal carbonyl, e.g. nickel carbonyl).
+The remainder of this article concerns itself with the organic chemistry definition of carbonyl, where carbon and oxygen share a double bond.
+Carbonyl compounds
+In organic chemistry, a carbonyl group characterizes the following types of compounds:
+Other organic carbonyls are urea and the carbamates, the derivatives of acyl chlorides chloroformates and phosgene, carbonate esters, thioesters, lactones, lactams, hydroxamates, and isocyanates. Examples of inorganic carbonyl compounds are carbon dioxide and carbonyl sulfide.
+A special group of carbonyl compounds are dicarbonyl compounds, which can exhibit special properties.
+Structure and reactivity
+For organic compounds, the length of the C-O bond does not vary widely from 120 picometers. Inorganic carbonyls have shorter C-O distances: CO, 113; CO2, 116; and COCl2, 116 pm.
+The carbonyl carbon is typically electrophilic.  A qualitative order of electrophilicity is RCHO (aldehydes) > R2CO (ketones) > RCO2R' (esters) > RCONH2 (amides).   A variety of nucleophiles attack, breaking the carbon-oxygen double bond.
+Interactions between carbonyl groups and other substituents were found in a study of collagen. Substituents can affect carbonyl groups by addition or subtraction of electron density by means of a sigma bond. ΔHσ values are much higher when the substituents on the carbonyl group are more electronegative than carbon.
+The polarity of C=O bond also enhances the acidity of any adjacent C-H bonds.  Due to the positive charge on carbon and the negative charge on oxygen, carbonyl groups are subject to additions and/or nucleophilic attacks. A variety of nucleophiles attack, breaking the carbon-oxygen double bond, and leading to addition-elimination reactions. Nucleophiliic reactivity is often proportional to the basicity of the nucleophile and as nucleophilicity increases, the stability within a carbonyl compound decreases. The pKa values of acetaldehyde and acetone are 16.7 and 19 respectively,
+Spectroscopy
+See also
+References
+Further reading

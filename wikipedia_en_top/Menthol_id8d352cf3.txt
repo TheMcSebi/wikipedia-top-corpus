@@ -1,0 +1,42 @@
+Menthol
+
+
+Menthol is an organic compound, more specifically a monoterpenoid, made synthetically or obtained from the oils of corn mint, peppermint, or other mints. It is a waxy, clear or white crystalline substance, which is solid at room temperature and melts slightly above.
+The main form of menthol occurring in nature is (−)-menthol, which is assigned the (1R,2S,5R) configuration. Menthol has local anesthetic and counterirritant qualities, and it is widely used to relieve minor throat irritation. Menthol also acts as a weak κ-opioid receptor agonist.
+Structure
+Natural menthol exists as one pure stereoisomer, nearly always the (1R,2S,5R) form (bottom left corner of the diagram below). The eight possible stereoisomers are:
+In the natural compound, the isopropyl group is in the trans orientation to both the methyl and hydroxyl groups. Thus, it can be drawn in any of the ways shown:
+The (+)- and (−)-enantiomers of menthol are the most stable among these based on their cyclohexane conformations. With the ring itself in a chair conformation, all three bulky groups can orient in equatorial positions.
+The two crystal forms for racemic menthol have melting points of 28 °C and 38 °C. Pure (−)-menthol has four crystal forms, of which the most stable is the α form, the familiar broad needles.
+Biological properties
+Menthol's ability to chemically trigger the cold-sensitive TRPM8 receptors in the skin is responsible for the well-known cooling sensation it provokes when inhaled, eaten, or applied to the skin. In this sense, it is similar to capsaicin, the chemical responsible for the spiciness of hot chilis (which stimulates heat sensors, also without causing an actual change in temperature).
+Menthol's analgesic properties are mediated through a selective activation of κ-opioid receptors. Menthol blocks calcium channels and voltage-sensitive sodium channels, reducing neural activity that may stimulate muscles.
+Some studies show that menthol acts as GABAA receptor positive allosteric modulator and increases Gabaergic transmission in PAG neurons. Menthol also shares anaesthetic properties similar to propofol, by modulating the same sites of the GABAA receptor.
+Menthol is widely used in dental care as a topical antibacterial agent, effective against several types of streptococci and lactobacilli. Menthol also lowers blood pressure and antagonizes vasoconstriction through TRPM8 activation.
+Occurrence
+Mentha arvensis (wild mint) is the primary species of mint used to make natural menthol crystals and natural menthol flakes. This species is primarily grown in the Uttar Pradesh region in India.
+Menthol occurs naturally in peppermint oil (along with a little menthone, the ester menthyl acetate and other compounds), obtained from Mentha × piperita (peppermint). Japanese menthol also contains a small percentage of the 1-epimer neomenthol.
+Biosynthesis
+The biosynthesis of menthol has been investigated in Mentha × piperita and the enzymes involved in have been identified and characterized. It begins with the synthesis of the terpene limonene, followed by hydroxylation, and then several reduction and isomerization steps.
+More specifically, the biosynthesis of (−)-menthol takes place in the secretory gland cells of the peppermint plant. Geranyl diphosphate synthase (GPPS), first catalyzes the reaction of IPP and DMAPP into geranyl diphosphate. Next (−)-limonene synthase (LS) catalyzes the cyclization of geranyl diphosphate to (−)-limonene. (−)-Limonene-3-hydroxylase (L3OH), using O2 and NADPH, then catalyzes the allylic hydroxylation of (−)-limonene at the 3 position to (−)-trans-isopiperitenol. (−)-trans-Isopiperitenol dehydrogenase (iPD) further oxidizes the hydroxyl group on the 3 position using NAD+ to make (−)-isopiperitenone. (−)-Isopiperitenone reductase (iPR) then reduces the double bond between carbons 1 and 2 using NADPH to form (+)-cis-isopulegone. (+)-cis-Isopulegone isomerase (iPI) then isomerizes the remaining double bond to form (+)-pulegone. (+)-Pulegone reductase (PR) then reduces this double bond using NADPH to form (−)-menthone. (−)-Menthone reductase (MR) then reduces the carbonyl group using NADPH to form (−)-menthol.
+Production
+Natural menthol is obtained by freezing peppermint oil. The resultant crystals of menthol are then separated by filtration.
+Total world production of menthol in 1998 was 12,000 tonnes of which 2,500 tonnes was synthetic. In 2005, the annual production of synthetic menthol was almost double. Prices are in the $10–20/kg range with peaks in the $40/kg region but have reached as high as $100/kg. In 1985, it was estimated that China produced most of the world's supply of natural menthol, although it appears that India has pushed China into second place.
+Menthol is manufactured as a single enantiomer (94% e.e.) on the scale of 3,000 tonnes per year by Takasago International Corporation. The process involves an asymmetric synthesis developed by a team led by Ryōji Noyori, who won the 2001 Nobel Prize for Chemistry in recognition of his work on this process:
+The process begins by forming an allylic amine from myrcene, which undergoes asymmetric isomerisation in the presence of a BINAP rhodium complex to give (after hydrolysis) enantiomerically pure R-citronellal. This is cyclised by a carbonyl-ene-reaction initiated by zinc bromide to isopulegol, which is then hydrogenated to give pure (1R,2S,5R)-menthol.
+Another commercial process is the Haarmann–Reimer process (after the company Haarmann & Reimer, now part of Symrise) This process starts from m-cresol which is alkylated with propene to thymol. This compound is hydrogenated in the next step. Racemic menthol is isolated by fractional distillation. The enantiomers are separated by chiral resolution in reaction with methyl benzoate, selective crystallisation followed by hydrolysis.
+Racemic menthol can also be formed by hydrogenation of thymol, menthone, or pulegone. In both cases with further processing (crystallizative entrainment resolution of the menthyl benzoate conglomerate) it is possible to concentrate the L-enantiomer, however this tends to be less efficient, although the higher processing costs may be offset by lower raw material costs. A further advantage of this process is that D-menthol becomes inexpensively available for use as a chiral auxiliary, along with the more usual L-antipode.
+Applications
+Menthol is included in many products, and for a variety of reasons. These include:
+In organic chemistry, menthol is used as a chiral auxiliary in asymmetric synthesis. For example, sulfinate esters made from sulfinyl chlorides and menthol can be used to make enantiomerically pure sulfoxides by reaction with organolithium reagents or Grignard reagents. Menthol reacts with chiral carboxylic acids to give diastereomic menthyl esters, which are useful for chiral resolution.
+Reactions
+Menthol reacts in many ways like a normal secondary alcohol. It is oxidised to menthone by oxidising agents such as chromic acid or dichromate, though under some conditions the oxidation can go further and break open the ring. Menthol is easily dehydrated to give mainly 3-menthene, by the action of 2% sulfuric acid. Phosphorus pentachloride (PCl5) gives menthyl chloride.
+History
+In the West, menthol was first isolated in 1771, by the German, Hieronymus David Gaubius.  Early characterizations were done by Oppenheim, Beckett, Moriya, and Atkinson. It was named by F. L. Alphons Oppenheim (1833–1877) in 1861.
+Compendial status
+Safety
+The estimated lethal dose for menthol (and peppermint oil) in humans may be as low as 50–500 mg/kg, (LD50 Acute: 3300 mg/kg [Rat]. 3400 mg/kg [Mouse]. 800 mg/kg [Cat]).
+Survival after doses of 8 to 9 g has been reported. Overdose effects are abdominal pain, ataxia, atrial fibrillation, bradycardia, coma, dizziness, lethargy, nausea, skin rash, tremor, vomiting, and vertigo.
+See also
+References
+Further reading

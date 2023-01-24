@@ -1,0 +1,55 @@
+Circumflex
+The circumflex (◌̂) is a diacritic in the Latin and Greek scripts that is also used in the written forms of many languages and in various romanization and transcription schemes. It received its English name from Latin: circumflexus "bent around"—a translation of the Greek: περισπωμένη (perispōménē).
+The circumflex in the Latin script is chevron-shaped (◌̂), while the Greek circumflex may be displayed either like a tilde (◌̃) or like an inverted breve (◌̑). For the most commonly encountered uses of the accent in the Latin alphabet, precomposed characters are available.
+In English, the circumflex, like other diacritics, is sometimes retained on loanwords that used it in the original language (for example, crème brûlée).
+In mathematics and statistics, the circumflex diacritic is sometimes used to denote a function and is called a hat operator.
+A free-standing version of the circumflex symbol, ^, has become known as caret and has acquired special uses, particularly in computing and mathematics. The original caret, ‸, is used in proofreading to indicate insertion.
+Uses
+Pitch
+The circumflex has its origins in the polytonic orthography of Ancient Greek, where it marked long vowels that were pronounced with high and then falling pitch. In a similar vein, the circumflex is today used to mark tone contour in the International Phonetic Alphabet. This is also how it is used in Bamanankan (as opposed to a háček, which signifies a rising tone on a syllable).
+The shape of the circumflex was originally a combination of the acute and grave accents (^), as it marked a syllable contracted from two vowels: an acute-accented vowel and a non-accented vowel (all non-accented syllables in Ancient Greek were once marked with a grave accent). Later a variant similar to the tilde (~) was also used.
+The term "circumflex" is also used to describe similar tonal accents that result from combining two vowels in related languages such  as Sanskrit and Latin.
+Since Modern Greek has a stress accent instead of a pitch accent, the circumflex has been replaced with an acute accent in the modern monotonic orthography.
+Length
+The circumflex accent marks a long vowel in the orthography or transliteration of several languages.
+Stress
+The circumflex accent marks the stressed vowel of a word in some languages:
+Vowel quality
+Nasality
+Other articulatory features
+Visual discrimination between homographs
+Diacritic on consonants
+English
+In 18th century British English, before the cheap Penny Post and while paper was taxed, the combination ough was occasionally shortened to ô when the gh was not pronounced, to save space: thô for though, thorô for thorough, and brôt for brought.
+French
+In French, the circumflex generally marks the former presence of a consonant (usually s) that was deleted and is no longer pronounced. (The corresponding Norman French words, and consequently the words derived from them in English, frequently retain the lost consonant.) For example:
+Some homophones (or near-homophones in some varieties of French) are distinguished by the circumflex. However, â, ê and ô distinguish different sounds in most varieties of French, for instance cote [kɔt] "level, mark, code number" and côte [kot] "rib, coast, hillside".
+In handwritten French, for example in taking notes, an m with a circumflex (m̂) is an informal abbreviation for même "same".
+In February 2016, the Académie française decided to remove the circumflex from about 2,000 words, a plan that had been outlined since 1990. However, usage of the circumflex would not be considered incorrect.
+Italian
+In Italian, î is occasionally used in the plural of nouns and adjectives ending with -io [jo] as a crasis mark. Other possible spellings are -ii and obsolete -j or -ij. For example, the plural of vario [ˈvaːrjo] "various" can be spelt vari, varî, varii; the pronunciation will usually stay [ˈvaːri] with only one [i]. The plural forms of principe [ˈprintʃipe] "prince" and of principio [prinˈtʃiːpjo] "principle, beginning" can be confusing. In pronunciation, they are distinguished by whether the stress is on the first or on the second syllable, but principi would be a correct spelling of both. When necessary to avoid ambiguity, it is advised to write the plural of principio as principî or as principii.
+Latin
+In New Latin, circumflex was used most often to disambiguate between forms of the same word that used a long vowel, for example ablative of first declension and genitive of fourth declension, or between second and third conjugation verbs. It was also used for the interjection ô.
+Norwegian
+In Norwegian, the circumflex differentiates fôr "lining, fodder" from the preposition for. From a historical point of view, the circumflex also indicates that the word used to be spelled with the letter ð in Old Norse – for example, fôr is derived from  fóðr, lêr 'leather' from leðr, and vêr "weather, ram" from veðr (both lêr and vêr only occur in the Nynorsk spelling; in Bokmål these words are spelled lær and vær). After the ð disappeared, it was replaced by a d (fodr, vedr).
+Portuguese
+Circumflexes are used in many common words of the language, such as você (you/thou), ânimo (cheer), and avô (grandfather). In early literacy classes in school, it is commonly nicknamed chapéu ("hat"). 
+Mathematics
+In mathematics, the circumflex is used to modify variable names; it is usually read "hat", e.g., î is "i hat". The Fourier transform of a function ƒ is often denoted by $MATH$.
+In the notation of sets, a hat above an element signifies that the element was removed from the set, such as in $MATH$, the set containing all elements $MATH$ except $MATH$.
+In geometry, a hat is sometimes used for an angle. For instance, the angles $MATH$ or $MATH$.
+In vector notation, a hat above a letter indicates a unit vector (a dimensionless vector with a magnitude of 1). For instance, $MATH$, $MATH$, or $MATH$ stands for a unit vector in the direction of the x-axis of a Cartesian coordinate system.
+In statistics, the hat is used to denote an estimator or an estimated value, as opposed to its theoretical counterpart. For example, in errors and residuals, the hat in $MATH$ indicates an observable estimate (the residual) of an unobservable quantity called $MATH$ (the statistical error). It is read x-hat or x-roof, where x represents the character under the hat.
+Music
+In music theory and musicology, a circumflex above a numeral is used to make reference to a particular scale degree.
+In music notation, a chevron-shaped symbol placed above a note indicates marcato, a special form of emphasis or accent. In music for string instruments, a narrow inverted chevron indicates that a note should be performed up-bow.
+Letters with circumflex
+Circumflex in digital character sets
+The precomposed characters Â/â, Ê/ê, Î/î, Ô/ô, and Û/û (which incorporate the circumflex) are included in the ISO-8859-1 character set, and dozens more are available in Unicode. In addition, Unicode has U+0302 ◌̂ COMBINING CIRCUMFLEX ACCENT and U+032D ◌̭ COMBINING CIRCUMFLEX ACCENT BELOW which in principle allow adding the diacritic to any base letter.
+The Greek diacritic περισπωμένη, perispōménē, 'twisted around' is encoded as U+0342 ͂ COMBINING GREEK PERISPOMENI.
+Freestanding circumflex
+For historical reasons, there is a similar but larger character, U+005E ^ CIRCUMFLEX ACCENT (&Hat;) (&Hat; in HTML5), which is also included in ASCII but often called a caret instead (though this term has a long-standing meaning as a proofreader's mark, with its own codepoints in Unicode). It is, however, unsuitable for use as a diacritic on modern computer systems, as it is a spacing character. Two other spacing circumflex characters in Unicode are the smaller modifier letters U+02C6 ˆ MODIFIER LETTER CIRCUMFLEX ACCENT and U+A788 ꞈ MODIFIER LETTER LOW CIRCUMFLEX ACCENT, mainly used in phonetic notations or as a sample of the diacritic in isolation.
+Typing the circumflex accent
+In countries where the local language(s) routinely include letters with a circumflex, local keyboards are typically engraved with those symbols.
+For users with American or British QWERTY keyboards, the characters â, ĉ, ê, ĝ, ĥ, î, ĵ, ô, ŝ, û, ẃ, ý (and their uppercase equivalents) may be obtained after installing the International or extended keyboard layout setting. Then, by using (US Int) ⇧ Shift+6 or (UK Ext) AltGr+6 (^), then release, then the base letter, produces the accented version. (With this keyboard mapping, ⇧ Shift+6 or AltGr+6 becomes a dead key that applies the diacritic to the subsequent letter, if such a precomposed character exists. For example, AltGr+6 w produces ŵ as used in Welsh.) Alternatively for systems with a 'compose' function, compose^w, etc. may be used.
+Other methods are available: see Unicode input.

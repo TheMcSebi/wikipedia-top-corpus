@@ -1,0 +1,139 @@
+Angular momentum operator
+In quantum mechanics, the angular momentum operator is one of several related operators analogous to classical angular momentum. The angular momentum operator plays a central role in the theory of atomic and molecular physics and other quantum problems involving rotational symmetry.  Such an operator is applied to a mathematical representation of the physical state of a system and yields an angular momentum value if the state has a definite value for it. In both classical and quantum mechanical systems, angular momentum (together with linear momentum and energy) is one of the three fundamental properties of motion.
+There are several angular momentum operators: total angular momentum (usually denoted J), orbital angular momentum (usually denoted L), and spin angular momentum (spin for short, usually denoted S). The term angular momentum operator can (confusingly) refer to either the total or the orbital angular momentum. Total angular momentum is always conserved, see Noether's theorem.
+Overview
+In quantum mechanics, angular momentum can refer to one of three different, but related things.
+Orbital angular momentum
+The classical definition of angular momentum is $MATH$. The quantum-mechanical counterparts of these objects share the same relationship:
+where r is the quantum position operator, p is the quantum momentum operator, × is cross product, and L is the orbital angular momentum operator. L (just like p and r) is a vector operator (a vector whose components are operators), i.e. $MATH$ where Lx, Ly, Lz are three different quantum-mechanical operators.
+
+
+In the special case of a single particle with no electric charge and no spin, the orbital angular momentum operator can be written in the position basis as:
+where ∇ is the vector differential operator, del.
+Spin angular momentum
+There is another type of angular momentum, called spin angular momentum (more often shortened to spin), represented by the spin operator $MATH$. Spin is often depicted as a particle literally spinning around an axis, but this is only a metaphor: spin is an intrinsic property of a particle, unrelated to any sort of (yet experimentally observable) motion in space. All elementary particles have a characteristic spin, which is usually nonzero. For example, electrons always have "spin 1/2" while photons always have "spin 1" (details below).
+Total angular momentum
+Finally, there is total angular momentum $MATH$, which combines both the spin and orbital angular momentum of a particle or system:
+Conservation of angular momentum states that J for a closed system, or J for the whole universe, is conserved. However, L and S are not generally conserved. For example, the spin–orbit interaction allows angular momentum to transfer back and forth between L and S, with the total J remaining constant.
+Commutation relations
+Commutation relations between components
+The orbital angular momentum operator is a vector operator, meaning it can be written in terms of its vector components $MATH$. The components have the following commutation relations with each other:
+where [ , ] denotes the commutator
+This can be written generally as
+where l, m, n are the component indices (1 for x, 2 for y, 3 for z), and εlmn denotes the Levi-Civita symbol.
+A compact expression as one vector equation is also possible:
+The commutation relations can be proved as a direct consequence of the canonical commutation relations $MATH$, where δlm is the Kronecker delta.
+There is an analogous relationship in classical physics:
+where Ln is a component of the classical angular momentum operator, and $MATH$ is the Poisson bracket.
+The same commutation relations apply for the other angular momentum operators (spin and total angular momentum):
+These can be assumed to hold in analogy with L. Alternatively, they can be derived as discussed below.
+These commutation relations mean that L has the mathematical structure of a Lie algebra, and the εlmn are its structure constants. In this case, the Lie algebra is SU(2) or SO(3) in physics notation ($MATH$ or $MATH$ respectively in mathematics notation), i.e. Lie algebra associated with rotations in three dimensions. The same is true of J and S. The reason is discussed below. These commutation relations are relevant for measurement and uncertainty, as discussed further below.
+In molecules the total angular momentum F is the sum of the rovibronic (orbital) angular momentum N, the electron spin angular momentum S, and the nuclear spin angular momentum I. For electronic singlet states the rovibronic angular momentum is denoted J rather than N. As explained by Van Vleck, 
+the components of the molecular rovibronic angular momentum referred to molecule-fixed axes have different commutation relations from those given above which are for the components about space-fixed axes.
+Commutation relations involving vector magnitude
+Like any vector, the square of a magnitude can be defined for the orbital angular momentum operator,
+$MATH$ is another quantum operator. It commutes with the components of $MATH$,
+One way to prove that these operators commute is to start from the [Lℓ, Lm] commutation relations in the previous section:
+Mathematically, $MATH$ is a Casimir invariant of the Lie algebra SO(3) spanned by $MATH$.
+As above, there is an analogous relationship in classical physics:
+where $MATH$ is a component of the classical angular momentum operator, and $MATH$ is the Poisson bracket.
+Returning to the quantum case, the same commutation relations apply to the other angular momentum operators (spin and total angular momentum), as well,
+Uncertainty principle
+In general, in quantum mechanics, when two observable operators do not commute, they are called complementary observables. Two complementary observables cannot be measured simultaneously; instead they satisfy an uncertainty principle. The more accurately one observable is known, the less accurately the other one can be known. Just as there is an uncertainty principle relating position and momentum, there are uncertainty principles for angular momentum.
+The Robertson–Schrödinger relation gives the following uncertainty principle:
+where $MATH$ is the standard deviation in the measured values of X and $MATH$ denotes the expectation value of X. This inequality is also true if x, y, z are rearranged, or if L is replaced by J or S.
+Therefore, two orthogonal components of angular momentum (for example Lx and Ly) are complementary and cannot be simultaneously known or measured, except in special cases such as $MATH$.
+It is, however, possible to simultaneously measure or specify L2 and any one component of L; for example, L2 and Lz. This is often useful, and the values are characterized by the azimuthal quantum number (l) and the magnetic quantum number (m). In this case the quantum state of the system is a simultaneous eigenstate of the operators L2 and Lz, but not of Lx or Ly. The eigenvalues are related to l and m, as shown in the table below.
+Quantization
+In quantum mechanics, angular momentum is quantized – that is, it cannot vary continuously, but only in "quantum leaps" between certain allowed values. For any system, the following restrictions on measurement results apply, where $MATH$ is reduced Planck constant:
+Derivation using ladder operators
+A common way to derive the quantization rules above is the method of ladder operators. The ladder operators for the total angular momentum $MATH$ are defined as:
+Suppose $MATH$ is a simultaneous eigenstate of $MATH$ and $MATH$ (i.e., a state with a definite value for $MATH$ and a definite value for $MATH$). Then using the commutation relations for the components of $MATH$, one can prove that each of the states $MATH$ and $MATH$ is either zero or a simultaneous eigenstate of $MATH$ and $MATH$, with the same value as $MATH$ for $MATH$ but with  values for $MATH$ that are increased or decreased by $MATH$ respectively. The result is zero when the use of a ladder operator would otherwise result in a state with a value for $MATH$ that is outside the allowable range. Using the ladder operators in this way, the possible values and quantum numbers for $MATH$ and $MATH$ can be found.
+Let $MATH$ be a state function for the system with eigenvalue $MATH$ for $MATH$ and eigenvalue $MATH$ for $MATH$.
+From $MATH$ is obtained,
+Applying both sides of the above equation to $MATH$,
+Since $MATH$ and $MATH$ are real observables, $MATH$ is not negative and $MATH$. Thus $MATH$ has an upper and lower bound.
+Two of the commutation relations for the components of $MATH$ are,
+They can be combined to obtain two equations, which are written together using $MATH$ signs in the following,
+where one of the equations uses the $MATH$ signs and the other uses the $MATH$ signs.
+Applying both sides of the above to $MATH$,
+The above shows that $MATH$ are two eigenfunctions of $MATH$ with respective eigenvalues $MATH$ , unless one of the functions is zero, in which case it is not an eigenfunction. For the functions that are not zero,
+Further eigenfunctions of $MATH$ and corresponding eigenvalues can be found by repeatedly applying $MATH$ as long as the magnitude of the resulting eigenvalue is $MATH$.
+Since the eigenvalues of $MATH$ are bounded, let $MATH$ be the lowest eigenvalue and $MATH$ be the highest. Then
+since there are no states where the eigenvalue of $MATH$ is $MATH$ or $MATH$. By applying $MATH$ to the first equation, $MATH$ to the second, and using $MATH$,  it can be shown that
+Subtracting the first equation from the second and rearranging,
+Since $MATH$, the second factor is negative. Then the first factor must be zero and thus $MATH$.
+The difference $MATH$ comes from successive application of $MATH$ or $MATH$ which lower or raise the eigenvalue of $MATH$ by $MATH$ so that,
+Let
+Then using $MATH$ and the above,
+and the allowable eigenvalues of $MATH$ are
+Expressing $MATH$ in terms of a quantum number $MATH$, and substituting $MATH$ into $MATH$ from above,
+$MATH$
+Since $MATH$ and $MATH$ have the same commutation relations as $MATH$, the same ladder analysis can be applied to them, except that for $MATH$ there is a further restriction on the quantum numbers that they must be integers.
+In the Schroedinger representation, the z component of the orbital angular momentum operator can be expressed in spherical coordinates as,
+For $MATH$ and eigenfunction $MATH$ with eigenvalue $MATH$,
+Solving for $MATH$,
+where $MATH$ is independent of $MATH$. Since $MATH$ is required to be single valued, and adding $MATH$ to $MATH$ results in a coordinate for the same point in space,
+Solving for the eigenvalue $MATH$,
+where $MATH$ is an integer.
+From the above and the relation $MATH$, it follows that $MATH$ is also an integer. This shows that the quantum numbers $MATH$ and $MATH$ for the orbital angular momentum $MATH$ are restricted to integers, unlike the quantum numbers for the total angular momentum $MATH$ and spin $MATH$, which can have half-integer values.
+An alternative derivation which does not assume single-valued wave functions follows  and another argument using Lie groups is below.
+ A key part of the traditional derivation above is that the wave function must be single-valued. This is now recognised by many as not being completely correct: a wave function $MATH$ is not observable and only the probability density $MATH$ is required to be single-valued. The possible double-valued half-integer wave functions have a single-valued probability density. This was recognised by Pauli in 1939 (cited by Japaridze et al)
+Double-valued wave functions have been found, such as $MATH$ and $MATH$. These do not behave well under the ladder operators, but have been found to be useful in describing rigid quantum particles
+Ballentine gives an argument based solely on the operator formalism and which does not rely on the wave function being single-valued. The azimuthal angular momentum is defined as
+Define new operators
+(Dimensional correctness may be maintained by inserting factors of mass and unit angular frequency numerically equal to one.) Then
+But the two terms on the right are just the Hamiltonians for the quantum harmonic oscillator with unit mass and angular frequency
+and $MATH$, $MATH$, $MATH$ and $MATH$ all commute.
+For commuting Hermitian operators a complete set of basis vectors can be chosen that are eigenvectors for all four operators. (The argument by Glorioso can easily be generalised to any number of commuting operators.)
+For any of these eigenvectors $MATH$ with
+for some integers $MATH$, we find
+As a difference of two integers, $MATH$ must be an integer, from which $MATH$ is also integral.
+A more complex version of this argument using the ladder operators of the quantum harmonic oscillator has been given by Buchdahl.
+Visual interpretation
+Since the angular momenta are quantum operators, they cannot be drawn as vectors like in classical mechanics. Nevertheless, it is common to depict them heuristically in this way. Depicted on the right is a set of states with quantum numbers $MATH$, and $MATH$ for the five cones from bottom to top. Since $MATH$, the vectors are all shown with length $MATH$. The rings represent the fact that $MATH$ is known with certainty, but $MATH$ and  $MATH$ are unknown; therefore every classical vector with the appropriate length and z-component is drawn, forming a cone. The expected value of the angular momentum for a given ensemble of systems in the quantum state characterized by $MATH$ and $MATH$ could be somewhere on this cone while it cannot be defined for a single system (since the components of $MATH$ do not commute with each other).
+Quantization in macroscopic systems
+The quantization rules are widely thought to be true even for macroscopic systems, like the angular momentum L of a spinning tire. However they have no observable effect so this has not been tested. For example, if $MATH$ is roughly 100000000, it makes essentially no difference whether the precise value is an integer like 100000000 or 100000001, or a non-integer like 100000000.2—the discrete steps are currently too small to measure.
+Angular momentum as the generator of rotations
+The most general and fundamental definition of angular momentum is as the generator of rotations. More specifically, let $MATH$ be a rotation operator, which rotates any quantum state about axis $MATH$ by angle $MATH$. As $MATH$, the operator $MATH$ approaches the identity operator, because a rotation of 0° maps all states to themselves. Then the angular momentum operator $MATH$ about axis $MATH$ is defined as:
+where 1 is the identity operator. Also notice that R is an additive morphism : $MATH$ ; as a consequence
+where exp is matrix exponential.
+In simpler terms, the total angular momentum operator characterizes how a quantum system is changed when it is rotated. The relationship between angular momentum operators and rotation operators is the same as the relationship between Lie algebras and Lie groups in mathematics, as discussed further below.
+Just as J is the generator for rotation operators, L and S are generators for modified partial rotation operators. The operator
+rotates the position (in space) of all particles and fields, without rotating the internal (spin) state of any particle. Likewise, the operator
+rotates the internal (spin) state of all particles, without moving any particles or fields in space. The relation J = L + S comes from:
+i.e. if the positions are rotated, and then the internal states are rotated, then altogether the complete system has been rotated.
+SU(2), SO(3), and 360° rotations
+Although one might expect $MATH$ (a rotation of 360° is the identity operator), this is not assumed in quantum mechanics, and it turns out it is often not true: When the total angular momentum quantum number is a half-integer (1/2, 3/2, etc.), $MATH$, and when it is an integer, $MATH$. Mathematically, the structure of rotations in the universe is not SO(3), the group of three-dimensional rotations in classical mechanics. Instead, it is SU(2), which is identical to SO(3) for small rotations, but where a 360° rotation is mathematically distinguished from a rotation of 0°. (A rotation of 720° is, however, the same as a rotation of 0°.)
+On the other hand, $MATH$ in all circumstances, because a 360° rotation of a spatial configuration is the same as no rotation at all. (This is different from a 360° rotation of the internal (spin) state of the particle, which might or might not be the same as no rotation at all.) In other words, the $MATH$ operators carry the structure of SO(3), while $MATH$ and $MATH$ carry the structure of SU(2).
+From the equation $MATH$, one picks an eigenstate $MATH$ and draws
+which is to say that the orbital angular momentum quantum numbers can only be integers, not half-integers.
+Connection to representation theory
+Starting with a certain quantum state $MATH$, consider the set of states $MATH$ for all possible $MATH$ and $MATH$, i.e. the set of states that come about from rotating the starting state in every possible way. The linear span of that set is a vector space, and therefore the manner in which the rotation operators map one state onto another is a representation of the group of rotation operators.
+From the relation between J and rotation operators,
+(The Lie algebras of SU(2) and SO(3) are identical.)
+The ladder operator derivation above is a method for classifying the representations of the Lie algebra SU(2).
+Connection to commutation relations
+Classical rotations do not commute with each other: For example, rotating 1° about the x-axis then 1° about the y-axis gives a slightly different overall rotation than rotating 1° about the y-axis then 1° about the x-axis. By carefully analyzing this noncommutativity, the commutation relations of the angular momentum operators can be derived.
+(This same calculational procedure is one way to answer the mathematical question "What is the Lie algebra of the Lie groups SO(3) or SU(2)?")
+Conservation of angular momentum
+The Hamiltonian H represents the energy and dynamics of the system. In a spherically symmetric situation, the Hamiltonian is invariant under rotations:
+where R is a rotation operator. As a consequence, $MATH$, and then $MATH$ due to the relationship between J and R. By the Ehrenfest theorem, it follows that J is conserved.
+To summarize, if H is rotationally-invariant (spherically symmetric), then total angular momentum J is conserved. This is an example of Noether's theorem.
+If H is just the Hamiltonian for one particle, the total angular momentum of that one particle is conserved when the particle is in a central potential (i.e., when the potential energy function depends only on $MATH$). Alternatively, H may be the Hamiltonian of all particles and fields in the universe, and then H is always rotationally-invariant, as the fundamental laws of physics of the universe are the same regardless of orientation. This is the basis for saying conservation of angular momentum is a general principle of physics.
+For a particle without spin, J = L, so orbital angular momentum is conserved in the same circumstances. When the spin is nonzero, the spin–orbit interaction allows angular momentum to transfer from L to S or back. Therefore, L is not, on its own, conserved.
+Angular momentum coupling
+Often, two or more sorts of angular momentum interact with each other, so that angular momentum can transfer from one to the other. For example, in spin–orbit coupling, angular momentum can transfer between L and S, but only the total J = L + S is conserved. In another example, in an atom with two electrons, each has its own angular momentum J1 and J2, but only the total J = J1 + J2 is conserved.
+In these situations, it is often useful to know the relationship between, on the one hand, states where $MATH$ all have definite values, and on the other hand, states where $MATH$ all have definite values, as the latter four are usually conserved (constants of motion). The procedure to go back and forth between these bases is to use Clebsch–Gordan coefficients.
+One important result in this field is that a relationship between the quantum numbers for $MATH$:
+For an atom or molecule with J = L + S, the term symbol gives the quantum numbers associated with the operators $MATH$.
+Orbital angular momentum in spherical coordinates
+Angular momentum operators usually occur when solving a problem with spherical symmetry in spherical coordinates. The angular momentum in the spatial representation is
+In spherical coordinates the angular part of the Laplace operator can be expressed by the angular momentum. This leads to the relation
+When solving to find eigenstates of the operator $MATH$, we obtain the following
+where
+are the spherical harmonics.
+See also
+Notes
+References
+Further reading

@@ -1,0 +1,106 @@
+Hornbostel–Sachs
+Hornbostel–Sachs or Sachs–Hornbostel is a system of musical instrument classification devised by Erich Moritz von Hornbostel and Curt Sachs, and first published in the Zeitschrift für Ethnologie in 1914. An English translation was published in the Galpin Society Journal in 1961. It is the most widely used system for classifying musical instruments by ethnomusicologists and organologists (people who study musical instruments). The system was updated in 2011 as part of the work of the Musical Instrument Museums Online (MIMO) Project.
+Hornbostel and Sachs based their ideas on a system devised in the late 19th century by Victor-Charles Mahillon, the curator of musical instruments at Brussels Conservatory. Mahillon divided instruments into four broad categories according to the nature of the sound-producing material: an air column; string; membrane; and body of the instrument. From this basis, Hornbostel and Sachs expanded Mahillon's system to make it possible to classify any instrument from any culture.
+Formally, the Hornbostel–Sachs is modeled on the Dewey Decimal Classification for libraries. It has five top-level classifications, with several levels below those, adding up to over 300 basic categories in all. The top five levels of the scheme are as follows:
+Idiophones (1)
+Idiophones primarily produce their sounds by means of the actual body of the instrument vibrating, rather than a string, membrane, or column of air. In essence, this group includes all percussion instruments apart from drums, and some other instruments. In the Hornbostel–Sachs classification, idiophones are first categorized according to the method used to play the instrument. The result is four main categories: struck idiophones (11), plucked idiophones (12), friction idiophones (13) and blown idiophones (14). These groups are subsequently divided through various criteria. In many cases these sub-categories are split in singular specimens and sets of instruments. The class of idiophones includes the xylophone, the marimba, the glockenspiel, and the glass harmonica.
+Struck idiophones (11)
+These idiophones are set in vibration by being struck, for example cymbals or xylophones.
+Directly struck idiophones (111)
+The player executes the movement of striking; whether by mechanical intermediate devices, beaters, keyboards, or by pulling ropes, etc. It is definitive that the player can apply clear, exact, individual strokes, and that the instrument itself is equipped for this kind of percussion.
+Indirectly struck idiophones (112)
+The player themself does not go through the movement of striking; percussion results indirectly through some other movement by the player.
+Plucked idiophones (12)
+Plucked idiophones, or lamellaphones, are idiophones set in vibration by being plucked; examples include the jaw harp or mbira. This group is sub-divided in the following two categories:
+In the form of a frame (121)
+The lamellae vibrate within a frame or hoop.
+In the form of a comb (122)
+The lamellae are tied to a board or cut out from a board like the teeth of a comb.
+Friction idiophones (13)
+Idiophones which are rubbed, for example the nail violin, a bowed instrument with solid pieces of metal or wood rather than strings.
+Friction sticks (131)
+Friction plaques (132)
+Friction vessels (133)
+Sets of Friction idiophones (134)
+Blown idiophones (14)
+Blown idiophones are idiophones set in vibration by the movement of air, for example the Aeolsklavier, an instrument consisting of several pieces of wood which vibrate when air is blown onto them by a set of bellows. The piano chanteur features plaques.
+Blown sticks (141)
+Blown plaques (142)
+Mixed sets of blown idiophones (143)
+Membranophones (2)
+Membranophones primarily produce their sounds by means of the vibration of a tightly stretched membrane. This group includes all drums and kazoos.
+Struck membranophones (21)
+Struck drums are instruments which have a struck membrane. This includes most types of drums, such as the timpani, or kettle drum, and the snare drum.
+Directly struck membranophones (211)
+Instruments in which the membrane is struck directly, such as through bare hands, beaters or keyboards.
+Shaken membranophones (212)
+Instruments which are shaken, the membrane being vibrated by objects inside the drum (rattle drums).
+Plucked membranophones (22)
+Instruments with a string attached to the membrane, so that when the string is plucked, the membrane vibrates (plucked drums).
+Some commentators believe that instruments in this class ought instead to be regarded as chordophones (see below).
+Friction membranophones (23)
+Instruments in which the membrane vibrates as a result of friction. These are drums which are rubbed, rather than being struck.
+Friction drums with stick (231)
+Instruments in which the membrane is vibrated from a stick that is rubbed or used to rub the membrane
+Friction drum with cord (232)
+Instruments in which a cord, attached to the membrane, is rubbed.
+Hand friction drums (233)
+Instruments in which the membrane is rubbed by hand
+Singing membranes (kazoos) (24)
+This group includes kazoos, instruments which do not produce sound of their own, but modify other sounds by way of a vibrating membrane.
+Free kazoos (241)
+Instruments in which the membrane is vibrated by an unbroken column of wind, without a chamber
+Tube or vessel-kazoos (242)
+Instruments in which the membrane is placed in a box, tube or other container
+Chordophones (3)
+Chordophones primarily produce their sounds by means of the vibration of a string or strings that are stretched between fixed points. This group includes all instruments generally called string instruments in the west, as well as many (but not all) keyboard instruments, such as pianos and harpsichords.
+Simple chordophones or zithers (31)
+Instruments which are in essence simply a string or strings and a string bearer. These instruments may have a resonator box, but removing it should not render the instrument unplayable, though it may result in quite a different sound being produced. They include the piano therefore, as well as other kinds of zithers such as the koto, and musical bows.
+Bar zithers (311)
+The string bearer is bar-shaped.
+Tube zithers (312)
+The string bearer is a vaulted surface.
+Raft zithers (313)
+The string bearer is composed of canes tied together in the manner of a raft.
+Board zithers (314)
+The string bearer is a board.
+Trough zithers (315)
+The strings are stretched across the mouth of a trough.
+Frame zithers (316)
+The strings are stretched across an open frame.
+Composite chordophones (32)
+Acoustic and electro-acoustic instruments which have a resonator as an integral part of the instrument, and solid-body electric chordophones. This includes most western string instruments, including lute-type instruments such as violins and guitars, and harps.
+Lutes (321)
+The plane of the strings runs parallel with the resonator's surface.
+Harps (322)
+The plane of the strings lies perpendicular to the resonator's surface.
+Harp lutes (323)
+The plane of the strings lies at right angles to the sound-table; a line joining the lower ends of the strings would be perpendicular to the neck. These have notched bridges.
+Aerophones (4)
+Aerophones primarily produce their sounds by means of vibrating air. The instrument itself does not vibrate, and there are no vibrating strings or membranes.
+Free aerophones (41)
+Instruments in which the vibrating air is not contained within the instrument, for example, acme sirens or the bullroarer.
+Displacement free aerophones (411)
+The air-stream meets a sharp edge, or a sharp edge is moved through the air. In either case, according to more recent views, a periodic displacement of air occurs to the alternate flanks of the edge. Examples are the swordblade or the whip.
+Interruptive free aerophones (412)
+The air-stream is interrupted periodically.
+Plosive aerophones (413)
+The sound is caused by a single compression and release of air. Examples include the botija, the gharha, the ghatam, and the udu.
+Mixed sets of free aerophones (414)
+Non-free aerophones (wind instruments proper) (42)
+The vibrating air is contained within the instrument. This group includes most of the instruments called wind instruments in the west, such as the flute or French horn, as well as many other kinds of instruments such as conch shells.
+Edge-blown aerophones or flutes (421)
+The player makes a ribbon-shaped flow of air with their lips (421.1), or their breath is directed through a duct against an edge (421.2).
+Reed aerophones (422)
+The player's breath is directed against a lamella or pair of lamellae which periodically interrupt the airflow and cause the air to be set in motion.
+Trumpets (423)
+The player's vibrating lips set the air in motion.
+Electrophones (5)
+The fifth top-level group, the electrophones category, was added by Sachs in 1940, to describe instruments involving electricity. Sachs broke down his 5th category into 3 subcategories: 51=electrically actuated acoustic instruments; 52=electrically amplified acoustic instruments; 53= instruments which make sound primarily by way of electrically driven oscillators, such as theremins or synthesizers, which he called radioelectric instruments. Francis William Galpin provided such a group in his own classification system, which is closer to Mahillon than Sachs–Hornbostel. For example, in Galpin's 1937 book A Textbook of European Musical Instruments, he lists electrophones with three second-level divisions for sound generation ("by oscillation", "electro-magnetic", and "electro-static"), as well as third-level and fourth-level categories based on the control method. Sachs himself proposed subcategories 51, 52, and 53, on pages 447–467 of his 1940 book The History of Musical Instruments.
+Present-day ethnomusicologists, such as Margaret Kartomi (page 173) and Ellingson (PhD dissertation, 1979, p. 544), suggest that, in keeping with the spirit of the original Hornbostel–Sachs classification scheme, of categorization by what first produces the initial sound in the instrument, that only subcategory 53 should remain in the electrophones category. Thus it has been more recently proposed that, for example, the pipe organ (even if it uses electric key action to control solenoid valves) remain in the aerophones category, and that the electric guitar remain in the chordophones category, etc.
+Application of the system
+Beyond the top three groups are several further levels of classification, so that the xylophone, for example, is in the group labeled 111.212 (periods are usually added after every third digit to make long numbers easier to read). A long classification number does not necessarily indicate the instrument is a complicated one. The valveless bugle, for instance, has the classification number 423.121.22, even though it is generally regarded as a relatively simple instrument. The numbers in the bugle's classification indicate the following:
+423.121.22 does not uniquely identify the bugle, but rather identifies the bugle as a certain kind of instrument which has much in common with other instruments in the same class. Another instrument classified as 423.121.22 is the bronze lur, an instrument dating back to the Bronze Age.
+Suffixes and composite instruments
+After the number described above, a number of suffixes may be appended. An 8 indicates that the instrument has a keyboard attached, while a 9 indicates the instrument is mechanically driven. In addition to these, there are a number of suffixes unique to each of the top-level groups indicating details not considered crucial to the fundamental nature of the instrument. In the membranophone class, for instance, suffixes can indicate whether the skin of a drum is glued, nailed or tied to its body; in the chordophone class, suffixes can indicate whether the strings are plucked with fingers or plectrum, or played with a bow.
+There are ways to classify instruments with this system even if they have elements from more than one group. Such instruments may have particularly long classification numbers with colons and hyphens used as well as numbers. Hornbostel and Sachs themselves cite the case of various bagpipes where some of the pipes are single reed (like a clarinet) and others are double reed (like the oboe). A number of similar composite instruments exist.

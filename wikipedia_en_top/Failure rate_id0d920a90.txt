@@ -1,0 +1,54 @@
+Failure rate
+Failure rate is the frequency with which an engineered system or component fails, expressed in failures per unit of time.  It is usually denoted by the Greek letter λ (lambda) and is often used in reliability engineering.
+The failure rate of a system usually depends on time, with the rate varying over the life cycle of the system.  For example, an automobile's failure rate in its fifth year of service may be many times greater than its failure rate during its first year of service.  One does not expect to replace an exhaust pipe, overhaul the brakes, or have major transmission problems in a new vehicle.
+In practice, the mean time between failures (MTBF, 1/λ) is often reported instead of the failure rate. This is valid and useful if the failure rate may be assumed constant – often used for complex units / systems, electronics – and is a general agreement in some reliability standards (Military and Aerospace). It does in this case only relate to the flat region of the bathtub curve, which is also called the "useful life period". Because of this, it is incorrect to extrapolate MTBF to give an estimate of the service lifetime of a component, which will typically be much less than suggested by the MTBF due to the much higher failure rates in the "end-of-life wearout" part of the "bathtub curve".
+The reason for the preferred use for MTBF numbers is that the use of large positive numbers (such as 2000 hours) is more intuitive and easier to remember than very small numbers (such as 0.0005 per hour).
+The MTBF is an important system parameter in systems where failure rate needs to be managed, in particular for safety systems. The MTBF appears frequently in the engineering design requirements, and governs frequency of required system maintenance and inspections.  In special processes called renewal processes, where the time to recover from failure can be neglected and the likelihood of failure remains constant with respect to time, the failure rate is simply the multiplicative inverse of the MTBF (1/λ).
+A similar ratio used in the transport industries, especially in railways and trucking is "mean distance between failures", a variation which attempts to correlate actual loaded distances to similar reliability needs and practices.
+Failure rates are important factors in the insurance, finance, commerce and regulatory industries and fundamental to the design of safe systems in a wide variety of applications.
+Failure rate data
+Failure rate data can be obtained in several ways. The most common means are:
+Given a component database calibrated with field failure data that is reasonably accurate
+, the method can predict product level failure rate and failure mode data for a given application. The predictions have been shown to be more accurate than field warranty return analysis or even typical field failure analysis given that these methods depend on reports that typically do not have sufficient detail information in failure records.
+Failure rate in the discrete sense
+The failure rate can be defined as the following:
+Although the failure rate, $MATH$, is often thought of as the probability that a failure occurs in a specified interval given no failure before time $MATH$, it is not actually a probability because it can exceed 1. Erroneous expression of the failure rate in % could result in incorrect perception of the measure, especially if it would be measured from repairable systems and multiple systems with non-constant failure rates or different operation times. It can be defined with the aid of the reliability function, also called the survival function, $MATH$, the probability of no failure before time $MATH$.
+over a time interval $MATH$ = $MATH$ from $MATH$ (or $MATH$) to $MATH$.  Note that this is a conditional probability, where the condition is that no failure has occurred before time $MATH$. Hence the $MATH$ in the denominator.
+Hazard rate and ROCOF (rate of occurrence of failures) are often incorrectly seen as the same and equal to the failure rate.  To clarify; the more promptly items are repaired, the sooner they will break again, so the higher the ROCOF. The hazard rate is however independent of the time to repair and of the logistic delay time.
+Failure rate in the continuous sense
+ Calculating the failure rate for ever smaller intervals of time results in the hazard function (also called hazard rate), $MATH$. This becomes the instantaneous failure rate or we say instantaneous hazard rate as $MATH$ approaches to zero:
+A continuous failure rate depends on the existence of a failure distribution, $MATH$, which is a cumulative distribution function that describes the probability of failure (at least) up to and including time t,
+where $MATH$ is the failure time.
+The failure distribution function is the integral of the failure density function, f(t),
+The hazard function can be defined now as
+Many probability distributions can be used to model the failure distribution (see List of important probability distributions). A common model is the exponential failure distribution,
+which is based on the exponential density function. The hazard rate function for this is:
+Thus, for an exponential failure distribution, the hazard rate is a constant with respect to time (that is, the distribution is "memory-less").  For other distributions, such as a Weibull distribution or a log-normal distribution, the hazard function may not be constant with respect to time. For some such as the deterministic distribution it is monotonic increasing (analogous to "wearing out"), for others such as the Pareto distribution it is monotonic decreasing (analogous to "burning in"), while for many it is not monotonic.
+Solving the differential equation 
+for $MATH$, it can be shown that
+Decreasing failure rate
+A decreasing failure rate (DFR) describes a phenomenon where the probability of an event in a fixed time interval in the future decreases over time. A decreasing failure rate can describe a period of "infant mortality" where earlier failures are eliminated or corrected and corresponds to the situation where λ(t) is a decreasing function.
+Mixtures of DFR variables are DFR.  Mixtures of exponentially distributed random variables are hyperexponentially distributed.
+Renewal processes
+For a renewal process with DFR renewal function, inter-renewal times are concave. Brown conjectured the converse, that DFR is also necessary for the inter-renewal times to be concave, however it has been shown that this conjecture holds neither in the discrete case nor in the continuous case.
+Applications
+Increasing failure rate is an intuitive concept caused by components wearing out. Decreasing failure rate describes a system which improves with age.
+Decreasing failure rates have been found in the lifetimes of spacecraft, Baker and Baker commenting that "those spacecraft that last, last on and on." The reliability of aircraft air conditioning systems were individually found to have an exponential distribution, and thus in the pooled population a DFR.
+Coefficient of variation
+When the failure rate is decreasing the coefficient of variation is ⩾ 1, and when the failure rate is increasing the coefficient of variation is ⩽ 1. Note that this result only holds when the failure rate is defined for all t ⩾ 0 and that the converse result (coefficient of variation determining nature of failure rate) does not hold.
+Units
+Failure rates can be expressed using any measure of time, but hours is the most common unit in practice. Other units, such as miles, revolutions, etc., can also be used in place of "time" units.
+Failure rates are often expressed in engineering notation as failures per million, or 10−6, especially for individual components, since their failure rates are often very low.
+The Failures In Time (FIT) rate of a device is the number of failures that can be expected in one billion (109) device-hours of operation.
+(E.g. 1000 devices for 1 million hours, or 1 million devices for 1000 hours each, or some other combination.) This term is used particularly by the semiconductor industry.
+The relationship of FIT to MTBF may be expressed as: MTBF = 1,000,000,000 x 1/FIT.
+Additivity
+Under certain engineering assumptions (e.g. besides the above assumptions for a constant failure rate, the assumption that the considered system has no relevant redundancies), the failure rate for a complex system is simply the sum of the individual failure rates of its components, as long as the units are consistent, e.g. failures per million hours. This permits testing of individual components or subsystems, whose failure rates are then added to obtain the total system failure rate.
+Adding "redundant" components to eliminate a single point of failure improves the mission failure rate, but makes the series failure rate (also called the logistics failure rate) worse—the extra components improve the mean time between critical failures (MTBCF), even though the mean time before something fails is worse.
+Example
+Suppose it is desired to estimate the failure rate of a certain component. A test can be performed to estimate its failure rate. Ten identical components are each tested until they either fail or reach 1000 hours, at which time the test is terminated for that component. (The level of statistical confidence is not considered in this example.) The results are as follows:
+Estimated failure rate is
+or 799.8 failures for every million hours of operation.
+See also
+References
+Further reading

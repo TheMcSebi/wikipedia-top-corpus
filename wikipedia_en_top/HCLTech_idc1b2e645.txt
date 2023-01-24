@@ -1,0 +1,45 @@
+HCLTech
+HCL Technologies Limited, d/b/a HCLTech (formerly Hindustan Computers Limited), is an Indian multinational information technology (IT) services and consulting company headquartered in Noida. It emerged as an independent company in 1991 when HCL entered into the software services business. The company has offices in 52 countries and over 210,966 employees.
+
+
+HCLTech is on the Forbes Global 2000 list. It is among the top 20 largest publicly traded companies in India with a market capitalisation of ₹279,209 crore as of March 2022.
+History
+HCL Enterprise
+HCL Enterprise was founded in 1976.
+The first three subsidiaries of parent HCL Enterprise were:
+The company originally was focused on hardware  but, via HCL Technologies, software and services became a main focus.
+Formation and early years
+In 1976, a group of six engineers, all former employees of Delhi Cloth & General Mills, led by Shiv Nadar, started a company that would make personal computers. Initially floated as Microcomp Limited, Nadar and his team (which also included Arjun Malhotra, Ajai Chowdhry, D.S. Puri, Yogesh Vaidya and Subhash Arora) started selling teledigital calculators to gather capital for their main product. On 11 August 1976, the company was renamed  Hindustan Computers Limited (HCL).
+HCL Technologies began as the R&D Division of HCL Enterprise, a company which was a contributor to the development and growth of the IT and computer industry in India. HCL Enterprise developed an indigenous microcomputer in 1978, and a networking OS and client-server architecture in 1983. On 12 November 1991, HCL Technologies was spun off as a separate unit to provide software services.
+On 12 November 1991, a company called HCL Overseas Limited was incorporated as a provider of technology development services. It received the certificate of commencement of business on 10 February 1992 after which it began its operations. Two years later, in July 1994, the company name was changed to HCL Consulting Limited. On 6 October 1999, the company was renamed 'HCL Technologies Limited' for "a better reflection of its activities."
+Between 1991 and 1999, the company expanded its software development capacities to US, European and APAC markets.
+IPO and subsequent expansion
+The company went public on 10 November 1999, with an issue of 142 crore (14.2 million) shares, valued at ₹4 each. During 2000, the company set up an offshore development centre in Chennai, India, for KLA-Tencor Corporation.
+In 2002, it acquired Gulf Computers Inc.
+In February 2014, HCL launched HCL Healthcare. HCL TalentCare is the fourth and latest venture of HCL Corporation.
+In July 2018, US-based Actian was acquired by HCL and Sumeru Equity Partners for $330 million.
+In 2019, HCL Technologies acquired a select few products of IBM. HCL took the full ownership of research and development, sales, marketing, delivery, and support for AppScan, BigFix, Commerce, Connections, Digital Experience (Portal and Content Manager), Notes Domino, and Unica.
+In 2022, HCL Technologies rebranded as HCLTech.
+Acquisitions and partnerships
+Joint ventures
+On 23 July 2015, CSC (NYSE: CSC) and HCL Technologies (BSE: HCLTECH) announced a joint venture agreement to form a banking software and services company, Celeriti FinTech.
+In October 2017, IBM struck a "strategic partnership" with HCL that had the latter firm take over development of the IBM Lotus Software's Notes, Domino, Sametime and Verse collaboration tools.
+Partnerships
+On 9 June 2015, PC maker Dell announced a strategic distribution partnership with HCL Infosystems.
+In October 2018, TransGrid signed a 5-year managed services deal with HCL Technologies for IT services delivery and providing outsourcing support, with the outsourcing teams to be based in Australia.
+HCL Technologies signed a seven-year exclusive partnership with Temenos AG. The exclusive strategic agreement will be for non-financial services enterprises, where HCL was granted a license to develop, market, and support Temenos multi-experience development platform (MXDP).
+In March 2021, HCL Technologies expanded its partnership with Google Cloud to bring HCL Software's Digital Experience (DX) and Unica Marketing cloud-native platforms to Google Cloud.
+Operations
+HCLTech operates in 52 countries, including its headquarters in Noida, India. It has establishments in Australia, China, Hong Kong, India, Indonesia, Israel, Japan, Malaysia, New Zealand, Saudi Arabia, Singapore, South Africa, the United Arab Emirates and Qatar. In Europe it covers Belgium, Bulgaria, Czech Republic, Denmark, Estonia and Romania Finland, France, Germany, Italy, Lithuania, Netherlands, Norway, Poland, Sweden, Switzerland, Portugal, and United Kingdom. In the Americas, the company has offices in Brazil, Canada, Mexico, Puerto Rico, Guatemala, and United States.
+Cary, North Carolina is the base for the American operation and as the Cary Global Delivery Center.
+Business lines
+Infrastructure Services Division
+A subsidiary of HCLTech, HCL Infrastructure Services Division (ISD) is an IT services company. Headquartered in Delhi, NCR, India, HCL ISD was instituted in 1993 with the objective to address the demand for cost-effective management of technology infrastructure across geographically dispersed locations. 
+HCL ISD, also known as HCL Comnet Systems and Services Ltd. in India, diversified ito provide enterprise IT infrastructure globally in 1993 winning the first order to establish India's first floorless stock exchange
+United Kingdom and Ireland
+On 7 September 2005, HCLTech expanded its operations base in County Armagh and Belfast in Northern Ireland. At the 2006 UK Trade and Investment India Business Awards in New Delhi, the then UK Prime Minister Tony Blair announced the expansion, which was aimed at creating more IT and BPO jobs in the area. HCL acquired the Armagh-based AnswerCall Direct earlier in 2005. HCL BPO services in Ireland are carried out through its main delivery centres in Armagh and Belfast. In November 2011, after HCL revealed an expansion plan in County Kilkenny in Ireland, its Business Process Outsourcing (BPO) division in Northern Ireland won a contract for back-office services from the Department of Health. It was aimed at increasing the number of jobs and other employment opportunities in the region.
+Sri Lanka
+HCL announced on 16 June 2020 that it had commenced operations in Sri Lanka. The company plans to create 2,000 jobs in the country within the first 18 months of operations.
+HCL Infosystems
+HCL Enterprise's Infosystems subsidiary, as of 2015, was still active.
+This part of HCL was formed in 1976 to produce calculators.

@@ -1,0 +1,32 @@
+Antiplatelet drug
+An antiplatelet drug (antiaggregant), also known as a platelet agglutination inhibitor or platelet aggregation inhibitor, is a member of a class of pharmaceuticals that decrease platelet aggregation and inhibit thrombus formation. They are effective in the arterial circulation where anticoagulants have little effect.
+They are widely used in primary and secondary prevention of thrombotic cerebrovascular or cardiovascular disease.
+Antiplatelet therapy with one or more of these drugs decreases the ability of blood clots to form by interfering with the platelet activation process in primary hemostasis. Antiplatelet drugs can reversibly or irreversibly inhibit the process involved in platelet activation resulting in decreased tendency of platelets to adhere to one another and to damaged blood vessels' endothelium.
+Choice
+A 2006 review states: "...low-dose aspirin increases the risk of major bleeding 2-fold compared with placebo. However, the annual incidence of major bleeding due to low-dose aspirin is modest—only 1.3 patients per thousand higher than what is observed with placebo treatment. Treatment of approximately 800 patients with low-dose aspirin annually for cardiovascular prophylaxis will result in only 1 additional major bleeding episode."
+Dual antiplatelet therapy
+Often a combination of aspirin plus an ADP/P2Y inhibitor (such as clopidogrel, prasugrel, ticagrelor, or another) is used in order to obtain greater effectiveness than with either agent alone. This is known as "dual antiplatelet therapy" (or DAPT).
+Classification
+Classes of antiplatelet drugs include:
+Usage
+Prevention and treatment of arterial thrombosis
+Prevention and treatment of arterial thrombosis is essential in patients with certain medical conditions whereby the risk of thrombosis or thromboembolism may result in disastrous consequences such as heart attack, pulmonary embolism or stroke. Patients who require the use of antiplatelet drugs are: stroke with or without atrial fibrillation, any heart surgery (especially prosthetic replacement heart valve), Coronary Heart Disease such as stable angina, unstable angina and heart attack, patients with coronary stent, Peripheral Vascular Disease/Peripheral Arterial Disease and apical/ventricular/mural thrombus.
+Treatment of established arterial thrombosis includes the use of antiplatelet drugs and thrombolytic therapy. Antiplatelet drugs alter the platelet activation at the site of vascular damage crucial to the development of arterial thrombosis.
+Management in the perioperative period
+Antiplatlet therapy may increase the risk of a bleed during surgery, however, stopping therapy may increase the risk of other thrombotic problems including myocardial infarction. When considering these medications and the risk-benefit ratio in the perioperative period, one must consider the risk of stopping the medication and a clot forming versus the risk of bleeding during or after the surgery if medication is continued. A 2018 Cochrane Review that included five randomized controlled trials found low-certainty evidence to suggest that continuing or discontinuing antiplatelet therapy for a non-cardiac surgery does not make a difference in mortality, major bleeds that require surgery, or ischaemic events. The same review found moderate certainty evidence that continuing or discontinuing therapy also did not have a big difference on the incidence of bleeds requiring a blood transfusion.
+Dental management of patients on antiplatelet drugs
+Dentists should be aware of the risk of prolonged bleeding time in patients taking antiplatelet drugs when planning dental treatments that are likely to cause bleeding. Therefore, it is important for dentists to know how to assess patient's bleeding risk and how to manage them.
+Assess bleeding risk
+Identify the likelihood and risk of dental treatment causing bleeding complications.
+Drug toxicity
+Antiplatelet drugs effect may be affected by patient's medications, current medical conditions, food and supplements taken. Antiplatelet drugs effect may be increased or decreased. An increase in antiplatelet effect would increase the risk of bleeding and could cause prolonged or excessive bleeding. A decrease in antiplatelet effect would reduce the risk of bleeding, but increase the thromboembolic risk. Drug toxicity may increase when multiple antiplatelet drugs are used. Gastrointestinal bleeding is a common adverse event seen in many patients.
+Medications
+Medications that may increase antiplatelet drug effect:
+Medications that may decrease antiplatelet drug effect:
+Use of NSAIDs as part of dental management of patients with vascular disease should be discouraged as NSAIDs have antiplatelet effect. Instead, simple analgesics such as paracetamol or co-codamol should be of first choice. If NSAIDs are required, the risk of bleeding increases with duration of dental treatment.
+Medical conditions
+Medical conditions that may increase antiplatelet drugs' effect include:
+Chronic kidney failure, liver disease, haematological malignancy, recent or current chemotherapy, advanced heart failure, mild forms of inherited bleeding disorders (e.g. haemophilia, Von Willebrand's disease) and idiopathic thrombocytopenic purpura.
+Food and supplements
+Food and supplements that may increase antiplatelet drugs' effect:
+St. John's wort, ginkgo biloba, garlic.

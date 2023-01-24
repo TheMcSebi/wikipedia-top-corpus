@@ -1,0 +1,50 @@
+Meloxicam
+Meloxicam, sold under the brand name Mobic among others, is a nonsteroidal anti-inflammatory medication (NSAID) used to treat pain and inflammation in rheumatic diseases and osteoarthritis. It is used by mouth or by injection into a vein. It is recommended that it be used for as short a period as possible and at a low dose.
+Common side effects include abdominal pain, dizziness, swelling, headache, and a rash. Serious side effects may include heart disease, stroke, kidney problems, and stomach ulcers. Use is not recommended in the third trimester of pregnancy. It blocks cyclooxygenase-2 (COX-2) more than it blocks cyclooxygenase-1 (COX-1). It is in the oxicam family of chemicals and is closely related to piroxicam.
+Meloxicam was patented in 1977 and approved for medical use in the United States in 2000. It was developed by Boehringer Ingelheim; however, it is also available as a generic medication. In 2020, it was the 28th most commonly prescribed medication in the United States, with more than 19 million prescriptions.  An intravenous version of meloxicam (Anjeso) was approved for medical use in the United States in February 2020.
+Adverse effects
+Meloxicam use can result in gastrointestinal toxicity and bleeding, headaches, rash, and very dark or black stool (a sign of intestinal bleeding). It has fewer gastrointestinal side effects than diclofenac, piroxicam, naproxen, and perhaps all other NSAIDs which are not COX-2 selective.
+In October 2020, the U.S. Food and Drug Administration (FDA) required the drug label to be updated for all nonsteroidal anti-inflammatory medications to describe the risk of kidney problems in unborn babies that result in low amniotic fluid. They recommend avoiding NSAIDs in pregnant women at 20 weeks or later in pregnancy.
+Cardiovascular
+Like other NSAIDs, its use is associated with an increased risk of cardiovascular events such as heart attack and stroke. Although meloxicam inhibits formation of thromboxane A, it does not appear to do so at levels that would interfere with platelet function. A pooled analysis of randomized, controlled studies of meloxicam therapy of up to 60 days duration found that meloxicam was associated with a statistically significantly lower number of thromboembolic complications than the NSAID diclofenac (0.2% versus 0.8% respectively) but a similar incidence of thromboembolic events to naproxen and piroxicam.
+People with hypertension, high cholesterol, or diabetes are at risk for cardiovascular side effects. People with family history of heart disease, heart attack, or stroke should tell their treating physician as the potential for serious cardiovascular side effects is significant.
+Gastrointestinal
+NSAIDs cause and increase the risk of serious gastrointestinal adverse events including bleeding, ulceration, and perforation of the stomach or intestines, which can be fatal. Elderly patients are at greater risk for serious gastrointestinal events.
+Mouth
+It is recommended to withhold meloxicam use for at least four to six half-lives prior to surgical or dental procedures due to increased risk for taste perversion, ulcerative stomatitis and dry mouth.
+Mechanism of action
+Meloxicam blocks cyclooxygenase (COX), the enzyme responsible for converting arachidonic acid into prostaglandin H2—the first step in the synthesis of prostaglandins, which are mediators of inflammation.
+Meloxicam has been shown, especially at low therapeutic doses, to selectively inhibit COX-2 over COX-1.
+Meloxicam concentrations in synovial fluid range from 40% to 50% of those in plasma. The free fraction in synovial fluid is 2.5 times higher than in plasma, due to the lower albumin content in synovial fluid as compared to plasma. The significance of this penetration is unknown, but it may account for the fact that it performs exceptionally well in treatment of arthritis in animal models.
+Pharmacokinetics
+Absorption
+The bioavailability of meloxicam is decreased when administered orally compared to an equivalent IV bolus dose. Use of oral meloxicam following a high-fat breakfast increases the mean peak drug levels by about 22%; however, the manufacturer does not make any specific meal recommendations. In addition, the use of antacids does not show pharmacokinetic interactions.
+Distribution
+The mean volume of distribution of meloxicam is approximately 10L. It is highly protein-bound, mainly to albumin.
+Metabolism
+Meloxicam is extensively metabolized in the liver by the enzymes CYP2C9 and CYP3A4 (minor) into four inactive metabolites. Peroxidase activity is thought to be responsible for the other two remaining metabolites.
+Excretion
+Meloxicam is predominantly excreted in the form of metabolites and occurs to equal extents in the urine and feces. Traces of unchanged parent drug are found in urine and feces. The mean elimination half-life ranges from 15 to 20 hours.
+Specific populations
+Geriatrics
+Use of meloxicam is not recommended in people with peptic ulcer disease or increased gastrointestinal bleed risk, including those over 75 years of age or those taking medications associated with bleeding risk. Adverse events have been found to be dose-dependent and associated with length of treatment.
+Veterinary use
+Meloxicam is used in veterinary medicine to treat dogs, but also sees off-label use in other animals such as cattle and exotics.
+The most common side effects include gastrointestinal irritation (vomiting, diarrhea, and ulceration).
+In healthy dogs given meloxicam, no perioperative adverse effects on the cardiovascular system have been reported at recommended dosages. Perioperative administration of meloxicam to cats did not affect postoperative respiratory rate nor heart rate.
+A peer-reviewed journal article cites NSAIDs, including meloxicam, as causing gastrointestinal upset and, at high doses, acute kidney injury and CNS signs such as seizures and comas in cats. It adds that cats have a low tolerance for NSAIDs.
+No decline in renal excretory function was observed when meloxicam was administered to cats with chronic kidney disease. Cats that received meloxicam had greater proteinuria at 6 months than cats that received placebo. It was concluded that meloxicam should be used with caution in cats with chronic kidney disease.
+Meloxicam has been investigated as an alternative to diclofenac by the Royal Society for the Protection of Birds (RSPB) to prevent deaths of vultures.
+Pharmacokinetics
+In dogs, the absorption of meloxicam from the stomach is not affected by the presence of food, with the peak concentration (Cmax) of meloxicam occurring in the blood 7–8 hours after administration. The half-life of meloxicam is approximately 24 hours in dogs.
+In the koala (Phascolarctos cinereus), very little meloxicam is absorbed into the blood after oral administration (that is, it has poor bioavailability).
+United States
+In 2003, meloxicam was approved in the U.S. for use in dogs for the management of pain and inflammation associated with osteoarthritis, as an oral (liquid) formulation of meloxicam. In January 2005, the product insert added a warning in bold-face type: "Do not use in cats." An injectable formulation for use in dogs was approved by the U.S. Food and Drug Administration (FDA) in November 2003.
+In October 2004, a formulation for use in cats was approved for use prior to surgery only. This is an injectable meloxicam, indicated for as a single, one-time dose only, with specific and repeated warnings not to administer a second dose.
+In 2005, the FDA sent a Notice of Violation to the manufacturer for its promotional materials which included promotion of the drug for off-label use.
+In February 2020, meloxicam injection was approved for use in the United States. The FDA granted the approval of Anjeso to Baudax Bio.
+European Union
+In Europe the product is licensed for other anti-inflammatory benefits including relief from both acute and chronic pain in dogs. Meloxicam is also licensed for use in horses, to relieve the pain associated with musculoskeletal disorders.
+Meloxicam was authorised for use in cattle throughout the European Union in January 1998, via a centralised marketing authorisation. The first generic meloxicam product was approved in 2006.
+Other countries
+As of June 2008, meloxicam is registered for long-term use in cats in Australia, New Zealand, and Canada.

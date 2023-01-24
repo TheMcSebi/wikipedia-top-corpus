@@ -1,0 +1,19 @@
+Facies
+In geology, a facies (/ˈfeɪʃɪ.iːz/ FAY-shih-eez, US also /ˈfeɪʃiːz/ FAY-sheez; same pronunciation and spelling in the plural) is a body of rock with specified characteristics, which can be any observable attribute of rocks (such as their overall appearance, composition, or condition of formation), and the changes that may occur in those attributes over a geographic area.
+A facies encompasses all of the characteristics of a rock including its chemical, physical, and biological features that distinguish it from adjacent rock.
+The term facies was introduced by the Swiss geologist Amanz Gressly in 1838 and was part of his significant contribution to the foundations of modern stratigraphy, which replaced the earlier notions of Neptunism.
+Types of facies
+Sedimentary facies
+Ideally, a sedimentary facies is a distinctive rock unit that forms under certain conditions of sedimentation, reflecting a particular process or environment. Sedimentary facies are either descriptive or interpretative. Sedimentary facies are bodies of sediment that are recognizably distinct from adjacent sediments that resulted from different depositional environments. Generally, geologists distinguish facies by the aspect of the rock or sediment being studied. Facies based on petrological characters (such as grain size and mineralogy) are called lithofacies, whereas facies based on fossil content are called biofacies.
+A facies is usually further subdivided, for example, one might refer to a "tan, cross-bedded oolitic limestone facies" or a "shale facies". The characteristics of the rock unit come from the depositional environment and from the original composition. Sedimentary facies reflect their depositional environment, each facies being a distinct kind of sediment for that area or environment.
+Since its inception in 1838, the facies concept has been extended to related geological concepts. For example, characteristic associations of organic microfossils, and particulate organic material, in rocks or sediments, are called palynofacies. Discrete seismic units are similarly referred to as seismic facies.
+Sedimentary facies are described in a group of "facies descriptors" which must be distinct, reproducible and exhaustive. A reliable facies description of an outcrop in the field would include: composition, texture, sedimentary structure(s), bedding geometry, nature of bedding contact, fossil content and colour.
+Walther's law of facies
+Walther's law of facies, or simply Walther's law, named after the geologist Johannes Walther (1860-1937), states that the vertical succession of facies reflects lateral changes in environment. Conversely, it states that when a depositional environment "migrates" laterally, sediments of one depositional environment come to lie on top of another. In Russia the law is known as Golovkinsky-Walther's law, honoring also Nikolai A. Golovkinsky
+(1834-1897). A classic example of this law is the vertical stratigraphic succession that typifies marine transgressions and regressions.
+Metamorphic facies
+The sequence of minerals that develop during progressive metamorphism (that is, metamorphism at progressively higher temperatures and/or pressures) define a facies series.
+Seismic facies
+Seismic facies are mappable three-dimensional seismic units composed of reflection units whose parameters differ from adjacent facies units.
+See also
+Notes

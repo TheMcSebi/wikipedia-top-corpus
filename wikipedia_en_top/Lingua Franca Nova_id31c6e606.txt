@@ -1,0 +1,69 @@
+Lingua Franca Nova
+Lingua Franca Nova (pronounced [ˈliŋgwa ˈfraŋka ˈnova]), abbreviated as LFN and known colloquially as Elefen, is an auxiliary constructed language originally created by C. George Boeree of Shippensburg University, Pennsylvania, and further developed by many of its users. Its vocabulary is based primarily on the Romance languages, namely French, Italian, Portuguese, Spanish, and Catalan. Lingua Franca Nova has phonemic spelling based on 22 letters from the Latin script.
+The grammar of Lingua Franca Nova is inspired by the Romance creole languages. As most creole languages, Lingua Franca Nova has an extremely simplified grammatical system that is easy to learn.
+History
+Boeree started to design Lingua Franca Nova in 1965, with the goal of creating an international auxiliary language simple, coherent and easy to learn for international communication. He was inspired by the Mediterranean Lingua Franca or "Sabir", a Romance pidgin used by European sailors and merchants as a lingua franca in the Mediterranean Basin from the 11–18th century, and by various creoles such as Papiamento and Haitian Creole. He used French, Italian, Portuguese, Spanish, and Catalan as lexifiers.
+Lingua Franca Nova was first presented on the internet in 1998. A Yahoo! Group was formed in 2002 by Bjorn Madsen, and reached about 300 members who contributed significantly to the further evolution of the language.
+In 2005 Stefan Fisahn created a wiki for the language. The wiki moved to Wikia in 2009, then was hosted directly on the official website in 2019.
+In 2007, Igor Vasiljevic created a Facebook group, which now has over 600 members.
+LFN was given an ISO 639-3 designation ("lfn") by SIL in January 2008.
+In 2008 Simon Davies started to make important updates to the LFN–English searchable "master" dictionary. The dictionary is being kept up-to-date in the official website, with over 20,000 entries, and was even published in printed form in 2018.
+In 2012 a novel entirely translated into Lingua Franca Nova was first published in printed form: La aventuras de Alisia en la pais de mervelias, which is Simon Davies's translation of Lewis Carroll's Alice's Adventures in Wonderland.
+In 2014 a new official website was launched on the "elefen.org" domain: it offers various teaching supports (such as word lists for travellers, complete grammar guides) available in several languages, and hosts a wiki and the searchable official dictionary. Some literary works entirely translated in Lingua Franca Nova are also publicly available on the official website for reading.
+On April 18, 2018, Wikipedia in Lingua Franca Nova, called "Vicipedia", was officially launched as a regular Wikipedia project.
+On May 15, 2020 on the Web and on May 10, 2021 in printed form the first original literary novel written in Lingua Franca Nova was published: La xerca per Pahoa, by Vicente Costalago.
+On January 5, 2021, the language's creator, C. George Boeree, died of pancreatic cancer aged 68.
+Pronunciation and spelling
+Vowels
+Lingua Franca Nova has five vowels like Spanish, Modern Greek, and Modern Hebrew.
+Consonants
+Orthography
+LFN is normally written using the Latin alphabet. Its orthography is highly phonemic.
+LFN vowels (a, e, i, o and u) are pronounced as they are in Spanish or Italian (approximately as in bar, bait or bet, beet, boat or ball, and boot). The vowel sounds allow a degree of variation, especially a, e, and o.
+Diphthongs are ai [ai], au [au], eu [eu], and oi [oi] (approximately as in my, cow, "eh-w", and boy).
+The letters i and u are used as semivowels ([j] and [w]) at the start of a word before a vowel (e.g. ioga), between vowels (e.g. joia), in li and ni (not in the first syllable of a word) between vowels (e.g. folia), and in cu and gu before a vowel (e.g. acua). The letter n is pronounced as in think ([ŋ]) before g (e.g. longa) and c (e.g. ance), and in -ng at the end of a syllable (e.g. bumerang). The letters a, e, and o may vary in pronunciation with possible allophones being [ɑ], [ɛ] or [eɪ], and [ɔ] or [oʊ]/[əʊ] respectively.
+Although stress is not phonemic in LFN, most words are stressed on the vowel or diphthong before the last consonant (e.g. casa, abeon, baia). Words with no vowel before the last consonant are accented on the first vowel (e.g. tio). Words ending in a diphthong are accented on the diphthong (e.g. cacau). Those ending in the double vowels ae, ao, ea, eo, oa, oe, or ui are accented on the first of these vowels (e.g. idea). The addition of -s or -es for plural nouns does not alter the stress.
+The phoneme /h/ is highly marginal and may be silent.
+The letters k, q, w, and y (ka, qua, wa, and ya) are available for words and names from other languages. Variations in pronunciation are acceptable.
+Vocabulary
+Sources of lexicon
+The lexicon of Lingua Franca Nova is primarily founded on Italo-Western languages: French, Italian, Portuguese, Spanish and Catalan.
+Lingua Franca Nova does not derive the word form in a strictly logical way, but lexicon creators also consider sound beauty and other subjective factors. Generally, if a word is similar in most of source languages, this is adopted.
+Of course, each language has spelling and pronunciation variants. Generally, Lingua Franca Nova prefers pronunciation to spelling.
+When source languages share a native word from Latin, but they change it in various ways, Lingua Franca Nova prefers the oldest variant, namely a variant similar to Latin. For example:
+But when the Latin form does not agree to the phonotactic rules of Lingua Franca Nova, its spelling is adapted (similarly to modern languages, especially Italian):
+The lexicon of Lingua Franca Nova can accept foreign words being internationally important (for example names of modern nations, main languages, seas and other international geographic entities, important entities from various world cultures). Generally, words are phonetically transcripted, not orthographically (for example, letter c becomes s if the source language spells it in a sibilant way, tx in words taken from Italian). A lot of exceptions are possible, especially when the pronunciation is uncertain; in such a case, orthography is preferably followed (for example, word "English" is transcribed as engles and not inglix to retain a more recognizable form).
+Grammar
+LFN is an SVO (subject-verb-object) language. Modifiers generally follow what they modify, as do prepositional phrases and subordinate clauses.
+Other than the plural in -s or -es, nouns are invariant. A noun's role in a sentence is determined by word order and prepositions. There are 22 prepositions, such as a (at, to), de (of, from), en (in, into), and con (with).
+Nouns are usually preceded by articles (la or un) or other determiners such as esta (this, these), acel (that, those), alga (some), cada (every, each), multe (many, much), and poca (few, little). Possessive determiners, cardinal numerals, and the adjectives bon and mal (good and bad) also precede the noun; ordinal numerals follow the noun. A variety of pronouns are identical to or derived from determiners.
+The personal pronouns are invariant:
+El is used for people and higher animals; Lo is used for all else. On is used in the same way as in French or "one" in English (in the way that one would be using it if one said this sentence).
+For the first and second person pronouns, the reflexives are the same as the regular pronouns, and the possessive determiners are mea, nosa, tua, and vosa. Possessive pronouns are formed by using the article la before possessive determiners, e.g. la mea.
+Se is the third-person reflexive, singular and plural. The third person possessive determiner, both singular and plural, is sua, and the possessive pronoun is la sua.
+Verbs are invariant. The verb alone represents the present tense and the infinitive. Other tenses and moods are indicated by preceding particles:
+Adverbs such as ja (already) and auxiliary verbs such as comensa (begin to) are used to add precision. The active participle ends in -nte and the passive participle in -da. They can be used with es (to be) to form a progressive aspect and a passive voice, respectively.
+Adjectives are invariant, and adverbs are not distinguished from adjectives. Adjectives follow nouns and adverbs follow verbs but precede adjectives. The comparative is formed with plu or min, the superlative with la plu or la min.
+Questions are formed by preceding the sentence with esce or by using one of several "question words", such as cual (what, which), ci (who), do (where), cuando (when), and perce (why).  These same words are also used to introduce subordinate clauses, as are words such as si (if),  ce (that), car (because), and afin (so that).
+Prepositions include a (at, to), de (of, from), ante (before, in front of), pos (after, behind), etc.
+Conjunctions include e (and), o (or), and ma (but).
+Affixes
+LFN has a small number of regular affixes that help to create new words.
+Three suffixes that create nouns are -or, -ador, and -eria, which refer to a person, a device, and a place respectively.  They can be added to any noun, adjective, or verb.  For example:
+Another suffix is -i which, added to an adjective and some nouns, means "to become" or "to cause to become". It is also used with names for tools, machines, or supplies with the meaning "to use". For example:
+Two more suffixes are -eta, which forms a diminutive version of something, and -on, which forms a augmentative version. (They are not, however, simply synonyms for small and large size or itensity but productive affixes which form new vocabulary.) For example:
+There are also three suffixes that turn nouns into adjectives: -al means "pertaining to...," -in means "similar to...," -osa means "full of..." For example:
+Other suffixes include -able (-able), -isme (-ism), and -iste (-ist).
+There are also several prefixes. Non- means not, re- means again or in the opposite direction, and des- means to undo. For example:
+Other prefixes include pos- (post-), pre- (pre-), supra- (super-), su- (sub-), media- (mid-), vis- (vice-), inter- (inter-), and auto- (auto-, self-)
+Compounds of verbs plus objects create nouns:
+Two nouns are rarely joined (as they often are in English), but are linked with de or other prepositions instead:
+Literature
+A rich literature in Lingua Franca Nova with both original and translated texts exists.
+The first original literary novel written in Lingua Franca Nova was La xerca per Pahoa, by Vicente Costalago, published on May 15, 2020 on the Web and on May 10, 2021 in printed form. He published the second original novel in the language, entitled La marcia nonconoseda, in February 2022.
+Here are the main literary works translated into Lingua Franca Nova, all publicly available for reading on the official website:
+Flag
+The flag of Lingua Franca Nova, designed in 2010 by Stefan Fisahn and Beate Hornung, is the main symbol of Lingua Franca Nova and Elefenists.
+The flag is made up of five color strips (blue, green, yellow, orange and red) starting from the bottom-left angle and extending to top and right borders.
+It is similar to the flag of Seychelles, a country which adopts the Seychellois Creole as its official language, but uses the colors of a rainbow symbolizing peace. Its shape is meant to call the sunrise to mind.
+In the past other flags existed: the first one, originally designed by Boeree and jokingly called "europijon" from the word pun between "pijon" (dove) and "europijin" (europidgin), was inspired by Pablo Picasso's drawing.

@@ -1,0 +1,211 @@
+Ontario Provincial Highway Network
+The Provincial Highway Network consists of all the roads in Ontario maintained by the Ministry of Transportation of Ontario (MTO), including those designated as part of the King's Highway, secondary highways, and tertiary roads. Components of the system—comprising 16,900 kilometres (10,500 mi) of roads and 2,880 bridges
+—range in scale from Highway 401, the busiest highway in North America, to unpaved forestry and mining access roads. The longest highway is nearly 2,000 kilometres (1,200 mi) long, while the shortest is less than a kilometre. Some roads are unsigned highways, lacking signage to indicate their maintenance by the MTO; these may be remnants of highways that are still under provincial control whose designations were decommissioned, roadway segments left over from realignment projects, or proposed highway corridors.
+Predecessors to today's modern highways include the foot trails and portages used by indigenous peoples in the time before European settlement. Shortly after the creation of the Province of Upper Canada in 1791, the new government under John Graves Simcoe built overland military roads to supplement water-based transportation, including Yonge Street and Dundas Street. At the time, road construction was under the control of the township and county governments. Local township roads were financed and constructed through a statute labour system that required landowners to make improvements in lieu of taxes. Private companies constructed corduroy and later plank roads and charged tolls in the second half of the 19th century. The rising popularity of the bicycle led to the formation of Ontario Good Roads Association, which advocated for the improvement of roads and recreation as the automobile rose to prominence.
+By the early 20th century, the province had taken interest in road improvement and began funding it through counties. The increasing adoption of the automobile resulted in the formation of the Department of Public Highways of Ontario (DPHO) in 1916. The passing of the Canada Highways Act in 1919 resulted in the establishment of a provincial network of highways. The DPHO assigned internal highway numbers to roads in the system, and in 1925, the numbers were signposted along the roads and marked on maps. In 1930, provincial highways were renamed King's Highways and the familiar crown route markers created. The DPHO was also renamed the Department of Highways (DHO).
+The 1930s saw several major depression relief projects built by manual labour, including the first inter-city divided highway in North America along the Middle Road, which would become the Queen Elizabeth Way in 1939. In 1937, the DHO merged with the Department of Northern Development, extending the highway network into the Canadian Shield and Northern Ontario. Significant traffic engineering and surveying through the war years, during which construction came to a near standstill, led to the planning and initial construction of controlled-access highways. The 400-series highways were built beginning in the late 1940s and numbered in 1952.
+The vast majority of modern road infrastructure in Ontario was built throughout the 1950s, 1960s, and early 1970s. The cancellation of the Spadina Expressway and the introduction of the Environmental Assessment Act in the 1970s resulted in a decline in new highway construction in the decades since. In the late 1990s, nearly 5,000 kilometres (3,100 mi) of provincial highways were transferred, or "downloaded" back to lower levels of government. Few new provincial highways have been built in the early years of the 21st century, although several major infrastructure projects including the Herb Gray Parkway and expansion of Highway 69 have proceeded. Recent construction has included the controversial Bradford Bypass and Highway 413.
+Naming, signage and regulations
+In Ontario, all public roads are legally considered highways under the Highway Traffic Act (HTA), which sets forth regulations for traffic, or the rules of the road.
+The Public Transportation and Highway Improvement Act (PTHIA) sets forth the regulations concerning roads that are under the authority of the Province of Ontario. The act distinguishes and sets out the applicability of the HTA to provincial highways, which are designated as part of The King's Highway (primary), a secondary highway, or a tertiary road. Tertiary roads may also be designated as a resource road, allowing for vehicles otherwise prohibited from public roads. Industrial roads are privately owned routes with which the MTO has entered an agreement to improve or allow public access, and are not considered part of the provincial highway network.
+The 407 ETR is likewise not considered part of the provincial highway network. While it is still subject to the rules set forth by the HTA, it is otherwise governed independently under the legislation of the Highway 407 Act.
+Speed limits on provincial highways are legislated by sections of the road, and vary between 50 km/h (30 mph) and 110 km/h (70 mph). Freeways, including the 400-series highways, are generally signed at 100 km/h (60 mph), although sections exist that are signed lower.
+Three segments of freeway are part of an ongoing pilot project to test speed limits of 110 km/h in rural areas that are not subject to congestion. A fourth segment, located in Northern Ontario, was set to be announced in 2020, but has been delayed since.
+Marker design
+Ontario uses two distinct shapes of signage to mark the King's Highways. Confirmation markers, or reassurance markers, are utilized along the designated road to confirm (near intersections) or reassure (elsewhere) drivers that they are on the correct route. The markers, known as shields, feature the route number within an outline in the shape of a shield, topped by a St Edward's Crown. In other cases, particularly when approaching the junction of another highway, a square crown marker is used, featuring the route number within an outline of the St Edward's Crown, paired with an arrow plate; exit signs on freeways and at major junctions also use this crown symbol. For secondary highways, the route number is within an outline of an isosceles trapezoid, while tertiary roads place the number within an outline of a rectangle. When these markers appear along or at an intersection with the indicated highway, they feature black text on a reflective white background. There are two exceptions to this: The QEW, which features blue text on a yellow background; and the provincially-maintained section of the tolled Highway 407, which feature white text on a blue background, with an orange plate with TOLL below in black.
+Signs prior to 1993 had the words "The King's Highway" below the crown, but current versions do not have the words.
+In addition to regular highway markers, there are trailblazers, which indicate a route towards that highway. These are the same shape as their corresponding highway marker. Trailblazers for the King's Highway, which can be shields or crowns, feature white text on a reflective green background, with the exception of trailblazers for the QEW, which feature yellow text on a reflective blue background. For secondary highways, trailblazers simply add the word "TO" above the route number.
+Since August 2004, "Highway of Heroes" shields featuring a diagram of a poppy have been posted along Highway 401 between Toronto and CFB Trenton. These were erected to honour fallen Canadian soldiers, whose bodies were repatriated from Afghanistan in funeral convoys along that stretch of the highway.
+
+
+Classification
+Ontario has several distinct classes of highways:
+
+The King's Highway
+The King's Highway is the primary highway network of Ontario, and constitutes the majority of the principal inter-urban roadways in the province. As a whole, it is referred to in the singular form as opposed to as a group of its parts (i.e. "the King's Highway", not "the King's Highways").
+Individual highways are known as "part of the King's Highway" or "the King's Highway known as n".
+However, in common parlance they are simply referred to as "Highway n". Ontario highways rank second safest in North America for fatality rates, with 0.55 fatalities per 10000 licensed drivers in 2019.
+The 400-series highways and the QEW form the backbone of the King's Highway, with other routes numbered from 2 to 148. The Ministry of Transportation never designated a Highway 1.
+Some highway numbers are suffixed with a letter A ("alternate route"),
+B ("business route"),
+or N ("new route").
+In the past, there have also been routes with C and S ("scenic route") suffixes.
+The entire King's Highway network is fully paved.
+The term "the King's Highway" was first adopted in place of "provincial highway" in 1930, and signs similar to the current design replaced the previous triangular signs at that time.
+Some legislative acts refer to roads that are under the jurisdiction of the province as "provincial highways".
+400-series
+The 400-series highways are a network of controlled-access highways throughout the southern portion of Ontario, forming a special subset of the provincial highway network. They are analogous to the Interstate Highway System in the United States or the Autoroute system of neighbouring Quebec, and are regulated by the MTO.
+The 400-series designations were introduced in 1952, although Ontario had been constructing divided highways for two decades prior.
+Initially, only Highways 400, 401 and 402 were numbered; other designations followed in the subsequent decades.
+While older freeways have some lapses in safety features, contemporary 400-series highways have design speeds of 130 km/h (81 mph), speed limits of 100 km/h (62 mph), various collision avoidance and traffic management systems, and several design standards adopted throughout North America.
+Of note are the Ontario Tall Wall median barrier and the Parclo A-4 interchange design, the latter which became standard in the design for the widening of Highway 401 through Toronto in 1962. The Institute of Traffic Engineers subsequently recommended this design to replace the cloverleaf interchange throughout North America.
+Secondary
+Secondary highways exist solely within the districts of Northern Ontario that lack a county road system, to which they are analogous. The sole exception to this is Highway 537 in Greater Sudbury. They generally serve to connect remote communities to the King's Highway, or to interconnect the King's Highway. A few secondary highways remain gravel-surfaced, although most have been paved.
+The speed limit on nearly all of these routes is 80 km/h (50 mph), although Highway 655 is posted at 90 km/h (55 mph).
+The Secondary Highway system was introduced in 1956 to service regions in Northern and Central Ontario, though it once included a route as far south as Lake Ontario. Many routes that would become secondary highways were already maintained by the province as development roads prior to being designated.
+Since 1998, none have existed south of the districts of Parry Sound and Nipissing.
+Secondary highways are numbered in the 500s and 600s, with existing highways numbered between 502 and 673.
+Tertiary
+Tertiary roads are remote routes entirely within Northern Ontario that provide access to resources (e.g. mining and forestry). Tertiary roads are numbered in the 800s, with the five existing highways numbered between 802 and 811. Most of these roads are gravel-surfaced and of low-standard. The speed limit on these routes is 80 km/h (50 mph), although design standards generally prevent such.
+Unlike other roads in the Provincial Highway Network, the MTO is not responsible for winter maintenance nor liable for damage incurred as a result of using these routes.
+The MTO introduced the Tertiary Road system in 1962.
+With the exception of Highway 802, none end in settlements.
+Trans-Canada
+The Trans-Canada Highway (TCH) forms several major routes across Canada. The provincial governments are entirely responsible for signage and maintenance of the routes, except through National Parks. It is signed with distinctive green markers with a white maple leaf on them throughout Canada. While other provinces generally place a highway number within the maple leaf of the TCH marker (with a shared "Highway 1" designation across the western provinces), Ontario places them below or beside provincial shields and either leaves them blank or inserts a name instead; these are the Central Ontario Route, Georgian Bay Route, Lake Superior Route, Northern Ontario Route and Ottawa Valley Route.
+Several portions of King's Highways are designated as part of the Trans-Canada Highway system within Ontario, with the TCH having a main route and several branches, often only following sections of any given provincial highway. They are: 
+Others
+In addition to these classes of highways, the MTO maintains other roads, such as resource roads or industrial roads, that are of strategic importance to the provincial government. These roads are designated with 7000-series numbers for internal inventory purposes, though they are not publicly marked as such. They are often, but not always, former highway segments which were decommissioned as a King's Highway, but remain important as connecting routes to communities or other highways in areas without municipal governance.
+There were formerly several designated Ontario Tourist Routes that were located throughout the entire province.
+However, beginning in February 1997, Tourism-Oriented Directional Signs (TODS) began to appear on highways.
+Tourist Routes no longer appeared on maps after 1998.
+History
+Before 1791: Native footpaths
+Prior to the arrival of Europeans in the 17th century, transportation across what became Ontario was generally via the thousands of lakes and rivers. Short trails existed between bodies of water, known as a portage or carrying place, as well as along the shorelines of the larger lakes.
+In 1615, French explorer Samuel de Champlain was the first European to pass through the lands between the Great Lakes, accompanied by Huron and Iroquois guides. His emissary Étienne Brûlé as well as Franciscan Récollets such as Joseph Le Caron and Joseph de La Roche Daillon were the first to explore various lands of the area, all with the assistance of the local First Nations.
+For the next 150 years, France and Britain wrestled for control of the colony of Canada while simultaneously exploiting the land for the fur trade of North America.
+This culminated in the global Seven Years' War that ended with the signing of the Treaty of Paris in 1763, which ceded Canada to the British.
+The colony of Canada was renamed the Province of Quebec until 1791, when it was divided into Upper Canada (modern Southern Ontario) and Lower Canada (modern Southern Quebec) by the Constitutional Act.
+This was done to provide a British-style governance to the United Empire Loyalists fleeing north following the American Revolution.
+In addition to the native portages and lake shore trails, routes developed alongside significant rivers such as the St. Lawrence, Ottawa, Humber and Grand Rivers. These meandering trails followed the lay of the land, as opposed to the straight tangents of the surveyed roads yet to come. Some roads in Ontario still closely follow these early Native and European trails,
+including the Kente Portage Trail (Old Portage Road) in Carrying Place, the oldest continuously used road in the province.
+1792–1849: Settlement of Upper Canada
+John Graves Simcoe
+John Graves Simcoe, the first Lieutenant Governor of Upper Canada, landed at Niagara on July 26, 1792, after overwintering in Quebec City,
+from England and set forth to colonize the province in the image of Britain.
+The ambitious abolitionist statesman, whom served the British during the American Revolutionary War, was appointed to lead the new colony on September 12, 1791.
+Although Niagara-on-the-Lake (then known as Newark) served as the capital for a year, Simcoe moved it to what is now Toronto after July 30, 1793, at the behest of French merchant Philippe de Rocheblave, following the arrival of news in May of France's declaration of war against Britain.
+Having reformed the Queen's Rangers, whom he fought alongside during the American War, Simcoe set out to establish military roads to connect his new capital with the Upper Great Lakes and other strategic points.
+The first road he ordered built was Dundas Street, from the head of Lake Ontario near present-day Dundas to the forks of the Thames River in present-day London. His Rangers began work on this route on September 10, 1793.
+Between September 25 and October 14, Simcoe travelled with native guides to Penetanguishene and back. Following the advice of an Ojibwa named Old Sail, the return voyage followed the east branch of the Holland River and thence south to Toronto (known as York from 1793 to 1834); this would become the route of Yonge Street.
+Simcoe's Rangers would commence "run[ning] the line of the new road" with Surveyor General Augustus Jones in February 1794.
+By mid-May, the Rangers had cleared and marked 14 lots from Eglinton Avenue to just north of Sheppard Avenue before being redirected to defend Fort Miami. William Berczy — and the nearly 200 Pennsylvania Dutch settlers whom accompanied him from the US into Upper Canada in July 1794 — would complete the opening of the route to Bond Lake by the end of 1794. The remainder to Holland Landing was opened by the Rangers, under the supervision of Augustus Jones, between December 28, 1795, and February 16, 1796.
+In 1798, Asa Danforth was hired by the government of Upper Canada to build a road to the Trent River, in what in now Trenton, by July 1 of the following year. He began at the Don River, where Queen Street crosses it today, on June 5 of that year, and proceeded east.
+Danforth was paid $90 per mile to cut a road 10 metres (33 ft) wide, of which the middle half was cut to the level of the ground. He was also to build 5.0-metre (16.5 ft)-wide causeways "wherever necessary" and ensure that slopes were gradual enough for a sleigh or carriage to pass. He completed the first 101 kilometres (63 mi) to Port Hope by December.
+The government ultimately decided that his road was unacceptable, and reportedly paid him less than owed. Portions of Danforth's road were later incorporated into Highway 2, as well as several local roads in Scarborough.
+The majority of settlers up to this point were United Empire Loyalists — settlers of the Thirteen Colonies loyal to Britain who fled north to the new colony. These pioneers endured starting anew in untamed wilderness, with little provisions beyond what they could carry.
+Many were strategically placed along Yonge Street and Dundas Street, and given the duty of clearing half the width of a road along the front of their property lot. Settlers were responsible for the upkeep, and often the building of roads in this period, with each male over 21 years of age required to perform three or more days of statute labour per year, based on the value of their land. The intention was for settlers throughout the length of the roads to work on the portion fronting their lot, which was generally twenty chains, or 400 metres (1,300 ft) long.
+However, many lots were given to absent clergymen and English nobles, resulting in these "roads" being poorly-maintained quagmires of mud.
+During the early 1800s, the government of Upper Canada appropriated settlers to various lots which had been surveyed along the lake shores of Lake Erie and Lake Ontario. The townships established along these fronts contained generally fertile land composed of glacial till and clay-rich loam. As these townships filled up, business opportunities presented themselves for investors to purchase native lands and open them to settlement. The Canada Company was the most successful of these ventures and brought settlers to vast areas of land in what would become Southwestern Ontario by building routes such as Huron Road and Toronto–Sydenham Road during the 1830s and 1840s.
+1850–1893: Colonization roads and the railway
+As the second township frontage along Lake Ontario also filled, the government came under pressure to open up the unforgiving terrain of the Canadian Shield to settlement and sought to establish a network of east–west and north–south roads between the Ottawa Valley and Georgian Bay. This area was known as the Ottawa–Huron Tract.
+In 1847, an exploration survey was carried out by Robert Bell to lay out the lines that would become the Opeongo, Hastings, and Addington colonization roads. The Public Lands Act, passed in 1853, permitted the granting of land to settlers who were at least 18. Those settlers who cleared at least 12 acres (4.9 ha) within four years, built a house within a year, and resided on the grant for at least five years would receive the title to that land. The government subsequently built over 1,600 kilometres (1,000 mi) of roads over the following 20 years to provide access to these grants, although the roads were often little more than a trail cut through the forest wide enough for a wagon.
+Like the lands to the south, statute labour was responsible for the majority of road development and maintenance. However, by 1860, due to the unsuitability of much of the land for any kind of settlement or agriculture, the roads were almost impassable in many places, except when frozen in winter or dry in summer. The large timber drive that was clearing the forests of the Ottawa–Huron Tract in this period contributed somewhat to road construction and maintenance, but the settlers themselves were largely left to their own resolve.
+Statute labour was gradually abolished around the turn of the 20th century. Malden Township was the first to do so in 1890,
+and a majority of other municipalities followed suit by the 1920s. However, the law remained in place provincially until being officially repealed on January 1, 2022.
+Beginning in 1852, the Grand Trunk Railway gradually assembled together many of the various shortline railroads in what was soon to become Ontario to form a single route across the province, connecting Sarnia with Montreal via Toronto, by 1884. Simultaneously, the Canadian Pacific Railway constructed a route across northern Ontario, connecting Thunder Bay with Ottawa by 1880.
+The government largely subsidized these endeavours, and funding for road construction fell to the wayside, despite the pleas of townships, villages and settlers.
+In 1896, the provincial Instructor in Road Making reported "It is doubtful if there is a mile of true macadam road in Ontario outside of a few towns or cities ... by far the greatest part of the milage of the province is mud, ruts and pitch-holes ..."
+1894–1915: The Good Roads Movement
+The cries of municipalities went unanswered, but it would not stop their ambition. Coupled with the increasing adoption of the bicycle as a means of transport, and the desire of farmers to get their goods to market quicker, the Ontario Good Roads Association was formed in 1894 by representatives from numerous townships, villages and cities. The Good Roads Movement encouraged education on the building of proper roads, and later equipment to aid in the improvement of roads, as well as lobbying the various levels of government to fund road development and maintenance. Members would travel from town to town and across the countryside, espousing the value of properly built roads to communities.
+Two of the most influential members in its early days were Archibald William Campbell and Dr. Perry Doolittle.
+"Good Roads" Campbell would become the province's first Instructor in Roadmaking when the position was established on April 15, 1896, under the Department of Agriculture. Doolittle, a Toronto physician, became one of the earliest automobile owners in Canada, and spurred the good roads movement. He became the first person to drive across Canada in 1925, utilizing the railways around Lake Superior where no roads existed, and is known as the "Father of the Trans-Canada Highway".
+The arrival of automobiles rapidly changed the approach to roads and roadbuilding in the first years of the 20th century. In 1900, the provincial Instructor in Roadmaking was renamed as the Commissioner of Public Highways in 1900, as well as the Deputy Minister in the new Department of Public Works in 1905. The first legislation on driving was introduced in 1903, and included the first speed limits (15 miles per hour (24 km/h)). The first license plates were created that year, the first highway patrol established in 1907, licences for chauffeurs in 1909 (regular drivers did not require a licence until 1927), and safety requirements such as headlights. These laws culminated in the creation of the Highway Traffic Act in 1923.
+Roadbuilding advanced considerably, with the most notable project of the period being the Toronto–Hamilton Highway, the first paved intercity road in Ontario. The highway was chosen to run along the macadamized old Lake Shore Road between the two cities, instead of Dundas Street to the north, because of the numerous hills encountered along Dundas.
+In November 1914, the proposed highway was approved,
+and work began quickly to construct the road known today as Lake Shore Boulevard and Lakeshore Road from Toronto to Hamilton. The road was finished in November 1917, 5.5 metres (18 ft) wide and nearly 64 kilometres (40 mi) long, becoming the first concrete road in Ontario.
+The highway became the favourite drive of many motorists, and it quickly became a tradition for many families to drive it every Sunday.
+1916–1933: The first provincial highways
+Roads and highways in Ontario were given their first serious consideration by the provincial government when the Department of Public Highways (DPHO), predecessor to the modern Ministry of Transportation of Ontario, was established on January 17, 1916. Until then, the majority of the primary roads through southern Ontario formed part of the county road systems. The Department of Public Works paid up to 60% of the construction and maintenance costs for these roads, while the counties were responsible for the remaining 40%.
+The Ontario government passed an act in 1917 to permit the newly formed Department of Public Highways (DPHO) to take over (or assume) responsibility and upkeep of a provincial highway system. The initial system, between Windsor and Quebec, was bookended by branches to Niagara and Ottawa.
+In 1919, the federal government passed the Canada Highways Act, which provided $20,000,000 to provinces under the condition that they establish an official highway network; up to 40% of construction costs would be subsidized. The first network plan was approved on February 26, 1920. At this time, Campbell was now the Federal Commissioner of Highways.
+Until the summer of 1925, Ontario highways were named rather than numbered. When route numbering was introduced, the following numbers were allotted:
+The number of Provincial Highways—as they were initially known—expanded quickly from there. The provincial highway network did not extend into the Canadian Shield nor Northern Ontario initially, and Trunk Roads in the north were instead under the mandate of the Department of Northern Development. The two primary trunk routes were extensions of Highway 11 and Highway 17, to North Bay and Sault Ste. Marie, respectively.
+Seeking to open the far north, construction of a road to connect North Bay and Cochrane began in 1925,
+The new gravel highway was officially opened on July 2, 1927, by Minister of Lands and Forests William Finlayson. He suggested at the opening that the road be named the Ferguson Highway in honour of premier Ferguson. The name was originally suggested by North Bay mayor Dan Barker.
+Despite the official opening, a section between Swastika and Ramore wasn't opened until August.
+The Ferguson Highway name was also applied to the Muskoka Road between Severn Bridge and North Bay.
+During the 1920s, the DPHO began to examine possible remedies to chronic congestion on along Highway 2, particularly between Toronto and Hamilton (Lakeshore Road), eventually deciding upon widening the roadway midway between Lakeshore Road and Highway 5 (Dundas Street), or the Middle Road. It was to be more than twice the width of Lakeshore Road at 12 m (39 ft) and would carry two lanes of traffic in either direction.
+Construction on what was then known as the Queen Street Extension west of Toronto began in early 1931.
+Before the highway could be completed, Thomas McQuesten was appointed the new minister of the renamed DHO, with Robert Melville Smith as deputy minister, following the 1934 provincial elections.
+1934–1948: Dual highways and the Queen Elizabeth Way
+Smith, inspired by the German autobahns—new "dual-lane divided highways"—modified the design for Ontario roads,
+and McQuesten ordered the Middle Road be converted into this new form of highway.
+A 40 m (130 ft) right-of-way was purchased along the Middle Road and construction began to convert the existing sections to a divided highway. Work also began on Canada's first interchange at Highway 10.
+The Middle Road was ceremoniously renamed the Queen Elizabeth Way during the 1939 royal tour of Canada, taking its name from Queen Elizabeth The Queen Mother, and was completed between Toronto and Niagara Falls on August 26, 1940.
+Beginning in 1935, McQuesten applied the concept of a dual-highway to several projects along Highway 2, including along Kingston Road in Scarborough Township.
+When widening in Scarborough reached the Highland Creek ravine in 1936, the Department of Highways began construction on a new bridge over the large valley, bypassing the former alignment around West Hill.
+From here the highway was constructed on a new alignment to Oshawa, avoiding construction on the congested Highway 2. As grading and bridge construction neared completion on the new highway between West Hill and Oshawa in September 1939, World War II broke out and gradually tax revenues were re-allocated from highway construction to the war effort.
+As the war came to a close, planning began in 1945 on the Toronto–Barrie Highway to ease the congestion on the parallel routes of Highway 11 and Highway 27. The highway followed a completely new alignment, and featured interchanges at nearly all crossroads. Construction of an extension around Barrie began in 1950, and the completed freeway was opened on July 1, 1952. The expressway between Highland Creek and Oshawa was also completed in this period, and opened as far as Ritson Road in December 1947, becoming the progenitor to Highway 401.
+1950–1971: The freeway age and the Trans-Canada Highway
+When Ontario signed the Trans-Canada Highway Agreement on April 25, 1950, it had already chosen a Central Ontario routing via Highway 7, Highway 12, Highway 103 and Highway 69;
+Highway 17 through the Ottawa Valley was announced as a provincially-funded secondary route of the Trans-Canada the following day.
+Amongst some of the most difficult terrain encountered in Canada, the 266 kilometres (165 mi) of wilderness known as "the Gap" was a missing link in the Trans-Canada Highway between Nipigon and Sault Ste. Marie. Construction began in 1956,
+and it was completed and ceremoniously opened to traffic on September 17, 1960, uniting the two segments and completing the route of Highway 17 from the Manitoba border to the Quebec border.
+The construction boom following the war resulted in many new freeway construction projects in the province. The Toronto–Barrie Highway (Highway 400), Trans-Provincial Highway (Highway 401),
+a short expansion of Highway 7 approaching the Blue Water Bridge in Sarnia (Highway 402),
+and an expansion of Highway 27 (eventually designated as Highway 427 by the mid-1970s) into part of the Toronto Bypass were all underway or completed by the early 1950s. Seeking a way to distinguish the controlled-access freeways from the existing two-lane King's Highways, the Department of Highways created the 400-series designations in 1952. By the end of the year, Highway 400, 401, and 402 were numbered, although they were only short stubs of their current lengths.
+Highway 401 was assembled across the province in a patchwork fashion,
+becoming fully navigable between Windsor and the Quebec border on November 10, 1964;
+Highway 400 was extended north to Coldwater on Christmas Eve 1959;
+Highway 402 was extended to London between 1972 and 1982.
+In addition to this network backbone, plans for additional 400-series highways were initiated by the late 1950s, comprising the Chedoke Expressway (Highway 403) through Hamilton;
+the Don Valley Parkway Extension (Highway 404) northward from the soon-to-be constructed Toronto expressway;
+Highway 405 to connect with the American border near St. Catharines;
+Highway 406 south from St. Catharines to Welland;
+Highway 407 encircling the Greater Toronto Area (GTA), though not built for another 40 years;
+Highway 409 to connect Highway 401 with Toronto International Airport;
+and The Queensway (Highway 417) through Ottawa.
+The first sections of these freeways were opened in 1963,
+1977,
+1963, 1965,
+1997,
+1974,
+and 1960,
+respectively. In 1963, transportation minister Charles MacNaughton announced the widening of Highway 401 in Toronto from four to a minimum of 12 lanes between Islington Avenue and Markham Road. Construction began immediately; while the plan initially called for construction to end in 1967, it continued for nearly a decade. At least four lanes were always open during the large reconstruction project, which included complex new interchanges at Highway 27, Highway 400, the planned Spadina Expressway and the Don Valley Parkway.
+Throughout the mid-to-late 1960s, the provincial government also funded numerous urban expressways, including the Conestoga Parkway in Kitchener–Waterloo, the Thunder Bay Expressway in Thunder Bay, Highbury Avenue in London, the Hanlon Expressway into Guelph and most infamously the Spadina Expressway into Downtown Toronto. While the others were built, the Spadina became a heated debate in the late 1960s between Metropolitan Toronto and urban activists including Jane Jacobs. The battle culminated when premier Bill Davis rose in the legislature and declared "If we are building a transportation system to serve the automobile, the Spadina Expressway would be a good place to start. But if we are building a transportation system to serve people, the Spadina Expressway is a good place to stop."
+1972–1995: Growth of public transit
+The cancellation of the Spadina Expressway led to the demise of other proposed expressways in Toronto and elsewhere in the province, as well as a decline in new road building proposals.
+It remains, to this day, a controversial decision.
+The Environmental Assessment Act, introduced in 1975, further restricted new highway building, and as a result the 1970s and 1980s saw less new highway construction compared to prior decades.
+Despite this, several existing freeways were extended or expanded, including Highway 402 from Sarnia to London between 1972 and 1982,
+Highway 403 through Mississauga between 1978 and late 1982,
+the Don Valley Parkway as Highway 404 north from Toronto to Newmarket between 1976 and 1989,
+Highway 406 through St. Catharines between 1977 and 1984,
+Highway 417 from Ottawa to the Quebec boundary between 1970 and late 1975,
+and the expansion of Highway 27 into Highway 427 between 1968 and late 1971,
+as well as its extension from Highway 401 to Highway 7 between 1976 and 1991.
+Highway 410 was also built, initially as a two lane road, between 1975 and late 1978.
+1996–1999: Highway Transfers
+As part of a series of budget cuts initiated by premier Mike Harris under his Common Sense Revolution platform in 1995, numerous highways deemed to no longer be of significance to the provincial network were decommissioned and responsibility for the routes transferred to lower levels of government, a process referred to as downloading. Several thousand kilometres of provincially maintained highways were transferred to the various municipalities in which they are located. These transfers were performed under the reasoning that they served a mostly local function, as a cost-saving measure and as part of a broader exchange of responsibilities between the province and its municipalities.
+On April 1, 1997, 1,767.6 kilometres (1,098.3 mi) of highways were removed from the King's Highway system.
+This was followed by the removal of 3,211.1 kilometres (1,995.3 mi) on January 1, 1998,
+for a total of 4,978.7 kilometres (3,093.6 mi); the move was criticized by the media.
+In the 1980s and 1990s, Highway 416 was constructed through a process known as twinning in which a second carriageway is built parallel to the existing road. In addition, existing intersections were rebuilt as grade-separated interchanges.
+Highway 16 New was built during the 1960s and 1970s, establishing the right-of-way and alignment of a future freeway as a two-lane highway.
+Planning for a connection to Highway 417 began in 1987,
+and was completed on July 31, 1997.
+Work to twin Highway 16 New began in mid-1996,
+and was completed in sections between June 1997,
+and September 1999, after which nearly the entire length of Highway 16 was redesignated as Highway 416.
+2000–2022: Recent history
+In recent years, highway construction has generally been limited to the expansion of existing highways, principal among them Highway 11, Highway 400/69, and the Herb Gray Parkway extension of Highway 401 into Windsor. The four-laning of 240 kilometres (150 mi) of Highway 11 between Barrie and North Bay was a long-term expansion that was completed August 8, 2012, having been worked on since 1955.
+The four-laning of Highway 69, which will be replaced by Highway 400, has progressed northward from Waubaushene since 1991,
+reaching as far as Nobel on October 26, 2010.
+Work has also progressed south from Sudbury since 2005,
+and as of 2022 has reached the French River, leaving a 68-kilometre (42 mi) gap of two-lane highway between Toronto and Sudbury.
+Construction began in 2012 on a provincially operated 65-kilometre (40 mi) long extension to the 407 ETR, known as Highway 407 East (or 407E) during planning, with the project undertaken in two separate phases. Phase 1 was opened on June 20, 2016, consisting of a 22-kilometre (14 mi) extension to Harmony Road in Oshawa, as well as the 10-kilometre (6.2 mi) Highway 412. The extension was free of tolls until February 1, 2017.
+Phase 2A, which opened on January 2, 2018, added a 9.6-kilometre (6.0 mi) extension to Taunton Road at the future Highway 418 interchange. Phase 2B, which opened on December 9, 2019, added a 23.3-kilometre (14.5 mi) extension to Highway 35 and Highway 115, as well as the 12.8-kilometre (8.0 mi) Highway 418.
+In 2004, a joint announcement by the federal government of the United States and Government of Canada confirmed a new Canada–U.S. border crossing would be constructed between Detroit and Windsor. The MTO took advantage of this opportunity to extend Highway 401 to the Canada–US border and began an environmental impact assessment on the entire project in late 2005.
+Despite protest from area residents,
+as well as a dismissed lawsuit from Ambassador Bridge owner Matty Moroun,
+it was announced on May 1, 2008, that a preferred route had been selected and the new route would be named the Windsor–Essex Parkway.
+The below-grade route has six through-lanes and follows Huron Church Road from the former end of Highway 401 to the E. C. Row Expressway, which it then follows alongside to near the border.
+Construction began in August 2011,
+It was partially opened on June 28, 2015,
+and completed to the Ojibway Parkway on November 21,
+The Gordie Howe International Bridge is scheduled for completion in 2024, and will tie Highway 401 in with Interstate 75 and Interstate 96 in Detroit.
+Future
+The current proposals by the MTO consist of two new freeways in the GTA and continued widening and four-laning of existing highways. Highway 413 is a proposed four-to-six lane freeway bypass of the GTA around Brampton, connecting Highway 401 and Highway 407 with Highway 400 north of Vaughan. The 52-kilometre (32 mi) route would include extensions of Highway 410 and Highway 427 as well as a right-of-way for a transitway; the highway has attracted considerable attention, with opinions divided over the benefits of shorter travel times versus irreversible environmental impacts and urban sprawl.
+The Bradford Bypass is a proposed four lane rural freeway connecting Highway 400 and Highway 404 north of Bradford and Newmarket.
+Like Highwaay 413, it has attracted criticism for its environmental impact,
+though it has the support of adjacent municipalities.
+Preliminary construction works for the route are underway as of 2022.
+While planning for the twinning of Highway 11/17 between Thunder Bay and Nipigon began in 1989,
+construction did not begin until 2009.
+As of 2022, 55 kilometres (34 mi) of two-laned highway remains to be twinned or bypassed, almost all of which is in the engineering phase.
+The four-laning of the remaining 68-kilometre (42 mi) gap of Highway 69 has been promised by multiple governments, but no timeline for completion has been announced as of 2022.
+See also
+References
+Footnotes
+Bibliography
+GIS datasets

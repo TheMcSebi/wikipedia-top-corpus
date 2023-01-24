@@ -1,0 +1,17 @@
+Voiced dental, alveolar and postalveolar lateral approximants
+The voiced alveolar lateral approximant is a type of consonantal sound used in many spoken languages. The symbol in the International Phonetic Alphabet that represents dental, alveolar, and postalveolar lateral approximants is ⟨l⟩, and the equivalent X-SAMPA symbol is l.
+As a sonorant, lateral approximants are nearly always voiced. Voiceless lateral approximants, /l̥/ are common in Sino-Tibetan languages, but uncommon elsewhere. In such cases, voicing typically starts about halfway through the hold of the consonant. No language is known to contrast such a sound with a voiceless alveolar lateral fricative [ɬ].
+In a number of languages, including most varieties of English, the phoneme /l/ becomes velarized ("dark l") in certain contexts.   By contrast, the non-velarized form is the "clear l" (also known as: "light l"), which occurs before and between vowels in certain English standards. Some languages have only clear l. Others  may not have a clear l at all, or have them only before front vowels (especially [i]).
+Features
+Features of the voiced alveolar lateral approximant:
+Occurrence
+Languages may have clear apical or laminal alveolars, laminal denti-alveolars (such as French), or true dentals, which are uncommon. Laminal denti-alveolars tend to occur in continental European languages. However, a true dental generally occurs allophonically before /θ/ in languages that have it, as in English health.
+Velarized alveolar lateral approximant
+The velarized alveolar lateral approximant (a.k.a. dark l) is a type of consonantal sound used in some languages. It is an alveolar, denti-alveolar, or dental lateral approximant, with a secondary articulation of velarization or pharyngealization. The regular symbols in the International Phonetic Alphabet that represent this sound are ⟨lˠ⟩ (for a velarized lateral) and ⟨lˤ⟩ (for a pharyngealized lateral), though the dedicated letter ⟨ɫ⟩, which covers both velarization and pharyngealization, is perhaps more common. The latter should not be confused with belted ⟨ɬ⟩, which represents the voiceless alveolar lateral fricative. However, some scholars use that symbol to represent the velarized alveolar lateral approximant anyway – though such usage is considered non-standard.
+If the sound is dental or denti-alveolar, one could use a dental diacritic to indicate so: ⟨l̪ˠ⟩, ⟨l̪ˤ⟩, ⟨ɫ̪⟩.
+Velarization and pharyngealization are generally associated with more dental articulations of coronal consonants, so dark l tends to be dental or denti-alveolar. Clear (non-velarized) l tends to be retracted to an alveolar position.
+The term dark l is often synonymous with hard l, especially in Slavic languages. (Cf. Hard consonants)
+Features
+Features of the dark l:
+See also
+Notes

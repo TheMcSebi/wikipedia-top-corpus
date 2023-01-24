@@ -1,0 +1,165 @@
+Bengali alphabet
+The Bengali script or Bangla alphabet (Bengali: বাংলা বর্ণমালা, Bangla bôrṇômala) is the alphabet used to write the Bengali language based on the Bengali-Assamese script, and has historically been used to write Sanskrit within Bengal. It is one of the most widely adopted writing systems in the world (used by over 265 million people).
+
+
+From a classificatory point of view, the Bengali writing system is an abugida, i.e. its vowel graphemes are mainly realised not as independent letters, but as diacritics modifying the vowel inherent in the base letter they are added to. The Bengali writing system is written from left to right and uses a single letter case, which makes it a unicameral script, as opposed to a bicameral one like the Latin script. It is recognisable, as are some other Brahmic scripts, by a distinctive horizontal line known as a mātrā (মাত্রা) running along the tops of the letters that links them together. The Bengali writing system is less blocky, however, and presents a more sinuous shape than the Devanagari script.
+Characters
+The Bengali script can be divided into vowels and vowel diacritics, consonants and consonant conjuncts, diacritical and other symbols, digits and punctuation marks. Vowels and consonants are used as letters and also as diacritical marks.
+Vowels
+The Bengali script has a total of 9 vowel graphemes, each of which is called a স্বরবর্ণ swôrôbôrnô "vowel letter". The swôrôbôrnôs represent six of the seven main vowel sounds of Bengali, along with two vowel diphthongs. All of them are used in both Bengali and Assamese languages.
+The table below shows the vowels present in the modern (since the late nineteenth century) inventory of the Bengali alphabet:
+Notes
+Consonants
+Consonant letters are called ব্যঞ্জনবর্ণ bænjônbôrnô "consonant letter" in Bengali. The names of the letters are typically just the consonant sound plus the inherent vowel অ ô. Since the inherent vowel is assumed and not written, most letters' names look identical to the letter itself (the name of the letter ঘ is itself ghô, not gh).
+Notes
+Consonant conjuncts
+Clusters of up to four consonants can be orthographically represented as a typographic ligature called a consonant conjunct (Bengali: যুক্তাক্ষর/যুক্তবর্ণ juktakkhôr/juktôbôrnô or more specifically যুক্তব্যঞ্জন). Typically, the first consonant in the conjunct is shown above and/or to the left of the following consonants. Many consonants appear in an abbreviated or compressed form when serving as part of a conjunct. Others simply take exceptional forms in conjuncts, bearing little or no resemblance to the base character.
+Often, consonant conjuncts are not actually pronounced as would be implied by the pronunciation of the individual components. For example, adding ল lô underneath শ shô in Bengali creates the conjunct শ্ল, which is not pronounced shlô but slô in Bengali. Many conjuncts represent Sanskrit sounds that were lost centuries before modern Bengali was ever spoken as in জ্ঞ. It is a combination of জ ǰô and ঞ ñô but it is not pronounced "ǰñô" or "jnô". Instead, it is pronounced ggô in modern Bengali. Thus, as conjuncts often represent (combinations of) sounds that cannot be easily understood from the components, the following descriptions are concerned only with the construction of the conjunct, and not the resulting pronunciation.
+(Some graphemes may appear in a form other than the mentioned form due to the font used)
+Fused forms
+Some consonants fuse in such a way that one stroke of the first consonant also serves as a stroke of the next.
+Approximated forms
+Some consonants are written closer to one another simply to indicate that they are in a conjunct together.
+Compressed forms
+Some consonants are compressed (and often simplified) when appearing as the first member of a conjunct.
+Abbreviated forms
+Some consonants are abbreviated when appearing in conjuncts and lose part of their basic shape.
+Variant forms
+Some consonants have forms that are used regularly but only within conjuncts.
+Exceptions
+Certain compounds
+When serving as a vowel mark, উ u, ঊ u, and ঋ ri take on many exceptional forms.
+Diacritics and other symbols
+These are mainly the Brahmi-Sanskrit diacritics, phones and punctuation marks present in languages with Sanskrit influence or Brahmi-derived scripts.
+Notes
+Digits and numerals
+The Bengali script has ten numerical digits (graphemes or symbols indicating the numbers from 0 to 9). Bengali numerals have no horizontal headstroke or মাত্রা "matra".
+Numbers larger than 9 are written in Bengali using a positional base 10 numeral system (the decimal system). A period or dot is used to denote the decimal separator, which separates the integral and the fractional parts of a decimal number. When writing large numbers with many digits, commas are used as delimiters to group digits, indicating the thousand (হাজার hazar), the hundred thousand or lakh (লাখ lakh or লক্ষ lôkkhô), and the ten million or hundred lakh or crore (কোটি koti) units. In other words, leftwards from the decimal separator, the first grouping consists of three digits, and the subsequent groupings always consist of two digits.
+For example, the English number 17,557,345 will be written in traditional Bengali as ১,৭৫,৫৭,৩৪৫.
+Punctuation marks
+Bengali punctuation marks, apart from the downstroke দাড়ি dari (।), the Bengali equivalent of a full stop, have been adopted from western scripts and their usage is similar: Commas, semicolons, colons, quotation marks, etc. are the same as in English. Capital letters are absent in the Bengali script so proper names are unmarked.An apostrophe, known in Bengali as ঊর্ধ্বকমা urdhbôkôma "upper comma", is sometimes used to distinguish between homographs, as in পাটা pata "plank" and পাʼটা pa'ta "the leg". Sometimes, a hyphen is used for the same purpose (as in পা-টা, an alternative of পাʼটা).
+Characteristics of the Bengali text
+Bengali text is written and read horizontally, from left to right. The consonant graphemes and the full form of vowel graphemes fit into an imaginary rectangle of uniform size (uniform width and height). The size of a consonant conjunct, regardless of its complexity, is deliberately maintained the same as that of a single consonant grapheme, so that diacritic vowel forms can be attached to it without any distortion. In a typical Bengali text, orthographic words, words as they are written, can be seen as being separated from each other by an even spacing. Graphemes within a word are also evenly spaced, but that spacing is much narrower than the spacing between words.
+Unlike in western scripts (Latin, Cyrillic, etc.) for which the letter-forms stand on an invisible baseline, the Bengali letter-forms instead hang from a visible horizontal left-to-right headstroke called মাত্রা matra. The presence and absence of this matra can be important. For example, the letter ত tô and the numeral ৩ "3" are distinguishable only by the presence or absence of the matra, as is the case between the consonant cluster ত্র trô and the independent vowel এ e. The letter-forms also employ the concepts of letter-width and letter-height (the vertical space between the visible matra and an invisible baseline).
+According to Bengali linguist Munier Chowdhury, there are about nine graphemes that are the most frequent in Bengali texts, shown with its percentage of appearance in the adjacent table.
+Standardization
+In the script, clusters of consonants are represented by different and sometimes quite irregular forms; thus, learning to read is complicated by the sheer size of the full set of letters and letter combinations, numbering about 350. While efforts at standardising the alphabet for the Bengali language continue in such notable centres as the Bangla Academy at Dhaka (Bangladesh) and the Pôshchimbônggô Bangla Akademi at Kolkata (West Bengal, India), it is still not quite uniform yet, as many people continue to use various archaic forms of letters, resulting in concurrent forms for the same sounds.
+Romanization
+Romanization of Bengali is the representation of the Bengali language in the Latin script. There are various ways of Romanization systems of Bengali, created in recent years but failed to represent the true Bengali phonetic sound. While different standards for romanisation have been proposed for Bengali, they have not been adopted with the degree of uniformity seen in languages such as Japanese or Sanskrit. The Bengali alphabet has often been included with the group of Brahmic scripts for romanisation in which the true phonetic value of Bengali is never represented. Some of them are the International Alphabet of Sanskrit Transliteration or "IAST system" "Indian languages Transliteration" or ITRANS (uses upper case alphabets suited for ASCII keyboards), and the extension of IAST intended for non-Sanskrit languages of the Indian region called the National Library at Kolkata romanisation.
+Sample texts
+Article 1 of the Universal Declaration of Human Rights
+The first line is the Bengali alphabet; the second a phonetic Romanization, the third IPA.
+সমস্ত মানুষ স্বাধীনভাবে সমান মর্যাদা এবং অধিকার নিয়ে জন্মগ্রহণ করে। তাঁদের বিবেক এবং বুদ্ধি আছে; সুতরাং সকলেরই একে অপরের প্রতি ভ্রাতৃত্বসুলভ মনোভাব নিয়ে আচরণ করা উচিত।
+Šomosto
+ʃɔmost̪o
+All
+ 
+manush
+manuʃ
+human
+ 
+šadhinbhabe
+ʃad̪ʱinbʱabe
+free-manner-in
+ 
+šoman
+ʃoman
+equal
+ 
+morjada
+mɔrdʒad̪a
+dignity
+ 
+ebong
+eboŋ
+and
+ 
+odhikar
+od̪ʱikar
+right
+ 
+niye
+nie̯e
+taken
+ 
+jonmogrohon
+dʒɔnmoɡrohon
+birth-take
+ 
+kore.
+kɔre.
+do.
+ 
+Tãder
+t̪ãd̪er
+Their
+ 
+bibek
+bibek
+reason
+ 
+ebong
+eboŋ
+and
+ 
+buddhi
+bud̪ːʱi
+intelligence
+ 
+achhe;
+atʃʰe;
+exist;
+ 
+šutôrang
+ʃut̪oraŋ
+therefore
+ 
+šokoleri
+ʃɔkoleri
+everyone-indeed
+ 
+æke
+æke
+one
+ 
+oporer
+ɔporer
+another's
+ 
+proti
+prot̪i
+towards
+ 
+bhratrittošulobh
+bʱrat̪rit̪ːoʃulɔbʱ
+brotherhood-ly
+ 
+monobhab
+monobʱab
+attitude
+ 
+niye
+nie̯e
+taken
+ 
+achoron
+atʃorɔn
+conduct
+ 
+kora
+kɔra
+do
+ 
+uchit.
+utʃit̪
+should.
+সমস্ত মানুষ স্বাধীনভাবে সমান মর্যাদা এবং অধিকার নিয়ে জন্মগ্রহণ করে। তাঁদের বিবেক এবং বুদ্ধি আছে; সুতরাং সকলেরই একে অপরের প্রতি ভ্রাতৃত্বসুলভ মনোভাব নিয়ে আচরণ করা উচিত।
+Šomosto manush šadhinbhabe šoman morjada ebong odhikar niye jonmogrohon kore. Tãder bibek ebong buddhi achhe; šutôrang šokoleri æke oporer proti bhratrittošulobh monobhab niye achoron kora uchit.
+ʃɔmost̪o manuʃ ʃad̪ʱinbʱabe ʃoman mɔrdʒad̪a eboŋ od̪ʱikar nie̯e dʒɔnmoɡrohon kɔre. t̪ãd̪er bibek eboŋ bud̪ːʱi atʃʰe; ʃut̪oraŋ ʃɔkoleri æke ɔporer prot̪i bʱrat̪rit̪ːoʃulɔbʱ monobʱab nie̯e atʃorɔn kɔra utʃit̪
+All human free-manner-in equal dignity and right taken birth-take do. Their reason and intelligence exist; therefore everyone-indeed one another's towards brotherhood-ly attitude taken conduct do should.
+All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience. Therefore, they should act towards one another in a spirit of brotherhood. Mismatch in the number of words between lines: 1 word(s) in line 1, 26 word(s) in line 2, 26 word(s) in line 3, 26 word(s) in line 4  (help);
+Unicode
+Bengali script was added to the Unicode Standard in October 1991 with the release of version 1.0.
+The Unicode block for Bengali is U+0980–U+09FF:
+See also
+Notes

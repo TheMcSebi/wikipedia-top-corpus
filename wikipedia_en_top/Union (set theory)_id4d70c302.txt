@@ -1,0 +1,30 @@
+Union (set theory)
+In set theory, the union (denoted by ∪) of a collection of sets is the set of all elements in the collection. It is one of the fundamental operations through which sets can be combined and related to each other. 
+A nullary union refers to a union of  zero ($MATH$) sets and it is by definition equal to the empty set. 
+For explanation of the symbols used in this article, refer to the table of mathematical symbols.
+Union of two sets
+The union of two sets A and B is the set of elements which are in A, in B, or in both A and B.  In set-builder notation,
+For example, if A = {1, 3, 5, 7} and B = {1, 2, 4, 6, 7} then A ∪ B = {1, 2, 3, 4, 5, 6, 7}.  A more elaborate example (involving two infinite sets) is:
+As another example, the number 9 is not contained in the union of the set of prime numbers {2, 3, 5, 7, 11, ...} and the set of even numbers {2, 4, 6, 8, 10, ...}, because 9 is neither prime nor even.
+Sets cannot have duplicate elements, so the union of the sets {1, 2, 3} and {2, 3, 4} is {1, 2, 3, 4}. Multiple occurrences of identical elements have no effect on the cardinality of a set or its contents.
+Algebraic properties
+Binary union is an associative operation; that is, for any sets $MATH$
+Thus the parentheses may be omitted without ambiguity: either of the above can be written as $MATH$ Also, union is commutative, so the sets can be written in any order.
+The empty set is an identity element for the operation of union. That is, $MATH$ for any set $MATH$ Also, the union operation is idempotent: $MATH$  All these properties follow from analogous facts about logical disjunction.
+Intersection distributes over union
+and union distributes over intersection
+The power set of a set $MATH$ together with the operations given by union, intersection, and complementation, is a Boolean algebra.  In this Boolean algebra, union can be expressed in terms of intersection and complementation by the formula
+where the superscript $MATH$ denotes the complement in the universal set $MATH$
+Finite unions
+One can take the union of several sets simultaneously.  For example, the union of three sets A, B, and C contains all elements of A, all elements of B, and all elements of C, and nothing else. Thus, x is an element of A ∪ B ∪ C if and only if x is in at least one of A, B, and C.
+A finite union is the union of a finite number of sets; the phrase does not imply that the union set is a finite set.
+Arbitrary unions
+The most general notion is the union of an arbitrary collection of sets, sometimes called an infinitary union. If M is a set or class whose elements are sets, then x is an element of the union of M if and only if there is at least one element A of M such that x is an element of A. In symbols:
+This idea subsumes the preceding sections—for example, A ∪ B ∪ C is the union of the collection {A, B, C}. Also, if M is the empty collection, then the union of M is the empty set.
+Notations
+The notation for the general concept can vary considerably.  For a finite union of sets $MATH$ one often writes $MATH$ or $MATH$.  Various common notations for arbitrary unions include  $MATH$, $MATH$, and $MATH$. The last of these notations refers to the union of the collection $MATH$, where I is an index set and $MATH$ is a set for every $MATH$. In the case that the index set I is the set of natural numbers, one uses the notation $MATH$, which is analogous to that of the infinite sums in series.
+When the symbol "∪" is placed before other symbols (instead of between them), it is usually rendered as a larger size.
+Notation encoding
+In Unicode, union is represented by the character U+222A ∪ UNION. In TeX, $MATH$ is rendered from \cup.
+See also
+Notes

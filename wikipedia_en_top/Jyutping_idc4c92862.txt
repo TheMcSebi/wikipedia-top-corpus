@@ -1,0 +1,25 @@
+Jyutping
+Jyutping is a romanisation system for Cantonese developed by the Linguistic Society of Hong Kong (LSHK), an academic group, in 1993. Its formal name is the Linguistic Society of Hong Kong Cantonese Romanization Scheme. The LSHK advocates for and promotes the use of this romanisation system.
+The name Jyutping (itself the Jyutping romanisation of its Chinese name, 粵拼) is a contraction consisting of the first Chinese characters of the terms Jyut6jyu5 (粵語, meaning "Yue language") and ping3jam1 (拼音 "phonetic alphabet", also pronounced as "pinyin" in Mandarin). 
+Despite being intended as a romanisation system to indicate pronunciation, it has also been employed writing Cantonese as an alphabetic language, elevating it from its assistive status to a written language in effect. 
+History
+The Jyutping system marks a departure from all previous Cantonese romanisation systems (approximately 12, including Robert Morrison's pioneering work of 1828, and the widely used Standard Romanization, Yale and Sidney Lau systems) by introducing z and c initials and the use of eo and oe in finals, as well as replacing the initial y, used in all previous systems, with j.
+In 2018, the Jyutping system was updated to include the -a and -oet finals, to reflect syllables recognized to be part of Cantonese phonology in 1997 by the Jyutping Work Group of the Linguistic Society of Hong Kong.
+Finals
+Tones
+There are nine tones in six distinct tone contours in Cantonese. However, as three of the nine are entering tones (Chinese: 入聲; Jyutping: jap6sing1), which only appear in syllables ending with p, t, and k, they do not have separate tone numbers in Jyutping (though they do in Cantonese Pinyin; these are shown in parentheses in the table below). A mnemonic which some use to remember this is 「風水到時我哋必發達」or “Feng Shui [dictates that] we will be lucky.”
+Comparison with Yale romanisation
+Jyutping and the Yale Romanisation of Cantonese represent Cantonese pronunciations with the same letters in:
+But they differ in the following:
+Comparison with Cantonese pinyin
+Jyutping and Cantonese Pinyin represent Cantonese pronunciations with the same letters in:
+But they have some differences:
+Examples
+Sample transcription of one of the 300 Tang Poems:
+Jyutping input method
+The Jyutping method (Chinese: 粵拼輸入法) refers to a family of input methods based on the Jyutping romanization system.
+The Jyutping method allows a user to input Chinese characters by entering the jyutping of a Chinese character (with or without tone, depending on the system) and then presenting the user with a list of possible characters with that pronunciation.
+List of Jyutping keyboard input utilities
+See also
+Footnotes
+Further reading

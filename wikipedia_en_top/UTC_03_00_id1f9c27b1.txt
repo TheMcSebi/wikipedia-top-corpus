@@ -1,0 +1,18 @@
+UTC−03:00
+UTC−03:00 is an identifier for a time offset from UTC of −03:00.
+As standard time (Northern Hemisphere winter)
+Atlantic and Arctic Ocean
+As daylight saving time (Northern Hemisphere summer)
+Principal cities: Halifax, Hamilton
+North America
+As standard time (year-round)
+Principal cities: São Paulo, Brasília, Rio de Janeiro, Porto Alegre, Belo Horizonte, Buenos Aires, Montevideo, Paramaribo, Saint-Pierre, Stanley
+South America
+Southern Ocean
+As daylight saving time (Southern Hemisphere summer)
+Principal cities: Santiago, Asunción
+South America
+Antarctica
+Places using UTC−03:00, outside the 45°W ± 7.5° range
+Other uses
+While Ethiopia and Eritrea both officially use UTC+03:00, Ethiopian and Eritrean culture follow a time system with two 12-hour cycles for day and night, and is 6 hours "slower" than the official time. The day begins with the day cycle at sunrise (6:00 a.m., but designated as 12 o'clock by local rendition) till sunset, followed by the night cycle (official 6:00 p.m., unofficial 12:00 night cycle). Therefore, the people of Ethiopia and Eritrea effectively follow UTC−03:00 instead of UTC+03:00.

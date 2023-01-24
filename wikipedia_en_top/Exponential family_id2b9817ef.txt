@@ -1,0 +1,205 @@
+Exponential family
+In probability and statistics, an exponential family is a parametric set of probability distributions of a certain form, specified below. This special form is chosen for mathematical convenience, including the enabling of the user to calculate expectations, covariances using differentiation based on some useful algebraic properties, as well as for generality, as exponential families are in a sense very natural sets of distributions to consider. The term exponential class is sometimes used in place of "exponential family", or the older term Koopman–Darmois family. The terms "distribution" and "family" are often used loosely: specifically, an exponential family is a set of distributions, where the specific distribution varies with the parameter; however, a parametric family of distributions is often referred to as "a distribution" (like "the normal distribution", meaning "the family of normal distributions"), and the set of all exponential families is sometimes loosely referred to as "the" exponential family. They are distinct because they possess a variety of desirable properties, most importantly the existence of a sufficient statistic.
+The concept of exponential families is credited to E. J. G. Pitman, G. Darmois, and B. O. Koopman in 1935–1936. Exponential families of distributions provides a general framework for selecting a possible alternative parameterisation of a parametric family of distributions, in terms of natural parameters, and for defining useful sample statistics, called the natural sufficient statistics of the family.
+Definition
+Most of the commonly used distributions form an exponential family or subset of an exponential family, listed in the subsection below. The subsections following it are a sequence of increasingly more general mathematical definitions of an exponential family. A casual reader may wish to restrict attention to the first and simplest definition, which corresponds to a single-parameter family of discrete or continuous probability distributions.
+Examples of exponential family distributions
+Exponential families include many of the most common distributions. Among many others, exponential families includes the following:
+A number of common distributions are exponential families, but only when certain parameters are fixed and known. For example:
+Notice that in each case, the parameters which must be fixed determine a limit on the size of observation values.
+Examples of common distributions that are not exponential families are Student's t, most mixture distributions, and even the family of uniform distributions when the bounds are not fixed. See the section below on examples for more discussion.
+Scalar parameter
+A single-parameter exponential family is a set of probability distributions whose probability density function (or probability mass function, for the case of a discrete distribution) can be expressed in the form
+where T(x), h(x), η(θ), and A(θ) are known functions.
+The function h(x) must of course be non-negative.
+An alternative, equivalent form often given is
+or equivalently
+The value θ is called the parameter of the family.
+In addition, the support of $MATH$ (i.e. the set of all $MATH$ for which $MATH$ is greater than 0) does not depend on $MATH$. This can be used to exclude a parametric family distribution from being an exponential family. For example, the Pareto distribution has a pdf which is defined for $MATH$ ($MATH$ being the scale parameter) and its support, therefore, has a lower limit of $MATH$. Since the support of $MATH$ is dependent on the value of the parameter, the family of Pareto distributions does not form an exponential family of distributions (at least when $MATH$ is unknown).
+Often x is a vector of measurements, in which case T(x) may be a function from the space of possible values of x to the real numbers. More generally, η(θ) and T(x) can each be vector-valued such that $MATH$ is real-valued. However, see the discussion below on vector parameters, regarding the curved exponential family.
+If η(θ) = θ, then the exponential family is said to be in canonical form. By defining a transformed parameter η = η(θ), it is always possible to convert an exponential family to canonical form. The canonical form is non-unique, since η(θ) can be multiplied by any nonzero constant, provided that T(x) is multiplied by that constant's reciprocal, or a constant c can be added to η(θ) and h(x) multiplied by $MATH$ to offset it.  In the special case that η(θ) = θ and T(x) = x then the family is called a natural exponential family.
+Even when x is a scalar, and there is only a single parameter, the functions η(θ) and T(x) can still be vectors, as described below.
+The function A(θ), or equivalently g(θ), is automatically determined once the other functions have been chosen, since it must assume a form that causes the distribution to be normalized (sum or integrate to one over the entire domain).  Furthermore, both of these functions can always be written as functions of η, even when η(θ) is not a one-to-one function, i.e. two or more different values of θ map to the same value of η(θ), and hence η(θ) cannot be inverted. In such a case, all values of θ mapping to the same η(θ) will also have the same value for A(θ) and g(θ).
+Factorization of the variables involved
+What is important to note, and what characterizes all exponential family variants, is that the parameter(s) and the observation variable(s) must factorize (can be separated into products each of which involves only one type of variable), either directly or within either part (the base or exponent) of an exponentiation operation.  Generally, this means that all of the factors constituting the density or mass function must be of one of the following forms:
+where f and h are arbitrary functions of x; g and j are arbitrary functions of θ; and c is an arbitrary "constant" expression (i.e. an expression not involving x or θ).
+There are further restrictions on how many such factors can occur.  For example, the two expressions:
+are the same, i.e. a product of two "allowed" factors.  However, when rewritten into the factorized form,
+it can be seen that it cannot be expressed in the required form. (However, a form of this sort is a member of a curved exponential family, which allows multiple factorized terms in the exponent.)
+To see why an expression of the form
+qualifies,
+and hence factorizes inside of the exponent. Similarly,
+and again factorizes inside of the exponent.
+A factor consisting of a sum where both types of variables are involved (e.g. a factor of the form $MATH$) cannot be factorized in this fashion (except in some cases where occurring directly in an exponent); this is why, for example, the Cauchy distribution and Student's t distribution are not exponential families.
+Vector parameter
+The definition in terms of one real-number parameter can be extended to one real-vector parameter
+A family of distributions is said to belong to a vector exponential family if the probability density function (or probability mass function, for discrete distributions) can be written as
+or in a more compact form,
+This form writes the sum as a dot product of vector-valued functions $MATH$ and $MATH$.
+An alternative, equivalent form often seen is
+As in the scalar valued case, the exponential family is said to be in canonical form if
+A vector exponential family is said to be curved if the dimension of
+is less than the dimension of the vector
+That is, if the dimension, d, of the parameter vector is less than the number of functions, s, of the parameter vector in the above representation of the probability density function. Most common distributions in the exponential family are not curved, and many algorithms designed to work with any exponential family implicitly or explicitly assume that the distribution is not curved.
+As in the above case of a scalar-valued parameter, the function $MATH$ or equivalently $MATH$ is automatically determined once the other functions have been chosen, so that the entire distribution is normalized. In addition, as above, both of these functions can always be written as functions of $MATH$, regardless of the form of the transformation that generates $MATH$ from $MATH$. Hence an exponential family in its "natural form" (parametrized by its natural parameter) looks like
+or equivalently
+The above forms may sometimes be seen with $MATH$ in place of $MATH$. These are exactly equivalent formulations, merely using different notation for the dot product.
+Vector parameter, vector variable
+The vector-parameter form over a single scalar-valued random variable can be trivially expanded to cover a joint distribution over a vector of random variables. The resulting distribution is simply the same as the above distribution for a scalar-valued random variable with each occurrence of the scalar x replaced by the vector
+The dimensions k of the random variable need not match the dimension d of the parameter vector, nor (in the case of a curved exponential function) the dimension s of the natural parameter $MATH$ and sufficient statistic T(x) .
+The distribution in this case is written as
+Or more compactly as
+Or alternatively as
+Measure-theoretic formulation
+We use cumulative distribution functions (CDF) in order to encompass both discrete and continuous distributions.
+Suppose H is a non-decreasing function of a real variable. Then Lebesgue–Stieltjes integrals with respect to $MATH$ are integrals with respect to the reference measure of the exponential family generated by H .
+Any member of that exponential family has cumulative distribution function
+H(x) is a Lebesgue–Stieltjes integrator for the reference measure. When the reference measure is finite, it can be normalized and H is actually the cumulative distribution function of a probability distribution. If F is absolutely continuous with a density $MATH$ with respect to a reference measure $MATH$ (typically Lebesgue measure), one can write $MATH$.
+In this case, H is also absolutely continuous and can be written $MATH$ so the formulas reduce to that of the previous paragraphs. If F is discrete, then H is a step function (with steps on the support of F).
+Alternatively, we can write the probability measure directly as
+for some reference measure $MATH$.
+Interpretation
+In the definitions above, the functions T(x), η(θ), and A(η) were apparently arbitrarily defined. However, these functions play a significant role in the resulting probability distribution.
+The function A is important in its own right, because the mean, variance and other moments of the sufficient statistic T(x) can be derived simply by differentiating A(η). For example, because log(x) is one of the components of the sufficient statistic of the gamma distribution, $MATH$ can be easily determined for this distribution using A(η). Technically, this is true because 
+is the cumulant generating function of the sufficient statistic.
+Properties
+Exponential families have a large number of properties that make them extremely useful for statistical analysis. In many cases, it can be shown that only exponential families have these properties.  Examples:
+Given an exponential family defined by $MATH$, where $MATH$ is the parameter space, such that $MATH$. Then
+Examples
+It is critical, when considering the examples in this section, to remember the discussion above about what it means to say that a "distribution" is an exponential family, and in particular to keep in mind that the set of parameters that are allowed to vary is critical in determining whether a "distribution" is or is not an exponential family.
+The normal, exponential, log-normal, gamma, chi-squared, beta, Dirichlet, Bernoulli, categorical, Poisson, geometric, inverse Gaussian, von Mises and von Mises-Fisher distributions are all exponential families.
+Some distributions are exponential families only if some of their parameters are held fixed.  The family of Pareto distributions with a fixed minimum bound xm form an exponential family.  The families of binomial and multinomial distributions with fixed number of trials n but unknown probability parameter(s) are exponential families.  The family of negative binomial distributions with fixed number of failures (a.k.a. stopping-time parameter) r is an exponential family.  However, when any of the above-mentioned fixed parameters are allowed to vary, the resulting family is not an exponential family.
+As mentioned above, as a general rule, the support of an exponential family must remain the same across all parameter settings in the family. This is why the above cases (e.g. binomial with varying number of trials, Pareto with varying minimum bound) are not exponential families — in all of the cases, the parameter in question affects the support (particularly, changing the minimum or maximum possible value). For similar reasons, neither the discrete uniform distribution nor continuous uniform distribution are exponential families as one or both bounds vary.
+The Weibull distribution with fixed shape parameter k is an exponential family. Unlike in the previous examples, the shape parameter does not affect the support; the fact that allowing it to vary makes the Weibull non-exponential is due rather to the particular form of the Weibull's probability density function (k appears in the exponent of an exponent).
+In general, distributions that result from a finite or infinite mixture of other distributions, e.g. mixture model densities and compound probability distributions, are not exponential families. Examples are typical Gaussian mixture models as well as many heavy-tailed distributions that result from compounding (i.e. infinitely mixing) a distribution with a prior distribution over one of its parameters, e.g. the Student's t-distribution (compounding a normal distribution over a gamma-distributed precision prior), and the beta-binomial and Dirichlet-multinomial distributions.  Other examples of distributions that are not exponential families are the F-distribution, Cauchy distribution, hypergeometric distribution and logistic distribution.
+Following are some detailed examples of the representation of some useful distribution as exponential families.
+Normal distribution: unknown mean, known variance
+As a first example, consider a random variable distributed normally with unknown mean μ and known variance σ2. The probability density function is then
+This is a single-parameter exponential family, as can be seen by setting
+If σ = 1 this is in canonical form, as then η(μ) = μ.
+Normal distribution: unknown mean and unknown variance
+Next, consider the case of a normal distribution with unknown mean and unknown variance. The probability density function is then
+This is an exponential family which can be written in canonical form by defining
+Binomial distribution
+As an example of a discrete exponential family, consider the binomial distribution with known number of trials n. The probability mass function for this distribution is
+This can equivalently be written as
+which shows that the binomial distribution is an exponential family, whose natural parameter is
+This function of p is known as logit.
+Table of distributions
+The following table shows how to rewrite a number of common distributions as exponential-family distributions with natural parameters. Refer  to the flashcards for main exponential families.
+For a scalar variable and scalar parameter, the form is as follows:
+For a scalar variable and vector parameter:
+For a vector variable and vector parameter:
+The above formulas choose the functional form of the exponential-family with a log-partition function $MATH$. The reason for this is so that the moments of the sufficient statistics can be calculated easily, simply by differentiating this function.  Alternative forms involve either parameterizing this function in terms of the normal parameter $MATH$ instead of the natural parameter, and/or using a factor $MATH$ outside of the exponential. The relation between the latter and the former is:
+To convert between the representations involving the two types of parameter, use the formulas below for writing one type of parameter in terms of the other.
+The three variants of the categorical distribution and multinomial distribution are due to the fact that the parameters $MATH$ are constrained, such that
+Thus, there are only $MATH$ independent parameters.
+Variants 1 and 2 are not actually standard exponential families at all. Rather they are curved exponential families, i.e. there are $MATH$ independent parameters embedded in a $MATH$-dimensional parameter space. Many of the standard results for exponential families do not apply to curved exponential families. An example is the log-partition function $MATH$, which has the value of 0 in the curved cases. In standard exponential families, the derivatives of this function correspond to the moments (more technically, the cumulants) of the sufficient statistics, e.g. the mean and variance. However, a value of 0 suggests that the mean and variance of all the sufficient statistics are uniformly 0, whereas in fact the mean of the $MATH$th sufficient statistic should be $MATH$. (This does emerge correctly when using the form of $MATH$ shown in variant 3.)
+Moments and cumulants of the sufficient statistic
+Normalization of the distribution
+We start with the normalization of the probability distribution. In general, any non-negative function f(x) that serves as the kernel of a probability distribution (the part encoding all dependence on x) can be made into a proper distribution by normalizing: i.e.
+where
+The factor Z is sometimes termed the normalizer or partition function, based on an analogy to statistical physics.
+In the case of an exponential family where 
+the kernel is
+and the partition function is
+Since the distribution must be normalized, we have
+In other words,
+or equivalently
+This justifies calling A the log-normalizer or log-partition function.
+Moment-generating function of the sufficient statistic
+Now, the moment-generating function of T(x) is
+proving the earlier statement that
+is the cumulant generating function for T.
+An important subclass of exponential families are the natural exponential families, which have a similar form for the moment-generating function for the distribution of x.
+Differential identities for cumulants
+In particular, using the properties of the cumulant generating function,
+and
+The first two raw moments and all mixed second moments can be recovered from these two identities. Higher-order moments and cumulants are obtained by higher derivatives. This technique is often useful when T is a complicated function of the data, whose moments are difficult to calculate by integration.
+Another way to see this that does not rely on the theory of cumulants is to begin from the fact that the distribution of an exponential family must be normalized, and differentiate.  We illustrate using the simple case of a one-dimensional parameter, but an analogous derivation holds more generally.
+In the one-dimensional case, we have
+This must be normalized, so
+Take the derivative of both sides with respect to η:
+Therefore,
+Example 1
+As an introductory example, consider the gamma distribution, whose distribution is defined by
+Referring to the above table, we can see that the natural parameter is given by
+the reverse substitutions are
+the sufficient statistics are $MATH$ and the log-partition function is
+We can find the mean of the sufficient statistics as follows.  First, for η1:
+Where $MATH$ is the digamma function (derivative of log gamma), and we used the reverse substitutions in the last step.
+Now, for η2:
+again making the reverse substitution in the last step.
+To compute the variance of x, we just differentiate again:
+All of these calculations can be done using integration, making use of various properties of the gamma function, but this requires significantly more work.
+Example 2
+As another example consider a real valued random variable X with density
+indexed by shape parameter $MATH$ (this is called the skew-logistic distribution). The density can be rewritten as
+Notice this is an exponential family with natural parameter
+sufficient statistic
+and log-partition function
+So using the first identity,
+and using the second identity
+This example illustrates a case where using this method is very simple, but the direct calculation would be nearly impossible.
+Example 3
+The final example is one where integration would be extremely difficult.  This is the case of the Wishart distribution, which is defined over matrices.  Even taking derivatives is a bit tricky, as it involves matrix calculus, but the respective identities are listed in that article.
+From the above table, we can see that the natural parameter is given by
+the reverse substitutions are
+and the sufficient statistics are $MATH$
+The log-partition function is written in various forms in the table, to facilitate differentiation and back-substitution.  We use the following forms:
+To differentiate with respect to η1, we need the following matrix calculus identity:
+Then:
+The last line uses the fact that V is symmetric, and therefore it is the same when transposed.
+Now, for η2, we first need to expand the part of the log-partition function that involves the multivariate gamma function:
+We also need the digamma function:
+Then:
+This latter formula is listed in the Wishart distribution article.  Both of these expectations are needed when deriving the variational Bayes update equations in a Bayes network involving a Wishart distribution (which is the conjugate prior of the multivariate normal distribution).
+Computing these formulas using integration would be much more difficult.  The first one, for example, would require matrix integration.
+Entropy
+Relative entropy
+The relative entropy (Kullback–Leibler divergence, KL divergence) of two distributions in an exponential family has a simple expression as the Bregman divergence between the natural parameters with respect to the log-normalizer. The relative entropy is defined in terms of an integral, while the Bregman divergence is defined in terms of a derivative and inner product, and thus is easier to calculate and has a closed-form expression (assuming the derivative has a closed-form expression). Further, the Bregman divergence in terms of the natural parameters and the log-normalizer equals the Bregman divergence of the dual parameters (expectation parameters), in the opposite order, for the convex conjugate function.
+Fixing an exponential family with log-normalizer $MATH$ (with convex conjugate $MATH$), writing $MATH$ for the distribution in this family corresponding a fixed value of the natural parameter $MATH$ (writing $MATH$ for another value, and with $MATH$ for the corresponding dual expectation/moment parameters), writing KL for the KL divergence, and $MATH$ for the Bregman divergence, the divergences are related as:
+The KL divergence is conventionally written with respect to the first parameter, while the Bregman divergence is conventionally written with respect to the second parameter, and thus this can be read as "the relative entropy is equal to the Bregman divergence defined by the log-normalizer on the swapped natural parameters", or equivalently as "equal to the Bregman divergence defined by the dual to the log-normalizer on the expectation parameters".
+Maximum-entropy derivation
+Exponential families arise naturally as the answer to the following question: what is the maximum-entropy distribution consistent with given constraints on expected values?
+The information entropy of a probability distribution dF(x) can only be computed with respect to some other probability distribution (or, more generally, a positive measure), and both measures must be mutually absolutely continuous. Accordingly, we need to pick a reference measure dH(x) with the same support as dF(x).
+The entropy of dF(x) relative to dH(x) is
+or
+where dF/dH and dH/dF are Radon–Nikodym derivatives. The ordinary definition of entropy for a discrete distribution supported on a set I, namely
+assumes, though this is seldom pointed out, that dH is chosen to be the counting measure on I.
+Consider now a collection of observable quantities (random variables) Ti. The probability distribution dF whose entropy with respect to dH is greatest, subject to the conditions that the expected value of Ti be equal to ti, is an exponential family with dH as reference measure and (T1, ..., Tn) as sufficient statistic.
+The derivation is a simple variational calculation using Lagrange multipliers. Normalization is imposed by letting T0 = 1 be one of the constraints. The natural parameters of the distribution are the Lagrange multipliers, and the normalization factor is the Lagrange multiplier associated to T0.
+For examples of such derivations, see Maximum entropy probability distribution.
+Role in statistics
+Classical estimation: sufficiency
+According to the Pitman–Koopman–Darmois theorem, among families of probability distributions whose domain does not vary with the parameter being estimated, only in exponential families is there a sufficient statistic whose dimension remains bounded as sample size increases.
+Less tersely, suppose Xk, (where k = 1, 2, 3, ... n) are independent, identically distributed random variables. Only if their distribution is one of the exponential family of distributions is there a sufficient statistic T(X1, ..., Xn) whose number of scalar components does not increase as the sample size n increases; the statistic T may be a vector or a single scalar number, but whatever it is, its size will neither grow nor shrink when more data are obtained.
+As a counterexample if these conditions are relaxed, the family of uniform distributions (either discrete or continuous, with either or both bounds unknown) has a sufficient statistic, namely the sample maximum, sample minimum, and sample size, but does not form an exponential family, as the domain varies with the parameters.
+Bayesian estimation: conjugate distributions
+Exponential families are also important in Bayesian statistics. In Bayesian statistics a prior distribution is multiplied by a likelihood function and then normalised to produce a posterior distribution. In the case of a likelihood which belongs to an exponential family there exists a conjugate prior, which is often also in an exponential family. A conjugate prior π for the parameter $MATH$ of an exponential family
+is given by
+or equivalently
+where s is the dimension of $MATH$ and $MATH$ and $MATH$ are hyperparameters (parameters controlling parameters). $MATH$ corresponds to the effective number of observations that the prior distribution contributes, and $MATH$ corresponds to the total amount that these pseudo-observations contribute to the sufficient statistic over all observations and pseudo-observations. $MATH$ is a normalization constant that is automatically determined by the remaining functions and serves to ensure that the given function is a probability density function (i.e. it is normalized). $MATH$ and equivalently $MATH$ are the same functions as in the definition of the distribution over which π is the conjugate prior.
+A conjugate prior is one which, when combined with the likelihood and normalised, produces a posterior distribution which is of the same type as the prior. For example, if one is estimating the success probability of a binomial distribution, then if one chooses to use a beta distribution as one's prior, the posterior is another beta distribution. This makes the computation of the posterior particularly simple. Similarly, if one is estimating the parameter of a Poisson distribution the use of a gamma prior will lead to another gamma posterior. Conjugate priors are often very flexible and can be very convenient. However, if one's belief about the likely value of the theta parameter of a binomial is represented by (say) a bimodal (two-humped) prior distribution, then this cannot be represented by a beta distribution. It can however be represented by using a mixture density as the prior, here a combination of two beta distributions; this is a form of hyperprior.
+An arbitrary likelihood will not belong to an exponential family, and thus in general no conjugate prior exists. The posterior will then have to be computed by numerical methods.
+To show that the above prior distribution is a conjugate prior, we can derive the posterior.
+First, assume that the probability of a single observation follows an exponential family, parameterized using its natural parameter:
+Then, for data $MATH$, the likelihood is computed as follows:
+Then, for the above conjugate prior:
+We can then compute the posterior as follows:
+The last line is the kernel of the posterior distribution, i.e.
+This shows that the posterior has the same form as the prior.
+The data X enters into this equation only in the expression
+which is termed the sufficient statistic of the data.  That is, the value of the sufficient statistic is sufficient to completely determine the posterior distribution.  The actual data points themselves are not needed, and all sets of data points with the same sufficient statistic will have the same distribution.  This is important because the dimension of the sufficient statistic does not grow with the data size — it has only as many components as the components of $MATH$ (equivalently, the number of parameters of the distribution of a single data point).
+The update equations are as follows:
+This shows that the update equations can be written simply in terms of the number of data points and the sufficient statistic of the data.  This can be seen clearly in the various examples of update equations shown in the conjugate prior page. Because of the way that the sufficient statistic is computed, it necessarily involves sums of components of the data (in some cases disguised as products or other forms — a product can be written in terms of a sum of logarithms). The cases where the update equations for particular distributions don't exactly match the above forms are cases where the conjugate prior has been expressed using a different parameterization than the one that produces a conjugate prior of the above form — often specifically because the above form is defined over the natural parameter $MATH$ while conjugate priors are usually defined over the actual parameter $MATH$
+Hypothesis testing: uniformly most powerful tests
+A one-parameter exponential family has a monotone non-decreasing likelihood ratio in the sufficient statistic T(x), provided that η(θ) is non-decreasing. As a consequence, there exists a uniformly most powerful test for testing the hypothesis H0: θ ≥ θ0 vs. H1: θ < θ0.
+Generalized linear models
+Exponential families form the basis for the distribution functions used in generalized linear models (GLM), a class of model that encompasses many of the commonly used regression models in statistics.  Examples include logistic regression using the binomial family and Poisson regression.
+See also
+Footnotes
+References
+Citations
+Sources
+Further reading

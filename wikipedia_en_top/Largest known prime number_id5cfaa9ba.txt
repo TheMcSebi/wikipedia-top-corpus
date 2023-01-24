@@ -1,0 +1,16 @@
+Largest known prime number
+
+The largest known prime number (as of November 2022) is 282,589,933 − 1, a number which has 24,862,048 digits when written in base 10. It was found via a computer volunteered by Patrick Laroche of the Great Internet Mersenne Prime Search (GIMPS) in 2018.
+A prime number is a positive integer, excluding 1, with no divisors other than 1 and itself. According to Euclid's theorem there are infinitely many prime numbers, so there is no largest prime.
+Many of the largest known primes are Mersenne primes, numbers that are one less than a power of two, because they can utilise a specialised primality test that is faster than the general one. As of November 2022, the eight largest known primes are Mersenne primes. The last seventeen record primes were Mersenne primes. The binary representation of any Mersenne prime is composed of all 1's, since the binary form of 2k − 1 is simply k 1's.
+Current record
+The record is currently held by 282,589,933 − 1 with 24,862,048 digits, found by GIMPS in December 2018. The first and last 120 digits of its value are shown below:
+Prizes
+There are several prizes offered by the Electronic Frontier Foundation (EFF) for record primes. A prime with one million digits was found in 1999, earning the discoverer a US$50,000 prize. In 2008, a ten-million digit prime won a US$100,000 prize and a Cooperative Computing Award from the EFF. Time called this prime the 29th top invention of 2008.
+Both of these primes were discovered through the Great Internet Mersenne Prime Search (GIMPS), which coordinates long-range search efforts among tens of thousands of computers and thousands of volunteers. The $50,000 prize went to the discoverer and the $100,000 prize went GIMPS.  GIMPS will split the US$150,000 prize for the first prime of over 100 million digits with the winning participant. A further prize is offered for the first prime with at least one billion digits.
+GIMPS also offers a US$3,000 research discovery award for participants who discover a new Mersenne prime of less than 100 million digits.
+History of largest known prime numbers
+The following table lists the progression of the largest known prime number in ascending order. Here Mp = 2p − 1 is the Mersenne number with exponent p. The longest record-holder known was M19 = 524,287, which was the largest known prime for 144 years. No records are known prior to 1456.
+GIMPS found the fifteen latest records (all of them Mersenne primes) on ordinary computers operated by participants around the world.
+The twenty largest known prime numbers
+A list of the 5,000 largest known primes is maintained by Chris K. Caldwell, of which the twenty largest are listed below.

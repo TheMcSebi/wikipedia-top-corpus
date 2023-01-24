@@ -1,0 +1,699 @@
+Rapa Nui language
+Rapa Nui or Rapanui (English: /ˌræpəˈnuːi/, Rapa Nui: [ˈɾapa ˈnu.i], Spanish: [ˈrapa ˈnu.i]), also known as Pascuan (/ˈpæskjuən/) or Pascuense, is an Eastern Polynesian language of the Austronesian language family. It is spoken on the island of Rapa Nui, also known as Easter Island.
+The island is home to a population of just under 6,000 and is a special territory of Chile. According to census data, there are 9,399 people (on both the island and the Chilean mainland) who identify as ethnically Rapa Nui. Census data does not exist on the primary known and spoken languages among these people. In 2008, the number of fluent speakers was reported as low as 800. Rapa Nui is a minority language and many of its adult speakers also speak Spanish. Most Rapa Nui children now grow up speaking Spanish and those who do learn Rapa Nui begin learning it later in life.
+History
+The Rapa Nui language is isolated within Eastern Polynesian, which also includes the Marquesic and Tahitic languages. Within Eastern Polynesian, it is closest to Marquesan morphologically, although its phonology has more in common with New Zealand Māori, as both languages are relatively conservative in retaining consonants lost in other Eastern Polynesian languages.
+Like all Polynesian languages, Rapa Nui has relatively few consonants. Uniquely for an Eastern Polynesian language, Rapa Nui has preserved the original glottal stop of Proto-Polynesian. It is, or until recently was, a verb-initial language.
+One of the most important recent books written about the language of Rapa Nui is Verónica du Feu's Rapanui (Descriptive Grammar) (ISBN 0-415-00011-4).
+Very little is known about the Rapa Nui language prior to European contact. The majority of Rapa Nui vocabulary is inherited directly from Proto–Eastern Polynesian. Due to extensive borrowing from Tahitian there now often exist two forms for what was the same word in the early language. For example, Rapa Nui has Tahitian ʻite alongside original tikeꞌa for 'to see', both derived from Proto-Eastern Polynesian *kiteʻa. There are also hybridized forms of words such as hakaꞌite 'to teach', from native haka (causative prefix) and Tahitian ʻite.
+According to archaeologist José Miguel Ramírez "more than a dozen Mapuche - Rapa Nui cognates have been described", chiefly by Sebastian Englert. Among these are the Mapuche/Rapa Nui words toki/toki (axe), kuri/uri (black) and piti/iti (little).
+Language notes from 1770 and 1774
+Spanish notes from a 1770 visit to the island record 94 words and terms. Many are clearly Polynesian, but several are not easily recognizable. For example, the numbers from one to ten seemingly have no relation to any known language. They are compared with contemporary Rapa Nui words, in parenthesis:
+It may be that the list is a misunderstanding, and the words not related to numbers at all. The Spanish may have shown Arabic numerals to the islanders who did not understand their meaning, and likened them to some other abstraction. For example, the "moroqui" for number eight would have actually been moroki, a small fish that is used as a bait, since "8" can look like a simple drawing of a fish.
+Captain James Cook visited the island four years later, and had a Tahitian interpreter with him, who, while recognizing some Polynesian words (up to 17 were written down), was not able to converse with the islanders in general. The British also attempted to record the numerals and were able to record the correct Polynesian words.
+Post-Peruvian enslavement
+In the 1860s the Peruvian slave raids began, as Peruvians were experiencing labor shortages and came to regard the Pacific as a vast source of free labor. Slavers raided islands as far away as Micronesia, but Rapa Nui was much closer and became a prime target.
+In December 1862 eight Peruvian ships landed their crewmen and between bribery and outright violence they captured some 1,000 Rapanui, including the king, his son, and the ritual priests (one of the reasons for so many gaps in knowledge of the ancient ways). It has been estimated that 2,000 Rapanui were captured over a period of years. Those who survived to arrive in Peru were poorly treated, overworked, and exposed to diseases. Ninety percent of the Rapa Nui died within one or two years of capture.
+Eventually the Bishop of Tahiti caused a public outcry and an embarrassed Peru rounded up the few survivors to return them. A shipload headed to Rapa Nui, but smallpox broke out en route and only 15 arrived at the island. They were put ashore. The resulting smallpox epidemic nearly wiped out the remaining population.
+In the aftermath of the Peruvian slave deportations in the 1860s, Rapa Nui came under extensive outside influence from neighbouring Polynesian languages such as Tahitian. While the majority of the population that was taken to work as slaves in the Peruvian mines died of diseases and bad treatment in the 1860s, hundreds of other Islanders who left for Mangareva in the 1870s and 1880s to work as servants or labourers adopted the local form of Tahitian-Pidgin. Fischer argues that this pidgin became the basis for the modern Rapa Nui language when the surviving part of the Rapa Nui immigrants on Mangareva returned to their almost deserted home island.
+Language notes from 1886
+William J. Thomson, paymaster on the USS Mohican, spent twelve days on Rapa Nui from 19 to 30 December 1886. Among the data Thomson collected was the Rapa Nui calendar.
+Language notes from the twentieth century
+Father Sebastian Englert, a German missionary living on Easter Island during 1935–1969, published a partial Rapa Nui–Spanish dictionary in his La Tierra de Hotu Matuꞌa in 1948, trying to save what was left of the old language. Despite the many typographical mistakes, the dictionary is valuable, because it provides a wealth of examples which all appear drawn from a real corpus, part oral traditions and legends, part actual conversations.
+Englert recorded vowel length, stress, and glottal stop, but was not always consistent, or perhaps the misprints make it seem so. He indicated vowel length with a circumflex, and stress with an acute accent, but only when it does not occur where expected. The glottal stop /ʔ/ is written as an apostrophe, but is often omitted. The velar nasal /ŋ/ is sometimes transcribed with a ⟨g⟩, but sometimes with a Greek eta, ⟨η⟩, as a graphic approximation of ⟨ŋ⟩.
+Rongorongo
+It is assumed that rongorongo, a possible undeciphered script once used on Rapa Nui, transcribes the old Rapa Nui language if it is indeed a true writing system.
+Hispanisation
+The island is under the jurisdiction of Chile since 1888 and is now home to a number of Chilean continentals. The influence of the Spanish language is noticeable in modern Rapa Nui speech. As fewer children learn to speak Rapa Nui at an early age, their superior knowledge of Spanish affects the 'passive knowledge' they have of Rapa Nui. A version of Rapanui interspersed with Spanish nouns, verbs and adjectives has become a popular form of casual speech. The most well integrated borrowings are the Spanish conjunctions o (or), pero (but) and y (and). Spanish words such as problema (problem), which was once rendered as poroporema, are now often integrated with minimal or no change.
+Spanish words are still often used within Rapanui grammatical rules, though some word order changes are occurring and it is argued that Rapanui may be undergoing a shift from VSO to the Spanish SVO. This example sentence was recorded first in 1948 and again in 2001 and its expression has changed from VSO to SVO.
+Rapa Nui's indigenous Rapanui toponymy has survived with few Spanish additions or replacements, a fact that has been attributed in part to the survival of the Rapa Nui language. This contrasts with the toponymy of continental Chile, which has lost many of its indigenous names.
+Phonology
+Rapa Nui has ten consonants and five vowels.
+Consonants
+As present generation Rapa Nui speak Spanish as their first language in younger years and learn Rapa Nui later in life, flap /ɾ/ in word-initial position can be pronounced alveolar trill [r].
+Vowels
+All vowels can be either long or short and are always long when they are stressed in the final position of a word. Most vowel sequences are present, with the exception of *uo. The only sequence of three identical vowels is eee, also spelled ꞌēē ('yes').
+Orthography
+Written Rapanui uses the Latin script. The Latin alphabet for Rapanui consists of 20 letters:
+The nasal velar consonant /ŋ/ is generally written with the Latin letter ⟨g⟩, but occasionally as ⟨ng⟩. In electronic texts, the glottal plosive /ʔ/ may be written with a (always lower-case) saltillo ⟨ꞌ⟩ to avoid the problems of using the punctuation mark ⟨'⟩. A special letter, ⟨ġ⟩, is sometimes used to distinguish the Spanish /ɡ/, occurring in introduced terms, from the Rapa Nui /ŋ/. Similarly, /ŋ/ has been written ⟨g̈⟩ to distinguish it from Spanish g. The IPA letter ⟨ŋ⟩ is now also coming into use.
+Morphology
+Syllable structure
+Syllables in Rapa Nui are CV (consonant-vowel) or V (vowel). There are no consonant clusters or word-final consonants.
+Reduplication
+The reduplication of whole nouns or syllable parts performs a variety of different functions within Rapa Nui. To describe colours for which there is not a predefined word, the noun for an object of a like colour is duplicated to form an adjective. For example:
+Besides forming adjectives from nouns, the reduplication of whole words can indicate a multiple or intensified action. For example:
+There are some apparent duplicate forms for which the original form has been lost. For example:
+The reduplication of the initial syllable in verbs can indicate plurality of subject or object. In this example the bolded section represents the reduplication of a syllable which indicates the plurality of the subject of a transitive verb:
+The reduplication of the final two syllables of a verb indicates plurality or intensity. In this example the bolded section represents the reduplication of two final syllables, indicating intensity or emphasis:
+Borrowed words
+Rapa Nui incorporates a number of borrowed words in which constructions such as consonant clusters or word-final consonants occur, though they do not occur naturally in the language. Historically, the practice was to transliterate unfamiliar consonants, insert vowels between clustered consonants and append word-final vowels where necessary.
+More recently, loanwords – which come primarily from Spanish – retain their consonant clusters. For example, "litro" (litre).
+Word Classes
+Rapa Nui can be said to have a basic two-way distinction in its words, much like other Polynesian languages. That is between full words, and particles. Full words occur in the head of the phrase and are mostly open classes (exceptions like locationals exist). Particles occur in fixed positions before or after the head, and have a high frequency. There also exists an intermediate category, Pro-Forms, which occur in the head of a phrase, and can be preceded or followed by a particle. Unlike full words, they do not have lexical meaning, and like particles, form a closed class. Pro-forms include personal, possessive and benefactive pronouns, as well as interrogative words. Additionally, two other intermediate categories are the negator (ꞌina) and the numerals. While both of them form a closed class, they are able to function as phrase nuclei.
+Demonstratives
+Rapa Nui doesn't have one class of demonstratives, instead it has four classes of particles with demonstrative functions. Each class is made up of three particles of different degrees of distance; proximal, medial, or distal. This is a three-way distinction, similar to Samoan and Māori, two closely related languages from the same language family. Tongan, by contrast, has a two-way contrast.
+Rapa Nui speakers hence distinguish between entities that are close to the speaker (proximal), something at a medium distance or close to the hearer (medial), and something far away, removed from both the speaker and hearer (distal). This is called a person-oriented system, in which one of the demonstratives denotes a referent in proximity of the hearer. For Rapa Nui speakers, that is the medial distinction, nei/ena/era. This system of spatial contrasts and directions is known as spatial deixis, and Rapa Nui is full of ways to express this, be it through locationals, postverbal or postnominal demonstratives, or directionals.
+These four classes that function as demonstratives are similar in form, but differ in syntactic status and have certain differences in functions.
+Postnominal Demonstratives
+The postnominal demonstratives are used to indicate different degrees of distance. They always occur on the right periphery of the noun phrase.
+Postnominal demonstratives are obligatory when following a t-demonstrative (tau/tou/tū) unless the noun phrase contains the identity marker ꞌā/ ꞌana. They can also co-occur with other determiners, like articles in this example:
+te
+ART
+kona
+place
+hare
+house
+era
+DIST
+te kona hare era
+ART place house DIST
+'home' [R210.021]
+Postnominal demonstratives can be used deictically or anaphorically. As deictic markers they are used to point at something visible, while as anaphoric markers they refer to entities in discourse context (entities which have been discussed before or are known by other means). In practice, the anaphoric use is much more common.
+Distal/Neutral era
+era is used deictically to point to something at a distance from both speaker and hearer.
+¿Hē
+WH.Q
+te
+ART
+haraoa
+bread
+o
+of
+te
+ART
+poki
+child
+era?
+DIST
+¿Hē te haraoa o te poki era?
+WH.Q ART bread of ART child DIST
+'Where is the bread of that child (over there)?' from [R245.041]
+However, it's more common to see era used anaphorically, as a general purpose demonstrative. era is often found co-occurring with the neutral t-demonstrative determiner, as the general form tau/tou/tū (N) era, and this combination doubles as a common strategy to refer to a participant mentioned earlier in the discourse. So common, that era is the seventh most common word overall in the text corpus.
+For example, the two main characters in this story are simply referred to as tau taŋata era 'that man' and tau vi ꞌe era 'that woman'.
+He
+NTR
+moe
+lie down
+rō
+EMPH
+ꞌavai
+certainly
+tau
+DEM
+taŋata
+man
+era.
+DIST
+He
+NTR
+koromaki
+miss
+ki
+to
+tau
+DEM
+viꞌe
+woman
+era
+DIST
+toꞌo
+take
+era
+DIST
+e
+AG
+tōꞌona
+POSS.3SG.INAL
+matuꞌa.
+parent
+He moe rō ꞌavai tau taŋata era. He koromaki ki tau viꞌe era toꞌo era e tōꞌona matuꞌa.
+NTR {lie down} EMPH certainly DEM man DIST NTR miss to DEM woman DIST take DIST AG POSS.3SG.INAL parent
+"The man slept. He longed for the woman that had been taken back by her father." [Mtx-5-02.057-060]
+era is also used in combination anaphorically with te, a more conventional determiner instead of a demonstrative determiner. Rapa Nui uses this combination to refer to something which is known to both speaker and hearer, regardless of whether it has been mentioned in the discourse. This means the "te N era" construction (Where N is a noun), indicates definiteness, making it the closest equivalent to English (or Spanish) definite article, rather than a demonstrative.
+Te N era can also be used to refer to entities which are generally known, or presumed to be present in context. In the example, the cliffs refer to the cliffs in general, which can be presumed to be known by all Rapa Nui speakers on Rapa Nui with the coastline being a familiar feature. No specific cliff is meant.
+I
+PFV
+naꞌa
+hide
+era
+DIST
+a
+PROP
+ꞌOho Takatore
+Oho Takatore
+i
+ACC
+tū
+DEM
+kūpeŋa
+net
+era,
+DIST
+he
+NTR
+oho
+go
+mai
+hither
+ki
+to
+te
+ART
+kona
+place
+ꞌōpata
+cliff
+era.
+DIST
+I naꞌa era a {ꞌOho Takatore} i tū kūpeŋa era, he oho mai ki te kona ꞌōpata era.
+PFV hide DIST PROP {Oho Takatore} ACC DEM net DIST NTR go hither to ART place cliff DIST
+"When Oho Takatore had hidden that net, he went to the cliffs (lit. the cliffplace)." [R304.110]
+Deictic Locationals
+Deictic locationals utilize the same form as demonstrative determiners (nei, nā and rā). They can be the head of a phrase as they are locationals, and like other locationals they can be preceded by a preposition, but not by a determiner. They indicate distance with respect to the origo, which is either the speaker or the discourse situation.
+E
+IPFV
+vaꞌu
+eight
+mahana
+day
+i
+PFV
+noho
+stay
+ai
+PVP
+ꞌi
+at
+nei.
+PROX
+E vaꞌu mahana i noho ai ꞌi nei.
+IPFV eight day PFV stay PVP at PROX
+'He stayed here (=on Rapa Nui) for eight days.' [R374.005]
+Pronouns
+Pronouns are usually marked for number: in Rapa Nui there are markers for first, second and third personal singular and plural; however, there is only a marker for dual in the first person. The first person dual and plural can mark for exclusive and inclusive. The pronouns are always ahead of the person singular (PRS) a and relational particle (RLT) i or dative (DAT) ki. However, in some examples, they do not have PRS, RLT and DAT.
+There is only one paradigm of pronouns for Rapa Nui. They function the same in both subject and object cases.
+Here is the table for the pronoun forms in Rapa Nui:
+Ko
+PRF
+au
+1sg
+e
+STA
+noho
+stay
+mai
+TOW
+ena
+PPD
+hokotahi
+alone
+no
+LIM
+Ko au e noho mai ena hokotahi no
+PRF 1sg STA stay TOW PPD alone LIM
+'I live here all alone'
+He
+ACT
+haka
+CAUS
+ai
+EXIST
+i
+RLT
+a
+PRS
+ia
+3sg
+he
+±SPE
+suerkao
+governor
+He haka ai i a ia he suerkao
+ACT CAUS EXIST RLT PRS 3sg ±SPE governor
+'They made him governor'
+Questions
+Yes/no questions are distinguished from statements chiefly by a particular pattern of intonation. Where there is no expectation of a particular answer, the form remains the same as a statement. A question expecting an agreement is preceded by hoki.
+Conjunction
+Original Rapa Nui has no conjunctive particles. Copulative, adversative and disjunctive notions are typically communicated by context or clause order. Modern Rapa Nui has almost completely adopted Spanish conjunctions rather than rely on this.
+Alienable and inalienable possession
+In the Rapa Nui, there are alienable and inalienable possession. Lichtemberk described alienable possession as the possessed noun being contingently associated with the possessor, and on the other hand inalienable possession as the possessed noun being necessarily associated with the possessor. The distinction is marked by a possessive suffix inserted before the relevant pronoun.
+Possessive particles:
+Alienable possession is used to refer to a person's spouse, children, food, books, work, all animals (except horses), all tools and gadgets (including refrigerators), and some illnesses.
+E
+STA
+tunu
+cook
+au
+1sg
+i
+RLT
+te
++SPE
+kai
+food
+mo
+BEN
+ꞌaku
+POS.1sg.ALIEN
+ga
+GRP
+poki
+child
+ko
+PRF
+maruaki
+hungry
+ꞌa
+RES
+E tunu au i te kai mo ꞌaku ga poki ko maruaki ꞌa
+STA cook 1sg RLT +SPE food BEN POS.1sg.ALIEN GRP child PRF hungry RES
+'I must cook dinner for my children who are hungry'
+poki (children) is an alienable possession therefore ꞌa is used to indicate that in this sentence, therefore the possessive pronoun ꞌaꞌ is used instead of ꞌoꞌoku.
+It is used with parents, siblings, house, furniture, transports (including carts, cars, scooters, boats, airplanes), clothes, feeling, native land, parts of the body (including mind), horses, and their bridles.
+He
+STA
+agi
+true
+na
+LIM
+boꞌi
+EMP
+he
+-SPE
+taina
+sibling
+ꞌoꞌoku
+POS.1sg.INAL.
+He agi na boꞌi he taina ꞌoꞌoku
+STA true LIM EMP -SPE sibling POS.1sg.INAL.
+'It is true apparently, he is my brother.'
+Inalienable possession o is used in this example, therefore ꞌoꞌoku instead of ꞌaꞌaku is used. It is talking about the speaker's brother, which is an inalienable relation.
+There are no markers to distinguish between temporary or permanent possession; the nature of objects possessed; or between past, present or future possession.
+A and O possession
+A and O possession refer to alienable and inalienable possession in Rapa Nui. a marks for alienable possession and o marks for inalienable possession. a and o are marked as suffixes of the possessive pronouns; however, they are only marked when the possessive pronoun is in the first, second or third person singular. In (2) above, taina 'sibling' is inalienable and the possessor is first person singular ꞌoꞌoku 'my'. However, for all the other situations, a and o are not marked as a suffix of the possessor. 
+He
+ACT
+vanaga
+talk
+maua
+1DU.EX
+o
+POS
+te
++SPE
+meꞌe
+thing
+era
+PPD
+He vanaga maua o te meꞌe era
+ACT talk 1DU.EX POS +SPE thing PPD
+'We'll talk about those matters.'
+In the above example, the possessor meꞌe 'those' is not a possessive pronoun of the first, second or third person singular. Therefore, o is marked not as a suffix of the possessor but a separate word in the sentence.
+Classifiers
+There are no classifiers in the Rapa Nui language.
+Exclamation
+Ko and ka are exclamatory indicators.
+Compound words
+Terms which did not exist in original Rapa Nui were created via compounding:
+Negation
+In Rapa Nui, negation is indicated by free standing morphemes. Rapa Nui has four main negators:
+Additionally there are also two additional particles/ morphemes which also contribute to negation in Rapa Nui:
+Negation occurs as preverbal particles in the verb phrase, with the clausal negator kai and (e)ko occurring in first position in the verbal phrase, while the constituent negator (taꞌe) occurs in second position in the verbal phrase. Clausal negators occur in the same position as aspect markers and subordinators—this means it is impossible for these elements to co-occur. As a result, negative clauses tend to have fewer aspectual distinctions. Hia occurs in eighth position as a post-verbal marker. Verbal negators precede adjectives. The table below roughly depicts the positions of negators in the Verb Phrase:
+ꞌIna
+ꞌIna is the neutral negator (regarding aspect). It has the widest range of use in a variety of contexts. It usually occurs in imperfective contexts, as well as habitual clauses and narrative contexts, and is used to negate actions and states. It almost always occurs clause initially and is always followed by the neutral aspectual he + noun or he + verb.
+ꞌIna
+NEG
+he
+PRED
+maꞌeha
+light
+mo
+for
+uꞌi
+see
+iga
+NMLZ
+i
+ACC
+te
+ART
+kai
+food
+ꞌIna he maꞌeha mo uꞌi iga i te kai
+NEG PRED light for see NMLZ ACC ART food
+'There was no light to see the food.' [R352.070]
+In the example above ꞌina is followed by the combination of he+ maꞌeha (noun)
+ꞌIna
+NEG
+he
+NTR
+takeꞌa
+see
+rahi
+many/much
+i
+ACC
+te
+ART
+tagata
+man
+ꞌIna he takeꞌa rahi i te tagata
+NEG NTR see many/much ACC ART man
+'He did not see many people.' [R459.003]
+In this example, ꞌina is followed by he + takeꞌa (verb)
+In addition to negating verbal and nominal clauses, it also functions as the term ꞌnoꞌas shown below:
+¿ꞌIna
+NEG
+he
+PRED
+pepe?...
+chair...
+¿ꞌIna he pepe?...
+NEG PRED chair...
+'There were no chairs?...' [R413.635]
+Unlike the other two clausal negators (which are preverbal particles), ꞌina is a phrase head, thus it can form a constituent of its own.
+Kai
+Kai negates clauses with perfective aspects.
+kai
+NEG.PFV
+ꞌite
+know
+a
+PROP
+au
+1SG
+ko
+PROM
+ai
+who
+a
+PROP
+ia
+3SG
+kai ꞌite a au ko ai a ia
+NEG.PFV know PROP 1SG PROM who PROP 3SG
+'I don't know who she is.' [R413.356]
+It is used to negate past events and narrative events, and is usually combined with ꞌina. It is also used to negate stative verbs, and a verb phrase marked with kai may contain various post-verbal particles such as the continuity marker ꞌâ / ꞌana. This marker occurs when the clause has perfect aspect (often obligatory with the perfect marker ko). When combined with kai, it indicates that the negative state continues.
+Kai
+NEG.PFV
+haꞌamata
+begin
+a
+PROP
+au
+1SG
+kai
+NEG.PFV
+paꞌo
+chop
+ꞌā
+CONT
+e
+NUM
+tahi
+one
+miro
+tree
+Kai haꞌamata a au kai paꞌo ꞌā e tahi miro
+NEG.PFV begin PROP 1SG NEG.PFV chop CONT NUM one tree
+'I haven't yet started to chop down a tree.' [R363.091]
+(E)ko
+(E)ko is the imperfective negator, which (like kai) replaces the aspectual marker in front of the verb, and which can occur with the negator ꞌina.
+ꞌIna
+NEG
+e
+IPFV
+ko
+NEG.IPFV
+kai
+eat
+i
+ACC
+te
+ART
+kahi
+tuna
+o
+of
+tôꞌona
+POSS.3SG.INAL
+vaka
+boat
+ꞌIna e ko kai i te kahi o tôꞌona vaka
+NEG IPFV NEG.IPFV eat ACC ART tuna of POSS.3SG.INAL boat
+'(The fisherman) would not eat the tune (caught with) his boat.' [Ley-5-27.013]
+It marks negative commands in imperatives (usually with ꞌina) with the e often excluded in imperatives.
+ꞌIna
+NEG
+ko
+NEG.IPFV
+kai
+eat
+i
+ACC
+te
+ART
+kai
+food
+mata
+raw
+ꞌIna ko kai i te kai mata
+NEG NEG.IPFV eat ACC ART food raw
+'Don't eat raw food.' (Weber 2003b:610)
+In other contexts, especially when ꞌina is absent, the e is obligatory.
+¿E
+NEG.IPFV
+ko
+NEG.IPFV
+haga
+want
+ꞌô
+really
+koe
+2SG
+mo
+for
+ꞌori
+dance
+o
+of
+Tâua?
+1DU.INCL
+¿E ko haga ꞌô koe mo ꞌori o Tâua?
+NEG.IPFV NEG.IPFV want really 2SG for dance of 1DU.INCL
+'Don't you want to dance with me (lit. us to dance)?' [R315.115]
+Taꞌe
+Taꞌe is a constituent negator used to negate anything other than a main clause. This can be subordinate clauses, prepositional phrases, possessive predicates and other non-verbal clauses. It also negates nominalised verbs and sub-constituents such as adjectives and quantifiers. It does not negate nouns (this is done by the noun negator kore). It is also used to negate locative phrases, actor emphasis constructions, and is also used to reinforce the preposition mai.
+ꞌI
+IMM
+au
+1SG
+he
+NTR
+oho
+go
+rô
+EMPH
+ꞌai
+SUBS
+mai
+from
+taꞌe
+CONNEG
+pô
+night
+ꞌI au he oho rô ꞌai mai taꞌe pô
+IMM 1SG NTR go EMPH SUBS from CONNEG night
+'I'm going now, before it gets dark.' [R153.042]
+Taꞌe is an indicator for subordinate clauses, as it can also negate subordinate clauses without subordinate markers (in which case it usually occurs with an aspect marker).
+ꞌI
+at
+te
+ART
+taꞌe
+CONNEG
+hakarogo,
+listen
+he
+NTR
+garo
+lost
+rô
+EMPH
+atu
+away
+ꞌai
+SUBS
+ꞌI te taꞌe hakarogo, he garo rô atu ꞌai
+at ART CONNEG listen NTR lost EMPH away SUBS
+'Because (the sheep) did not listen, it got lost.' [R490.005]
+It also occurs in main clauses with main clause negators and aspect markers i and e, when the clause has a feature of a subordinate clause such as oblique constituents
+Noun negator: kore
+kore is a verb meaning 'the absence or lack of something'.
+He
+NTR
+uꞌi
+look
+ku
+PRF
+kore
+lack
+ꞌâ
+CONT
+te
+ART
+tagi
+cry
+He uꞌi ku kore ꞌâ te tagi
+NTR look PRF lack CONT ART cry
+'He looked (at his wife); the crying was over.' [Ley-9-55.076]
+It immediately follows the noun in the adjective position, and is used to indicate that the entity expressed by the noun or noun modifier does not exist or is lacking in the given context.
+Te
+ART
+ꞌati
+problem
+he
+PRED
+matariki
+file
+kore
+lack
+mo
+for
+oro
+grate
+o
+of
+râ
+DIST
+hora
+time
+Te ꞌati he matariki kore mo oro o râ hora
+ART problem PRED file lack for grate of DIST time
+'The problem was the lack of files to sharpen (the fishhooks) at the time.' [R539-1.335]
+Hia / ia
+Hia / ia is a morpheme used immediately after negated verbs and co-occurs with a negator to indicate actions or events which are interrupted or are yet to happen.
+kai
+NEG.PFV
+oromatuꞌa
+priest
+hia
+yet
+i
+PFV
+oho
+go
+rô
+EMPH
+mai
+hither
+era
+DIST
+ki
+to
+nei
+PROX
+kai oromatuꞌa hia i oho rô mai era ki nei
+NEG.PFV priest yet PFV go EMPH hither DIST to PROX
+'When he had not yet become a priest, he came here.' [R423.004]
+Double negation
+In Rapa Nui, double negation is more frequent than single negation (with the negator ꞌina often co-occurring with another clause negator most of the time). It is often used as a slight reinforcement or emphasis.
+ꞌIna can be combined with negators kai and (e)ko- both of these are main clause negators.
+¡Ka
+CNTG
+rua
+two
+ꞌô
+really
+mahana
+day
+ꞌina
+NEG
+kai
+NEG.PFV
+tuꞌu
+arrive
+mai!
+hither
+¡Ka rua ꞌô mahana ꞌina kai tuꞌu mai!
+CNTG two really day NEG NEG.PFV arrive hither
+'She hasn't come for two days.' [R229.132]
+In the example above we see the negator ꞌina co-occurring with the perfective negator kai.
+When taꞌe occurs in double negation, if the other negator is kai or (e)ko, the negative polarity is cancelled out.
+kai
+NEG.PFV
+taꞌe
+CONNEG
+haka
+CAUS
+ꞌite
+know
+ko
+PROM
+ai
+who
+a
+PROP
+ia
+3SG
+hai
+INS
+meꞌe
+thing
+rivariva
+good:REDUP
+aga
+do
+kai taꞌe haka ꞌite ko ai a ia hai meꞌe rivariva aga
+NEG.PFV CONNEG CAUS know PROM who PROP 3SG INS thing good:REDUP do
+'(God) did not fail to make known who he is, by the good things he did.' (Acts 14:17)
+ꞌIna only negates main clauses so it never combines with the negator taꞌe, which is a subordinate clause negator. When occurring with ꞌina, negation may be reinforced.
+....
+ 
+ꞌina
+NEG
+e
+IPFV
+ko
+NEG.IPFV
+taꞌe
+CONNEG
+ravaꞌa
+obtain
+te
+ART
+ika
+fish
+.... ꞌina e ko taꞌe ravaꞌa te ika
+{} NEG IPFV NEG.IPFV CONNEG obtain ART fish
+'(if the mother does not eat the fish caught by her firstborn son), he will not fail to catch fish.' [Ley-5-27.008]
+Double negation occurs very frequently in imperatives in particular.
+ꞌIna
+NEG
+ko
+NEG.IPFV
+oho
+go
+ki
+to
+te
+ART
+têtahi
+some/other
+kona
+place
+ꞌIna ko oho ki te têtahi kona
+NEG NEG.IPFV go to ART some/other place
+'Don't go to another place.' [R161.027]
+Numerals
+There is a system for the numerals 1–10 in both Rapa Nui and Tahitian, both of which are used, though all numbers higher than ten are expressed in Tahitian. When counting, all numerals whether Tahitian or Rapanui are preceded by ka. This is not used however, when using a number in a sentence.
+Syntax
+Word order
+Rapa Nui is a VSO (verb–subject–object) language. Except where verbs of sensing are used, the object of a verb is marked by the relational particle i.
+Where a verb of sensing is used, the subject is marked by the agentive particle e.
+Directionals
+Spatial deictics is also present in Rapa Nui, in the form of two directionals: mai and atu. They indicate direction with respect to a specific deictic centre or locus.
+Postverbal Demonstratives
+The postverbal demonstratives (PVDs) have the same form as the postnominal demonstratives, and they have the same meaning:
+How they differ from postnominal demonstratives is their function/where they can appear, as it is quite limited. They can only appear in certain syntactic contexts, listed here:
+Overall, their main function is to provide nuance to the aspectual marker they are being used alongside.

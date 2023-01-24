@@ -1,0 +1,30 @@
+Caffeic acid
+Caffeic acid is an organic compound that is classified as a hydroxycinnamic acid. This yellow solid consists of both phenolic and acrylic functional groups. It is found in all plants because it is an intermediate in the biosynthesis of lignin, one of the principal components of woody plant biomass and its residues.
+Natural occurrences
+Caffeic acid can be found in the bark of Eucalyptus globulus the barley grain Hordeum vulgare and the herb Dipsacus asperoides. It can also be found in the freshwater fern Salvinia molesta and in the mushroom Phellinus linteus.
+Occurrences in food
+Free caffeic acid can be found in a variety of beverages, including brewed coffee at 0.13 mg per 100 ml and red wine at 2 mg per 100 ml. It is found at relatively high levels in herbs of the mint family, especially thyme, sage and spearmint (at about 20 mg per 100 g), and in spices, such as Ceylon cinnamon and star anise (at about 22 mg per 100 g). Caffeic acid occurs at moderate levels in sunflower seeds (8 mg per 100 g), apple sauce, apricots and prunes (at about 1 mg per 100 g). It occurs at remarkably high levels in black chokeberry (141 mg per 100 g). It is also quite high in the South American herb yerba mate (150 mg per 100 g based on thin layer chromatography densiometry  and HPLC ). It is also found at lower levels in barley and rye.
+Metabolism
+Biosynthesis
+Caffeic acid, which is unrelated to caffeine, is biosynthesized by hydroxylation of coumaroyl ester of quinic acid (esterified through a side chain alcohol). This hydroxylation produces the caffeic acid ester of shikimic acid, which converts to chlorogenic acid. It is the precursor to ferulic acid, coniferyl alcohol, and sinapyl alcohol, all of which are significant building blocks in lignin. The transformation to ferulic acid is catalyzed by the enzyme caffeate O-methyltransferase.
+Caffeic acid and its derivative caffeic acid phenethyl ester (CAPE) are produced in many kinds of plants.
+Dihydroxyphenylalanine ammonia-lyase was presumed to use 3,4-dihydroxy-L-phenylalanine (L-DOPA) to produce trans-caffeate and NH3. However, the EC number for this purported enzyme was deleted in 2007, as no evidence has emerged for its existence.
+Biotransformation
+Caffeate O-methyltransferase is an enzyme responsible for the transformation of caffeic acid into ferulic acid.
+Caffeic acid and related o-diphenols are rapidly oxidized by o-diphenol oxidases in tissue extracts.
+Biodegradation
+Caffeate 3,4-dioxygenase is an enzyme that uses caffeic acid and oxygen to produce 3-(2-carboxyethenyl)-cis,cis-muconate.
+Glycosides
+3-O-caffeoylshikimic acid (dactylifric acid) and its isomers, are enzymic browning substrates found in dates (Phoenix dactylifera fruits).
+Pharmacology
+Caffeic acid has a variety of potential pharmacological effects in in vitro studies and in animal models, and the inhibitory effect of caffeic acid on cancer cell proliferation by an oxidative mechanism in the human HT-1080 fibrosarcoma cell line has recently been established.
+Caffeic acid is an antioxidant in vitro and also in vivo. Caffeic acid also shows immunomodulatory and anti-inflammatory activity. Caffeic acid outperformed the other antioxidants, reducing aflatoxin production by more than 95 percent. The studies are the first to show that oxidative stress that would otherwise trigger or enhance Aspergillus flavus aflatoxin production can be stymied by caffeic acid. This opens the door to use as a natural fungicide by supplementing trees with antioxidants.
+Studies of the carcinogenicity of caffeic acid have mixed results. Some studies have shown that it inhibits carcinogenesis, and other experiments show carcinogenic effects. Oral administration of high doses of caffeic acid in rats has caused stomach papillomas. In the same study, high doses of combined antioxidants, including caffeic acid, showed a significant decrease in growth of colon tumors in those same rats. No significant effect was noted otherwise. Caffeic acid is listed under some Hazard Data sheets as a potential carcinogen, as has been listed by the International Agency for Research on Cancer as a Group 2B carcinogen ("possibly carcinogenic to humans"). More recent data show that bacteria in the rats' guts may alter the formation of metabolites of caffeic acid. Other than caffeic acid being a thiamine antagonist (antithiamine factor), there have been no known ill effects of caffeic acid in humans.
+Also, caffeic acid treatment attenuated lipopolysaccharide (LPS)-induced sickness behaviour in experimental animals by decreasing both peripheral and central cytokine levels along with oxidative stress inflicted by LPS.
+Chemistry
+Caffeic acid is susceptible to autoxidation. With transition metals, it forms transition metal-carboxylate complexes, but not salts. Glutathione and thiol compounds (cysteine, thioglycolic acid or thiocresol) or ascorbic acid have a protective effect on browning and disappearance of caffeic acid. This browning is due to the conversion of o-diphenols into reactive o-quinones. Chemical oxidation of caffeic acid in acidic conditions using sodium periodate leads to the formation of dimers with a furan structure (isomers of 2,5-(3′,4′-dihydroxyphenyl)tetrahydrofuran 3,4-dicarboxylic acid). Caffeic acid can also be polymerized using the horseradish peroxidase/H2O2 oxidizing system.
+Other uses
+Caffeic acid may be the active ingredient in caffenol, a do-it-yourself black-and-white photographic developer made from instant coffee. The developing chemistry is similar to that of catechol or pyrogallol.
+It is also used as a matrix in MALDI mass spectrometry analyses.
+Isomers
+Isomers with the same molecular formula and in the hydroxycinammic acids family are:

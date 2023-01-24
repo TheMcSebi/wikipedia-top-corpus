@@ -1,0 +1,21 @@
+Fraser script
+The Fraser or Old Lisu script is an artificial abugida invented around 1915 by Sara Ba Thaw, a Karen preacher from Myanmar and improved by the missionary James O. Fraser, to write the Lisu language. It is a single-case (unicameral) alphabet. It was also used for the Naxi language, e.g. the 1932 Naxi Gospel of Mark and used in the Zaiwa or Atsi language e.g. the 1938 Atsi Gospel of Mark.
+The script uses uppercase letters from the Latin script (Except for the letter Q) and rotated versions thereof (Except for the letters M, Q and W), to write consonants and vowels. Tones and nasalization are written with Roman punctuation marks, identical to those found on a typewriter. Like the Indic abugidas, the vowel [a] is not written. However, unlike those scripts, the other vowels are written with full letters.
+The local Chinese government in Nujiang de facto recognized the script in 1992 as the official script for writing in Lisu, although other Lisu autonomous territories continue to use the New Lisu.
+Consonants
+Note: You may need to download a Lisu capable Unicode font if not all characters display.
+Vowels
+For example, ⟨ꓝ⟩ is [tsɑ̄], while ⟨ꓝꓰ⟩ is [tsē]. 
+When consonant ꓠꓬ, ꓬ is used with vowel ꓬꓱ, ꓬ, without being ambiguous only one ꓬ is written.
+When transcribing exotic rimes (diphthongs or nasal endings), letters ꓮ and ꓬ can work like vowels just like English letter Y, making Fraser script behave like an abjadic alphabet like the Roman instead of an abugida like Tibetan; meanwhile space works like a delimiter like a Tibetan tseg, making a final consonant (such as ꓠ) possible without necessity of a halanta sign: 凉粉 ꓡꓬꓮꓳ ꓩꓷꓠ reads as /li̯ɛw fən/ rather than as ꓡꓬ ꓮ ꓳ ꓩꓷ ꓠ /li̯ɑ ʔɑ ʔʊ fə nɑ/.
+
+
+Tones
+Tones are written with standard punctuation. Lisu punctuation therefore differs from international norms: the comma is ⟨꓾⟩ (hyphen period) and the full stop is ⟨꓿⟩ (equal sign).
+The tones ⟨ꓸ⟩, ⟨ꓹ⟩, ⟨ꓺ⟩, ⟨ꓻ⟩ may be combined with ⟨ꓼ⟩ and ⟨ꓽ⟩ as compound tones. However, the only one still in common use is ⟨ꓹꓼ⟩.
+The apostrophe indicates nasalization. It is combined with tone marks.
+The understrike (optionally a low macron) indicates the Lisu "A glide", a contraction of [ɑ̂] without an intervening glottal stop. The tone is not always falling, depending on the environment, but is written ⟨ˍ⟩ regardless.
+Unicode
+The Fraser script was added to the Unicode Standard in October, 2009 with the release of version 5.2.
+The Unicode block for the Fraser script, called 'Lisu', is U+A4D0–U+A4FF:
+An additional character, the inverted Y used in the Naxi language, was added to the Unicode Standard in March, 2020 with the release of version 13.0.  It is in the Lisu Supplement block (U+11FB0–U+11FBF):

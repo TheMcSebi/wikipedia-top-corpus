@@ -1,0 +1,46 @@
+Neyman–Pearson lemma
+In statistics, the Neyman–Pearson lemma was introduced by Jerzy Neyman and Egon Pearson in a paper in 1933. The Neyman-Pearson lemma is part of the Neyman-Pearson theory of statistical testing, which introduced concepts like errors of the second kind, power function, and inductive behavior. The previous Fisherian theory of significance testing postulated only one hypothesis. By introducing a competing hypothesis, the Neyman-Pearsonian flavor of statistical testing allows investigating the two types of errors. The trivial cases where one always rejects or accepts the null hypothesis are of little interest but it does prove that one must not relinquish control over one type of error while calibrating the other. Neyman and Pearson accordingly proceeded to restrict their attention to the class of all $MATH$ level tests while subsequently minimizing type II error, traditionally denoted by $MATH$. Their seminal paper of 1933, including the Neyman-Pearson lemma, comes at the end of this endeavor, not only showing the existence of tests with the most power that retain a prespecified level of type I error ($MATH$), but also providing a way to construct such tests. The Karlin-Rubin theorem extends the Neyman-Pearson lemma to settings involving composite hypotheses with monotone likelihood ratios.
+Statement
+Consider a test with hypotheses $MATH$ and $MATH$, where the probability density function (or probability mass function) is $MATH$ for $MATH$.
+For any hypothesis test with rejection set $MATH$, and any $MATH$, we say that it satisfies condition $MATH$ if
+For any $MATH$, let the set of level $MATH$ tests be the set of all hypothesis tests with size at most $MATH$. That is, letting its rejection set be $MATH$, we have $MATH$.
+Neyman-Pearson lemma — Existence:
+If a hypothesis test satisfies $MATH$ condition, then it is a uniformly most powerful (UMP) test in the set of level $MATH$ tests.
+Uniqueness:
+If there exists a hypothesis test $MATH$ that satisfies $MATH$ condition, with $MATH$ , then every UMP test $MATH$ in the set of level $MATH$ tests satisfies $MATH$ condition with the same $MATH$. 
+Further, the $MATH$ test and the $MATH$ test agree with probability $MATH$ whether $MATH$ or $MATH$.
+In practice, the likelihood ratio is often used directly to construct tests — see likelihood-ratio test. However it can also be used to suggest particular test-statistics that might be of interest or to suggest simplified tests — for this, one considers algebraic manipulation of the ratio to see if there are key statistics in it related to the size of the ratio (i.e. whether a large statistic corresponds to a small ratio or to a large one).
+Given any hypothesis test with rejection set $MATH$, define its statistical power function $MATH$.
+Existence:
+Given some hypothesis test that satisfies $MATH$ condition, call its rejection region $MATH$ (where NP stands for Neyman-Pearson).
+For any level $MATH$ hypothesis test with rejection region $MATH$ we have
+$MATH$ except on some ignorable set $MATH$.
+Then integrate it over $MATH$ to obtain
+$MATH$.
+Since $MATH$ and $MATH$, we find that $MATH$.
+Thus the $MATH$ rejection test is a UMP test in the set of level $MATH$ tests.
+Uniqueness:
+For any other UMP level $MATH$ test, with rejection region $MATH$, we have from Existence part,
+$MATH$. 
+Since the $MATH$ test is UMP, the left side must be zero. Since $MATH$ the right side gives
+$MATH$, so the $MATH$ test has size $MATH$.
+Since the integrand $MATH$ is nonnegative, and integrates to zero, it must be exactly zero except on some ignorable set $MATH$.
+Since the $MATH$ test satisfies $MATH$ condition, let the ignorable set in the definition of $MATH$ condition be $MATH$.
+$MATH$ is ignorable, since for all $MATH$, we have $MATH$. 
+Similarly, $MATH$ is ignorable. 
+Define $MATH$ (where $MATH$ means symmetric difference). It is the union of three ignorable sets, thus it is an ignorable set. 
+Then we have
+$MATH$ and $MATH$. So the $MATH$ rejection test satisfies $MATH$ condition with the same $MATH$.
+Since $MATH$ is ignorable, its subset $MATH$ is also ignorable. Consequently, the two tests agree with probability $MATH$ whether $MATH$ or $MATH$.
+Example
+Let $MATH$ be a random sample from the $MATH$ distribution where the mean $MATH$ is known, and suppose that we wish to test for $MATH$ against $MATH$. The likelihood for this set of normally distributed data is
+We can compute the likelihood ratio to find the key statistic in this test and its effect on the test's outcome:
+This ratio only depends on the data through $MATH$. Therefore, by the Neyman–Pearson lemma, the most powerful test of this type of hypothesis for this data will depend only on $MATH$. Also, by inspection, we can see that if $MATH$, then $MATH$ is a decreasing function of $MATH$. So we should reject $MATH$ if $MATH$ is sufficiently large. The rejection threshold depends on the size  of the test. In this example, the test statistic can be shown to be a scaled Chi-square distributed random variable and an exact critical value can be obtained.
+Application in economics
+A variant of the Neyman–Pearson lemma has found an application in the seemingly unrelated domain of the economics of land value. One of the fundamental problems in consumer theory is calculating the demand function of the consumer given the prices. In particular, given a heterogeneous land-estate, a price measure over the land, and a subjective utility measure over the land, the consumer's problem is to calculate the best land parcel that they can buy – i.e. the land parcel with the largest utility, whose price is at most their budget. It turns out that this problem is very similar to the problem of finding the most powerful statistical test, and so the Neyman–Pearson lemma can be used.
+Uses in electrical engineering
+The Neyman–Pearson lemma is quite useful in electronics engineering, namely in the design and use of radar systems, digital communication systems, and in signal processing systems. 
+In radar systems, the Neyman–Pearson lemma is used in first setting the rate of missed detections to a desired (low) level, and then minimizing the rate of false alarms, or vice versa.
+Neither false alarms nor missed detections can be set at arbitrarily low rates, including zero. All of the above goes also for many systems in signal processing.
+Uses in particle physics
+The Neyman–Pearson lemma is applied to the construction of analysis-specific likelihood-ratios, used to e.g. test for signatures of new physics against the nominal Standard Model prediction in proton-proton collision datasets collected at the LHC.

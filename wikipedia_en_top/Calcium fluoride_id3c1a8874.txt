@@ -1,0 +1,18 @@
+Calcium fluoride
+Calcium fluoride is the inorganic compound of the elements calcium and fluorine with the formula CaF2. It is a white insoluble solid. It occurs as the mineral fluorite (also called fluorspar), which is often deeply coloured owing to impurities.
+Chemical structure
+The compound crystallizes in a cubic motif called the fluorite structure.
+Ca2+ centres are eight-coordinate, being centered in a cube of eight F− centres. Each F− centre is coordinated to four Ca2+ centres in the shape of a tetrahedron. Although perfectly packed crystalline samples are colorless, the mineral is often deeply colored due to the presence of F-centers.
+The same crystal structure is found in numerous ionic compounds with formula AB2, such as CeO2, cubic ZrO2, UO2, ThO2, and PuO2. In the corresponding anti-structure, called the antifluorite structure, anions and cations are swapped, such as Be2C.
+Gas phase
+The gas phase is noteworthy for failing the predictions of VSEPR theory; the CaF2 molecule is not linear like MgF2, but bent with a bond angle of approximately 145°; the strontium and barium dihalides also have a bent geometry. It has been proposed that this is due to the fluoride ligands interacting with the electron core or the d-subshell of the calcium atom.
+Preparation
+The mineral fluorite is abundant, widespread, and mainly of interest as a precursor to HF. Thus, little motivation exists for the industrial production of CaF2. High purity CaF2 is produced by treating calcium carbonate with hydrofluoric acid:
+Applications
+Naturally occurring CaF2 is the principal source of hydrogen fluoride, a commodity chemical used to produce a wide range of materials.
+Calcium fluoride in the fluorite state is of significant commercial importance as a fluoride source. Hydrogen fluoride is liberated from the mineral by the action of concentrated sulfuric acid:
+Others
+Calcium fluoride is used to manufacture optical components such as windows and lenses, used in thermal imaging systems, spectroscopy, telescopes, and excimer lasers (used for photolithography in the form of a fused lense). It is transparent over a broad range from ultraviolet (UV) to infrared (IR) frequencies. Its low refractive index reduces the need for anti-reflection coatings. Its insolubility in water is convenient as well. It also allows much smaller wavelengths to pass through.
+Doped calcium fluoride, like natural fluorite, exhibits thermoluminescence and is used in thermoluminescent dosimeters. It forms when fluorine combines with calcium.
+Safety
+CaF2 is classified as "not dangerous", although reacting it with sulfuric acid produces very toxic hydrofluoric acid. With regards to inhalation, the NIOSH-recommended concentration of fluorine-containing dusts is 2.5 mg/m3 in air.

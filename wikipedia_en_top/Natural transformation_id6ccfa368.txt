@@ -1,0 +1,108 @@
+Natural transformation
+In category theory, a branch of mathematics, a natural transformation provides a way of transforming one functor into another while respecting the internal structure (i.e., the composition of morphisms) of the categories involved. Hence, a natural transformation can be considered to be a "morphism of functors". Informally, the notion of a natural transformation states that a particular map between functors can be done consistently over an entire category.
+Indeed, this intuition can be formalized to define so-called functor categories. Natural transformations are, after categories and functors, one of the most fundamental notions of category theory and consequently appear in the majority of its applications.
+Definition
+If $MATH$ and $MATH$ are functors between the categories $MATH$ and $MATH$, then a natural transformation $MATH$ from $MATH$ to $MATH$ is a family of morphisms that satisfies two requirements.
+The last equation can conveniently be expressed by the commutative diagram
+If both $MATH$ and $MATH$ are contravariant, the vertical arrows in the right diagram are reversed. If $MATH$ is a natural transformation from $MATH$ to $MATH$, we also write $MATH$ or $MATH$. This is also expressed by saying the family of morphisms $MATH$ is natural in $MATH$.
+If, for every object $MATH$ in $MATH$, the morphism $MATH$ is an isomorphism in $MATH$, then $MATH$ is said to be a natural isomorphism (or sometimes natural equivalence or isomorphism of functors). Two functors $MATH$ and $MATH$ are called naturally isomorphic or simply isomorphic if there exists a natural isomorphism from $MATH$ to $MATH$.
+An infranatural transformation $MATH$ from $MATH$ to $MATH$ is simply a family of morphisms $MATH$, for all $MATH$ in $MATH$. Thus a natural transformation is an infranatural transformation for which $MATH$ for every morphism $MATH$.  The naturalizer of $MATH$, nat$MATH$, is the largest subcategory of $MATH$ containing all the objects of $MATH$ on which $MATH$ restricts to a natural transformation.
+Examples
+Opposite group
+Statements such as
+abound in modern mathematics. We will now give the precise meaning of this statement as well as its proof. Consider the category 
+$MATH$ of all groups with group homomorphisms as morphisms. If $MATH$ is a group, we define 
+its opposite group $MATH$ as follows: $MATH$ is the same set as $MATH$, and the operation $MATH$ is defined 
+by $MATH$. All multiplications in $MATH$ are thus "turned around". Forming the opposite group becomes 
+a (covariant) functor from $MATH$ to $MATH$ if we define $MATH$ for any group homomorphism $MATH$. Note that 
+$MATH$ is indeed a group homomorphism from $MATH$ to $MATH$:
+The content of the above statement is:
+To prove this, we need to provide isomorphisms $MATH$ for every group $MATH$, such that the above diagram commutes. 
+Set $MATH$.
+The formulas $MATH$ and $MATH$
+show that $MATH$ is a group homomorphism with inverse $MATH$. To prove the naturality, we start with a group homomorphism 
+$MATH$ and show $MATH$, i.e. 
+$MATH$ for all $MATH$ in $MATH$. This is true since 
+$MATH$ and every group homomorphism has the property $MATH$.
+Abelianization
+Given a group $MATH$, we can define its abelianization $MATH$ $MATH$.  Let 
+$MATH$ denote the projection map onto the cosets of $MATH$. This homomorphism is "natural in 
+$MATH$", i.e., it defines a natural transformation,  which we now check.  Let $MATH$ be a group.  For any homomorphism $MATH$, we have that 
+$MATH$ is contained in the kernel of $MATH$, because any homomorphism into an abelian group kills the commutator subgroup.  Then 
+$MATH$ factors through $MATH$ as $MATH$ for the unique homomorphism 
+$MATH$.  This makes $MATH$ a functor and 
+$MATH$ a natural transformation, but not a natural isomorphism, from the identity functor to $MATH$.
+Hurewicz homomorphism
+Functors and natural transformations abound in algebraic topology, with the Hurewicz homomorphisms serving as examples.  For any pointed topological space $MATH$ and positive integer $MATH$ there exists a group homomorphism
+from the $MATH$-th homotopy group of $MATH$ to the $MATH$-th homology group of $MATH$.  Both $MATH$ and $MATH$ are functors from the category Top* of pointed topological spaces to the category Grp of groups, and $MATH$ is a natural transformation from  $MATH$ to $MATH$.
+Determinant
+Given commutative rings $MATH$ and $MATH$ with a ring homomorphism $MATH$, the respective groups of invertible $MATH$ matrices $MATH$ and $MATH$ inherit a homomorphism which we denote by $MATH$, obtained by applying $MATH$ 
+to each matrix entry. Similarly, $MATH$ restricts to a group homomorphism $MATH$, where $MATH$ denotes the group of units of $MATH$. In fact, $MATH$ and $MATH$ are functors from the category of commutative rings $MATH$ to $MATH$. 
+The determinant on the group $MATH$, denoted by $MATH$, is a group homomorphism 
+which is natural in $MATH$: because the determinant is defined by the same formula for every ring, $MATH$ holds. This makes the determinant a natural transformation from $MATH$ to $MATH$.
+Double dual of a vector space
+If $MATH$ is a field, then for every vector space $MATH$ over $MATH$ we have a "natural" injective linear map $MATH$ from the vector space into its double dual. These maps are "natural" in the following sense: the double dual operation is a functor, and the maps are the components of a natural transformation from the identity functor to the double dual functor.
+Finite calculus
+For every abelian group $MATH$, the set $MATH$ of functions from the integers to the underlying set of $MATH$ 
+forms an abelian group $MATH$ under pointwise addition. (Here $MATH$ is the standard forgetful functor $MATH$.) 
+Given an $MATH$ morphism $MATH$, the map $MATH$ given by left composing $MATH$ with the elements of the former is itself a homomorphism of abelian groups; in this way we 
+obtain a functor $MATH$. The finite difference operator $MATH$ taking each function 
+$MATH$ to $MATH$ is a map from $MATH$ to itself, and the collection $MATH$ of such maps gives a natural transformation $MATH$.
+Tensor-hom adjunction
+Consider the category $MATH$ of abelian groups and group homomorphisms. For all abelian groups $MATH$, $MATH$ and $MATH$ we have a group isomorphism
+These isomorphisms are "natural" in the sense that they define a natural transformation between the two involved functors $MATH$.
+(Here "op" is the opposite category of $MATH$, not to be confused with the trivial opposite group functor on $MATH$ !)
+This is formally the tensor-hom adjunction, and is an archetypal example of a pair of adjoint functors. Natural transformations arise frequently in conjunction with adjoint functors, and indeed, adjoint functors are defined by a certain natural isomorphism. Additionally, every pair of adjoint functors comes equipped with two natural transformations (generally not isomorphisms) called the unit and counit.
+Unnatural isomorphism
+The notion of a natural transformation is categorical, and states (informally) that a particular map between functors can be done consistently over an entire category. Informally, a particular map (esp. an isomorphism) between individual objects (not entire categories) is referred to as a "natural isomorphism", meaning implicitly that it is actually defined on the entire category, and defines a natural transformation of functors; formalizing this intuition was a motivating factor in the development of category theory. Conversely, a particular map between particular objects may be called an unnatural isomorphism (or "this isomorphism is not natural") if the map cannot be extended to a natural transformation on the entire category. Given an object $MATH$ a functor $MATH$ (taking for simplicity the first functor to be the identity) and an isomorphism $MATH$ proof of unnaturality is most easily shown by giving an automorphism $MATH$ that does not commute with this isomorphism (so $MATH$). More strongly, if one wishes to prove that $MATH$ and $MATH$ are not naturally isomorphic, without reference to a particular isomorphism, this requires showing that for any isomorphism $MATH$, there is some $MATH$ with which it does not commute; in some cases a single automorphism $MATH$ works for all candidate isomorphisms $MATH$ while in other cases one must show how to construct a different $MATH$ for each isomorphism. The maps of the category play a crucial role – any infranatural transform is natural if the only maps are the identity map, for instance.
+This is similar (but more categorical) to concepts in group theory or module theory, where a given decomposition of an object into a direct sum is "not natural", or rather "not unique", as automorphisms exist that do not preserve the direct sum decomposition – see Structure theorem for finitely generated modules over a principal ideal domain § Uniqueness for example.
+Some authors distinguish notationally, using $MATH$ for a natural isomorphism and $MATH$ for an unnatural isomorphism, reserving $MATH$ for equality (usually equality of maps).
+Example: fundamental group of torus
+As an example of the distinction between the functorial statement and individual objects, consider homotopy groups of a product space, specifically the fundamental group of the torus.
+The homotopy groups of a product space are naturally the product of the homotopy groups of the components, $MATH$ with the isomorphism given by projection onto the two factors, fundamentally because maps into a product space are exactly products of maps into the components – this is a functorial statement.
+However, the torus (which is abstractly a product of two circles) has fundamental group isomorphic to $MATH$, but the splitting $MATH$ is not natural. Note the use of $MATH$, $MATH$, and $MATH$:
+This abstract isomorphism with a product is not natural, as some isomorphisms of $MATH$ do not preserve the product: the self-homeomorphism of $MATH$ (thought of as the quotient space $MATH$) given by $MATH$ (geometrically a Dehn twist about one of the generating curves) acts as this matrix on $MATH$ (it's in the general linear group $MATH$ of invertible integer matrices), which does not preserve the decomposition as a product because it is not diagonal. However, if one is given the torus as a product $MATH$ – equivalently, given a decomposition of the space – then the splitting of the group follows from the general statement earlier. In categorical terms, the relevant category (preserving the structure of a product space) is "maps of product spaces, namely a pair of maps between the respective components".
+Naturality is a categorical notion, and requires being very precise about exactly what data is given – the torus as a space that happens to be a product (in the category of spaces and continuous maps) is different from the torus presented as a product (in the category of products of two spaces and continuous maps between the respective components).
+Example: dual of a finite-dimensional vector space
+Every finite-dimensional vector space is isomorphic to its dual space, but there may be many different isomorphisms between the two spaces. There is in general no natural isomorphism between a finite-dimensional vector space and its dual space. However, related categories (with additional structure and restrictions on the maps) do have a natural isomorphism, as described below.
+The dual space of a finite-dimensional vector space is again a finite-dimensional vector space of the same dimension, and these are thus isomorphic, since dimension is the only invariant of finite-dimensional vector spaces over a given field. However, in the absence of additional constraints (such as a requirement that maps preserve the chosen basis), the map from a space to its dual is not unique, and thus such an isomorphism requires a choice, and is "not natural". On the category of finite-dimensional vector spaces and linear maps, one can define an infranatural isomorphism from vector spaces to their dual by choosing an isomorphism for each space (say, by choosing a basis for every vector space and taking the corresponding isomorphism), but this will not define a natural transformation. Intuitively this is because it required a choice, rigorously because any such choice of isomorphisms will not commute with, say, the zero map; see (Mac Lane & Birkhoff 1999, §VI.4) for detailed discussion.
+Starting from finite-dimensional vector spaces (as objects) and the identity and dual functors, one can define a natural isomorphism, but this requires first adding additional structure, then restricting the maps from "all linear maps" to "linear maps that respect this structure". Explicitly, for each vector space, require that it comes with the data of an isomorphism to its dual, $MATH$. In other words, take as objects vector spaces with a nondegenerate bilinear form $MATH$. This defines an infranatural isomorphism (isomorphism for each object). One then restricts the maps to only those maps $MATH$ that commute with the isomorphisms: $MATH$ or in other words, preserve the bilinear form: $MATH$. (These maps define the naturalizer of the isomorphisms.) The resulting category, with objects finite-dimensional vector spaces with a nondegenerate bilinear form, and maps linear transforms that respect the bilinear form, by construction has a natural isomorphism from the identity to the dual (each space has an isomorphism to its dual, and the maps in the category are required to commute). Viewed in this light, this construction (add transforms for each object, restrict maps to commute with these) is completely general, and does not depend on any particular properties of vector spaces.
+In this category (finite-dimensional vector spaces with a nondegenerate bilinear form, maps linear transforms that respect the bilinear form), the dual of a map between vector spaces can be identified as a transpose. Often for reasons of geometric interest this is specialized to a subcategory, by requiring that the nondegenerate bilinear forms have additional properties, such as being symmetric (orthogonal matrices), symmetric and positive definite (inner product space), symmetric sesquilinear (Hermitian spaces), skew-symmetric and totally isotropic (symplectic vector space), etc. – in all these categories a vector space is naturally identified with its dual, by the nondegenerate bilinear form.
+Operations with natural transformations
+Vertical composition
+If $MATH$ and $MATH$ are natural transformations between functors $MATH$, then we can compose them to get a natural transformation $MATH$. 
+This is done componentwise:
+This vertical composition of natural transformations is associative and has an identity, and allows one to consider the collection of all functors $MATH$ itself as a category (see below under Functor categories).
+The identity natural transformation $MATH$ on functor $MATH$ has components $MATH$.
+Horizontal composition
+If $MATH$ is a natural transformation between functors $MATH$ and $MATH$ is a natural transformation between functors $MATH$, then the composition of functors allows a composition of natural transformations $MATH$ with components
+By using whiskering (see below), we can write
+hence
+This horizontal composition of natural transformations is also associative with identity.
+This identity is the identity natural transformation on the identity functor, i.e., the natural transformation that associate to each object its identity morphism: for object $MATH$ in category $MATH$, $MATH$.
+As identity functors $MATH$ and $MATH$ are functors, the identity for horizontal composition is also the identity for vertical composition, but not vice versa.
+Whiskering
+Whiskering is an external binary operation between a functor and a natural transformation.
+If $MATH$ is a natural transformation between functors $MATH$, and $MATH$ is another functor, then we can form the natural transformation $MATH$ by defining
+If on the other hand $MATH$ is a functor, the natural transformation $MATH$ is defined by
+It's also an horizontal composition where one of the natural transformations is the identity natural transformation:
+Note that $MATH$ (resp. $MATH$) is generally not the left (resp. right) identity of horizontal composition $MATH$ ($MATH$ and $MATH$ in general), except if $MATH$ (resp. $MATH$) is the identity functor of the category $MATH$ (resp. $MATH$).
+Interchange law
+The two operations are related by an identity which exchanges vertical composition with horizontal composition: if we have four natural transformations $MATH$ as shown on the image to the right, then the following identity holds:
+Vertical and horizontal compositions are also linked through identity natural transformations:
+As whiskering is horizontal composition with an identity, the interchange law gives immediately the compact formulas of horizontal composition of $MATH$ and $MATH$ without having to analyze components and the commutative diagram:
+Functor categories
+If $MATH$ is any category and $MATH$ is a small category, we can form the functor category $MATH$ having as objects all functors from $MATH$ to $MATH$ and as morphisms the natural transformations between those functors. This forms a category since for any functor $MATH$ there is an identity natural transformation $MATH$ (which assigns to every object $MATH$ the identity morphism on $MATH$) and the composition of two natural transformations (the "vertical composition" above) is again a natural transformation.
+The isomorphisms in $MATH$ are precisely the natural isomorphisms. That is, a natural transformation $MATH$ is a natural isomorphism if and only if there exists a natural transformation $MATH$ such that $MATH$ and $MATH$.
+The functor category $MATH$ is especially useful if $MATH$ arises from a directed graph. For instance, if $MATH$ is the category of the directed graph • → •, then $MATH$ has as objects the morphisms of $MATH$, and a morphism between $MATH$ and $MATH$ in $MATH$ is a pair of morphisms $MATH$ and $MATH$ in $MATH$ such that the "square commutes", i.e. $MATH$.
+More generally, one can build the 2-category $MATH$ whose
+The horizontal and vertical compositions are the compositions between natural transformations described previously. A functor category $MATH$ is then simply a hom-category in this category (smallness issues aside).
+More examples
+Every limit and colimit provides an example for a simple natural transformation, as a cone amounts to a natural transformation with the diagonal functor as domain.  Indeed, if limits and colimits are defined directly in terms of their universal property, they are universal morphisms in a functor category.
+Yoneda lemma
+If $MATH$ is an object of a locally small category $MATH$, then the assignment $MATH$ defines a covariant functor $MATH$. This functor is called representable (more generally, a representable functor is any functor naturally isomorphic to this functor for an appropriate choice of $MATH$). The natural transformations from a representable functor to an arbitrary functor $MATH$ are completely known and easy to describe; this is the content of the Yoneda lemma.
+Historical notes
+Saunders Mac Lane, one of the founders of category theory, is said to have remarked, "I didn't invent categories to study functors; I invented them to study natural transformations." Just as the study of groups is not complete without a study of homomorphisms, so the study of categories is not complete without the study of functors. The reason for Mac Lane's comment is that the study of functors is itself not complete without the study of natural transformations.
+The context of Mac Lane's remark was the axiomatic theory of homology. Different ways of constructing homology could be shown to coincide: for example in the case of a simplicial complex the groups defined directly would be isomorphic to those of the singular theory.  What cannot easily be expressed without the language of natural transformations is how homology groups are compatible with morphisms between objects, and how two equivalent homology theories not only have the same homology groups, but also the same morphisms between those groups.
+See also
+Notes

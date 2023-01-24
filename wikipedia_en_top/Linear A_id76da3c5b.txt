@@ -1,0 +1,75 @@
+Linear A
+Linear A is a writing system that was used by the Minoans of Crete from 1800 to 1450 BC to write the hypothesized Minoan language or languages. Linear A was the primary script used in palace and religious writings of the Minoan civilization. It was succeeded by Linear B, which was used by the Mycenaeans to write an early form of Greek.  It was discovered by archaeologist Sir Arthur Evans. No texts in Linear A have yet been deciphered.
+
+
+The term linear refers to the fact that the script was written using a stylus to cut lines into a tablet of clay, as opposed to cuneiform, which was written by using a stylus to press wedges into the clay. 
+Linear A belongs to the group of scripts that evolved independently of the Egyptian and Mesopotamian systems. During the second millennium BC, there were four major branches: Linear A, Linear B, Cypro-Minoan, and Cretan hieroglyphic. In the 1950s, Linear B was deciphered as Mycenaean Greek. Linear B shares many symbols with Linear A, and they may notate similar syllabic values, but neither those nor any other proposed readings lead to a language that scholars can read. The only part of the script that can be read with any certainty is the signs for numbers – which are, however, only known as numerical values; the words for those numbers remain unknown.
+Script
+Most hypotheses about the Linear A script and Minoan language start with Linear B.
+Linear A has hundreds of signs, believed to represent syllabic, ideographic, and semantic values in a manner similar to Linear B. While many of those assumed to be syllabic signs are similar to ones in Linear B, approximately 80% of Linear A's logograms are unique; the difference in sound values between Linear A and Linear B signs ranges from 9% to 13%. It primarily appears in the left-to-right direction, but occasionally appears as a right-to-left or boustrophedon script.
+Linear A signs may be divided into four categories:
+Numbers
+Numbers follow a decimal system: units are represented by vertical dashes, tens by horizontal dashes, hundreds by circles, and thousands by circles with rays. There are special symbols to indicate fractions and weights. Specific signs that coincide with numerals are regarded as fractions; these sign combinations are known as klasmatograms. 
+Integers can be read and the operations of addition, subtraction, multiplication, and division are quite straightforward, similarly to Roman numerals.
+Fractions
+There is a lack of scholarly agreement on fractions. Corazza et al. (2020) proposed the following values, most of which had been previously proposed:
+Other fractions are composed by addition: the common 𐝕 JE and 𐝓 DD are 3⁄4 and 1⁄3 (2⁄6), 𐝒 BB = 2⁄5, EF = 3⁄8, etc. (and indeed B 1⁄5 looks like it might derive from KK 2⁄10). Corazza et al. (2020) propose that the hapax legomenon, glyph L 𐝈, is spurious.
+Several of these values are supported by Linear B. Although Linear B used a different numbering system, several of the Linear A fractions were adopted as fractional units of measurement. For example, Linear B 𐝓 DD and 𐝎 (presumably AA) are 1⁄3 and 1⁄12 of a lana, while 𐝇 K is 1⁄10 of the main unit for dry weight.
+Corpus
+Linear A has been unearthed chiefly on Crete, but also at other sites in Greece, as well as Turkey and Israel. The extant corpus, comprising some 1,427 specimens totalling 7,362 to 7,396 signs, if scaled to standard type, would fit easily on two sheets of paper. Linear A has been written on various media, such as stone offering tables and vessels, gold and silver hairpins, roundels, and ceramics. A number of the inscriptions, primarily on tables and vessels, contain a "libation formula" which has been much studied. A similar construct in Cretan Hieroglyphics, the "Archanes Formula", is the main proposed link to Linear A. The earliest inscriptions of Linear A come from Phaistos, in a layer dated at the end of the Middle Minoan II period: that is, no later than c. 1700 BC. Linear A texts have been found throughout the island of Crete and also on some Aegean islands (Kythera, Kea, Thera, Melos), in mainland Greece (Ayos Stephanos), on the west coast of Asia Minor (Miletus, Troy), and in the Levant (Tel Haror).
+Crete
+The main discoveries of Linear A tablets, many fragmentary, have been at Hagia Triada, Zakros, and Khania on Crete:
+Inscriptions have been discovered at the following locations on Crete:
+Outside Crete
+Until 1973, only one Linear A tablet had been found outside Crete (on Kea). Since then, other locations have yielded inscriptions.
+Most—if not all—inscriptions found outside Crete appear to have been made locally, as indicated by the composition of the substrate and other indications. Also, close analysis of the inscriptions found outside Crete indicates the use of a script that is somewhere between Linear A and Linear B, combining elements from both.
+Other Greek islands
+Mainland Greece
+Anatolian Mainland
+A Linear A inscription was said to have been found in southeast Bulgaria. Another, somewhat more solid, find was at Tel Lachish. A Minoan graffito found at Tel Haror on a vessel fragment is either Linear A or Cretan hieroglyphs.
+Chronology
+The earliest attestation of Linear A begins around 1800 BC (Middle Minoan IB). It became prominent around 1625 BC (Middle Minoan IIIB) and went out of use around 1450 BC (Late Minoan I).  It was contemporary with and possibly derived from Cretan hieroglyphs, and may be an ancestor of Linear B. The sequence and the geographical spread of Cretan hieroglyphs, Linear A, and Linear B, the three overlapping but distinct writing systems on Bronze Age Crete and the Greek mainland, can be summarized as follows:
+Discovery
+Archaeologist Arthur Evans named the script "Linear" because its characters consisted simply of lines inscribed in clay, in contrast to the more pictographic characters in Cretan hieroglyphs that were used during the same period.
+Several tablets inscribed in signs similar to Linear A were found in the Troad in northwestern Anatolia. While their status is disputed, they may be imports, as there is no evidence of Minoan presence in the Troad. Classification of these signs as a unique Trojan script (proposed by contemporary Russian linguist Nikolai Kazansky) is not accepted by other linguists.
+Comparison of Linear A and Linear B
+In 1945, E. Pugliese Carratelli first introduced the classification of Linear A and Linear B parallels. However, in 1961, W. C. Brice modified the Pugliese Carratelli system that was based on a wider range of Linear A sources, but Brice did not suggest Linear B equivalents to the Linear A signs. Louis Godart and Jean-Pierre Olivier introduced in the 1985 Recueil des inscriptions en linéaire A (GORILA), based on E.L Bennett's standard numeration of the signs of Linear B, introduced a joint numeration of the Linear A and B signs.
+Phonetic
+The majority of signs in the Linear A script appear to have graphical equivalents in the Linear B syllabary. Comparison of the Hagia Triada tablets HT 95 and HT 86 shows that they contain identical lists of words and some kind of phonetic alteration. Scholars who approached Linear A with the phonetic values of Linear B produced a series of identical words. The Linear B–Linear A parallels: ku-ku-da-ra, pa-i-to, ku-mi-na, di-de-ro →di-de-ru, qa-qa-ro→qa-qa-ru, a-ra-na-ro→a-ra-na-re. Though identical, some of these words, such as ka-pa, are used in much different ways.
+Theories regarding the language
+It is difficult to evaluate a given analysis of Linear A as there is little point of reference for reading its inscriptions. The simplest approach to decipherment may be to presume that the values of Linear A match more or less the values given to the deciphered Linear B script, used for Mycenaean Greek.
+Greek
+In 1957, Bulgarian scholar Vladimir I. Georgiev published his Le déchiffrement des inscriptions crétoises en linéaire A ("The decipherment of Cretan inscriptions in Linear A") stating that Linear A contains Greek linguistic elements. Georgiev then published another work in 1963, titled Les deux langues des inscriptions crétoises en linéaire A ("The two languages of Cretan inscriptions in Linear A"), suggesting that the language of the Hagia Triada tablets was Greek but that the rest of the Linear A corpus was in Hittite-Luwian. In December 1963, Gregory Nagy of Harvard University developed a list of Linear A and Linear B terms based on the assumption "that signs of identical or similar shape in the two scripts will represent similar or identical phonetic values"; Nagy concluded that the language of Linear A bears "Greek-like" and Indo-European elements. Michael Ventris' decipherment of Linear B in 1952 suggests an old form of Greek: it is derived from Linear A. Therefore, we can assume that the signs related to the Linear A express the same value as the Linear B. In all Linear B values for related words give a large number of identical forms or identical root forms, but alternate with the final vowel, or almost identical forms among linear texts, mainly those of Hagia Triada.
+
+
+Extracting conclusions or arguments from a simple morphology can hardly be considered methodologically satisfactory. Yves Duhoux in the "Linear A as Greek" discussion at AEGEANET in March 1998:
+Anatolian languages
+Since the late 1950s, some scholars have suggested that the Linear A language could be an Anatolian language.
+Luwian
+Palmer (1958) put forward a theory, based on Linear B phonetic values, suggesting that Linear A language could be related closely to Luwian. The theory, however, failed to gain universal support for the following reasons:
+There are recent works focused on the Luwian connection, not in terms of the Minoan language being Anatolian, but rather in terms of possible borrowings from Luwian, including the origin of the writing system itself. It has been suggested that "Hittite and Luwian cognates often reappear in Linear A".
+Lycian
+In an article from 2001, Margalit Finkelberg, Professor of Classics emerita at Tel Aviv University, suggested a "high degree of correspondence between the phonological and morphological system of Minoan and that of Lycian" and proposed that "the language of Linear A is either the direct ancestor of Lycian or a closely related idiom."
+Semitic languages
+Cyrus H. Gordon, having earlier pointed out that some Linear A words had Semitic roots, first proposed in 1966–1969 that the texts contained Semitic vocabulary that was based on the lexical items such as kull-, meaning 'all' (Akkadian kalu, kullatu, Hebrew kol). Gordon uses morphological evidence to suggest that u- serves as a prefix in Linear A like Semitic copula u-. However, Gordon's copula u- is based on an incomplete word, and even if some of Gordon's identifications were true, a complete case for a Semitic language has not yet been built.
+Phoenician
+In 2001, the journal Ugarit-Forschungen published the article "The First Inscription in Punic—Vowel Differences in Linear A and B" by Jan Best, claiming to demonstrate how and why Linear A notates an archaic form of Phoenician. This was a continuation of attempts by Cyrus Gordon in finding connections between Minoan and West Semitic languages.
+Indo-Iranian
+Another recent interpretation, based on the frequencies of the syllabic signs and on complete palaeographic comparative studies, suggests that the Minoan Linear A language belongs to the Indo-Iranian family of Indo-European languages. Studies by Hubert La Marle include a presentation of the morphology of the language, avoid the complete identification of phonetic values between Linear A and B, and also avoid comparing Linear A with Cretan hieroglyphs. La Marle uses the frequency counts to identify the type of syllables written in Linear A, and takes into account the problem of loanwords in the vocabulary.
+However, La Marle's interpretation of Linear A has been subject to some criticism; it was rejected by John Younger of the University of Kansas who showed that La Marle had invented at will erroneous and arbitrary new transcriptions, based on resemblances with many different script systems (as Phoenician, Hieroglyphic Egyptian, Hieroglyphic Hittite, Ethiopian, Cypro-Minoan, etc.), ignoring established evidence and internal analysis, while for some words La Marle proposes religious meanings inventing names of gods and rites. La Marle made a rebuttal in "An answer to John G. Younger's remarks on Linear A" in 2010.
+Tyrrhenian
+Italian scholar Giulio M. Facchetti attempted to link Linear A to the Tyrrhenian language family comprising Etruscan, Rhaetic, and Lemnian. This family is reasoned to be a pre-Indo-European Mediterranean substratum of the 2nd millennium BC, sometimes referred to as Pre-Greek. Facchetti proposed some possible similarities between the Etruscan language and ancient Lemnian, and other Aegean languages like Minoan.
+Michael Ventris, who (with John Chadwick) successfully deciphered Linear B, also believed in a link between Minoan and Etruscan. The same perspective is supported by S. Yatsemirsky in Russia and Raymond A. Brown.
+Other languages
+Monti put forward a Hurrian-Urartian hypothesis based on morphematic elements. An Indo-European hypothesis was proposed by Witczak and Zawiasa based on an analysis of the combinatory data, mostly in libation formulas. A decipherment based on Proto-Indo-European has also been proposed.
+Attempts at decipherment of single words
+Some researchers suggest that a few words or word elements may be recognized, without (yet) enabling any conclusion about relationship with other languages. In general, they use analogy with Linear B in order to propose phonetic values of the syllabic sounds. John Younger, in particular, thinks that place names usually appear in certain positions in the texts, and notes that the proposed phonetic values often correspond to known place names as given in Linear B texts (and sometimes to modern Greek names). For example, he proposes that three syllables, read as KE-NI-SO, might be the indigenous form of Knossos. Likewise, in Linear A, MA+RU is suggested to mean wool, and to correspond both to a Linear B pictogram with this meaning, and to the classical Greek word μαλλός with the same meaning (in that case a loan word from Minoan).
+Unicode
+The Linear A alphabet (U+10600–U+1077F) was added to the Unicode Standard in June 2014 with the release of version 7.0.
+See also
+
+
+Notes
+References
+Works cited
+Further reading

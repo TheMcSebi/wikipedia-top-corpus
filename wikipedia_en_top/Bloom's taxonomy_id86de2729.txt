@@ -1,0 +1,33 @@
+Bloom's taxonomy
+Bloom's taxonomy is a set of three hierarchical models used for classification of educational learning objectives into levels of complexity and specificity. The three lists cover the learning objectives in cognitive, affective and psychomotor domains. The cognitive domain list has been the primary focus of most traditional education and is frequently used to structure curriculum learning objectives, assessments and activities.
+The models were named after Benjamin Bloom, who chaired the committee of educators that devised the taxonomy. He also edited the first volume of the standard text, Taxonomy of Educational Objectives: The Classification of Educational Goals.
+History
+The publication of Taxonomy of Educational Objectives followed a series of conferences from 1949 to 1953, which were designed to improve communication between educators on the design of curricula and examinations.
+The first volume of the taxonomy, Handbook I: Cognitive was published in 1956, and in 1964 the second volume Handbook II: Affective was published. A revised version of the taxonomy for the cognitive domain was created in 2001.
+Cognitive domain (knowledge-based)
+In the 1956 original version of the taxonomy, the cognitive domain is broken into the six levels of objectives listed below. In the 2001 revised edition of Bloom's taxonomy, the levels have slightly different names and their order was revised: Remember, Understand, Apply, Analyze, Evaluate, and Create (rather than Synthesize).
+Affective domain (emotion-based)
+Skills in the affective domain describe the way people react emotionally and their ability to feel other living things' pain or joy. Affective objectives typically target the awareness and growth in attitudes, emotion, and feelings.
+There are five levels in the affective domain moving through the lowest-order processes to the highest.
+Psychomotor domain (action-based)
+Skills in the psychomotor domain describe the ability to physically manipulate a tool or instrument like a hand or a hammer. Psychomotor objectives usually focus on change and/or development in behavior and/or skills.
+Bloom and his colleagues never created subcategories for skills in the psychomotor domain, but since then other educators have created their own psychomotor taxonomies. Simpson (1972) proposed a taxonomy of seven levels.
+Definition of knowledge
+In the appendix to Handbook I, there is a definition of knowledge which serves as the apex for an alternative, summary classification of the educational goals. This is significant as the taxonomy has been called upon significantly in other fields such as knowledge management, potentially out of context. "Knowledge, as defined here, involves the recall of specifics and universals, the recall of methods and processes, or the recall of a pattern, structure, or setting."
+The taxonomy is set out as follows:
+Criticism of the taxonomy
+As Morshead (1965) pointed out on the publication of the second volume, the classification was not a properly constructed taxonomy, as it lacked a systematic rationale of construction.
+This was subsequently acknowledged in the discussion of the original taxonomy in its 2001 revision, and the taxonomy was reestablished on more systematic lines.
+Some critiques of the taxonomy's cognitive domain admit the existence of these six categories but question the existence of a sequential, hierarchical link. Often, educators view the taxonomy as a hierarchy and may mistakenly dismiss the lowest levels as unworthy of teaching. The learning of the lower levels enables the building of skills in the higher levels of the taxonomy, and in some fields, the most important skills are in the lower levels (such as identification of species of plants and animals in the field of natural history). Instructional scaffolding of higher-level skills from lower-level skills is an application of Vygotskian constructivism.
+Some consider the three lowest levels as hierarchically ordered, but the three higher levels as parallel. Others say that it is sometimes better to move to application before introducing concepts, the goal being to create a problem-based learning environment where the real world context comes first and the theory second, to promote the student's grasp of the phenomenon, concept, or event.
+The distinction between the categories can be seen as artificial since any given cognitive task may entail a number of processes. It could even be argued that any attempt to nicely categorize cognitive processes into clean, cut-and-dried classifications undermines the holistic, highly connective and interrelated nature of cognition. This is a criticism that can be directed at taxonomies of mental processes in general.
+The taxonomy is widely implemented as a hierarchy of verbs, designed to be used when writing learning outcomes, but a 2020 analysis showed that these verb lists showed no consistency between educational institutions, and thus learning outcomes that were mapped to one level of the hierarchy at one educational institution could be mapped to different levels at another institution.
+Implications
+Bloom's taxonomy serves as the backbone of many teaching philosophies, in particular, those that lean more towards skills rather than content. These educators view content as a vessel for teaching skills. The emphasis on higher-order thinking inherent in such philosophies is based on the top levels of the taxonomy including application, analysis, synthesis, and evaluation. Bloom's taxonomy can be used as a teaching tool to help balance evaluative and assessment-based questions in assignments, texts, and class engagements to ensure that all orders of thinking are exercised in students' learning, including aspects of information searching.
+Connections between disciplines
+Bloom's taxonomy (and the revised taxonomy) continues to be a source of inspiration for educational philosophy and for developing new teaching strategies. The skill development that takes place at higher orders of thinking interacts well with a developing global focus on multiple literacies and modalities in learning and the emerging field of integrated disciplines. The ability to interface with and create media would draw upon skills from both higher order thinking skills (analysis, creation, and evaluation) and lower order thinking skills (knowledge, comprehension, and application).
+Visual interpretations
+Bloom's original taxonomy may not have included verbs or visual representations, but subsequent contributions to the idea have portrayed the ideas visually for researchers, teachers and students.
+See also
+References
+Further reading

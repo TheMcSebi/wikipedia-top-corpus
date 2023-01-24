@@ -1,0 +1,16 @@
+Disproportionation
+In chemistry, disproportionation, sometimes called dismutation, is a redox reaction in which one compound of intermediate oxidation state converts to two compounds, one of higher and one of lower oxidation states.  More generally, the term can be applied to any desymmetrizing reaction of the following type, regardless of whether it is a redox or some other type of process:
+Examples
+Reverse reaction
+The reverse of disproportionation, such as when a compound in an intermediate oxidation state is formed from precursors of lower and higher oxidation states, is called comproportionation, also known as synproportionation.
+History
+The first disproportionation reaction to be studied in detail was:
+This was examined using tartrates by Johan Gadolin in 1788. In the Swedish  version of his paper he called it 'söndring'.
+Further examples
+Polymer chemistry
+In free-radical chain-growth polymerization, chain termination can occur by a disproportionation step in which a hydrogen atom is transferred from one growing chain molecule to another which produces two dead (non-growing) chains.
+Biochemistry
+In 1937, Hans Adolf Krebs, who discovered the citric acid cycle bearing his name, confirmed the anaerobic dismutation of pyruvic acid into lactic acid, acetic acid and CO2 by certain bacteria according to the global reaction:
+The dismutation of pyruvic acid in other small organic molecules (ethanol + CO2, or lactate and acetate, depending on the environmental conditions) is also an important step in fermentation reactions. Fermentation reactions can also be considered as disproportionation or dismutation biochemical reactions. Indeed, the donor and acceptor of electrons in the redox reactions supplying the chemical energy in these complex biochemical systems are the same organic molecules simultaneously acting as reductant or oxidant.
+Another example of biochemical dismutation reaction is the disproportionation of acetaldehyde into ethanol and acetic acid.
+While in respiration electrons are transferred from substrate (electron donor) to an electron acceptor, in fermentation part of the substrate molecule itself accepts the electrons. Fermentation is therefore a type of disproportionation, and does not involve an overall change in oxidation state of the substrate. Most of the fermentative substrates are organic molecules. However, a rare type of fermentation may also involve the disproportionation of inorganic sulfur compounds in certain sulfate-reducing bacteria.

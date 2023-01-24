@@ -1,0 +1,32 @@
+Continuous positive airway pressure
+Continuous positive airway pressure (CPAP) is a form of positive airway pressure (PAP) ventilation in which a constant level of pressure greater than atmospheric pressure is continuously applied to the upper respiratory tract of a person. The application of positive pressure may be intended to prevent upper airway collapse, as occurs in obstructive sleep apnea, or to reduce the work of breathing in conditions such as acute decompensated heart failure. CPAP therapy is highly effective for managing obstructive sleep apnea. Compliance and acceptance of use of CPAP therapy can be a limiting factor, with 8% of people stopping use after the first night and 50% within the first year.
+Medical uses
+Severe to moderate obstructive sleep apnea
+CPAP is the most effective treatment for moderate to severe obstructive sleep apnea, in which the mild pressure from the CPAP prevents the airway from collapsing or becoming blocked. CPAP has been shown to be 100% effective at eliminating obstructive sleep apneas in the majority of people who use the therapy according to the recommendations of their physician. In addition, a meta-analysis showed that CPAP therapy may reduce erectile dysfunction symptoms in male patients with obstructive sleep apnea.
+Upper airway resistance syndrome
+Upper airway resistance syndrome is another form of sleep-disordered breathing with symptoms that are similar to obstructive sleep apnea, but not severe enough to be considered OSA. CPAP can be used to treat UARS as the condition progresses, in order to prevent it from developing into obstructive sleep apnea.
+Pre-term infants
+CPAP also may be used to treat pre-term infants whose lungs are not yet fully developed. For example, physicians may use CPAP in infants with respiratory distress syndrome. It is associated with a decrease in the incidence of bronchopulmonary dysplasia. In some preterm infants whose lungs have not fully developed, CPAP improves survival and decreases the need for steroid treatment for their lungs. In resource-limited settings where CPAP improves respiratory rate and survival in children with primary pulmonary disease, researchers have found that nurses can initiate and manage care with once- or twice-daily physician rounds.
+COVID-19
+In March 2020, the USFDA suggested that CPAP devices may be used to support patients affected by COVID-19; however, they recommended additional filtration since non-invasive ventilation may increase the risk of infectious transmission.
+Other uses
+CPAP also has been suggested for treating acute hypoxaemic respiratory failure in children, however, due to a limited number of clinical studies, the effectiveness and safety of this approach to providing respiratory support is not clear.
+Contraindications
+CPAP cannot be used in the following situations or conditions:
+Adverse effects
+Some people experience difficulty adjusting to CPAP therapy and report general discomfort, nasal congestion, abdominal bloating, sensations of claustrophobia, mask leak problems, and convenience-related complaints. Oral leak problems also interfere with CPAP effectiveness.
+Mechanism
+CPAP therapy uses machines specifically designed to deliver a flow of air at a constant pressure. CPAP machines possess a motor that pressurizes room temperature air and delivers it through a hose connected to a mask or tube worn by the patient. This constant stream of air opens and keeps the upper airway unobstructed during inhalation and exhalation. Some CPAP machines have other features as well, such as heated humidifiers.
+
+
+The therapy is an alternative to positive end-expiratory pressure (PEEP). Both modalities stent open the alveoli in the lungs and thus, recruit more of the lung surface area for ventilation, but, while PEEP refers to devices that impose positive pressure only at the end of the exhalation, CPAP devices apply continuous positive airway pressure throughout the breathing cycle. Thus, the ventilator does not cycle during CPAP, no additional pressure greater than the level of CPAP is provided, and patients must initiate all of their breaths.
+Nasal CPAP
+Nasal prongs or a nasal mask is the most common modality of treatment. Nasal prongs are placed directly in the person's nostrils. A nasal mask is a small mask that covers the nose. There are also nasal pillow masks which have a cushion at the base of the nostrils, and are considered the least invasive option. Frequently, nasal CPAP is used for infants, although this use is controversial. Studies have shown nasal CPAP reduces ventilator time, but an increased occurrence of pneumothorax also was prevalent.
+Nasopharyngeal CPAP
+Nasopharyngeal CPAP is administered by a tube that is placed through the person's nose and ends in the nasopharynx. This tube bypasses the nasal cavity in order to deliver the CPAP farther down in the upper respiratory system.
+Face mask
+A full face mask over the mouth and nose is another approach for people who breathe out of their mouths when they sleep. Often, oral masks and naso-oral masks are used when nasal congestion or obstruction is an issue. Devices that combine nasal pressure with mandibular advancement devices (MAD) also exist. 
+Compliance
+A large portion of people do not adhere to the recommended method of CPAP therapy, with more than 50% of people discontinuing use in the first year. A significant change in behaviour is required in order to commit to long-term use of CPAP therapy and this can be difficult for many people. In addition, people with moderate to severe obstructive sleep apnea have a higher risk of concomitant symptoms such as anxiety and depression, which can make it more difficult to change their sleep habits and to use CPAP on a regular basis. Educational and supportive approaches have been shown to help motivate people who need CPAP therapy to use their devices more often.
+History
+Colin Sullivan, an Australian physician and professor, invented CPAP in 1980 at Royal Prince Alfred Hospital in Sydney.

@@ -1,0 +1,67 @@
+Potassium permanganate
+Potassium permanganate is an inorganic compound with the chemical formula KMnO4. It is a purplish-black crystalline salt, that dissolves in water as K+ and MnO−4, an intensely pink to purple solution.
+Potassium permanganate is widely used in the chemical industry and laboratories as a strong oxidizing agent, and also as a medication for dermatitis, for cleaning wounds, and general disinfection. It is on the World Health Organization's List of Essential Medicines. In 2000, worldwide production was estimated at 30,000 tonnes.
+Properties
+Potassium permanganate is the potassium salt of the tetrahedral transition metal oxo complex permanganate, in which four O2- ligands are bound to a manganese(VII) center.
+Structure
+KMnO4 forms orthorhombic crystals with constants: a = 910.5 pm, b = 572.0 pm, c = 742.5 pm.  The overall motif is similar to that for barium sulfate, with which it forms solid solutions. In the solid (as in solution), each MnO4− centre is tetrahedral. The Mn–O distances are 1.62 Å.
+Color
+The purplish-black color of solid potassium permanganate, and the intensely pink to purple color of its solutions, is caused by its permanganate anion, which gets its color from a strong charge-transfer absorption band caused by excitation of electrons from oxo ligand orbitals to empty orbitals of the manganese(VII) center.
+Uses
+Almost all applications of potassium permanganate exploit its oxidizing properties. As a strong oxidant that does not generate toxic byproducts, KMnO4 has many niche uses.
+Medical uses
+Potassium permanganate is used for a number of skin conditions. This includes fungal infections of the foot, impetigo, pemphigus, superficial wounds, dermatitis, and tropical ulcers. It is on the World Health Organization's List of Essential Medicines.
+Water treatment
+Potassium permanganate is used extensively in the water treatment industry. It is used as a regeneration chemical to remove iron and hydrogen sulfide (rotten egg smell) from well water via a "manganese greensand" filter. "Pot-Perm" is also obtainable at pool supply stores and is used additionally to treat wastewater. Historically it was used to disinfect drinking water and can turn the water pink.  It currently finds application in the control of nuisance organisms such as zebra mussels in fresh water collection and treatment systems.
+Synthesis of organic compounds
+A major application of KMnO4 is as a reagent for the synthesis of organic compounds. Significant amounts are required for the synthesis of ascorbic acid, chloramphenicol, saccharin, isonicotinic acid, and pyrazinoic acid.
+KMnO4 is used in qualitative organic analysis to test for the presence of unsaturation. It is sometimes referred to as Baeyer's reagent after the German organic chemist Adolf von Baeyer .  The reagent is an alkaline solution of potassium permanganate. Reaction with double or triple bonds (-C=C- or -C≡C-) causes the color to fade from purplish-pink to brown. Aldehydes and formic acid (and formates) also give a positive test.  The test is antiquated. 
+KMnO4 solution is a common thin layer chromatography stain for the detection of oxidizable functional groups, such as alcohols, aldehydes, alkenes, and ketones. Such compounds result in a white to orange spot on TLC plates.
+Analytical use
+Potassium permanganate can be used to quantitatively determine the total oxidizable organic material in an aqueous sample. The value determined is known as the permanganate value. In analytical chemistry, a standardized aqueous solution of KMnO4 is sometimes used as an oxidizing titrant for redox titrations (permanganometry). As potassium permanganate is titrated, the solution becomes a light shade of purple, which darkens as excess of the titrant is added to the solution. In a related way, it is used as a reagent to determine the Kappa number of wood pulp. For the standardization of KMnO4 solutions, reduction by oxalic acid is often used. In agricultural chemistry, it is used for estimation of active carbon in soil.
+Aqueous, acidic solutions of KMnO4 are used to collect gaseous mercury in flue gas during stationary source emissions testing.
+In histology, potassium permanganate was used as a bleaching agent.
+Fruit preservation
+Ethylene absorbents extend storage time of bananas even at high temperatures. This effect can be exploited by packing bananas in polyethylene together with potassium permanganate. By removing ethylene by oxidation, the permanganate delays the ripening, increasing the fruit's shelf life up to 4 weeks without the need for refrigeration.
+Survival kits
+Potassium permanganate is sometimes included in survival kits: as a hypergolic fire starter (when mixed with glycerol antifreeze from a car radiator; as a water sterilizer; and for creating distress signals on snow).
+Fire service
+Potassium permanganate is added to "plastic sphere dispensers" to create backfires, burnouts, and controlled burns. Polymer spheres resembling ping-pong balls containing small amounts of permanganate are injected with ethylene glycol and projected towards the area where ignition is desired, where they spontaneously ignite seconds later. Both handheld and helicopter- or boat-mounted plastic sphere dispensers are used.
+Other uses
+Potassium permanganate is one of the principal chemicals used in the film and television industries to "age" props and set dressings. Its ready conversion to brown MnO2 creates "hundred-year-old" or "ancient" looks on hessian cloth (burlap), ropes, timber, and glass.
+Potassium permanganate can be used to oxidize cocaine paste to purify it and increase its stability. This led to the Drug Enforcement Administration launching Operation Purple in 2000, with the goal of monitoring the world supply of potassium permanganate; however, potassium permanganate derivatives and substitutes were soon used thereafter to avoid the operation.
+Potassium permangate used as an oxidizing agent in the synthesis of cocaine and methcathinone.
+History
+In 1659, Johann Rudolf Glauber fused a mixture of the mineral pyrolusite (manganese dioxide, MnO2) and potassium carbonate to obtain a material that, when dissolved in water, gave a green solution (potassium manganate) which slowly shifted to violet and then finally red. The reaction that produced the color changes that Glauber observed in his solution of potassium permanganate and potassium manganate (K2MnO4) is now known as the "chemical chameleon". This report represents the first description of the production of potassium permanganate. Just under 200 years later, London chemist Henry Bollmann Condy had an interest in disinfectants; he found that fusing pyrolusite with sodium hydroxide (NaOH) and dissolving it in water produced a solution with disinfectant properties. He patented this solution, and marketed it as 'Condy's Fluid'. Although effective, the solution was not very stable. This was overcome by using potassium hydroxide (KOH) rather than NaOH. This was more stable, and had the advantage of easy conversion to the equally effective potassium permanganate crystals. This crystalline material was known as 'Condy's crystals' or 'Condy's powder'. Potassium permanganate was comparatively easy to manufacture, so Condy was subsequently forced to spend considerable time in litigation to stop competitors from marketing similar products.
+Early photographers used it as a component of flash powder. It is now replaced with other oxidizers, due to the instability of permanganate mixtures.
+Preparation
+Potassium permanganate is produced industrially from manganese dioxide, which also occurs as the mineral pyrolusite. In 2000, worldwide production was estimated at 30,000 tonnes. The MnO2 is fused with potassium hydroxide and heated in air or with another source of oxygen, like potassium nitrate or potassium chlorate. This process gives potassium manganate:
+(With sodium hydroxide, the end product is not sodium manganate but an Mn(V) compound, which is one reason why the potassium permanganate is more commonly used than sodium permanganate. Furthermore, the potassium salt crystallizes better.)
+The potassium manganate is then converted into permanganate by electrolytic oxidation in alkaline media:
+Other methods
+Although of no commercial importance, potassium manganate can be oxidized by chlorine or by disproportionation under acidic conditions. The chlorine oxidation reaction is
+and the acid-induced disproportionation reaction may be written as
+A weak acid such as carbonic acid is sufficient for this reaction:
+Permanganate salts may also be generated by treating a solution of Mn2+ ions with strong oxidants such as lead dioxide (PbO2), sodium bismuthate (NaBiO3), or peroxydisulfate. Tests for the presence of manganese exploit the vivid violet color of permanganate produced by these reagents.
+Reactions
+Organic chemistry
+Dilute solutions of KMnO4 convert alkenes into diols (glycols). This behaviour is also used as a qualitative test for the presence of double or triple bonds in a molecule, since the reaction decolorizes the initially purple permanganate solution and generates a brown precipitate (MnO2). In this context, it is sometimes called Baeyer's reagent. However, bromine serves better in measuring unsaturation (double or triple bonds) quantitatively, since KMnO4, being a very strong oxidizing agent, can react with a variety of groups.
+Under acidic conditions, the alkene double bond is cleaved to give the appropriate carboxylic acid:
+Potassium permanganate oxidizes aldehydes to carboxylic acids, illustrated by the conversion of n-heptanal to heptanoic acid:
+Even an alkyl group (with a benzylic hydrogen) on an aromatic ring is oxidized, e.g. toluene to benzoic acid.
+Glycols and polyols are highly reactive toward KMnO4. For example, addition of potassium permanganate to an aqueous solution of sugar and sodium hydroxide produces the chemical chameleon reaction, which involves dramatic color changes associated with the various oxidation states of manganese.  A related vigorous reaction is exploited as a fire starter in survival kits. For example, a mixture of potassium permanganate and glycerol or pulverized glucose ignites readily. Its sterilizing properties are another reason for inclusion of KMnO4 in a survival kit.
+Ion exchange
+Treating a mixture of aqueous potassium permanganate with a quaternary ammonium salt results in ion exchange, precipitating the quat salt of permanganate.  Solutions of these salts are sometimes soluble in organic solvents:
+Similarly, addition of a crown ether also gives a lipophilic salt.
+Reaction with acids and bases
+Permanganate reacts with concentrated hydrochloric acid to give chlorine and manganese(II): 
+In neutral solution, permanganate slowly reduces to manganese dioxide (MnO2). This is the material that stains one's skin when handling KMnO4.
+KMnO4 reduces in alkaline solution to give green K2MnO4:
+This reaction illustrates the relatively rare role of hydroxide as a reducing agent.
+Addition of concentrated sulfuric acid to potassium permanganate gives Mn2O7. Although no reaction may be apparent, the vapor over the mixture will ignite paper impregnated with alcohol. Potassium permanganate and sulfuric acid react to produce some ozone, which has a high oxidizing power and rapidly oxidizes the alcohol, causing it to combust. As the reaction also produces explosive Mn2O7, this should only be attempted with great caution.
+Thermal decomposition
+Solid potassium permanganate decomposes when heated:
+Safety and handling
+Potassium permanganate poses risks as an oxidizer. Contact with skin will result in a long lasting brown stain.
+References
+Further reading

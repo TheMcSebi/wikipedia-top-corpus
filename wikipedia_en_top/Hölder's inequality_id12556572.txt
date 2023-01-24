@@ -1,0 +1,144 @@
+Hölder's inequality
+In mathematical analysis, Hölder's inequality, named after Otto Hölder, is a fundamental inequality between integrals and an indispensable tool for the study of Lp spaces.
+The numbers p and q above are said to be Hölder conjugates of each other. The special case p = q = 2 gives a form of the Cauchy–Schwarz inequality. Hölder's inequality holds even if ||fg||1 is infinite, the right-hand side also being infinite in that case. Conversely, if f is in Lp(μ) and g is in Lq(μ), then the pointwise product fg is in L1(μ).
+Hölder's inequality is used to prove the Minkowski inequality, which is the triangle inequality in the space Lp(μ), and also to establish that Lq(μ) is the dual space of Lp(μ) for p ∈ [1, ∞).
+Hölder's inequality was first found by Leonard James Rogers (1888). Inspired by Rogers' work, Hölder (1889) gave another proof as part of a work developing the concept of convex and concave functions and introducing Jensen's inequality, which was in turn named for work of Johan Jensen building on Hölder's work.
+Remarks
+Conventions
+The brief statement of Hölder's inequality uses some conventions.
+Estimates for integrable products
+As above, let f and g denote measurable real- or complex-valued functions defined on S. If ||fg||1 is finite, then the pointwise products of f with g and its complex conjugate function are μ-integrable, the estimate
+and the similar one for fg hold, and Hölder's inequality can be applied to the right-hand side. In particular, if f and g are in the Hilbert space L2(μ), then Hölder's inequality for p = q = 2 implies
+where the angle brackets refer to the inner product of L2(μ). This is also called Cauchy–Schwarz inequality, but requires for its statement that ||f ||2 and ||g||2 are finite to make sure that the inner product of f and g is well defined. We may recover the original inequality (for the case p = 2) by using the functions |f | and |g| in place of f and g.
+Generalization for probability measures
+If (S, Σ, μ) is a probability space, then p, q ∈ [1, ∞] just need to satisfy 1/p + 1/q ≤ 1, rather than being Hölder conjugates. A combination of Hölder's inequality and Jensen's inequality implies that
+for all measurable real- or complex-valued functions f and g on S.
+Notable special cases
+For the following cases assume that p and q are in the open interval (1,∞) with 1/p + 1/q = 1.
+Counting measure
+For the n-dimensional Euclidean space, when the set S is {1, ..., n} with the counting measure, we have
+Often the following practical form of this is used, for any $MATH$:
+For more than two sums, the following generalisation (Chen (2015)) holds, with real positive exponents   $MATH$ and $MATH$:
+Equality holds iff  $MATH$ :|a_{n}|=|b_{1}|:|b_{2}|:\cdots :|b_{n}|=\cdots =|z_{1}|:|z_{2}|:\cdots :|z_{n}|}
+  
+.
+If S = N with the counting measure, then we get Hölder's inequality for sequence spaces:
+Lebesgue measure
+If S is a measurable subset of Rn with the Lebesgue measure, and f and g are measurable real- or complex-valued functions on S, then Hölder inequality is
+Probability measure
+For the probability space $MATH$ let $MATH$ denote the expectation operator. For real- or complex-valued random variables $MATH$ and $MATH$ on $MATH$ Hölder's inequality reads
+Let $MATH$  and define $MATH$ Then $MATH$ is the Hölder conjugate of $MATH$ Applying Hölder's inequality to the random variables $MATH$ and $MATH$ we obtain
+In particular, if the sth absolute moment is finite, then the r th absolute moment is finite, too. (This also follows from Jensen's inequality.)
+Product measure
+For two σ-finite measure spaces (S1, Σ1, μ1) and (S2, Σ2, μ2) define the product measure space by
+where S is the Cartesian product of S1 and S2, the σ-algebra Σ arises as product σ-algebra of Σ1 and Σ2, and μ denotes the product measure of μ1 and μ2. Then Tonelli's theorem allows us to rewrite Hölder's inequality using iterated integrals: If f and g are Σ-measurable real- or complex-valued functions on the Cartesian product S, then
+This can be generalized to more than two σ-finite measure spaces.
+Vector-valued functions
+Let (S, Σ, μ) denote a σ-finite measure space and suppose that f = (f1, ..., fn) and g = (g1, ..., gn) are Σ-measurable functions on S, taking values in the n-dimensional real- or complex Euclidean space. By taking the product with the counting measure on {1, ..., n}, we can rewrite the above product measure version of Hölder's inequality in the form
+If the two integrals on the right-hand side are finite, then equality holds if and only if there exist real numbers α, β ≥ 0, not both of them zero, such that
+for μ-almost all x in S.
+This finite-dimensional version generalizes to functions f and g taking values in a normed space which could be for example a sequence space or an inner product space.
+Proof of Hölder's inequality
+There are several proofs of Hölder's inequality; the main idea in the following is Young's inequality for products.
+If ||f ||p = 0, then f is zero μ-almost everywhere, and the product fg is zero μ-almost everywhere, hence the left-hand side of Hölder's inequality is zero. 
+The same is true if ||g||q = 0. 
+Therefore, we may assume ||f ||p > 0 and ||g||q > 0 in the following. 
+If ||f ||p = ∞ or ||g||q = ∞, then the right-hand side of Hölder's inequality is infinite. 
+Therefore, we may assume that ||f ||p and ||g||q are in (0, ∞). 
+If p = ∞ and q = 1, then |fg| ≤ ||f ||∞ |g| almost everywhere and Hölder's inequality follows from the monotonicity of the Lebesgue integral. Similarly for p = 1 and q = ∞. 
+Therefore, we may assume p, q ∈ (0, 1)  ∪ (1,∞). However, to apply Young's inequality for products, we will require p, q ∈ (1,∞)
+Dividing f and g by ||f ||p and ||g||q, respectively, we can assume that
+We now use Young's inequality for products, which states that whenever $MATH$ are in (1,∞) with $MATH$
+for all nonnegative a and b, where equality is achieved if and only if ap = bq. Hence
+Integrating both sides gives
+which proves the claim.
+Under the assumptions p ∈ (1, ∞) and ||f ||p = ||g||q, equality holds if and only if |f |p = |g|q almost everywhere. 
+More generally, if ||f ||p and ||g||q are in (0, ∞), then Hölder's inequality becomes an equality if and only if there exist real numbers α, β > 0, namely
+such that
+The case ||f ||p = 0 corresponds to β = 0 in (*). The case ||g||q = 0 corresponds to α = 0 in (*).
+Alternative proof using Jensen's inequality:
+The function $MATH$ on (0,∞) is convex because $MATH$, so by Jensen's inequality, 
+where ν is any probability distribution and h any ν-measurable function. Let μ be any measure, and ν the distribution whose density w.r.t. μ is proportional to $MATH$, i.e.
+Hence we have, using $MATH$, hence $MATH$, and letting $MATH$,
+Finally, we get
+This assumes that f, g are real and non-negative, but the extension to complex functions is straightforward (use the modulus of f, g). 
+It also assumes that $MATH$ are neither null nor infinity, and that $MATH$: all these assumptions can also be lifted as in the proof above.
+Extremal equality
+Statement
+Assume that 1 ≤ p < ∞ and let q denote the Hölder conjugate. Then for every f ∈ Lp(μ),
+where max indicates that there actually is a g maximizing the right-hand side. When p = ∞ and if each set A in the σ-field Σ with μ(A) = ∞ contains a subset B ∈ Σ with 0 < μ(B) < ∞ (which is true in particular when μ is σ-finite), then
+Proof of the extremal equality:
+By Hölder's inequality, the integrals are well defined and, for 1 ≤ p ≤ ∞,
+hence the left-hand side is always bounded above by the right-hand side.
+Conversely, for 1 ≤ p ≤ ∞, observe first that the statement is obvious when ||f ||p = 0. Therefore, we assume ||f ||p > 0 in the following.
+If 1 ≤ p < ∞, define g on S by
+By checking the cases p = 1 and 1 < p < ∞ separately, we see that ||g||q = 1 and
+It remains to consider the case p = ∞. For ε ∈ (0, 1) define
+Since f is measurable, A ∈ Σ. By the definition of ||f ||∞ as the essential supremum of f and the assumption ||f ||∞ > 0, we have μ(A) > 0. Using the additional assumption on the σ-field Σ if necessary, there exists a subset B ∈ Σ of A with 0 < μ(B) < ∞. Define g on S by
+Then g is well-defined, measurable and |g(x)| ≤ 1/μ(B) for x ∈ B, hence ||g||1 ≤ 1. Furthermore,
+Remarks and examples
+Applications
+Generalization of Hölder's inequality
+Assume that r ∈ (0, ∞] and p1, ..., pn ∈  (0, ∞] such that
+where 1/∞ is interpreted as 0 in this equation.  Then for all measurable real or complex-valued functions f1, ..., fn defined on S,
+where we interpret any product with a factor of ∞ as ∞ if all factors are positive, but the product is 0 if any factor is 0.
+In particular, if $MATH$ for all $MATH$ then $MATH$
+Note: For $MATH$ contrary to the notation, ||.||r is in general not a norm because it doesn't satisfy the triangle inequality.
+Proof of the generalization:
+We use Hölder's inequality and mathematical induction. If $MATH$ then the result is immediate. Let us now pass from $MATH$ to $MATH$ Without loss of generality assume that $MATH$
+Case 1: If $MATH$ then
+Pulling out the essential supremum of |fn| and using the induction hypothesis, we get
+Case 2: If $MATH$ then necessarily $MATH$ as well, and then
+are Hölder conjugates in (1, ∞). Application of Hölder's inequality gives
+Raising to the power $MATH$ and rewriting,
+Since $MATH$ and
+the claimed inequality now follows by using the induction hypothesis.
+Interpolation
+Let p1, ..., pn ∈ (0, ∞] and let θ1, ..., θn ∈ (0, 1) denote weights with θ1 + ... + θn = 1. Define $MATH$ as the weighted harmonic mean, that is,
+Given measurable real- or complex-valued functions $MATH$ on S, then the above generalization of Hölder's inequality gives
+In particular, taking $MATH$ gives
+Specifying further θ1 = θ and θ2 = 1-θ, in the case $MATH$ we obtain the interpolation result (Littlewood's inequality)
+for $MATH$ and
+An application of Hölder gives Lyapunov's inequality: If
+then
+and in particular
+Both Littlewood and Lyapunov imply that if $MATH$ then $MATH$ for all $MATH$
+
+
+Reverse Hölder inequality
+Assume that p ∈ (1, ∞) and that the measure space (S, Σ, μ) satisfies μ(S) > 0. Then for all measurable real- or complex-valued functions f and g on S such that g(s) ≠ 0 for μ-almost all s ∈ S,
+If
+then the reverse Hölder inequality is an equality if and only if
+Note: The expressions:
+$MATH$ and $MATH$
+are not norms, they are just compact notations for
+Note that p and
+are Hölder conjugates. 
+Application of Hölder's inequality gives
+Raising to the power p gives us:
+Therefore:
+Now we just need to recall our notation.
+(Reverse) Hölder inequality with multiple negative norms
+The Reverse Hölder inequality (above) can be generalized to the case of multiple functions if all but one conjugate is negative.
+That is,
+As was proven by Wing-Sum Cheung in 2000
+Conditional Hölder inequality
+Let (Ω, F, $MATH$) be a probability space, G ⊂ F a sub-σ-algebra, and p, q ∈ (1, ∞) Hölder conjugates, meaning that 1/p + 1/q = 1. Then for all real- or complex-valued random variables X and Y on Ω,
+Remarks:
+Proof of the conditional Hölder inequality:
+Define the random variables
+and note that they are measurable with respect to the sub-σ-algebra. Since
+it follows that |X| = 0 a.s. on the set {U = 0}. Similarly, |Y| = 0 a.s. on the set {V = 0}, hence
+and the conditional Hölder inequality holds on this set. On the set
+the right-hand side is infinite and the conditional Hölder inequality holds, too. Dividing by the right-hand side, it therefore remains to show that
+This is done by verifying that the inequality holds after integration over an arbitrary
+Using the measurability of U, V, 1G with respect to the sub-σ-algebra, the rules for conditional expectations, Hölder's inequality and 1/p + 1/q = 1, we see that
+Hölder's inequality for increasing seminorms
+Let S be a set and let $MATH$ be the space of all complex-valued functions on S. Let N be an increasing seminorm on $MATH$ meaning that, for all real-valued functions $MATH$ we have the following implication (the seminorm is also allowed to attain the value ∞):
+Then:
+where the numbers $MATH$ and $MATH$ are Hölder conjugates.
+Remark: If (S, Σ, μ) is a measure space and $MATH$ is the upper Lebesgue integral of $MATH$ then the restriction of N to all Σ-measurable functions gives the usual version of Hölder's inequality.
+
+
+Distances based on Hölder inequality
+Hölder inequality can be used to define statistical dissimilarity measures between probability distributions. Those Hölder divergences are projective: They do not depend on the normalization factor of densities.

@@ -1,0 +1,16 @@
+Chlamydomonas
+Chlamydomonas is a genus of green algae consisting of about 150 species of unicellular flagellates, found in stagnant water and on damp soil, in freshwater, seawater, and even in snow as "snow algae". Chlamydomonas is used as a model organism for molecular biology, especially studies of flagellar motility and chloroplast dynamics, biogenesis, and genetics. One of the many striking features of Chlamydomonas is that it contains ion channels (channelrhodopsins) that are directly activated by light. Some regulatory systems of Chlamydomonas are more complex than their homologs in Gymnosperms, with evolutionarily related regulatory proteins being larger and containing additional domains.
+Molecular phylogeny studies indicated that the traditional genus Chlamydomonas as defined using morphological data was polyphyletic within Volvocales. Many species were subsequently reclassified (e.g., in Oogamochlamys, Lobochlamys), and many other "Chlamydomonas" s.l. lineages are still to be reclassified.
+Description
+All Chlamydomonas are unicellular organisms, spherical or slightly cylindrical, and a papilla may be present or absent. Chloroplasts are green and usually cup-shaped. A key feature of the genus is its two anterior flagella, each as long as the other. The flagellar microtubules may each be disassembled by the cell to provide spare material to rebuild the other's microtubules if they are damaged.
+
+
+Species
+Ecology
+Chlamydomonas is widely distributed in freshwater or damp soil. It is generally found in a habitat rich in ammonium salt. It possesses red eye spots for photosensitivity and reproduces both asexually and sexually.
+Chlamydomonas's asexual reproduction occurs by zoospores, aplanospores, hypnospores, or a palmella stage, while its sexual reproduction is through isogamy, anisogamy or oogamy.
+Nutrition
+Most species are obligate phototrophs but C. reinhardtii and C. dysostosis are facultative heterotrophs that can grow in the dark in the presence of acetate as a carbon source.
+Morphology
+Uses
+Some Chlamydomonas are edible.

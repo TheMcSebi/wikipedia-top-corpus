@@ -1,0 +1,28 @@
+Non-breaking space
+In word processing and digital typesetting, a non-breaking space,  , also called NBSP, required space, hard space, or fixed space (though it is not of fixed width), is a space character that prevents an automatic line break at its position. In some formats, including HTML, it also prevents consecutive whitespace characters from collapsing into a single space.
+Non-breaking space characters with other widths also exist.
+Uses and variations
+Despite having layout and uses similar to those of whitespace, it differs in contextual behavior.
+Non-breaking behavior
+Text-processing software typically assumes that an automatic line break may be inserted anywhere a space character occurs; a non-breaking space prevents this from happening (provided the software recognizes the character). For example, if the text "100 km" will not quite fit at the end of a line, the software may insert a line break between "100" and "km". An editor who finds this behavior undesirable may choose to use a non-breaking space between "100" and "km". This guarantees that the text "100 km" will not be broken: if it does not fit at the end of a line, it is moved in its entirety to the next line.
+Non-collapsing behavior
+A second common application of non-breaking spaces is in plain text file formats such as SGML, HTML, TeX and LaTeX, whose rendering engines are programmed to treat sequences of whitespace characters (space, newline, tab, form feed, etc.) as if they were a single character (but this behavior can be overridden). Such "collapsing" of whitespace allows the author to neatly arrange the source text using line breaks, indentation and other forms of spacing without affecting the final typeset result.
+In contrast, non-breaking spaces are not merged with neighboring whitespace characters when displayed and can therefore be used by an author to simply insert additional visible space in the resulting output without using spans styled with peculiar values of the CSS "white-space" property. Conversely, indiscriminate use (see the recommended use in style guides), in addition to a normal space, gives extraneous space in the output.
+Width variation
+Other non-breaking variants, defined in Unicode:
+U+202F   NARROW NO-BREAK SPACE (NNBSP)
+U+2007   FIGURE SPACE (&numsp;)
+U+2060  WORD JOINER (&NoBreak; · WJ)
+Example
+On browsers, resizing the window will demonstrate the effect of non-breaking spaces on the texts below.
+To show the non-breaking effect of the non-breaking space, the following words have been separated with non-breaking spaces:
+To show the non-collapsing behavior of the non-breaking space, the following words have been separated with an increasing number of non-breaking spaces:
+In contrast, the following words are separated with ordinary spaces:
+Encodings
+In Unicode, the Byte order mark (BOM), U+FEFF, may be interpreted as a "zero width no-break space", but is a deprecated alternative to word joiner (U+2060).
+Keyboard entry methods
+It is rare for national or international standards on keyboard layouts to define an input method for the non-breaking space. An exception is the Finnish multilingual keyboard, accepted as the national standard SFS 5966 in 2008. According to SFS 5966, the non-breaking space can be entered with the key combination AltGr + Space.
+Typically, authors of keyboard drivers and application programs (e.g., word processors) have devised their own keyboard shortcuts for the non-breaking space. For example:
+Apart from this, applications and environments often have methods of entering unicode entities directly via their code point, e.g. via the Alt Numpad input method. (Non-breaking space has code point 255 decimal (FF hex) in codepage 437 and codepage 850 and code point 160 decimal (A0 hex) in codepage 1252.)
+See also
+Notes

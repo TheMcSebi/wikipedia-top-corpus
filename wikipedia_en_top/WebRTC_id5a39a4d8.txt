@@ -1,0 +1,28 @@
+WebRTC
+WebRTC (Web Real-Time Communication) is a free and open-source project providing web browsers and mobile applications with real-time communication (RTC) via application programming interfaces (APIs). It allows audio and video communication to work inside web pages by allowing direct peer-to-peer communication, eliminating the need to install plugins or download native apps. Supported by Apple, Google, Microsoft, Mozilla, and Opera, WebRTC specifications have been published by the World Wide Web Consortium (W3C) and the Internet Engineering Task Force (IETF).
+According to the webrtc.org website, the purpose of the project is to "enable rich, high-quality RTC applications to be developed for the browser, mobile platforms, and IoT devices, and allow them all to communicate via a common set of protocols".
+History
+In May 2010, Google bought Global IP Solutions or GIPS, a VoIP and videoconferencing software company that had developed many components required for RTC, such as codecs and echo cancellation techniques. Google open-sourced the GIPS technology and engaged with relevant standards bodies at the IETF and W3C to ensure industry consensus. In May 2011, Google released an open-source project for browser-based real-time communication known as WebRTC. This has been followed by ongoing work to standardize the relevant protocols in the IETF and browser APIs in the W3C.
+In January 2011, Ericsson Labs built the first implementation of WebRTC using a modified WebKit library. In October 2011, the W3C published its first draft for the spec. WebRTC milestones include the first cross-browser video call (February 2013), first cross-browser data transfers (February 2014), and as of July 2014 Google Hangouts was "kind of" using WebRTC.
+The W3C draft API was based on preliminary work done in the WHATWG. It was referred to as the ConnectionPeer API, and a pre-standards concept implementation was created at Ericsson Labs. The WebRTC Working Group expects this specification to evolve significantly based on:
+In November 2017, the WebRTC 1.0 specification transitioned from Working Draft to Candidate Recommendation.
+In January 2021, the WebRTC 1.0 specification transitioned from Candidate Recommendation to Recommendation.
+Design
+Major components of WebRTC include several JavaScript APIs:
+The WebRTC API also includes a statistics function:
+The WebRTC API includes no provisions for signaling, that is discovering peers to connect to and determine how to establish connections among them. Applications use Interactive Connectivity Establishment for connections and are responsible for managing sessions, possibly relying on any of Session Initiation Protocol, Extensible Messaging and Presence Protocol, Message Queuing Telemetry Transport, Matrix, or another protocol. Signaling may depend on one or more servers.
+RFC 7478 requires implementations to provide PCMA/PCMU (RFC 3551), Telephone Event as DTMF (RFC 4733), and Opus (RFC 6716) audio codecs as minimum capabilities. The PeerConnection, data channel and media capture browser APIs are detailed in the W3C specification.
+W3C is developing ORTC (Object Real-Time Communications) for WebRTC.
+Applications
+WebRTC allows browsers to stream files directly to one another, reducing or entirely removing the need for server-side file hosting. WebTorrent uses a WebRTC transport to enable peer-to-peer file sharing using the BitTorrent protocol in the browser. Some file-sharing websites use it to allow users to send files directly to one another in their browsers, although this requires the uploader to keep the tab open until the file has been downloaded. A few CDNs, such as the Microsoft-owned Peer5, use the client's bandwidth to upload media to other connected peers, enabling each peer to act as an edge server.
+Although initially developed for web browsers, WebRTC has applications for non-browser devices, including mobile platforms and IoT devices. Examples include browser-based VoIP telephony, also called cloud phones or web phones, which allow calls to be made and received from within a web browser, replacing the requirement to download and install a softphone.
+Support
+WebRTC is supported by the following browsers (incomplete list; oldest supported version specified):
+GStreamer directly provides a free WebRTC implementation.
+Codec support across browsers
+WebRTC establishes a standard set of codecs which all compliant browsers are required to implement. Some browsers may also support other codecs.
+Vulnerability
+In January 2017, TorrentFreak reported a serious security flaw in browsers supporting WebRTC, that compromised the security of VPN tunnels by exposing a user's true IP address. The IP address read requests are not visible in the browser's developer console, and they are not blocked by most ad blocking, privacy and security add-ons, enabling online tracking despite precautions.
+It has been reported that the cause of the address leak is not a bug that can be patched, but is foundational to the way WebRTC operates; however, there are several solutions to mitigate the problem. WebRTC leakage can be tested for, and solutions are offered for most browsers. WebRTC can be disabled, if not required, in most browsers. The uBlock Origin add-on can fix this problem (as some browsers now fix this problem by themselves, from uBlock Origin v1.38 onwards this option has been disabled on these browsers).
+References
+Further reading

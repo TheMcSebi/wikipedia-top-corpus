@@ -1,0 +1,30 @@
+Radial velocity
+The radial velocity or line-of-sight velocity, also known as radial speed or range rate, of a target with respect to an observer is the rate of change of the distance or range between the two points. It is equivalent to the vector projection of the target-observer relative velocity onto the relative direction connecting the two points. In astronomy, the point is usually taken to be the observer on Earth, so the radial velocity then denotes the speed with which the object moves away from the Earth (or approaches it, for a negative radial velocity).
+Formulation
+Given a differentiable vector $MATH$ defining the instantaneous position of a target relative to an observer.
+Let
+with $MATH$, the instantaneous velocity of the target with respect to the observer. 
+The magnitude of the position vector $MATH$ is defined as
+The quantity range rate is the time derivative of the magnitude (norm) of $MATH$, expressed as
+Substituting (2) into (3)
+Evaluating the derivative of the right-hand-side
+using (1) the expression becomes
+Since
+With
+The range rate is simply defined as
+the projection of the observer to target velocity vector onto the $MATH$ unit vector.
+A singularity exists for coincident observer target, i.e. $MATH$. In this case, range rate does not exist as $MATH$.
+Applications in astronomy
+In astronomy, radial velocity is often measured to the first order of approximation by Doppler spectroscopy. The quantity obtained by this method may be called the barycentric radial-velocity measure or spectroscopic radial velocity. However, due to relativistic and cosmological effects over the great distances that light typically travels to reach the observer from an astronomical object, this measure cannot be accurately transformed to a geometric radial velocity without additional assumptions about the object and the space between it and the observer. By contrast, astrometric radial velocity is determined by astrometric observations (for example, a secular change in the annual parallax).
+Spectroscopic radial velocity
+Light from an object with a substantial relative radial velocity at emission will be subject to the Doppler effect, so the frequency of the light decreases for objects that were receding (redshift) and increases for objects that were approaching (blueshift).
+The radial velocity of a star or other luminous distant objects can be measured accurately by taking a high-resolution spectrum and comparing the measured wavelengths of known spectral lines to wavelengths from laboratory measurements. A positive radial velocity indicates the distance between the objects is or was increasing; a negative radial velocity indicates the distance between the source and observer is or was decreasing.
+William Huggins ventured in 1868 to estimate the radial velocity of Sirius with respect to the Sun, based on observed redshift of the star's light.
+In many binary stars, the orbital motion usually causes radial velocity variations of several kilometres per second (km/s). As the spectra of these stars vary due to the Doppler effect, they are called spectroscopic binaries. Radial velocity can be used to estimate the ratio of the masses of the stars, and some orbital elements, such as eccentricity and semimajor axis. The same method has also been used to detect planets around stars, in the way that the movement's measurement determines the planet's orbital period, while the resulting radial-velocity amplitude allows the calculation of the lower bound on a planet's mass using the binary mass function. Radial velocity methods alone may only reveal a lower bound, since a large planet orbiting at a very high angle to the line of sight will perturb its star radially as much as a much smaller planet with an orbital plane on the line of sight. It has been suggested that planets with high eccentricities calculated by this method may in fact be two-planet systems of circular or near-circular resonant orbit.
+Detection of exoplanets
+The radial velocity method to detect exoplanets is based on the detection of variations in the velocity of the central star, due to the changing direction of the gravitational pull from an (unseen) exoplanet as it orbits the star. When the star moves towards us, its spectrum is blueshifted, while it is redshifted when it moves away from us. By regularly looking at the spectrum of a star—and so, measuring its velocity—it can be determined if it moves periodically due to the influence of an exoplanet companion.
+Data reduction
+From the instrumental perspective, velocities are measured relative to the telescope's motion. So an important first step of the data reduction is to remove the contributions of
+See also
+References
+Further reading

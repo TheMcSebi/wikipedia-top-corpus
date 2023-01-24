@@ -1,0 +1,63 @@
+Electronic component
+An electronic component is any basic discrete device or physical entity in an electronic system used to affect electrons or their associated fields. Electronic components are mostly industrial products, available in a singular form and are not to be confused with electrical elements, which are conceptual abstractions representing idealized electronic components and elements.
+Electronic components have a number of electrical terminals or leads. These leads connect to other electrical components, often over wire, to create an electronic circuit with a particular function (for example an amplifier, radio receiver, or oscillator). Basic electronic components may be packaged discretely, as arrays or networks of like components, or integrated inside of packages such as semiconductor integrated circuits, hybrid integrated circuits, or thick film devices. The following list of electronic components focuses on the discrete version of these components, treating such packages as components in their own right.
+Classification
+Components can be classified as passive, active, or electromechanic. The strict physics definition treats passive components as ones that cannot supply energy themselves, whereas a battery would be seen as an active component since it truly acts as a source of energy.
+However, electronic engineers who perform circuit analysis use a more restrictive definition of passivity. When only concerned with the energy of signals, it is convenient to ignore the so-called DC circuit and pretend that the power supplying components such as transistors or integrated circuits is absent (as if each such component had its own battery built in), though it may in reality be supplied by the DC circuit. Then, the analysis only concerns the AC circuit, an abstraction that ignores DC voltages and currents (and the power associated with them) present in the real-life circuit. This fiction, for instance, lets us view an oscillator as "producing energy" even though in reality the oscillator consumes even more energy from a DC power supply, which we have chosen to ignore. Under that restriction, we define the terms as used in circuit analysis as:
+Most passive components with more than two terminals can be described in terms of two-port parameters that satisfy the principle of reciprocity—though there are rare exceptions. In contrast, active components (with more than two terminals) generally lack that property.
+Active components
+Transistors
+Transistors were considered the invention of the twentieth century that changed electronic circuits forever. A transistor is a semiconductor device used to amplify and switch electronic signals and electrical power.
+Diodes
+Conduct electricity easily in one direction, among more specific behaviors.
+Integrated circuits
+Integrated Circuits can serve a variety of purposes, including acting as a timer, performing digital to analog conversion, performing amplification, or being used for logical operations. 
+Programmable devices
+Optoelectronic devices
+Display technologies
+Current:
+Obsolete:
+Vacuum tubes (valves)
+A vacuum tube is based on current conduction through a vacuum (see Vacuum tube).
+Optical detectors or emitters
+Discharge devices
+Obsolete:
+Power sources
+Sources of electrical power:
+Passive components
+Components incapable of controlling current by means of another electrical signal are called passive devices. Resistors, capacitors, inductors, and transformers are all considered passive devices.
+Resistors
+Pass current in proportion to voltage (Ohm's law) and oppose current.
+Capacitors
+Capacitors store and release electrical charge. They are used for filtering power supply lines, tuning resonant circuits, and for blocking DC voltages while passing AC signals, among numerous other uses.
+Integrated passive devices
+Integrated passive devices are passive devices integrated within one distinct package. They take up less space than equivalent combinations of discrete components.
+Magnetic (inductive) devices
+Electrical components that use magnetism in the storage and release of electrical charge through current:
+Memristor
+Electrical components that pass charge in proportion to magnetism or magnetic flux, and have the ability to retain a previous resistive state, hence the name of Memory plus Resistor.
+Networks
+Components that use more than one type of passive component:
+Transducers, sensors, detectors
+Antennas
+Antennas transmit or receive radio waves
+Assemblies, modules
+Multiple electronic components assembled in a device that is in itself used as a component
+Prototyping aids
+Electromechanical
+Piezoelectric devices, crystals, resonators
+Passive components that use piezoelectric effect:
+Microelectromechanical systems
+Terminals and connectors
+Devices to make electrical connection
+Cable assemblies
+Electrical cables with connectors or terminals at their ends
+Switches
+Components that can pass current ("closed") or break the current ("open"):
+Protection devices
+Passive components that protect circuits from excessive currents or voltages:
+Mechanical accessories
+Other
+Obsolete
+Standard symbols
+On a circuit diagram, electronic devices are represented by conventional symbols. Reference designators are applied to the symbols to identify the components.

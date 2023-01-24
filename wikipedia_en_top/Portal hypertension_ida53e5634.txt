@@ -1,0 +1,31 @@
+Portal hypertension
+Portal hypertension is abnormally increased portal venous pressure – blood pressure in the portal vein and its branches, that drain from most of the intestine to the liver. Portal hypertension is defined as a hepatic venous pressure gradient greater than 5 mmHg. Cirrhosis (a form of chronic liver failure) is the most common cause of portal hypertension; other, less frequent causes are therefore grouped as non-cirrhotic portal hypertension. When it becomes severe enough to cause symptoms or complications, treatment may be given to decrease portal hypertension itself or to manage its complications.
+Signs and symptoms
+Signs and symptoms of portal hypertension include:
+In addition, a widened (dilated) portal vein as seen on a CT scan or MRI may raise the suspicion about portal hypertension. A cutoff value of 13 mm is widely used in this regard, but the diameter is often larger than this is in normal individuals as well.
+Causes
+The causes for portal hypertension are classified as originating in the portal venous system before it reaches the liver (prehepatic causes), within the liver (intrahepatic) or between the liver and the heart (post-hepatic). The most common cause is cirrhosis (chronic liver failure). Other causes include:
+Prehepatic causes
+Hepatic causes
+Posthepatic causes
+Pathophysiology
+The pathophysiology of portal hypertension is indicated by increased vascular resistance via different causes; additionally, hepatic stellate cells and myofibroblasts are activated. Increased endogenous vasodilators in turn promote more blood flow in the portal veins.
+Nitric oxide is an endogenous vasodilator and it regulates intrahepatic vascular tone (it is produced from L-arginine). Nitric oxide inhibition has been shown in some studies to increase portal hypertension and hepatic response to norepinephrine.
+Diagnosis
+Ultrasonography (US) is the first-line imaging technique for the diagnosis and follow-up of portal hypertension because it is non-invasive, low-cost and can be performed on-site.
+A dilated portal vein (diameter of greater than 13 or 15 mm) is a sign of portal hypertension, with a sensitivity estimated at 12.5% or 40%. On Doppler ultrasonography, a slow velocity of <16 cm/s in addition to dilatation in the main portal vein are diagnostic of portal hypertension. Other signs of portal hypertension on ultrasound include a portal flow mean velocity of less than 12 cm/s, porto–systemic collateral veins (patent paraumbilical vein, spleno–renal collaterals and dilated left and short gastric veins), splenomegaly and signs of cirrhosis (including nodularity of the liver surface).
+The hepatic venous pressure gradient (HVPG) measurement has been accepted as the gold standard for assessing the severity of portal hypertension. Portal hypertension is defined as HVPG greater than or equal to 5 mm Hg and is considered to be clinically significant when HVPG exceeds 10 to 12 mm Hg.
+Treatment
+The treatment of portal hypertension is divided into:
+Portosystemic shunts
+Selective shunts select non-intestinal flow to be shunted to the systemic venous drainage while leaving the intestinal venous drainage to continue to pass through the liver.  The most well known of this type is the splenorenal. This connects the splenic vein to the left renal vein thus reducing portal system pressure while minimizing any encephalopathy.  In an H-shunt, which could be mesocaval (from the superior mesenteric vein to the inferior vena cava) or could be, portocaval (from the portal vein to the inferior vena cava) a graft, either synthetic or the preferred vein harvested from elsewhere on the patient's body, is connected between the superior mesenteric vein and the inferior vena cava.  The size of this shunt will determine how selective it is.
+With the advent of transjugular intrahepatic portosystemic shunting (TIPS), portosystemic shunts are less performed.  TIPS has the advantage of being easier to perform and doesn't disrupt the liver's vascularity.
+Prevention of bleeding
+Both pharmacological (non-specific β-blockers, nitrate isosorbide mononitrate, vasopressin such as terlipressin) and endoscopic (banding ligation) treatment have similar results. TIPS (transjugular intrahepatic portosystemic shunting) is effective at reducing the rate of rebleeding.
+The management of active variceal bleeding includes administering vasoactive drugs (somatostatin, octreotide), endoscopic banding ligation, balloon tamponade and TIPS.
+Ascites
+The management of ascites needs to be gradual to avoid sudden changes in systemic volume status which can precipitate hepatic encephalopathy, kidney failure and death. The management includes salt restriction, diuretics (spironolactone), paracentesis, and transjugular intrahepatic portosystemic shunt (TIPS).
+Hepatic encephalopathy
+A treatment plan may involve lactulose, enemas, and use of antibiotics such as rifaximin, neomycin, vancomycin, and the quinolones. Restriction of dietary protein was recommended but this is now refuted by a clinical trial which shows no benefit. Instead, the maintenance of adequate nutrition is now advocated.
+References
+Further reading

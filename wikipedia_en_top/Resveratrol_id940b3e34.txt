@@ -1,0 +1,55 @@
+Resveratrol
+Resveratrol (3,5,4′-trihydroxy-trans-stilbene) is a stilbenoid, a type of natural phenol, and a phytoalexin produced by several plants in response to injury or when the plant is under attack by pathogens, such as bacteria or fungi. Sources of resveratrol in food include the skin of grapes, blueberries, raspberries, mulberries, and peanuts.
+Although commonly used as a dietary supplement and studied in laboratory models of human diseases, there is no high-quality evidence that resveratrol improves lifespan or has a substantial effect on any human disease.
+Research
+Resveratrol has been studied for its potential therapeutic use, with little evidence of anti-disease effects or health benefits in humans.
+Cardiovascular disease
+There is no evidence of benefit from resveratrol in people who already have heart disease. A 2018 meta-analysis found no effect on systolic or diastolic blood pressure; a sub-analysis revealed a 2 mmHg decrease in systolic pressure only from resveratrol doses of 300 mg per day, and only in diabetic people. A 2014 Chinese meta-analysis found no effect on systolic or diastolic blood pressure; a sub-analysis found an 11.90 mmHg reduction in systolic blood pressure from resveratrol doses of 150 mg per day.
+Cancer
+As of 2020, there is no evidence of an effect of resveratrol on cancer in humans.
+Metabolic syndrome
+There is no conclusive evidence for an effect of resveratrol on human metabolic syndrome. One 2015 review found little evidence for use of resveratrol to treat diabetes. A 2015 meta-analysis found little evidence for an effect of resveratrol on diabetes biomarkers.
+One review found limited evidence that resveratrol lowered fasting plasma glucose in people with diabetes. Two reviews  indicated that resveratrol supplementation may reduce body weight and body mass index, but not fat mass or total blood cholesterol. A 2018 review found that resveratrol supplementation may reduce biomarkers of inflammation, TNF-α and C-reactive protein.
+Lifespan
+There is insufficient evidence to indicate that consuming resveratrol has an effect on human lifespan.
+Cognition
+Resveratrol has been assessed for a possible effect on cognition, but with mixed evidence for an effect. One review concluded that resveratrol had no effect on neurological function, but reported that supplementation improved recognition and mood, although there were inconsistencies in study designs and results.
+Diabetes
+Although animal experiments have found some evidence that resveratrol may help improve insulin sensitivity and so potentially help manage diabetes, subsequent research on people is limited and does not support the use of resveratrol for this purpose.
+Other
+There is no significant evidence that resveratrol affects vascular endothelial function, neuroinflammation, Alzheimer's disease, skin infections or aging skin. A 2019 review of human studies found mixed effects of resveratrol on certain bone biomarkers, such as increases in blood and bone alkaline phosphatase, while reporting no effect on other biomarkers, such as calcium and collagen.
+Pharmacology
+Pharmacodynamics
+Resveratrol has been identified as a pan-assay interference compound, which produces positive results in many different laboratory assays. Its ability for varied interactions may be due to direct effects on cell membranes.
+As of 2015, many specific biological targets for resveratrol had been identified, including NQO2 (alone and in interaction with AKT1), GSTP1, estrogen receptor beta, CBR1, and integrin αVβ. It was unclear at that time if any or all of these were responsible for the observed effects in cells and model organisms.
+Pharmacokinetics
+The viability of an oral delivery method is unlikely due to the low aqueous solubility of the molecule. The bioavailability of resveratrol is about 0.5% due to extensive hepatic glucuronidation and sulfation. Glucuronidation occurs in the intestine as well as in the liver, whereas sulfonation not only occurs in the liver but in the intestine and by microbial gut activity.  Due to rapid metabolism, the half-life of resveratrol is short (about 8–14 minutes), but the half-life of the sulphate and glucoronide metabolites is above 9 hours.
+Metabolism
+Resveratrol is extensively metabolized in the body, with the liver and intestines as the major sites of its metabolism. Liver metabolites are products of phase II (conjugation) enzymes, which are themselves induced by resveratrol in vitro.
+Chemistry
+Resveratrol (3,5,4'-trihydroxystilbene) is a stilbenoid, a derivative of stilbene. It exists as two geometric isomers: cis- (Z) and trans- (E), with the trans-isomer shown in the top image. Resveratrol exists conjugated to glucose.
+The trans- form can undergo photoisomerization to the cis- form when exposed to ultraviolet irradiation.
+UV irradiation to cis-resveratrol induces further photochemical reaction, producing a fluorescent molecule named "Resveratrone".
+Trans-resveratrol in the powder form was found to be stable under "accelerated stability" conditions of 75% humidity and 40 °C in the presence of air. The trans isomer is also stabilized by the presence of transport proteins. Resveratrol content also was stable in the skins of grapes and pomace taken after fermentation and stored for a long period. lH- and 13C-NMR data for the four most common forms of resveratrols are reported in literature.
+Biosynthesis
+Resveratrol is produced in plants via the enzyme resveratrol synthase (stilbene synthase). Its immediate precursor is a tetraketide derived from malonyl CoA and 4-coumaroyl CoA. The latter is derived from phenylalanine.
+Biotransformation
+The grapevine fungal pathogen Botrytis cinerea is able to oxidise resveratrol into metabolites showing attenuated antifungal activities. Those include the resveratrol dimers restrytisol A, B, and C, resveratrol trans-dehydrodimer, leachinol F, and pallidol. The soil bacterium Bacillus cereus can be used to transform resveratrol into piceid (resveratrol 3-O-beta-D-glucoside).
+Adverse effects
+Only a few human studies have been done to determine the adverse effects of resveratrol, all of them preliminary with small participant numbers. Adverse effects resulted mainly from long-term use (weeks or longer) and daily doses of 1000 mg or higher, causing nausea, stomach pain, flatulence, and diarrhea. A review of 136 patients in seven studies who were given more than 500 mg for a month showed 25 cases of diarrhea, 8 cases of abdominal pain, 7 cases of nausea, and 5 cases of flatulence. In a year-long preliminary clinical trial in people with Alzheimer's disease, the most frequent adverse effects were nausea and weight loss. A 2018 review of resveratrol effects on blood pressure found that some people had increased frequency of bowel movements and loose stools.
+Occurrences
+Plants
+Resveratrol is a phytoalexin, a class of compounds produced by many plants when they are infected by pathogens or physically harmed by cutting, crushing, or ultraviolet radiation.
+Plants that synthesize resveratrol include knotweeds, pine trees including Scots pine and Eastern white pine, grape vines, raspberries, mulberries, peanut plants, cocoa bushes, and Vaccinium shrubs that produce berries, including blueberries, cranberries, and bilberries.
+Foods
+The levels of resveratrol found in food varies considerably, even in the same food from season to season and batch to batch.
+Wine and grape juice
+Resveratrol concentrations in red wines average  1.9±1.7 mg trans-resveratrol/L (8.2±7.5 μM), ranging from nondetectable levels to 14.3 mg/L (62.7 μM) trans-resveratrol. Levels of cis-resveratrol follow the same trend as trans-resveratrol.
+In general, wines made from grapes of the Pinot noir and St. Laurent varieties showed the highest level of trans-resveratrol, though no wine or region can yet be said to produce wines with significantly higher concentrations than any other wine or region. Champagne and vinegar also contain appreciable levels of resveratrol.
+Red wine contains between 0.2 and 5.8 mg/L, depending on the grape variety. White wine has much less because red wine is fermented with the skins, allowing the wine to extract the resveratrol, whereas white wine is fermented after the skin has been removed.  The composition of wine is different from that of grapes since the extraction of resveratrol from grapes depends on the duration of the skin contact, and the resveratrol 3-glucosides are in part hydrolysed, yielding both trans- and cis-resveratrol.
+Selected foods
+Ounce for ounce, peanuts have about 25% as much resveratrol as red wine. Peanuts, especially sprouted peanuts, have a content similar to grapes in a range of 2.3 to 4.5 μg/g before sprouting, and after sprouting, in a range of 11.7 to 25.7 μg/g, depending on peanut cultivar.
+Mulberries (especially the skin) are a source of as much as 50 micrograms of resveratrol per gram dry weight.
+History
+The first mention of resveratrol was in a Japanese article in 1939 by Michio Takaoka, who isolated it from Veratrum album, variety grandiflorum,  and later, in 1963, from the roots of Japanese knotweed. In 2004, Harvard University professor David Sinclair co-founded Sirtris Pharmaceuticals, the initial product of which was a resveratrol formulation.Sirtris was purchased and made a subsidiary of GlaxoSmithKline in 2008 for $720 million and shut down in 2013, without successful drug development.
+Related compounds

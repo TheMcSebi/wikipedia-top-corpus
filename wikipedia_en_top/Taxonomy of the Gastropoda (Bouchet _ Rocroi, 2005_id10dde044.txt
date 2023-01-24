@@ -1,0 +1,88 @@
+Taxonomy of the Gastropoda (Bouchet & Rocroi, 2005)
+The taxonomy of the Gastropoda as it was revised in 2005 by Philippe Bouchet and Jean-Pierre Rocroi is a system for the scientific classification of gastropod mollusks. (Gastropods are a taxonomic class of animals which consists of snails and slugs of every kind, from the land, from freshwater, and from saltwater.) The paper setting out this taxonomy was published in the journal Malacologia. The system encompasses both living and extinct groups, as well as some fossils whose classification as gastropods is uncertain.
+The Bouchet & Rocroi system was the first complete gastropod taxonomy that primarily employed the concept of clades, and was derived from research on molecular phylogenetics; in this context a clade is a "natural grouping" of organisms based upon a statistical cluster analysis. In contrast, most of the previous overall taxonomic schemes for gastropods relied on morphological features to classify these animals, and used taxon ranks such as order, superorder and suborder, which are typical of classifications that are still inspired by Linnaean taxonomy.
+In the Bouchet & Rocroi taxonomy, clades are used between the rank of class and the rank of superfamily. The clades are unranked. Bouchet and Rocroi use six main clades: Patellogastropoda, Vetigastropoda, Cocculiniformia, Neritimorpha, Caenogastropoda, and Heterobranchia. The first three of these major clades have no nesting clades within them: the taxonomy goes immediately to the superfamily level. Within the Caenogastropoda there is one extra clade. In contrast, within the Heterobranchia, for some of the nudibranch groups there are six separate clades above the level of superfamily, and in the case of most of the land snails, there are four clades above the level of superfamily.
+In some parts of the taxonomy, instead of "clade", Bouchet and Rocroi labelled groupings of taxa as a "group" or an "informal group". A clade must by definition contain only one lineage, and it was considered to be the case that these "informal groups" may either contain more than one lineage, or only contain part of a lineage. Further research will eventually resolve these questions.  Since the publication of this taxonomic system in 2005, various proposals for changes have been published by other authors, for more information see changes in the taxonomy of gastropods since 2005.
+In 2017 this taxonomy was superseded by a revised taxonomy "Revised Classification, Nomenclator and Typification of Gastropod and Monoplacophoran Families" by Philippe Bouchet & Jean-Pierre Rocroi, Bernhard Hausdorf, Andrzej Kaim, Yasunori Kano, Alexander Nützel, Pavel Parkhaev, Michael Schrödl and Ellen E. Strong in Malacologia, 2017, 61(1–2): 1–526. The authors have reverted to adopting the traditional ranks above superfamily: order, subclass, as this was preferred by many users.
+Context
+Systems of classification such as this one are primarily of value to malacologists (people who study mollusks) and other biologists. Biological classification schemes are not merely a convenience, they are an attempt to show the actual phylogeny (the evolutionary relatedness) within a group of organisms. Thus, a taxonomy such as this one can be seen as an attempt to elucidate part of the tree of life, a phylogenetic tree.
+The Bouchet & Rocroi 2005 system of gastropod taxonomy was laid out in a book-length paper entitled "Classification and Nomenclator of Gastropod Families", which was published in the journal Malacologia and which was written in collaboration with J. Frýda, B. Hausdorf, W. Ponder, Á. Valdés and A. Warén. This system supersedes the system of Ponder and Lindberg from 1997. Subsequent revisions by other authors have been made since the publication of this paper.
+The taxonomy set out by Bouchet & Rocroi is an attempt to get one step closer to representing this part of the evolutionary history of the phylum Mollusca. Bouchet & Rocroi's classification system is a hybrid of the pre-existing, more traditional Linnaean taxonomy along with some more recent far-reaching revisions which are based on molecular work and use clades as taxa, (see cladistics). In the past, the taxonomy of gastropods was largely based on the morphological characters of the taxa, such as the shell characteristics (including the protoconch) in shelled species, and the internal anatomy, including the structure of the radula and details of the reproductive system. Recent advances are based more on the molecular characteristics of the DNA and RNA. This shift in emphasis has meant that the newer taxa and their hierarchy are subject to debate, a debate that is not likely to be resolved soon.
+This proposed classification has tried to integrate the results of recent molecular work by using unranked clades for taxa below the traditional rank of class (class Gastropoda) but above the rank of superfamily (replacing the ranks subclass, superorder, order, and suborder), while still using the traditional Linnaean ranks for superfamilies and all taxa below the rank of superfamily (i.e., family, subfamily, tribe, genus, subgenus, and species. The clades have been given names which are similar to, or in some cases the same as, traditional Linnaean names for taxa above the level of superfamily. Whenever monophyly (a single ancestry) has not yet been tested and confirmed, or where a traditional taxon of gastropods has already been discovered to be paraphyletic (that it excludes some of its descendants) the term "group" or "informal group" has been used. Both Linnaean taxa and clades are invalid if it turns out they are polyphyletic, in other words if they consist of more than one lineage.
+In this taxonomy 611 valid families are recognized. Of these, 202 families are exclusively fossil, and this is indicated here with a dagger †. Superfamily names are standardized so that they all end in the suffix "-oidea", also commonly used for superorders and subclasses, replacing the "-acea" ending found especially in the older literature. Classification of families into subfamilies however is often not well resolved, and should be regarded as the best possible hypothesis.
+The publication Bouchet & Rocroi (2005) also includes a nomenclator of about 2400 suprageneric taxa (taxa above the level of genus) of gastropods, from the subtribe to the superfamily. A full bibliographic reference is provided for each taxon, giving the name of the authority, the original publication, the date of that publication, the type genus for the taxon, its nomenclatural status, and its validity under the rules of the ICZN.
+Since the publication of this taxonomic system in 2005, various changes have been published by other authors, for more information see changes in the taxonomy of gastropods since 2005.
+Main clades, groups and informal groups
+Here the information is displayed in the form of a cladogram (an evolutionary tree of descent.) It is worth bearing in mind however that this taxonomy is provisional: many of the taxa are still only known as "groups" or "informal groups", and these are very likely to be changed as more information becomes available.
+
+This cladogram is based on the following information. The list format used below makes clear which taxa are informal groups rather than clades:
+Taxonomy
+In the following, more detailed list, indentation is used only for the ranks of superfamily and family. The clade names are not indented, but their hierarchy is indicated by the size of the font used. A clearer sense of the hierarchy of the clades can be drawn from the list immediately above this one.
+Paleozoic molluscs of uncertain systematic position
+(Existing as fossils only)
+Uncertain position (Gastropoda or Monoplacophora)
+With isostrophically coiled shells of uncertain position (Gastropoda or Monoplacophora)
+With anisostrophically coiled shells of uncertain position (Gastropoda?)
+Basal taxa that are certainly Gastropoda
+(existing as fossils only)
+Clade Patellogastropoda
+Clade Vetigastropoda
+Clade Cocculiniformia
+Clade Neritimorpha  (= Neritopsina)
+Contains the Palaeozoic Neritomorpha of uncertain position and the clades Cyrtoneritimorpha and Cycloneritimorpha
+Clade Cyrtoneritimorpha
+Clade Cycloneritimorpha
+Clade Caenogastropoda
+Contains the Caenogastropoda of uncertain systematic position, the informal group Architaenioglossa and the clades Sorbeoconcha and Hypsogastropoda
+Informal group Architaenioglossa
+Clade Sorbeoconcha
+Clade Hypsogastropoda
+Contains the clades Littorinimorpha, Neogastropoda and the informal group Ptenoglossa.
+Clade Littorinimorpha
+Informal group Ptenoglossa
+Clade Neogastropoda
+Clade Heterobranchia
+Contains the informal groups Heterobranchia, Opisthobranchia and Pulmonata
+Informal group "Lower Heterobranchia" (= Allogastropoda)
+Informal group Opisthobranchia
+Contains the clades Cephalaspidea, Thecosomata, Gymnosomata, Aplysiomorpha, Sacoglossa, Umbraculida, Nudipleura and the groups Acochlidiacea and Cylindrobullida.
+Clade Cephalaspidea
+Clade Thecosomata
+Clade Gymnosomata
+Clade Aplysiomorpha (= Anaspidea)
+Group Acochlidiacea
+Subclade Oxynoacea
+Subclade Placobranchacea
+Group Cylindrobullida
+Clade Umbraculida
+Subclade Pleurobranchomorpha
+Subclade Nudibranchia
+Contains the clades Euctinidiacea and Dexiarchia
+Clade Euctenidiacea (= Holohepatica)
+Contains the subclades Gnathodoridacea and Doridacea
+Subclade Gnathodoridacea
+Subclade Doridacea
+Clade Dexiarchia (= Actenidiacea)
+Contains the clades Pseudoeuctenidiacea and Cladobranchia
+Clade Pseudoeuctenidiacea  ( = Doridoxida)
+Clade Cladobranchia ( = Cladohepatica)
+Contains the subclades Euarminida, Dendronotida and Aeolidida
+Subclade Euarminida
+Subclade Dendronotida
+Subclade Aeolidida
+Informal Group Pulmonata
+Contains the informal group Basommatophora and the clade Eupulmonata
+Informal Group Basommatophora
+Contains the clade Hygrophila
+Clade Hygrophila
+Clade Eupulmonata
+Contains the clades Systellommatophora and Stylommatophora
+Clade Systellommatophora (= Gymnomorpha)
+Clade Stylommatophora
+Contains the subclades Elasmognatha, Orthurethra and the informal group Sigmurethra
+Subclade Elasmognatha
+Subclade Orthurethra
+Informal Group Sigmurethra
+limacoid clade
+Informal group Sigmurethra continued
+Two other superfamilies are part of the clade Sigmurethra, but they are not in the limacoid clade:

@@ -1,0 +1,63 @@
+Zeeman effect
+The Zeeman effect (/ˈzeɪmən/; Dutch pronunciation: [ˈzeːmɑn]) is the effect of splitting of a spectral line into several components in the presence of a static magnetic field. It is named after the Dutch physicist Pieter Zeeman, who discovered it in 1896 and received a Nobel prize for this discovery. It is analogous to the Stark effect, the splitting of a spectral line into several components in the presence of an electric field. Also similar to the Stark effect, transitions between different components have, in general, different intensities, with some being entirely forbidden (in the dipole approximation), as governed by the selection rules.
+Since the distance between the Zeeman sub-levels is a function of magnetic field strength, this effect can be used to measure magnetic field strength, e.g. that of the Sun and other stars or in laboratory plasmas.
+The Zeeman effect is very important in applications such as nuclear magnetic resonance spectroscopy, electron spin resonance spectroscopy, magnetic resonance imaging (MRI) and Mössbauer spectroscopy. It may also be utilized to improve accuracy in atomic absorption spectroscopy.
+A theory about the magnetic sense of birds assumes that a protein in the retina is changed due to the Zeeman effect.
+When the spectral lines are absorption lines, the effect is called inverse Zeeman effect.
+Nomenclature
+Historically, one distinguishes between the normal and an anomalous Zeeman effect (discovered by Thomas Preston in Dublin, Ireland). The anomalous effect appears on transitions where the net spin of the electrons is non-zero. It was called "anomalous" because the electron spin had not yet been discovered, and so there was no good explanation for it at the time that Zeeman observed the effect. Wolfgang Pauli recalls that when asked by a colleague why he looks unhappy he replied "How can one look happy when he is thinking about the anomalous Zeeman effect?".
+At higher magnetic field strength the effect ceases to be linear. At even higher field strengths, comparable to the strength of the atom's internal field, the electron coupling is disturbed and the spectral lines rearrange. This is called the Paschen–Back effect.
+In the modern scientific literature, these terms are rarely used, with a tendency to use just the "Zeeman effect".
+Theoretical presentation
+The total Hamiltonian of an atom in a magnetic field is
+where $MATH$ is the unperturbed Hamiltonian of the atom, and $MATH$ is the perturbation due to the magnetic field:
+where $MATH$ is the magnetic moment of the atom. The magnetic moment consists of the electronic and nuclear parts; however, the latter is many orders of magnitude smaller and will be neglected here. Therefore,
+where $MATH$ is the Bohr magneton, $MATH$ is the total electronic angular momentum, and $MATH$ is the Landé g-factor.
+A more accurate approach is to take into account that the operator of the magnetic moment of an electron is a sum of the contributions of the orbital angular momentum $MATH$ and the spin angular momentum $MATH$, with each multiplied by the appropriate gyromagnetic ratio:
+where $MATH$ and $MATH$ (the latter is called the anomalous gyromagnetic ratio; the deviation of the value from 2 is due to the effects of quantum electrodynamics). In the case of the LS coupling, one can sum over all electrons in the atom:
+where $MATH$ and $MATH$ are the total orbital momentum and spin of the atom, and averaging is done over a state with a given value of the total angular momentum.
+If the interaction term $MATH$ is small (less than the fine structure), it can be treated as a perturbation; this is the Zeeman effect proper. In the Paschen–Back effect, described below, $MATH$ exceeds the LS coupling significantly (but is still small compared to $MATH$). In ultra-strong magnetic fields, the magnetic-field interaction may exceed $MATH$, in which case the atom can no longer exist in its normal meaning, and one talks about Landau levels instead. There are intermediate cases which are more complex than these limit cases.
+Weak field (Zeeman effect)
+If the spin–orbit interaction dominates over the effect of the external magnetic field, $MATH$ and $MATH$ are not separately conserved, only the total angular momentum $MATH$ is. The spin and orbital angular momentum vectors can be thought of as precessing about the (fixed) total angular momentum vector $MATH$. The (time-)"averaged" spin vector is then the projection of the spin onto the direction of $MATH$:
+and for the (time-)"averaged" orbital vector:
+Thus,
+Using $MATH$ and squaring both sides, we get
+and:
+using $MATH$ and squaring both sides, we get
+Combining everything and taking $MATH$, we obtain the magnetic potential energy of the atom in the applied external magnetic field,
+where the quantity in square brackets is the Landé g-factor gJ of the atom ($MATH$ and $MATH$) and $MATH$ is the z-component of the total angular momentum. 
+For a single electron above filled shells $MATH$ and $MATH$, the Landé g-factor can be simplified into:
+Taking $MATH$ to be the perturbation, the Zeeman correction to the energy is
+Example: Lyman-alpha transition in hydrogen
+The Lyman-alpha transition in hydrogen in the presence of the spin–orbit interaction involves the transitions
+In the presence of an external magnetic field, the weak-field Zeeman effect splits the 1S1/2 and 2P1/2 levels into 2 states each ($MATH$) and the 2P3/2 level into 4 states ($MATH$).  The Landé g-factors for the three levels are:
+Note in particular that the size of the energy splitting is different for the different orbitals, because the gJ values are different. On the left, fine structure splitting is depicted. This splitting occurs even in the absence of a magnetic field, as it is due to spin–orbit coupling. Depicted on the right is the additional Zeeman splitting, which occurs in the presence of magnetic fields.
+Strong field (Paschen–Back effect)
+The Paschen–Back effect is the splitting of atomic energy levels in the presence of a strong magnetic field. This occurs when an external magnetic field is sufficiently strong to disrupt the coupling between orbital ($MATH$) and spin ($MATH$) angular momenta. This effect is the strong-field limit of the Zeeman effect. When $MATH$, the two effects are equivalent. The effect was named after the German physicists Friedrich Paschen and Ernst E. A. Back.
+When the magnetic-field perturbation significantly exceeds the spin–orbit interaction, one can safely assume $MATH$. This allows the expectation values of $MATH$ and $MATH$ to be easily evaluated for a state $MATH$. The energies are simply
+The above may be read as implying that the LS-coupling is completely broken by the external field. However $MATH$ and $MATH$ are still "good" quantum numbers. Together with the selection rules for an electric dipole transition, i.e., $MATH$ this allows to ignore the spin degree of freedom altogether. As a result, only three spectral lines will be visible, corresponding to the $MATH$ selection rule. The splitting $MATH$ is independent of the unperturbed energies and electronic configurations of the levels being considered. In general (if $MATH$), these three components are actually groups of several transitions each, due to the residual spin–orbit coupling.
+In general, one must now add spin–orbit coupling and relativistic corrections (which are of the same order, known as 'fine structure') as a perturbation to these 'unperturbed' levels. First order perturbation theory with these fine-structure corrections yields the following formula for the hydrogen atom in the Paschen–Back limit:
+Intermediate field for j = 1/2
+In the magnetic dipole approximation, the Hamiltonian which includes both the hyperfine and Zeeman interactions is 
+where $MATH$ is the hyperfine splitting (in Hz) at zero applied magnetic field, $MATH$ and $MATH$ are the Bohr magneton and nuclear magneton respectively, $MATH$ and $MATH$ are the electron and nuclear angular momentum operators and $MATH$ is the Landé g-factor:
+In the case of weak magnetic fields, the Zeeman interaction can be treated as a perturbation to the $MATH$ basis. In the high field regime, the magnetic field becomes so strong that the Zeeman effect will dominate, and one must use a more complete basis of $MATH$ or just $MATH$ since $MATH$ and $MATH$ will be constant within a given level. 
+To get the complete picture, including intermediate field strengths, we must consider eigenstates which are superpositions of the $MATH$ and $MATH$ basis states. For $MATH$, the Hamiltonian can be solved analytically, resulting in the Breit–Rabi formula. Notably, the electric quadrupole interaction is zero for $MATH$ ($MATH$), so this formula is fairly accurate.
+We now utilize quantum mechanical ladder operators, which are defined for a general angular momentum operator $MATH$ as
+These ladder operators have the property
+as long as $MATH$ lies in the range $MATH$ (otherwise, they return zero). Using ladder operators $MATH$ and $MATH$ 
+We can rewrite the Hamiltonian as
+We can now see that at all times, the total angular momentum projection $MATH$ will be conserved. This is because both $MATH$ and $MATH$ leave states with definite $MATH$  and $MATH$ unchanged, while $MATH$ and $MATH$ either increase $MATH$ and decrease $MATH$ or vice versa, so the sum is always unaffected. Furthermore, since $MATH$ there are only two possible values of  $MATH$ which are $MATH$. Therefore, for every value of $MATH$ there are only two possible states, and we can define them as the basis:
+This pair of states is a Two-level quantum mechanical system. Now we can determine the matrix elements of the Hamiltonian:
+Solving for the eigenvalues of this matrix, (as can be done by hand - see Two-level quantum mechanical system, or more easily, with a computer algebra system) we arrive at the energy shifts:
+where $MATH$ is the splitting (in units of Hz) between two hyperfine sublevels in the absence of magnetic field $MATH$,
+$MATH$ is referred to as the 'field strength parameter' (Note: for $MATH$ the expression under the square root is an exact square, and so the last term should be replaced by $MATH$). This equation is known as the Breit–Rabi formula and is useful for systems with one valence electron in an $MATH$ ($MATH$) level.
+Note that index $MATH$ in $MATH$ should be considered not as total angular momentum of the atom but as asymptotic total angular momentum. It is equal to total angular momentum only if $MATH$
+otherwise eigenvectors corresponding different eigenvalues of the Hamiltonian are the superpositions of states with different $MATH$ but equal $MATH$ (the only exceptions are $MATH$).
+Applications
+Astrophysics
+George Ellery Hale was the first to notice the Zeeman effect in the solar spectra, indicating the existence of strong magnetic fields in sunspots. Such fields can be quite high, on the order of 0.1 tesla or higher.  Today, the Zeeman effect is used to produce magnetograms showing the variation of magnetic field on the Sun.
+Laser cooling
+The Zeeman effect is utilized in many laser cooling applications such as a magneto-optical trap and the Zeeman slower.
+Zeeman-energy mediated coupling of spin and orbital motions
+Spin–orbit interaction in crystals is usually attributed to coupling of Pauli matrices $MATH$ to electron momentum $MATH$ which exists even in the absence of magnetic field $MATH$. However, under the conditions of the Zeeman effect, when $MATH$, a similar interaction can be achieved by coupling $MATH$ to the electron coordinate $MATH$ through the spatially inhomogeneous Zeeman Hamiltonian
+where $MATH$ is a tensorial Landé g-factor and either $MATH$ or $MATH$, or both of them, depend on the electron coordinate $MATH$. Such $MATH$-dependent Zeeman Hamiltonian $MATH$ couples electron spin $MATH$ to the operator $MATH$ representing electron's orbital motion. Inhomogeneous field $MATH$ may be either a smooth field of external sources or fast-oscillating microscopic magnetic field in antiferromagnets. Spin–orbit coupling through macroscopically inhomogeneous field $MATH$  of nanomagnets is used for electrical operation of electron spins in quantum dots through electric dipole spin resonance, and driving spins by electric field due to inhomogeneous $MATH$ has been also demonstrated.

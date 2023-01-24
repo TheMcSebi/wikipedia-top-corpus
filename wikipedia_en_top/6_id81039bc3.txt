@@ -1,0 +1,61 @@
+6
+6 (six) is the natural number following 5 and preceding 7. It is a composite number and the smallest perfect number.
+In mathematics
+Six is the smallest positive integer which is neither a square number nor a prime number; it is the second smallest composite number, behind 4; its proper divisors are 1, 2 and 3.
+Since 6 equals the sum of its proper divisors, it is a perfect number; 6 is the smallest of the perfect numbers. It is also the smallest Granville number, or $MATH$-perfect number.
+As a perfect number:
+Six is the only number that is both the sum and the product of three consecutive positive numbers.
+Unrelated to 6's being a perfect number, a Golomb ruler of length 6 is a "perfect ruler". Six is a congruent number.
+Six is the first discrete biprime (2 × 3) and the first member of the (2 × q) discrete biprime family.
+Six is a unitary perfect number, a primary pseudoperfect number, a harmonic divisor number and a superior highly composite number, the last to also be a primorial.
+There are no Graeco-Latin squares with order 6. If n is a natural number that is not 2 or 6, then there is a Graeco-Latin square with order n.
+There is not a prime $MATH$ such that the multiplicative order of 2 modulo $MATH$ is 6, that is, $MATH$
+By Zsigmondy's theorem, if $MATH$ is a natural number that is not 1 or 6, then there is a prime $MATH$ such that $MATH$. See A112927 for such $MATH$.
+The ring of integer of the sixth cyclotomic field Q(ζ6) , which is called Eisenstein integer, has 6 units: ±1, ±ω, ±ω2, where $MATH$.
+The smallest non-abelian group is the symmetric group S3 which has 3! = 6 elements.
+S6, with 720 = 6! elements, is the only finite symmetric group which has an outer automorphism. This automorphism allows us to construct a number of exceptional mathematical objects such as the S(5,6,12) Steiner system, the projective plane of order 4 and the Hoffman-Singleton graph. A closely related result is the following theorem: 6 is the only natural number n for which there is a construction of n isomorphic objects on an n-set A, invariant under all permutations of A, but not naturally in one-to-one correspondence with the elements of A. This can also be expressed category theoretically: consider the category whose objects are the n element sets and whose arrows are the bijections between the sets. This category has a non-trivial functor to itself only for n = 6.
+Six similar coins can be arranged around a central coin of the same radius so that each coin makes contact with the central one (and touches both its neighbors without a gap), but seven cannot be so arranged. This makes 6 the answer to the two-dimensional kissing number problem. The densest sphere packing of the plane is obtained by extending this pattern to the hexagonal lattice in which each circle touches just six others.
+6 is the largest of the four all-Harshad numbers.
+A six-sided polygon is a hexagon, one of the three regular polygons capable of tiling the plane. Figurate numbers representing hexagons (including six) are called hexagonal numbers. Because 6 is the product of a power of 2 (namely 21) with nothing but distinct Fermat primes (specifically 3), a regular hexagon is a constructible polygon.
+Six is also an octahedral number. It is a triangular number and so is its square (36).
+There are six basic trigonometric functions.
+There are six convex regular polytopes in four dimensions.
+The six exponentials theorem guarantees (given the right conditions on the exponents) the transcendence of at least one of a set of exponentials.
+All primes above 3 are of the form 6n ± 1 for n ≥ 1.
+6 is a pronic number and the only semiprime to be.
+There are six different ways in which 100 can be expressed as the sum of two prime numbers -- 3 + 97, 11 + 89, 17 + 83, 29 + 71, 41 + 59 and 47 + 53.
+Greek and Latin word parts
+Hexa
+Hexa is classical Greek for "six". Thus:
+The prefix sex-
+Sex- is a Latin prefix meaning "six". Thus:
+The SI prefix for 10006 is exa- (E), and for its reciprocal atto- (a).
+Evolution of the Arabic digit
+The evolution of our modern digit 6 appears rather simple when compared with the other digits. The modern 6 can be traced back to the Brahmi numerals of India, which are first known from the Edicts of Ashoka circa 250 BCE. It was written in one stroke like a cursive lowercase e rotated 90 degrees clockwise. Gradually, the upper part of the stroke (above the central squiggle) became more curved, while the lower part of the stroke (below the central squiggle) became straighter. The Arabs dropped the part of the stroke below the squiggle. From there, the European evolution to our modern 6 was very straightforward, aside from a flirtation with a glyph that looked more like an uppercase G.
+On the seven-segment displays of calculators and watches, 6 is usually written with six segments. Some historical calculator models use just five segments for the 6, by omitting the top horizontal bar. This glyph variant has not caught on; for calculators that can display results in hexadecimal, a 6 that looks like a "b" is not practical.
+Just as in most modern typefaces, in typefaces with text figures the character for the digit 6 usually has an ascender, as, for example, in .
+This digit resembles an inverted 9. To disambiguate the two on objects and documents that can be inverted, the 6 has often been underlined, both in handwriting and on printed labels.
+In music
+In artists
+In instruments
+In music theory
+In works
+In religion
+In science
+Astronomy
+Biology
+Chemistry
+Medicine
+Physics
+In sports
+In technology
+In calendars
+In the arts and entertainment
+Games
+Comics and cartoons
+Literature
+TV
+Movies
+Musicals
+Anthropology
+In other fields

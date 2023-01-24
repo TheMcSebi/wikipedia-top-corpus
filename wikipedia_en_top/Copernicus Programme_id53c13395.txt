@@ -1,0 +1,48 @@
+Copernicus Programme
+Copernicus is the European Union's Earth observation programme coordinated and managed for the European Commission by the European Union Agency for the Space Programme in partnership with the European Space Agency (ESA), the EU Member States.
+
+
+The programme aims at achieving a global, continuous, autonomous, high quality, wide range Earth observation capacity. Providing accurate, timely and easily accessible information to, among other things, improve the management of the environment, understand and mitigate the effects of climate change, and ensure civil security.
+Program definition
+The objective for Copernicus is to use vast amount of global data from satellites and from ground-based, airborne and seaborne measurement systems to produce timely and quality information, services and knowledge, and to provide autonomous and independent access to information in the domains of environment and security on a global level in order to help service providers, public authorities and other international organizations improve the quality of life for the citizens of Europe. In other words, it pulls together all the information obtained by the Copernicus environmental satellites, air and ground stations and sensors to provide a comprehensive picture of the "health" of Earth.
+One of the benefits of the Copernicus programme is that the data and information produced in the framework of Copernicus are made available free-of-charge  to all its users and the public, thus allowing downstream services to be developed.
+The services offered by Copernicus cover six main interacting themes: atmosphere, marine, land, climate, emergency and security.
+Copernicus builds upon three components:
+It was named after the scientist and observer Nicolaus Copernicus. Copernicus' theory of the heliocentric universe made a pioneering contribution to modern science.
+Its costs during 1998 to 2020 are estimated at €6.7 billion with around €4.3 billion spent in the period 2014 to 2020 and shared between the EU (67%) and ESA (33%) with benefits of the data to the EU economy estimated at €30 billion through 2030. ESA as a main partner has performed much of the design and oversees and co-funds the development of Sentinel missions 1, 2, 3, 4, 5 and 6 with each Sentinel mission consisting of at least 2 satellites and some, such as Sentinel 1, consisting of 4 satellites. They will also provide the instruments for Meteosat Third Generation and MetOp-SG weather satellites of EUMETSAT where ESA and EUMETSAT will also coordinate the delivery of data from upwards of 30 satellites that form the contributing satellite missions to Copernicus.
+History
+The Copernicus programme was established by the Regulation (EU) No 377/2014  in 2014, building on the previous EU's Earth monitoring initiative GMES (established by Regulation (EU) No 911/2010 ).
+Over a few decades, European and national institutions have made substantial R&D efforts in the field of Earth observation. These efforts have resulted in tremendous achievements but the services and products developed during this period had limitations that were inherent to R&D activities (e.g. lack of service continuity on the long-term). The idea for a global and continuous European Earth observation system was developed under the name of Global Monitoring for Environment and Security (GMES) which was later re-branded into Copernicus after the EU became directly involved in financing and development. It follows and greatly expands on the work of the previous €2.3 billion European Envisat programme which operated from 2002 to 2012.
+Copernicus moved from R&D to operational services following a phased approach. Pre-operational services (Fast Track Services and Pilot Services) were phased in between 2008 and 2010. Copernicus initial operations began in 2011. Copernicus became fully operational in 2014.
+Chronology
+Earth Observation missions
+Sentinel missions
+ESA is currently developing seven missions under the Sentinel programme (Sentinel 1, 2, 3, 4, 5P, 5, 6). The Sentinel missions include radar and super-spectral imaging for land, ocean and atmospheric monitoring. Each Sentinel mission is based on a constellation of two satellites to fulfill and revisit the coverage requirements for each mission, providing robust datasets for all Copernicus services.
+The Sentinel missions will have the following objectives:
+In preparation for the second-generation of Copernicus (Copernicus 2.0), six High Priority Candidate "expansion" missions are currently being studied by ESA to address EU Policy and gaps in Copernicus user needs, and to increase the current capabilities of the Copernicus Space Component:
+Contributing missions
+Before the Sentinel missions provide data to Copernicus, numerous existing or planned space missions provide or will provide data useful to the provision of Copernicus services. These missions are often referred to as "GMES Contributing Missions (GCMs)":
+Data provided by non-European satellite missions (e.g. Landsat, GOSAT, Radarsat-2) can also be used by Copernicus.
+In-Situ Coordination
+GMES In-Situ Coordination (GISC) was a FP7 funded initiative, lasted for three years (January 2010 – December 2012) and was coordinated by the European Environment Agency (EEA).
+In situ data are all data from sources other than Earth observation satellites. Consequently, all ground-based, air-borne, and ship/buoy-based observations and measurements that are needed to implement and operate the Copernicus services are part of the in-situ component. In-situ data are indispensable; they are assimilated into forecasting models, provide calibration and validation of space-based information, and contribute to analysis or filling gaps not available from space sources.
+GISC was undertaken with reference to other initiatives, such as INSPIRE (Infrastructure for Spatial Information in the European Community) and SEIS (Shared Environmental Information System) as well as existing coordination and data exchange networks. The coordinated access to data retains the capacity to link directly data providers and the service providers because it is based on the principles of SEIS and INSPIRE. The implementation of INSPIRE is embedded in the synergies and meta-data standards that were used in GISC. Data and information aims to be managed as close as possible to its source in order to achieve a distributed system, by involving countries and existing capacities that maintain and operate the required observation infrastructure.
+Services component
+Copernicus services are dedicated to the monitoring and forecasting of the Earth's subsystems. They contribute directly to the monitoring of climate change. Copernicus services also address emergency management (e.g. in case of natural disaster, technological accidents or humanitarian crises) and security-related issues (e.g. maritime surveillance, border control).
+Copernicus services address six main thematic areas:
+The development of the pre-operational version of the services has been realised by a series of projects launched by the European Commission and partly funded through the EU's 7th Framework Programme (FP7). These projects were geoland2 (land), MyOcean (marine), SAFER (emergency response), MACC and its successor MACC II (atmosphere) and G-MOSAIC (security). Most of these projects also contributed to the monitoring of Climate Change.
+Interaction
+"The information provided by the Copernicus services can be used by end-users for a wide range of applications in a variety of areas. These include urban area management, sustainable development and nature protection, regional and local planning, agriculture, forestry and fisheries, health, civil protection, infrastructure, transport and mobility, as well as tourism".
+Copernicus is the European Union's contribution to the Global Earth Observation System of Systems (GEOSS) thus delivering geospatial information globally.
+Some Copernicus services make use of OpenStreetMap data in their maps production.
+Other relevant initiatives
+Other initiatives will also facilitate the development and functioning of Copernicus services:
+Copernicus is one of three related initiatives that are the subject of the GIGAS (GEOSS, INSPIRE and GMES an Action in Support) harmonization and analysis project  under the auspices of the EU 7th Framework Programme.
+Third country participation
+In addition to the 27 Member States of the European Union, the Copernicus programme allows for the participation at various scope for third country participation. This participation is conducted through agreements with the European Union. One has to distinguish those countries that contribute to the budget and those that agree on exchanging data with the program. Many international partner countries get special access to Sentinel data in exchange for sharing in-situ data from their country. These states are:
+2014–2020 budget contributing countries
+Data exchange
+Discussions ongoing with:
+Canada, Japan, Argentina, Thailand, Indonesia, Vietnam, China (part of Space Dialogue)
+2021–2027 budget contributing countries
+Negotiations ongoing (October 2021):

@@ -1,0 +1,78 @@
+Characteristic function (probability theory)
+In probability theory and statistics, the characteristic function of any real-valued random variable completely defines its probability distribution. If a random variable admits a probability density function, then the characteristic function is the Fourier transform of the probability density function. Thus it provides an alternative route to analytical results compared with working directly with probability density functions or cumulative distribution functions. There are particularly simple results for the characteristic functions of distributions defined by the weighted sums of random variables.
+In addition to univariate distributions, characteristic functions can be defined for vector- or matrix-valued random variables, and can also be extended to more generic cases.
+The characteristic function always exists when treated as a function of a real-valued argument, unlike the moment-generating function. There are relations between the behavior of the characteristic function of a distribution and properties of the distribution, such as the existence of moments and the existence of a density function.
+Introduction
+The characteristic function provides an alternative way for describing a random variable. Similar to the cumulative distribution function,
+(where 1{X ≤ x} is the indicator function — it is equal to 1 when X ≤ x, and zero otherwise), which completely determines the behavior and properties of the probability distribution of the random variable X. The characteristic function,
+also completely determines the behavior and properties of the probability distribution of the random variable X. The two approaches are equivalent in the sense that knowing one of the functions it is always possible to find the other, yet they provide different insights for understanding the features of the random variable. Moreover, in particular cases, there can be differences in whether these functions can be represented as expressions involving simple standard functions.
+If a random variable admits a density function, then the characteristic function is its Fourier dual, in the sense that each of them is a Fourier transform of the other. If a random variable has a moment-generating function $MATH$, then the domain of the characteristic function can be extended to the complex plane, and
+Note however that the characteristic function of a distribution always exists, even when the probability density function or moment-generating function do not.
+The characteristic function approach is particularly useful in analysis of linear combinations of independent random variables: a classical proof of the Central Limit Theorem uses characteristic functions and Lévy's continuity theorem. Another important application is to the theory of the decomposability of random variables.
+Definition
+For a scalar random variable X the characteristic function is defined as the expected value of eitX, where i is the imaginary unit, and t ∈ R is the argument of the characteristic function:
+Here FX is the cumulative distribution function of X, and the integral is of the Riemann–Stieltjes kind. If a random variable X has a probability density function fX, then the characteristic function is its Fourier transform with sign reversal in the complex exponential. QX(p) is the inverse cumulative distribution function of X also called the quantile function of X.
+This convention for the constants appearing in the definition of the characteristic function differs from the usual convention for the Fourier transform. For example, some authors define φX(t) = Ee−2πitX, which is essentially a change of parameter. Other notation may be encountered in the literature: $MATH$ as the characteristic function for a probability measure p, or $MATH$ as the characteristic function corresponding to a density f.
+Generalizations
+The notion of characteristic functions generalizes to multivariate random variables and more complicated random elements. The argument of the characteristic function will always belong to the continuous dual of the space where the random variable X takes its values. For common cases such definitions are listed below:
+Examples
+Oberhettinger (1973) provides extensive tables of characteristic functions.
+Properties
+Continuity
+The bijection stated above between probability distributions and characteristic functions is sequentially continuous. That is, whenever a sequence of distribution functions Fj(x) converges (weakly) to some distribution F(x), the corresponding sequence of characteristic functions φj(t)  will also converge, and the limit φ(t) will correspond to the characteristic function of law F. More formally, this is stated as
+This theorem can be used to prove the law of large numbers and the central limit theorem.
+Inversion formula
+There is a one-to-one correspondence between cumulative distribution functions and characteristic functions, so it is possible to find one of these functions if we know the other. The formula in the definition of characteristic function allows us to compute φ when we know the distribution function F (or density f). If, on the other hand, we know the characteristic function φ and want to find the corresponding distribution function, then one of the following inversion theorems can be used.
+Theorem. If the characteristic function φX of a random variable X is integrable, then FX is absolutely continuous, and therefore X has a probability density function. In the univariate case (i.e. when X is scalar-valued) the density function is given by
+In the multivariate case it is
+where $MATH$ is the dot-product.
+The density function is the Radon–Nikodym derivative of the distribution μX with respect to the Lebesgue measure λ:
+Theorem (Lévy). If φX is characteristic function of distribution function FX, two points a < b are such that {x | a < x < b} is a continuity set of μX (in the univariate case this condition is equivalent to continuity of FX at points a and b), then
+Theorem. If a is (possibly) an atom of X (in the univariate case this means a point of discontinuity of FX ) then
+Theorem (Gil-Pelaez). For a univariate random variable X, if x is a continuity point of FX then
+where the imaginary part of a complex number $MATH$ is given by $MATH$.
+And its density function is:
+The integral may be not Lebesgue-integrable; for example, when X is the discrete random variable that is always 0, it becomes the Dirichlet integral.
+Inversion formulas for multivariate distributions are available.
+Criteria for characteristic functions
+The set of all characteristic functions is closed under certain operations:
+It is well known that any non-decreasing càdlàg function F with limits F(−∞) = 0, F(+∞) = 1 corresponds to a cumulative distribution function of some random variable. There is also interest in finding similar simple criteria for when a given function φ could be the characteristic function of some random variable. The central result here is Bochner’s theorem, although its usefulness is limited because the main condition of the theorem, non-negative definiteness, is very hard to verify. Other theorems also exist, such as Khinchine’s, Mathias’s, or Cramér’s, although their application is just as difficult. Pólya’s theorem, on the other hand, provides a very simple convexity condition which is sufficient but not necessary. Characteristic functions which satisfy this condition are called Pólya-type.
+Bochner’s theorem. An arbitrary function φ : Rn → C is the characteristic function of some random variable if and only if φ is positive definite, continuous at the origin, and if φ(0) = 1.
+Khinchine’s criterion. A complex-valued, absolutely continuous function φ, with φ(0) = 1, is a characteristic function if and only if it admits the representation
+Mathias’ theorem. A real-valued, even, continuous, absolutely integrable function φ, with φ(0) = 1, is a characteristic function if and only if
+for n = 0,1,2,..., and all p > 0. Here H2n denotes the Hermite polynomial of degree 2n.
+Pólya’s theorem. If $MATH$ is a real-valued, even, continuous function which satisfies the conditions
+then φ(t) is the characteristic function of an absolutely continuous distribution symmetric about 0.
+Uses
+Because of the continuity theorem, characteristic functions are used in the most frequently seen proof of the central limit theorem. The main technique involved in making calculations with  a characteristic function is recognizing the function as the characteristic function of a particular distribution.
+Basic manipulations of distributions
+Characteristic functions are particularly useful for dealing with linear functions of independent random variables. For example, if X1, X2, ..., Xn is a sequence of independent (and not necessarily identically distributed) random variables, and
+where the ai are constants, then the characteristic function for Sn is given by
+In particular, φX+Y(t) = φX(t)φY(t).  To see this, write out the definition of characteristic function:
+The independence of X and Y is required to establish the equality of the third and fourth expressions.
+Another special case of interest for identically distributed random variables is when ai = 1/n and then Sn is the sample mean.  In this case, writing X for the mean,
+Moments
+Characteristic functions can also be used to find moments of a random variable.  Provided that the nth moment exists, the characteristic function can be differentiated n times and
+For example, suppose X has a standard Cauchy distribution.  Then φX(t) = e−|t|.  This is not differentiable at t = 0, showing that the Cauchy distribution has no expectation.  Also, the characteristic function of the sample mean X of n independent observations has characteristic function φX(t) = (e−|t|/n)n = e−|t|, using the result from the previous section.  This is the characteristic function of the standard Cauchy distribution: thus, the sample mean has the same distribution as the population itself.
+As a further example, suppose X follows a Gaussian distribution i.e. $MATH$. Then $MATH$ and
+A similar calculation shows $MATH$ and is easier to carry out than applying the definition of expectation and using integration by parts to evaluate $MATH$.
+The logarithm of a characteristic function is a cumulant generating function, which is useful for finding cumulants; some instead define the cumulant generating function as the logarithm of the moment-generating function, and call the logarithm of the characteristic function the second cumulant generating function.
+Data analysis
+Characteristic functions can be used as part of procedures for fitting probability distributions to samples of data. Cases where this provides a practicable option compared to other possibilities include fitting the stable distribution since closed form expressions for the density are not available which makes implementation of maximum likelihood estimation difficult.  Estimation procedures are available which match the theoretical characteristic function to the empirical characteristic function, calculated from the data. Paulson et al. (1975) and Heathcote (1977) provide some theoretical background for such an estimation procedure. In addition, Yu (2004) describes applications of empirical characteristic functions to fit time series models where likelihood procedures are impractical. Empirical characteristic functions have also been used by Ansari et al. (2020) and Li et al. (2020) for training generative adversarial networks.
+Example
+The gamma distribution with scale parameter θ and a shape parameter k has the characteristic function
+Now suppose that we have
+with X and Y independent from each other, and we wish to know what the distribution of X + Y is. The characteristic functions are
+which by independence and the basic properties of characteristic function leads to
+This is the characteristic function of the gamma distribution scale parameter θ and shape parameter k1 + k2, and we therefore conclude
+The result can be expanded to n independent gamma distributed random variables with the same scale parameter and we get
+Entire characteristic functions
+As defined above, the argument of the characteristic function is treated as a real number: however, certain aspects of the theory of characteristic functions are advanced by extending the definition into the complex plane by analytical continuation, in cases where this is possible.
+Related concepts
+Related concepts include the moment-generating function and the probability-generating function. The characteristic function exists for all probability distributions. This is not the case for the moment-generating function.
+The characteristic function is closely related to the Fourier transform: the characteristic function of a probability density function p(x) is the complex conjugate of the continuous Fourier transform of p(x) (according to the usual convention; see continuous Fourier transform – other conventions).
+where P(t) denotes the continuous Fourier transform of the probability density function p(x). Likewise, p(x) may be recovered from φX(t) through the inverse Fourier transform:
+Indeed, even when the random variable does not have a density, the characteristic function may be seen as the Fourier transform of the measure corresponding to the random variable.
+Another related concept is the representation of probability distributions as elements of a reproducing kernel Hilbert space via the kernel embedding of distributions.  This framework may be viewed as a generalization of the characteristic function under specific choices of the kernel function.
+See also
+Notes

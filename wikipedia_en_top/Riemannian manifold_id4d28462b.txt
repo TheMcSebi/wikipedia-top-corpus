@@ -1,0 +1,92 @@
+Riemannian manifold
+In differential geometry, a Riemannian manifold or Riemannian space (M, g), so called after the German mathematician Bernhard Riemann, is a real, smooth manifold M equipped with a positive-definite inner product gp on the tangent space TpM at each point p. 
+The family gp of inner products is called a Riemannian metric (or Riemannian metric tensor). Riemannian geometry is the study of Riemannian manifolds.
+A common convention is to take g to be smooth, which means that for any smooth coordinate chart (U, x) on M, the n2 functions
+are smooth functions. These functions are commonly designated as $MATH$.
+With further restrictions on the $MATH$, one could also consider Lipschitz Riemannian metrics or measurable Riemannian metrics, among many other possibilities.
+A Riemannian metric (tensor) makes it possible to define several geometric notions on a Riemannian manifold, such as angle at an intersection, length of a curve, area of a surface and higher-dimensional analogues (volume, etc.), extrinsic curvature of submanifolds, and intrinsic curvature of the manifold itself.
+Introduction
+In 1828, Carl Friedrich Gauss proved his Theorema Egregium ("remarkable theorem" in Latin), establishing an important property of surfaces. Informally, the theorem says that the curvature of a surface can be determined entirely by measuring distances along paths on the surface. That is, curvature does not depend on how the surface might be embedded in 3-dimensional space. See Differential geometry of surfaces. Bernhard Riemann extended Gauss's theory to higher-dimensional spaces called manifolds in a way that also allows distances and angles to be measured and the notion of curvature to be defined, again in a way that is intrinsic to the manifold and not dependent upon its embedding in higher-dimensional spaces. Albert Einstein used the theory of pseudo-Riemannian manifolds (a generalization of Riemannian manifolds) to develop his general theory of relativity. In particular, his equations for gravitation are constraints on the curvature of spacetime.
+Definition
+The tangent bundle of a smooth manifold $MATH$ assigns to each point $MATH$ of $MATH$ a vector space $MATH$ called the tangent space of $MATH$ at $MATH$ A Riemannian metric (by its definition) assigns to each $MATH$ a positive-definite inner product $MATH$ along with which comes a norm $MATH$ defined by $MATH$ The smooth manifold $MATH$ endowed with this metric $MATH$ is a Riemannian manifold, denoted $MATH$.
+When given a system of smooth local coordinates on $MATH$ given by $MATH$ real-valued functions $MATH$ the vectors
+form a basis of the vector space $MATH$ for any $MATH$ Relative to this basis, one can define metric tensor "components" at each point $MATH$ by
+One could consider these as $MATH$ individual functions $MATH$ or as a single $MATH$ matrix-valued function on $MATH$ note that the "Riemannian" assumption says that it is valued in the subset consisting of symmetric positive-definite matrices.
+In terms of tensor algebra, the metric tensor can be written in terms of the dual basis {dx1, ..., dxn} of the cotangent bundle as
+Isometries
+If $MATH$ and $MATH$ are two Riemannian manifolds, with $MATH$ a diffeomorphism, then $MATH$ is called an isometry if $MATH$ i.e. if
+for all $MATH$ and $MATH$
+One says that a map $MATH$ not assumed to be a diffeomorphism, is a local isometry if every $MATH$ has an open neighborhood $MATH$ such that $MATH$ is an isometry (and thus a diffeomorphism).
+Regularity of a Riemannian metric
+One says that the Riemannian metric $MATH$ is continuous if $MATH$ are continuous when given any smooth coordinate chart $MATH$ One says that $MATH$ is smooth if these functions are smooth when given any smooth coordinate chart. One could also consider many other types of Riemannian metrics in this spirit.
+In most expository accounts of Riemannian geometry, the metrics are always taken to be smooth. However, there can be important reasons to consider metrics which are less smooth. Riemannian metrics produced by methods of geometric analysis, in particular, can be less than smooth. See for instance (Gromov 1999) and (Shi and Tam 2002).
+Overview
+Examples of Riemannian manifolds will be discussed below. A famous theorem of John Nash states that, given any smooth Riemannian manifold $MATH$ there is a (usually large) number $MATH$ and an embedding $MATH$ such that the pullback by $MATH$ of the standard Riemannian metric on $MATH$ is $MATH$ Informally, the entire structure of a smooth Riemannian manifold can be encoded by a diffeomorphism to a certain embedded submanifold of some Euclidean space. In this sense, it is arguable that nothing can be gained from the consideration of abstract smooth manifolds and their Riemannian metrics. However, there are many natural smooth Riemannian manifolds, such as the set of rotations of three-dimensional space and the hyperbolic space, of which any representation as a submanifold of Euclidean space will fail to represent their remarkable symmetries and properties as clearly as their abstract presentations do.
+Examples
+Euclidean space
+Let $MATH$ denote the standard coordinates on $MATH$ Then define $MATH$ by
+Phrased differently: relative to the standard coordinates, the local representation $MATH$ is given by the constant value $MATH$
+This is clearly a Riemannian metric, and is called the standard Riemannian structure on $MATH$ It is also referred to as Euclidean space of dimension n and gijcan is also called the (canonical) Euclidean metric.
+Embedded submanifolds
+Let $MATH$ be a Riemannian manifold and let $MATH$ be an embedded submanifold of $MATH$ which is at least $MATH$ Then the restriction of g to vectors tangent along N defines a Riemannian metric over N.
+Immersions
+Let $MATH$ be a Riemannian manifold and let $MATH$ be a differentiable map. Then one may consider the pullback of $MATH$ via $MATH$, which is a symmetric 2-tensor on $MATH$ defined by
+where $MATH$ is the pushforward of $MATH$ by $MATH$
+In this setting, generally $MATH$ will not be a Riemannian metric on $MATH$ since it is not positive-definite. For instance, if $MATH$ is constant, then $MATH$ is zero. In fact, $MATH$ is a Riemannian metric if and only if $MATH$ is an immersion, meaning that the linear map $MATH$ is injective for each $MATH$
+Product metrics
+Let $MATH$ and $MATH$ be two Riemannian manifolds, and consider the cartesian product $MATH$ with the usual product smooth structure. The Riemannian metrics $MATH$ and $MATH$ naturally put a Riemannian metric $MATH$ on $MATH$ which can be described in a few ways.
+A standard example is to consider the n-torus $MATH$ define as the n-fold product $MATH$ If one gives each copy of $MATH$ its standard Riemannian metric, considering $MATH$ as an embedded submanifold (as above), then one can consider the product Riemannian metric on $MATH$ It is called a flat torus.
+Convex combinations of metrics
+Let $MATH$ and $MATH$ be two Riemannian metrics on $MATH$ Then, for any number $MATH$
+is also a Riemannian metric on $MATH$ More generally, if $MATH$ and $MATH$ are any two positive numbers, then $MATH$ is another Riemannian metric.
+Every smooth manifold has a Riemannian metric
+This is a fundamental result. Although much of the basic theory of Riemannian metrics can be developed by only using that a smooth manifold is locally Euclidean, for this result it is necessary to include in the definition of "smooth manifold" that it is Hausdorff and paracompact. The reason is that the proof makes use of a partition of unity. 
+Let $MATH$ be a differentiable manifold and $MATH$ a locally finite atlas so that $MATH$ are open subsets and $MATH$ are diffeomorphisms. 
+Let $MATH$ be a differentiable partition of unity subordinate to the given atlas, i.e. such that $MATH$  for all $MATH$.
+Then define the metric $MATH$ on $MATH$ by
+where $MATH$ is the Euclidean metric on $MATH$ and $MATH$ is its pullback along $MATH$.
+This is readily seen to be a metric on $MATH$.
+The metric space structure of continuous connected Riemannian manifolds
+The length of piecewise continuously-differentiable curves
+If $MATH$ :[a,b]\to M}
+  
+ is differentiable, then it assigns to each $MATH$ a vector $MATH$ in the vector space $MATH$ the size of which can be measured by the norm $MATH$ So $MATH$ defines a nonnegative function on the interval $MATH$ The length is defined as the integral of this function; however, as presented here, there is no reason to expect this function to be integrable. It is typical to suppose g to be continuous and $MATH$ to be continuously differentiable, so that the function to be integrated is nonnegative and continuous, and hence the length of $MATH$
+is well-defined. This definition can easily be extended to define the length of any piecewise-continuously differentiable curve.
+In many instances, such as in defining the Riemann curvature tensor, it is necessary to require that g has more regularity than mere continuity; this will be discussed elsewhere. For now, continuity of g will be enough to use the length defined above in order to endow M with the structure of a metric space, provided that it is connected.
+The metric space structure
+Precisely, define $MATH$ by
+It is mostly straightforward to check the well-definedness of the function $MATH$ its symmetry property $MATH$ its reflexivity property $MATH$ and the triangle inequality $MATH$ although there are some minor technical complications (such as verifying that any two points can be connected by a piecewise-differentiable path). It is more fundamental to understand that $MATH$ ensures $MATH$ and hence that $MATH$ satisfies all of the axioms of a metric.
+The observation that underlies the above proof, about comparison between lengths measured by g and Euclidean lengths measured in a smooth coordinate chart, also verifies that the metric space topology of $MATH$ coincides with the original topological space structure of $MATH$
+Although the length of a curve is given by an explicit formula, it is generally impossible to write out the distance function $MATH$ by any explicit means. In fact, if $MATH$ is compact then, even when g is smooth, there always exist points where $MATH$ is non-differentiable, and it can be remarkably difficult to even determine the location or nature of these points, even in seemingly simple cases such as when $MATH$ is an ellipsoid.
+Geodesics
+As in the previous section, let $MATH$ be a connected and continuous Riemannian manifold; consider the associated metric space $MATH$ Relative to this metric space structure, one says that a path $MATH$ is a unit-speed geodesic if for every $MATH$ there exists an interval $MATH$ which contains $MATH$ and such that
+Informally, one may say that one is asking for $MATH$ to locally 'stretch itself out' as much as it can, subject to the (informally considered) unit-speed constraint. The idea is that if $MATH$ is (piecewise) continuously differentiable and $MATH$ for all $MATH$ then one automatically has $MATH$ by applying the triangle inequality to a Riemann sum approximation of the integral defining the length of $MATH$ So the unit-speed geodesic condition as given above is requiring $MATH$ and $MATH$ to be as far from one another as possible. The fact that we are only looking for curves to locally stretch themselves out is reflected by the first two examples given below; the global shape of $MATH$ may force even the most innocuous geodesics to bend back and intersect themselves.
+Note that unit-speed geodesics, as defined here, are by necessity continuous, and in fact Lipschitz, but they are not necessarily differentiable or piecewise differentiable.
+The Hopf–Rinow theorem
+As above, let $MATH$ be a connected and continuous Riemannian manifold. The Hopf–Rinow theorem, in this setting, says that (Gromov 1999)
+The essence of the proof is that once the first half is established, one may directly apply the Arzelà–Ascoli theorem, in the context of the compact metric space $MATH$ to a sequence of piecewise continuously-differentiable unit-speed curves from $MATH$ to $MATH$ whose lengths approximate $MATH$ The resulting subsequential limit is the desired geodesic.
+The assumed completeness of $MATH$ is important. For example, consider the case that $MATH$ is the punctured plane $MATH$ with its standard Riemannian metric, and one takes $MATH$ and $MATH$ There is no unit-speed geodesic from one to the other.
+The diameter
+Let $MATH$ be a connected and continuous Riemannian manifold. As with any metric space, one can define the diameter of $MATH$ to be
+The Hopf–Rinow theorem shows that if $MATH$ is complete and has finite diameter, then it is compact. Conversely, if $MATH$ is compact, then the function $MATH$ has a maximum, since it is a continuous function on a compact metric space. This proves the following statement:
+This is not the case without the completeness assumption; for counterexamples one could consider any open bounded subset of a Euclidean space with the standard Riemannian metric.
+Note that, more generally, and with the same one-line proof, every compact metric space has finite diameter. However the following statement is false: "If a metric space is complete and has finite diameter, then it is compact." For an example of a complete and non-compact metric space of finite diameter, consider
+with the uniform metric
+So, although all of the terms in the above corollary of the Hopf–Rinow theorem involve only the metric space structure of $MATH$ it is important that the metric is induced from a Riemannian structure.
+Riemannian metrics
+Geodesic completeness
+A Riemannian manifold M is geodesically complete if for all p ∈ M, the exponential map expp is defined for all v ∈ TpM, i.e. if any geodesic γ(t) starting from p is defined for all values of the parameter t ∈ R.  The Hopf–Rinow theorem asserts that M is geodesically complete if and only if it is complete as a metric space.
+If M is complete, then M is non-extendable in the sense that it is not isometric to an open proper submanifold of any other Riemannian manifold.  The converse is not true, however: there exist non-extendable manifolds that are not complete.
+Infinite-dimensional manifolds
+The statements and theorems above are for finite-dimensional manifolds—manifolds whose charts map to open subsets of $MATH$ These can be extended, to a certain degree, to infinite-dimensional manifolds; that is, manifolds that are modeled after a topological vector space; for example, Fréchet, Banach and Hilbert manifolds.
+Definitions
+Riemannian metrics are defined in a way similar to the finite-dimensional case. However there is a distinction between two types of Riemannian metrics:
+Examples
+The metric space structure
+Length of curves is defined in a way similar to the finite-dimensional case. The function $MATH$ is defined in the same manner and is called the geodesic distance. In the finite-dimensional case, the proof that this function is a metric uses the existence of a pre-compact open set around any point. In the infinite case, open sets are no longer pre-compact and so this statement may fail.
+For an example of the latter, see Valentino and Daniele (2019).
+The Hopf–Rinow theorem
+In the case of strong Riemannian metrics, a part of the finite-dimensional Hopf–Rinow still works. 
+Theorem: Let $MATH$ be a strong Riemannian manifold. Then metric completeness (in the metric $MATH$) implies geodesic completeness (geodesics exist for all time). Proof can be found in (Lang 1999, Chapter VII, Section 6). The other statements of the finite-dimensional case may fail.
+An example can be found here.
+If $MATH$ is a weak Riemannian metric, then no notion of completeness implies the other in general.

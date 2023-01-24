@@ -1,0 +1,135 @@
+Iban language
+The Iban language (jaku Iban) is spoken by the Iban, a branch of the Dayak ethnic group, who live in Brunei, the Indonesian province of West Kalimantan and in the Malaysian state of Sarawak. It belongs to the Malayic languages, a Malayo-Polynesian branch of the Austronesian language family.
+Classification
+Iban is classified as a Malayic language, a Malayo-Polynesian branch of the Austronesian language family. The language is closely related to Malay, more closely to Sarawakian Malay. It is thought that the homeland of the Malayic languages is in western Borneo, where the Ibanic languages remain. The Malayan branch represents a secondary dispersal, probably from central Sumatra but possibly also from Borneo.
+Background
+The Iban language is the native language of the Iban people, who fall under the general grouping of "Dayak" (i.e. native peoples of Borneo). Previously, the Iban were referred to during the colonial period as "Sea Dayaks". Their homeland is the island of Borneo, which is politically divided between Malaysia and Indonesia; the Iban can mostly be found in the Malaysian state of Sarawak.
+The language is mostly taught to students in rural areas with a majority Iban population, including Baleh (Kapit), Betong, Sri Aman, Saratok, Lubok Antu, Pelagus (Kapit), Pakan and Julau. In big cities like Kuching, only a small number of schools teach Iban. This is due to the limited number of teachers who are capable of teaching it. Form 5 and Form 3 students are allowed to take Iban in their SPM & PT3 exam.
+Dialects
+Iban can be subdivided into different sub-ethnic groups, each of which speak in different dialects. The most formal, intermediate, and working dialect is the Saribas dialect, and mainly Betong and Saratok. Others such as Balau, Sebuyau, Ulu Ai, and Rejang are mutually intelligible throughout the Sarawak region. The exception is the Iban Remun/Milikin dialect, which is still understood by Ibans from other districts. In West Kalimantan, dialects such as Bugau, Seberuang, Mualang, Chengkang, Sebaru, and Dau are more disparate. 
+Dialect comparison
+Sample phases in Iban Remun
+Phonology
+Consonants
+Iban has the following consonant inventory:
+Vowels
+Iban has a six-vowel system, with five cardinal vowels plus schwa:
+Vowel sounds are nasalized when preceded by a nasal consonant.
+Writing system
+Although the Iban language is presently written using the Latin alphabet, an Iban syllabary (the Dunging script) was devised by Dunging anak Gunggu, who reportedly spent fifteen years from 1947 to 1962 devising the script. Twenty generations before Dunging, which would represent approximately 400–600 years, an ancestor named Renggi also devised a script, but it was apparently lost in a flood. The Iban syllabary is published but is not widely distributed; efforts by Dr. Bromeley Philip of Universiti Teknologi MARA to promote and revitalize the use of script have resulted in the creation of digital fonts in 2010, called LaserIban. His aim is to help preserve the Iban alphabet in digital form in the modern world. The LaserIban font is available for Windows and Macintosh computers and is completely cross-platform compatible. His work has also led to the creation of a teaching program and the transcription of several traditional folktales.
+Grammar
+Lexical roots can be expanded by many affixes in Iban, as exemplified here with the verb gagai.
+There are four types of affixes in Iban, namely prefixes, suffixes, circumfixes and infixes.
+Other examples:
+Personal pronouns
+Iban has separate words for inclusive and exclusive we, and distinguishes singular, dual, and plural.
+Sample
+Pronouns are primarily put after subjects.
+Possessive pronouns
+Sample phases:
+Demonstrative determiners
+There are three demonstrative determiners in Iban. Tu 'this, these' is used for a noun which is generally near to the speaker, nya 'that, those' is used for a noun which is generally far from the speaker, and nyin, which is the furthest from the speaker.
+These words can also act as demonstrative pronouns where they can stands on theirs own, replacing rather than modifying a noun.
+Example:
+Demonstrative pronouns
+In Iban, demonstrative pronouns are words that show which person or thing is being referred in relation to the location of the addressee to the speaker. There are three demonstrative pronouns in Iban depending on location to the speaker. They can only be used to refer to an addressee (human) and cannot be used to refer to inanimate objects.
+Examples:
+Demonstrative adverbs
+Demonstrative adverbs in Iban are closely related to the demonstrative pronouns in Iban grammar. For example, corresponding to the demonstrative pronouns are the adverbs such as kitu ('going here'), kia ('going there') and kin ('going there (farthest)') equivalent adverbs corresponding to the demonstrative pronoun this are tu, nya and nyin. 
+Examples:
+Locatives
+Examples:
+
+
+Manner
+Iban also has a set of adverbs referring to manner. They are a combination of baka (ke) ('like/as') and the abbreviated determiner forms tu, nya and nyin.
+Examples:
+Interrogative words
+Iban also has a few interrogative words: sapa, nama, ni, lapa, kemaya and berapa.
+Sapa
+Who
+empu
+own
+jam
+watch
+tu?
+this
+Sapa empu jam tu?
+Who own watch this
+Who owns this watch?
+Nama
+What
+gaga
+doing
+nuan
+you
+ditu?
+here
+Nama gaga nuan ditu?
+What doing you here
+What are you doing here?
+Ni
+Where
+ai
+water/drink
+ku
+my
+tadi?
+just now
+Ni ai ku tadi?
+Where water/drink my {just now}
+Where is my drink?
+Lapa
+Why
+nuan
+you
+nyabak?
+crying
+Lapa nuan nyabak?
+Why you crying
+Why are you crying?
+Kemaya
+When
+tua
+we
+deka
+going to
+betemu?
+meet
+Kemaya tua deka betemu?
+When we {going to} meet
+When are we going to meet?
+Berapa
+How many
+iku
+CL
+manuk
+chicken
+tupi
+raise
+nuan?
+you
+Berapa iku manuk tupi nuan?
+{How many} CL chicken raise you
+How many chicken you raise?
+Bakani
+How
+gaya
+look
+mua ari
+weather
+saritu?
+today
+Bakani gaya {mua ari} saritu?
+How look weather today
+How is the weather today?
+Examples
+Family
+For extended family in Iban
+Example;
+Days
+Example:
+Months
+The Iban calendar is one month ahead of the Gregorian calendar as follows:
+References
+Sources

@@ -1,0 +1,65 @@
+Hypergeometric distribution
+In probability theory and statistics, the hypergeometric distribution is a discrete probability distribution that describes the probability of $MATH$ successes (random draws for which the object drawn has a specified feature) in $MATH$ draws, without replacement, from a finite population of size $MATH$ that contains exactly $MATH$ objects with that feature, wherein each draw is either a success or a failure. In contrast, the binomial distribution describes the probability of $MATH$ successes in $MATH$ draws with replacement.
+Definitions
+Probability mass function
+The following conditions characterize the hypergeometric distribution:
+A random variable $MATH$ follows the hypergeometric distribution if its probability mass function (pmf) is given by
+where
+The pmf is positive when $MATH$.
+A random variable distributed hypergeometrically with parameters $MATH$, $MATH$ and $MATH$ is written $MATH$ and has probability mass function $MATH$ above.
+Combinatorial identities
+As required, we have
+which essentially follows from Vandermonde's identity from combinatorics.
+Also note that
+This identity can be shown by expressing the binomial coefficients in terms of factorials and rearranging the latter, but it
+also follows from the symmetry of the problem. Indeed, consider two rounds of drawing without replacement. In the first round, $MATH$ out of $MATH$ neutral marbles are drawn from an urn without replacement and coloured green. Then the colored marbles are put back. In the second round, $MATH$ marbles are drawn without replacement and colored red. Then, the number of marbles with both colors on them (that is, the number of marbles that have been drawn twice) has the hypergeometric distribution. The symmetry in $MATH$ and $MATH$ stems from the fact that the two rounds are independent, and one could have started by drawing $MATH$ balls and colouring them red first.
+Properties
+Working example
+The classical application of the hypergeometric distribution is sampling without replacement. Think of an urn with two colors of marbles, red and green. Define drawing a green marble as a success and drawing a red marble as a failure (analogous to the binomial distribution). If the variable N describes the number of all marbles in the urn (see contingency table below) and K describes the number of green marbles, then N − K corresponds to the number of red marbles. In this example, X is the random variable whose outcome is k, the number of green marbles actually drawn in the experiment. This situation is illustrated by the following contingency table:
+Now, assume (for example) that there are 5 green and 45 red marbles in the urn. Standing next to the urn, you close your eyes and draw 10 marbles without replacement. What is the probability that exactly 4 of the 10 are green? Note that although we are looking at success/failure, the data are not accurately modeled by the binomial distribution, because the probability of success on each trial is not the same, as the size of the remaining population changes as we remove each marble.
+This problem is summarized by the following contingency table:
+The probability of drawing exactly k green marbles can be calculated by the formula
+Hence, in this example calculate
+Intuitively we would expect it to be even more unlikely that all 5 green marbles will be among the 10 drawn.
+As expected, the probability of drawing 5 green marbles is roughly 35 times less likely than that of drawing 4.
+Symmetries
+Swapping the roles of green and red marbles:
+Swapping the roles of drawn and not drawn marbles:
+Swapping the roles of green and drawn marbles:
+These symmetries generate the dihedral group $MATH$.
+Order of draws
+The probability of drawing any set of green and red marbles (the hypergeometric distribution) depends only on the  numbers of green and red marbles, not on the order in which they appear; i.e., it is an exchangeable distribution. As a result, the probability of drawing a green marble in the $MATH$ draw is
+This is an ex ante probability—that is, it is based on not knowing the results of the previous draws.
+Tail bounds
+Let $MATH$ and $MATH$. Then for $MATH$ we can derive the following bounds:
+where
+is the Kullback-Leibler divergence and it is used that $MATH$.
+If n is larger than N/2, it can be useful to apply symmetry to "invert" the bounds, which give you the following:
+
+
+Statistical Inference
+Hypergeometric test
+The hypergeometric test uses the hypergeometric distribution to measure the statistical significance of having drawn a sample consisting of a specific number of $MATH$ successes (out of $MATH$ total draws) from a population of size $MATH$ containing $MATH$ successes. In a test for over-representation of successes in the sample, the hypergeometric p-value is calculated as the probability of randomly drawing $MATH$ or more successes from the population in $MATH$ total draws. In a test for under-representation, the p-value is the probability of randomly drawing $MATH$ or fewer successes.
+The test based on the hypergeometric distribution (hypergeometric test) is identical to the corresponding one-tailed version of Fisher's exact test. Reciprocally, the p-value of a two-sided Fisher's exact test can be calculated as the sum of two appropriate hypergeometric tests (for more information see).
+The test is often used to identify which sub-populations are over- or under-represented in a sample. This test has a wide range of applications. For example, a marketing group could use the test to understand their customer base by testing a set of known customers for over-representation of various demographic subgroups (e.g., women, people under 30).
+Related distributions
+Let $MATH$ and $MATH$.
+where $MATH$ is the standard normal distribution function
+The following table describes four distributions related to the number of successes in a sequence of draws: 
+Multivariate hypergeometric distribution
+The model of an urn with green and red marbles can be extended to the case where there are more than two colors of marbles. If there are Ki marbles of color i in the urn and you take n marbles at random without replacement, then the number of marbles of each color in the sample (k1, k2,..., kc) has the multivariate hypergeometric distribution.  This has the same relationship to the multinomial distribution that the hypergeometric distribution has to the binomial distribution—the multinomial distribution is the "with-replacement" distribution and the multivariate hypergeometric is the "without-replacement" distribution.
+The properties of this distribution are given in the adjacent table, where c is the number of different colors and $MATH$ is the total number of marbles.
+Example
+Suppose there are 5 black, 10 white, and 15 red marbles in an urn.  If six marbles are chosen without replacement, the probability that exactly two of each color are chosen is
+Occurrence and applications
+Application to auditing elections
+Election audits typically test a sample of machine-counted precincts to see if recounts by hand or machine match the original counts. Mismatches result in either a report or a larger recount. The sampling rates are usually defined by law, not statistical design, so for a legally defined sample size n, what is the probability of missing a problem which is present in K precincts, such as a hack or bug? This is the probability that k = 0. Bugs are often obscure, and a hacker can minimize detection by affecting only a few precincts, which will still affect close elections, so a plausible scenario is for K to be on the order of 5% of N. Audits typically cover 1% to 10% of precincts (often 3%), so they have a high chance of missing a problem. For example, if a problem is present in 5 of 100 precincts, a 3% sample has 86% probability that k = 0 so the problem would not be noticed, and only 14% probability of the problem appearing in the sample (positive k):
+The sample would need 45 precincts in order to have probability under 5% that k = 0 in the sample, and thus have probability over 95% of finding the problem:
+Application to Texas hold'em poker
+In hold'em poker players make the best hand they can combining the two cards in their hand with the 5 cards (community cards) eventually turned up on the table. The deck has 52 and there are 13 of each suit.
+For this example assume a player has 2 clubs in the hand and there are 3 cards showing on the table, 2 of which are also clubs. The player would like to know the probability of one of the next 2 cards to be shown being a club to complete the flush.
+(Note that the probability calculated in this example assumes no information is known about the cards in the other players' hands; however, experienced poker players may consider how the other players place their bets (check, call, raise, or fold) in considering the probability for each scenario. Strictly speaking, the approach to calculating success probabilities outlined here is accurate in a scenario where there is just one player at the table; in a multiplayer game this probability might be adjusted somewhat based on the betting play of the opponents.)
+There are 4 clubs showing so there are 9 clubs still unseen. There are 5 cards showing (2 in the hand and 3 on the table) so there are $MATH$ still unseen.
+The probability that one of the next two cards turned is a club can be calculated using hypergeometric with $MATH$ and $MATH$. (about 31.64%)
+The probability that both of the next two cards turned are clubs can be calculated using hypergeometric with $MATH$ and $MATH$. (about 3.33%)
+The probability that neither of the next two cards turned are clubs can be calculated using hypergeometric with $MATH$ and $MATH$. (about 65.03%)

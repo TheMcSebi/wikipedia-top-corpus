@@ -1,0 +1,30 @@
+General Court (European Union)
+The General Court, informally known as the European General Court (EGC), is a constituent court of the Court of Justice of the European Union. It hears actions taken against the institutions of the European Union by individuals and member states, although certain matters are reserved for the European Court of Justice. Decisions of the General Court can be appealed to the Court of Justice, but only on a point of law. Prior to the coming into force of the Lisbon Treaty on 1 December 2009, it was known as the Court of First Instance.
+
+
+Competence
+The General Court hears disputes (such as those by persons who have been refused a trade mark by EUIPO, the EU Trade Mark and designs registry).
+The creation of the General Court instituted a judicial system based on two levels of jurisdiction: all cases heard at first instance by the General Court may be subject to a right of appeal to the Court of Justice on points of law only.
+In view of the increasing number of cases brought before the General Court in the last five years, to relieve it of some of the caseload, the Treaty of Nice, which entered into force on 1 February 2003, provides for the creation of 'judicial panels' in certain specific areas.
+On 2 November 2004 the Council adopted a decision establishing the European Union Civil Service Tribunal. This new specialised tribunal, composed of seven judges, heard and determined at first instance disputes involving the European Civil Service. Its decisions were subject to a right of appeal before the General Court on points of law only. Decisions given by the General Court in this area might exceptionally be subject to review by the Court of Justice. The European Union Civil Service Tribunal was duly constituted into law on 2 December 2005. Despite the success in its mandate, it was dissolved on 1 September 2016, leading to the doubling of the number of judges at the General Court.
+Composition
+Since February 2020 the General Court is composed of 54 Judges; this follows a 2016 reform which increased the number of judges to two per member state by 2019, and the departure of the UK from the EU at the end of January 2020. The Judges are appointed for a renewable term of six years by common accord of the governments of the Member States. As of February 2020, there are 49 Judges in post: 23 member states have nominated both their judges, whilst Latvia, Poland, and Slovakia have nominated just one, and Slovenia has nominated neither.
+The members of the General Court elect their president and the presidents of the Chambers of five Judges from among their number for a renewable period of three years.
+There are no permanent Advocates General attached to the General Court (unlike the European Court of Justice, which has eleven Advocates General). However, the task of an Advocate General may be performed in a limited number of cases by a Judge nominated to do so. In practice this has been done occasionally.
+List of judges
+* Judge continues to hold the office until their successor takes up the duties according to the Article 5(3) of the Protocol No. 3 on the Statute of the Court of Justice of the EU
+Jurisdiction
+The General Court, like the Court of Justice, has the task of ensuring that the law is observed in the interpretation and application of the Treaties of the European Union and the provisions adopted by the competent Union institutions.
+To fulfil its main task, the General Court has jurisdiction to hear and determine at first instance all direct actions brought by individuals and the Member States, with the exception of those to be assigned to a 'judicial panel' and those reserved for the Court of Justice.
+Categories of direct actions
+(against acts of the Union institutions)
+(against inaction by the Union institutions)
+(for the reparation of damage caused by unlawful conduct on the part of a Union institution)
+(disputes concerning contracts in public or private law entered into by the Union, containing such a clause)
+(disputes between the Union and its officials and other servants)
+Subject-matter of direct actions: all matters, including:
+Procedure
+The General Court has its own Rules of Procedure. The 1991 rules were replaced by revised Rules of Procedure which came into effect on 1 July 2015. In the main, the Court's procedure includes a written phase and an oral phase. The proceedings are conducted in a language at the petitioner's choosing. As in the European Court of Justice, the working language of the Court is nevertheless French, and this includes the language the judges deliberate in and the drafting language of preliminary reports and judgments.
+The Court is separated into 9 divisions (called ‘chambers’) sat by 3-judge benches, except for the 7th division whose bench is sat by 4 judges. Each chamber has an extended composition of 5 judges. Cases are assigned by the President of the Court to a relevant divisional presiding judge. The presiding judge assigned to the case then chooses a judge-reporter (judge-rapporteur) from the judges of the division, whose clerks write a preliminary report (rapport préalable) based on the parties' pleadings and applicable law.
+At the close of the written phase and, as the case may be, on adoption of measures of inquiry, the case is argued orally in open court. The proceedings are interpreted simultaneously, if necessary, into various official languages of the European Union. The judges then deliberate based on a draft judgment prepared by the judge-reporter. The Court's final judgment is handed down in open court.
+Notes

@@ -1,0 +1,36 @@
+Royal Thai General System of Transcription
+The Royal Thai General System of Transcription (RTGS) is the official system for rendering Thai words in the Latin alphabet. It was published by the Royal Institute of Thailand.
+It is used in road signs and government publications and is the closest method to a standard of transcription for Thai, but its use, even by the government, is inconsistent. The system is almost identical to the one that is defined by ISO 11940-2.
+Features
+Prominent features of the system are:
+Final consonants are transcribed according to pronunciation, not Thai orthography.
+Vowels are transcribed in the position in the word where they are pronounced, not as in Thai orthography. Implied vowels, which are not written in Thai orthography, are transcribed as pronounced.
+A hyphen is used to avoid ambiguity in syllable separation before a succeeding syllable that starts with a vowel and before ⟨ng⟩ if the preceding syllable ends with a vowel.
+Transcribed words are written with spaces between them although there are no spaces in Thai. For example, "สถาบันไทยคดีศึกษา" Institute of Thai Studies is transcribed as "Sathaban Thai Khadi Sueksa". However, compounds and names of persons are written without spaces between words. For example, "ลูกเสือ" (from "ลูก" + "เสือ", scout) is transcribed as "luksuea", not "luk suea", and "โชคชัย จิตงาม", the first and last names of a person, is transcribed as "Chokchai Chitngam", not "Chok Chai Chit Ngam".
+Transcription table
+For consonants, the transcriptions are given for both initial and final position in the syllable. For vowels, a dash ("–") indicates the relative position of the vowel's initial consonant.
+History
+There have been four versions of the RTGS, those promulgated in 1932, 1939, 1968 and 1999. The general system was issued by the Ministry of Public Instruction in 1932, and subsequent issues have been issued by the Royal Institute of Thailand.
+1932 version
+The general system was set up by a committee of the Ministry of Public Instruction on the following principles:
+The committee considered that for the general system, tone and quantity marks were unneeded. They would be provided for the precise system. The marks are accents above the vowels, one reason that the vowel symbols used to have no marks above them.
+1939 version
+The 1939 issue allowed short vowels to be marked with a breve (˘) where expedient.  By contrast, the ALA-LC transliteration uses the 1939 version with the addition of a macron (¯) for long vowels and a spiritus asper (ʽ) to transliterate อ /ʔ/ as a consonant.
+The changes in vowel notation copied existing usage (æ, œ)
+and IPA notation (æ, ǫ).
+Relationship to precise system
+The precise system was issued along with the general system in 1939.  A transliteration in the precise system could be converted to the general system by doing the following:
+The last set of changes removes a graphic distinction between vowels in closed syllables and vowels in open syllables.
+The h is added to č in the general system to make it easier to read. When the diacritic was subsequently removed, the h was justified as avoiding the misreading of the transliteration as /k/ or /s/ rather than the correct /t͡ɕ/.
+1968 version
+The 1968 version removed diacritics, including the horn of ư and replaced the ligatures æ and œ by ae and oe. While that is more suitable as the standard transliteration for maps, it removed the contrast between the transcriptions of จ /t͡ɕ/ and ช /t͡ɕʰ/, อึ /ɯ/ and อุ /u/, เอือ /ɯa/ and อัว /ua/, and โอ /oː/ and ออ /ɔː/.
+1999 version
+The 1999 version restored the distinction between the transcriptions of the pairs อึ /ɯ/ and อุ /u/ and เอือ /ɯa/ and อัว /ua/. It also simplified the transliteration of final ว /w/, which now is always transcribed <o>.
+Allowed variants
+The following variants have been allowed:
+Criticism
+The system does not transcribe all features of Thai phonology. Particularly it has the following shortcomings:
+The original design envisioned the general system to give broad details of pronunciation, and the precise system to supplement that with vowel lengths, tones, and specific Thai characters used. The ambiguity of ⟨ch⟩ and ⟨o⟩ was introduced in the 1968 version.
+See also
+References
+Sources

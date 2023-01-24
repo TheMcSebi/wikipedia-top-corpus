@@ -1,0 +1,48 @@
+Alteplase
+Alteplase (t-PA), a biosynthetic form of human tissue-type plasminogen activator (t-PA), is a thrombolytic medication, used to treat acute ischemic stroke, acute ST-elevation myocardial infarction (a type of heart attack), pulmonary embolism associated with low blood pressure, and blocked central venous catheter. It is given by injection into a vein or artery. Alteplase is the same as the normal human plasminogen activator produced in vascular endothelial cells and is synthesized via recombinant DNA technology in Chinese hamster ovary cells (CHO). Alteplase causes the breakdown of a clot by inducing fibrinolysis.
+Medical uses
+Alteplase is mainly used to treat acute ischemic stroke, acute myocardial infarction, acute massive pulmonary embolism, and blocked catheters. Similar to other thrombolytic drugs, alteplase is used to dissolve clots to restore tissue perfusion, but this can vary depending on the pathology. Generally, alteplase is delivered intravenously into the body. To treat blocked catheters, alteplase is administered directly into the catheter.
+Alteplase has also been used off-label for deep vein thrombosis, peripheral artery disease, pleural effusion in children, prosthetic valve thrombosis, frostbite, and peritonitis.
+Ischemic stroke
+In adults diagnosed with acute ischemic stroke, thrombolytic treatment with alteplase is the standard of care during early management (within 4.5 hours of symptom onset). When mechanical thrombectomy is not available, alteplase may be considered up to 9 hours after symptom onset.
+Administration of alteplase is associated with improved functional outcomes and reduced incidence of disability. Alteplase used in conjunction with mechanical thrombectomy is associated with better outcomes. Use is restricted, however, if there is a risk of major bleeding or if there may be another cause of stroke symptoms. Alteplase is not recommended for those with non-disabling stroke.
+For patients with early recurrent ischemic stroke, repeated use of alteplase may be safe and efficacious.
+Alteplase is also commonly used in children, though guidelines are not yet standardized as they are for adults.
+Myocardial infarction
+Currently, the preferred treatment for ST-elevation myocardial infarction (STEMI) is percutaneous coronary intervention (PCI). However, PCI is only available at 25% of hospitals in the United States; alteplase is recommended if the patient is at a non-PCI capable hospital and cannot be transferred to receive PCI in under 120 minutes. Alteplase can also be used before arriving at the hospital if transportation time is anticipated to be greater than 30 minutes.
+Alteplase may be used in conjunction with aspirin and heparin. An accelerated infusion of alteplase was found to significantly reduce mortality in comparison to a non-accelerated infusion, though it also slightly increases the risk of major bleeding.
+Alteplase should not be used in cases of acute coronary syndrome other than STEMI.
+Pulmonary embolism
+As of 2019, alteplase is the most commonly used medication to treat pulmonary embolism (PE). Alteplase has a short infusion time of 2 hours and a half-life of 4–6 minutes. Alteplase has been approved by the FDA, and treatment can be done via systemic thrombolysis or catheter-directed thrombolysis.
+Systemic thrombolysis can quickly restore right ventricular function, heart rate, and blood pressure in patients with acute PE. However, standard doses of alteplase used in systemic thrombolysis may lead to massive bleeding, such as intracranial hemorrhage, particularly in older patients. A systematic review has shown that low-dose alteplase is safer than and as effective as the standard amount.
+Catheter-directed thrombolysis may be more efficient than systemic thrombolysis, as alteplase is locally administered to the occlusion site, and wash-away of the medication into other blood vessels is minimized. This procedure involves positioning a multi-sidehole catheter into the blood clot.
+Alteplase may be used to treat PE if patients have a high risk for complications, such as if:
+Blocked catheters
+Alteplase can be used in small doses to clear blood clots that obstruct a catheter, reopening the catheter so it can continue to be used. Catheter obstruction is commonly observed with a central venous catheter. Currently, the standard treatment for catheter obstructions in the United States is alteplase administration. Alteplase is effective and low risk for treating blocked catheters in adults and children. Overall, adverse effects of alteplase for clearing blood clots are rare. Novel alternatives to treat catheter occlusion, such as tenecteplase, reteplase, and recombinant urokinase, offer the advantage of shorter dwell times than alteplase.
+Contraindications
+A person should not receive alteplase treatment if testing shows they are not suffering from an acute ischemic stroke or if the risks of treatment outweigh the likely benefits. Alteplase is contraindicated in those with bleeding disorders that increase a person's tendency to bleed and in those with an abnormally low platelet count. Active internal bleeding and high blood pressure are additional contraindications for alteplase. The safety of alteplase in the pediatric population has not been determined definitively. Additional contraindications for alteplase when used specifically for acute ischemic stroke include current intracranial hemorrhage and subarachnoid hemorrhage. Contraindications for use of alteplase in people with a STEMI are similar to those of acute ischemic stroke. People with an acute ischemic stroke may also receive other therapies including mechanical thrombectomy.
+Adverse effects
+Given that alteplase is a thrombolytic medication, a  common adverse effect is bleeding, which can be life threatening. Adverse effects of alteplase include symptomatic intracranial hemorrhage and fatal intracranial hemorrhage.
+Angioedema is another adverse effect of alteplase, which can be life-threatening if the airway becomes obstructed. Other side effects may rarely include allergic reactions. Alteplase is a pregnancy category C drug.
+Mechanism of action
+Alteplase binds to fibrin in a blood clot and activates the clot-bound plasminogen. Alteplase cleaves plasminogen at the site of its Arg561-Val562 peptide bond to form plasmin. Plasmin is a fibrinolytic enzyme that cleaves the cross-links between polymerized fibrin molecules, causing the blood clot to break down and dissolve, a process called fibrinolysis.
+Regulation and inhibition
+Plasminogen activator inhibitor 1 stops alteplase activity by binding to it and forming an inactive complex, which is removed from the bloodstream by the liver. Fibrinolysis by plasmin is extremely short-lived due to plasmin inhibitors, which inactivate and regulate plasmin activity.
+Society and culture
+Alteplase was added to the World Health Organization's List of Essential Medicines in 2019, for use in ischemic stroke.
+As early use of alteplase is important for ischemic stroke, treatment delay is a serious concern. Many reasons for delay exist, including lack of access to healthcare, late presentation, late assessment, misdiagnosis, and management of comorbidities.
+Alteplase is extremely underused in low- and middle-income countries. This may be due to its high cost and the fact that it is often not covered by health insurance.
+There may be citation bias in the literature on alteplase in ischemic stroke, as studies reporting positive results for tissue plasminogen activator are more likely to be cited in following studies than those reporting negative or neutral results.
+There is a sex difference in the use of intravenous tissue plasminogen activator, as it is less likely to be used for women with acute ischemic stroke than men. However, this difference has been improving since 2008.
+Economics
+The cost of alteplase in the United States increased by 111% between 2005 and 2014, despite there being no proportional increase in the costs of other prescription drugs. However, alteplase continues to be cost-effective.
+Brand names
+Alteplase is marketed as Actilyse, Activase, and Cathflo or Cathflo Activase.
+History
+FDA approval and paradigm shift
+Alteplase was approved for medical use in the United States in November 1987 for the treatment of myocardial infarction. This was just seven years after the first efforts were made to produce recombinant t-PA, making it one of the fastest drug developments in history.
+In 1995, a study by the National Institute of Neurological Disorders and Stroke showed the effectiveness of administering intravenous alteplase to treat ischemic stroke. This sparked a medical paradigm shift as it redesigned stroke treatment in the emergency department to allow for timely assessment and therapy for ischemic stroke patients.
+Commercialization
+Commercialization and large scale manufacture of human t-PA has been made possible through the generation of Chinese hamster ovary cells, which are capable of producing alteplase (recombinant human t-PA) with the use of recombinant DNA technology. Brands include Activase and Cathflo Activase, marketed by Genentech Inc. in the US, and Actilyse, marketed by Boehringer Ingelheim in Germany.
+References
+Further reading

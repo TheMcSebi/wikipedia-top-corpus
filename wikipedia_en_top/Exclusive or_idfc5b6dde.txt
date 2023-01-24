@@ -1,0 +1,53 @@
+Exclusive or
+Exclusive or or exclusive disjunction is a logical operation that is true if and only if its arguments differ (one is true, the other is false).
+It is symbolized by the prefix operator J and by the infix operators XOR (/ˌɛks ˈɔːr/ or /ˈzɔːr/), EOR, EXOR, ⊻, ⩒, ⩛, ⊕, $MATH$, and ≢. The negation of XOR is the logical biconditional, which yields true if and only if the two inputs are the same.
+It gains the name "exclusive or" because the meaning of "or" is ambiguous when both operands are true; the exclusive or operator excludes that case. This is sometimes thought of as "one or the other but not both". This could be written as "A or B, but not, A and B".
+Since it is associative, it may be considered to be an n-ary operator which is true if and only if an odd number of arguments are true. That is, a XOR b XOR ... may be treated as XOR(a,b,...).
+Truth table
+The truth table of A XOR B shows that it outputs true whenever the inputs differ:
+Equivalences, elimination, and introduction
+Exclusive disjunction essentially means 'either one, but not both nor none'. In other words, the statement is true if and only if one is true and the other is false. For example, if two horses are racing, then one of the two will win the race, but not both of them. The exclusive disjunction $MATH$, also denoted by $MATH$ ? $MATH$ or $MATH$, can be expressed in terms of the logical conjunction ("logical and", $MATH$), the disjunction ("logical or", $MATH$), and the negation ($MATH$) as follows:
+The exclusive disjunction $MATH$ can also be expressed in the following way:
+This representation of XOR may be found useful when constructing a circuit or network, because it has only one $MATH$ operation and small number of $MATH$ and $MATH$ operations. A proof of this identity is given below:
+It is sometimes useful to write $MATH$ in the following way:
+or:
+This equivalence can be established by applying De Morgan's laws twice to the fourth line of the above proof.
+The exclusive or is also equivalent to the negation of a logical biconditional, by the rules of material implication (a material conditional is equivalent to the disjunction of the negation of its antecedent and its consequence) and material equivalence.
+In summary, we have, in mathematical and in engineering notation:
+Negation
+The spirit of De Morgan's laws can be applied, we have:
+Relation to modern algebra
+Although the operators $MATH$ (conjunction) and $MATH$ (disjunction) are very useful in logic systems, they fail a more generalizable structure in the following way:
+The systems $MATH$ and $MATH$ are monoids, but neither is a group. This unfortunately prevents the combination of these two systems into larger structures, such as a mathematical ring.
+However, the system using exclusive or $MATH$ is an abelian group.  The combination of operators $MATH$ and $MATH$ over elements $MATH$ produce the well-known field $MATH$.  This field can represent any logic obtainable with the system $MATH$ and has the added benefit of the arsenal of algebraic analysis tools for fields.
+More specifically, if one associates $MATH$ with 0 and $MATH$ with 1, one can interpret the logical "AND" operation as multiplication on $MATH$ and the "XOR" operation as addition on $MATH$:
+Using this basis to describe a boolean system is referred to as algebraic normal form.
+Exclusive or in natural language
+Disjunction is often understood exclusively in natural languages. In English, the disjunctive word "or" is often understood exclusively, particularly when used with the particle "either". The English example below would normally be understood in conversation as implying that Mary is not both a singer and a poet.
+However, disjunction can also be understood inclusively, even in combination with "either". For instance, the first example below shows that "either" can be felicitously used in combination with an outright statement that both disjuncts are true. The second example shows that the exclusive inference vanishes away under downward entailing contexts. If disjunction were understood as exclusive in this example, it would leave open the possibility that some people ate both rice and beans.
+Examples such as the above have motivated analyses of the exclusivity inference as pragmatic conversational implicatures calculated on the basis of an inclusive semantics. Implicatures are typically cancellable and do not arise in downward entailing contexts if their calculation depends on the Maxim of Quantity. However, some researchers have treated exclusivity as a bona fide semantic entailment and proposed nonclassical logics which would validate it.
+This behavior of English "or" is also found in other languages. However, many languages have disjunctive constructions which are robustly exclusive such as French soit... soit.
+Alternative symbols
+The symbol used for exclusive disjunction varies from one field of application to the next, and even depends on the properties being emphasized in a given context of discussion.  In addition to the abbreviation "XOR", any of the following symbols may also be seen:
+Properties
+If using binary values for true (1) and false (0), then exclusive or works exactly like addition modulo 2.
+Computer science
+Bitwise operation
+Exclusive disjunction is often used for bitwise operations. Examples:
+As noted above, since exclusive disjunction is identical to addition modulo 2, the bitwise exclusive disjunction of two n-bit strings is identical to the standard vector of addition in the vector space $MATH$.
+In computer science, exclusive disjunction has several uses:
+In logical circuits, a simple adder can be made with an XOR gate to add the numbers, and a series of AND, OR and NOT gates to create the carry output.
+On some computer architectures, it is more efficient to store a zero in a register by XOR-ing the register with itself (bits XOR-ed with themselves are always zero) instead of loading and storing the value zero.
+In simple threshold-activated neural networks, modeling the XOR function requires a second layer because XOR is not a linearly separable function.
+Exclusive-or is sometimes used as a simple mixing function in cryptography, for example, with one-time pad or Feistel network systems.
+Exclusive-or is also heavily used in block ciphers such as AES (Rijndael) or Serpent and in block cipher implementation (CBC, CFB, OFB or CTR).
+Similarly, XOR can be used in generating entropy pools for hardware random number generators.  The XOR operation preserves randomness, meaning that a random bit XORed with a non-random bit will result in a random bit.  Multiple sources of potentially random data can be combined using XOR, and the unpredictability of the output is guaranteed to be at least as good as the best individual source.
+XOR is used in RAID 3–6 for creating parity information.  For example, RAID can "back up" bytes 100111002 and 011011002 from two (or more) hard drives by XORing the just mentioned bytes, resulting in (111100002) and writing it to another drive.  Under this method, if any one of the three hard drives are lost, the lost byte can be re-created by XORing bytes from the remaining drives. For instance,  if the drive containing 011011002 is lost, 100111002 and 111100002 can be XORed to recover the lost byte.
+XOR is also used to detect an overflow in the result of a signed binary arithmetic operation. If the leftmost retained bit of the result is not the same as the infinite number of digits to the left, then that means overflow occurred. XORing those two bits will give a "1" if there is an overflow.
+XOR can be used to swap two numeric variables in computers, using the XOR swap algorithm; however this is regarded as more of a curiosity and not encouraged in practice.
+XOR linked lists leverage XOR properties in order to save space to represent doubly linked list data structures.
+In computer graphics, XOR-based drawing methods are often used to manage such items as bounding boxes and cursors on systems without alpha channels or overlay planes.
+Encodings
+It is also called "not left-right arrow" (\nleftrightarrow) in LaTeX-based markdown ($MATH$). Apart from the ASCII codes, the operator is encoded at U+22BB ⊻ XOR (&veebar;) and U+2295 ⊕ CIRCLED PLUS (&CirclePlus;, &oplus;), both in block mathematical operators.
+See also
+Notes

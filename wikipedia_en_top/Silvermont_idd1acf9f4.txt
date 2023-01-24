@@ -1,0 +1,49 @@
+Silvermont
+Silvermont is a microarchitecture for low-power Atom, Celeron and Pentium branded processors used in systems on a chip (SoCs) made by Intel. Silvermont forms the basis for a total of four SoC families:
+Silvermont is the successor of the Bonnell, using a newer 22 nm process (previously introduced with Ivy Bridge) and a new microarchitecture, replacing Hyper Threading with out-of-order execution.
+Silvermont was announced to news media on May 6, 2013, at Intel's headquarters at Santa Clara, California. Intel had repeatedly said the first Bay Trail devices would be available during the Holiday 2013 timeframe, while leaked slides showed that the release window for Bay Trail-T as August 28 – September 13, 2013. Both Avoton and Rangeley were announced as being available in the second half of 2013. The first Merrifield devices were announced in 1H14.
+According to the Tick–tock model Airmont is the 14 nm die shrink of Silvermont, launched in early 2015 and first seen in the Atom x7-Z8700 as used in the  Microsoft Surface 3. Airmont microarchitecture includes the following SoC families:
+Silvermont based cores have also been used, modified, in the Knight's Landing iteration of Intel's Xeon Phi HPC chips.
+Design
+Silvermont was the first Atom processor to feature an out-of-order architecture.
+Technology
+Errata
+Intel revealed in its Q4 2016 quarterly report that there were quality issues in the C2000 product family, which had an effect on the financial performance of the company's Data Center Group that quarter. An erratum named AVR54 published by Intel; state there is a defect in the chip's LPC clock, and affected systems "may experience inability to boot or may cease operation". A workaround is available requiring platform hardware changes. The SoC failures are thought to have led to failures in Cisco and Synology products, though discussion of the C2000 as the root cause of failure has been reported to be under a non-disclosure agreement for many vendors.
+Intel released a new C0 stepping of the C2000 series in April 2017 which corrected the bug.
+In July 2017 Intel published that a similar quality issue affects also Atom E3800 series embedded processors. The erratum named VLI89 published by Intel state, similar to issue with Atom C2000, that there is a defect in the chip's LPC clock and affected systems "may experience inability to boot or may cease operation". Issues extend also to USB bus and SD card circuitry and should happen "under certain conditions where activity is high for several years". In April 2018 Intel announced it is releasing a new D1 stepping to fix the issue.
+The LPC, USB and SD Card buses circuitry degradation issues also apply to other Bay Trail processors such as Intel Celeron J1900 and N2800/N2900 series; also to Pentium N3500, J2850, J2900 series; and Celeron J1800 and J1750 series—as those are based on the same affected silicon.
+Cisco stated failures of Atom C2000 processors can occur as early as 18 months of use with higher failure rates occurring after 36 months.
+Mitigations were found to limit impact on systems. Firmware update for the LPC bus called LPC_CLKRUN# reduces the utilization of the LPC interface what in turn decreases (but not eliminates) LPC bus degradation - some systems are however not compatible with this new firmware. USB should have a maximum of 10% active time and there is a 50TB transmit traffic life expectancy over the lifetime of the port. It is recommended not to use SD card as a boot device and to remove the card from the system when not in use.
+Bay Trail issues on Linux
+It has been widely reported that Bay Trail cpus (and possibly their derivatives including Airmont/Braswell/Cherry Trail) experience random freezes / lock-ups on various Linux kernels.  Reference linux bug report 109051 on Kernel.org Bugzilla, first reported Dec-2015.  Workaround seems to be setting the linux kernel flag intel_idle.max_cstate=1, which while eliminating the system freezes/lock-ups, results in increased cpu power/battery usage by preventing the cpu from entering higher power-saving C-states.  Systems running Windows-OSes apparently do not experience these lockup/freeze issues.
+Bay Trail issues on FreeBSD
+A potential fix is to set {{{1}}} and dev.cpu.<n>.lowest via /etc/sysctl.conf.
+Airmont issues
+14 nm Airmont architecture processors are also affected by the design flaws as noted in the Braswell Specification Update under CHP49 errata. In addition to LPC and SD Card circuitry degradation issues those 14 nm designs also have issues with Real Time Clock (RTC) circuitry degradation, their USB buses are however not affected. Unspecified firmware changes are required to mitigate RTC circuitry degradation. Intel does not plan to release a new stepping for Braswell. Intel admitted the issue stating the impact on consumers depends on use condition.
+List of Silvermont processors
+Desktop processors (Bay Trail-D)
+List of desktop processors as follows:
+Server processors (Avoton)
+It has been found that a bug in the blueprint of the C2000 CPUs family may cause failure of its embedded Ethernet ports.
+List of server processors as follows:
+Communications processors (Rangeley)
+List of upcoming communications processors as follows:
+Embedded/automotive processors (Bay Trail-I)
+List of embedded processors as follows:
+Mobile processors (Bay Trail-M)
+List of mobile processors as follows:
+Tablet processors (Bay Trail-T)
+List of tablet and hybrid processors as follows:
+Smartphone processors (Merrifield)
+List of smartphone processors as follows:
+Smartphone processors (Moorefield)
+List of smartphone processors as follows:
+List of Airmont processors
+Desktop processors (Braswell)
+List of desktop processors as follows:
+Mobile processors (Braswell)
+List of mobile processors as follows:
+Tablet processors (Cherry Trail)
+List of smartphone and tablet processors as follows:
+Other uses
+Silvermont based processor cores have been used in Knights Landing versions of Intel's Xeon Phi multiprocessor HPC chips, with changes for HPC including AVX-512 vector units.

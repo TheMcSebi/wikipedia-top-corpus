@@ -1,0 +1,101 @@
+σ-algebra
+In mathematical analysis and in probability theory, a σ-algebra (also σ-field) on a set X is a nonempty collection Σ of subsets of X closed under complement, countable unions, and countable intersections. The pair $MATH$ is called a measurable space.
+The σ-algebras are a subset of the set algebras; elements of the latter only need to be closed under the union or intersection of finitely many subsets, which is a weaker condition.
+The main use of σ-algebras is in the definition of measures; specifically, the collection of those subsets for which a given measure is defined is necessarily a σ-algebra. This concept is important in mathematical analysis as the foundation for Lebesgue integration, and in probability theory, where it is interpreted as the collection of events which can be assigned probabilities. Also, in probability, σ-algebras are pivotal in the definition of conditional expectation.
+In statistics, (sub) σ-algebras are needed for the formal mathematical definition of a sufficient statistic, particularly when the statistic is a function or a random process and the notion of conditional density is not applicable.
+If $MATH$ one possible σ-algebra on $MATH$ is $MATH$ where $MATH$ is the empty set. In general, a finite algebra is always a σ-algebra.
+If $MATH$ is a countable partition of $MATH$ then the collection of all unions of sets in the partition (including the empty set) is a σ-algebra.
+A more useful example is the set of subsets of the real line formed by starting with all open intervals and adding in all countable unions, countable intersections, and relative complements and continuing this process (by transfinite iteration through all countable ordinals) until the relevant closure properties are achieved (a construction known as the Borel hierarchy).
+Motivation
+There are at least three key motivators for σ-algebras: defining measures, manipulating limits of sets, and managing partial information characterized by sets.
+Measure
+A measure on $MATH$ is a function that assigns a non-negative real number to subsets of $MATH$ this can be thought of as making precise a notion of "size" or "volume" for sets. We want the size of the union of disjoint sets to be the sum of their individual sizes, even for an infinite sequence of disjoint sets.
+One would like to assign a size to every subset of $MATH$ but in many natural settings, this is not possible. For example, the axiom of choice implies that when the size under consideration is the ordinary notion of length for subsets of the real line, then there exist sets for which no size exists, for example, the Vitali sets. For this reason, one considers instead a smaller collection of privileged subsets of $MATH$ These subsets will be called the measurable sets. They are closed under operations that one would expect for measurable sets, that is, the complement of a measurable set is a measurable set and the countable union of measurable sets is a measurable set.  Non-empty collections of sets with these properties are called σ-algebras.
+Limits of sets
+Many uses of measure, such as the probability concept of almost sure convergence, involve limits of sequences of sets. For this, closure under countable unions and intersections is paramount. Set limits are defined as follows on σ-algebras.
+
+
+The inner limit is always a subset of the outer limit: 
+If these two sets are equal then their limit $MATH$ exists and is equal to this common set: 
+Sub σ-algebras
+In much of probability, especially when conditional expectation is involved, one is concerned with sets that represent only part of all the possible information that can be observed. This partial information can be characterized with a smaller σ-algebra which is a subset of the principal σ-algebra; it consists of the collection of subsets relevant only to and determined only by the partial information. A simple example suffices to illustrate this idea.
+Imagine you and another person are betting on a game that involves flipping a coin repeatedly and observing whether it comes up Heads ($MATH$) or Tails ($MATH$). Since you and your opponent are each infinitely wealthy, there is no limit to how long the game can last. This means the sample space Ω must consist of all possible infinite sequences of $MATH$ or $MATH$
+However, after $MATH$ flips of the coin, you may want to determine or revise your betting strategy in advance of the next flip. The observed information at that point can be described in terms of the 2n possibilities for the first $MATH$ flips. Formally, since you need to use subsets of Ω, this is codified as the σ-algebra
+Observe that then
+where $MATH$ is the smallest σ-algebra containing all the others.
+Definition and properties
+Definition
+Let $MATH$ be some set, and let $MATH$ represent its power set. Then a subset $MATH$ is called a σ-algebra if it satisfies the following three properties:
+From these properties, it follows that the σ-algebra is also closed under countable intersections (by applying De Morgan's laws).
+It also follows that the empty set $MATH$ is in $MATH$ since by (1) $MATH$ is in $MATH$ and (2) asserts that its complement, the empty set, is also in $MATH$  Moreover, since $MATH$ satisfies condition (3) as well, it follows that $MATH$ is the smallest possible σ-algebra on $MATH$  The largest possible σ-algebra on $MATH$ is $MATH$
+Elements of the σ-algebra are called measurable sets. An ordered pair $MATH$ where $MATH$ is a set and $MATH$ is a σ-algebra over $MATH$ is called a measurable space. A function between two measurable spaces is called a measurable function if the preimage of every measurable set is measurable. The collection of measurable spaces forms a category, with the measurable functions as morphisms. Measures are defined as certain types of functions from a σ-algebra to $MATH$
+A σ-algebra is both a π-system and a Dynkin system (λ-system). The converse is true as well, by Dynkin's theorem (below).
+Dynkin's π-λ theorem
+This theorem (or the related monotone class theorem) is an essential tool for proving many results about properties of specific σ-algebras. It capitalizes on the nature of two simpler classes of sets, namely the following.
+Dynkin's π-λ theorem says, if $MATH$ is a π-system and $MATH$ is a Dynkin system that contains $MATH$ then the σ-algebra $MATH$ generated by $MATH$ is contained in $MATH$  Since certain π-systems are relatively simple classes, it may not be hard to verify that all sets in $MATH$ enjoy the property under consideration while, on the other hand, showing that the collection $MATH$ of all subsets with the property is a Dynkin system can also be straightforward. Dynkin's π-λ Theorem then implies that all sets in $MATH$ enjoy the property, avoiding the task of checking it for an arbitrary set in $MATH$
+One of the most fundamental uses of the π-λ theorem is to show equivalence of separately defined measures or integrals. For example, it is used to equate a probability for a random variable $MATH$ with the Lebesgue-Stieltjes integral typically associated with computing the probability:
+ for all $MATH$ in the Borel σ-algebra on $MATH$
+where $MATH$ is the cumulative distribution function for $MATH$ defined on $MATH$ while $MATH$ is a probability measure, defined on a σ-algebra $MATH$ of subsets of some sample space $MATH$
+Combining σ-algebras
+Suppose $MATH$ is a collection of σ-algebras on a space $MATH$
+Meet
+The intersection of a collection of σ-algebras is a σ-algebra. To emphasize its character as a σ-algebra, it often is denoted by: 
+Sketch of Proof: Let $MATH$ denote the intersection. Since $MATH$ is in every $MATH$ is not empty. Closure under complement and countable unions for every $MATH$ implies the same must be true for $MATH$ Therefore, $MATH$ is a σ-algebra.
+Join
+The union of a collection of σ-algebras is not generally a σ-algebra, or even an algebra, but it generates a σ-algebra known as the join which typically is denoted 
+A π-system that generates the join is 
+Sketch of Proof: By the case $MATH$ it is seen that each $MATH$ so
+This implies
+by the definition of a σ-algebra generated by a collection of subsets. On the other hand,
+which, by Dynkin's π-λ theorem, implies
+σ-algebras for subspaces
+Suppose $MATH$ is a subset of $MATH$ and let $MATH$ be a measurable space.
+Relation to σ-ring
+A σ-algebra $MATH$ is just a σ-ring that contains the universal set $MATH$ A σ-ring need not be a σ-algebra, as for example measurable subsets of zero Lebesgue measure in the real line are a σ-ring, but not a σ-algebra since the real line has infinite measure and thus cannot be obtained by their countable union. If, instead of zero measure, one takes measurable subsets of finite Lebesgue measure, those are a ring but not a σ-ring, since the real line can be obtained by their countable union yet its measure is not finite.
+Typographic note
+σ-algebras are sometimes denoted using calligraphic capital letters, or the Fraktur typeface. Thus $MATH$ may be denoted as $MATH$ or  $MATH$
+Particular cases and examples
+Separable σ-algebras
+A separable $MATH$-algebra (or separable $MATH$-field) is a $MATH$-algebra $MATH$ that is a separable space when considered as a metric space with metric $MATH$ for $MATH$ and a given measure $MATH$ (and with $MATH$ being the symmetric difference operator).  Note that any $MATH$-algebra generated by a countable collection of sets is separable, but the converse need not hold. For example, the Lebesgue $MATH$-algebra is separable (since every Lebesgue measurable set is equivalent to some Borel set) but not countably generated (since its cardinality is higher than continuum).
+A separable measure space has a natural pseudometric that renders it separable as a pseudometric space.  The distance between two sets is defined as the measure of the symmetric difference of the two sets.  Note that the symmetric difference of two distinct sets can have measure zero; hence the pseudometric as defined above need not to be a true metric.  However, if sets whose symmetric difference has measure zero are identified into a single equivalence class, the resulting quotient set can be properly metrized by the induced metric.  If the measure space is separable, it can be shown that the corresponding metric space is, too.
+Simple set-based examples
+Let $MATH$ be any set.
+Stopping time sigma-algebras
+A stopping time $MATH$ can define a $MATH$-algebra $MATH$ the
+so-called stopping time sigma-algebra, which in a filtered probability space describes the information up to the random time $MATH$ in the sense that, if the filtered probability space is interpreted as a random experiment, the maximum information that can be found out about the experiment from arbitrarily often repeating it until the time $MATH$ is $MATH$
+σ-algebras generated by families of sets
+σ-algebra generated by an arbitrary family
+Let $MATH$ be an arbitrary family of subsets of $MATH$ Then there exists a unique smallest σ-algebra which contains every set in $MATH$ (even though $MATH$ may or may not itself be a σ-algebra). It is, in fact, the intersection of all σ-algebras containing $MATH$ (See intersections of σ-algebras above.) This σ-algebra is denoted $MATH$ and is called the σ-algebra generated by $MATH$
+If $MATH$ is empty, then $MATH$  Otherwise $MATH$ consists of all the subsets of $MATH$ that can be made from elements of $MATH$ by a countable number of complement, union and intersection operations.
+For a simple example, consider the set $MATH$ Then the σ-algebra generated by the single subset $MATH$ is 
+$MATH$ 
+By an abuse of notation, when a collection of subsets contains only one element, $MATH$ $MATH$ may be written instead of $MATH$ in the prior example $MATH$ instead of $MATH$ Indeed, using $MATH$ to mean $MATH$ is also quite common.
+There are many families of subsets that generate useful σ-algebras. Some of these are presented here.
+σ-algebra generated by a function
+If $MATH$ is a function from a set $MATH$ to a set $MATH$ and $MATH$ is a $MATH$-algebra of subsets of $MATH$ then the $MATH$-algebra generated by the function $MATH$ denoted by $MATH$ is the collection of all inverse images $MATH$ of the sets $MATH$ in $MATH$ That is,
+A function $MATH$ from a set $MATH$ to a set $MATH$ is measurable with respect to a σ-algebra $MATH$ of subsets of $MATH$ if and only if $MATH$ is a subset of $MATH$
+One common situation, and understood by default if $MATH$ is not specified explicitly, is when $MATH$ is a metric or topological space and $MATH$ is the collection of Borel sets on $MATH$
+If $MATH$ is a function from $MATH$ to $MATH$ then $MATH$ is generated by the family of subsets which are inverse images of intervals/rectangles in $MATH$
+A useful property is the following. Assume $MATH$ is a measurable map from $MATH$ to $MATH$ and $MATH$ is a measurable map from $MATH$ to $MATH$ If there exists a measurable map $MATH$ from $MATH$ to $MATH$ such that $MATH$ for all $MATH$ then $MATH$ If $MATH$ is finite or countably infinite or, more generally, $MATH$ is a standard Borel space (for example, a separable complete metric space with its associated Borel sets), then the converse is also true. Examples of standard Borel spaces include $MATH$ with its Borel sets and $MATH$ with the cylinder σ-algebra described below.
+Borel and Lebesgue σ-algebras
+An important example is the Borel algebra over any topological space: the σ-algebra generated by the open sets (or, equivalently, by the closed sets). Note that this σ-algebra is not, in general, the whole power set. For a non-trivial example that is not a Borel set, see the Vitali set or Non-Borel sets.
+On the Euclidean space $MATH$ another σ-algebra is of importance: that of all Lebesgue measurable sets. This σ-algebra contains more sets than the Borel σ-algebra on $MATH$ and is preferred in integration theory, as it gives a complete measure space.
+Product σ-algebra
+Let $MATH$ and $MATH$ be two measurable spaces. The σ-algebra for the corresponding product space $MATH$ is called the product σ-algebra and is defined by
+Observe that $MATH$ is a π-system.
+The Borel σ-algebra for $MATH$ is generated by half-infinite rectangles and by finite rectangles. For example,
+For each of these two examples, the generating family is a π-system.
+σ-algebra generated by cylinder sets
+Suppose
+is a set of real-valued functions. Let $MATH$ denote the Borel subsets of $MATH$ A cylinder subset of $MATH$ is a finitely restricted set defined as
+Each
+is a π-system that generates a σ-algebra $MATH$ Then the family of subsets
+is an algebra that generates the cylinder σ-algebra for $MATH$ This σ-algebra is a subalgebra of the Borel σ-algebra determined by the product topology of $MATH$ restricted to $MATH$
+An important special case is when $MATH$ is the set of natural numbers and $MATH$ is a set of real-valued sequences. In this case, it suffices to consider the cylinder sets
+for which
+is a non-decreasing sequence of σ-algebras.
+σ-algebra generated by random variable or vector
+Suppose $MATH$ is a probability space. If $MATH$ is measurable with respect to the Borel σ-algebra on $MATH$ then $MATH$ is called a random variable ($MATH$) or random vector ($MATH$). The σ-algebra generated by $MATH$ is
+σ-algebra generated by a stochastic process
+Suppose $MATH$ is a probability space and $MATH$ is the set of real-valued functions on $MATH$ If $MATH$ is measurable with respect to the cylinder σ-algebra $MATH$ (see above) for $MATH$ then $MATH$ is called a stochastic process or random process. The σ-algebra generated by $MATH$ is
+the σ-algebra generated by the inverse images of cylinder sets.

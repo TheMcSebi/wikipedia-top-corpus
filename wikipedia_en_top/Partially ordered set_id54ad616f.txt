@@ -1,0 +1,78 @@
+Partially ordered set
+In mathematics, especially order theory, a partially ordered set (also poset) formalizes and generalizes the intuitive concept of an ordering, sequencing, or arrangement of the elements of a set. A poset consists of a set together with a binary relation indicating that, for certain pairs of elements in the set, one of the elements precedes the other in the ordering. The relation itself is called a "partial order."
+The word partial in the names "partial order" and "partially ordered set" is used as an indication that not every pair of elements needs to be comparable. That is, there may be pairs of elements for which neither element precedes the other in the poset. Partial orders thus generalize total orders, in which every pair is comparable.
+Informal definition
+A partial order defines a notion of comparison. Two elements x and y may stand in any of four mutually exclusive relationships to each other: either x < y, or x = y, or x > y, or x and y are incomparable.
+A set with a partial order is called a partially ordered set (also called a poset). The term ordered set is sometimes also used, as long as it is clear from the context that no other kind of order is meant. In particular, totally ordered sets can also be referred to as "ordered sets", especially in areas where these structures are more common than posets.
+A poset can be visualized through its Hasse diagram, which depicts the ordering relation.
+Partial order relation
+
+A partial order relation is a homogeneous relation that is transitive and antisymmetric. There are two common sub-definitions for a partial order relation, for reflexive and irreflexive partial order relations, also called "non-strict" and "strict" respectively. The two definitions can be put into a one-to-one correspondence, so for every strict partial order there is a unique corresponding non-strict partial order, and vice versa. The term partial order typically refers to a non-strict partial order relation.
+Non-strict partial order
+A reflexive, weak, or non-strict partial order is a homogeneous relation ≤ on a set $MATH$ that is reflexive, antisymmetric, and transitive. That is, for all $MATH$ it must satisfy:
+A non-strict partial order is also known as an antisymmetric preorder.
+Strict partial order
+An irreflexive, strong, or strict partial order is a homogeneous relation < on a set $MATH$ that is irreflexive, asymmetric, and transitive; that is, it satisfies the following conditions for all $MATH$
+Irreflexivity and transitivity together imply asymmetry. Also, asymmetry implies irreflexivity. In other words, a transitive relation is asymmetric if and only if it is irreflexive. So the definition is the same if it omits either irreflexivity or asymmetry (but not both).
+A strict partial order is also known as a strict preorder.
+Correspondence of strict and non-strict partial order relations
+Strict and non-strict partial orders on a set $MATH$ are closely related. A non-strict partial order $MATH$ may be converted to a strict partial order by removing all relationships of the form $MATH$ that is, the strict partial order is the set $MATH$ where $MATH$ is the identity relation on $MATH$ and $MATH$ denotes set subtraction. Conversely, a strict partial order < on $MATH$ may be converted to a non-strict partial order by adjoining all relationships of that form; that is, $MATH$ is a non-strict partial order. Thus, if $MATH$ is a non-strict partial order, then the corresponding strict partial order < is the irreflexive kernel given by
+Conversely, if < is a strict partial order, then the corresponding non-strict partial order $MATH$ is the reflexive closure given by:
+Dual orders
+The dual (or opposite) $MATH$ of a partial order relation $MATH$ is defined by letting $MATH$ be the converse relation of $MATH$, i.e. $MATH$ if and only if $MATH$. The dual of a non-strict partial order is a non-strict partial order, and the dual of a strict partial order is a strict partial order. The dual of a dual of a relation is the original relation.
+Notation
+We can consider a poset as a 3-tuple $MATH$, where $MATH$ is a non-strict partial order relation on $MATH$, $MATH$ is the associated strict partial order relation on $MATH$ (the irreflexive kernel of $MATH$), $MATH$ is the dual of $MATH$, and $MATH$ is the dual of $MATH$.
+Any one of the four partial order relations $MATH$ on a given set uniquely determines the other three. Hence, as a matter of notation, one may write $MATH$ or $MATH$, and assume that the other relations are defined appropriately. Defining via a non-strict partial order $MATH$ is most common. Some authors use different symbols than $MATH$ such as $MATH$ or $MATH$ to distinguish partial orders from total orders.
+When referring to partial orders, $MATH$ should not be taken as the complement of $MATH$. The relation $MATH$ is the converse of the irreflexive kernel of $MATH$, which is always a subset of the complement of $MATH$, but $MATH$ is equal to the complement of $MATH$ if, and only if, $MATH$ is a total order.
+Examples
+Standard examples of posets arising in mathematics include:
+One familiar example of a partially ordered set is a collection of people ordered by genealogical descendancy. Some pairs of people bear the descendant-ancestor relationship, but other pairs of people are incomparable, with neither being a descendant of the other.
+Orders on the Cartesian product of partially ordered sets
+In order of increasing strength, i.e., decreasing sets of pairs, three of the possible partial orders on the Cartesian product of two partially ordered sets are (see Fig.4):
+All three can similarly be defined for the Cartesian product of more than two sets.
+Applied to ordered vector spaces over the same field, the result is in each case also an ordered vector space.
+See also orders on the Cartesian product of totally ordered sets.
+Sums of partially ordered sets
+
+Another way to combine two (disjoint) posets is the ordinal sum (or linear sum), Z = X ⊕ Y, defined on the union of the underlying sets X and Y by the order a ≤Z b if and only if:
+If two posets are well-ordered, then so is their ordinal sum.
+Series-parallel partial orders are formed from the ordinal sum operation (in this context called series composition) and another operation called parallel composition. Parallel composition is the disjoint union of two partially ordered sets, with no order relation between elements of one set and elements of the other set.
+Derived notions
+The examples use the poset $MATH$ consisting of the set of all subsets of a three-element set $MATH$ ordered by set inclusion (see Fig.1).
+Extrema
+There are several notions of "greatest" and "least" element in a poset $MATH$ notably:
+As another example, consider the positive integers, ordered by divisibility: 1 is a least element, as it divides all other elements; on the other hand this poset does not have a greatest element (although if one would include 0 in the poset, which is a multiple of any integer, that would be a greatest element; see Fig.6). This partially ordered set does not even have any maximal elements, since any g divides for instance 2g, which is distinct from it, so g is not maximal. If the number 1 is excluded, while keeping divisibility as ordering on the elements greater than 1, then the resulting poset does not have a least element, but any prime number is a minimal element for it. In this poset, 60 is an upper bound (though not a least upper bound) of the subset $MATH$ which does not have any lower bound (since 1 is not in the poset); on the other hand 2 is a lower bound of the subset of powers of 2, which does not have any upper bound.
+Mappings between partially ordered sets
+Given two partially ordered sets (S, ≤) and (T, ≼), a function $MATH$ is called order-preserving, or monotone, or isotone, if for all $MATH$ $MATH$ implies f(x) ≼ f(y).
+If (U, ≲) is also a partially ordered set, and both $MATH$ and $MATH$ are order-preserving, their composition $MATH$ is order-preserving, too.
+A function $MATH$ is called order-reflecting if for all $MATH$ f(x) ≼ f(y) implies $MATH$
+If $MATH$ is both order-preserving and order-reflecting, then it is called an order-embedding of (S, ≤) into (T, ≼).
+In the latter case, $MATH$ is necessarily injective, since $MATH$ implies $MATH$ and in turn $MATH$ according to the antisymmetry of $MATH$ If an order-embedding between two posets S and T exists, one says that S can be embedded into T. If an order-embedding $MATH$ is bijective, it is called an order isomorphism, and the partial orders (S, ≤) and (T, ≼) are said to be isomorphic. Isomorphic orders have structurally similar Hasse diagrams (see Fig.7a). It can be shown that if order-preserving maps $MATH$ and $MATH$ exist such that $MATH$ and $MATH$ yields the identity function on S and T, respectively, then S and T are order-isomorphic.
+For example, a mapping $MATH$ from the set of natural numbers (ordered by divisibility) to the power set of natural numbers (ordered by set inclusion) can be defined by taking each number to the set of its prime divisors. It is order-preserving: if $MATH$ divides $MATH$ then each prime divisor of $MATH$ is also a prime divisor of $MATH$ However, it is neither injective (since it maps both 12 and 6 to $MATH$) nor order-reflecting (since 12 does not divide 6). Taking instead each number to the set of its prime power divisors defines a map $MATH$ that is order-preserving, order-reflecting, and hence an order-embedding. It is not an order-isomorphism (since it, for instance, does not map any number to the set $MATH$), but it can be made one by restricting its codomain to $MATH$ Fig.7b shows a subset of $MATH$ and its isomorphic image under $MATH$ The construction of such an order-isomorphism into a power set can be generalized to a wide class of partial orders, called distributive lattices, see "Birkhoff's representation theorem".
+Number of partial orders
+Sequence A001035 in OEIS gives the number of partial orders on a set of n labeled elements:
+Note that S(n, k) refers to Stirling numbers of the second kind.
+The number of strict partial orders is the same as that of partial orders.
+If the count is made only up to isomorphism, the sequence 1, 1, 2, 5, 16, 63, 318, ... (sequence A000112 in the OEIS) is obtained.
+Linear extension
+A partial order $MATH$ on a set $MATH$ is an extension of another partial order $MATH$ on $MATH$ provided that for all elements $MATH$ whenever $MATH$ it is also the case that $MATH$ A linear extension is an extension that is also a linear (that is, total) order. As a classic example, the lexicographic order of totally ordered sets is a linear extension of their product order. Every partial order can be extended to a total order (order-extension principle).
+In computer science, algorithms for finding linear extensions of partial orders (represented as the reachability orders of directed acyclic graphs) are called topological sorting.
+Directed acyclic graphs
+Strict partial orders correspond directly to directed acyclic graphs (DAGs). If a graph is constructed by taking each element of $MATH$ to be a node and each element of $MATH$ to be an edge, then every strict partial order is a DAG, and the transitive closure of a DAG is both a strict partial order and also a DAG itself. In contrast a non-strict partial order would have self loops at every node and therefore not be a DAG.
+In category theory
+Every poset (and every preordered set) may be considered as a category where, for objects $MATH$ and $MATH$ there is at most one morphism from $MATH$ to $MATH$ More explicitly, let hom(x, y) = {(x, y)} if x ≤ y (and otherwise the empty set) and $MATH$ Such categories are sometimes called posetal.
+Posets are equivalent to one another if and only if they are isomorphic. In a poset, the smallest element, if it exists, is an initial object, and the largest element, if it exists, is a terminal object. Also, every preordered set is equivalent to a poset. Finally, every subcategory of a poset is isomorphism-closed.
+Partial orders in topological spaces
+If $MATH$ is a partially ordered set that has also been given the structure of a topological space, then it is customary to assume that $MATH$ is a closed subset of the topological product space $MATH$ Under this assumption partial order relations are well behaved at limits in the sense that if $MATH$ and $MATH$ and for all $MATH$ $MATH$ then $MATH$
+Intervals
+An interval in a poset P is a subset I of P with the property that, for any x and y in I and any z in P, if x ≤ z ≤ y, then z is also in I. (This definition generalizes the interval definition for real numbers.)
+For a ≤ b, the closed interval [a, b] is the set of elements x satisfying a ≤ x ≤ b (that is, a ≤ x and x ≤ b). It contains at least the elements a and b.
+Using the corresponding strict relation "<", the open interval (a, b) is the set of elements x satisfying a < x < b (i.e. a < x and x < b). An open interval may be empty even if a < b.  For example, the open interval (0, 1) on the integers is empty since there are no integers I such that 0 < I < 1.
+The half-open intervals [a, b) and (a, b] are defined similarly.
+Sometimes the definitions are extended to allow a > b, in which case the interval is empty.
+An interval I is bounded if there exist elements $MATH$ such that I ⊆ [a, b]. Every interval that can be represented in interval notation is obviously bounded, but the converse is not true. For example, let P = (0, 1) ∪ (1, 2) ∪ (2, 3) as a subposet of the real numbers. The subset (1, 2) is a bounded interval, but it has no infimum or supremum in P, so it cannot be written in interval notation using elements of P.
+A poset is called locally finite if every bounded interval is finite. For example, the integers are locally finite under their natural ordering. The lexicographical order on the cartesian product $MATH$ is not locally finite, since (1, 2) ≤ (1, 3) ≤ (1, 4) ≤ (1, 5) ≤ ... ≤ (2, 1).
+Using the interval notation, the property "a is covered by b" can be rephrased equivalently as $MATH$
+This concept of an interval in a partial order should not be confused with the particular class of partial orders known as the interval orders.
+See also
+Notes

@@ -1,0 +1,37 @@
+Trimethoprim/sulfamethoxazole
+Trimethoprim/sulfamethoxazole, sold under the brand name Bactrim among others, is a fixed-dose combination antibiotic medication used to treat a variety of bacterial infections. It consists of one part trimethoprim to five parts sulfamethoxazole. It is used to treat urinary tract infections, methicillin-resistant Staphylococcus aureus (MRSA) skin infections, travelers' diarrhea, respiratory tract infections, and cholera, among others. It is used both to treat and prevent pneumocystis pneumonia and toxoplasmosis in people with HIV/AIDS and other causes of immunosuppression. It can be given by mouth or intravenously.
+Trimethoprim/sulfamethoxazole is on the World Health Organization's List of Essential Medicines and is also available as a generic medication. In 2020, it was the 121st most commonly prescribed medication in the United States, with more than 5 million prescriptions.
+Medical uses
+Pneumocystis jirovecii pneumonia
+Trimethoprim/sulfamethoxazole (TMP/SMX) is the medicine most commonly used to prevent Pneumocystis jirovecii pneumonia (PCP) People who get Pneumocystis pneumonia have a medical condition that weakens their immune system, like HIV/AIDS, or take medicines (such as corticosteroids) that reduce the body's ability to fight bacterial and viral infections. People with HIV/AIDS are less likely to get Pneumocystis pneumonia as a result of antiretroviral therapy (ART). However, Pneumocystis pneumonia is still a substantial public health problem. Most of what is scientifically known about Pneumocystis pneumonia and its treatment comes from studying people with HIV/AIDS.
+Susceptibility
+Organisms against which trimethoprim/sulfamethoxazole can be effective include:
+The only notable nonsusceptible organisms are Pseudomonas aeruginosa, the mycoplasmae and Francisella tularensis (the causative organism of tularaemia).
+Pregnancy and breast feeding
+Its use during pregnancy is contraindicated, although it has been placed in Australian pregnancy category C. Its use during the first trimester (during organogenesis) and 12 weeks prior to pregnancy has been associated with an increased risk of congenital malformations, especially malformations associated with maternal folic acid deficiency (which is most likely related to the mechanism of action of co-trimoxazole) such as neural tube defects such as spina bifida, cardiovascular malformations (e.g. Ebstein's anomaly), urinary tract defects, oral clefts, and club foot in epidemiological studies. Its use later on during pregnancy also increases the risk of preterm labour (odds ratio: 1.51) and low birth weight (odds ratio: 1.67). Animal studies have yielded similarly discouraging results.
+It appears to be safe for use during breastfeeding as long as the baby is healthy.
+Babies
+Its use in those less than 2 months of age is not recommended due to the risk of adverse side effects.
+Adverse effects
+Common side effects include nausea, vomiting, rash, and diarrhea. Severe allergic reactions and Clostridium difficile infection may occasionally occur. Its use in pregnancy is not recommended. It appears to be safe for use during breastfeeding as long as the baby is healthy. Trimethoprim/sulfamethoxazole generally results in bacterial death. It works by blocking the making and use of folate by the microorganisms.
+Contraindications
+Contraindications include the following:
+Interactions
+Its use is advised against in people being concomitantly treated with:
+Overdose
+Likely signs of toxicity include:
+The recommended treatment for overdose includes:
+Alkalinisation of the urine may reduce the toxicity of sulfamethoxazole, but it may increase the toxic effects of trimethoprim.
+Pharmacology
+The synergy between trimethoprim and sulfamethoxazole was first described in the late 1960s. Trimethoprim and sulfamethoxazole have a greater effect when given together than when given separately, because they inhibit successive steps in the folate synthesis pathway. They are given in a one-to-five ratio in their tablet formulations so that when they enter the body their concentration in the blood and tissues is roughly one-to-twenty — the exact ratio required for a peak synergistic effect between the two.
+Sulfamethoxazole, a sulfonamide, induces its therapeutic effects by interfering with the de novo (that is, from within the cell) synthesis of folate inside microbial organisms such as protozoa, fungi and bacteria. It does this by competing with p-aminobenzoic acid (PABA) in the biosynthesis of dihydrofolate.
+Trimethoprim serves as a competitive inhibitor of dihydrofolate reductase (DHFR), hence inhibiting the de novo synthesis of tetrahydrofolate, the biologically active form of folate.
+Tetrahydrofolate is crucial in the synthesis of purines, thymidine, and methionine which are needed for the production of DNA and proteins during bacterial replication. Thus the net effect of each of these drugs is a bacteriostatic halt in replication. When combined, TMP and SMX are bactericidal.
+The effects of trimethoprim causes a backlog of dihydrofolate (DHF) and this backlog can work against the inhibitory effect the drug has on tetrahydrofolate biosynthesis. This is where the sulfamethoxazole comes in; its role is in depleting the excess DHF by preventing it from being synthesised in the first place.
+Co-trimoxazole was claimed to be more effective than either of its components individually in treating bacterial infections, although this was later disputed. Because it has a higher incidence of adverse effects, including allergic responses, its use has been restricted in many countries to very specific circumstances where its improved efficacy has been demonstrated. It may be effective in a variety of upper and lower respiratory tract infections, kidney and urinary tract infections, gastrointestinal tract infections, skin and wound infections, sepsis, and other infections caused by sensitive organisms. Co-trimoxazole decreases the risk of recurrence of retinochoroiditis. The global problem of advancing antimicrobial resistance has led to a renewed interest in the use of co-trimoxazole more recently.
+Society and culture
+Trade names
+Trimethoprim/sulfamethoxazole may be abbreviated as SXT, SMZ-TMP, TMP-SMX, TMP-SMZ, or TMP-sulfa.
+Co-trimoxazole (British Approved Name (BAN)) is manufactured and sold by many different companies. The following list of brand names is incomplete:
+Economics
+Trimethoprim/sulfamethoxazole is relatively inexpensive as of 2019.

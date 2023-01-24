@@ -1,0 +1,61 @@
+Waw (letter)
+Waw/Vav (wāw "hook") is the sixth letter of the Semitic abjads,  including 
+Phoenician wāw , 
+Aramaic waw ,
+Hebrew waw/vav ו, 
+Syriac waw ܘ 
+and Arabic wāw و (sixth in abjadi order; 27th in modern Arabic order).
+It represents the consonant [w] in classical Hebrew, and [v] in modern Hebrew, as well as the vowels [u] and [o]. In text with niqqud, a dot is added to the left or on top of the letter to indicate, respectively, the two vowel pronunciations.
+It is the origin of Greek Ϝ (digamma) and Υ (upsilon), Cyrillic У, Latin F and U and later Y, and the derived Latin- or Roman-alphabet letters V, and W.
+Origin
+
+The letter likely originated with an Egyptian hieroglyph which represented the word mace (transliterated as ḥ(dj)): 
+In Modern Hebrew, the word וָו vav is used to mean both "hook" and the letter's name (the name is also written וי״ו), while in Syriac and Arabic, waw to mean hook has fallen out of usage.
+Arabic wāw
+The Arabic letter و is named واو wāw and is written in several ways depending on its position in the word:: I §1 
+Wāw is used to represent four distinct phonetic features:: I §§1-8 
+As a vowel, wāw can serve as the carrier of a hamza: ؤ.
+Wāw is the sole letter of the common Arabic word wa, the primary conjunction in Arabic, equivalent to "and". In writing, it is prefixed to the following word, sometimes including other conjunctions, such as وَلَكِن wa-lākin, meaning "but".: I §365  Another function is the "oath", by preceding a noun of great significance to the speaker. It is often literally translatable to "By..." or "I swear to...", and is often used in the Qur'an in this way, and also in the generally fixed construction والله wallāh ("By Allah!" or "I swear to God!").: I §356d, II §62  The word also appears, particularly in classical verse, in the construction known as wāw rubba, to introduce a description.: II §§84-85 
+Derived letters
+With an additional triple dot diacritic above waw, the letter then named ve is used to represent distinctively the consonant /v/ in Arabic-based Uyghur.
+/o/ in Kurdish and Beja; /v/ in Arabic-based Kazakh; /ø/ in Uyghur.
+Thirty-fourth letter of the Azerbaijani Arabic script, represents Ô /ɔ/.
+It is also used for short vowel /o/ or /u/ in a lot of languages, for example "u" in bull (بۆل)
+for /oː/ or /u/, used in a lot of languages specifically Turkic ones, for example  o in bold (بۉلد)
+/y/ in Uyghur and also in other languages with a similar vowel.
+/ʉː/ in Southern Kurdish.
+In Jawi script:
+Used for /v/.
+Also used in Balochi for /o/.
+Other letters
+See Arabic script in Unicode
+Hebrew Waw / Vav
+Hebrew spelling: וָו or וָאו or וָיו.
+Pronunciation in Modern Hebrew
+Vav has three orthographic variants, each with a different phonemic value and phonetic realisation:
+
+In modern Hebrew, the frequency of the usage of vav, out of all the letters, is about 10.00%.
+Vav as consonant
+Consonantal vav (ו) generally represents a voiced labiodental fricative (like the English v) in Ashkenazi, European Sephardi, Persian, Caucasian, Italian and modern Israeli Hebrew, and was originally a labial-velar approximant /w/.
+In modern Israeli Hebrew, some loanwords, the pronunciation of whose source contains /w/, and their derivations, are pronounced with [w]: ואחד – /ˈwaχad/ (but: ואדי – /ˈvadi/).
+Modern Hebrew has no standardized way to distinguish orthographically between [v] and [w]. The pronunciation is determined by prior knowledge or must be derived through context.
+Some non standard spellings of the sound [w] are sometimes found in modern Hebrew texts, such as word-initial double-vav: וואללה – /ˈwala/ (word-medial double-vav is both standard and common for both /v/ and /w/, see table above) or, rarely, vav with a geresh: ו׳יליאם – /ˈwiljam/.
+Vav with a dot on top
+Vav can be used as a mater lectionis for an o vowel, in which case it is known as a ḥolam male, which in pointed text is marked as vav with a dot above it. It is pronounced [o̞] (phonemically transcribed more simply as /o/).
+The distinction is normally ignored, and the HEBREW POINT HOLAM (U+05B9) is used in all cases.
+The vowel can be denoted without the vav, as just the dot placed above and to the left of the letter it points, and it is then called ḥolam ḥaser. Some inadequate typefaces do not support the distinction between the ḥolam male ⟨וֹ⟩ /o/, the consonantal vav pointed with a ḥolam ḥaser ⟨וֺ⟩ /vo/ (compare ḥolam male ⟨מַצּוֹת⟩ /maˈtsot/ and consonantal vav-ḥolam ḥaser ⟨מִצְוֺת⟩ /mitsˈvot/). To display a consonantal vav with ḥolam ḥaser correctly, the typeface must either support the vav with the Unicode combining character "HEBREW POINT HOLAM HASER FOR VAV" (U+05BA, HTML Entity (decimal) &#1466;) or the precomposed character וֹ (U+FB4B). 
+Compare the three:
+Vav with a dot in the middle
+Vav can also be used as a mater lectionis for [u], in which case it is known as a shuruk, and in text with niqqud is marked with a dot in the middle (on the left side).
+Shuruk and vav with a dagesh look identical ("וּ") and are only distinguishable through the fact that in text with niqqud, vav with a dagesh will normally be attributed a vocal point in addition, e.g. שׁוּק (/ʃuk/), "a market", (the "וּ" denotes a shuruk) as opposed to שִׁוֵּק (/ʃiˈvek/), "to market" (the "וּ" denotes a vav with dagesh and is additionally pointed with a zeire, " ֵ ", denoting /e/). In the word שִׁוּוּק (/ʃiˈvuk/), "marketing", the first ("וּ") denotes a vav with dagesh, the second a shuruk, being the vowel attributed to the first.
+Numerical value
+Vav in gematria represents the number six, and when used at the beginning of Hebrew years, it means 6000 (i.e. ותשנד in numbers would be the date 6754.)
+Words written as vav
+Vav at the beginning of the word has several possible meanings:
+(Note: Older Hebrew did not have "tense" in a temporal sense, "perfect," and "imperfect" instead denoting aspect of completed or continuing action. Modern Hebrew verbal tenses have developed closer to their Indo-European counterparts, mostly having a temporal quality rather than denoting aspect. As a rule, Modern Hebrew does not use the "Vav Consecutive" form.)
+Yiddish
+In Yiddish, the letter (known as vov) is used for several orthographic purposes in native words:
+The single vov may be written with a dot on the left when necessary to avoid ambiguity and distinguish it from other functions of the letter. For example, the word vu 'where' is spelled וווּ, as tsvey vovn followed by a single vov; the single vov indicating [u] is marked with a dot in order to distinguish which of the three vovs represents the vowel. Some texts instead separate the digraph from the single vov with a silent aleph.
+Loanwords from Hebrew or Aramaic in Yiddish are spelled as they are in their language of origin.
+Syriac Waw
+In the Syriac alphabet, the sixth letter is ܘ. Waw (ܘܐܘ) is pronounced [w]. When it is used as a mater lectionis, a waw with a dot above the letter is pronounced [o], and a waw with a dot under the letter is pronounced [u]. Waw has an alphabetic-numeral value of 6.

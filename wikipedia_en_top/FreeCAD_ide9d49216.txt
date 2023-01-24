@@ -1,0 +1,22 @@
+FreeCAD
+FreeCAD is a general-purpose parametric 3D computer-aided design (CAD) modeler and a building information modeling (BIM) software application with finite element method (FEM) support. It is intended for mechanical engineering product design but also expands to a wider range of uses around engineering, such as architecture or electrical engineering. FreeCAD is free and open-source, under the LGPL-2.0-or-later license, and available for Linux, macOS, and Windows operating systems. Users can extend the functionality of the software using the Python programming language.
+Features
+General
+FreeCAD features tools similar to CATIA, Creo, SolidWorks, Solid Edge, NX, Inventor, Revit, and therefore also falls into the category of building information modeling (BIM), mechanical computer-aided design (MCAD), PLM, CAx and CAE. It is intended to be a feature-based parametric modeler with a modular software architecture, which makes it easy to provide additional functionality without modifying the core system.
+As with many modern 3D CAD modelers, FreeCAD has a 2D component to facilitate 3D-to-2D drawing conversion. Under its current state, direct 2D drawing (like AutoCAD LT) is not the focus for this software, and neither are animation or 3D model manipulation (like Blender, Maya, or Cinema 4D). However, the modular nature of FreeCAD allows the user to adapt its workflow for such environments via the use of plugins.
+FreeCAD uses open-source libraries from the field of computing science; among them are Open CASCADE Technology (a CAD kernel), Coin3D (an incarnation of Open Inventor), the Qt GUI framework, and Python, a popular scripting language. FreeCAD itself can also be used as a library by other programs.
+There are moves to expand FreeCAD in the architecture, electrical, and construction (AEC) engineering sectors and to add building information modeling (BIM) functionality with the Arch Module.
+As of late 2020, 3D Models searcher of CADENAS called 3DfindIT.com is integrated into FreeCAD.
+Supported file formats
+FreeCAD's own main file format is FreeCAD Standard file format (.FCStd). It is a standard zip file that holds files in a certain structure. Document.xml file has all geometric and parametric objects definitions. GuiDocument.xml then has visual representation details of objects. Other files include brep-files for objects and thumbnail of drawing.
+Besides FreeCAD's own file format, files can be exported and imported in DXF, SVG (Scalable Vector Graphics), STEP, IGES, STL (STereoLithography), OBJ (Wavefront), DAE (Collada), SCAD (OpenSCAD), IV (Inventor) and IFC.
+DWG support
+FreeCAD's support for the important DWG file format has been problematic due to software license compatibility problems with the GNU LibreDWG library. The GNU LibreDWG library started as a real free alternative to the source-available OpenDWG library (later Teigha Converter and now ODA File Converter) and is licensed under the GPLv3. As FreeCAD (and also LibreCAD) has dependencies on Open Cascade, which prior to version 6.7.0 was only compatible with GPLv2, it couldn't use the GNU LibreDWG library as GPLv2 and GPLv3 are essentially incompatible. Open CASCADE technology was contacted by Debian team in 2009, and 2012 got a reply that Open CASCADE technology was considering dual-licensing OCCT (the library), however they postponed that move. A request also went to the FSF to relicense GNU LibreDWG as GPLv2 or LGPLv3, which was rejected.
+As of 2014 the 0.14 release of FreeCAD, including the new LGPL release of Open Cascade, the BSD-licensed version of Coin3D, and the removal of PyQT, FreeCAD is now completely GPL-free. However, LibreDWG has not been adopted. FreeCAD is able to import and export a limited subset of the DWG format via the ODA File Converter (the former OpenDWG library).
+Promotions during events
+FreeCAD was notably presented at FISL 16 in 2015, in Porto Alegre, as well as at the Libre Graphics Meeting in London in 2016. These two exhibitions can bring together both developers and users. In 2020, it was during FOSDEM in Brussels that two of these developers, Yorik Van Havre and Brad Collette made the presentation.
+Release history
+See also
+Notes
+References
+Further reading

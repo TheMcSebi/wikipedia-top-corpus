@@ -1,0 +1,85 @@
+EPUB
+EPUB is an e-book file format that uses the ".epub" file extension. The term is short for electronic publication and is sometimes styled ePub. EPUB is supported by many e-readers, and compatible software is available for most smartphones, tablets, and computers. EPUB is a technical standard published by the International Digital Publishing Forum (IDPF). It became an official standard of the IDPF in September 2007, superseding the older Open eBook (OEB) standard.
+The Book Industry Study Group endorses EPUB 3 as the format of choice for packaging content and has stated that the global book publishing industry should rally around a single standard. The EPUB format is implemented as an archive file consisting of XHTML files carrying the content, along with images and other supporting files. EPUB is the most widely supported vendor-independent XML-based e-book format; that is, it is supported by almost all hardware readers.
+History
+A successor to the Open eBook Publication Structure, EPUB 2.0 was approved in October 2007, with a maintenance update (2.0.1) approved in September 2010.
+The EPUB 3.0 specification became effective in October 2011, superseded by a minor maintenance update (3.0.1) in June 2014. New major features include support for precise layout or specialized formatting (Fixed Layout Documents), such as for comic books, and MathML support. The current version of EPUB is 3.2, effective May 8, 2019. The (text of) format specification underwent reorganization and clean-up; format supports remotely hosted resources and new font formats (WOFF 2.0 and SFNT) and uses more pure HTML and CSS.
+In May 2016 IDPF members approved World Wide Web Consortium (W3C) merger, "to fully align the publishing industry and core Web technology".
+Version 2.0.1
+EPUB 2.0 was approved in October 2007, with a maintenance update (2.0.1) intended to clarify and correct errata in the specifications being approved in September 2010. EPUB version 2.0.1 consists of three specifications:
+EPUB internally uses XHTML or DTBook (an XML standard provided by the DAISY Consortium) to represent the text and structure of the content document, and a subset of CSS to provide layout and formatting. XML is used to create the document manifest, table of contents, and EPUB metadata. Finally, the files are bundled in a zip file as a packaging format.
+Open Publication Structure 2.0.1
+An EPUB file uses XHTML 1.1 (or DTBook) to construct the content of a book as of version 2.0.1. This is different from previous versions (OEBPS 1.2 and earlier), which used a subset of XHTML. There are, however, a few restrictions on certain elements. The mimetype for XHTML documents in EPUB is application/xhtml+xml.
+Styling and layout are performed using a subset of CSS 2.0, referred to as OPS Style Sheets. This specialized syntax requires that reading systems support only a portion of CSS properties and adds a few custom properties. Custom properties include oeb-page-head, oeb-page-foot, and oeb-column-number. Font-embedding can be accomplished using the @font-face property, as well as including the font file in the OPF's manifest (see below). The mimetype for CSS documents in EPUB is text/css.
+EPUB also requires that PNG, JPEG, GIF, and SVG images be supported using the mimetypes image/png, image/jpeg, image/gif, image/svg+xml. Other media types are allowed, but creators must include alternative renditions using supported types. For a table of all required mimetypes, see Section 1.3.7 of the specification.
+Unicode is required, and content producers must use either UTF-8 or UTF-16 encoding. This is to support international and multilingual books. However, reading systems are not required to provide the fonts necessary to display every Unicode character, though they are required to display at least a placeholder for characters that cannot be displayed fully.
+An example skeleton of an XHTML file for EPUB looks like this:
+Open Packaging Format 2.0.1
+The OPF specification's purpose is to "[define] the mechanism by which the various components of an OPS publication are tied together and provides additional structure and semantics to the electronic publication". This is accomplished by two XML files with the extensions .opf and .ncx.
+The OPF file, traditionally named content.opf, houses the EPUB book's metadata, file manifest, and linear reading order. This file has a root element package and four child elements: metadata, manifest, spine, and guide. Furthermore, the package node must have the unique-identifier attribute. The .opf file's mimetype is application/oebps-package+xml.
+The metadata element contains all the metadata information for a particular EPUB file. Three metadata tags are required (though many more are available): title, language, and identifier. title contains the title of the book, language contains the language of the book's contents in RFC 3066 format or its successors, such as the newer RFC 4646 and identifier contains a unique identifier for the book, such as its ISBN or a URL. The identifier's id attribute should equal the unique-identifier attribute from the package element.
+The manifest element lists all the files contained in the package. Each file is represented by an item element, and has the attributes id, href, media-type. All XHTML (content documents), stylesheets, images or other media, embedded fonts, and the NCX file should be listed here. Only the .opf file itself, the container.xml, and the mimetype files should not be included.
+The spine element lists all the XHTML content documents in their linear reading order. Also, any content document that can be reached through linking or the table of contents must be listed as well. The toc attribute of spine must contain the id of the NCX file listed in the manifest. Each itemref element's idref is set to the id of its respective content document.
+The guide element is an optional element for the purpose of identifying fundamental structural components of the book. Each reference element has the attributes type, title, href. Files referenced in href must be listed in the manifest, and are allowed to have an element identifier (e.g. #figures in the example).
+An example OPF file:
+The NCX file (Navigation Control file for XML), traditionally named toc.ncx, contains the hierarchical table of contents for the EPUB file. The specification for NCX was developed for Digital Talking Book (DTB), is maintained by the DAISY Consortium, and is not a part of the EPUB specification. The NCX file has a mimetype of application/x-dtbncx+xml.
+Of note here is that the values for the docTitle, docAuthor, and meta name="dtb:uid" elements should match their analogs in the OPF file. Also, the meta name="dtb:depth" element is set equal to the depth of the navMap element. navPoint elements can be nested to create a hierarchical table of contents. navLabel's content is the text that appears in the table of contents generated by reading systems that use the .ncx. navPoint's content element points to a content document listed in the manifest and can also include an element identifier (e.g. #section1).
+A description of certain exceptions to the NCX specification as used in EPUB is in Section 2.4.1 of the specification. The complete specification for NCX can be found in Section 8 of the Specifications for the Digital Talking Book.
+An example .ncx file:
+Open Container Format 2.0.1
+An EPUB file is a group of files that conform to the OPS/OPF standards and are wrapped in a ZIP file. The OCF specifies how to organize these files in the ZIP, and defines two additional files that must be included.
+The mimetype file must be a text document in ASCII that contains the string application/epub+zip. It must also be uncompressed, unencrypted, and the first file in the ZIP archive. This file provides a more reliable way for applications to identify the mimetype of the file than just the .epub extension.
+Also, there must be a folder named META-INF, which contains the required file container.xml. This XML file points to the file defining the contents of the book. This is the OPF file, though additional alternative rootfile elements are allowed.
+Apart from mimetype and META-INF/container.xml, the other files (OPF, NCX, XHTML, CSS and images files) are traditionally put in a directory named OEBPS.
+An example file structure:
+An example container.xml, given the above file structure:
+Version 3.0.1
+The EPUB 3.0 Recommended Specification was approved on 11 October 2011. On June 26, 2014 EPUB 3.0.1 was approved as a minor maintenance update to EPUB 3.0. EPUB 3.0 supersedes the previous release 2.0.1.
+EPUB 3 consists of a set of four specifications:
+The EPUB 3.0 format was intended to address the following criticisms:
+On June 26, 2014, the IDPF published EPUB 3.0.1 as a final Recommended Specification.
+In November 2014, EPUB 3.0 was published by the ISO/IEC as ISO/IEC TS 30135 (parts 1-7).
+In January 2020, EPUB 3.0.1 was published by the ISO/IEC as ISO/IEC 23736 (parts 1-6).
+Version 3.2
+EPUB 3.2 was announced in 2018, and the final specification was released in 2019. A notable change is the removal of a specialized subset of CSS, enabling the use of non-epub-prefixed properties. The references to HTML and SVG standards are also updated to "newest version available", as opposed to a fixed version in time.
+Features
+The format and many readers support the following:
+Digital rights management
+An EPUB file can optionally contain DRM as an additional layer, but it is not required by the specifications. In addition, the specification does not name any particular DRM system to use, so publishers can choose a DRM scheme to their liking. However, future versions of EPUB (specifically OCF) may specify a format for DRM.
+The EPUB specification does not enforce or suggest a particular DRM scheme. This could affect the level of support for various DRM systems on devices and the portability of purchased e-books. Consequently, such DRM incompatibility may segment the EPUB format along the lines of DRM systems, undermining the advantages of a single standard format and confusing the consumer.
+DRMed EPUB files must contain a file called rights.xml within the META-INF directory at the root level of the ZIP container.
+Adoption
+EPUB is widely used on software readers such as Google Play Books on Android and Apple Books on iOS and macOS and Amazon Kindle's e-readers, but not by associated apps for other platforms. iBooks also supports the proprietary iBook format, which is based on the EPUB format but depends upon code from the iBooks app to function.
+EPUB is a popular format for electronic data interchange because it can be an open format and is based on HTML, as opposed to Amazon's proprietary format for Kindle readers. Popular EPUB producers of public domain and open licensed content include Project Gutenberg, Standard Ebooks, PubMed Central, SciELO and others.
+In 2022, Amazon's Send-to-Kindle service removed support for its own Kindle File Format in favor of EPUB.
+Security and privacy concerns
+EPUB requires readers to support the HTML5, JavaScript, CSS, SVG formats, making EPUB readers use the same technology as web browsers.
+Such formats are associated with various types of security issues and privacy-breaching behaviors e.g. Web beacons, CSRF, XSHM due to their complexity and flexibility.
+Such vulnerabilities can be used to implement web tracking and cross-device tracking on EPUB files.
+Security researchers also identified attacks leading to local files and other user data being uploaded.
+The "EPUB 3.1 Overview" document provides a security warning:
+EPUB also requires PNG, JPEG and GIF.
+Implementation
+An EPUB file is an archive that contains, in effect, a website. It includes HTML files, images, CSS style sheets, and other assets. It also contains metadata. EPUB 3.2 is the latest version. By using HTML5, publications can contain video, audio, and interactivity, just like websites in web browsers.
+Container
+An EPUB publication is delivered as a single file. This file is an unencrypted zipped archive containing a set of interrelated resources.
+An OCF (Open Container Format) Abstract Container defines a file system model for the contents of the container. The file system model uses a single common root directory for all contents in the container. All (non-remote) resources for publications are in the directory tree headed by the container's root directory, though EPUB mandates no specific file system structure for this. The file system model includes a mandatory directory named META-INF that is a direct child of the container's root directory. META-INF stores container.xml.
+The first file in the archive must be the mimetype file. It must be unencrypted and uncompressed so that non-ZIP utilities can read the mimetype. The mimetype file must be an ASCII file that contains the string "application/epub+zip". This file provides a more reliable way for applications to identify the mimetype of the file than just the .epub extension.
+An example file structure:
+There must be a META-INF directory containing container.xml. This file points to the file defining the contents of the book, the OPF file, though additional alternative rootfile elements are allowed. Apart from mimetype and META-INF/container.xml, the other files (OPF, NCX, XHTML, CSS and images files) are traditionally put in a directory named OEBPS. An example container.xml:
+Publication
+The ePUB container must contain:
+The ePUB container may contain:
+Contents
+Content documents include HTML 5 content, navigation documents, SVG documents, scripted content documents, and fixed layout documents.
+Contents also include CSS and PLS documents. Navigation documents supersede the NCX grammar used in EPUB 2.
+Media overlays
+Books with synchronized audio narration are created in EPUB 3 by using media overlay documents to describe the timing for the pre-recorded audio narration and how it relates to the EPUB Content Document markup. The file format for Media Overlays is defined as a subset of SMIL.
+Software
+EPUB reader software exists for all major computing platforms, such as Adobe Digital Editions and calibre on desktop platforms, Google Play Books and Aldiko on Android and iOS, and Apple Books on macOS and iOS. There is also cross-platform editor software for creating EPUB files, including the open source programs calibre and Sigil.
+Most modern web browsers also support EPUB reader plugins. The Microsoft Edge browser had EPUB reader capability built in until September 2019.
+Reading software
+The following software can read and display EPUB files.
+Creation software
+The following software can create EPUB files.
+Notes

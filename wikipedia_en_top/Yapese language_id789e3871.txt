@@ -1,0 +1,18 @@
+Yapese language
+Yapese is a language spoken by the people on the island of Yap (Federated States of Micronesia). It belongs to the Austronesian languages, more specifically to the Oceanic branch of that family.  It has been difficult to classify it further, but Yapese may prove to be one of the Admiralty Islands languages.
+Orthography
+Written Yapese uses Latin script. In Yapese spelling as practiced until the 1970s, the glottal stop was not written with an explicit character. A word-final glottal stop was represented by doubling the final vowel letter. Glottalization of consonants was represented with an apostrophe. In the 1970s an orthography was created which uses double vowel letters to represent long vowels; and because of the ambiguity that would occur if the glottal stop was not written, the glottal stop was written with the letter q. This new orthography using the letter q is not in universal use, but many works and maps about Yap write place names using the new q-orthography.
+Phonology
+Apart from a couple grammatical forms which are V, syllables are CV or CVC.
+Consonants
+Yapese is one of the relatively few languages in the world with ejective fricatives. The Yapese ejective consonants are /pʼ tʼ kʼ fʼ θʼ/. There are also glottalised nasals /mˀ nˀ ŋˀ/ and approximants /jˀ wˀ lˀ/.: 30, 34-35 
+In the table below, each phoneme is listed to the left of the grapheme that represents it in Yapese orthography.
+/h/ ⟨h⟩ and /j/ ⟨j⟩ only occur in English and Japanese loans (/j/ ⟨y⟩ does occur in native words, however).
+Vowels
+In the table below, each phoneme is listed to the left of the grapheme that represents it in Yapese orthography.
+Grammar
+Reduplication
+Yapese makes use of reduplication for several morphological functions, including deriving stative adjectives from inchoative adjectives, as in (1a–b), as well as to make diminutives of verbs, as in (2a-b):: 112-114 
+Pronouns
+Yapese distinguishes between three numbers (singular, dual, and plural) and three persons (first, second, and third), as well as clusivity in its personal pronouns.: 134 
+A Yapese Talking Dictionary was produced by Living Tongues Institute for Endangered Languages.

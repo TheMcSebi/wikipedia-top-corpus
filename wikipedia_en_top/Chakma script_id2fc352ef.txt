@@ -1,0 +1,96 @@
+Chakma script
+The Chakma Script (Ajhā pāṭh), also called Ajhā pāṭh, Ojhapath, Ojhopath, Aaojhapath, is an abugida used for the Chakma language, and recently for the Pali language.
+History
+The Chakma script is an abugida that belongs to the Brahmic family of scripts. Chakma evolved from the Burmese script, which was ultimately derived from Pallava.
+The script, along with the Chakma language, has been introduced to non-government schools in Bangladesh, and as well as schools in Mizoram.
+Structure
+Chakma is of the Brahmic type: the consonant letters contain an inherent vowel. Unusually for Brahmic scripts, the inherent vowel in Chakma is a long 'ā' (aː) as opposed to short 'a' (ə) which is standard in most other languages of India such as Hindi, Marathi or Tamil. Consonant clusters are written with conjunct characters, and a visible vowel killer shows the deletion of the inherent vowel when there is no conjunct.
+Vowels
+Four independent vowels exist: 𑄃 a, 𑄄 i, 𑄅 u, and 𑄆 e.
+Other vowels in initial position are formed by adding the vowel sign to 𑄃 a, as in 𑄃𑄩 ī, 𑄃𑄫 ū, 𑄃𑄭 ai, 𑄃𑄰 oi. Some modern writers are generalizing this spelling in 𑄃𑄨 i, 𑄃𑄪 u, and 𑄃𑄬 e.
+Chakma vowel signs with the letter 𑄇 ka are given below:
+One of the interesting features of Chakma writing is that candrabindu (cānaphudā) can be used together with anusvara (ekaphudā) and visarga (dviphudā):
+𑄃𑄂𑄀  aḥṃ = 𑄃 ā +  𑄂 h +  𑄀ṃ
+𑄃𑄁𑄀  aṃṃ = 𑄃 ā +  𑄁 ṃ +  𑄀ṃ
+𑄅𑄁𑄀  uṃṃ = 𑄅 u +  𑄁 ṃ +  𑄀ṃ
+𑄟𑄪𑄀  muṃ = 𑄟 mā + 𑄪 u +  𑄀ṃ
+Vowel-killer
+Like other Brahmic scripts, Chakma makes use of the maayyaa (killer) to invoke conjoined consonants. In the past, practice was much more common than it is today. Like the Myanmar script, Chakma is encoded with two vowel-killing characters in order to conform to modern user expectations. As shown above, most letters have their vowels killed with the use of the explicit maayyaa:
+𑄇𑄴 k = 𑄇 kā +  𑄴 MAAYYAA
+Conjucts
+In 2001 an orthographic reform was recommended in the book Cāṅmā pattham pāt which would limit the standard repertoire of conjuncts to those composed with the five letters 𑄠 yā, 𑄢 rā, 𑄣 lā, 𑄤 wā, and 𑄚 nā. The four here are the most widely accepted repertoire of conjuncts.
+ya: X + 𑄳 VIRAMA + 𑄠 yā
+ 𑄇𑄳𑄠 𑄈𑄳𑄠 𑄉𑄳𑄠 𑄊𑄳𑄠 𑄋𑄳𑄠 - 𑄌𑄳𑄠 𑄍𑄳𑄠 𑄎𑄳𑄠 𑄏𑄳𑄠 𑄐𑄳𑄠 - 𑄑𑄳𑄠 𑄒𑄳𑄠 𑄓𑄳𑄠 𑄔𑄳𑄠 𑄕𑄳𑄠
+𑄖𑄳𑄠 𑄗𑄳𑄠 𑄘𑄳𑄠 𑄙𑄳𑄠 𑄚𑄳𑄠 - 𑄛𑄳𑄠 𑄜𑄳𑄠 𑄝𑄳𑄠 𑄞𑄳𑄠 𑄟𑄳𑄠 - 𑄦𑄳𑄠 𑄠𑄳𑄠 𑄡𑄳𑄠 𑄢𑄳𑄠 𑄤𑄳𑄠 𑄥𑄳𑄠
+ra: X + 𑄳 VIRAMA + 𑄢 rā
+𑄇𑄳𑄢 𑄈𑄳𑄢 𑄉𑄳𑄢 𑄊𑄳𑄢 𑄋𑄳𑄢 - 𑄌𑄳𑄢 𑄍𑄳𑄢 𑄎𑄳𑄢 𑄏𑄳𑄢 𑄐𑄳𑄢 - 𑄑𑄳𑄢 𑄒𑄳𑄢 𑄓𑄳𑄢 𑄔𑄳𑄢 𑄕𑄳𑄢
+𑄖𑄳𑄢 𑄗𑄳𑄢 𑄘𑄳𑄢 𑄙𑄳𑄢 𑄚𑄳𑄢 - 𑄛𑄳𑄢 𑄜𑄳𑄢 𑄝𑄳𑄢 𑄞𑄳𑄢 𑄟𑄳𑄢 - 𑄦𑄳𑄢 𑄠𑄳𑄢 𑄡𑄳𑄢 𑄢𑄳𑄢 𑄤𑄳𑄢 𑄥𑄳𑄢
+la: X + 𑄳 VIRAMA + 𑄣 lā
+𑄇𑄳𑄣 𑄈𑄳𑄣 𑄉𑄳𑄣 𑄊𑄳𑄣 𑄋𑄳𑄣 - 𑄌𑄳𑄣 𑄍𑄳𑄣 𑄎𑄳𑄣 𑄏𑄳𑄣 𑄐𑄳𑄣 -  𑄑𑄳𑄣 𑄒𑄳𑄣 𑄓𑄳𑄣 𑄔𑄳𑄣 𑄕𑄳𑄣
+𑄖𑄳𑄣 𑄗𑄳𑄣 𑄘𑄳𑄣 𑄙𑄳𑄣 𑄚𑄳𑄣 - 𑄛𑄳𑄣 𑄜𑄳𑄣 𑄝𑄳𑄣 𑄞𑄳𑄣 𑄟𑄳𑄣 - 𑄦𑄳𑄣 𑄠𑄳𑄣 𑄡𑄳𑄣 𑄢𑄳𑄣 𑄥𑄳𑄣
+wa: X + 𑄳 VIRAMA + 𑄤 wā
+𑄇𑄳𑄤 𑄈𑄳𑄤 𑄉𑄳𑄤 𑄊𑄳𑄤 𑄋𑄳𑄤 - 𑄌𑄳𑄤 𑄍𑄳𑄤 𑄎𑄳𑄤 𑄏𑄳𑄤 𑄐𑄳𑄤 - 𑄑𑄳𑄤 𑄒𑄳𑄤 𑄓𑄳𑄤 𑄔𑄳𑄤 𑄕𑄳𑄤
+𑄖𑄳𑄤 𑄗𑄳𑄤 𑄘𑄳𑄤 𑄙𑄳𑄤 𑄚𑄳𑄤 - 𑄛𑄳𑄤 𑄜𑄳𑄤 𑄝𑄳𑄤 𑄞𑄳𑄤 𑄟𑄳𑄤 - 𑄦𑄳𑄤 𑄠𑄳𑄤 𑄡𑄳𑄤 𑄢𑄳𑄤 𑄥𑄳𑄤
+No separate conjunct forms of subjoined full-form -yā or -rā appear to exist. The fifth of these conjuncts, the -na conjunct, is exemplary of the orthographic shift which has taken place in the Chakma language.
+na: X + 𑄳 VIRAMA + 𑄚 nā
+𑄇𑄳𑄚 𑄈𑄳𑄚 𑄉𑄳𑄚 𑄊𑄳𑄚 𑄋𑄳𑄚 - 𑄌𑄳𑄚 𑄍𑄳𑄚 𑄎𑄳𑄚 𑄏𑄳𑄚 𑄐𑄳𑄚 - 𑄑𑄳𑄚 𑄒𑄳𑄚 𑄓𑄳𑄚 𑄔𑄳𑄚 𑄕𑄳𑄚
+𑄖𑄳𑄚 𑄗𑄳𑄚 𑄘𑄳𑄚 𑄙𑄳𑄚 𑄚𑄳𑄚 - 𑄛𑄳𑄚 𑄜𑄳𑄚 𑄝𑄳𑄚 𑄞𑄳𑄚 𑄟𑄳𑄚 - 𑄦𑄳𑄚 𑄠𑄳𑄚 𑄡𑄳𑄚 𑄢𑄳𑄚 𑄥𑄳𑄚
+While some writers would indeed write kakna (in ligating style) as 𑄇𑄇𑄳𑄚 or (in subjoining style) as 𑄇𑄇𑄳𑄚, most now would probably expect it to be written as 𑄇𑄇𑄴𑄚. The ligating style of glyphs is now considered old-fashioned. Thus, taking the letter 𑄟 mā as the second element, while the glyph shapes 𑄇𑄳𑄟  kmā, 𑄖𑄳𑄟 tmā, 𑄚𑄳𑄟 nmā, 𑄝𑄳𑄝 bbā, 𑄟𑄳𑄟 mmā, 𑄣𑄳𑄣 llā, 𑄥𑄳𑄟 smā, and 𑄦𑄳𑄟 hmā are attested, most users now prefer the glyph shapes 𑄇𑄳𑄟 kmā, 𑄖𑄳𑄟 tmā, 𑄚𑄳𑄟 nmā, 𑄝𑄳𑄝 bbā, 𑄟𑄳𑄟 mmā, 𑄣𑄳𑄣 llā, 𑄥𑄳𑄟 smā, and 𑄦𑄳𑄟 hmā. Again, this distinction is stylistic and not orthographic.
+The 2004 book Phadagaṅ shows examples of the five conjuncts above together alongside conjuncts formed with 𑄝 bā, 𑄟 mā, and 𑄦 hā. These are all formed by simple subjoining.
+ba: X + 𑄳 VIRAMA + 𑄝 nā
+𑄇𑄳𑄝 𑄈𑄳𑄝 𑄉𑄳𑄝 𑄊𑄳𑄝 𑄋𑄳𑄝 - 𑄌𑄳𑄝 𑄍𑄳𑄝 𑄎𑄳𑄝 𑄏𑄳𑄝 𑄐𑄳𑄌 -  𑄑𑄳𑄝 𑄒𑄳𑄝 𑄓𑄳𑄝 𑄔𑄳𑄚 𑄕𑄳𑄝
+𑄖𑄳𑄝 𑄗𑄳𑄝 𑄘𑄳𑄝 𑄙𑄳𑄝 𑄚𑄳𑄚 - 𑄛𑄳𑄝 𑄜𑄳𑄝 𑄝𑄳𑄝 𑄞𑄳𑄝 𑄟𑄳𑄝 - 𑄠𑄳𑄝 𑄡𑄳𑄝 𑄢𑄳𑄝 𑄣𑄳𑄝 𑄤𑄳𑄝 𑄥𑄳𑄝
+ma: X + 𑄳 VIRAMA + 𑄟 nā
+𑄇𑄳𑄟 𑄈𑄳𑄟 𑄉𑄳𑄟 𑄊𑄳𑄟 𑄋𑄳𑄟 -  𑄌𑄳𑄟 𑄍𑄳𑄟 𑄎𑄳𑄟 𑄏𑄳𑄟 𑄐𑄳𑄟 - 𑄑𑄳𑄟 𑄒𑄳𑄟 𑄓𑄳𑄟 𑄔𑄳𑄟 𑄕𑄳𑄟
+𑄖𑄳𑄟 𑄗𑄳𑄟 𑄘𑄳𑄟 𑄙𑄳𑄟 𑄚𑄳𑄟 - 𑄛𑄳𑄟 𑄜𑄳𑄟 𑄝𑄳𑄟 𑄞𑄳𑄟 𑄟𑄳𑄟 - 𑄠𑄳𑄟 𑄡𑄳𑄟 𑄢𑄳𑄟 𑄣𑄳𑄟 𑄤𑄳𑄟 𑄥𑄳𑄟
+ha: X + 𑄳 VIRAMA + 𑄦 nā
+𑄇𑄳𑄦 𑄈𑄳𑄦 𑄉𑄳𑄦 𑄊𑄳𑄦 𑄋𑄳𑄦 - 𑄌𑄳𑄦 𑄍𑄳𑄦 𑄎𑄳𑄦 𑄏𑄳𑄦 𑄐𑄳𑄦 - 𑄑𑄳𑄦 𑄒𑄳𑄦 𑄓𑄳𑄦 𑄔𑄳𑄦 𑄕𑄳𑄦
+𑄖𑄳𑄦 𑄗𑄳𑄦 𑄘𑄳𑄦 𑄙𑄳𑄦 𑄚𑄳𑄦 - 𑄛𑄳𑄦 𑄜𑄳𑄦 𑄝𑄳𑄦 𑄞𑄳𑄦 𑄟𑄳𑄦 - 𑄠𑄳𑄦 𑄡𑄳𑄦 𑄢𑄳𑄦 𑄣𑄳𑄦 𑄤𑄳𑄦 𑄥𑄳𑄦
+In the 1982 book Cāṅmār āg pudhi a much wider range of conjunct pairs is shown, some of them with fairly complicated glyphs:
+𑄇𑄳𑄇  kkā   = 𑄇 kā + 𑄳 VIRAMA + 𑄇 kā
+𑄇𑄳𑄑  kṭā   = 𑄇 kā + 𑄳 VIRAMA + 𑄑 ṭā
+𑄇𑄳𑄖  ktā   = 𑄇 kā + 𑄳 VIRAMA + 𑄖 tā
+𑄇𑄳𑄟  kmā   = 𑄇 kā + 𑄳 VIRAMA + 𑄟 mā
+𑄇𑄳𑄌  kcā   = 𑄇 kā + 𑄳 VIRAMA + 𑄌 cā
+𑄋𑄳𑄇  ṅkā   = 𑄋 ṅā + 𑄳 VIRAMA + 𑄇 kā
+𑄋𑄳𑄉  ṅkā   = 𑄋 ṅā + 𑄳 VIRAMA + 𑄉 gā
+𑄌𑄳𑄌  ccā   = 𑄌 cā + 𑄳 VIRAMA + 𑄌 cā
+𑄌𑄳𑄍  cchā  = 𑄌 cā + 𑄳 VIRAMA + 𑄍 chā
+𑄐𑄳𑄌  ñcā   = 𑄐 ñā + 𑄳 VIRAMA + 𑄌 cā
+𑄐𑄳𑄎  ñjā   = 𑄐 ñā + 𑄳 VIRAMA + 𑄎 jā
+𑄐𑄳𑄏  ñjhā  = 𑄐 ñā + 𑄳 VIRAMA + 𑄏 jhā
+𑄑𑄳𑄑  ṭṭā   = 𑄑 ṭā + 𑄳 VIRAMA + 𑄑 ṭā
+𑄖𑄳𑄖  ttā   = 𑄖 tā + 𑄳 VIRAMA + 𑄖 tā
+𑄖𑄳𑄟  tmā   = 𑄖 tā + 𑄳 VIRAMA + 𑄟 mā
+𑄖𑄳𑄗  tthā  = 𑄖 tā + 𑄳 VIRAMA + 𑄗 thā
+𑄘𑄳𑄘  ddā   = 𑄘 dā + 𑄳 VIRAMA + 𑄘 dā
+𑄘𑄳𑄙  ddhā  = 𑄘 dā + 𑄳 VIRAMA + 𑄙 dhā
+𑄚𑄳𑄖  ntā  = 𑄚 nā + 𑄳 VIRAMA + 𑄖 tā
+𑄚𑄳𑄗  nthā  = 𑄚 nā + 𑄳 VIRAMA + 𑄗 thā
+𑄚𑄳𑄟  nmā  = 𑄚 nā + 𑄳 VIRAMA + 𑄟 mā
+𑄛𑄳𑄛  ppā  = 𑄛 pā + 𑄳 VIRAMA + 𑄛 pā
+𑄝𑄳𑄝  bbā  = 𑄝 bā + 𑄳 VIRAMA + 𑄝 bā
+𑄟𑄳𑄟  mmā  = 𑄟 mā + 𑄳 VIRAMA + 𑄟 mā
+𑄎𑄳𑄎  jjā  = 𑄎 jā + 𑄳 VIRAMA + 𑄎 jā
+𑄣𑄳𑄇  lkā  = 𑄣 lā + 𑄳 VIRAMA + 𑄇 kā
+𑄣𑄳𑄉  lgā  = 𑄣 lā + 𑄳 VIRAMA + 𑄉 gā
+𑄣𑄳𑄣  llā  = 𑄣 lā + 𑄳 VIRAMA + 𑄣 lā
+𑄣𑄳𑄑  lṭā  = 𑄣 lā + 𑄳 VIRAMA + 𑄑 ṭā
+𑄣𑄳𑄛  lpā  = 𑄣 lā + 𑄳 VIRAMA + 𑄛 pā
+𑄣𑄳𑄍  lchā  = 𑄣 lā + 𑄳 VIRAMA + 𑄍 chā
+𑄥𑄳𑄑  sṭā  = 𑄥 sā + 𑄳 VIRAMA + 𑄑 ṭā
+𑄥𑄳𑄇  skā  = 𑄥 sā + 𑄳 VIRAMA + 𑄇 kā
+𑄥𑄳𑄛  spā  = 𑄥 sā + 𑄳 VIRAMA + 𑄛 pā
+𑄥𑄳𑄟  smā  = 𑄥 sā + 𑄳 VIRAMA + 𑄟 mā
+𑄦𑄳𑄟  hmā  = 𑄦 hā + 𑄳 VIRAMA + 𑄟 hmā
+Letter names and punctuation
+Chakma letters have a descriptive name followed by a traditional Brahmic consonant. These are given in annotations to the character names. Alongside a single and double danda punctuation, Chakma has a unique question mark, and a section sign, Phulacihna. There is some variation in the glyphs for the Phulacihna, some looking like flowers or leaves.
+Numerals
+The Chakma script contains its own set of numerals, although Bengali numerals are also used.
+Unicode
+Chakma script was added to the Unicode Standard in January, 2012 with the release of version 6.1.
+The Unicode block for Chakma script is U+11100–U+1114F. Grey areas indicate non-assigned code points:
+Educational Institutions
+The Chakma language is being taught in many Government and private schools in India (Tripura, Mizoram, Arunachal Pradesh) and Bangladesh. The Chakma language was officially introduced in primary schools by the Govt. of Tripura under The Directorate of Kokborok & Other Minority Languages in 2004 through Bengali Script and since 2013 through Chakma script (also known as Ajhā Pāṭh). Presently, the Chakma language is being taught in 87 schools.
+References
+Further reading

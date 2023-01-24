@@ -1,0 +1,86 @@
+Hydraulic conductivity
+Hydraulic conductivity, symbolically represented as K (unit: m/s), is a property of porous materials, soils and rocks, that describes the ease with which a fluid (usually water) can move through the pore space, or fractures network. It depends on the intrinsic permeability (k, unit: m2) of the material, the degree of saturation, and on the density and viscosity of the fluid. Saturated hydraulic conductivity,  Ksat, describes water movement through saturated media.
+By definition, hydraulic conductivity is the ratio of volume flux to hydraulic gradient yielding a quantitative measure of a  saturated soil's ability to transmit water when subjected to a hydraulic gradient.
+Methods of determination
+There are two broad categories of determining hydraulic conductivity:
+The experimental approach is broadly classified into:
+The small scale field tests are further subdivided into:
+The methods of determination of hydraulic conductivity and other related issues are investigated by several researchers.
+Estimation by empirical approach
+Estimation from grain size
+Allen Hazen derived an empirical formula for approximating hydraulic conductivity from grain size analyses:
+where
+Pedotransfer function
+A pedotransfer function (PTF) is a specialized empirical estimation method, used primarily in the soil sciences, however has increasing use in hydrogeology. There are many different PTF methods, however, they all attempt to determine soil properties, such as hydraulic conductivity, given several measured soil properties, such as soil particle size, and bulk density.
+Determination by experimental approach
+There are relatively simple and inexpensive laboratory tests that may be run to determine the hydraulic conductivity of a soil:  constant-head method and falling-head method.
+Constant-head method
+The constant-head method is typically used on granular soil. 
+This procedure allows water to move through the soil under a steady state head condition while the volume of water flowing through the soil specimen is measured over a period of time.  
+By knowing the volume $MATH$ of water measured in a time $MATH$, over a specimen of length $MATH$ and cross-sectional area $MATH$, as well as the head $MATH$, the hydraulic conductivity, $MATH$, can be derived by simply rearranging Darcy's law:
+Proof: 
+Darcy's law states that the volumetric flow depends on the pressure differential, $MATH$, between the two sides of the sample, the permeability, $MATH$, and the viscosity, $MATH$, as: 
+In a constant head experiment, the head (difference between two heights) defines an excess water mass, $MATH$, where $MATH$ is the density of water. 
+This mass weighs down on the side it is on, creating a pressure differential of $MATH$, where $MATH$ is the gravitational acceleration.
+Plugging this directly into the above gives 
+If the hydraulic conductivity is defined to be related to the hydraulic permeability as
+this gives the result.'
+Falling-head method
+In the falling-head method, the soil sample is first saturated under a specific head condition. 
+The water is then allowed to flow through the soil without adding any water, so the pressure head declines as water passes through the specimen. 
+The advantage to the falling-head method is that it can be used for both fine-grained and coarse-grained soils.
+. 
+If the head drops from $MATH$ to $MATH$ in a time $MATH$, then the hydraulic conductivity is equal to 
+Proof:  As above, Darcy's law reads
+The decrease in volume is related to the falling head by $MATH$.
+Plugging this relationship into the above, and taking the limit as $MATH$, the differential equation
+has the solution
+Plugging in $MATH$ and rearranging gives the result.
+In-situ (field) methods
+In compare to laboratory method, field methods gives the most reliable information about the permeability of soil with minimum disturbances. In laboratory methods, the degree of disturbances affect the reliability of value of permeability of the soil.
+Pumping Test
+Pumping test is the most reliable method to calculate the coefficient of permeability of a soil. This test is further classified into Pumping in test and pumping out test.
+Augerhole method
+There are also in-situ methods for measuring the hydraulic conductivity in the field.
+When the water table is shallow, the augerhole method, a slug test, can be used for determining the hydraulic conductivity below the water table.
+The method was developed by Hooghoudt (1934) in The Netherlands and introduced in the US by Van Bavel en Kirkham (1948).
+The method uses the following steps:
+where: $MATH$ horizontal saturated hydraulic conductivity (m/day), $MATH$ depth of the waterlevel in the hole relative to the water table in the soil (cm), $MATH$ at time $MATH$, $MATH$ at time $MATH$, $MATH$ time (in seconds) since the first measurement of $MATH$ as $MATH$, and $MATH$ is a factor depending on the geometry of the hole:
+where: $MATH$ radius of the cylindrical hole (cm), $MATH$ is the average depth of the water level in the hole relative to the water table in the soil (cm), found as $MATH$, and $MATH$ is the depth of the bottom of the hole relative to the water table in the soil (cm).
+The picture shows a large variation of $MATH$-values measured with the augerhole method in an area of 100 ha. The ratio between the highest and lowest values is 25. The cumulative frequency distribution is lognormal and was made with the CumFreq program.
+Related magnitudes
+Transmissivity
+The transmissivity is a measure of how much water can be transmitted horizontally, such as to a pumping well.
+An aquifer may consist of $MATH$ soil layers. The transmissivity $MATH$ of a horizontal flow for the $MATH$ soil layer with a saturated thickness $MATH$ and horizontal hydraulic conductivity $MATH$ is:
+Transmissivity is directly proportional to horizontal hydraulic conductivity $MATH$ and thickness $MATH$. Expressing $MATH$ in m/day and $MATH$ in m, the transmissivity $MATH$ is found in units m2/day.
+The total transmissivity $MATH$ of the aquifer is:
+The apparent horizontal hydraulic conductivity $MATH$ of the aquifer is:
+where $MATH$, the total thickness of the aquifer, is $MATH$, with $MATH$.
+The transmissivity of an aquifer can be determined from pumping tests.
+Influence of the water table
+When a soil layer is above the water table, it is not saturated and does not contribute to the transmissivity. When the soil layer is entirely below the water table, its saturated thickness corresponds to the thickness of the soil layer itself. When the water table is inside a soil layer, the saturated thickness corresponds to the distance of the water table to the bottom of the layer. As the water table may behave dynamically, this thickness may change from place to place or from time to time, so that the transmissivity may vary accordingly.
+In a semi-confined aquifer, the water table is found within a soil layer with a negligibly small transmissivity, so that changes of the total transmissivity ($MATH$) resulting from changes in the level of the water table are negligibly small.
+When pumping water from an unconfined aquifer, where the water table is inside a soil layer with a significant transmissivity, the water table may be drawn down whereby the transmissivity reduces and the flow of water to the well diminishes.
+Resistance
+The resistance to vertical flow ($MATH$) of the $MATH$ soil layer with a saturated thickness $MATH$ and vertical hydraulic conductivity $MATH$ is:
+Expressing $MATH$  in m/day and $MATH$ in m, the resistance ($MATH$) is expressed in days.
+The total resistance ($MATH$) of the aquifer is:
+where $MATH$ signifies the summation over all layers: $MATH$
+The apparent vertical hydraulic conductivity ($MATH$) of the aquifer is:
+where $MATH$ is the total thickness of the aquifer: $MATH$, with $MATH$
+The resistance plays a role in aquifers where a sequence of layers occurs with varying horizontal permeability so that horizontal flow is found mainly in the layers with high horizontal permeability while the layers with low horizontal permeability transmit the water mainly in a vertical sense.
+Anisotropy
+When the horizontal and vertical hydraulic conductivity ($MATH$ and $MATH$) of the $MATH$ soil layer differ considerably, the layer is said to be anisotropic with respect to hydraulic conductivity.
+When the apparent horizontal and vertical hydraulic conductivity ($MATH$ and $MATH$) differ  considerably, the aquifer is said to be anisotropic with respect to hydraulic conductivity.
+An aquifer is called semi-confined when a saturated layer with a relatively small horizontal hydraulic conductivity (the semi-confining layer or aquitard) overlies a layer with a relatively high horizontal hydraulic conductivity so that the flow of groundwater in the first layer is mainly vertical and in the second layer mainly horizontal.
+The resistance of a semi-confining top layer of an aquifer can be determined from pumping tests.
+When calculating flow to drains or to a well field in an aquifer with the aim to control the water table, the anisotropy is to be taken into account, otherwise the result may be erroneous.
+Relative properties
+Because of their high porosity and permeability, sand and gravel aquifers have higher hydraulic conductivity than clay or unfractured granite aquifers. Sand or gravel aquifers would thus be easier to extract water from (e.g., using a pumping well) because of their high transmissivity, compared to clay or unfractured bedrock aquifers.
+Hydraulic conductivity has units with dimensions of length per time (e.g., m/s, ft/day and (gal/day)/ft² ); transmissivity then has units with dimensions of length squared per time. The following table gives some typical ranges (illustrating the many orders of magnitude which are likely) for K values.
+Hydraulic conductivity (K) is one of the most complex and important of the properties of aquifers in hydrogeology as the values found in nature:
+Ranges of values for natural materials
+Table of saturated hydraulic conductivity (K) values found in nature
+Values are for typical fresh groundwater conditions — using standard values of viscosity and specific gravity for water at 20 °C and 1 atm.
+See the similar table derived from the same source for intrinsic permeability values.
+Source: modified from Bear, 1972

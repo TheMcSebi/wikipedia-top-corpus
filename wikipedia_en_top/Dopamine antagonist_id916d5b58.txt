@@ -1,0 +1,24 @@
+Dopamine antagonist
+A dopamine antagonist, also known as an anti-dopaminergic and a dopamine receptor antagonist (DRA), is a type of drug which blocks dopamine receptors by receptor antagonism. Most antipsychotics are dopamine antagonists, and as such they have found use in treating schizophrenia, bipolar disorder, and stimulant psychosis. Several other dopamine antagonists are antiemetics used in the treatment of nausea and vomiting.
+Receptor pharmacology
+Dopamine receptors are all G protein–coupled receptors, and are divided into two classes based on which G-protein they are coupled to. The D1-like class of dopamine receptors is coupled to Gαs/olf and stimulates adenylate cyclase production, whereas the D2-like class is coupled to Gαi/o and thus inhibits adenylate cyclase production.
+D1-like receptors: D1 and D5
+D1-like receptors – D1 and D5 are always found post-synaptically. The genes coding these receptors lack introns, so there are no splice variants.
+D1 receptors
+D5 receptors
+D2-like receptors: D2, D3 and D4
+D2-like receptors unlike the D1-like class, these receptors are found pre and post-synaptically. The genes that code these receptors have introns, leading to many alternately spliced variants.
+D2 receptors
+D3 receptors
+D4 receptors
+Implications in disease
+The dopaminergic system has been implicated in a variety of disorders. Parkinson's disease results from loss of dopaminergic neurons in the striatum. Furthermore, most effective antipsychotics block D2 receptors, suggesting a role for dopamine in schizophrenia. Additional studies hypothesize dopamine dysregulation is involved in Huntington's disease, ADHD, Tourette's syndrome, major depression, manic depression, addiction, hypertension and kidney dysfunction. Dopamine receptor antagonists are used for some diseases such as schizophrenia, bipolar disorder, nausea and vomiting.
+Side effects
+They may include one or more of the following and last indefinitely even after cessation of the dopamine antagonist, especially after long-term or high-dosage use:
+Examples
+First-generation antipsychotics (typical)
+First generation antipsychotics are used to treat schizophrenia and are often accompanied by extrapyramidal side effects. They inhibit dopaminergic neurotransmission in the brain by blocking about 72% of the D2 dopamine receptors. They can also block noradrenergic, cholinergic, and histaminergic activity.
+Second-generation antipsychotics (atypical)
+These drugs are not only dopamine antagonists at the receptor specified, but also act on serotonin receptor 5HT2A. (Citation inappropriate) These drugs have less extrapyramidal side effects and are less likely to affect prolactin levels when compared to typical antipsychotics.
+Dopamine antagonists used to treat nausea and vomiting
+Antagonists used only in research settings

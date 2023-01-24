@@ -1,0 +1,86 @@
+Nondeterministic finite automaton
+In automata theory, a finite-state machine is called a deterministic finite automaton (DFA), if
+A nondeterministic finite automaton (NFA), or nondeterministic finite-state machine, does not need to obey these restrictions. In particular, every DFA is also an NFA. Sometimes the term NFA is used in a narrower sense, referring to an NFA that is not a DFA, but not in this article.
+Using the subset construction algorithm, each NFA can be translated to an equivalent DFA; i.e., a DFA recognizing the same formal language.
+Like DFAs, NFAs only recognize regular languages.
+NFAs were introduced in 1959 by Michael O. Rabin and Dana Scott,  who also showed their equivalence to DFAs. NFAs are used in the implementation of regular expressions: Thompson's construction is an algorithm for compiling a regular expression to an NFA that can efficiently perform pattern matching on strings. Conversely, Kleene's algorithm can be used to convert an NFA into a regular expression (whose size is generally exponential in the input automaton).
+NFAs have been generalized in multiple ways, e.g., nondeterministic finite automata with ε-moves, finite-state transducers, pushdown automata, alternating automata, ω-automata, and probabilistic automata.
+Besides the DFAs, other known special cases of NFAs
+are unambiguous finite automata (UFA)
+and self-verifying finite automata (SVFA).
+Informal introduction
+There are two ways to describe the behavior of an NFA, and both of them are equivalent. The first way makes use of the nondeterminism in the name of an NFA. For each input symbol, the NFA transitions to a new state until all input symbols have been consumed. In each step, the automaton nondeterministically "chooses" one of the applicable transitions. If there exists at least one "lucky run", i.e. some sequence of choices leading to an accepting state after completely consuming the input, it is accepted. Otherwise, i.e. if no choice sequence at all can consume all the input and lead to an accepting state, the input is rejected.: 19 : 319 
+In the second way, the NFA consumes a string of input symbols, one by one. In each step, whenever two or more transitions are applicable, it "clones" itself into appropriately many copies, each one following a different transition. If no transition is applicable, the current copy is in a dead end, and it "dies". If, after consuming the complete input, any of the copies is in an accept state, the input is accepted, else, it is rejected.: 19–20 : 48 : 56 
+Formal definition
+For a more elementary introduction of the formal definition see automata theory.
+Automaton
+An NFA is represented formally by a 5-tuple,
+$MATH$, consisting of
+Here, $MATH$ denotes the power set of $MATH$.
+Recognized language
+Given an NFA $MATH$, its recognized language is denoted by $MATH$, and is defined as the set of all strings over the alphabet $MATH$ that are accepted by $MATH$.
+Loosely corresponding to the above informal explanations, there are several equivalent formal definitions of a string $MATH$ being accepted by $MATH$:
+Initial state
+The above automaton definition uses a single initial state, which is not necessary. Sometimes, NFAs are defined with a set of initial states. There is an easy construction that translates an NFA with multiple initial states to an NFA with a single initial state, which provides a convenient notation.
+Example
+The following automaton $MATH$, with a binary alphabet, determines if the input ends with a 1.
+Let $MATH$ where
+the transition function $MATH$ can be defined by this state transition table (cf. upper left picture):
+Since the set $MATH$ contains more than one state, $MATH$ is nondeterministic.
+The language of $MATH$ can be described by the regular language given by the regular expression (0|1)*1.
+All possible state sequences for the input string "1011" are shown in the lower picture.
+
+The string is accepted by $MATH$ since one state sequence satisfies the above definition; it doesn't matter that other sequences fail to do so.
+The picture can be interpreted in a couple of ways:
+The feasibility to read the same picture in two ways also indicates the equivalence of both above explanations.
+In contrast, the string "10" is rejected by $MATH$ (all possible state sequences for that input are shown in the upper right picture), since there is no way to reach the only accepting state, $MATH$, by reading the final 0 symbol. While $MATH$ can be reached after consuming the initial "1", this does not mean that the input "10" is accepted; rather, it means that an input string "1" would be accepted.
+Equivalence to DFA
+A deterministic finite automaton (DFA) can be seen as a special kind of NFA, in which for each state and symbol, the transition function has exactly one state. Thus, it is clear that every formal language that can be recognized by a DFA can be recognized by an NFA.
+Conversely, for each NFA, there is a DFA such that it recognizes the same formal language. The DFA can be constructed using the powerset construction.
+This result shows that NFAs, despite their additional flexibility, are unable to recognize  languages that cannot be recognized by some DFA. It is also important in practice for converting easier-to-construct NFAs into more efficiently executable DFAs. However, if the NFA has n states, the resulting DFA may have up to $MATH$ states, which sometimes makes the construction impractical for large NFAs.
+NFA with ε-moves
+Nondeterministic finite automaton with ε-moves (NFA-ε) is a further generalization to NFA. In this kind of automaton, the transition function is additionally defined on the empty string ε. A transition without consuming an input symbol is called an ε-transition and is represented in state diagrams by an arrow labeled "ε". ε-transitions provide a convenient way of modeling systems whose current states are not precisely known: i.e., if we are modeling a system and it is not clear whether the current state (after processing some input string) should be q or q', then we can add an ε-transition between these two states, thus putting the automaton in both states simultaneously.
+Formal definition
+An NFA-ε is represented formally by a 5-tuple, $MATH$, consisting of
+Here, $MATH$ denotes the power set of $MATH$ and ε denotes empty string.
+ε-closure of a state or set of states
+For a state $MATH$, let $MATH$ denote the set of states that are reachable from $MATH$ by following ε-transitions in the transition function $MATH$, i.e.,
+$MATH$ if there is a sequence of states $MATH$ such that
+$MATH$ is known as the epsilon closure, (also ε-closure) of $MATH$.
+The ε-closure of a set $MATH$ of states of an NFA is defined as the set of states reachable from any state in $MATH$ following ε-transitions. Formally, for $MATH$, define $MATH$.
+Extended transition function
+Similar to NFA without ε-moves, the transition function $MATH$ of an NFA-ε can be extended to strings.
+Informally, $MATH$ denotes the set of all states the automaton may have reached when starting in state $MATH$ and reading the string $MATH$
+The function $MATH$ can be defined recursively as follows.
+The automaton is said to accept a string $MATH$ if 
+that is, if reading $MATH$ may drive the automaton from its start state $MATH$ to some accepting state in $MATH$: 25 
+Example
+Let $MATH$ be a NFA-ε, with a binary alphabet, that determines if the input contains an even number of 0s or an even number of 1s. Note that 0 occurrences is an even number of occurrences as well.
+In formal notation, let $MATH$ where
+the transition relation $MATH$ can be defined by this state transition table:
+$MATH$ can be viewed as the union of two DFAs: one with states $MATH$ and the other with states $MATH$. 
+The language of $MATH$ can be described by the regular language given by this regular expression $MATH$.
+We define $MATH$ using ε-moves but $MATH$ can be defined without using ε-moves.
+Equivalence to NFA
+To show NFA-ε is equivalent to NFA, first note that NFA is a special case of NFA-ε, so it remains to show for every NFA-ε, there exists an equivalent NFA.
+Given an NFA with epsilon moves $MATH$
+define an NFA $MATH$ where
+and
+One has to distinguish the transition functions of $MATH$ and $MATH$ viz. $MATH$ and $MATH$ and their extensions to strings, $MATH$ and $MATH$ respectively.
+By construction, $MATH$ has no ε-transitions.
+One can prove that $MATH$ for each string $MATH$, by induction on the length of $MATH$
+Based on this, one can show that $MATH$ if, and only if, $MATH$ for each string $MATH$
+Since NFA is equivalent to DFA, NFA-ε is also equivalent to DFA.
+Closure properties
+The set of languages recognized by NFAs is closed under the following operations. These closure operations are used in Thompson's construction algorithm, which constructs an NFA from any regular expression. They can also be used to prove that NFAs recognize exactly the regular languages.
+Since NFAs are equivalent to nondeterministic finite automaton with ε-moves (NFA-ε), the above closures are proved using closure properties of NFA-ε.
+Properties
+The machine starts in the specified initial state and reads in a string of symbols from its alphabet. The automaton uses the state transition function Δ to determine the next state using the current state, and the symbol just read or the empty string. However, "the next state of an NFA depends not only on the current input event, but also on an arbitrary number of subsequent input events. Until these subsequent events occur it is not possible to determine which state the machine is in". If, when the automaton has finished reading, it is in an accepting state, the NFA is said to accept the string, otherwise it is said to reject the string.
+The set of all strings accepted by an NFA is the language the NFA accepts. This language is a regular language.
+For every NFA a deterministic finite automaton (DFA) can be found that accepts the same language. Therefore, it is possible to convert an existing NFA into a DFA for the purpose of implementing a (perhaps) simpler machine. This can be performed using the powerset construction, which may lead to an exponential rise in the number of necessary states. For a formal proof of the powerset construction, please see the Powerset construction article.
+Implementation
+There are many ways to implement a NFA:
+Application of NFA
+NFAs and DFAs are equivalent in that if a language is recognized by an NFA, it is also recognized by a DFA and vice versa.  The establishment of such equivalence is important and useful.  It is useful because constructing an NFA to recognize a given language is sometimes much easier than constructing a DFA for that language.  It is important because NFAs can be used to reduce the complexity of the mathematical work required to establish many important properties in the theory of computation.  For example, it is much easier to prove closure properties of regular languages using NFAs than DFAs.
+See also
+Notes

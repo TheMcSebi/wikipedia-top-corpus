@@ -1,0 +1,28 @@
+Poetics (Aristotle)
+Aristotle's Poetics (Greek: Περὶ ποιητικῆς Peri poietikês; Latin: De Poetica; c. 335 BC) is the earliest surviving work of Greek dramatic theory and first extant philosophical treatise to focus on literary theory. In this text Aristotle offers an account of ποιητική, which refers to poetry and more literally "the poetic art," deriving from the term for "poet; author; maker," ποιητής. 
+Aristotle divides the art of poetry into verse drama (to include comedy, tragedy, and the satyr play), lyric poetry, and epic. The genres all share the function of mimesis, or imitation of life, but differ in three ways that Aristotle describes:
+The surviving book of Poetics is primarily concerned with drama, and the analysis of tragedy constitutes the core of the discussion.
+Although the text is universally acknowledged in the Western critical tradition, "almost every detail about [t]his seminal work has aroused divergent opinions". Among scholarly debates on the Poetics, the three most prominent have concerned the meanings of catharsis and hamartia (these being the best known), and the question why Aristotle appears to contradict himself between chapters 13 and 14.
+Background
+Aristotle's work on aesthetics consists of the Poetics, Politics (Bk VIII) and Rhetoric. The Poetics was lost to the Western world for a long time. The text was restored to the West in the Middle Ages and early Renaissance only through a Latin translation of an Arabic version written by Averroes. The accurate Greek-Latin translation made by William of Moerbeke in 1278 was virtually ignored. At some point during antiquity, the original text of the Poetics was divided in two, each "book" written on a separate roll of papyrus. Only the first part – that which focuses on tragedy and epic (as a quasi-dramatic art, given its definition in Ch 23) – survives. The lost second part addressed comedy. Some scholars speculate that the Tractatus coislinianus summarises the contents of the lost second book.
+Overview
+The table of contents page of the Poetics found in Modern Library's Basic Works of Aristotle (2001) identifies five basic parts within it.
+Aristotle also draws a famous distinction between the tragic mode of poetry and the type of history writing practiced among the Greeks. Whereas history deals with things that took place in the past, tragedy concerns itself with what might occur, or could be imagined to happen. History deals with particulars, whose relation to one another is marked by contingency, accident or chance.  Contrariwise, poetic narratives are determined objects, unified by a plot whose logic binds up the constituent elements by necessity and probability. In this sense, he concluded, such poetry was more philosophical than history in so far as it approximates to a knowledge of universals.
+Synopsis
+Aristotle distinguishes between the genres of "poetry" in three ways:
+Having examined briefly the field of "poetry" in general, Aristotle proceeds to his definition of tragedy:
+He then identifies the "parts" of tragedy:
+He offers the earliest-surviving explanation for the origins of tragedy and comedy:
+Influence
+The Arabic version of Aristotle's Poetics that influenced the Middle Ages was translated from a Greek manuscript dated to some time prior to the year 700. This manuscript, translated from Greek to Syriac, is independent of the currently-accepted 11th-century source designated Paris 1741. The Syriac-language source used for the Arabic translations departed widely in vocabulary from the original Poetics and it initiated a misinterpretation of Aristotelian thought that continued through the Middle Ages.
+The scholars who published significant commentaries on Aristotle's Poetics included Avicenna, Al-Farabi and Averroes. Many of these interpretations sought to use Aristotelian theory to impose morality on the Arabic poetic tradition. In particular, Averroes added a moral dimension to the Poetics by interpreting tragedy as the art of praise and comedy as the art of blame.
+Averroes' interpretation of the Poetics was accepted by the West, where it reflected the "prevailing notions of poetry" into the 16th century.
+Giorgio Valla's 1498 Latin translation of Aristotle's text (the first to be published) was included with the 1508 Aldine printing of the Greek original as part of an anthology of Rhetores graeci. By the early decades of the sixteenth century, vernacular versions of Aristotle's Poetics appeared, culminating in Lodovico Castelvetro's Italian editions of 1570 and 1576. Italian culture produced the great Renaissance commentators on Aristotle's Poetics, and in the baroque period it was Emanuele Tesauro who, with his Cannocchiale aristotelico, re-presented to the world of post-Galilean physics Aristotle's poetic theories as the sole key to approaching the human sciences.
+Recent scholarship has challenged whether Aristotle focuses on literary theory per se (given that not one poem exists in the treatise) or whether he focuses instead on dramatic musical theory that only has language as one of the elements.
+The lost second book of Aristotle's Poetics is a core plot element (and the “MacGuffin”) in Umberto Eco's novel The Name of the Rose.
+Core terms
+Editions – commentaries – translations
+Other English translations
+Notes
+References
+Sources

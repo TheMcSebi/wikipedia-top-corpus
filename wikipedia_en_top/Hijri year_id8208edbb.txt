@@ -1,0 +1,22 @@
+Hijri year
+The Hijri year (Arabic: سَنة هِجْريّة) or era (التقويم الهجري at-taqwīm al-hijrī) is the era used in the Islamic lunar calendar. It begins its count from the Islamic New Year in which Muhammad  and his followers migrated from Mecca to Yathrib (now Medina). This event, known as the Hijrah, is commemorated in Islam for its role in the founding of the first Muslim community (ummah). 
+In the West, this era is most commonly denoted as AH (Latin: Anno Hegirae /ˈænoʊ ˈhɛdʒɪriː/, 'in the year of the Hijra') in parallel with the Christian (AD), Common (CE) and Jewish eras (AM) and can similarly be placed before or after the date. In predominantly Muslim countries, it is also commonly abbreviated H ("Hijra") from its Arabic abbreviation hāʾ (هـ). Years prior to AH 1 are reckoned in English as BH ("Before the Hijrah"), which should follow the date.
+A year in the Islamic lunar calendar consists of twelve lunar months and has only 354 or 355 days in its year. Consequently its New Year's Day occurs ten days earlier each year relative to the Gregorian calendar. The year 2023 CE corresponds to the Islamic years AH 1444 – 1445; AH 1444 corresponds to 2022 – 2023 in the Common Era.
+Definition
+The Hijri era is calculated according to the Islamic lunar calendar, whose epoch (first year) is the year of Muhammad's Hijrah, and begins on the first day of the month of Muharram (equivalent to the Julian calendar date of April 19, 622 CE).
+The date of the Hijrah itself did not form the Islamic New Year. Instead, the system continues the earlier ordering of the months, with the Hijrah occurring around the 8th day of Rabi al-Awwal, 66 days into the first year.
+History
+Predecessors
+By the age of Muhammad, there was already an Arabian lunar calendar, with named months. Likewise, the years of its calendar used conventional names rather than numbers: for example, the year of the birth of Muhammad and of  Ammar ibn Yasir (570 CE) was known as the "Year of the Elephant".  The first year of the Hijra (622-23 CE) was named the "Permission to Travel" in this calendar.
+Establishment
+17 years after the Hijra, a complaint from Abu Musa Ashaari prompted the caliph Umar to abolish the practice of named years and to establish a new calendar era. Umar chose as epoch for the new Muslim calendar the hijrah, the emigration of Muhammad and 70 Muslims from Mecca to Medina. Tradition credits Othman with the successful proposal, simply continuing the order of the months that had already been established by Prophet Muhammad, beginning with Muharram,  as there was no set order of months during the pre-Islamic era (Age of Ignorance - Jahiliya). Adoption of this calendar was then enforced by Umar.
+Formula
+Different approximate conversion formulas between the Gregorian (AD or CE) and Islamic calendars (AH) are possible:
+or
+Given that the Islamic New Year does not begin January 1 and that a Hijri calendar year is about 11 days shorter than a Gregorian calendar year,  there is no direct correspondence between years of the two eras. A given Hijri year will usually fall in two successive Gregorian years. A CE year will always overlap two or occasionally three successive Hijri years. For example, the year 2008 CE maps to the last week of AH 1428, all of 1429, and the first few days of 1430. Similarly, the year 1976 CE corresponded with the last few days of AH 1395, all of 1396, and the first week of 1397.
+Months
+The Hijri year has twelve months, whose precise lengths vary by sect of Islam. Each month of the Islamic calendar commences on the birth of the new lunar cycle. Traditionally this is based on actual observation of the moon's crescent (hilal) marking the end of the previous lunar cycle and hence the previous month, thereby beginning the new month. Consequently, each month can have 29 or 30 days depending on the visibility of the moon, astronomical positioning of the earth and weather conditions. However, certain sects and groups, most notably Bohras Muslims namely Alavis, Dawoodis and Sulaymanis and Shia Ismaili Muslims, use a tabular Islamic calendar in which odd-numbered months have thirty days (and also the twelfth month in a leap year) and even months have twenty nine.
+See also
+Notes
+References
+Further reading

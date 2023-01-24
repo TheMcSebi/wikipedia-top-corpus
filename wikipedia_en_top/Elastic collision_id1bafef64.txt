@@ -1,0 +1,72 @@
+Elastic collision
+In physics, an elastic collision is an encounter (collision) between two bodies  in which the total kinetic energy of the two bodies remains the same. In an ideal, perfectly elastic collision, there is no net conversion of kinetic energy into other forms such as heat, noise, or potential energy.
+During the collision of small objects, kinetic energy is first converted to potential energy associated with a repulsive or attractive force between the particles (when the particles move against this force, i.e. the angle between the force and the relative velocity is obtuse), then this potential energy is converted back to kinetic energy (when the particles move with this force, i.e. the angle between the force and the relative velocity is acute).
+Collisions of atoms are elastic, for example Rutherford backscattering.
+A useful special case of elastic collision is when the two bodies have equal mass, in which case they will simply exchange their momenta.
+The molecules—as distinct from atoms—of a gas or liquid rarely experience perfectly elastic collisions because kinetic energy is exchanged between the molecules’ translational motion and their internal degrees of freedom with each collision. At any instant, half the collisions are, to a varying extent, inelastic collisions (the pair possesses less kinetic energy in their translational motions after the collision than before), and half could be described as “super-elastic” (possessing more kinetic energy after the collision than before). Averaged across the entire sample, molecular collisions can be regarded as essentially elastic as long as Planck's law forbids energy from being carried away by black-body photons.
+In the case of macroscopic bodies, perfectly elastic collisions are an ideal never fully realized, but approximated by the interactions of objects such as billiard balls.
+When considering energies, possible rotational energy before and/or after a collision may also play a role.  
+Equations
+One-dimensional Newtonian
+In an elastic collision, both momentum and kinetic energy are conserved. Consider particles 1 and 2 with masses m1, m2, and velocities u1, u2 before collision, v1, v2 after collision. The conservation of the total momentum before and after the collision is expressed by:
+Likewise, the conservation of the total kinetic energy is expressed by:
+These equations may be solved directly to find $MATH$ when $MATH$ are known:
+If both masses are the same, we have a trivial solution:
+This simply corresponds to the bodies exchanging their initial velocities to each other.
+As can be expected, the solution is invariant under adding a constant to all velocities (Galilean relativity), which is like using a frame of reference with constant translational velocity. Indeed, to derive the equations, one may first change the frame of reference so that one of the known velocities is zero, determine the unknown velocities in the new frame of reference, and convert back to the original frame of reference.
+Examples
+After collision:
+Another situation:
+The following illustrate the case of equal mass, $MATH$.
+In the limiting case where $MATH$ is much larger than $MATH$, such as a ping-pong paddle hitting a ping-pong ball or an SUV hitting a trash can, the heavier mass hardly changes velocity, while the lighter mass bounces off, reversing its velocity plus approximately twice that of the heavy one.
+In the case of a large $MATH$, the value of $MATH$ is small if the masses are approximately the same: hitting a much lighter particle does not change the velocity much, hitting a much heavier particle causes the fast particle to bounce back with high speed. This is why a neutron moderator (a medium which slows down fast neutrons, thereby turning them into thermal neutrons capable of sustaining a chain reaction) is a material full of atoms with light nuclei which do not easily absorb neutrons: the lightest nuclei have about the same mass as a neutron.
+Derivation of solution
+To derive the above equations for $MATH$, rearrange the kinetic energy and momentum equations:
+Dividing each side of the top equation by each side of the bottom equation, and using $MATH$, gives:
+That is, the relative velocity of one particle with respect to the other is reversed by the collision. 
+Now the above formulas follow from solving a system of linear equations for $MATH$, regarding $MATH$ as constants:
+Once $MATH$ is determined, $MATH$ can be found by symmetry.
+Center of mass frame
+With respect to the center of mass, both velocities are reversed by the collision: a heavy particle moves slowly toward the center of mass, and bounces back with the same low speed, and a light particle moves fast toward the center of mass, and bounces back with the same high speed.
+The velocity of the center of mass does not change by the collision. To see this, consider the center of mass at time $MATH$ before collision and time $MATH$ after collision:
+Hence, the velocities of the center of mass before and after collision are:
+The numerators of $MATH$ and  $MATH$ are the total momenta before and after collision. Since momentum is conserved, we have $MATH$.
+One-dimensional relativistic
+According to special relativity,
+where p denotes momentum of any particle with mass, v denotes velocity, and c is the speed of light.
+In the center of momentum frame where the total momentum equals zero, 
+Here $MATH$represent the rest masses of the two colliding bodies, $MATH$represent their velocities before collision, $MATH$their velocities after collision, $MATH$their momenta, $MATH$ is the speed of light in vacuum, and $MATH$ denotes the total energy, the sum of rest masses and kinetic energies of the two bodies.
+Since the total energy and momentum of the system are conserved and their rest masses do not change, it is shown that the momentum of the colliding body is decided by the rest masses of the colliding bodies, total energy and the total momentum.  Relative to the center of momentum frame, the momentum of each colliding body does not change magnitude after collision, but reverses its direction of movement.
+Comparing with classical mechanics, which gives accurate results dealing with macroscopic objects moving much slower than the speed of light, total momentum of the two colliding bodies is frame-dependent. In the center of momentum frame, according to classical mechanics,
+This agrees with the relativistic calculation $MATH$, despite other differences. 
+One of the postulates in Special Relativity states that the laws of physics, such as conservation of momentum, should be invariant in all inertial frames of reference. In a general inertial frame where the total momentum could be arbitrary,
+We can look at the two moving bodies as one system of which the total momentum is $MATH$, the total energy is $MATH$ and its velocity $MATH$ is the velocity of its center of mass. Relative to the center of momentum frame the total momentum equals zero. It can be shown that $MATH$ is given by:
+Now the velocities before the collision in the center of momentum frame $MATH$ and $MATH$ are:
+When $MATH$ and $MATH$,
+Therefore, the classical calculation holds true when the speed of both colliding bodies is much lower than the speed of light (~300 million m/s).
+Relativistic derivation using hyperbolic functions
+We use the so-called parameter of velocity $MATH$ (usually called the rapidity) to get :
+hence we get
+Relativistic energy and momentum are expressed as follows:
+Equations sum of energy and momentum colliding masses $MATH$ and $MATH$, (velocities $MATH$, $MATH$, $MATH$, $MATH$ correspond to the velocity parameters $MATH$, $MATH$, $MATH$, $MATH$), after dividing by adequate power $MATH$ are as follows:
+and dependent equation, the sum of above equations:
+subtract squares both sides equations "momentum" from "energy" and use the identity $MATH$, after simplicity we get:
+for non-zero mass, using the hyperbolic trigonometric identity cosh(a − b) = cosh(a) cosh(b) − sinh(b) sinh(a), we get:
+as functions $MATH$ is even we get two solutions:
+from the last equation, leading to a non-trivial solution, we solve $MATH$ and substitute into the dependent equation, we obtain $MATH$ and then $MATH$, we have:
+It is a solution to the problem, but expressed by the parameters of velocity. Return substitution to get the solution for velocities is:
+Substitute the previous solutions and replace:
+$MATH$ and $MATH$, after long transformation, with substituting:
+$MATH$
+we get:
+Two-dimensional
+For the case of two non-spinning colliding bodies in two dimensions, the motion of the bodies is determined by the three conservation laws of momentum, kinetic energy and angular momentum. The overall velocity of each body must be split into two perpendicular velocities: one tangent to the common normal surfaces of the colliding bodies at the point of contact, the other along the line of collision. Since the collision only imparts force along the line of collision, the velocities that are tangent to the point of collision do not change.  The velocities along the line of collision can then be used in the same equations as a one-dimensional collision. The final velocities can then be calculated from the two new component velocities and will depend on the point of collision.  Studies of two-dimensional collisions are conducted for many bodies in the framework of a two-dimensional gas.
+In a center of momentum frame at any time the velocities of the two bodies are in opposite directions, with magnitudes inversely proportional to the masses. In an elastic collision these magnitudes do not change. The directions may change depending on the shapes of the bodies and the point of impact. For example, in the case of spheres the angle depends on the distance between the (parallel) paths of the centers of the two bodies. Any non-zero change of direction is possible: if this distance is zero the velocities are reversed in the collision; if it is close to the sum of the radii of the spheres the two bodies are only slightly deflected.
+Assuming that the second particle is at rest before the collision, the angles of deflection of the two particles, $MATH$ and $MATH$, are related to the angle of deflection $MATH$ in the system of the center of mass by
+The magnitudes of the velocities of the particles after the collision are:
+Two-dimensional collision with two moving objects
+The final x and y velocities components of the first ball can be calculated as:
+where v1 and v2 are the scalar sizes of the two original speeds of the objects, m1 and m2 are their masses, θ1 and θ2 are their movement angles, that is, $MATH$ (meaning moving directly down to the right is either a −45° angle, or a 315°angle), and lowercase phi (φ) is the contact angle. (To get the x and y velocities of the second ball, one needs to swap all the '1' subscripts with '2' subscripts.)
+This equation is derived from the fact that the interaction between the two bodies is easily calculated along the contact angle, meaning the velocities of the objects can be calculated in one dimension by rotating the x and y axis to be parallel with the contact angle of the objects, and then rotated back to the original orientation to get the true x and y components of the velocities
+In an angle-free representation, the changed velocities are computed using the centers x1 and x2 at the time of contact as
+where the angle brackets indicate the inner product (or dot product) of two vectors.

@@ -1,0 +1,29 @@
+Windows 10 editions
+Windows 10 has several editions, all with varying feature sets, use cases, or intended devices. Certain editions are distributed only on devices directly from an original equipment manufacturer (OEM), while editions such as Enterprise and Education are only available through volume licensing channels. Microsoft also makes editions of Windows 10 available to device manufacturers for use on specific classes of devices, including IoT devices and previously marketed Windows 10 Mobile for smartphones.
+Baseline editions
+Baseline editions are the only editions available as standalone purchases in retail outlets. PCs often come pre-installed with one of these editions.
+Organizational editions
+These editions add features to facilitate centralized control of many installations of the OS within an organization. The main avenue of acquiring them is a volume licensing contract with Microsoft.
+S mode
+Since 2018, OEMs can ship Windows 10 Home and Pro in a feature-limited variation named S mode which evolved from the discontinued Windows 10 S. Organizations employing Windows 10 Enterprise or Windows 10 Education can make use of S mode too. S mode is a feature-limited edition of Windows 10 designed primarily for low-end devices in the education market. It has a faster initial setup and login process, and allows devices to be provisioned using a USB drive with the "Set Up School PCs" app. 
+With the exception of the Microsoft Teams desktop client which was made available for S mode in April 2019, the installation of software (both Universal Windows Platform (UWP) and Windows API apps) is only possible through the Microsoft Store, and command line programs or shells (even from Microsoft Store) are not allowed. System settings are locked to allow only Microsoft Edge as the default web browser with Bing as its search engine. The operating system may be switched out of S mode using the Microsoft Store for free. However, once S Mode is turned off, it cannot be re-enabled. All Windows 10 devices in S mode include a free one-year subscription to Minecraft: Education Edition. Critics have compared the edition to Windows RT, and have considered it to be an alternative to ChromeOS.
+Device-specific editions
+These editions are licensed to OEMs only, and are primarily obtained via the purchase of hardware that includes it:
+Discontinued editions
+The following editions of Windows 10 were discontinued (as of Windows 10 version 21H2).  For both Mobile and Mobile Enterprise, Microsoft confirmed it was exiting the consumer mobile devices market, so no successor product is available.
+Originally announced for use on dual-screen devices such as the Surface Neo and other potential form factors, 10X featured a modified user interface designed around context specific interactions or "postures" on such devices, including a redesigned Start menu with no tiles, and use of container technology to run Win32 software. The platform was described as a more direct competitor to ChromeOS. On May 4, 2020, Microsoft announced that Windows 10X would first be used on single-screen devices, and that they will "continue to look for the right moment, in conjunction with our OEM partners, to bring dual-screen devices to market". On May 18, 2021, Head of Windows Servicing and Delivery John Cable stated that Windows 10X had been cancelled, and that its foundational technologies would be leveraged for future Microsoft products. Microsoft also added anti-theft protection to Windows 10X, just like how Apple's Activation Lock and anti-theft protection on Android devices and Chromebooks work. Several design changes in 10X, notably the centered taskbar and redesigned start menu, would be later introduced in Windows 11.
+Regional variations
+Comparison chart
+
+
+[1] The 4 GB limit for 32-bit editions is a limitation of the 32-bit addressing, not of Windows 10 itself. In practice, less than 4 GB of memory is addressable as the 4 GB space also includes the memory mapped peripherals.
+Microsoft OEM licensing formula takes display size, RAM capacity and storage capacity into account. In mid-2015, devices with 4 GB RAM were expected to be $20 more expensive than devices with 2 GB RAM.
+Upgrade path
+Free upgrade
+At the time of launch, Microsoft deemed Windows 7 (with Service Pack 1) and Windows 8.1 users eligible to upgrade to Windows 10 free of charge, so long as the upgrade took place within one year of Windows 10's initial release date. Windows RT and the respective Enterprise editions of Windows 7, 8, and 8.1 were excluded from this offer.
+Commercial upgrade
+The following table summarizes possible upgrade paths that can be taken, provided that proper licenses are purchased.There is no upgrade path that can allow Windows RT 8.1 devices to install Windows 10.
+Release branches
+New releases of Windows 10, called feature updates, are released twice a year as a free update for existing Windows 10 users. Each feature update contains new features and other changes to the operating system. The pace at which a system receives feature updates is dependent on the release branch from which the system downloads its updates. Windows 10 Pro, Enterprise and Education could optionally use a branch, which is defunct since version 1903, that received updates at a slower pace. These modes could be managed through system settings, Windows Server Update Services (WSUS), Windows Update for Business, Group Policy or through mobile device management systems such as Microsoft Intune.
+See also
+Notes

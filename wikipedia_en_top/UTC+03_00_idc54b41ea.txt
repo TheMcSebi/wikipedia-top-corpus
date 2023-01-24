@@ -1,0 +1,25 @@
+UTC+03:00
+UTC+03:00 is an identifier for a time offset from UTC of +03:00. In areas using this time offset, the time is three hours later than the Coordinated Universal Time (UTC).
+Following the ISO 8601 standard, a time with this offset would be written as, for example, 2019-02-08T23:36:06+03:00.
+As standard time (year-round)
+East Africa
+Antarctica
+Arabia Standard Time
+Arabia Standard Time, or AST (indicated by KSA on some Arabic TV stations), is used by some of the countries in the Middle East. As this time zone is predominantly in the equatorial region, there is no significant change in day length throughout the year, so daylight saving time is not observed. Between 1982 and 2007, Iraq observed Arabia Daylight Time (UTC+04:00) but the government abolished DST in March 2008.
+Arabia Standard Time is used by the following countries:
+Europe
+Most of European Russia, including Moscow, Saint Petersburg, Rostov-on-Don, Novaya Zemlya, Franz Josef Land. From October 26, 2014 Moscow and most other parts of European Russia started using UTC+03:00 again, year-round. Also on September 7, 2016, Turkey started using UTC+03:00 year-round. Besides the names mentioned above, the name "Eastern Europe Forward Time"' (EEFT) is sometimes used.
+Caucasus region
+As daylight saving time (Northern Hemisphere summer only)
+Principal cities: Kyiv, Bucharest, Athens, Jerusalem, Sofia
+Europe
+Asia
+Discrepancies between official UTC+03:00 and geographical UTC+03:00
+Areas in UTC+03:00 longitudes using other time zones
+Using UTC+04:00
+Using UTC+03:30 and DST UTC+04:30
+Using UTC+02:00
+Areas between 67°30′ E and 82°30′ E ("physical" UTC+05:00)
+Areas between 52°30' E and 67°30' E ("physical" UTC+04:00)
+Areas between 22°30' E and 37°30' E ("physical" UTC+02:00)
+Notes

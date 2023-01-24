@@ -1,0 +1,38 @@
+Yodh
+Yodh (also spelled jodh, yod, or jod) is the tenth letter of the Semitic abjads, including Phoenician Yōd /𐤉, Hebrew Yōd י, Aramaic Yod , Syriac Yōḏ ܝ, and Arabic Yāʾ ي. Its sound value is /j/ in all languages for which it is used; in many languages, it also serves as a long vowel, representing /iː/.
+The Phoenician letter gave rise to the Greek Iota (Ι), Latin I and J,  Cyrillic І, Coptic iauda (Ⲓ) and Gothic eis .
+The term yod is often used to refer to the speech sound [j], a palatal approximant, even in discussions of languages not written in Semitic abjads, as in phonological phenomena such as English "yod-dropping".
+Origins
+Yod originated from a hieroglyphic “hand”, or *yad. 
+Hebrew Yod
+Hebrew spelling: יוֹד ; colloquial יוּד
+Pronunciation
+In both Biblical and modern Hebrew, Yod represents a palatal approximant ([j]). As a mater lectionis, it represents the vowel [i]. At the end of words with a vowel or when marked with a sh'va nach, it represents the formation of a diphthong, such as /ei/, /ai/, or /oi/.
+Significance
+In gematria, Yod represents the number ten.
+As a prefix, it designates the third person singular (or plural, with a Vav as a suffix) in the future tense.
+As a suffix, it indicates first person singular possessive; av (father) becomes avi (my father).
+"Yod" in the Hebrew language signifies iodine. Iodine is also called يود yod in Arabic.
+In religion
+Two Yods in a row designate the name of God Adonai and in pointed texts are written with the vowels of Adonai; this is done as well with the Tetragrammaton.
+As Yod is the smallest letter, much kabbalistic and mystical significance is attached to it. According to the Gospel of Matthew, Jesus mentioned it during the Antithesis of the Law, when he says: "One jot or one tittle shall in no wise pass from the law, till all be fulfilled." Jot, or iota, refers to the letter Yod; it was often overlooked by scribes because of its size and position as a mater lectionis. In modern Hebrew, the phrase "tip of the Yod" refers to a small and insignificant thing, and someone who "worries about the tip of a Yod" is someone who is picky and meticulous about small details.
+Much kabbalistic and mystical significance is also attached to it because of its gematria value as ten, which is an important number in Judaism, and its place in the name of God.
+Yiddish
+In Yiddish, the letter yod is used for several orthographic purposes in native words:
+Loanwords from Hebrew or Aramaic in Yiddish are spelled as they are in their language of origin.
+Arabic yāʼ
+The letter ي is named yāʼ (يَاء). It is written in several ways depending on its position in the word:
+It is pronounced in four ways:
+As a vowel, yāʾ can serve as the "seat" of the hamza: ئ
+Yāʾ serves several functions in the Arabic language. Yāʾ as a prefix is the marker for a singular imperfective verb, as in يَكْتُب yaktub "he writes" from the root ك-ت-ب K-T-B ("write, writing"). Yāʾ with a shadda is particularly used to turn a noun into an adjective, called a nisbah (نِسْبَة). For instance, مِصْر Miṣr (Egypt) → مِصْرِيّ Miṣriyy (Egyptian). The transformation can be more abstract; for instance, مَوْضَوع mawḍūʿ (matter, object) → مَوْضُوعِيّ mawḍūʿiyy (objective). Still other uses of this function can be a bit further from the root: إِشْتِرَاك ishtirāk (cooperation) → إِشْتِرَاكِيّ ishtirākiyy (socialist). The common pronunciation of the final /-ijj/ is most often pronounced as [i] or [iː].
+A form similar to but distinguished from yāʾ is the ʾalif maqṣūrah (أَلِف مَقْصُورَة) "limited/restricted alif", with the form ى. It indicates a final long  /aː/.
+In Egypt, Sudan and sometimes the Maghreb, the final form is always ى (without dots), both in handwriting and in print, representing both final /-iː/ and /-aː/. ى representing final /-aː/ (DIN 31635 transliteration: ā) is less likely to occur in Modern Standard Arabic. In this case, it is commonly known as, especially in Egypt, أَلِف لَيِّنَة ʾalif layyinah [ˈʔælef læjˈjenæ]. In Egypt, it is always short [-æ, -ɑ] if used in Egyptian Arabic and most commonly short in Modern Standard Arabic, as well.
+Alif maqṣūrah
+The alif maqṣūrah (ألف مقصورة, 'limited/restricted alif'), commonly known in Egypt as alif layyinah (ألف لينة, 'flexible alif'), looks like a dotless yā’ ى (final ـى) and may appear only at the end of a word. Although it looks different from a regular alif, it represents the same sound /aː/, often realized as a short vowel. When it is written, alif maqṣūrah is indistinguishable from final Persian ye or Arabic yā’ as it is written in Egypt, Sudan and sometimes elsewhere. The letter is transliterated as y in Kazakh representing the vowel /ə/. Alif maqsurah is transliterated as á in ALA-LC, ā in DIN 31635, à in ISO 233-2, and ỳ in ISO 233.
+In Arabic, alif maqsurah ى is not used initially or medially, and it is not joinable initially or medially in all fonts. However, the letter is used initially and medially in the Uyghur Arabic alphabet and the Arabic-based Kyrgyz alphabet, representing the vowel /ɯ/: (ىـ ـىـ).
+Perso-Arabic ye
+In the Persian alphabet, the letter is generally called ye following Persian-language custom. In its final form, the letter does not have dots (ی), much like the Arabic Alif maqṣūrah or, more to the point, much like the custom in Egypt, Sudan and sometimes Maghreb. On account of this difference, Perso-Arabic ye is located at a different Unicode code point than both of the standard Arabic letters. In computers, the Persian version of the letter automatically appears with two dots initially and medially: (یـ ـیـ ـی).
+In Kashmiri, it uses a ring instead of dots below (ؠ) (ؠ ؠـ ـؠـ ـؠ).
+Returned yāʾ
+In different calligraphic styles like the Hijazi script, Kufic, and Nastaʿlīq script, a final yāʾ might have a particular shape with the descender turned to the right (ـے), called al-yāʾ al-mardūdah/al-rājiʿah ("returned, recurred yāʾ"), either with two dots or without them.
+In Urdu this is called baṛī ye ("big ye"), but is an independent letter used for /ɛː, eː/ and differs from the basic ye (choṭī ye, "little ye"). For this reason the letter has its own code point in Unicode. Nevertheless, its initial and medial forms are not different from the other ye (practically baṛī ye is not used in these positions).

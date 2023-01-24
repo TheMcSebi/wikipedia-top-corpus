@@ -1,0 +1,85 @@
+Michael reaction
+In organic chemistry, the Michael reaction or Michael addition is a reaction between a Michael donor (an enolate or other nucleophile) and a Michael acceptor (usually an α,β-unsaturated carbonyl) to produce a Michael adduct by creating a carbon-carbon bond at the acceptor's β-carbon. It belongs to the larger class of conjugate additions and is widely used for the mild formation of carbon-carbon bonds.
+The Michael addition is an important atom-economical method for diastereoselective and enantioselective C–C bond formation, and many asymmetric variants exist
+In this general Michael addition scheme, either or both of R and R' on the nucleophile (the Michael donor) represent electron-withdrawing substituents such as acyl, cyano, nitro, or sulfone groups, which make the adjacent methylene hydrogen acidic enough to form a carbanion when reacted with the base, B:. For the alkene (the Michael acceptor), the R" substituent is usually a carbonyl, which makes the compound an α,β-unsaturated carbonyl compound (either an enone or an enal), or R" may be any electron withdrawing group.
+Definition
+As originally defined by Arthur Michael, the reaction is the addition of an enolate of a ketone or aldehyde to an α,β-unsaturated carbonyl compound at the β carbon. The current definition of the Michael reaction has broadened to include nucleophiles other than enolates. Some examples of nucleophiles include doubly stabilized carbon nucleophiles such as beta-ketoesters, malonates, and beta-cyanoesters. The resulting product contains a highly useful 1,5-dioxygenated pattern. Non-carbon nucleophiles such as water, alcohols, amines, and enamines can also react with an α,β-unsaturated carbonyl in a 1,4-addition.
+Some authors have broadened the definition of the Michael addition to essentially refer to any 1,4-addition reaction of α,β-unsaturated carbonyl compounds. Others, however, insist that such a usage is an abuse of terminology, and limit the Michael addition to the formation of carbon–carbon bonds through the addition of carbon nucleophiles.  The terms oxa-Michael reaction and aza-Michael reaction have been used to refer to the 1,4-addition of oxygen and nitrogen nucleophiles, respectively. The Michael reaction has also been associated with 1,6-addition reactions.
+Mechanism
+In the reaction mechanism, there is 1 (with R an alkoxy group) as the nucleophile:
+Deprotonation of 1 by a base leads to carbanion 2, stabilized by its electron-withdrawing groups. Structures 2a to 2c are three resonance structures that can be drawn for this species, two of which have enolate ions. This nucleophile reacts with the electrophilic alkene 3 to form 4 in a conjugate addition reaction. Finally, enolate 4 abstracts a proton from protonated base (or solvent) to produce 5.
+The reaction is dominated by orbital, rather than electrostatic, considerations. The HOMO of stabilized enolates has a large coefficient on the central carbon atom while the LUMO of many alpha, beta unsaturated carbonyl compounds has a large coefficient on the beta carbon. Thus, both reactants can be considered soft. These polarized frontier orbitals are of similar energy, and react efficiently to form a new carbon–carbon bond.
+Like the aldol addition, the Michael reaction may proceed via an enol, silyl enol ether in the Mukaiyama–Michael addition, or more usually, enolate nucleophile. In the latter case, the stabilized carbonyl compound is deprotonated with a strong base (hard enolization) or with a Lewis acid and a weak base (soft enolization). The resulting enolate attacks the activated olefin with 1,4-regioselectivity, forming a carbon–carbon bond. This also transfers the enolate to the electrophile. Since the electrophile is much less acidic than the nucleophile, rapid proton transfer usually transfers the enolate back to the nucleophile if the product is enolizable; however, one may take advantage of the new locus of nucleophilicity if a suitable electrophile is pendant. Depending on the relative acidities of the nucleophile and product, the reaction may be catalytic in base. In most cases, the reaction is irreversible at low temperature.
+History
+The research done by Arthur Michael in 1887 at Tufts University was prompted by an 1884 publication by Conrad & Kuthzeit on the reaction of ethyl 2,3-dibromopropionate with diethyl sodiomalonate forming a cyclopropane derivative (now recognized as involving two successive substitution reactions).
+Michael was able to obtain the same product by replacing the propionate by 2-bromacrylic acid ethylester and realized that this reaction could only work by assuming an addition reaction to the double bond of the acrylic acid. He then confirmed this assumption by reacting diethyl malonate and the ethyl ester of cinnamic acid forming the first Michael adduct:
+In the same year Rainer Ludwig Claisen claimed priority for the invention. He and T. Komnenos had observed addition products to double bonds as side-products earlier in 1883 while investigating condensation reactions of malonic acid with aldehydes. However, according to biographer Takashi Tokoroyama, this claim is without merit.
+Asymmetric Michael reaction
+Researchers have expanded the scope of Michael additions to include elements of chirality via asymmetric versions of the reaction. The most common methods involve chiral phase transfer catalysis, such as quaternary ammonium salts derived from the Cinchona alkaloids; or organocatalysis, which is activated by enamine or iminium with chiral secondary amines, usually derived from proline.
+In the reaction between cyclohexanone and β-nitrostyrene sketched below, the base proline is derivatized and works in conjunction with a protic acid such as p-toluenesulfonic acid:
+Syn addition is favored with 99% ee. In the transition state believed to be responsible for this selectivity, the enamine (formed between the proline nitrogen and the cycloketone) and β-nitrostyrene are co-facial with the nitro group hydrogen bonded to the protonated amine in the proline side group.
+A well-known Michael reaction is the synthesis of warfarin from 4-hydroxycoumarin and benzylideneacetone first reported by Link in 1944:
+Several asymmetric versions of this reaction exist using chiral catalysts.
+Examples
+Classical examples of the Michael reaction are the reaction between diethyl malonate (Michael donor) and diethyl fumarate (Michael acceptor), that of diethyl malonate and mesityl oxide, that of diethyl malonate and methyl crotonate, that of 2-nitropropane and methyl acrylate, that of ethyl phenylcyanoacetate and acrylonitrile and that of nitropropane and methyl vinyl ketone.
+A classic tandem sequence of Michael and aldol additions is the Robinson annulation.
+Mukaiyama-Michael addition
+In the Mukaiyama–Michael addition, the nucleophile is a silyl enol ether and the catalyst is usually titanium tetrachloride:
+1,6-Michael reaction
+The 1,6-Michael reaction proceeds via nucleophilic attack on the 𝛿 carbon of an α,β-$MATH$,𝛿-diunsaturated Michael acceptor. The 1,6-addition mechanism is similar to the 1,4-addition, with one exception being the nucleophilic attack occurring at the 𝛿 carbon of the Michael acceptor. However, research shows that organocatalysis often favours the 1,4-addition. In many syntheses where 1,6-addition was favoured, the substrate contained certain structural features. Research has shown that catalysts can also influence the regioselectivity and enantioselectivity of a 1,6-addition reaction.
+For example, the image below shows the addition of ethylmagnesium bromide to ethyl sorbate 1 using a copper catalyst with a reversed josiphos (R,S)-(–)-3 ligand. This reaction produced the 1,6-addition product 2 in 0% yield, the 1,6-addition product 3 in approximately 99% yield, and the 1,4-addition product 4 in less than 2% yield. This particular catalyst and set of reaction conditions led to the mostly regioselective and enantioselective 1,6-Michael addition of ethyl sorbate 1 to product 3.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Applications
+Pharmaceuticals
+A Michael reaction is used as a mechanistic step by many covalent inhibitor drugs. Cancer drugs such as ibrutinib, osimertinib, and rociletinib have an acrylamide functional group as a Michael acceptor. The Michael acceptor on the drug reacts with a Michael acceptor in the active site of an enzyme. This is a viable cancer treatment because the target enzyme is inhibited following the Michael reaction.
+Mechanism
+All polymerization reactions have three basic steps: initiation, propagation, and termination. The initiation step is the Michael addition of the nucleophile to a monomer. The resultant species undergoes a Michael addition with another monomer, with the latter acting as an acceptor. This extends the chain by forming another nucleophilic species to act as a donor for the next addition. This process repeats until the reaction is quenched by chain termination. The original Michael donor can be a neutral donor such as amines, thiols, and alkoxides, or alkyl ligands bound to a metal.
+Examples
+Linear step growth polymerizations are some of the earliest applications of the Michael reaction in polymerizations. A wide variety of Michael donors and acceptors have been used to synthesize a diverse range of polymers. Examples of such polymers include poly(amido amine), poly(amino ester), poly(imido sulﬁde), poly(ester sulﬁde), poly(aspartamide), poly(imido ether), poly(amino quinone), poly(enone sulﬁde) and poly(enamine ketone).
+For example, linear step growth polymerization produces the redox active poly(amino quinone), which serves as an anti-corrosion coatings on various metal surfaces. Another example includes network polymers, which are used for drug delivery, high performance composites, and coatings. These network polymers are synthesized using a dual chain growth, photo-induced radical and step growth Michael addition system.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

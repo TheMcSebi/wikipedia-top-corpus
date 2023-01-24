@@ -1,0 +1,58 @@
+Long and short scales
+The long and short scales are two of several naming systems for integer powers of ten which use some of the same terms for different magnitudes.
+
+
+For whole numbers smaller than 1,000,000,000 (109), such as one thousand or one million, the two scales are identical. For larger numbers, starting with 109, the two systems differ. For identical names, the long scale proceeds by powers of one million, whereas the short scale proceeds by powers of  one thousand. For example, in the short scale, "one billion" means one thousand millions (1,000,000,000), whereas in the long scale, it means one million millions (1,000,000,000,000). For interleaved values, the long scale system employs additional terms, typically substituting the word ending -ion for -iard.
+Some languages, particularly in East Asia and South Asia, have large number naming systems that are different from both the long and short scales, such as Chinese, Japanese or Korean numerals, and the Indian numbering system. Much of the remainder of the world adopted either the Short Scale or the Long Scale for everyday counting powers of ten. Countries with usage of the long scale include most countries in continental Europe and most that are French-speaking, German-speaking, Spanish-speaking and Portuguese-speaking countries (except Brazil). Usage of the short scale is found in most English-speaking countries and most Arabic-speaking countries.
+To avoid confusion resulting from the coexistence of the two terms, the International System of Units (SI) recommends using the metric prefix to indicate orders of magnitude.
+Scales
+In both short and long scale naming, names are given each multiplication step for increments of the base-10 exponent of three, i.e. for each integer n in the sequence of multipliers 103n. For certain multipliers, including those for all numbers smaller than 109, both systems use the same names. The differences arise from the assignment of identical names to specific values of n, for numbers starting with 109, for which n=3. In the short scale system, the identical names are for n=3, 4, 5, ..., while the long scale places them at n=4, 6, 8, etc.
+Short scale
+In the short scale, billion means a thousand millions (1,000,000,000 which is 109), trillion means one thousand billions (1012), and so on. Thus, an n-illion equals 103n+3.
+Long scale
+In the long scale, billion means one million millions (1012) and trillion means one million billions (1018), and so on.  Therefore, an n-illion equals 106n. In some languages, the long scale uses additional names for the interleaving multipliers, replacing the ending -ion with -iard; for example, the next multiplier after million is milliard, after billion it is billiard. Hence, an n-iard equals 106n+3.
+Comparison
+The relationship between the numeric values and the corresponding names in the two scales can be described as:
+The relationship between the names and the corresponding numeric values in the two scales can be described as:
+The root mil in million does not refer to the numeral, 1. The word, million, derives from the Old French, milion, from the earlier Old Italian, milione, an intensification of the Latin word, mille, a thousand. That is, a million is a big thousand, much as a great gross is a dozen gross or 12 × 144 = 1728.
+The word milliard, or its translation, is found in many European languages and is used in those languages for 109. However, it is not found in American English, which uses billion, and not used in British English, which preferred to use thousand million before the current usage of billion. The financial term yard, which derives from milliard, is used on financial markets, as, unlike the term billion, it is internationally unambiguous and phonetically distinct from million. Likewise, many long scale countries use the word billiard (or similar) for one thousand long scale billions (i.e., 1015), and the word trilliard (or similar) for one thousand long scale trillions (i.e., 1021), etc.
+History
+Although this situation has been developing since the 1200s, the first recorded use of the terms short scale (French: échelle courte) and long scale (French: échelle longue) was by the French mathematician Geneviève Guitel in 1975.
+The short scale was never widespread before its universal adoption in the United States. It has been taught in American schools since the early 1800s. It has since become common in other English-speaking nations and several other countries. For most of the 19th and 20th centuries, the United Kingdom largely used the long scale, whereas the United States used the short scale, so that the two systems were often referred to as British and American in the English language. After several decades of increasing informal British usage of the short scale, in 1974 the government of the UK adopted it, and it is used for all official purposes. The British usage and American usage are now identical.
+The existence of the different scales means that care must be taken when comparing large numbers between languages or countries, or when interpreting old documents in countries where the dominant scale has changed over time. For example, British English, French, and Italian historical documents can refer to either the short or long scale, depending on the date of the document, since each of the three countries has used both systems at various times in its history. Today, the United Kingdom officially uses the short scale, but France and Italy use the long scale.
+The pre-1974 former British English word billion, post-1961 current French word billion, post-1994 current Italian word bilione, Spanish billón, German Billion, Dutch biljoen, Danish billion, Swedish biljon, Finnish biljoona, Slovenian bilijon, Polish bilion, and European Portuguese word bilião (with a different spelling to the Brazilian Portuguese variant, but in Brazil referring to short scale) all refer to 1012, being long-scale terms. Therefore, each of these words translates to the American English or post-1974 British English word: trillion (1012 in the short scale), and not billion (109 in the short scale).
+On the other hand, the pre-1961 former French word billion, pre-1994 former Italian word bilione, Brazilian Portuguese word bilhão, and Welsh word biliwn all refer to 109, being short scale terms. Each of these words translates to the American English or post-1974 British English word billion (109 in the short scale).
+The term billion originally meant 1012 when introduced.
+As large numbers in natural sciences are usually represented by metric prefixes, scientific notation or otherwise, the most commonplace occurrence of large numbers represented by long or short scale terms is in finance. The following table includes some historic examples related to hyper-inflation and other financial incidents.
+Current usage
+English-speaking
+Most English-language countries and regions use the short scale with 109 being billion. For example:
+Arabic-speaking
+Most Arabic-language countries and regions use the short scale with 109 being مليار milyar, except for a few countries like Saudi Arabia and the UAE which use the word بليون billion for 109. For example:
+Other short scale
+Other countries also use a word similar to trillion to mean 1012, etc. Whilst a few of these countries like English use a word similar to billion to mean 109, most like Arabic have kept a traditional long scale word similar to milliard for 109. Some examples of short scale use, and the words used for 109 and 1012, are
+Long scale users
+The traditional long scale is used by most Continental European countries and by most other countries whose languages derive from Continental Europe (with the notable exceptions of Albania, Greece, Romania, and Brazil). These countries use a word similar to billion to mean 1012. Some use a word similar to milliard to mean 109, while others use a word or phrase equivalent to thousand millions.
+Dutch-speaking
+Most Dutch-language countries and regions use the long scale with 109 =  miljard, for example:
+French-speaking
+Most French-language countries and regions use the long scale with 109 = milliard, for example:
+German-speaking
+German-language countries and regions use the long scale with 109 = Milliarde, for example:
+Portuguese-speaking
+With the notable exception of Brazil, a short scale country, most Portuguese-language countries and regions use the long scale with 109 = mil milhões or milhar de milhões, for example:
+Spanish-speaking
+Most Spanish-language countries and regions use the long scale, for example:
+Other long scale
+Some examples of long scale use, and the words used for 109 and 1012, are
+Using both
+Some countries use either the short or long scales, depending on the internal language being used or the context.
+Using neither
+The following countries use naming systems for large numbers that are not etymologically related to the short and long scales:
+By continent
+The long and short scales are both present on most continents, with usage dependent on the language used. Examples include:
+Short scale
+Long scale
+Both long and short scale
+Neither long nor short scale
+Alternative approaches

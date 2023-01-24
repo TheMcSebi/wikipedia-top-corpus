@@ -1,0 +1,31 @@
+Letter (alphabet)
+A letter is a segmental symbol of a phonemic writing system. The inventory of all letters forms an alphabet. Letters broadly correspond to phonemes in the spoken form of the language, although there is rarely a consistent and exact correspondence between letters and phonemes.
+The word letter, borrowed from Old French letre, entered Middle English around 1200 AD, eventually displacing the Old English term bōcstæf (bookstaff). Letter is descended from the Latin littera, which may have descended from the Greek "διφθέρα" (diphthera, writing tablet), via Etruscan.
+Definition and usage
+A letter is a type of grapheme, which is a functional unit in a writing system: a letter (or group of letters) represents visually a phoneme (a unit of sound that can distinguish one word from another in a particular language). Letters are combined to form written words, just as phonemes are combined to form spoken words.  A sequence of graphemes representing a phoneme is called a multigraph. A digraph is a case of polygraphs consisting of two graphemes. Examples of digraphs in English include ch, sh, and th. Some phonemes are represented by three letters, called a trigraph, such as  sch in German.
+
+
+The same letterform may be used in different alphabets but have different sounds. The letters ⟨H⟩, ⟨Η⟩ and ⟨Н⟩ look rather alike but are the Latin H, Greek eta and Cyrillic en respectively; conversely the letters ⟨S⟩, ⟨Σ⟩ (sigma) and ⟨С⟩ (Es (Cyrillic)) from these alphabets each represent (approximately) the same [s] sound. The basic Latin alphabet is used by hundreds of languages around the world, but there are many other alphabets.
+Specific names are associated with letters, which may differ with language, dialect, and history. Z, for example, is usually called zed in all English-speaking countries except the US, where it is named zee. As elements of alphabets, letters have prescribed orders, although this too may vary by language. In Spanish, for instance, ⟨ñ⟩ is a separate letter, sorted separately from ⟨n⟩: this distinction is not usually recognised in English dictionaries. (In computer systems, each has its own unique code point, U+006E n LATIN SMALL LETTER N and U+00F1 ñ LATIN SMALL LETTER N WITH TILDE, respectively.)
+Letters may also have a numerical or quantitative value. This applies to Roman numerals and the letters of other writing systems. In English, Arabic numerals are typically used instead of letters. Greek and Latin letters have a variety of modern uses in mathematics, science, and engineering.
+People and objects are sometimes named after letters, for one of these reasons:
+History of alphabetic writing
+Before alphabets, phonograms, graphic symbols of sounds were used. There were three kinds of phonograms: Verbal, pictures for entire words, Syllabic, which stood for articulations of words, and alphabetic, which represented signs or letters. The earliest examples of which are from Ancient Egypt and Ancient China, dating to around 3,000 BCE. The first consonantal alphabet emerged around 1800 BCE, representing the Phoenicians, Semitic workers in Egypt. Their script was originally written and read from right to left. From the Phoenician alphabet came the Etruscan and Greek alphabets. From there, the most widely used alphabet today emerged, Latin, which is written and read from left to right.
+The Phoenician alphabet had 22 letters, Nineteen of which the Latin alphabet used, and the Greek Alphabet, which was adapted around 900 BCE, added four letters to the Phoenician list. This Greek alphabet was the first to assign letters not only to consonant sounds, but also to vowels.
+The Roman Empire further developed and refined the Latin alphabet, beginning around 500 BCE. During the fifth and sixth centuries, the development of lowercase letters began to emerge in Roman writing. At this point, paragraphs, uppercase and lowercase letters, and the concept of sentences and clauses still haven't emerged, these final bits of development emerged in the late 7th and early 8th centuries.
+Finally, many slight letter additions and drops were made to the common alphabet used in the western world. Minor changes were made such as the removal of certain letters, such as thorn (Þ þ), wynn (Ƿ ƿ), and eth (Ð ð).
+Types of letters
+Upper case and lower case
+A letter can have multiple variants, or allographs, related to variation in style of handwriting or printing. Some writing systems have two major types of allographs for each letter: an uppercase form (also called capital or majuscule) and a lowercase form (also called minuscule). Upper- and lowercase letters represent the same sound, but serve different functions in writing. Capital letters are most often used at the beginning of a sentence, as the first letter of a proper name or title, or in headers or inscriptions. They may also serve other functions, such as in the German language where all nouns begin with capital letters. 
+
+The terms uppercase and lowercase originated in the days of handset type for printing presses. Individual letter blocks were kept in specific compartments of drawers in a type case. Capital letters were stored in a higher drawer or upper case.
+Diacritics
+
+In most alphabetic scripts, diacritics (or accents) are a routinely used. English is unusual in not using them except for loanwords from other languages or personal names (for example, naïve, Brontë). The ubiquity of this usage is indicated by the existence of precomposed characters for use with computer systems (for example ⟨á⟩, ⟨à⟩, ⟨ä⟩, ⟨â⟩, ⟨ã⟩.)
+Examples of letters in writing systems
+In the following table, letters from multiple different writing systems are shown, to demonstrate the variety of letters used throughout the world.
+See also
+References
+Inline citations
+General references
+Further reading

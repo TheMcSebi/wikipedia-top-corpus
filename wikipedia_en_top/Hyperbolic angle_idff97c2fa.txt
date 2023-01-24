@@ -1,0 +1,39 @@
+Hyperbolic angle
+In geometry, hyperbolic angle is a real number determined by the area of the corresponding hyperbolic sector of xy = 1 in Quadrant I of the Cartesian plane. The hyperbolic angle parametrises the unit hyperbola, which has hyperbolic functions as coordinates. In mathematics, hyperbolic angle is an invariant measure as it is preserved under hyperbolic rotation.
+The hyperbola xy = 1 is rectangular with a semi-major axis of $MATH$, analogous to the magnitude of a circular angle corresponding to the area of a circular sector in a circle with radius $MATH$.
+Hyperbolic angle is used as the independent variable for the hyperbolic functions sinh, cosh, and tanh, because these functions may be premised on hyperbolic analogies to the corresponding circular trigonometric functions by regarding a hyperbolic angle as defining a hyperbolic triangle.
+The parameter thus becomes one of the most useful in the calculus of real variables.
+Definition
+Consider the rectangular hyperbola $MATH$, and (by convention) pay particular attention to the branch $MATH$.
+First define:
+Note that, because of the role played by the natural logarithm:
+Finally, extend the definition of hyperbolic angle to that subtended by any interval on the hyperbola. Suppose $MATH$ are positive real numbers such that $MATH$ and $MATH$, so that $MATH$ and $MATH$ are points on the hyperbola $MATH$ and determine an interval on it. Then the squeeze mapping $MATH$ maps the angle $MATH$ to the standard position angle $MATH$. By the result of Gregoire de Saint-Vincent, the hyperbolic sectors determined by these angles have the same area, which is taken to be the magnitude of the angle. This magnitude is $MATH$.
+Comparison with circular angle
+A unit circle $MATH$ has a circular sector with an area half of the circular angle in radians. Analogously, a unit hyperbola $MATH$ has a hyperbolic sector with an area half of the hyperbolic angle.
+There is also a projective resolution between circular and hyperbolic cases: both curves are conic sections, and hence are treated as projective ranges in projective geometry. Given an origin point on one of these ranges, other points correspond to angles. The idea of addition of angles, basic to science, corresponds to addition of points on one of these ranges as follows:
+Circular angles can be characterised geometrically by the property that if two chords P0P1 and P0P2 subtend angles L1 and L2 at the centre of a circle, their sum L1 + L2 is the angle subtended by a chord PQ, where PQ is required to be parallel to P1P2.
+The same construction can also be applied to the hyperbola.  If P0 is taken to be the point (1, 1), P1 the point (x1, 1/x1), and P2 the point (x2, 1/x2), then the parallel condition requires that Q be the point (x1x2, 1/x11/x2).  It thus makes sense to define the hyperbolic angle from P0 to an arbitrary point on the curve as a logarithmic function of the point's value of x.
+Whereas in Euclidean geometry moving steadily in an orthogonal direction to a ray from the origin traces out a circle, in a pseudo-Euclidean plane steadily moving orthogonally to a ray from the origin traces out a hyperbola. In Euclidean space, the  multiple of a given angle traces equal distances around a circle while it traces exponential distances upon the hyperbolic line.
+Both circular and hyperbolic angle provide instances of an invariant measure. Arcs with an angular magnitude on a circle generate a measure on certain measurable sets on the circle whose magnitude does not vary as the circle turns or rotates. For the hyperbola the turning is by squeeze mapping, and the hyperbolic angle magnitudes stay the same when the plane is squeezed by a mapping
+Relation To The Minkowski Line Element
+There is also a curious relation to a hyperbolic angle and the metric defined on Minkowski space. Just as two dimensional Euclidean geometry defines its line element as
+the line element on Minkowski space is
+Consider a curve imbedded in two dimensional Euclidean space,
+Where the parameter $MATH$ is a real number that runs between $MATH$ and $MATH$ ($MATH$). The arclength of this curve in Euclidean space is computed as:
+If $MATH$ defines a unit circle, a single parameterized solution set to this equation is $MATH$ and $MATH$. Letting $MATH$, computing the arclength $MATH$ gives $MATH$. Now doing the same procedure, except replacing the Euclidean element with the Minkowski line element,
+and defined a "unit" hyperbola as $MATH$ with its corresponding parameterized solution set $MATH$ and $MATH$, and by letting $MATH$ (the hyperbolic angle), we arrive at the result of $MATH$. In other words, this means just as how the circular angle can be defined as the arclength of an arc on the unit circle subtended by the same angle using the Euclidean defined metric, the hyperbolic angle is the arclength of the arc on the "unit" hyperbola subtended by the hyperbolic angle using the Minkowski defined metric.
+History
+The quadrature of the hyperbola is the evaluation of the area of a hyperbolic sector. It can be shown to be equal to the corresponding area against an asymptote. The quadrature was first accomplished by Gregoire de Saint-Vincent in 1647 in Opus geometricum quadrature circuli et sectionum coni. As expressed by a historian,
+A. A. de Sarasa interpreted the quadrature as a logarithm and thus the geometrically defined natural logarithm (or "hyperbolic logarithm") is understood as the area under y = 1/x to the right of x = 1.  As an example of a transcendental function, the logarithm is more familiar than its motivator, the hyperbolic angle. Nevertheless, the hyperbolic angle plays a role when the theorem of Saint-Vincent is advanced with squeeze mapping.
+Circular trigonometry was extended to the hyperbola by Augustus De Morgan in his textbook Trigonometry and Double Algebra. In 1878 W.K. Clifford used the hyperbolic angle to parametrize a unit hyperbola, describing it as "quasi-harmonic motion".
+In 1894 Alexander Macfarlane circulated his essay "The Imaginary of Algebra", which used hyperbolic angles to generate hyperbolic versors, in his book Papers on Space Analysis. The following year Bulletin of the American Mathematical Society published Mellen W. Haskell's outline of the hyperbolic functions.
+When Ludwik Silberstein penned his popular 1914 textbook on the new theory of relativity, he used the rapidity concept based on hyperbolic angle a, where tanh a = v/c, the ratio of velocity v to the speed of light. He wrote:
+Silberstein also uses Lobachevsky's concept of angle of parallelism Π(a) to obtain cos Π(a) = v/c.
+Imaginary circular angle
+The hyperbolic angle is often presented as if it were an imaginary number, $MATH$ and $MATH$ so that the hyperbolic functions cosh and sinh can be presented through the circular functions. But in the Euclidean plane we might alternately consider circular angle measures to be imaginary and hyperbolic angle measures to be real scalars, $MATH$ and $MATH$
+These relationships can be understood in terms of the exponential function, which for a complex argument $MATH$ can be broken into even and odd parts $MATH$ and $MATH$ respectively. Then
+or if the argument is separated into real and imaginary parts $MATH$ the exponential can be split into the product of scaling $MATH$ and rotation $MATH$
+As infinite series,
+The infinite series for cosine is derived from cosh by turning it into an alternating series, and the series for sine comes from making sinh into an alternating series.
+See also
+Notes

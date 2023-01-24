@@ -1,0 +1,89 @@
+Cauchy–Riemann equations
+In the field of complex analysis in mathematics, the Cauchy–Riemann equations, named after Augustin Cauchy and Bernhard Riemann, consist of a system of two partial differential equations which, together with certain continuity and differentiability criteria, form a necessary and sufficient condition for a complex function to be holomorphic (complex differentiable).  This system of equations first appeared in the work of Jean le Rond d'Alembert. Later, Leonhard Euler connected this system to the analytic functions. Cauchy then used these equations to construct his theory of functions. Riemann's dissertation on the theory of functions appeared in 1851.
+The Cauchy–Riemann equations on a pair of real-valued functions of two real variables u(x, y) and v(x, y) are the two equations:
+Typically u and v are taken to be the real and imaginary parts respectively of a complex-valued function of a single complex variable z = x + iy, f(x + iy) = u(x,y) + iv(x,y).  Suppose that u and v are real-differentiable at a point in an open subset of C, which can be considered as functions from R2 to R.  This implies that the partial derivatives of u and v exist (although they need not be continuous), so we can approximate small variations of f linearly. Then f = u + iv is complex-differentiable, at that point if and only if the partial derivatives of u and v satisfy the Cauchy–Riemann equations (1a) and (1b) at that point. The existence of partial derivatives satisfying the Cauchy–Riemann equations there doesn't ensure complex differentiability: u and v must be real differentiable, which is a stronger condition than the existence of the partial derivatives, but in general, weaker than continuous differentiability.
+Holomorphy is the property of a complex function of being differentiable at every point of an open and connected subset of C (this is called a domain in C). Consequently, we can assert that a complex function f, whose real and imaginary parts u and v are real-differentiable functions, is holomorphic if and only if, equations (1a) and (1b) are satisfied throughout the domain we are dealing with.  Holomorphic functions are analytic and vice versa. This means that, in complex analysis, a function that is complex-differentiable in a whole domain (holomorphic) is the same as an analytic function. This is not true for real differentiable functions.
+Simple example
+Suppose that $MATH$. The complex-valued function $MATH$ is differentiable at any point z in the complex plane. 
+The real part $MATH$ and the imaginary part $MATH$ are
+and their partial derivatives are
+We see that indeed the Cauchy–Riemann equations are satisfied, $MATH$ and $MATH$.
+Interpretation and reformulation
+The equations are one way of looking at the condition on a function to be differentiable in the sense of complex analysis: in other words they encapsulate the notion of function of a complex variable by means of conventional differential calculus. In the theory there are several other major ways of looking at this notion, and the translation of the condition into other language is often needed.
+Conformal mappings
+First, the Cauchy–Riemann equations may be written in complex form
+In this form, the equations correspond structurally to the condition that the Jacobian matrix is of the form
+where $MATH$ and $MATH$. A matrix of this form is the matrix representation of a complex number. Geometrically, such a matrix is always the composition of a rotation with a scaling, and in particular preserves angles. The Jacobian of a function f(z) takes infinitesimal line segments at the intersection of two curves in z and rotates them to the corresponding segments in f(z). Consequently, a function satisfying the Cauchy–Riemann equations, with a nonzero derivative, preserves the angle between curves in the plane. That is, the Cauchy–Riemann equations are the conditions for a function to be conformal.
+Moreover, because the composition of a conformal transformation with another conformal transformation is also conformal, the composition of a solution of the Cauchy–Riemann equations with a conformal map must itself solve the Cauchy–Riemann equations. Thus the Cauchy–Riemann equations are conformally invariant.
+Complex differentiability
+Suppose that
+is a function of a complex number $MATH$.  Then the complex derivative of $MATH$ at a point $MATH$ is defined by
+provided this limit exists.
+If this limit exists, then it may be computed by taking the limit as $MATH$ along the real axis or imaginary axis; in either case it should give the same result.  Approaching along the real axis, one finds
+On the other hand, approaching along the imaginary axis,
+The equality of the derivative of f taken along the two axes is
+which are the Cauchy–Riemann equations (2) at the point z0.
+Conversely, if f : C → C is a function which is differentiable when regarded as a function on R2, then f is complex differentiable if and only if the Cauchy–Riemann equations hold. In other words, if u and v are real-differentiable functions of two real variables, obviously u + iv is a (complex-valued) real-differentiable function, but u + iv is complex-differentiable if and only if the Cauchy–Riemann equations hold.
+Indeed, following Rudin, suppose f is a complex function defined in an open set Ω ⊂ C.  Then, writing z = x + iy for every z ∈ Ω, one can also regard Ω as an open subset of R2, and f as a function of two real variables x and y, which maps Ω ⊂ R2 to C.  We consider the Cauchy–Riemann equations at z = z0. So assume f is differentiable at z0, as a function of two real variables from Ω to C.  This is equivalent to the existence of the following linear approximation
+where z = x + iy and η(Δz) → 0 as Δz → 0.  Since $MATH$ and $MATH$, the above can be re-written as
+Defining the two Wirtinger derivatives as
+in the limit $MATH$ the above equality can be written as
+Now consider the potential values of $MATH$ when the limit is taken at the origin. For z along the real line, $MATH$ so that $MATH$. Similarly for purely imaginary z we have $MATH$ so that the value of $MATH$ is not well defined at the origin. It's easy to verify that $MATH$ is not well defined at any complex z, hence f is complex differentiable at z0  if and only if $MATH$ at $MATH$.  But this is exactly the Cauchy–Riemann equations, thus f is differentiable at z0 if and only if the Cauchy–Riemann equations hold at z0.
+Independence of the complex conjugate
+The above proof suggests another interpretation of the Cauchy–Riemann equations.  The complex conjugate of z, denoted $MATH$, is defined by
+for real x and y. The Cauchy–Riemann equations can then be written as a single equation
+by using the Wirtinger derivative with respect to the conjugate variable. In this form, the Cauchy–Riemann equations can be interpreted as the statement that f is independent of the variable $MATH$. As such, we can view analytic functions as true functions of one complex variable as opposed to complex functions of two real variables.
+Physical interpretation
+A standard physical interpretation of the Cauchy–Riemann equations going back to Riemann's work on function theory is that u represents a velocity potential of an incompressible steady fluid flow in the plane, and v is its stream function.  Suppose that the pair of (twice continuously differentiable) functions $MATH$ satisfies the Cauchy–Riemann equations.  We will take u to be a velocity potential, meaning that we imagine a flow of fluid in the plane such that the velocity vector of the fluid at each point of the plane is equal to the gradient of u, defined by
+By differentiating the Cauchy–Riemann equations a second time, one shows that u solves Laplace's equation:
+That is, u is a harmonic function.  This means that the divergence of the gradient is zero, and so the fluid is incompressible.
+The function v also satisfies the Laplace equation, by a similar analysis.  Also, the Cauchy–Riemann equations imply that the dot product $MATH$.  This implies that the gradient of u must point along the $MATH$ curves; so these are the streamlines of the flow.  The $MATH$ curves are the equipotential curves of the flow.
+A holomorphic function can therefore be visualized by plotting the two families of level curves $MATH$ and $MATH$.  Near points where the gradient of u (or, equivalently, v) is not zero, these families form an orthogonal family of curves.  At the points where $MATH$, the stationary points of the flow, the equipotential curves of $MATH$ intersect.  The streamlines also intersect at the same point, bisecting the angles formed by the equipotential curves.
+Harmonic vector field
+Another interpretation of the Cauchy–Riemann equations can be found in Pólya & Szegő.  Suppose that u and v satisfy the Cauchy–Riemann equations in an open subset of R2, and consider the vector field
+regarded as a (real) two-component vector.  Then the second Cauchy–Riemann equation (1b) asserts that $MATH$ is irrotational (its curl is 0):
+The first Cauchy–Riemann equation (1a) asserts that the vector field is solenoidal (or divergence-free):
+Owing respectively to Green's theorem and the divergence theorem, such a field is necessarily a conservative one, and it is free from sources or sinks, having net flux equal to zero through any open domain without holes.  (These two observations combine as real and imaginary parts in Cauchy's integral theorem.) In fluid dynamics, such a vector field is a potential flow.  In magnetostatics, such vector fields model static magnetic fields on a region of the plane containing no current.  In electrostatics, they model static electric fields in a region of the plane containing no electric charge.
+This interpretation can equivalently be restated in the language of differential forms.  The pair u,v satisfy the Cauchy–Riemann equations if and only if the one-form $MATH$ is both closed and coclosed (a harmonic differential form).
+Preservation of complex structure
+Another formulation of the Cauchy–Riemann equations involves the complex structure in the plane, given by
+This is a complex structure in the sense that the square of J is the negative of the 2×2 identity matrix: $MATH$.  As above, if u(x,y),v(x,y) are two functions in the plane, put
+The Jacobian matrix of f is the matrix of partial derivatives
+Then the pair of functions u, v satisfies the Cauchy–Riemann equations if and only if the 2×2 matrix Df commutes with J.
+This interpretation is useful in symplectic geometry, where it is the starting point for the study of pseudoholomorphic curves.
+Other representations
+Other representations of the Cauchy–Riemann equations occasionally arise in other coordinate systems.  If (1a) and (1b) hold for a differentiable pair of functions u and v, then so do
+for any coordinate system (n(x, y), s(x, y)) such that the pair (∇n, ∇s) is orthonormal and positively oriented.  As a consequence, in particular,  in the system of coordinates given by the polar representation $MATH$, the equations then take the form
+Combining these into one equation for f gives
+The inhomogeneous Cauchy–Riemann equations consist of the two equations for a pair of unknown functions u(x, y) and v(x, y) of two real variables
+for some given functions α(x, y) and β(x, y) defined in an open subset of R2.  These equations are usually combined into a single equation
+where f = u + iv and 𝜑 = (α + iβ)/2.
+If 𝜑 is Ck, then the inhomogeneous equation is explicitly solvable in any bounded domain D, provided 𝜑 is continuous on the closure of D.  Indeed, by the Cauchy integral formula,
+for all ζ ∈ D.
+Generalizations
+Goursat's theorem and its generalizations
+Suppose that f = u + iv is a complex-valued function which is differentiable as a function f : R2 → R2.  Then Goursat's theorem asserts that f is analytic in an open complex domain Ω if and only if it satisfies the Cauchy–Riemann equation in the domain. In particular, continuous differentiability of f need not be assumed.
+The hypotheses of Goursat's theorem can be weakened significantly.  If f = u + iv is continuous in an open set Ω and the partial derivatives of f with respect to x and y exist in Ω, and satisfy the Cauchy–Riemann equations throughout Ω, then f is holomorphic (and thus analytic).  This result is the Looman–Menchoff theorem.
+The hypothesis that f obey the Cauchy–Riemann equations throughout the domain Ω is essential.  It is possible to construct a continuous function satisfying the Cauchy–Riemann equations at a point, but which is not analytic at the point (e.g., f(z) = z5/|z|4).  Similarly, some additional assumption is needed besides the Cauchy–Riemann equations (such as continuity), as the following example illustrates
+which satisfies the Cauchy–Riemann equations everywhere, but fails to be continuous at z = 0.
+Nevertheless, if a function satisfies the Cauchy–Riemann equations in an open set in a weak sense, then the function is analytic.  More precisely:
+This is in fact a special case of a more general result on the regularity of solutions of hypoelliptic partial differential equations.
+Several variables
+There are Cauchy–Riemann equations, appropriately generalized, in the theory of several complex variables. They form a significant overdetermined system of PDEs. This is done using a straightforward generalization of the Wirtinger derivative, where the function in question is required to have the (partial) Wirtinger derivative with respect to each complex variable vanish.
+Complex differential forms
+As often formulated, the d-bar operator
+annihilates holomorphic functions. This generalizes most directly the formulation
+where
+Bäcklund transform
+Viewed as conjugate harmonic functions, the Cauchy–Riemann equations are a simple example of a Bäcklund transform. More complicated, generally non-linear Bäcklund transforms, such as in the sine-Gordon equation, are of great interest in the theory of solitons and integrable systems.
+Definition in Clifford algebra
+In Clifford algebra the complex number $MATH$ is represented as $MATH$ where $MATH$. The fundamental derivative operator in Clifford algebra of Complex numbers is defined as $MATH$. The function $MATH$ is considered analytic if and only if $MATH$, which can be calculated in the following way:
+Grouping by $MATH$ and $MATH$:
+Hence, in traditional notation:
+Conformal mappings in higher dimensions
+Let Ω be an open set in the Euclidean space Rn.  The equation for an orientation-preserving mapping $MATH$ to be a conformal mapping (that is, angle-preserving) is that
+where Df is the Jacobian matrix, with transpose $MATH$, and I denotes the identity matrix.  For n = 2, this system is equivalent to the standard Cauchy–Riemann equations of complex variables, and the solutions are holomorphic functions.  In dimension n > 2, this is still sometimes called the Cauchy–Riemann system, and Liouville's theorem implies, under suitable smoothness assumptions, that any such mapping is a Möbius transformation.
+See also
+References
+Sources
+Further reading

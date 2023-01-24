@@ -1,0 +1,107 @@
+Binomial theorem
+In elementary algebra, the binomial theorem (or binomial expansion) describes the algebraic expansion of powers of a binomial. According to the theorem, it is possible to expand the polynomial (x + y)n into a sum involving terms of the form axbyc, where the exponents b and c are nonnegative integers with b + c = n, and the coefficient a of each term is a specific positive integer depending on n and b.  For example, for n = 4,
+The coefficient a in the term of axbyc is known as the binomial coefficient $MATH$ or $MATH$ (the two have the same value). These coefficients for varying n and b can be arranged to form Pascal's triangle. These numbers also occur in combinatorics, where $MATH$ gives the number of different combinations of b elements that can be chosen from an n-element set.  Therefore $MATH$ is often pronounced as "n choose b".
+History
+Special cases of the binomial theorem were known since at least the 4th century BC when Greek mathematician Euclid mentioned the special case of the binomial theorem for exponent 2.  There is evidence that the binomial theorem for cubes was known by the 6th century AD in India.
+Binomial coefficients, as combinatorial quantities expressing the number of ways of selecting k objects out of n without replacement, were of interest to ancient Indian mathematicians.  The earliest known reference to this combinatorial problem is the Chandaḥśāstra by the Indian lyricist Pingala (c. 200 BC), which contains a method for its solution.: 230   The commentator Halayudha from the 10th century AD explains this method using what is now known as Pascal's triangle.  By the 6th century AD, the Indian mathematicians probably knew how to express this as a quotient $MATH$, and a clear statement of this rule can be found in the 12th century text Lilavati by Bhaskara.
+The first formulation of the binomial theorem and the table of binomial coefficients, to our knowledge, can be found in a work by Al-Karaji, quoted by Al-Samaw'al in his "al-Bahir". Al-Karaji described the triangular pattern of the binomial coefficients and also provided a mathematical proof of both the binomial theorem and Pascal's triangle, using an early form of mathematical induction.   The Persian poet and mathematician Omar Khayyam was probably familiar with the formula to higher orders, although many of his mathematical works are lost.  The binomial expansions of small degrees were known in the 13th century mathematical works of Yang Hui and also Chu Shih-Chieh.  Yang Hui attributes the method to a much earlier 11th century text of Jia Xian, although those writings are now also lost.: 142 
+In 1544, Michael Stifel introduced the term "binomial coefficient" and showed how to use them to express $MATH$ in terms of $MATH$, via "Pascal's triangle". Blaise Pascal studied the eponymous triangle comprehensively in his Traité du triangle arithmétique. However, the pattern of numbers was already known to the European mathematicians of the late Renaissance,  including Stifel, Niccolò Fontana Tartaglia, and Simon Stevin.
+Isaac Newton is generally credited with the generalized binomial theorem, valid for any rational exponent.
+Statement
+According to the theorem, it is possible to expand any nonnegative integer power of x + y into a sum of the form
+where $MATH$ is an integer and each $MATH$ is a positive integer known as a binomial coefficient. (When an exponent is zero, the corresponding power expression is taken to be 1 and this multiplicative factor is often omitted from the term.  Hence one often sees the right hand side written as $MATH$.) This formula is also referred to as the binomial formula or the binomial identity. Using summation notation, it can be written as
+The final expression follows from the previous one by the symmetry of x and y in the first expression, and by comparison it follows that the sequence of binomial coefficients in the formula is symmetrical.  A simple variant of the binomial formula is obtained by substituting 1 for y, so that it involves only a single variable. In this form, the formula reads
+or equivalently
+or more explicitly
+Examples
+Here are the first few cases of the binomial theorem:
+In general, for the expansion of (x + y)n on the right side in the nth row (numbered so that the top row is the 0th row):
+
+An example illustrating the last two points: 
+ with $MATH$.
+A simple example with a specific positive value of y:
+A simple example with a specific negative value of y:
+Geometric explanation
+For positive values of a and b, the binomial theorem with n = 2 is the geometrically evident fact that a square of side a + b can be cut into a square of side a, a square of side b, and two rectangles with sides a and b. With n = 3, the theorem states that a cube of side a + b can be cut into a cube of side a, a cube of side b, three a × a × b rectangular boxes, and three a × b × b rectangular boxes.
+In calculus, this picture also gives a geometric proof of the derivative $MATH$ if one sets $MATH$ and $MATH$ interpreting b as an infinitesimal change in a, then this picture shows the infinitesimal change in the volume of an n-dimensional hypercube, $MATH$ where the coefficient of the linear term (in $MATH$) is $MATH$ the area of the n faces, each of dimension n − 1:
+Substituting this into the definition of the derivative via a difference quotient and taking limits means that the higher order terms, $MATH$ and higher, become negligible, and yields the formula $MATH$ interpreted as
+If one integrates this picture, which corresponds to applying the fundamental theorem of calculus, one obtains Cavalieri's quadrature formula, the integral $MATH$ – see proof of Cavalieri's quadrature formula for details.
+Binomial coefficients
+The coefficients that appear in the binomial expansion are called binomial coefficients. These are usually written $MATH$ and pronounced "n choose k".
+Formulas
+The coefficient of xn−kyk is given by the formula
+which is defined in terms of the factorial function n!. Equivalently, this formula can be written
+with k factors in both the numerator and denominator of the fraction. Although this formula involves a fraction, the binomial coefficient $MATH$ is actually an integer.
+Combinatorial interpretation
+The binomial coefficient $MATH$ can be interpreted as the number of ways to choose k elements from an n-element set. This is related to binomials for the following reason: if we write (x + y)n as a product
+then, according to the distributive law, there will be one term in the expansion for each choice of either x or y from each of the binomials of the product. For example, there will only be one term xn, corresponding to choosing x from each binomial. However, there will be several terms of the form xn−2y2, one for each way of choosing exactly two binomials to contribute a y. Therefore, after combining like terms, the coefficient of xn−2y2 will be equal to the number of ways to choose exactly 2 elements from an n-element set.
+Proofs
+Example
+The coefficient of xy2 in
+equals $MATH$ because there are three x,y strings of length 3 with exactly two ys, namely,
+corresponding to the three 2-element subsets of {1, 2, 3}, namely,
+where each subset specifies the positions of the y in a corresponding string.
+General case
+Expanding (x + y)n yields the sum of the 2n products of the form e1e2 ... en where each ei is x or y. Rearranging factors shows that each product equals xn−kyk for some k between 0 and n. For a given k, the following are proved equal in succession:
+This proves the binomial theorem.
+Inductive proof
+Induction yields another proof of the binomial theorem. When n = 0, both sides equal 1, since x0 = 1 and $MATH$  Now suppose that the equality holds for a given n; we will prove it for n + 1.  For j, k ≥ 0, let [f(x, y)]j,k denote the coefficient of xjyk in the polynomial f(x, y).  By the inductive hypothesis, (x + y)n is a polynomial in x and y such that [(x + y)n]j,k is $MATH$ if j + k = n, and 0 otherwise.  The identity
+shows that (x + y)n+1 is also a polynomial in x and y, and
+since if j + k = n + 1, then (j − 1) + k = n and j + (k − 1) = n. Now, the right hand side is
+by Pascal's identity. On the other hand, if j + k ≠ n + 1, then (j – 1) + k ≠ n and j + (k – 1) ≠ n, so we get 0 + 0 = 0. Thus
+which is the inductive hypothesis with n + 1 substituted for n and so completes the inductive step.
+Generalizations
+Newton's generalized binomial theorem
+Around 1665, Isaac Newton generalized the binomial theorem to allow real exponents other than nonnegative integers. (The same generalization also applies to complex exponents.) In this generalization, the finite sum is replaced by an infinite series. In order to do this, one needs to give meaning to binomial coefficients with an arbitrary upper index, which cannot be done using the usual formula with factorials.  However, for an arbitrary number r, one can define
+where $MATH$ is the Pochhammer symbol, here standing for a falling factorial.  This agrees with the usual definitions when r is a nonnegative integer.  Then, if x and y are real numbers with |x| > |y|, and r is any complex number, one has
+When r is a nonnegative integer, the binomial coefficients for k > r are zero, so this equation reduces to the usual binomial theorem, and there are at most r + 1 nonzero terms. For other values of r, the series typically has infinitely many nonzero terms.
+For example, r = 1/2 gives the following series for the square root:
+Taking r = −1, the generalized binomial series gives the geometric series formula, valid for |x| < 1:
+More generally, with r = −s, we have for |x| < 1:
+So, for instance, when s = 1/2,
+Replacing x with -x yields:
+So, for instance, when s = 1/2, we have for |x| < 1:
+Further generalizations
+The generalized binomial theorem can be extended to the case where x and y are complex numbers. For this version, one should again assume |x| > |y| and define the powers of x + y and x using a holomorphic branch of log defined on an open disk of radius |x| centered at x.  The generalized binomial theorem is valid also for elements x and y of a Banach algebra as long as xy = yx, and x is invertible, and ||y/x|| < 1.
+A version of the binomial theorem is valid for the following Pochhammer symbol-like family of polynomials: for a given real constant c, define $MATH$ and
+for $MATH$  Then
+The case c = 0 recovers the usual binomial theorem.
+More generally, a sequence $MATH$ of polynomials is said to be of binomial type if
+An operator $MATH$ on the space of polynomials is said to be the basis operator of the sequence $MATH$ if $MATH$ and $MATH$ for all $MATH$. A sequence $MATH$ is binomial if and only if its basis operator is a Delta operator. Writing $MATH$ for the shift by $MATH$ operator, the Delta operators corresponding to the above "Pochhammer" families of polynomials are the backward difference $MATH$ for $MATH$, the ordinary derivative for $MATH$, and the forward difference $MATH$ for $MATH$.
+Multinomial theorem
+The binomial theorem can be generalized to include powers of sums with more than two terms. The general version is
+where the summation is taken over all sequences of nonnegative integer indices k1 through km such that the sum of all ki is n. (For each term in the expansion, the exponents must add up to n). The coefficients $MATH$ are known as multinomial coefficients, and can be computed by the formula
+Combinatorially, the multinomial coefficient $MATH$ counts the number of different ways to partition an n-element set into disjoint subsets of sizes k1, ..., km.
+Multi-binomial theorem
+When working in more dimensions, it is often useful to deal with products of binomial expressions. By the binomial theorem this is equal to
+This may be written more concisely, by multi-index notation, as
+General Leibniz rule
+The general Leibniz rule gives the nth derivative of a product of two functions in a form similar to that of the binomial theorem:
+Here, the superscript (n) indicates the nth derivative of a function.  If one sets f(x) = eax and g(x) = ebx, and then cancels the common factor of e(a + b)x from both sides of the result, the ordinary binomial theorem is recovered.
+Applications
+Multiple-angle identities
+For the complex numbers the binomial theorem can be combined with de Moivre's formula to yield multiple-angle formulas for the sine and cosine. According to De Moivre's formula,
+Using the binomial theorem, the expression on the right can be expanded, and then the real and imaginary parts can be taken to yield formulas for cos(nx) and sin(nx). For example, since
+De Moivre's formula tells us that
+which are the usual double-angle identities. Similarly, since
+De Moivre's formula yields
+In general,
+and
+Series for e
+The number e is often defined by the formula
+Applying the binomial theorem to this expression yields the usual infinite series for e. In particular:
+The kth term of this sum is
+As n → ∞, the rational expression on the right approaches 1, and therefore
+This indicates that e can be written as a series:
+Indeed, since each term of the binomial expansion is an increasing function of n, it follows from the monotone convergence theorem for series that the sum of this infinite series is equal to e.
+Probability
+The binomial theorem is closely related to the probability mass function of the negative binomial distribution. The probability of a (countable) collection of independent Bernoulli trials $MATH$ with probability of success $MATH$ all not happening is
+An upper bound for this quantity is $MATH$
+In abstract algebra
+The binomial theorem is valid more generally for two elements x and y in a ring, or even a semiring, provided that xy = yx.  For example, it holds for two n × n matrices, provided that those matrices commute; this is useful in computing powers of a matrix.
+The binomial theorem can be stated by saying that the polynomial sequence  {1, x, x2, x3, ...} is of binomial type.
+In popular culture
+See also
+Notes
+References
+Further reading

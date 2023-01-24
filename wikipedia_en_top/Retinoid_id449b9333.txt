@@ -1,0 +1,22 @@
+Retinoid
+The retinoids are a class of chemical compounds that are vitamers of vitamin A or are chemically related to it. Retinoids have found use in medicine where they regulate epithelial cell growth.
+Retinoids have many important functions throughout the body including roles in vision, regulation of cell proliferation and differentiation, growth of bone tissue, immune function, and activation of tumor suppressor genes.
+Research is also being done into their ability to treat skin cancers. Currently, alitretinoin (9-cis-retinoic acid) may be used topically to help treat skin lesions from Kaposi's sarcoma, and tretinoin (all-trans- retinoic acid) is used to treat acute promyelocytic leukemia.
+Types
+There are four generations of retinoids:
+Structure
+The basic structure of the hydrophobic retinoid molecule consists of a cyclic end group, a polyene side chain and a polar end group. The conjugated system formed by alternating C=C double bonds in the polyene side chain are responsible for the color of retinoids (typically yellow, orange, or red). Hence, many retinoids are chromophores. Alternation of side chains and end groups creates the various classes of retinoids.
+First and second generation retinoids are able to bind with several retinoid receptors due to the flexibility imparted by their alternating single and double bonds.
+Third generation retinoids are less flexible than first- and second-generation retinoids and therefore, interact with fewer retinoid receptors.
+Fourth generation retinoid, Trifarotene, binds selectively to the RAR-y receptor.  It was approved for use in the US in 2019.
+Absorption
+The major source of retinoids from the diet are plant pigments such as carotenes and retinyl esters derived from animal sources. Retinyl esters are hydrolyzed in the intestinal lumen to yield free retinol and the corresponding fatty acid (i.e. palmitate or stearate). After hydrolysis, retinol is taken up by the enterocytes.  Retinyl ester hydrolysis requires the presence of bile salts that serve to solubilize the retinyl esters in mixed micelles and to activate the hydrolyzing enzymes 
+Several enzymes that are present in the intestinal lumen may be involved in the hydrolysis of dietary retinyl esters. Cholesterol esterase is secreted into the intestinal lumen from the pancreas and has been shown, in vitro, to display retinyl ester hydrolase activity. In addition, a retinyl ester hydrolase that is intrinsic to the brush-border membrane of the small intestine has been characterized in the rat as well as in the human.  The different hydrolyzing enzymes are activated by different types of bile salts and have distinct substrate specificities.  For example, whereas the pancreatic esterase is selective for short-chain retinyl esters, the brush-border membrane enzyme preferentially hydrolyzes retinyl esters containing a long-chain fatty acid such as palmitate or stearate.  Retinol enters the absorptive cells of the small intestine, preferentially in the all-trans-retinol form.
+Uses
+Common skin conditions treated by retinoids include acne and psoriasis. Retinoids are used in the treatment of many diverse diseases and are effective in the treatment of a number of dermatological conditions such as inflammatory skin disorders, skin cancers, such as bexaroten for mycosis fungoides, disorders of increased cell turnover (e.g. psoriasis), photoaging, and skin wrinkles.
+Isotretinoin was originally a chemotherapy treatment for certain cancers, such as leukemia.
+Toxicity
+Toxic effects occur with prolonged high intake. The specific toxicity is related to exposure time and the exposure concentration. A medical sign of chronic poisoning is the presence of painful tender swellings on the long bones. Anorexia, skin lesions, hair loss, hepatosplenomegaly, papilloedema, bleeding, general malaise, pseudotumor cerebri, and death may also occur.
+Chronic overdose also causes an increased lability of biological membranes and of the outer layer of the skin to peel.
+Recent research has suggested a role for retinoids in cutaneous adverse effects for a variety of drugs including the antimalarial drug proguanil. It is proposed that drugs such as proguanil act to disrupt retinoid homeostasis.
+Systemic retinoids (isotretinoin, etretinate) are contraindicated during pregnancy as they may cause CNS, cranio-facial, cardiovascular and other defects.

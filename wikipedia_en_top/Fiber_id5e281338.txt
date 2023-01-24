@@ -1,0 +1,35 @@
+Fiber
+Fiber or fibre (from Latin: fibra) is a natural or artificial substance that is significantly longer than it is wide. Fibers are often used in the manufacture of other materials. The strongest engineering materials often incorporate fibers, for example carbon fiber and ultra-high-molecular-weight polyethylene.
+Synthetic fibers can often be produced very cheaply and in large amounts compared to natural fibers, but for clothing natural fibers can give some benefits, such as comfort, over their synthetic counterparts.
+Natural fibers
+Natural fibers develop or occur in the fiber shape, and include those produced by plants, animals, and geological processes. They can be classified according to their origin:
+Artificial fibers
+Artificial or chemical fibers are fibers whose chemical composition, structure, and properties are significantly modified during the manufacturing process. In fashion, a fiber is a long and thin strand or thread of material that can be knit or woven into a fabric. Artificial fibers consist of regenerated fibers and synthetic fibers.
+Semi-synthetic fibers
+Semi-synthetic fibers are made from raw materials with naturally long-chain polymer structure and are only modified and partially degraded by chemical processes, in contrast to completely synthetic fibers such as nylon (polyamide) or dacron (polyester), which the chemist synthesizes from low-molecular weight compounds by polymerization (chain-building) reactions. The earliest semi-synthetic fiber is the cellulose regenerated fiber, rayon. Most semi-synthetic fibers are cellulose regenerated fibers.
+Cellulose regenerated fibers
+Cellulose fibers are a subset of artificial fibers, regenerated from natural cellulose. The cellulose comes from various sources: rayon from tree wood fiber, bamboo fiber from bamboo, seacell from seaweed, etc. In the production of these fibers, the cellulose is reduced to a fairly pure form as a viscous mass and formed into fibers by extrusion through spinnerets. Therefore, the manufacturing process leaves few characteristics distinctive of the natural source material in the finished products.
+Some examples of this fiber type are:
+Historically, cellulose diacetate and -triacetate were classified under the term rayon, but are now considered distinct materials.
+Synthetic fibers
+Synthetic come entirely from synthetic materials such as petrochemicals, unlike those artificial fibers derived from such natural substances as cellulose or protein.
+Fiber classification in reinforced plastics falls into two classes: (i) short fibers, also known as discontinuous fibers, with a general aspect ratio (defined as the ratio of fiber length to diameter) between 20 and 60, and (ii) long fibers, also known as continuous fibers, the general aspect ratio is between 200 and 500.
+Metallic fibers
+Metallic fibers can be drawn from ductile metals such as copper, gold or silver and extruded or deposited from more brittle ones, such as nickel, aluminum or iron.
+Carbon fiber
+Carbon fibers are often based on oxidized and via pyrolysis carbonized polymers like PAN, but the end product is almost pure carbon.
+Silicon carbide fiber
+Silicon carbide fibers, where the basic polymers are not hydrocarbons but polymers, where about 50% of the carbon atoms are replaced by silicon atoms, so-called poly-carbo-silanes. The pyrolysis yields an amorphous silicon carbide, including mostly other elements like oxygen, titanium, or aluminium, but with mechanical properties very similar to those of carbon fibers.
+Fiberglass
+Fiberglass, made from specific glass, and optical fiber, made from purified natural quartz, are also artificial fibers that come from natural raw materials, silica fiber, made from sodium silicate (water glass) and basalt fiber made from melted basalt.
+Mineral fibers
+Mineral fibers can be particularly strong because they are formed with a low number of surface defects, asbestos is a common one.
+Polymer fibers
+Microfibers
+Invented in Japan in the early 1980s, microfibers are also known as microdenier fibers. Acrylic, nylon, polyester, lyocell and rayon can be produced as microfibers. In 1986, Hoechst A.G. of Germany produced microfiber in Europe. This fiber made it way into the United States in 1990 by DuPont.
+Microfibers in textiles refer to sub-denier fiber (such as polyester drawn to 0.5 denier). Denier and Dtex are two measurements of fiber yield based on weight and length. If the fiber density is known, you also have a fiber diameter, otherwise it is simpler to measure diameters in micrometers. Microfibers in technical fibers refer to ultra-fine fibers (glass or meltblown thermoplastics) often used in filtration. Newer fiber designs include extruding fiber that splits into multiple finer fibers. Most synthetic fibers are round in cross-section, but special designs can be hollow, oval, star-shaped or trilobal. The latter design provides more optically reflective properties. Synthetic textile fibers are often crimped to provide bulk in a woven, non woven or knitted structure. Fiber surfaces can also be dull or bright. Dull surfaces reflect more light while bright tends to transmit light and make the fiber more transparent.
+Very short and/or irregular fibers have been called fibrils. Natural cellulose, such as cotton or bleached kraft, show smaller fibrils jutting out and away from the main fiber structure.
+Typical properties of selected fibers
+Fibers can be divided into natural and artificial (synthetic) substance, their properties can affect their performance in many applications. Synthetic fiber materials are increasingly replacing other conventional materials like glass and wood in a number of applications. This is because artificial fibers can be engineered chemically, physically, and mechanically to suit particular technical engineering. In choosing a fiber type, a manufacturer would balance their properties with the technical requirements of the applications. Various fibers are available to select for manufacturing. Here are typical properties of the sample natural fibers as compared to the properties of artificial fibers. 
+The tables above just show typical properties of fibers, in fact there are more properties which could be referred as follows (from a to z):
+Arc Resistance, Biodegradable, Coefficient of Linear Thermal Expansion, Continuous Service Temperature, Density of Plastics, Ductile / Brittle Transition Temperature, Elongation at Break, Elongation at Yield, Fire Resistance, Flexibility, Gamma Radiation Resistance, Gloss, Glass Transition Temperature, Hardness, Heat Deflection Temperature, Shrinkage, Stiffness, Ultimate tensile strength, Thermal Insulation, Toughness, Transparency, UV Light Resistance, Volume Resistivity, Water absorption, Young's Modulus

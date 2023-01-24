@@ -1,0 +1,106 @@
+Covariance and contravariance of vectors
+In physics, especially in multilinear algebra and tensor analysis, covariance and contravariance describe how the quantitative description of certain geometric or physical entities changes with a change of basis. In modern mathematical notation, the role is sometimes swapped. 
+In physics, a basis is sometimes thought of as a set of reference axes.  A change of scale on the reference axes corresponds to a change of units in the problem.  For instance, by changing scale from meters to centimeters (that is, dividing the scale of the reference axes by 100), the components of a measured velocity vector are multiplied by 100.  A vector changes scale inversely to changes in scale to the reference axes, and consequently is called contravariant.  As a result, a vector often has units of distance or distance with other units (as, for example, velocity has units of distance divided by time).
+In contrast, a covector, also called a dual vector, typically has units of the inverse of distance or the inverse of distance with other units.  For example, a gradient which has units of a spatial derivative, or distance−1.  The components of a covector changes in the same way as changes to scale of the reference axes, and consequently is called covariant.
+A third concept related to covariance and contravariance is invariance.  An example of a physical observable that does not change with a change of scale on the reference axes is the mass of a particle, which has units of mass (that is, no units of distance).  The single, scalar value of mass is independent of changes to the scale of the reference axes and consequently is called invariant.
+Under more general changes in basis:
+Curvilinear coordinate systems, such as cylindrical or spherical coordinates, are often used in physical and geometric problems.  Associated with any coordinate system is a natural choice of coordinate basis for vectors based at each point of the space, and covariance and contravariance are particularly important for understanding how the coordinate description of a vector changes by passing from one coordinate system to another.
+The terms covariant and contravariant were introduced by James Joseph Sylvester in 1851 in the context of associated algebraic forms theory. Tensors are objects in multilinear algebra that can have aspects of both covariance and contravariance.
+In the lexicon of category theory, covariance and contravariance are properties of functors; unfortunately, it is the lower-index objects (covectors) that generically have pullbacks, which are contravariant, while the upper-index objects (vectors) instead have pushforwards, which are covariant.  This terminological conflict may be avoided by calling contravariant functors "cofunctors"—in accord with the "covector" terminology, and continuing the tradition of treating vectors as the concept and covectors as the coconcept.
+Introduction
+In physics, a vector typically arises as the outcome of a measurement or series of measurements, and is represented as a list (or tuple) of numbers such as
+The numbers in the list depend on the choice of coordinate system.  For instance, if the vector represents position with respect to an observer (position vector), then the coordinate system may be obtained from a system of rigid rods, or reference axes, along which the components v1, v2, and v3 are measured.  For a vector to represent a geometric object, it must be possible to describe how it looks in any other coordinate system.  That is to say, the components of the vectors will transform in a certain way in passing from one coordinate system to another.
+A contravariant vector has components that "transform as the coordinates do" under changes of coordinates (and so inversely to the transformation of the reference axes), including rotation and dilation. The vector itself does not change under these operations; instead, the components of the vector change in a way that cancels the change in the spatial axes, in the same way that coordinates change.  In other words, if the reference axes were rotated in one direction, the component representation of the vector would rotate in exactly the opposite way. Similarly, if the reference axes were stretched in one direction, the components of the vector, like the coordinates, would reduce in an exactly compensating way.  Mathematically, if the coordinate system undergoes a transformation described by an invertible matrix M, so that a coordinate vector x is transformed to $MATH$, then a contravariant vector v must be similarly transformed via $MATH$. This important requirement is what distinguishes a contravariant vector from any other triple of physically meaningful quantities.  For example, if v consists of the x-, y-, and z-components of velocity, then v is a contravariant vector: if the coordinates of space are stretched, rotated, or twisted, then the components of the velocity transform in the same way.  Examples of contravariant vectors include position, displacement, velocity, acceleration, momentum, and force.
+By contrast, a covariant vector has components that change oppositely to the coordinates or, equivalently, transform like the reference axes.  For instance, the components of the gradient vector of a function
+transform like the reference axes themselves.
+Definition
+The general formulation of covariance and contravariance refer to how the components of a coordinate vector transform under a change of basis (passive transformation).  Thus let V be a vector space of dimension n over a field of scalars S, and let each of f = (X1, ..., Xn) and f′ = (Y1, ..., Yn) be a basis of V.  Also, let the change of basis from f to f′ be given by
+for some invertible n×n matrix A with entries $MATH$.
+Here, each vector Yj of the f′ basis is a linear combination of the vectors Xi of the f basis, so that
+Contravariant transformation
+A vector $MATH$ in V is expressed uniquely as a linear combination of the elements $MATH$ of the f basis as
+where vi[f] are elements of the field S known as the components of v in the f basis. Denote the column vector of components of v by v[f]:
+so that (2) can be rewritten as a matrix product
+The vector v may also be expressed in terms of the f′ basis, so that
+However, since the vector v itself is invariant under the choice of basis,
+The invariance of v combined with the relationship (1) between f and f′ implies that
+giving the transformation rule
+In terms of components,
+where the coefficients $MATH$ are the entries of the inverse matrix of A.
+Because the components of the vector v transform with the inverse of the matrix A, these components are said to transform contravariantly under a change of basis.
+The way A relates the two  pairs is depicted in the following informal diagram using an arrow.  The reversal of the arrow indicates a contravariant change:
+Covariant transformation
+A linear functional α on V is expressed uniquely in terms of its components (elements in S) in the f basis as
+These components are the action of α on the basis vectors Xi of the f basis.
+Under the change of basis from f to f′ (1), the components transform so that
+Denote the row vector of components of α by α[f]:
+so that (3) can be rewritten as the matrix product
+Because the components of the linear functional α transform with the matrix A, these components are said to transform covariantly under a change of basis.
+The way A relates the two  pairs is depicted in the following informal diagram using an arrow.  A covariant relationship is indicated since the arrows travel in the same direction:
+Had a column vector representation been used instead, the transformation law would be the transpose
+Coordinates
+The choice of basis f on the vector space V defines uniquely a set of coordinate functions on V, by means of
+The coordinates on V are therefore contravariant in the sense that
+Conversely, a system of n quantities vi that transform like the coordinates xi on V defines a contravariant vector.  A system of n quantities that transform oppositely to the coordinates is then a covariant vector.
+This formulation of contravariance and covariance is often more natural in applications in which there is a coordinate space (a manifold) on which vectors live as tangent vectors or cotangent vectors.  Given a local coordinate system xi on the manifold, the reference axes for the coordinate system are the vector fields
+This gives rise to the frame f = (X1, ..., Xn) at every point of the coordinate patch.
+If yi is a different coordinate system and
+then the frame f' is related to the frame f by the inverse of the Jacobian matrix of the coordinate transition:
+Or, in indices,
+A tangent vector is by definition a vector that is a linear combination of the coordinate partials $MATH$.  Thus a tangent vector is defined by
+Such a vector is contravariant with respect to change of frame.  Under changes in the coordinate system, one has
+Therefore, the components of a tangent vector transform via
+Accordingly, a system of n quantities vi depending on the coordinates that transform in this way on passing from one coordinate system to another is called a contravariant vector.
+Covariant and contravariant components of a vector with a metric
+In a finite-dimensional vector space V over a field K with a symmetric bilinear form g : V × V → K (which may be referred to as the metric tensor), there is little distinction between covariant and contravariant vectors, because the bilinear form allows covectors to be identified with vectors.  That is, a vector v uniquely determines a covector α via
+for all vectors w.  Conversely, each covector α determines a unique vector v by this equation.  Because of this identification of vectors with covectors, one may speak of the covariant components or contravariant components of a vector, that is, they are just representations of the same vector using the reciprocal basis.
+Given a basis f = (X1, ..., Xn) of V, there is a unique reciprocal basis f# = (Y1, ..., Yn) of V determined by requiring that
+the Kronecker delta.  In terms of these bases, any vector v can be written in two ways:
+The components vi[f] are the contravariant components of the vector v in the basis f, and the components vi[f] are the covariant components of v in the basis f.  The terminology is justified because under a change of basis,
+Euclidean plane
+In the Euclidean plane, the dot product allows for vectors to be identified with covectors.  If $MATH$ is a basis, then the dual basis $MATH$ satisfies
+Thus, e1 and e2 are perpendicular to each other, as are e2 and e1, and the lengths of e1 and e2 normalized against e1 and e2, respectively.
+Example
+For example, suppose that we are given a basis e1, e2 consisting of a pair of vectors making a 45° angle with one another, such that e1 has length 2 and e2 has length 1.  Then the dual basis vectors are given as follows:
+Applying these rules, we find
+and
+Thus the change of basis matrix in going from the original basis to the reciprocal basis is
+since
+For instance, the vector
+is a vector with contravariant components
+The covariant components are obtained by equating the two expressions for the vector v:
+so
+Three-dimensional Euclidean space
+In the three-dimensional Euclidean space, one can also determine explicitly the dual basis to a given set of basis vectors e1, e2, e3 of E3 that are not necessarily assumed to be orthogonal nor of unit norm. The dual basis vectors are:
+Even when the ei and ei are not orthonormal, they are still mutually reciprocal:
+Then the contravariant components of any vector v can be obtained by the dot product of v with the dual basis vectors:
+Likewise, the covariant components of v can be obtained from the dot product of v with basis vectors, viz.
+Then v can be expressed in two (reciprocal) ways, viz.
+or
+Combining the above relations, we have
+and we can convert between the basis and dual basis with
+and
+If the basis vectors are orthonormal, then they are the same as the dual basis vectors.
+General Euclidean spaces
+More generally, in an n-dimensional Euclidean space V, if a basis is
+the reciprocal basis is given by (double indices are summed over),
+where the coefficients gij are the entries of the inverse matrix of
+Indeed, we then have
+The covariant and contravariant components of any vector
+are related as above by
+and
+Informal usage
+In the field of physics, the adjective covariant is often used informally as a synonym for invariant. For example, the Schrödinger equation does not keep its written form under the coordinate transformations of special relativity. Thus, a physicist might say that the Schrödinger equation is not covariant. In contrast, the Klein–Gordon equation and the Dirac equation do keep their written form under these coordinate transformations. Thus, a physicist might say that these equations are covariant.
+Despite this usage of "covariant", it is more accurate to say that the Klein–Gordon and Dirac equations are invariant, and that the Schrödinger equation is not invariant. Additionally, to remove ambiguity, the transformation by which the invariance is evaluated should be indicated.
+Because the components of vectors are contravariant and those of covectors are covariant, the vectors themselves are often referred to as being contravariant and the covectors as covariant.
+Use in tensor analysis
+The distinction between covariance and contravariance is particularly important for computations with tensors, which often have mixed variance. This means that they have both covariant and contravariant components, or both vector and covector components. The valence of a tensor is the number of variant and covariant terms, and in Einstein notation, covariant components have lower indices, while contravariant components have upper indices.  The duality between covariance and contravariance intervenes whenever a vector or tensor quantity is represented by its components, although modern differential geometry uses more sophisticated index-free methods to represent tensors.
+In tensor analysis, a covariant vector varies more or less reciprocally to a corresponding contravariant vector.  Expressions for lengths, areas and volumes of objects in the vector space can then be given in terms of tensors with covariant and contravariant indices. Under simple expansions and contractions of the coordinates, the reciprocity is exact; under affine transformations the components of a vector intermingle on going between covariant and contravariant expression.
+On a manifold, a tensor field will typically have multiple, upper and lower indices, where Einstein notation is widely used. When the manifold is equipped with a metric, covariant and contravariant indices become very closely related to one another. Contravariant indices can be turned into covariant indices by contracting with the metric tensor. The reverse is possible by contracting with the (matrix) inverse of the metric tensor. Note that in general, no such relation exists in spaces not endowed with a metric tensor. Furthermore, from a more abstract standpoint, a tensor is simply "there" and its components of either kind are only calculational artifacts whose values depend on the chosen coordinates.
+The explanation in geometric terms is that a general tensor will have contravariant indices as well as covariant indices, because it has parts that live in the tangent bundle as well as the cotangent bundle.
+A contravariant vector is one which transforms like $MATH$, where $MATH$ are the coordinates of a particle at its proper time $MATH$. A covariant vector is one which transforms like $MATH$, where $MATH$ is a scalar field.
+Algebra and geometry
+In category theory, there are covariant functors and contravariant functors. The assignment of the dual space to a vector space is a standard example of a contravariant functor. Some constructions of multilinear algebra are of "mixed" variance, which prevents them from being functors.
+In differential geometry, the components of a vector relative to a basis of the tangent bundle are covariant if they change with the same linear transformation as a change of basis.  They are contravariant if they change by the inverse transformation.  This is sometimes a source of confusion for two distinct but related reasons.  The first is that vectors whose components are covariant (called covectors or 1-forms) actually pull back under smooth functions, meaning that the operation assigning the space of covectors to a smooth manifold is actually a contravariant functor.  Likewise, vectors whose components are contravariant push forward under smooth mappings, so the operation assigning the space of (contravariant) vectors to a smooth manifold is a covariant functor.  Secondly, in the classical approach to differential geometry, it is not bases of the tangent bundle that are the most primitive object, but rather changes in the coordinate system.  Vectors with contravariant components transform in the same way as changes in the coordinates (because these actually change oppositely to the induced change of basis).  Likewise, vectors with covariant components transform in the opposite way as changes in the coordinates.
+See also
+Notes

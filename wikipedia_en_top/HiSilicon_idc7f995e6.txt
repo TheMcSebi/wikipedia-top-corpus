@@ -1,0 +1,83 @@
+HiSilicon
+HiSilicon (Chinese: 海思; pinyin: Hǎisī) is a Chinese fabless semiconductor company based in Shenzhen, Guangdong and wholly owned by Huawei. HiSilicon purchases licenses for CPU designs from ARM Holdings, including the ARM Cortex-A9 MPCore, ARM Cortex-M3, ARM Cortex-A7 MPCore, ARM Cortex-A15 MPCore, ARM Cortex-A53, ARM Cortex-A57 and also for their Mali graphics cores. HiSilicon has also purchased licenses from Vivante Corporation for their GC4000 graphics core.
+HiSilicon is reputed to be the largest domestic designer of integrated circuits in China. In 2020, the U.S. instituted rules that require American firms providing certain equipment to HiSilicon or non-American firms who use American technologies that supply HiSilicon to have licenses and Huawei announced it will stop producing its Kirin chipset from 15 September 2020, onwards. HiSilicon has since been overtaken by Chinese rival UNISOC in terms of mobile processor market share.
+Branch
+HiSilicon (Shanghai) Technologies CO., Ltd
+HiSilicon (Shanghai) Technologies CO., Ltd is a fabless semiconductor and IC design company, providing comprehensive connectivity and multimedia chipset solutions to the market. The company also paves the way for innovations in networking and ultra-HD video technologies. Its chipset solutions service for high-speed communications, smart devices, and IoT to video applications, etc.
+HiSilicon Technologies Co Ltd
+HiSilicon Technologies Co. Ltd. manufactures semiconductor products. The Company designs, develops, produces, and provides network monitoring chips, video-phone chips, and other chips for wireless networks, fixed networks, and digital media fields. HiSilicon Technologies also offers technology solutions.
+History
+Shenzhen HiSilicon Semiconductor Co., Ltd. was Huawei's ASIC Design Center, which was founded in 1991. After more than 10 years of development, HiSilicon has grown into an independent chip supplier that can provide customers with wireless terminal solutions, optical network solutions, digital media solutions, digital TV solutions and communication network solutions. By the end of 2005, a total of more than 100 chip designs have been completed, of which more than 60 have been mass-produced and are widely used in various communication network products.
+Smartphone application processors
+HiSilicon develops SoCs based on ARM architecture. Though not exclusive, these SoCs see preliminary use in handheld and tablet devices of its parent company Huawei.
+K3V2
+The first well known product of HiSilicon is the K3V2 used in Huawei Ascend D Quad XL (U9510) smartphones and Huawei MediaPad 10 FHD7 tablets. This chipset is based on the ARM Cortex-A9 MPCore fabbed at 40 nm and uses a 16 core Vivante GC4000 GPU.
+The SoC supports LPDDR2-1066, but actual products are found with LPDDR-900 instead for lower power consumption.
+K3V2E
+This is a revised version of K3V2 SoC with improved support of Intel baseband.
+The SoC supports LPDDR2-1066, but actual products are found with LPDDR-900 instead for lower power consumption.
+Kirin 620
+• supports – USB 2.0 / 13 MP / 1080p video encode
+Kirin 810 and 820
+Kirin 920, 925 and 928
+• The Kirin 920 SoC also contains an image processor that supports up to 32-megapixel
+Kirin 930 and 935
+• supports – SD 3.0 (UHS-I) / eMMC 4.51 / Dual-band a/b/g/n Wi-Fi / Bluetooth 4.0 Low Energy / USB 2.0 / 32 MP ISP / 1080p video encode
+Kirin 950 and 955
+• supports – SD 4.1 (UHS-II) / UFS 2.0 / eMMC 5.1 / MU-MIMO 802.11ac Wi-Fi / Bluetooth 4.2 Smart / USB 3.0 / NFS / Dual ISP (42 MP) / Native 10-bit 4K video encode / i5 coprocessor / Tensilica HiFi 4 DSP
+Kirin 960
+Kirin 970
+Kirin 980 and Kirin 985 5G/4G
+Kirin 980 is HiSilicon's first SoC based on 7 nm FinFET technology.
+Kirin 985 5G is the second Hislicon's 5G SoC based on 7 nm FinFET Technology.
+Kirin 990 4G, Kirin 990 5G and Kirin 990E 5G
+Kirin 990 5G is HiSilicon's first 5G SoC based on N7 nm+ FinFET technology.
+Kirin 9000 5G/4G and Kirin 9000E
+Kirin 9000 is HiSilicon's first SoC based on 5 nm+ FinFET (EUV) TSMC technology and the first 5 nm SoC to be launched on the international market.
+This octa-core eight threads system on a chip is based on the 9th Gen of the HiSilicon Kirin series and is equipped with 15.3 billion of transistors in a 1+3+4 configuration: 4 Arm Cortex-A77 CPU (1x 3,13 GHz and 3x 2,54 GHz), 4 Arm Cortex-A55 (4x 2,05 GHz) and a 24-core Mali-G78 GPU (22-core in the Kirin 9000E version) with Kirin Gaming+ 3.0 implementation. The integrated quad pipeline NPU (Dual Big Core + 1 Tiny Core configuration) is equipped with a Kirin ISP 6.0 to support advanced computational photography. The Huawei Da Vinci Architecture 2.0 for AI supports 2x Ascend Lite + 1x Ascend Tiny (only 1 Lite in 9000E). The system cache is 8 MB and the SoC works with the new LPDDR5/4X memories (made by Samsung in the Huawei Mate 40 series). Due to the integrated 3rd generation 7 nm TSMC 5G proprietary modem "Balong 5000", Kirin 9000 supports 2G, 3G, 4G and 5G SA & NSA, Sub-6G and mmWave connectivity. The SoC TDP is 6W.
+The 2021 4G version of the Kirin 9000 has the Balong modem limited via software to comply with the ban imposed on Huawei by the US government for non-chinese 5G technologies.
+Smartphone modems
+HiSilicon develops smartphone modems which although not exclusively, these SoCs see preliminary use in handheld and tablet devices of its parent company Huawei.
+Balong 700
+The Balong 700 supports LTE TDD/FDD. Its specs:
+Balong 710
+At MWC 2012 HiSilicon released the Balong 710. It is a multi-mode chipset supporting 3GPP Release 9 and LTE Category 4 at GTI (Global TD-LTE Initiative). The Balong 710 was designed to be used with the K3V2 SoC. Its specs:
+Balong 720
+The Balong 720 supports LTE Cat6 with 300 Mbit/s peak download rate. Its specs:
+Balong 750
+The Balong 750 supports LTE Cat 12/13, and it is first to support 4CC CA and 3.5 GHz. Its specs:
+Balong 765
+The Balong 765 supports 8×8 MIMO technology, LTE Cat.19 with downlink data-rate up to 1.6 Gbit/s in FDD network and up to 1.16 Gbit/s in the TD-LTE network. Its specs:
+Balong 5G01
+The Balong 5G01 supports the 3GPP standard for 5G with downlink speeds of up to 2.3 Gbit/s. It supports 5G across all frequency bands including sub-6 GHz and millimeter wave (mmWave). Its specs:
+Balong 5000
+The Balong 5000 is the world's first 7 nm TSMC 5G multi-mode chipset (launched in Q1 2019), the world's first SA/NSA implementation and the first smartphone chipset to support the full NR TDD/FDD spectrum. The modem have an advanced 2G, 3G, 4G, and 5G connectivity. Its specs:
+Wearable SoCs
+HiSilicon develops SoCs for wearables such as truly wireless earbuds, wireless headphones, neckband earbuds, smart speakers, smart eyewear and smartwatches.
+Kirin A1
+The Kirin A1 was announced on 6 September 2019. It features:
+Server processors
+HiSilicon develops server processor SoCs based on ARM architecture.
+Hi1610
+The Hi1610 is HiSilicon's first generation server processor announced in 2015. It features:
+Hi1612
+The Hi1612 is HiSilicon's second generation server processor launched in 2016. It features:
+Kunpeng 916 (formerly Hi1616)
+The Kunpeng 916 (formerly known as Hi1616) is HiSilicon's third generation server processor launched in 2017. The Kunpeng 916 is used in Huawei's TaiShan 2280 Balanced Server, TaiShan 5280 Storage Server, TaiShan XR320 High-Density Server Node and TaiShan X6000 High-Density Server. It features:
+Kunpeng 920 (formerly Hi1620)
+The Kunpeng 920 (formerly known as Hi1620) is HiSilicon's fourth generation server processor announced in 2018, launched in 2019. Huawei claim the Kunpeng 920 CPU scores more than an estimated 930 on SPECint_rate_base2006. The Kunpeng 920 is used in Huawei's TaiShan 2280 V2 Balanced Server, TaiShan 5280 V2 Storage Server and TaiShan XA320 V2 High-Density Server Node. It features:
+Kunpeng 930 (formerly Hi1630)
+The Kunpeng 930 (formerly known as Hi1630) is HiSilicon's fifth-generation server processor announced in 2019 and scheduled for launch in 2021. It features:
+Kunpeng 950
+The Kunpeng 950 is HiSilicon's sixth-generation server processor announced in 2019 and scheduled for launch in 2023.
+AI acceleration
+HiSilicon also develops AI Acceleration chips.
+Da Vinci architecture
+Each Da Vinci Max AI Core features a 3D Cube Tensor Computing Engine (4096 FP16 MACs + 8192 INT8 MACs), Vector unit (2048bit INT8/FP16/FP32) and scalar unit. It includes a new AI framework called "MindSpore", a platform-as-a-service product called ModelArts, and a lower-level library called Compute Architecture for Neural Networks (CANN).
+Ascend 310
+The Ascend 310 is an AI inference SoC, it was codenamed Ascend-Mini. The Ascend 310 is capable of 16 TOPS@INT8 and 8 TOPS@FP16. The Ascend 310 features:
+Ascend 910
+The Ascend 910 is an AI training SoC, it was codenamed Ascend-Max. which delivers 256 TFLOPS@FP16 and 512 TOPS@INT8. The Ascend 910 features:
+The Ascend 910 Cluster has 1024–2048 Ascend 910 chips to reach 256–512 petaFLOPS@FP16. The Ascend 910 and Ascend Cluster will be available in Q2 2019.
+Similar platforms
+The Kirin processors compete with products from several other companies, including:

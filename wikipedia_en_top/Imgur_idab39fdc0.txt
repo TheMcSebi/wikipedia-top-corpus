@@ -1,0 +1,39 @@
+Imgur
+Imgur (/ˈɪmɪdʒər/ IM-ij-ər, stylized as imgur) is an American online image sharing and image hosting service with a focus on social gossip that was founded by Alan Schaaf in 2009. The service has hosted viral images and meme, particularly those posted on Reddit.
+History
+The company was started in 2009 in Athens, Ohio as Alan Schaaf's side project while he attended Ohio University for computer science. Imgur was created as a response to the usability problems encountered in similar services. "It took off almost instantly, jumping from a thousand hits per day to a million total page views in the first five months." In October 2012, Imgur expanded its functionality to allow users to directly share images to Imgur instead of requiring images to gain enough attraction through other social media sites like Reddit to show up on the popular image gallery.
+In the beginning, Imgur relied on donations to help with the web hosting costs. Display ads were introduced in May 2009; sponsored images and self-service ads were introduced in 2013.
+Imgur used three different hosting providers in the first year before settling on Voxel, then switching to Amazon Web Services in late 2011.
+In January 2011, the company moved from Ohio to San Francisco. As of June 2013 it had 10 employees, and won the Best Bootstrapped Startup award at TechCrunch's 2012 Crunchies Awards.
+In 2016, Reddit introduced native image hosting, causing a notable decrease in Imgur submissions on the site.
+On September 27, 2021, Imgur announced that they were acquired by MediaLab AI, Inc., a holding company of internet brands.
+Funding
+In April 2014, five years after it was founded, Imgur raised $40 million from Andreessen Horowitz and Andreessen Horowitz's Lars Dalgaard joined Imgur's board. Imgur was profitable at the time, generating revenue from Pro subscriptions and advertising.
+Popularity
+In April 2016, it was ranked 16th among Alexa's Top Sites in the United States but by April 2021 it had dropped to #51.
+Features
+Albums
+Albums were introduced on October 11, 2010. Album layouts are customizable and embeddable.
+Accounts
+On January 9, 2010, Schaaf introduced Imgur accounts, which allowed users to create custom image galleries and manage their images. Accounts gave full image management including editing, deletion, album creation and embedding, and the ability to comment on viral images and submit to the public gallery. Gallery profiles gave the user the ability to view their past public activity. Paid pro accounts were created in 2010 to remove image upload limitations and allow unlimited image storage.
+Images
+Imgur used to have a policy to keep images unless they went three months without receiving any views, at which point (unless they were Pro account images) they might be removed in response to space needs. In early 2015, it was announced all images will be kept forever (even if not added from a Pro account) and only removed if deletion is requested.
+Meme Generator
+Since June 26, 2013, Imgur has provided a "Meme Generator" service that allows users to create image macros with custom text using a wide variety of images.
+Gallery
+The public Imgur gallery is a collection of the most viral images from around the web based on an algorithm that computes views, shares and votes based on time. As opposed to private account uploads, images added to the gallery are publicly searchable by title. Members of the Imgur community can vote and comment on the images, earning reputation points and trophies. Images from the gallery are often later posted to social news sites such as Huffington Post. Random mode was released on July 30, 2012, and allows users to browse the entire history of the public gallery randomly.
+GIFV
+Since October 2014, Imgur had automatically converted uploaded animated GIF files into WebM and MP4 video files, which are much smaller.
+Video to GIF
+In January 2015, Imgur allowed users to link video URLs to create GIFs directly through the website.
+Topics
+In February 2015 Imgur announced "Topics" which was a way for users to sort and view specific images that belonged to a specific group determined by tags.
+Mobile apps
+In March and June 2015 Imgur introduced official mobile apps for iOS and Android, respectively.
+Trophies
+In order to reward users for their interactions, Imgur provides a series of Trophies for achievements including being a member for 1, 2, 3, 4, 5 or 6 years, "Best Post of the Day", "Best Post of the Month", "Best Post of the Year", "Top Comment of The Day", "Top Comment of The Month", and "Top Comment of The Year".
+Community
+At the beginning of 2015, Imgur's director of community Sarah Schaaf announced its first ever "Camp Imgur". Five hundred tickets were sold at $150 each. The camp was created as a celebratory event to bring users of the site together in August 2015, on a four-day retreat at Camp Navarro in Mendocino, California. It included hiking, stand-up comedians, and meetings with the staff of Imgur and other users.
+Imgur's community members include former Mythbuster Adam Savage and Olympic athlete Cody Miller.
+Data breach
+On November 23, 2017, Imgur was notified of a potential security breach that had occurred in 2014 and affected the email addresses and passwords of 1.7 million user accounts. On November 24, 2017, Imgur began notifying affected users via their registered email address to change their password.

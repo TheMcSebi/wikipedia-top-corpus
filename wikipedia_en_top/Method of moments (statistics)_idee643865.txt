@@ -1,0 +1,27 @@
+Method of moments (statistics)
+In statistics, the method of moments is a method of estimation of population parameters. The same principle is used to derive higher moments like skewness and kurtosis.
+It starts by expressing the population moments (i.e., the expected values of powers of the random variable under consideration) as functions of the parameters of interest. Those expressions are then set equal to the sample moments. The number of such equations is the same as the number of parameters to be estimated. Those equations are then solved for the parameters of interest. The solutions are estimates of those parameters.  
+The method of moments was introduced by Pafnuty Chebyshev in 1887 in the proof of the central limit theorem. The idea of matching empirical moments of a distribution to the population moments dates back at least to Pearson.
+Method
+Suppose that the problem is to estimate $MATH$ unknown parameters $MATH$ characterizing the distribution $MATH$ of the random variable $MATH$. Suppose the first $MATH$ moments of the true distribution (the "population moments") can be expressed as functions of the  $MATH$s:
+Suppose a sample of size $MATH$ is drawn, resulting in the values $MATH$. For $MATH$, let 
+be the j-th sample moment, an estimate of $MATH$. The method of moments estimator for $MATH$  denoted by $MATH$ is defined as the solution (if there is one) to the equations:
+Advantages and disadvantages
+The method of moments is fairly simple and yields consistent estimators (under very weak assumptions), though these estimators are often biased.
+It is an alternative to the method of maximum likelihood.
+However, in some cases the likelihood equations may be intractable without computers, whereas the method-of-moments estimators can be computed much more quickly and easily. Due to easy computability, method-of-moments estimates may be used as the first approximation to the solutions of the likelihood equations, and successive improved approximations may then be found by the Newton–Raphson method.  In this way the method of moments can assist in finding maximum likelihood estimates.
+In some cases, infrequent with large samples but not so infrequent with small samples, the estimates given by the method of moments are outside of the parameter space (as shown in the example below); it does not make sense to rely on them then.  That problem never arises in the method of maximum likelihood.  Also, estimates by the method of moments are not necessarily sufficient statistics, i.e., they sometimes fail to take into account all relevant information in the sample.
+When estimating other structural parameters (e.g., parameters of a utility function, instead of parameters of a known probability distribution), appropriate probability distributions may not be known, and moment-based estimates may be preferred to maximum likelihood estimation.
+Examples
+An example application of the method of moments is to estimate polynomial probability density distributions. In this case, an approximate polynomial of order $MATH$ is defined on an interval $MATH$. The  method of moments then yields a system of equations, whose solution involves the inversion of a Hankel matrix.
+Proving the central limit theorem
+
+Let $MATH$ be independent random variables with mean 0 and variance 1, then let $MATH$. We can compute the moments of $MATH$ as
+Explicit expansion shows that
+where the numerator is the number of ways to select $MATH$ distinct pairs of balls by picking one each from $MATH$ buckets, each containing balls numbered from $MATH$ to $MATH$. At the $MATH$ limit, all moments converge to that of a standard normal distribution. More analysis then show that this convergence in moments imply a convergence in distribution. 
+Essentially this argument was published by Chebyshev in 1887.
+Uniform distribution
+Consider the uniform distribution on the interval $MATH$, $MATH$. If $MATH$ then we have
+Solving these equations gives
+Given a set of samples $MATH$ we can use the sample moments $MATH$ and $MATH$ in these formulae in order to estimate $MATH$ and $MATH$.
+Note, however, that this method can produce inconsistent results in some cases. For example, the set of samples $MATH$ results in the estimate $MATH$ even though $MATH$ and so it is impossible for the set $MATH$ to have been drawn from $MATH$ in this case.

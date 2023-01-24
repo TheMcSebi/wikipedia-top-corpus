@@ -1,0 +1,27 @@
+Shear modulus
+In materials science, shear modulus or modulus of rigidity, denoted by G, or sometimes S or μ, is a measure of the elastic shear stiffness of a material and is defined as the ratio of shear stress to the shear strain:
+where 
+The derived SI unit of shear modulus is the pascal (Pa), although it is usually expressed in gigapascals (GPa) or in thousand pounds per square inch (ksi). Its dimensional form is M1L−1T−2, replacing force by mass times acceleration.
+Explanation
+The shear modulus is one of several quantities for measuring the stiffness of materials. All of them arise in the generalized Hooke's law:
+These moduli are not independent, and for isotropic materials they are connected via the equations
+The shear modulus is concerned with the deformation of a solid when it experiences a force parallel to one of its surfaces while its opposite face experiences an opposing force (such as friction). In the case of an object shaped like a rectangular prism, it will deform into a parallelepiped. Anisotropic materials such as wood, paper and also essentially all single crystals exhibit differing material response to stress or strain when tested in different directions. In this case, one may need to use the full tensor-expression of the elastic constants, rather than a single scalar value.
+One possible definition of a fluid would be a material with zero shear modulus.
+Shear waves
+In homogeneous and isotropic solids, there are two kinds of waves, pressure waves and shear waves. The velocity of a shear wave, $MATH$ is controlled by the shear modulus, 
+where 
+Shear modulus of metals
+The shear modulus of metals is usually observed to decrease with increasing temperature. At high pressures, the shear modulus also appears to increase with the applied pressure. Correlations between the melting temperature, vacancy formation energy, and the shear modulus have been observed in many metals.
+Several models exist that attempt to predict the shear modulus of metals (and possibly that of alloys). Shear modulus models that have been used in plastic flow computations include:
+MTS model
+The MTS shear modulus model has the form:
+where $MATH$ is the shear modulus at $MATH$, and $MATH$ and $MATH$ are material constants.
+SCG model
+The Steinberg-Cochran-Guinan (SCG) shear modulus model is pressure dependent and has the form
+where, μ0 is the shear modulus at the reference state (T = 300 K, p = 0, η = 1), p is the pressure, and T is the temperature.
+NP model
+The Nadal-Le Poac (NP) shear modulus model is a modified version of the SCG model. The empirical temperature dependence of the shear modulus in the SCG model is replaced with an equation based on Lindemann melting theory. The NP shear modulus model has the form:
+where
+and μ0 is the shear modulus at absolute zero and ambient pressure, ζ is a area, m is the atomic mass, and f is the Lindemann constant.
+Shear relaxation modulus
+The shear relaxation modulus $MATH$ is the time-dependent generalization of the shear modulus $MATH$:

@@ -1,0 +1,17 @@
+Nehalem (microarchitecture)
+Nehalem /nəˈheɪləm/ is the codename for Intel's 45 nm microarchitecture released in November 2008. It was used in the first-generation of the Intel Core i5 and i7 processors, and succeeds the older Core microarchitecture used on Core 2 processors. The term "Nehalem" comes from the Nehalem River.
+Nehalem is built on the 45 nm process, is able to run at higher clock speeds, and is more energy-efficient than Penryn microprocessors. Hyper-threading is reintroduced, along with a reduction in L2 cache size, as well as an enlarged L3 cache that is shared among all cores. Nehalem is an architecture that differs radically from Netburst, while retaining some of the latter's minor features.
+Nehalem later received a die-shrink to 32 nm with Westmere, and was fully succeeded by "second-generation" Sandy Bridge in January 2011.
+Technology
+Performance and power improvements
+It has been reported that Nehalem has a focus on performance, thus the increased core size.
+Compared to Penryn, Nehalem has:
+Overclocking is possible with Bloomfield processors and the X58 chipset. Lynnfield processors use a PCH removing the need for a northbridge.
+Nehalem processors incorporate SSE 4.2 SIMD instructions, adding seven new instructions to the SSE 4.1 set in the Core 2 series. The Nehalem architecture reduces atomic operation latency by 50% in an attempt to eliminate overhead on atomic operations such as the LOCK CMPXCHG compare-and-swap instruction.
+Variants
+
+
+Server and desktop processors
+See also
+References
+Further reading

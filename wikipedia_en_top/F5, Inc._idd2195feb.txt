@@ -1,0 +1,30 @@
+F5, Inc.
+F5, Inc. is an American technology company specializing in application security, multi-cloud management, online fraud prevention, application delivery networking (ADN), application availability & performance, network security, and access & authorization.
+F5 is headquartered in Seattle, Washington in F5 Tower, with an additional 75 offices in 43 countries focusing on account management, global services support, product development, manufacturing, software engineering, and administrative jobs. Notable office locations include Spokane, Washington; New York, New York; Boulder, Colorado; London, England; San Jose, California; and San Francisco, California.
+F5's originally offered application delivery controller (ADC) technology, but  expanded into application layer, automation, multi-cloud, and security services. As ransomware, data leaks, DDoS, and other attacks on businesses of all sizes are arising, companies such as F5 have continued to reinvent themselves. While the majority of F5's revenue continues to be attributed to their hardware products such as the BIG-IP iSeries systems, the company has begun to offer additional modules on their proprietary operating system, TMOS (Traffic Management Operating System.)  These modules are listed below and include, but are not limited to, Local Traffic Manager (LTM), Advanced Web Application Firewall (AWAF), DNS (previously named GTM), and Access Policy Manager (APM). These offer organizations running the BIG-IP the ability to deploy load balancing, Layer 7 application firewalls, single sign-on (for Azure AD, Active Directory, LDAP, and Okta), as well as enterprise-level VPNs. While the BIG-IP was traditionally a hardware product, F5 now offers it as a virtual machine, which they have branded as the BIG-IP Virtual Edition. The BIG-IP Virtual Edition is cloud agnostic and can be deployed on-premises in a public and/or hybrid cloud environment.
+F5's customers include Microsoft, Oracle, Alaska Airlines, Tesla, and Meta.
+Corporate history
+F5, Inc., originally named "F5 Labs" and formerly branded "F5 Networks, Inc." was established in 1996. Currently, the company's public facing branding generally presents the company as just "F5."
+In 1997, F5 launched its first product, a load balancer called BIG-IP. BIG-IP served the purpose of reallocating server traffic away from overloaded servers. In June 1999, the company had its initial public offering and was listed on the NASDAQ stock exchange with symbol FFIV.
+In 2017, François Locoh-Donou replaced John McAdam as president and CEO. Later in 2017, F5 launched a dedicated site and organization focused on gathering global threat intelligence data, analyzing application threats, and publishing related findings, dubbed “F5 Labs” in a nod to the company's history. The team continues to research application threats and publish findings every week. On May 3, 2017, F5 announced that it would move from its longtime headquarters on the waterfront near Seattle Center to a downtown Seattle skyscraper that will be called F5 Tower. The move occurred in early 2019.
+F5 employees include Igor Sysoev, the author of NGINX; Dahl-Nygaard laureate Gilad Bracha; Google click fraud czar Shuman Ghosemajumder; and Defense.Net founder Barrett Lyon.
+48 of the Fortune 50 companies use F5 for load balancing, Layer 7 application security, fraud prevention, and API management.
+Product Offerings
+F5 BIG-IP
+F5's BIG-IP product family comprises hardware, modularized software, and virtual appliances that run the F5 TMOS operating system.  Depending on the appliance selected, one or more BIG-IP product modules can be added.
+BIG-IP History
+On September 7, 2004, F5 Networks released version 9.0 of the BIG-IP software in addition to appliances to run the software. Version 9.0 also marked the introduction of the company's TMOS architecture, with enhancements including:
+In late 2021, F5 introduced the next-generation of their BIG-IP hardware platforms, the rSeries and VELOS chassis platform. These next-generation systems will replace the previous generation iSeries and VIPRION chassis system.
+F5 NGINX
+As a part of the NGINX, Inc. acquisition in 2019, F5 offers a premium, enterprise-level version of NGINX with advanced features, multiple support SLAs, and regular software updates. Hourly and annual subscription options are available with multiple levels of support, professional services, and training.
+F5 Distributed Cloud Services
+During F5 Agility 2022, F5 announced a new product offering being built on the platforms of BIG-IP, Shape Security, and Volterra. The first new product available to the market will be the SaaS-based Web Application and API Protection (WAAP) solution. F5 Distributed Cloud Services are SaaS-based security, networking, and application management services that enable customers to deploy, secure, and operate their applications in a cloud-native environment wherever needed–data center, multi-cloud, or the network or enterprise edge.
+Acquisitions
+NGINX, Inc.
+In March 2019, F5 acquired NGINX, Inc., the company responsible for widely used open-source web server software, for $670 million.
+Shape Security, Inc.
+In January 2020, F5 acquired Shape Security, Inc., an artificial intelligence-based bot detection company, for $1 billion. It also sells products to protect applications against fraud. The previous Shape Security-branded solutions are now included in F5 Distributed Cloud Services. 
+Volterra, Inc.
+In January 2021, F5 acquired Volterra, Inc., an edge networking company, for $500 million. It sells SaaS security services. The previous Volterra-branded solutions are now included in F5 Distributed Cloud Services.
+Threat Stack, Inc.
+In October 2021, F5 acquired Threat Stack, Inc., a Boston cloud computing security startup company for a reported $68 million. As of December 15, 2022, the previous Threat Stack offering has been rolled into the F5 Distributed Cloud platform as the Application Infrastructure Protection feature.

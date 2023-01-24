@@ -1,0 +1,63 @@
+Index of Economic Freedom
+The Index of Economic Freedom is an annual index and ranking created in 1995 by The Heritage Foundation and The Wall Street Journal to measure the degree of economic freedom in the world's nations. The creators of the index claim to take an approach inspired by that of Adam Smith in The Wealth of Nations, that "basic institutions that protect the liberty of individuals to pursue their own economic interests result in greater prosperity for the larger society".
+Purpose
+The Heritage Foundation website states that "Economic freedom is the fundamental right of every human to control his or her own labor and property. In an economically free society, individuals are free to work, produce, consume, and invest in any way they please. In economically free societies, governments allow labor, capital, and goods to move freely, and refrain from coercion or constraint of liberty beyond the extent necessary to protect and maintain liberty itself." By publishing yearly reports the foundation attempts to highlight where such freedoms do and don't exist.
+The Heritage Foundation reports that the top 20% on the index have twice the per capita income of those in the second quintile, and five times that of the bottom 20%. Carl Schramm, who wrote the first chapter of the 2008 Index, states that cities of Medieval Italy and mid-19th century Midwestern American cities all flourished to the degree they possessed economic fluidity and institutional adaptiveness created by economic freedom.
+According to Will Wilkinson of the libertarian think tank Cato Institute, studies show that higher economic freedom correlates strongly with higher self-reported happiness. According to economists Tomi Ovaska and Ryo Takashima, economic freedom research suggests "that people unmistakably care about the degree to which the society where they live provides them opportunities and the freedom to undertake new projects, strongly with and make choices based on one's personal preferences."
+According to the Cato Institute, higher economic freedom promotes participation and collaboration. Also claimed is that higher economic freedom is extremely significant in preventing wars; according to their calculations, freedom is around 54 times more effective than democracy (as measured by Democracy Score) in diminishing violent conflict.
+Ratings
+Since the creation of the index in 1995, the score for world economic freedom has increased, rising 2.6 points up to 2008. In 2011 the score had decreased from the 2008 score of 60.2 to 59.7, which represents an increase of 2.2 points since 1995. The Economic Freedom score improved for 117 countries, the majority of countries included in the index, which were mainly developing and emerging market economies. With the exception of Europe and North America, there were increased levels of freedom recorded in all regions, with the greatest improvement shown in Sub-Saharan Africa. The top five "free" economies identified by the 2011 index were Hong Kong, Singapore, Australia, New Zealand, and Switzerland, each scoring over 80 on the economic freedom grading scale. Since the Index was created in 1995, Hong Kong has been the top performing economy.
+In 2011, the United States dropped to 9th place behind such countries as Denmark, Canada, and first-place Hong Kong. The Heritage Foundation has pointed to increases in government spending as the reason for the United States' decline, and according to data from the 2011 index, the growth rates of countries with the highest levels of government spending were 4.5 points lower, on average, than countries where government spending was under control. In their "Executive Highlights" of index results, the Heritage Foundation stated that  "high levels of government spending in response to the global economic turmoil have not resulted in higher economic growth".
+The results from the 2012 index showed an overall decline in global economic freedom; according to The Heritage Foundation, the average score in its ranking was the second lowest of the last ten years. In particular, the U.S. dropped to 10th place in the ranking, and has now fallen three places since 2008, when it was 7th. A report issued by the Foundation stated that government spending was the cause of the decline, and had "not only failed to arrest the economic crisis, but also - in many countries - seems to be prolonging it". According to the report, activity in the private sector is threatened by the greater government spending, which has increased public debt and led to more bureaucracy.
+Countries that shared the same rank received a tie score.
+Reception
+According to the Freedom House, "there is a high and statistically significant correlation between the level of political freedom as measured by Freedom House and economic freedom as measured by the Wall Street Journal/Heritage Foundation survey." The Millennium Challenge Account, a U.S. government foreign aid program, has used the Trade freedom indicator in determining which countries will receive their performance-based compacts.
+Critics such as Jeffrey Sachs have contested the Index's assumption that economic openness necessarily leads to better growth. In his book The End of Poverty, Sachs graphed countries' ratings on the index against GDP per capita growth between 1995 and 2003, claiming to demonstrate no correlation between a country's rating and its rate of economic growth. Sachs pointed out, as examples, that countries with good ratings such as Switzerland and Uruguay had sluggish economic performances, others, like China, with poorer rating had very strong economic growth.
+The UAE questioned the rating of their country's economic freedom in 2008, comparing its middling rating with the high rating they had received from other indicators such as Transparency International and Moody's. They also argued that the report is "unreliable", because its methodology had changed twice in the last two years.
+Stefan Karlsson of the Ludwig von Mises Institute challenged the usefulness of the index due to the fuzziness of many of the categories used to determine freedom. John Miller roundly criticizes the "Index", writing in Dollars & Sense, "In the hands of the Wall Street Journal and the Heritage Foundation, Washington's foremost right-wing think tank, however, an economic freedom index merely measures corporate and entrepreneurial freedom from accountability. Upon examination, the index turns  out to be a poor barometer of either freedom more broadly construed or of prosperity." According to Left Business Observer, growth in Index accounts for 10% of the variation in the growth of GDP.
+Methodology
+The index evaluates 177 countries in four broad policy areas that affect the economic freedom, which are rule of law, government size, regulatory efficiency and open markets. It also takes into consideration some specific categories like property rights, judicial effectiveness, government integrity and tax burden. The ranking scores aspects of economic freedom between 0 and 100, with 0 meaning "no economic freedom" and 100 meaning "total economic freedom". There are twelve aspects divided into four categories.
+Property rights
+Degree of a country's legal protection of private property rights and degree of enforcement of those laws. It is divided into the following sub-factors:
+Judicial effectiveness
+Degree of the judiciary's efficiency and fairness, especially dealing with property laws. It is divided into the following sub-factors:
+Government integrity
+Analyzes how prevalent are forms of political corruption and practices such as bribery, extortion, nepotism, cronyism, patronage, embezzlement, and graft. It is divided into the following sub-factors: 
+Tax burden
+Analyzes marginal tax rates on personal and corporate income and the overall taxation level (including direct and indirect taxes imposed by all levels of government) as a percentage of the GDP. Its sub-factors are:
+Government spending
+Quantifies the burden of government expenditures, including consumption by the state and all transfer payments related to various welfare programs. The ideal level varies from country to country, but zero expenditure is used as a benchmark.
+Fiscal health
+Analyzes how well a country manages its budget by quantifying the growing debt and deficit. It is divided into the following sub-factors: 
+Business freedom
+Analyzes the cost, time and freedom to open, operate and close a business, taking into consideration factors like electricity. It is divided into thirteen sub-factors:
+Labor freedom
+Quantifies the intrusiveness of labor rights such as minimum wage, laws inhibiting layoffs, severance requirements, and measurable regulatory restraints on hiring and hours worked, plus the labor force participation rate as an indicative measure of employment opportunities in the labor market. It is divided into the following sub-factors:
+Monetary freedom
+Analyzes how stable are prices and how much microeconomy intervenes. It is divided into the following sub-factors:
+Trade freedom
+Quantifies the extent to which tariff and nontariff barriers affect imports and exports of goods and services into and out of the country. Its sub-factors are:
+Investment freedom
+Analyzes how free or constrained is the flow of investment capital of individuals and firms.
+Financial freedom
+Indicates banking efficiency as well as how independent the government is from the financial sector. This aspect looks at five broad areas:
+Previous methodology
+The Index's 2008 definition of economic freedom is "the highest form of economic freedom provides an absolute right of property ownership, fully realized freedoms of movement for labor, capital, and goods, and an absolute absence of coercion or constraint of economic liberty beyond the extent necessary for citizens to protect and maintain liberty itself."
+The index scores nations on ten factors of economic freedom, separated into four categories, using statistics from organizations like the World Bank, the International Monetary Fund, Economist Intelligence Unit and Transparency International. In each factor, countries are scored 0 to 100, with 0 being the least free and 100 the most free. A score of 100 signifies an economic environment or set of policies that is most conducive to economic freedom. The methodology has shifted and changed as new data and measurements have become available, especially in the area of Labor Freedom, which was given its own indicator spot in 2007. The following list explains what each factor currently assesses and groups them according to their respective category:
+Rankings and scores
+2022
+Key: ██ Free (80–100)
+██ Mostly Free (70–79.9)
+██ Moderately Free (60–69.9)
+██ Mostly Unfree (50–59.9)
+██ Repressed (0–49.9)
+Not ranked
+2013–2020
+Key: ██ Free (80–100)
+██ Mostly Free (70.0–79.9)
+██ Moderately Free (60.0–69.9)
+██ Mostly Unfree (50.0–59.9)
+██ Repressed (0–49.9)
+2020 scores by aspects of economic freedom
+Key: ██ Free (80–100) ██ Mostly Free (70.0–79.9) ██ Moderately Free (60.0–69.9) ██ Mostly Unfree (50.0–59.9) ██ Repressed (0–49.9)
+1995–2008 rankings

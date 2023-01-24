@@ -1,0 +1,32 @@
+Binomial series
+In mathematics, the binomial series is a generalization of the polynomial that comes from a binomial formula expression like $MATH$ for a nonnegative integer $MATH$.  Specifically, the binomial series is the Taylor series for the function $MATH$ centered at $MATH$, where $MATH$ and $MATH$. Explicitly,
+where the power series on the right-hand side of (1) is expressed in terms of the (generalized) binomial coefficients
+Special cases
+If α is a nonnegative integer n, then the (n + 2)th term and all later terms in the series are 0, since each contains a factor (n − n); thus in this case the series is finite and gives the algebraic binomial formula.
+Closely related is the negative binomial series defined by the Taylor series for the function $MATH$ centered at $MATH$, where $MATH$ and $MATH$. Explicitly,
+which is written in terms of the multiset coefficient
+Convergence
+Conditions for convergence
+Whether (1) converges depends on the values of the complex numbers α and x. More precisely:
+In particular, if $MATH$ is not a non-negative integer, the situation at the boundary of the disk of convergence, $MATH$, is summarized as follows:
+Identities to be used in the proof
+The following hold for any complex number α:
+Unless $MATH$ is a nonnegative integer (in which case the binomial coefficients vanish as $MATH$ is larger than $MATH$), a useful asymptotic relationship for the binomial coefficients is, in Landau notation:
+This is essentially equivalent to Euler's definition of the Gamma function:
+and implies immediately the coarser bounds
+for some positive constants m and M .
+Formula (2) for the generalized binomial coefficient can be rewritten as
+Proof
+To prove (i) and (v), apply the ratio test and use formula (2) above to show that whenever $MATH$ is not a nonnegative integer, the radius of convergence is exactly 1.  Part (ii) follows from formula (5), by comparison with the p-series
+with $MATH$. To prove (iii), first use formula (3) to obtain
+and then use (ii) and formula (5) again to prove convergence of the right-hand side when $MATH$ is assumed. On the other hand, the series does not converge if $MATH$ and $MATH$, again by formula (5). Alternatively, we may observe that for all $MATH$, $MATH$. Thus, by formula (6), for all $MATH$. This completes the proof of (iii). Turning to (iv), we use identity (7) above with $MATH$ and $MATH$ in place of $MATH$, along with formula (4), to obtain
+as $MATH$. Assertion (iv) now follows from the asymptotic behavior of the sequence $MATH$. (Precisely, $MATH$
+certainly converges to $MATH$ if $MATH$ and diverges to $MATH$ if $MATH$. If $MATH$, then $MATH$ converges if and only if the sequence $MATH$ converges $MATH$, which is certainly true if $MATH$ but false if $MATH$: in the latter case the sequence is dense $MATH$, due to the fact that $MATH$ diverges and $MATH$ converges to zero).
+Summation of the binomial series
+The usual argument to compute the sum of the binomial series goes as follows. Differentiating term-wise the binomial series within the disk of convergence |x| < 1 and using formula (1), one has that the sum of the series is an analytic function solving the ordinary differential equation (1 + x)u'(x) = αu(x) with initial data u(0) = 1. The unique solution of this problem is the function u(x) = (1 + x)α, which is therefore the sum of the binomial series, at least for |x| < 1. The equality extends to |x| = 1 whenever the series converges, as a consequence of Abel's theorem and by continuity of (1 + x)α.
+History
+The first results concerning binomial series for other than positive-integer exponents were given by Sir Isaac Newton in the study of areas enclosed under certain curves. John Wallis built upon this work by considering expressions of the form y = (1 − x2)m where m is a fraction. He found that (written in modern terms) the successive coefficients ck of (−x2)k are to be found by multiplying the preceding coefficient by m − (k − 1)/k (as in the case of integer exponents), thereby implicitly giving a formula for these coefficients. He explicitly writes the following instances
+The binomial series is therefore sometimes referred to as Newton's binomial theorem. Newton gives no proof and is not explicit about the nature of the series. Later, on 1826 Niels Henrik Abel discussed the subject in a paper published on Crelle's Journal, treating notably questions of convergence. 
+See also
+Footnotes
+Notes

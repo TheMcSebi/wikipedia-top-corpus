@@ -1,0 +1,36 @@
+Phosphorus trichloride
+
+
+Phosphorus trichloride is an inorganic compound with the chemical formula PCl3. A colorless liquid when pure, it is an important industrial chemical, being used for the manufacture of phosphites and other organophosphorus compounds. It is toxic and reacts readily with water to release hydrogen chloride.
+History
+Phosphorus trichloride was first prepared in 1808 by the French chemists Joseph Louis Gay-Lussac and Louis Jacques Thénard by heating calomel (Hg2Cl2) with phosphorus.  Later during the same year, the English chemist Humphry Davy produced phosphorus trichloride by burning phosphorus in chlorine gas.
+Preparation
+World production exceeds one-third of a million tonnes. Phosphorus trichloride is prepared industrially by the reaction of chlorine with white phosphorus, using phosphorus trichloride as the solvent. In this continuous process PCl3 is removed as it is formed in order to avoid the formation of PCl5.
+Structure and spectroscopy
+It has a trigonal pyramidal shape.  Its 31P NMR spectrum exhibits a singlet around +220 ppm with reference to a phosphoric acid standard.
+Reactions
+The phosphorus in PCl3 is often considered to have the +3 oxidation state and the chlorine atoms are considered to be in the −1 oxidation state.  Most of its reactivity is consistent with this description.
+Oxidation
+PCl3 is a precursor to other phosphorus compounds, undergoing oxidation to phosphorus pentachloride (PCl5), thiophosphoryl chloride (PSCl3), or phosphorus oxychloride (POCl3).
+PCl3 as an electrophile
+Phosphorus trichloride is the precursor to organophosphorus compounds that contain one or more P(III) atoms, most notably phosphites and phosphonates. These compounds do not usually contain the chlorine atoms found in PCl3.
+PCl3 reacts vigorously with water to form phosphorous acid (H3PO3) and hydrochloric acid:
+A large number of similar substitution reactions are known, the most important of which is the formation of phosphites by reaction with alcohols and phenols. For example, with phenol, triphenyl phosphite is formed:
+where "Ph" stands for the phenyl group, -C6H5. Alcohols such as ethanol react similarly in the presence of a base such as a tertiary amine:
+In the absence of base, however, the reaction proceeds with the following stoichiometry to give diethylphosphite:
+Secondary amines (R2NH) form aminophosphines.  For example, bis(diethylamino)chlorophosphine, (Et2N)2PCl, is obtained from diethylamine and PCl3.  Thiols (RSH) form P(SR)3.  An industrially relevant reaction of PCl3 with amines is phosphonomethylation, which employs formaldehyde:
+Aminophosphonates are widely used as sequestering and antiscale agents in water treatment. The large volume herbicide glyphosate is also produced this way. The reaction of PCl3 with Grignard reagents and organolithium reagents is a useful method for the preparation of organic phosphines with the formula R3P (sometimes called phosphanes) such as triphenylphosphine, Ph3P.
+Under controlled conditions or especially with bulky organic groups, similar reactions afford less substituted derivatives such as chlorodiisopropylphosphine.
+PCl3 as a nucleophile
+Phosphorus trichloride has a lone pair, and therefore can act as a Lewis base, e.g., forming a 1:1 adduct Br3B-PCl3.  Metal complexes such as Ni(PCl3)4 are known, again demonstrating the ligand properties of PCl3.
+This Lewis basicity is exploited in the Kinnear–Perren reaction to prepare alkylphosphonyl dichlorides (RP(O)Cl2) and alkylphosphonate esters (RP(O)(OR')2).  Alkylation of phosphorus trichloride is effected in the presence of aluminium trichloride give the alkyltrichlorophosphonium salts, which are versatile intermediates:
+The RPCl+3 product can then be decomposed with water to produce an alkylphosphonic dichloride RP(=O)Cl2.
+PCl3 as a ligand
+PCl3, like the more popular phosphorus trifluoride, is a ligand in coordination chemistry.  One example is Mo(CO)5PCl3.
+Uses
+PCl3 is important indirectly as a precursor to PCl5, POCl3 and PSCl3, which are used in many applications, including herbicides, insecticides, plasticisers, oil additives, and flame retardants.
+For example, oxidation of PCl3 gives POCl3, which is used for the manufacture of triphenyl phosphate and tricresyl phosphate, which find application as flame retardants and plasticisers for PVC.  They are also used to make insecticides such as diazinon. Phosphonates include the herbicide glyphosate.
+PCl3 is the precursor to triphenylphosphine for the Wittig reaction, and phosphite esters which may be used as industrial intermediates, or used in the Horner-Wadsworth-Emmons reaction, both important methods for making alkenes. It can be used to make trioctylphosphine oxide (TOPO), used as an extraction agent, although TOPO is usually made via the corresponding phosphine.
+PCl3 is also used directly as a reagent in organic synthesis. It is used to convert primary and secondary alcohols into alkyl chlorides, or carboxylic acids into acyl chlorides, although thionyl chloride generally gives better yields than PCl3.
+Safety
+Industrial production of phosphorus trichloride is controlled under the Chemical Weapons Convention, where it is listed in schedule 3, as it can be used to produce mustard agents.

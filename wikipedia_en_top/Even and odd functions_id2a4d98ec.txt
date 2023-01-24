@@ -1,0 +1,58 @@
+Even and odd functions
+In mathematics, even functions and odd functions are functions which satisfy particular symmetry relations, with respect to taking additive inverses. They are important in many areas of mathematical analysis, especially the theory of power series and Fourier series. They are named for the parity of the powers of the power functions which satisfy each condition: the function $MATH$ is an even function if n is an even integer, and it is an odd function if n is an odd  integer.
+Definition and examples
+Evenness and oddness are generally considered for real functions, that is real-valued functions of a real variable. However, the concepts may be more generally defined for functions whose domain and codomain both have a notion of additive inverse. This includes abelian groups, all rings, all fields, and all vector spaces. Thus, for example, a real function could be odd or even (or neither), as could a complex-valued function of a vector variable, and so on.
+The given examples are real functions, to illustrate the symmetry of their graphs.
+Even functions
+Let f be a real-valued function of a real variable. Then f is even if the following equation holds for all x such that x and −x are in the domain of f:: p. 11 
+or equivalently if the following equation holds for all such x:
+Geometrically, the graph of an even function is symmetric with respect to the y-axis, meaning that its graph remains unchanged after reflection about the y-axis.
+Examples of even functions are:
+Odd functions
+Again, let f be a real-valued function of a real variable. Then f is odd if the following equation holds for all x such that x and −x are in the domain of f:: p. 72 
+or equivalently if the following equation holds for all such x:
+Geometrically, the graph of an odd function has rotational symmetry with respect to the origin, meaning that its graph remains unchanged after rotation of 180 degrees about the origin.
+Examples of odd functions are:
+Basic properties
+Uniqueness
+Addition and subtraction
+Multiplication and division
+Composition
+Even–odd decomposition
+Every function may be uniquely decomposed as the sum of an even and an odd function, which are called respectively the even part and the odd part of the function; if one defines
+and
+then $MATH$ is even, $MATH$ is odd, and
+Conversely, if
+where g is even and h is odd, then $MATH$ and $MATH$  since
+For example, the hyperbolic cosine and the hyperbolic sine may be regarded as the even and odd parts of the exponential function, as the first one is an even function, the second one is odd, and 
+Further algebraic properties
+Analytic properties
+A function's being odd or even does not imply differentiability, or even continuity. For example, the Dirichlet function is even, but is nowhere continuous. 
+In the following, properties involving derivatives, Fourier series, Taylor series, and so on suppose that these concepts are defined of the functions that are considered.
+Basic analytic properties
+Series
+Harmonics
+In signal processing, harmonic distortion occurs when a sine wave signal is sent through a memory-less nonlinear system, that is, a system whose output at time t only depends on the input at time t and does not depend on the input at any previous times. Such a system is described by a response function $MATH$. The type of harmonics produced depend on the response function f:
+Note that this does not hold true for more complex waveforms.  A sawtooth wave contains both even and odd harmonics, for instance.  After even-symmetric full-wave rectification, it becomes a triangle wave, which, other than the DC offset, contains only odd harmonics.
+Generalizations
+Multivariate functions
+Even symmetry:
+A function $MATH$ is called even symmetric if:
+Odd symmetry:
+A function $MATH$ is called odd symmetric if:
+Complex-valued functions
+The definitions for even and odd symmetry for complex-valued functions of a real argument are similar to the real case but involve complex conjugation.
+Even symmetry:
+A complex-valued function of a real argument $MATH$ is called even symmetric if:
+Odd symmetry:
+A complex-valued function of a real argument $MATH$ is called odd symmetric if:
+Finite length sequences
+The definitions of odd and even symmetry are extended to N-point sequences (i.e. functions of the form $MATH$) as follows:: p. 411 
+Even symmetry:
+A N-point sequence is called even symmetric if
+Such a sequence is often called a palindromic sequence; see also Palindromic polynomial.
+Odd symmetry:
+A N-point sequence is called odd symmetric if
+Such a sequence is sometimes called an anti-palindromic sequence; see also Antipalindromic polynomial.
+See also
+Notes

@@ -1,0 +1,13 @@
+Square metre
+The square metre (international spelling as used by the International Bureau of Weights and Measures) or square meter (American spelling) is the unit of area in the International System of Units (SI) with symbol m2. It is the area of a square with sides one metre in length.
+Adding and subtracting SI prefixes creates multiples and submultiples; however, as the unit is exponentiated, the quantities grow exponentially by the corresponding power of 10. For example, 1 kilometre is 103 (one thousand) times the length of 1 metre, but 1 square kilometre is (103)2 (106, one million) times the area of 1 square metre, and 1 cubic kilometre is (103)3 (109, one billion) cubic metres.
+SI prefixes applied
+The square metre may be used with all SI prefixes used with the metre.
+Unicode characters
+Unicode has several characters used to represent metric area units, but these are for compatibility with East Asian character encodings and are not meant to be used in new documents.
+Instead, the Unicode superscript U+00B2 ²  can be used, as in m².
+Conversions
+One square metre is equal to:
+Examples
+See also
+Notes

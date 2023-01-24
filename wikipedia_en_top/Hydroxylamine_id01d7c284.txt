@@ -1,0 +1,49 @@
+Hydroxylamine
+Hydroxylamine is an inorganic compound with the formula NH2OH. The material is a white crystalline, hygroscopic compound. Hydroxylamine is almost always provided and used as an aqueous solution. It is consumed almost exclusively to produce Nylon-6. It is also an intermediate in biological nitrification. The oxidation of NH3 to hydroxylamine is a step in biological nitrification.
+History
+Hydroxylamine was first prepared as hydroxylammonium chloride in 1865 by the German chemist Wilhelm Clemens Lossen (1838-1906); he reacted tin and hydrochloric acid in the presence of ethyl nitrate. It was first prepared in pure form in 1891 by the Dutch chemist Lobry de Bruyn and by the French chemist Léon Maurice Crismer (1858-1944). The coordination complex ZnCl2(NH2OH)2, known as Crismer's salt, releases hydroxylamine upon heating.
+Production
+Hydroxylamine or its salts can be produced via several routes but only two are commercially viable. It is also produced naturally as discussed in a section on biochemistry.
+From nitric oxide
+NH2OH is mainly produced as its hydrogen sulfate by the hydrogenation of nitric oxide over platinum catalysts in the presence of sulfuric acid.
+Raschig process
+Another route to NH2OH is the Raschig process: aqueous ammonium nitrite is reduced by HSO−3 and SO2 at 0 °C to yield a hydroxylamido-N,N-disulfonate anion:
+This anion is then hydrolyzed to give hydroxylammonium sulfate [NH3OH]2SO4:
+Solid NH2OH can be collected by treatment with liquid ammonia. Ammonium sulfate, [NH4]2SO4, a side-product insoluble in liquid ammonia, is removed by filtration; the liquid ammonia is evaporated to give the desired product.
+The net reaction is:
+Hydroxylammonium salts can then be converted to hydroxylamine by neutralization:
+Other methods
+Julius Tafel discovered that hydroxylamine hydrochloride or sulfate salts can be produced by electrolytic reduction of nitric acid with HCl or H2SO4 respectively:
+Hydroxylamine can also be produced by the reduction of nitrous acid or potassium nitrite with bisulfite:
+
+
+Reactions
+Hydroxylamine reacts with electrophiles, such as alkylating agents, which can attach to either the oxygen or the nitrogen atoms:
+The reaction of NH2OH with an aldehyde or ketone produces an oxime.
+This reaction is useful in the purification of ketones and aldehydes: if hydroxylamine is added to an aldehyde or ketone in solution, an oxime forms, which generally precipitates from solution; heating the precipitate with an inorganic acid then restores the original aldehyde or ketone.
+Oximes such as dimethylglyoxime are also employed as ligands.
+NH2OH reacts with chlorosulfonic acid to give hydroxylamine-O-sulfonic acid, a useful reagent for the synthesis of caprolactam.
+The hydroxylamine-O-sulfonic acid, which should be stored at 0 °C to prevent decomposition, can be checked by iodometric titration.
+NH2OH and N-organylhydroxylamines (R–NHOH), can be reduced to ammonia NH3 and amines R−NH2, respectively, where R is an organyl group.
+Hydroxylamine explodes with heat:
+The high reactivity comes in part from the partial isomerisation of the NH2OH to ammonia oxide (also known as azane oxide), with zwitterionic structure NH+3−O−.
+Functional group
+Substituted derivatives of hydroxylamine are known. If the hydroxyl hydrogen is substituted, this is called an O-hydroxylamine, if one of the amine hydrogens is substituted, this is called an N-hydroxylamine. In general N-hydroxylamines are the more common. Similarly to ordinary amines, one can distinguish primary, secondary and tertiary hydroxylamines, the latter two referring to compounds where two or three hydrogens are substituted, respectively. Examples of compounds containing a hydroxylamine functional group are N-tert-butyl-hydroxylamine or the glycosidic bond in calicheamicin. N,O-Dimethylhydroxylamine is a coupling agent, used to synthesize Weinreb amides.
+The most common method for the synthesis of substituted hydroxylamines is the oxidation of an amine with benzoyl peroxide. Some care must be taken to prevent over-oxidation to a nitrone. Other methods include:
+Uses
+Approximately 95% of hydroxylamine is used in the synthesis of cyclohexanone oxime, a precursor to Nylon 6. The treatment of this oxime with acid induces the Beckmann rearrangement to give caprolactam (3). The latter can then undergo a ring-opening polymerization to yield Nylon 6.
+Laboratory uses
+Hydroxylamine and its salts are commonly used as reducing agents in myriad organic and inorganic reactions. They can also act as antioxidants for fatty acids.
+High concentrations of hydroxylamine are used by biologists to introduce mutations by acting as a DNA nucleobase amine-hydroxylating agent. In is thought to mainly act via hydroxylation of cytidine to hydroxyaminocytidine, which is misread as thymidine, thereby inducing C:G to T:A transition mutations. But high concentrations or over-reaction of hydroxylamine in vitro are seemingly able to modify other regions of the DNA & lead to other types of mutations. This may be due to the ability of hydroxylamine to undergo uncontrolled free radical chemistry in the presence of trace metals and oxygen, in fact in the absence of its free radical affects Ernst Freese noted hydroxylamine was unable to induce reversion mutations of its C:G to T:A transition effect & even considered hydroxylamine to be the most specific mutagen known. Practically, it has been largely surpassed by more potent mutagents such as EMS, ENU, or nitrosoguanidine, but being a very small mutagenic compound with high specificity, it found some specialized uses such as mutation of DNA packed within bacteriophage capsids, & mutation of purified DNA in vitro.
+An alternative industrial synthesis of paracetamol developed by Hoechst–Celanese involves the conversion of ketone to a ketoxime with hydroxylamine.
+Some non-chemical uses include removal of hair from animal hides and photographic developing solutions. In the semiconductor industry, hydroxylamine is often a component in the "resist stripper", which removes photoresist after lithography.
+Biochemistry
+In biological nitrification, the oxidation of NH3 to hydroxylamine is mediated by the ammonia monooxygenase (AMO). Hydroxylamine oxidoreductase (HAO) further oxidizes hydroxylamine to nitrite.
+Cytochrome P460, an enzyme found in the ammonia-oxidizing bacteria Nitrosomonas europea, can convert hydroxylamine to nitrous oxide, a potent greenhouse gas.
+Hydroxylamine can also be used to highly selectively cleave asparaginyl-glycine peptide bonds in peptides and proteins. It also bonds to and permanently disables (poisons) heme-containing enzymes. It is used as an irreversible inhibitor of the oxygen-evolving complex of photosynthesis on account of its similar structure to water.
+Safety and environmental concerns
+Hydroxylamine may explode on heating. The nature of the explosive hazard is not well understood. At least two factories dealing in hydroxylamine have been destroyed since 1999 with loss of life. It is known, however, that ferrous and ferric iron salts accelerate the decomposition of 50% NH2OH solutions. Hydroxylamine and its derivatives are more safely handled in the form of salts.
+It is an irritant to the respiratory tract, skin, eyes, and other mucous membranes. It may be absorbed through the skin, is harmful if swallowed, and is a possible mutagen.
+See also
+References
+Further reading

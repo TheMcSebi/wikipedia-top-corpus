@@ -1,0 +1,48 @@
+Rayleigh distribution
+In probability theory and statistics, the Rayleigh distribution is a continuous probability distribution for nonnegative-valued random variables. Up to rescaling, it coincides with the chi distribution with two degrees of freedom.
+The distribution is named after Lord Rayleigh (/ˈreɪli/).
+A Rayleigh distribution is often observed when the overall magnitude of a vector is related to its directional components. One example where the Rayleigh distribution naturally arises is when wind velocity is analyzed in two dimensions.
+Assuming that each component is uncorrelated, normally distributed with equal variance, and zero mean, then the overall wind speed (vector magnitude) will be characterized by a Rayleigh distribution.   
+A second example of the distribution arises in the case of random complex numbers whose real and imaginary components are independently and identically distributed Gaussian with equal variance and zero mean. In that case, the absolute value of the complex number is Rayleigh-distributed.
+Definition
+The probability density function of the Rayleigh  distribution is
+where $MATH$ is the scale parameter of the distribution. The cumulative distribution function is
+for $MATH$
+Relation to random vector length
+Consider the two-dimensional vector $MATH$ which has components that are bivariate normally distributed, centered at zero, and independent.  Then $MATH$ and $MATH$ have density functions
+Let $MATH$ be the length of $MATH$. That is, $MATH$  Then $MATH$ has cumulative distribution function
+where $MATH$ is the disk
+Writing the double integral in polar coordinates, it becomes
+Finally, the probability density function for $MATH$ is the derivative of its cumulative distribution function, which by the fundamental theorem of calculus is
+which is the Rayleigh distribution. It is straightforward to generalize to vectors of dimension other than 2. 
+There are also generalizations when the components have unequal variance or correlations (Hoyt distribution), or when the vector Y follows a bivariate Student t-distribution (see also: Hotelling's T-squared distribution).
+Properties
+The raw  moments are given by:
+where $MATH$ is the gamma function.
+The mean of a  Rayleigh  random variable  is thus :
+The standard deviation of a  Rayleigh  random variable  is:
+The variance   of a  Rayleigh  random variable  is :
+The mode is $MATH$ and the maximum pdf is
+The skewness is given by:
+The excess kurtosis is given by:
+The characteristic function is given by:
+where $MATH$ is the imaginary error function. The moment generating function is given by
+where $MATH$ is the error function.
+Differential entropy
+The differential entropy is given by
+where $MATH$ is the Euler–Mascheroni constant.
+Parameter estimation
+Given a sample of N independent and identically distributed Rayleigh random variables $MATH$ with parameter $MATH$,
+Confidence intervals
+To find the (1 − α) confidence interval, first find the bounds $MATH$ where:
+then the scale parameter will fall within the bounds
+Generating random variates
+Given a random variate U drawn from the uniform distribution in the interval (0, 1), then the variate
+has a Rayleigh distribution with parameter $MATH$. This is obtained by applying the inverse transform sampling-method.
+Related distributions
+Applications
+An application of the estimation of σ can be found in magnetic resonance imaging (MRI). As MRI images are recorded as complex images but most often viewed as magnitude images, the background data is Rayleigh distributed. Hence, the above formula can be used to estimate the noise variance in an MRI image from background data.
+
+The Rayleigh distribution was also employed in the field of nutrition for linking dietary nutrient levels and human and animal responses. In this way, the parameter σ may be used to calculate nutrient response relationship.
+In the field of ballistics, the Rayleigh distribution is used for calculating the circular error probable—a measure of a weapon's precision.
+In physical oceanography, the distribution of significant wave height approximately follows a Rayleigh distribution.

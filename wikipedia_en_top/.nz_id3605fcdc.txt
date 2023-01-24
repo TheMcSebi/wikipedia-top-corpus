@@ -1,0 +1,23 @@
+.nz
+.nz is the Internet country code top-level domain (ccTLD) for New Zealand. It is administered by InternetNZ, with oversight and dispute resolution handled by the Domain Name Commission Limited (DNCL). Registrations are processed via authorised registrars. As of August 2022 there were 747,865 registered .nz domains.
+
+
+History
+As with many long-standing domain registries, the registry was maintained informally for some time. The first formally recognised administrative organisation was the University of Waikato until the responsibility was delegated to InternetNZ when it was formed in 1995.
+Prior to the current structure, the registry operator of .nz was Domainz. Historically, Domainz was a subsidiary of InternetNZ which also operated as a registrar and vendor of other add-on services such as DNS. This combination of a natural monopoly (the registry activities) and vertical integration (the registrar and other services) was seen by some as restricting competition so InternetNZ moved to separate the provision of registry services into a separate organisation with strong oversight.  The final part of this transition process was the sale of Domainz to Melbourne IT in August 2003.
+From 1 April 2008 the "Office of the Domain Name Commissioner" (several employees of InternetNZ, including the Domain Name Commissioner herself) became the "Domain Name Commission Limited", a subsidiary company of InternetNZ.
+
+Registry software and protocol
+The Shared Registry System (SRS) was initially developed in 2002, and provided .nz registry services until November 2022. In January 2004 the source code to the SRS system was released to the public under a GPL license. Since 2010 the SRS also supported the standard Extensible Provisioning Protocol (EPP).
+In September 2019 InternetNZ announced their intent to replace the SRS and that the new system would not include the SRS protocol. The transition to a closed-source commercial registry product provided by the Canadian Internet Registration Authority was completed on the 1st of November, 2022. This transition replaced both the public facing WHOIS service and the APIs used by registrars to interact with the registry.
+Māori domain names
+On 22 July 2010, the Domain Name Commission announced that .nz domain names with macron vowels (ā, ē, ī, ō and ū) would be available from the following week to allow Māori language words to be correctly represented in domain names.
+Second-level domain changes
+Second-level domains
+There are a number of second-level domains that identify whether the user is a company, a non-commercial organisation, government body or other classification.
+In October 2013, InternetNZ decided to allow domain names to be registered at the second level in the .nz domain name space, aligning the .nz domain name space with a majority of other top level domains that already allow registrations directly at the second level. The second level domain names were launched with a sunrise period from 30 September 2014 to 30 March 2015 (to allow people with similar domains to register the shorter version). From 30 March 2015 .nz domain names were available to everyone.
+The early New Zealand second-level domains ac.nz, .co.nz and .govt.nz were based on those used in the UK. At the time it was considered desirable that the names were not in use as first-level domains, so .edu.nz, .com.nz and .gov.nz were rejected. There are also sub-level domains unique to New Zealand, such as iwi.nz for Māori iwi and the broader maori.nz for other Māori organisations, and geek.nz for "geeks".
+The following second-level domains are in use with their official descriptions. Since only some of the domains are moderated, it is possible to register outside the area intended.
+Unmoderated
+Moderated
+Previously used

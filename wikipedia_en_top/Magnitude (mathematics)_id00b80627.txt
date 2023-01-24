@@ -1,0 +1,31 @@
+Magnitude (mathematics)
+In mathematics, the magnitude or size of a mathematical object is a property which determines whether the object is larger or smaller than other objects of the same kind. More formally, an object's magnitude is the displayed result of an ordering (or ranking)—of the class of objects to which it belongs.
+In physics, magnitude can be defined as quantity or distance.
+History
+The Greeks distinguished between several types of magnitude, including:
+They proved that the first two could not be the same, or even isomorphic systems of magnitude. They did not consider negative magnitudes to be meaningful, and magnitude is still primarily used in contexts in which zero is either the smallest size or less than all possible sizes.
+Numbers
+The magnitude of any number $MATH$ is usually called its absolute value or modulus, denoted by $MATH$.
+Real numbers
+The absolute value of a real number r is defined by:
+Absolute value may also be thought of as the number's distance from zero on the real number line. For example, the absolute value of both 70 and −70 is 70.
+Complex numbers
+A complex number z may be viewed as the position of a point P in a 2-dimensional space, called the complex plane. The absolute value (or modulus) of z may be thought of as the distance of P from the origin of that space. The formula for the absolute value of z = a + bi is similar to that for the Euclidean norm of a vector in a 2-dimensional Euclidean space:
+where the real numbers a and b are the real part and the imaginary part of z, respectively. For instance, the modulus of −3 + 4i is $MATH$.  Alternatively, the magnitude of a complex number z may be defined as the square root of the product of itself and its complex conjugate, $MATH$, where for any complex number $MATH$, its complex conjugate is $MATH$. 
+(where $MATH$).
+Vector spaces
+Euclidean vector space
+A Euclidean vector represents the position of a point P in a Euclidean space. Geometrically, it can be described as an arrow from the origin of the space (vector tail) to that point (vector tip). Mathematically, a vector x in an n-dimensional Euclidean space can be defined as an ordered list of n real numbers (the Cartesian coordinates of P): x = [x1, x2, ..., xn]. Its magnitude or length, denoted by $MATH$, is most commonly defined as its Euclidean norm (or Euclidean length):
+For instance, in a 3-dimensional space, the magnitude of [3, 4, 12] is 13 because $MATH$
+This is equivalent to the square root of the dot product of the vector with itself:
+The Euclidean norm of a vector is just a special case of Euclidean distance: the distance between its tail and its tip. Two similar notations are used for the Euclidean norm of a vector x:
+A disadvantage of the second notation is that it can also be used to denote the absolute value of scalars and the determinants of matrices, which introduces an element of ambiguity.
+Normed vector spaces
+By definition, all Euclidean vectors have a magnitude (see above). However, a vector in an abstract vector space does not possess a magnitude.
+A vector space endowed with a norm, such as the Euclidean space, is called a normed vector space. The norm of a vector v in a normed vector space can be considered to be the magnitude of v.
+Pseudo-Euclidean space
+In a pseudo-Euclidean space, the magnitude of a vector is the value of the quadratic form for that vector.
+Logarithmic magnitudes
+When comparing magnitudes, a logarithmic scale is often used. Examples include the loudness of a sound (measured in decibels), the brightness of a star, and the Richter scale of earthquake intensity. Logarithmic magnitudes can be negative, and cannot be added or subtracted meaningfully (since the relationship is non-linear).
+Order of magnitude
+Orders of magnitude denote differences in numeric quantities, usually measurements, by a factor of 10—that is, a difference of one digit in the location of the decimal point.

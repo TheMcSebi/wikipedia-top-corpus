@@ -1,0 +1,48 @@
+Color difference
+In color science, color difference or color distance is the separation between two colors. This metric allows quantified examination of a notion that formerly could only be described with adjectives. Quantification of these properties is of great importance to those whose work is color-critical. Common definitions make use of the Euclidean distance in a device-independent color space.
+Euclidean
+sRGB
+As most definitions of color difference are distances within a color space, the standard means of determining distances is the Euclidean distance. If one presently has an RGB (red, green, blue) tuple and wishes to find the color difference, computationally one of the easiest is to consider R, G, B linear dimensions defining the color space.
+When the result should be computationally simple as well, it is often acceptable to remove the square root and simply use
+This will work in cases when a single color WAS to be compared to a single color and the need is to simply know whether a distance is greater. If these squared color distances are summed, such a metric effectively becomes the variance of the color distances.
+There have been many attempts to weigh RGB values to better fit human perception, where the components are commonly weighted (red 30%, green 59%, and blue 11%), however, these are demonstrably worse at color determinations and are properly the contributions to the brightness of these colors, rather than to the degree to which human vision has less tolerance for these colors. The closer approximations would be more properly (for non-linear sRGB, using a color range of 0–255):
+where:
+One of the better low-cost approximations, sometimes called "redmean", combines the two cases smoothly:
+There are a number of color distance formulae that attempt to use color spaces like HSV with the hue as a circle, placing the various colors within a three-dimensional space of either a cylinder or cone, but most of these are just modifications of RGB; without accounting for differences in human color perception, they will tend to be on par with a simple Euclidean metric.
+Uniform color spaces
+CIELAB and CIELUV are relatively perceptually uniform spaces and they have been used as spaces for Euclidean measures of color difference. The CIELAB version is known as CIE76. However, the non-uniformity of these spaces were later discovered, leading to the creation of more complex formulae.
+A uniform color space is supposed to make a simple measure of color difference, usually Euclidean, "just work". Color spaces that improve on this issue include CAM02-UCS, CAM16-UCS, and Jzazbz.
+Rec. ITU-R BT.2124 or ΔEITP
+In 2019 a new standard for WCG and HDR was introduced, since CIEDE2000 was not adequate for it: CIEDE2000 is not reliable below 1 cd/m2 and has not been verified above 100 cd/m2; in addition, even in BT.709 blue primary CIEDE2000 is underpredicting the error. ΔEITP is scaled so that a value of 1 indicates the potential of a just noticeable color difference. The ΔEITP color difference metric is derived from display referenced ICTCP, but XYZ is also available in the standard. The formula is a simply scaled Euclidean distance:
+where the components of this "ITP" is given by
+Other geometric constructions
+The Euclidean measure is known to work poorly on large color distances (i.e. more than 10 units in most systems). A hybrid approach where a taxicab distance is used between the lightness and the chroma plane, $MATH$, is shown to work better on CIELAB.
+CIELAB ΔE*
+The International Commission on Illumination (CIE) calls their distance metric ΔE* (or, inaccurately, dE*, dE, or "Delta E") where delta is a Greek letter often used to denote difference, and E stands for Empfindung; German for "sensation". Use of this term can be traced back to Hermann von Helmholtz and Ewald Hering.
+Perceptual non-uniformities in the underlying CIELAB color space have led to the CIE refining their definition over the years, leading to the superior (as recommended by the CIE) 1994 and 2000 formulas. These non-uniformities are important because the human eye is more sensitive to certain colors than others. CIELAB metric is used to define color tolerance of CMYK solids. A good metric should take this into account in order for the notion of a "just noticeable difference" (JND) to have meaning. Otherwise, a certain ΔE may be insignificant between two colors in one part of the color space while being significant in some other part.
+All ΔE* formulae are originally designed to have the difference of 1.0 stand for a JND. This convention is generally followed by other perceptual distance functions such as the aforementioned ΔEITP. However, further experimentation may invalidate this design assumption, the revision of CIE76 ΔE*ab JND to 2.3 being an example.
+CIE76
+The 1976 formula is the first formula that related a measured color difference to a known set of CIELAB coordinates. This formula has been succeeded by the 1994 and 2000 formulas because the CIELAB space turned out to be not as perceptually uniform as intended, especially in the saturated regions. This means that this formula rates these colors too highly as opposed to other colors.
+Given two colors in CIELAB color space, $MATH$ and $MATH$, the CIE76 color difference formula is defined as:
+$MATH$ corresponds to a JND (just noticeable difference).
+CIE94
+The 1976 definition was extended to address perceptual non-uniformities, while retaining the CIELAB color space, by the introduction of application-specific weights derived from an automotive paint test's tolerance data.
+ΔE (1994) is defined in the L*C*h* color space with differences in lightness, chroma and hue calculated from L*a*b* coordinates. Given a reference color $MATH$ and another color $MATH$, the difference is
+where
+and where kC and kH are usually both unity, and the weighting factors kL, K1 and K2 depend on the application:
+Geometrically, the quantity $MATH$ corresponds to the arithmetic mean of the chord lengths of the equal chroma circles of the two colors.
+CIEDE2000
+Since the 1994 definition did not adequately resolve the perceptual uniformity issue, the CIE refined their definition, adding five corrections:
+CMC l:c (1984)
+In 1984, the Colour Measurement Committee of the Society of Dyers and Colourists defined a difference measure, also based on the L*C*h color model. Named after the developing committee, their metric is called CMC l:c. The quasimetric has two parameters: lightness (l) and chroma (c), allowing the users to weight the difference based on the ratio of l:c that is deemed appropriate for the application. Commonly used values are 2:1 for acceptability and 1:1 for the threshold of imperceptibility.
+The distance of a color $MATH$ to a reference $MATH$ is:
+CMC l:c is designed to be used with D65 and the CIE Supplementary Observer. As with CIE94, this formula defines a quasimetric because it violates symmetry: parameter T is based on the hue of the reference $MATH$ alone.
+Tolerance
+Tolerancing concerns the question "What is a set of colors that are imperceptibly/acceptably close to a given reference?" If the distance measure is perceptually uniform, then the answer is simply "the set of points whose distance to the reference is less than the just-noticeable-difference (JND) threshold". This requires a perceptually uniform metric in order for the threshold to be constant throughout the gamut (range of colors). Otherwise, the threshold will be a function of the reference color—cumbersome as a practical guide.
+In the CIE 1931 color space, for example, the tolerance contours are defined by the MacAdam ellipse, which holds L* (lightness) fixed. As can be observed on the adjacent diagram, the ellipses denoting the tolerance contours vary in size. It is partly this non-uniformity that led to the creation of CIELUV and CIELAB.
+More generally, if the lightness is allowed to vary, then we find the tolerance set to be ellipsoidal. Increasing the weighting factor in the aforementioned distance expressions has the effect of increasing the size of the ellipsoid along the respective axis.
+See also
+Footnotes
+Notes
+References
+Further reading

@@ -1,0 +1,159 @@
+Tensor product
+In mathematics, the tensor product $MATH$ of two vector spaces V and W (over the same field) is a vector space to which is associated a bilinear map $MATH$ that maps a pair $MATH$ to an element of $MATH$ denoted $MATH$
+An element of the form $MATH$ is called the tensor product of v and w. An element of $MATH$ is a tensor, and the tensor product of two vectors is sometimes called an elementary tensor or a decomposable tensor. The elementary tensors span $MATH$ in the sense that every element of $MATH$ is a sum of elementary tensors. If bases are given for V and W, a basis of $MATH$ is formed by all tensor products of a basis element of V and a basis element of W.
+The tensor product of two vector spaces captures the properties of all bilinear maps in the sense that a bilinear map from $MATH$ into another vector space Z factors uniquely through a linear map $MATH$ (see Universal property).
+Tensor products are used in many application areas, including physics and engineering. For example, in general relativity, the gravitational field is described through the metric tensor, which is a vector field of tensors, one at each point of the space-time manifold, and each belonging to the tensor product with itself of the cotangent space at the point.
+Definitions and constructions
+The tensor product of two vector spaces is a vector space that is defined up to an isomorphism. There are several equivalent ways to define it. Most consist of defining explicitly a vector space that is called a tensor product, and, generally, the equivalence proof results almost immediately from the basic properties of the vector spaces that are so defined. 
+The tensor product can also be defined through a universal property; see § Universal property, below. As for every universal property, all objects that satisfy the property are isomorphic through a unique isomorphism that is compatible with the universal property. When this definition is used, the other definitions may be viewed as constructions of objects satisfying the universal property and as proofs that there are objects satisfying the universal property, that is that tensor products exist.
+From bases
+Let V and W be two vector spaces over a field F, with respective bases $MATH$ and $MATH$
+The tensor product $MATH$ of V and W is a vector space which has as a basis the set of all $MATH$ with $MATH$ and $MATH$ This definition can be formalized in the following way (this formalization is rarely used in practice, as the preceding informal definition is generally sufficient): $MATH$ is the set of the functions from the Cartesian product $MATH$ to F that have a finite number of nonzero values. The pointwise operations make $MATH$ a vector space. The function that maps $MATH$ to 1 and the other elements of $MATH$ to 0 is denoted $MATH$
+The set $MATH$ is straightforwardly a basis of $MATH$ which is called the tensor product of the bases $MATH$ and $MATH$
+The tensor product of two vectors is defined from their decomposition on the bases. More precisely, if 
+are vectors decomposed on their respective bases, then the tensor product of x and y is
+If arranged into a rectangular array, the coordinate vector of $MATH$ is the outer product of the coordinate vectors of x and y. Therefore, the tensor product is a generalization of the outer product.
+It is straightforward to verify that the map $MATH$ is a bilinear map from $MATH$ to $MATH$
+A limitation of this definition of the tensor product is that, if one changes bases, a different tensor product is defined. However, the decomposition on one basis of the elements of the other basis defines a canonical isomorphism between the two tensor products of vector spaces, which allows identifying them. Also, contrarily to the two following alternative definitions, this definition cannot be extended into a definition of the tensor product of modules over a ring.
+As a quotient space
+A construction of the tensor product that is basis independent can be obtained in the following way.
+Let V and W be two vector spaces over a field F. 
+One considers first a vector space L that has the Cartesian product $MATH$ as a basis. That is, the basis elements of L are the pairs $MATH$ with $MATH$ and $MATH$ To get such a vector space, one can define it as the vector space of the functions $MATH$ that have a finite number of nonzero values, and identifying $MATH$ with the function that takes the value 1 on $MATH$ and 0 otherwise.
+Let R be the linear subspace of L that is spanned by the relations that the tensor product must satisfy. More precisely R is spanned by the elements of one of the forms
+where $MATH$ $MATH$ and $MATH$
+Then, the tensor product is defined as the quotient space
+and the image of $MATH$ in this quotient is denoted $MATH$
+It is straightforward to prove that the result of this construction satisfies the universal property considered below. (A very similar construction can be used to define the tensor product of modules.)
+Universal property
+In this section, the universal property satisfied by the tensor product is described. As for every universal property, two objects that satisfy the property are related by a unique isomorphism. It follows that this is a (non-constructive) way to define the tensor product of two vector spaces. In this context, the preceding constructions of tensor products may be viewed as proofs of existence of the tensor product so defined.
+A consequence of this approach is that every property of the tensor product can be deduced from the universal property, and that, in practice, one may forget the method that has been used to prove its existence. 
+The "universal-property definition" of the tensor product of two vector spaces is the following (recall that a bilinear map is a function that is separately linear in each of its arguments):
+Linearly disjoint
+Like the universal property above, the following characterization may also be used to determine whether or not a given vector space and given bilinear map form a tensor product.
+Theorem — Let $MATH$ and $MATH$ be complex vector spaces and let $MATH$ be a bilinear map. Then $MATH$ is a tensor product of $MATH$ and $MATH$ if and only if the image of $MATH$ spans all of $MATH$ (that is, $MATH$), and also $MATH$ and $MATH$ are $MATH$-linearly disjoint, which by definition means that for all positive integers $MATH$ and all elements $MATH$ and $MATH$ such that $MATH$
+Equivalently, $MATH$ and $MATH$ are $MATH$-linearly disjoint if and only if for all linearly independent sequences $MATH$ in $MATH$ and all linearly independent sequences $MATH$ in $MATH$ the vectors $MATH$ are linearly independent.
+For example, it follows immediately that if $MATH$ and $MATH$ are positive integers then $MATH$ and the bilinear map $MATH$ defined by sending $MATH$ to $MATH$ form a tensor product of $MATH$ and $MATH$ Often, this map $MATH$ will be denoted by $MATH$ so that $MATH$ denotes this bilinear map's value at $MATH$
+As another example, suppose that $MATH$ is the vector space of all complex-valued functions on a set $MATH$ with addition and scalar multiplication defined pointwise (meaning that $MATH$ is the map $MATH$ and $MATH$ is the map $MATH$). Let $MATH$ and $MATH$ be any sets and for any $MATH$ and $MATH$ let $MATH$ denote the function defined by $MATH$ 
+If $MATH$ and $MATH$ are vector subspaces then the vector subspace $MATH$ of $MATH$ together with the bilinear map 
+form a tensor product of $MATH$ and $MATH$
+Properties
+Dimension
+If V and W are vectors spaces of finite dimension, then $MATH$ is finite-dimensional, and its dimension is the product of the dimensions of V and W.
+This results from the fact that a basis of $MATH$ is formed by taking all tensor products of a basis element of V and a basis element of W.
+Associativity
+The tensor product is associative in the sense that, given three vector spaces $MATH$ there is a canonical isomorphism 
+that maps $MATH$ to $MATH$
+This allows omitting parentheses in the tensor product of more than two vector spaces or vectors.
+Commutativity as vector space operation
+The tensor product of two vector spaces $MATH$ and $MATH$ is commutative  in the sense that there is a canonical isomorphism 
+that maps $MATH$ to $MATH$
+On the other hand, even when $MATH$ the tensor product of vectors is not commutative; that is $MATH$ in general.
+
+The map $MATH$ from $MATH$ to itself induces a linear automorphism that is called a braiding map. 
+More generally and as usual (see tensor algebra), let denote $MATH$ the tensor product of n copies of the vector space V. For every permutation s of the first n positive integers, the map
+induces a linear automorphism of $MATH$ which is called a braiding map.
+Tensor product of linear maps
+Given a linear map $MATH$ and a vector space W, the tensor product
+is the unique linear map such that
+The tensor product $MATH$ is defined similarly.
+Given two linear maps $MATH$ and $MATH$ their tensor product 
+is the unique linear map that satisfies 
+One has 
+In terms of category theory, this means that the tensor product is a bifunctor from the category of vector spaces to itself.
+If f and g are both injective or surjective, then the same is true for all above defined linear maps. In particular, the tensor product with a vector space is an exact functor; this means that every exact sequence is mapped to an exact sequence (tensor products of modules do not transform injections into injections, but they are right exact functors).
+By choosing bases of all vector spaces involved, the linear maps S and T can be represented by matrices. Then, depending on how the tensor $MATH$ is vectorized, the matrix describing the tensor product $MATH$ is the Kronecker product of the two matrices. For example, if V, X, W, and Y above are all two-dimensional and bases have been fixed for all of them, and S and T are given by the matrices
+respectively, then the tensor product of these two matrices is
+The resultant rank is at most 4, and thus the resultant dimension is 4. Note that rank here denotes the tensor rank i.e. the number of requisite indices (while the matrix rank counts the number of degrees of freedom in the resulting array). Note $MATH$
+A dyadic product is the special case of the tensor product between two vectors of the same dimension.
+General tensors
+For non-negative integers r and s a type $MATH$ tensor on a vector space V is an element of
+Here $MATH$ is the dual vector space (which consists of all linear maps f from V to the ground field K).
+There is a product map, called the (tensor) product of tensors
+It is defined by grouping all occurring "factors" V together: writing $MATH$ for an element of V and $MATH$ for an element of the dual space,
+Picking a basis of V and the corresponding dual basis of $MATH$ naturally induces a basis for $MATH$ (this basis is described in the article on Kronecker products). In terms of these bases, the components of a (tensor) product of two (or more) tensors can be computed. For example, if F and G are two covariant tensors of orders m and n respectively (i.e. $MATH$ and $MATH$), then the components of their tensor product are given by
+Thus, the components of the tensor product of two tensors are the ordinary product of the components of each tensor. Another example: let U be a tensor of type (1, 1) with components $MATH$ and let V be a tensor of type $MATH$ with components $MATH$ Then
+and
+Tensors equipped with their product operation form an algebra, called the tensor algebra.
+Evaluation map and tensor contraction
+For tensors of type (1, 1) there is a canonical evaluation map
+defined by its action on pure tensors:
+More generally, for tensors of type $MATH$ with r, s > 0, there is a map, called tensor contraction,
+(The copies of $MATH$ and $MATH$ on which this map is to be applied must be specified.)
+On the other hand, if $MATH$ is finite-dimensional, there is a canonical map in the other direction (called the coevaluation map)
+where $MATH$ is any basis of $MATH$ and $MATH$ is its dual basis. This map does not depend on the choice of basis.
+The interplay of evaluation and coevaluation can be used to characterize finite-dimensional vector spaces without referring to bases.
+Adjoint representation
+The tensor product $MATH$ may be naturally viewed as a module for the Lie algebra $MATH$ by means of the diagonal action: for simplicity let us assume $MATH$ then, for each $MATH$
+where $MATH$ is the transpose of u, that is, in terms of the obvious pairing on $MATH$
+There is a canonical isomorphism $MATH$ given by
+Under this isomorphism, every u in $MATH$ may be first viewed as an endomorphism of $MATH$ and then viewed as an endomorphism of $MATH$ In fact it is the adjoint representation ad(u) of $MATH$
+Linear maps as tensors
+Given two finite dimensional vector spaces U, V over the same field K, denote the dual space of U as U*, and the K-vector space of all linear maps from U to V as Hom(U,V). There is an isomorphism,
+defined by an action of the pure tensor $MATH$ on an element of $MATH$
+Its "inverse" can be defined using a basis $MATH$ and its dual basis $MATH$ as in the section "Evaluation map and tensor contraction" above:
+This result implies
+which automatically gives the important fact that $MATH$ forms a basis for $MATH$ where $MATH$ are bases of U and V.
+Furthermore, given three vector spaces U, V, W the tensor product is linked to the vector space of all linear maps, as follows:
+This is an example of adjoint functors: the tensor product is "left adjoint" to Hom.
+Tensor products of modules over a ring
+The tensor product of two modules A and B over a commutative ring R is defined in exactly the same way as the tensor product of vector spaces over a field:
+where now $MATH$ is the free R-module generated by the cartesian product and G is the R-module generated by the same relations as above.
+More generally, the tensor product can be defined even if the ring is non-commutative. In this case A has to be a right-R-module and B is a left-R-module, and instead of the last two relations above, the relation
+is imposed. If R is non-commutative, this is no longer an R-module, but just an abelian group.
+The universal property also carries over, slightly modified: the map $MATH$ defined by $MATH$ is a middle linear map (referred to as "the canonical middle linear map".); that is, it satisfies:
+The first two properties make φ a bilinear map of the abelian group $MATH$ For any middle linear map $MATH$ of $MATH$ a unique group homomorphism f of $MATH$ satisfies $MATH$ and this property determines $MATH$ within group isomorphism. See the main article for details.
+Tensor product of modules over a non-commutative ring
+Let A be a right R-module and B be a left R-module. Then the tensor product of A and B is an abelian group defined by
+where $MATH$ is a free abelian group over $MATH$ and G is the subgroup of $MATH$ generated by relations
+The universal property can be stated as follows. Let G be an abelian group with a map $MATH$ that is bilinear, in the sense that
+Then there is a unique map $MATH$ such that $MATH$ for all $MATH$ and $MATH$
+Furthermore, we can give $MATH$ a module structure under some extra conditions:
+Computing the tensor product
+For vector spaces, the tensor product $MATH$ is quickly computed since bases of V of W immediately determine a basis of $MATH$ as was mentioned above. For modules over a general (commutative) ring, not every module is free. For example, Z/nZ is not a free abelian group (Z-module). The tensor product with Z/nZ is given by
+More generally, given a presentation of some R-module M, that is, a number of generators $MATH$ together with relations
+the tensor product can be computed as the following cokernel:
+Here $MATH$ and the map $MATH$ is determined by sending some $MATH$ in the jth copy of $MATH$ to $MATH$ (in $MATH$). Colloquially, this may be rephrased by saying that a presentation of M gives rise to a presentation of $MATH$ This is referred to by saying that the tensor product is a right exact functor. It is not in general left exact, that is, given an injective map of R-modules $MATH$ the tensor product
+is not usually injective. For example, tensoring the (injective) map given by multiplication with n, n : Z → Z with Z/nZ yields the zero map 0 : Z/nZ → Z/nZ, which is not injective. Higher Tor functors measure the defect of the tensor product being not left exact. All higher Tor functors are assembled in the derived tensor product.
+Tensor product of algebras
+Let R be a commutative ring. The tensor product of R-modules applies, in particular, if A and B are R-algebras. In this case, the tensor product $MATH$ is an R-algebra itself by putting
+For example,
+A particular example is when A and B are fields containing a common subfield R. The tensor product of fields is closely related to Galois theory: if, say, A = R[x] / f(x), where f is some irreducible polynomial with coefficients in R, the tensor product can be calculated as
+where now f is interpreted as the same polynomial, but with its coefficients regarded as elements of B. In the larger field B, the polynomial may become reducible, which brings in Galois theory. For example, if A = B is a Galois extension of R, then
+is isomorphic (as an A-algebra) to the $MATH$
+Eigenconfigurations of tensors
+Square matrices $MATH$ with entries in a field $MATH$ represent linear maps of vector spaces, say $MATH$ and thus linear maps $MATH$ :\mathbb {P} ^{n-1}\to \mathbb {P} ^{n-1}}
+  
+ of projective spaces over $MATH$ If $MATH$ is nonsingular then $MATH$ is well-defined everywhere, and the eigenvectors of $MATH$ correspond to the fixed points of $MATH$ The eigenconfiguration of $MATH$ consists of $MATH$ points in $MATH$ provided $MATH$ is generic and $MATH$ is algebraically closed. The fixed points of nonlinear maps are the eigenvectors of tensors. Let $MATH$ be a $MATH$-dimensional tensor of format $MATH$ with entries $MATH$ lying in an algebraically closed field $MATH$ of characteristic zero. Such a tensor $MATH$ defines polynomial maps $MATH$ and $MATH$ with coordinates
+Thus each of the $MATH$ coordinates of $MATH$ is a homogeneous polynomial $MATH$ of degree $MATH$ in $MATH$ The eigenvectors of $MATH$ are the solutions of the constraint
+and the eigenconfiguration is given by the variety of the $MATH$ minors of this matrix.
+Other examples of tensor products
+Tensor product of Hilbert spaces
+Hilbert spaces generalize finite-dimensional vector spaces to countably-infinite dimensions. The tensor product is still defined; it is the tensor product of Hilbert spaces.
+Topological tensor product
+When the basis for a vector space is no longer countable, then the appropriate axiomatic formalization for the vector space is that of a topological vector space. The tensor product is still defined, it is the topological tensor product.
+Tensor product of graded vector spaces
+Some vector spaces can be decomposed into direct sums of subspaces. In such cases, the tensor product of two spaces can be decomposed into sums of products of the subspaces (in analogy to the way that multiplication distributes over addition).
+Tensor product of representations
+Vector spaces endowed with an additional multiplicative structure are called algebras. The tensor product of such algebras is described by the Littlewood–Richardson rule.
+Tensor product of multilinear forms
+Given two multilinear forms $MATH$ and $MATH$ on a vector space $MATH$ over the field $MATH$ their tensor product is the multilinear form
+This is a special case of the product of tensors if they are seen as multilinear maps (see also tensors as multilinear maps). Thus the components of the tensor product of multilinear forms can be computed by the Kronecker product.
+Tensor product of graphs
+It should be mentioned that, though called "tensor product", this is not a tensor product of graphs in the above sense; actually it is the category-theoretic product in the category of graphs and graph homomorphisms. However it is actually the Kronecker tensor product of the adjacency matrices of the graphs. Compare also the section Tensor product of linear maps above.
+Monoidal categories
+The most general setting for the tensor product is the monoidal category. It captures the algebraic essence of tensoring, without making any specific reference to what is being tensored. Thus, all tensor products can be expressed as an application of the monoidal category to some particular setting, acting on some particular objects.
+Quotient algebras
+A number of important subspaces of the tensor algebra can be constructed as quotients: these include the exterior algebra, the symmetric algebra, the Clifford algebra, the Weyl algebra, and the universal enveloping algebra in general.
+The exterior algebra is constructed from the exterior product. Given a vector space V, the exterior product $MATH$ is defined as
+Note that when the underlying field of V does not have characteristic 2, then this definition is equivalent to
+The image of $MATH$ in the exterior product is usually denoted $MATH$ and satisfies, by construction, $MATH$ Similar constructions are possible for $MATH$ (n factors), giving rise to $MATH$ the nth exterior power of V. The latter notion is the basis of differential n-forms.
+The symmetric algebra is constructed in a similar manner, from the symmetric product
+More generally
+That is, in the symmetric algebra two adjacent vectors (and therefore all of them) can be interchanged. The resulting objects are called symmetric tensors.
+Tensor product in programming
+Array programming languages
+Array programming languages may have this pattern built in. For example, in APL the tensor product is expressed as ○.× (for example A ○.× B or A ○.× B ○.× C). In J the tensor product is the dyadic form of */ (for example a */ b or a */ b */ c).
+Note that J's treatment also allows the representation of some tensor fields, as a and b may be functions instead of constants. This product of two functions is a derived function, and if a and b are differentiable, then a */ b is differentiable.
+However, these kinds of notation are not universally present in array languages. Other array languages may require explicit treatment of indices (for example, MATLAB), and/or may not support higher-order functions such as the Jacobian derivative (for example, Fortran/APL).
+See also
+Notes

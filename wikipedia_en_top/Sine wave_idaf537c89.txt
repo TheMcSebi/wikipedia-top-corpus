@@ -1,0 +1,29 @@
+Sine wave
+A sine wave, sinusoidal wave, or just sinusoid is a mathematical curve defined in terms of the sine trigonometric function, of which it is the graph. It is a type of continuous wave and also a smooth periodic function. It occurs often in mathematics, as well as in physics, engineering, signal processing and many other fields. 
+Formulation
+Its most basic form as a function of time (t) is:
+where:
+The sine wave is important in physics because it retains its wave shape when added to another sine wave of the same frequency and arbitrary phase and magnitude. It is the only periodic waveform that has this property. This property leads to its importance in Fourier analysis and makes it acoustically unique.
+General form
+In general, the function may also have:
+which is
+The wavenumber is related to the angular frequency by:
+where λ (lambda) is the wavelength, f is the frequency, and v is the linear speed.
+This equation gives a sine wave for a single dimension; thus the generalized equation given above gives the displacement of the wave at a position x at time t along a single line.
+This could, for example, be considered the value of a wave along a wire.
+In two or three spatial dimensions, the same equation describes a travelling plane wave if position x and wavenumber k are interpreted as vectors, and their product as a dot product. 
+For more complex waves such as the height of a water wave in a pond after a stone has been dropped in, more complex equations are needed.
+Cosine
+The term sinusoid describes any wave with characteristics of a sine wave. Thus, a cosine wave is also said to be sinusoidal, because $MATH$, which is also a sine wave with a phase-shift of π/2 radians. Because of this head start, it is often said that the cosine function leads the sine function or the sine lags the cosine. The term sinusoidal thereby collectively refers to both sine waves and cosine waves with any phase offset.
+Occurrence
+This wave pattern occurs often in nature, including wind waves, sound waves, and light waves.
+The human ear can recognize single sine waves as sounding clear because sine waves are representations of a single frequency with no harmonics.
+To the human ear, a sound that is made of more than one sine wave will have perceptible harmonics; addition of different sine waves results in a different waveform and thus changes the timbre of the sound. Presence of higher harmonics in addition to the fundamental causes variation in the timbre, which is the reason why the same musical note (the same frequency) played on different instruments sounds different. On the other hand, if the sound contains aperiodic waves along with sine waves (which are periodic), then the sound will be perceived to be noisy, as noise is characterized as being aperiodic or having a non-repetitive pattern.
+Fourier series
+In 1822, French mathematician Joseph Fourier discovered that sinusoidal waves can be used as simple building blocks to describe and approximate any periodic waveform, including square waves. Fourier used it as an analytical tool in the study of waves and heat flow. It is frequently used in signal processing and the statistical analysis of time series.
+Traveling and standing waves
+Since sine waves propagate without changing form in distributed linear systems, they are often used to analyze wave propagation. Sine waves traveling in two directions in space can be represented as
+When two waves having the same amplitude and frequency, and traveling in opposite directions, superpose each other, then a standing wave pattern is created. Note that, on a plucked string, the interfering waves are the waves reflected from the fixed endpoints of the string. Therefore, standing waves occur only at certain frequencies, which are referred to as resonant frequencies and are composed of a fundamental frequency and its higher harmonics. The resonant frequencies of a string are proportional to: the length between the fixed ends; the tension of the string; and inversely proportional to the mass per unit length of the string.
+See also
+References
+Further reading

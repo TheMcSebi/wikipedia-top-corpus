@@ -1,0 +1,185 @@
+Spherical harmonics
+In mathematics and physical science, spherical harmonics are special functions defined on the surface of a sphere. They are often employed in solving partial differential equations in many scientific fields.
+Since the spherical harmonics form a complete set of orthogonal functions and thus an orthonormal basis, each function defined on the surface of a sphere can be written as a sum of these spherical harmonics. This is similar to periodic functions defined on a circle that can be expressed as a sum of circular functions (sines and cosines) via Fourier series. Like the sines and cosines in Fourier series, the spherical harmonics may be organized by (spatial) angular frequency, as seen in the rows of functions in the illustration on the right. Further, spherical harmonics are basis functions for irreducible representations of SO(3), the group of rotations in three dimensions, and thus play a central role in the group theoretic discussion of SO(3).
+Spherical harmonics originate from solving Laplace's equation in the spherical domains. Functions that are solutions to Laplace's equation are called harmonics. Despite their name, spherical harmonics take their simplest form in Cartesian coordinates, where they can be defined as homogeneous polynomials of degree $MATH$ in $MATH$ that obey Laplace's equation. The connection with spherical coordinates arises immediately if one uses the homogeneity to extract a factor of radial dependence $MATH$ from the above-mentioned polynomial of degree $MATH$; the remaining factor can be regarded as a function of the spherical angular coordinates $MATH$ and $MATH$ only, or equivalently of the orientational unit vector $MATH$ specified by these angles. In this setting, they may be viewed as the angular portion of a set of solutions to Laplace's equation in three dimensions, and this viewpoint is often taken as an alternative definition. Notice, however, that spherical harmonics are not functions on the sphere which are harmonic with respect to the Laplace-Beltrami operator  for the standard round metric on the sphere: the only harmonic functions in this sense on the sphere are the constants, since harmonic functions satisfy the Maximum principle. Spherical harmonics, as functions on the sphere, are eigenfunctions of the Laplace-Beltrami operator (see the section Higher dimensions below).
+A specific set of spherical harmonics, denoted $MATH$ or $MATH$, are known as Laplace's spherical harmonics, as they were first introduced by Pierre Simon de Laplace in 1782. These functions form an orthogonal system, and are thus basic to the expansion of a general function on the sphere as alluded to above.
+Spherical harmonics are important in many theoretical and practical applications, including the representation of multipole electrostatic and electromagnetic fields, electron configurations, gravitational fields, geoids, the magnetic fields of planetary bodies and stars, and the cosmic microwave background radiation. In 3D computer graphics, spherical harmonics play a role in a wide variety of topics including indirect lighting (ambient occlusion, global illumination, precomputed radiance transfer, etc.) and modelling of 3D shapes.
+History
+Spherical harmonics were first investigated in connection with the Newtonian potential of Newton's law of universal gravitation in three dimensions. In 1782, Pierre-Simon de Laplace had, in his Mécanique Céleste, determined that the gravitational potential $MATH$ at a point x associated with a set of point masses mi located at points xi was given by
+Each term in the above summation is an individual Newtonian potential for a point mass. Just prior to that time, Adrien-Marie Legendre had investigated the expansion of the Newtonian potential in powers of r = |x| and r1 = |x1|. He discovered that if r ≤ r1 then
+where γ is the angle between the vectors x and x1. The functions $MATH$ are the Legendre polynomials, and they can be derived as a special case of spherical harmonics. Subsequently, in his 1782 memoir, Laplace investigated these coefficients using spherical coordinates to represent the angle γ between x1 and x. (See Applications of Legendre polynomials in physics for a more detailed analysis.)
+In 1867, William Thomson (Lord Kelvin) and Peter Guthrie Tait introduced the solid spherical harmonics in their Treatise on Natural Philosophy, and also first introduced the name of “spherical harmonics” for these functions. The solid harmonics were homogeneous polynomial solutions $MATH$ of Laplace's equation
+By examining Laplace's equation in spherical coordinates, Thomson and Tait recovered Laplace's spherical harmonics. (See the section below, “Harmonic polynomial representation”.) The term “Laplace's coefficients” was employed by William Whewell to describe the particular system of solutions introduced along these lines, whereas others reserved this designation for the zonal spherical harmonics that had properly been introduced by Laplace and Legendre.
+The 19th century development of Fourier series made possible the solution of a wide variety of physical problems in rectangular domains, such as the solution of the heat equation and wave equation. This could be achieved by expansion of functions in series of trigonometric functions. Whereas the trigonometric functions in a Fourier series represent the fundamental modes of vibration in a string, the spherical harmonics represent the fundamental modes of vibration of a sphere in much the same way. Many aspects of the theory of Fourier series could be generalized by taking expansions in spherical harmonics rather than trigonometric functions. Moreover, analogous to how trigonometric functions can equivalently be written as complex exponentials, spherical harmonics also possessed an equivalent form as complex-valued functions. This was a boon for problems possessing spherical symmetry, such as those of celestial mechanics originally studied by Laplace and Legendre.
+The prevalence of spherical harmonics already in physics set the stage for their later importance in the 20th century birth of quantum mechanics. The (complex-valued) spherical harmonics $MATH$ are eigenfunctions of the square of the orbital angular momentum operator
+and therefore they represent the different quantized configurations of atomic orbitals.
+Laplace's spherical harmonics
+Laplace's equation imposes that the Laplacian of a scalar field f is zero. (Here the scalar field is understood to be complex, i.e. to correspond to a (smooth) function $MATH$.) In spherical coordinates this is:
+Consider the problem of finding solutions of the form f(r, θ, φ) = R(r) Y(θ, φ). By separation of variables, two differential equations result by imposing Laplace's equation:
+The second equation can be simplified under the assumption that Y has the form Y(θ, φ) = Θ(θ) Φ(φ). Applying separation of variables again to the second equation gives way to the pair of differential equations
+for some number m. A priori, m is a complex constant, but because Φ must be a periodic function whose period evenly divides 2π, m is necessarily an integer and Φ is a linear combination of the complex exponentials e± imφ. The solution function Y(θ, φ) is regular at the poles of the sphere, where θ = 0, π. Imposing this regularity in the solution Θ of the second equation at the boundary points of the domain is a Sturm–Liouville problem that forces the parameter λ to be of the form λ = ℓ (ℓ + 1) for some non-negative integer with ℓ ≥ |m|; this is also explained below in terms of the orbital angular momentum. Furthermore, a change of variables t = cos θ transforms this equation into the Legendre equation, whose solution is a multiple of the associated Legendre polynomial Pmℓ(cos θ) . Finally, the equation for R has solutions of the form R(r) = A rℓ + B r−ℓ − 1; requiring the solution to be regular throughout R3 forces B = 0.
+Here the solution was assumed to have the special form Y(θ, φ) = Θ(θ) Φ(φ). For a given value of ℓ, there are 2ℓ + 1 independent solutions of this form, one for each integer m with −ℓ ≤ m ≤ ℓ. These angular solutions $MATH$ are a product of trigonometric functions, here represented as a complex exponential, and associated Legendre polynomials:
+which fulfill
+Here $MATH$ is called a spherical harmonic function of degree ℓ and order m, $MATH$ is an associated Legendre polynomial, N is a normalization constant, and θ and φ represent colatitude and longitude, respectively. In particular, the colatitude θ, or polar angle, ranges from 0 at the North Pole, to π/2 at the Equator, to π at the South Pole, and the longitude φ, or azimuth, may assume all values with 0 ≤ φ < 2π. For a fixed integer ℓ, every solution Y(θ, φ), $MATH$, of the eigenvalue problem
+is a linear combination of $MATH$. In fact, for any such solution, rℓ Y(θ, φ) is the expression in spherical coordinates of a homogeneous polynomial $MATH$ that is harmonic (see below), and so counting dimensions shows that there are 2ℓ + 1 linearly independent such polynomials.
+The general solution $MATH$ to Laplace's equation $MATH$ in a ball centered at the origin is a linear combination of the spherical harmonic functions multiplied by the appropriate scale factor rℓ,
+where the $MATH$ are constants and the factors rℓ Yℓm are known as (regular) solid harmonics $MATH$. Such an expansion is valid in the ball
+For $MATH$, the solid harmonics with negative powers of $MATH$ (the irregular solid harmonics $MATH$) are chosen instead. In that case, one needs to expand the solution of known regions in Laurent series (about $MATH$), instead of the Taylor series (about $MATH$) used above, to match the terms and find series expansion coefficients $MATH$.
+Orbital angular momentum
+In quantum mechanics, Laplace's spherical harmonics are understood in terms of the orbital angular momentum
+The ħ is conventional in quantum mechanics; it is convenient to work in units in which ħ = 1. The spherical harmonics are eigenfunctions of the square of the orbital angular momentum
+Laplace's spherical harmonics are the joint eigenfunctions of the square of the orbital angular momentum and the generator of rotations about the azimuthal axis:
+These operators commute, and are densely defined self-adjoint operators on the weighted Hilbert space of functions f square-integrable with respect to the normal distribution as the weight function on R3:
+Furthermore, L2 is a positive operator.
+If Y is a joint eigenfunction of L2 and Lz, then by definition
+for some real numbers m and λ. Here m must in fact be an integer, for Y must be periodic in the coordinate φ with period a number that evenly divides 2π. Furthermore, since
+and each of Lx, Ly, Lz are self-adjoint, it follows that λ ≥ m2.
+Denote this joint eigenspace by Eλ,m, and define the raising and lowering operators by
+Then L+ and L− commute with L2, and the Lie algebra generated by L+, L−, Lz is the special linear Lie algebra of order 2, $MATH$, with commutation relations
+Thus L+ : Eλ,m → Eλ,m+1 (it is a "raising operator") and L− : Eλ,m → Eλ,m−1 (it is a "lowering operator"). In particular, Lk+ : Eλ,m → Eλ,m+k must be zero for k sufficiently large, because the inequality λ ≥ m2 must hold in each of the nontrivial joint eigenspaces. Let Y ∈ Eλ,m be a nonzero joint eigenfunction, and let k be the least integer such that
+Then, since
+it follows that
+Thus λ = ℓ(ℓ + 1) for the positive integer ℓ = m + k.
+The foregoing has been all worked out in the spherical coordinate representation, $MATH$ but may be expressed more abstractly in the complete, orthonormal spherical ket basis.
+Harmonic polynomial representation
+The spherical harmonics can be expressed as the restriction to the unit sphere of certain polynomial functions $MATH$. Specifically, we say that a (complex-valued) polynomial function $MATH$ is homogeneous of degree $MATH$ if
+for all real numbers $MATH$ and all $MATH$. We say that $MATH$ is harmonic if
+where $MATH$ is the Laplacian. Then for each $MATH$, we define
+For example, when $MATH$, $MATH$ is just the 3-dimensional space of all linear functions $MATH$, since any such function is automatically harmonic. Meanwhile, when $MATH$, we have a 5-dimensional space:
+For any $MATH$, the space $MATH$ of spherical harmonics of degree $MATH$ is just the space of restrictions to the sphere $MATH$ of the elements of $MATH$. As suggested in the introduction, this perspective is presumably the origin of the term “spherical harmonic” (i.e., the restriction to the sphere of a harmonic function).
+For example, for any $MATH$ the formula
+defines a homogeneous polynomial of degree $MATH$ with domain and codomain $MATH$, which happens to be independent of $MATH$. This polynomial is easily seen to be harmonic. If we write $MATH$ in spherical coordinates $MATH$ and then restrict to $MATH$, we obtain
+which can be rewritten as
+After using the formula for the associated Legendre polynomial $MATH$, we may recognize this as the formula for the spherical harmonic $MATH$ (See the section below on special cases of the spherical harmonics.)
+Conventions
+Orthogonality and normalization
+Several different normalizations are in common use for the Laplace spherical harmonic functions $MATH$. Throughout the section, we use the standard convention that for $MATH$ (see associated Legendre polynomials)
+which is the natural normalization given by Rodrigues' formula.
+In acoustics, the Laplace spherical harmonics are generally defined as (this is the convention used in this article)
+while in quantum mechanics:
+where $MATH$ are associated Legendre polynomials without the Condon–Shortley phase (to avoid counting the phase twice).
+In both definitions, the spherical harmonics are orthonormal
+where δij is the Kronecker delta and dΩ = sin(θ) dφ dθ. This normalization is used in quantum mechanics because it ensures that probability is normalized, i.e.,
+The disciplines of geodesy and spectral analysis use
+which possess unit power
+The magnetics community, in contrast, uses Schmidt semi-normalized harmonics
+which have the normalization
+In quantum mechanics this normalization is sometimes used as well, and is named Racah's normalization after Giulio Racah.
+It can be shown that all of the above normalized spherical harmonic functions satisfy
+where the superscript * denotes complex conjugation. Alternatively, this equation follows from the relation of the spherical harmonic functions with the Wigner D-matrix.
+Condon–Shortley phase
+One source of confusion with the definition of the spherical harmonic functions concerns a phase factor of $MATH$, commonly referred to as the Condon–Shortley phase in the quantum mechanical literature. In the quantum mechanics community, it is common practice to either include this phase factor in the definition of the associated Legendre polynomials, or to append it to the definition of the spherical harmonic functions. There is no requirement to use the Condon–Shortley phase in the definition of the spherical harmonic functions, but including it can simplify some quantum mechanical operations, especially the application of raising and lowering operators. The geodesy and magnetics communities never include the Condon–Shortley phase factor in their definitions of the spherical harmonic functions nor in the ones of the associated Legendre polynomials.
+Real form
+A real basis of spherical harmonics $MATH$ can be defined in terms of their complex analogues $MATH$ by setting
+The Condon–Shortley phase convention is used here for consistency. The corresponding inverse equations defining the complex spherical harmonics $MATH$ in terms of the real spherical harmonics $MATH$ are
+The real spherical harmonics $MATH$ are sometimes known as tesseral spherical harmonics. These functions have the same orthonormality properties as the complex ones $MATH$ above. The real spherical harmonics $MATH$ with m > 0 are said to be of cosine type, and those with m < 0 of sine type. The reason for this can be seen by writing the functions in terms of the Legendre polynomials as
+The same sine and cosine factors can be also seen in the following subsection that deals with the Cartesian representation.
+See here for a list of real spherical harmonics up to and including $MATH$, which can be seen to be consistent with the output of the equations above.
+Use in quantum chemistry
+As is known from the analytic solutions for the hydrogen atom, the eigenfunctions of the angular part of the wave function are spherical harmonics. However, the solutions of the non-relativistic Schrödinger equation without magnetic terms can be made real. This is why the real forms are extensively used in basis functions for quantum chemistry, as the programs don't then need to use complex algebra. Here, it is important to note that the real functions span the same space as the complex ones would.
+For example, as can be seen from the table of spherical harmonics, the usual p functions ($MATH$) are complex and mix axis directions, but the real versions are essentially just x, y, and z.
+Spherical harmonics in Cartesian form
+The complex spherical harmonics $MATH$ give rise to the solid harmonics by extending from $MATH$ to all of $MATH$ as a homogeneous function of degree $MATH$, i.e. setting
+It turns out that $MATH$ is basis of the space of harmonic and homogeneous polynomials of degree $MATH$. More specifically, it is the (unique up to normalization) Gelfand-Tsetlin-basis of this representation of the rotational group $MATH$ and an explicit formula for $MATH$ in cartesian coordinates can be derived from that fact.
+The Herglotz generating function
+If the quantum mechanical convention is adopted for the $MATH$, then
+Here, $MATH$ is the vector with components $MATH$, $MATH$, and
+$MATH$     is a vector with complex coordinates:
+$MATH$
+The essential property of $MATH$ is that it is null:
+It suffices to take $MATH$ and $MATH$ as real parameters.
+In naming this generating function after Herglotz, we follow Courant & Hilbert 1962, §VII.7, who credit unpublished notes by him for its discovery.
+Essentially all the properties of the spherical harmonics can be derived from this generating function. An immediate benefit of this definition is that if the vector $MATH$ is replaced by the quantum mechanical spin vector operator $MATH$, such that $MATH$ is the operator analogue of the solid harmonic $MATH$, one obtains a generating function for a standardized set of spherical tensor operators, $MATH$:
+The parallelism of the two definitions ensures that the $MATH$'s transform under rotations (see below) in the same way as the $MATH$'s, which in turn guarantees that they are spherical tensor operators, $MATH$, with $MATH$ and $MATH$, obeying all the properties of such operators, such as the Clebsch-Gordan composition theorem, and the Wigner-Eckart theorem. They are, moreover, a standardized set with a fixed scale or normalization.
+Separated Cartesian form
+The Herglotzian definition yields polynomials which may, if one wishes, be further factorized into a polynomial of $MATH$ and another of $MATH$ and $MATH$, as follows (Condon–Shortley phase):
+and for m = 0:
+Here
+and
+For $MATH$ this reduces to
+The factor $MATH$ is essentially the associated Legendre polynomial $MATH$, and the factors $MATH$ are essentially $MATH$.
+Examples
+Using the expressions for $MATH$, $MATH$, and $MATH$ listed explicitly above we obtain:
+It may be verified that this agrees with the function listed here and here.
+Real forms
+Using the equations above to form the real spherical harmonics, it is seen that for $MATH$ only the $MATH$ terms (cosines) are included, and for $MATH$ only the $MATH$ terms (sines) are included:
+and for m = 0:
+Special cases and values
+Symmetry properties
+The spherical harmonics have deep and consequential properties under the operations of spatial inversion (parity) and rotation.
+Parity
+The spherical harmonics have definite parity. That is, they are either even or odd with respect to inversion about the origin. Inversion is represented by the operator $MATH$. Then, as can be seen in many ways (perhaps most simply from the Herglotz generating function), with $MATH$ being a unit vector,
+In terms of the spherical angles, parity transforms a point with coordinates $MATH$ to $MATH$. The statement of the parity of spherical harmonics is then
+(This can be seen as follows: The associated Legendre polynomials gives (−1)ℓ+m and from the exponential function we have (−1)m, giving together for the spherical harmonics a parity of (−1)ℓ.)
+Parity continues to hold for real spherical harmonics, and for spherical harmonics in higher dimensions: applying a point reflection to a spherical harmonic of degree ℓ changes the sign by a factor of (−1)ℓ.
+Rotations
+Consider a rotation $MATH$ about the origin that sends the unit vector $MATH$ to $MATH$. Under this operation, a spherical harmonic of degree $MATH$ and order $MATH$ transforms into a linear combination of spherical harmonics of the same degree. That is,
+where $MATH$ is a matrix of order $MATH$ that depends on the rotation $MATH$. However, this is not the standard way of expressing this property. In the standard way one writes,
+where $MATH$ is the complex conjugate of an element of the Wigner D-matrix. In particular when $MATH$ is a $MATH$ rotation of the azimuth we get the identity,
+The rotational behavior of the spherical harmonics is perhaps their quintessential feature from the viewpoint of group theory. The $MATH$'s of degree $MATH$ provide a basis set of functions for the irreducible representation of the group SO(3) of dimension $MATH$. Many facts about spherical harmonics (such as the addition theorem) that are proved laboriously using the methods of analysis acquire simpler proofs and deeper significance using the methods of symmetry.
+Spherical harmonics expansion
+The Laplace spherical harmonics $MATH$ form a complete set of orthonormal functions and thus form an orthonormal basis of the Hilbert space of square-integrable functions $MATH$. On the unit sphere $MATH$, any square-integrable function $MATH$ can thus be expanded as a linear combination of these:
+This expansion holds in the sense of mean-square convergence — convergence in L2 of the sphere — which is to say that
+The expansion coefficients are the analogs of Fourier coefficients, and can be obtained by multiplying the above equation by the complex conjugate of a spherical harmonic, integrating over the solid angle Ω, and utilizing the above orthogonality relationships. This is justified rigorously by basic Hilbert space theory. For the case of orthonormalized harmonics, this gives:
+If the coefficients decay in ℓ sufficiently rapidly — for instance, exponentially — then the series also converges uniformly to f.
+A square-integrable function $MATH$ can also be expanded in terms of the real harmonics $MATH$ above as a sum
+The convergence of the series holds again in the same sense, namely the real spherical harmonics $MATH$ form a complete set of orthonormal functions and thus form an orthonormal basis of the Hilbert space of square-integrable functions $MATH$. The benefit of the expansion in terms of the real harmonic functions $MATH$ is that for real functions $MATH$ the expansion coefficients $MATH$ are guaranteed to be real, whereas their coefficients $MATH$ in their expansion in terms of the $MATH$ (considering them as functions $MATH$) do not have that property.
+Spectrum analysis
+Power spectrum in signal processing
+The total power of a function f is defined in the signal processing literature as the integral of the function squared, divided by the area of its domain. Using the orthonormality properties of the real unit-power spherical harmonic functions, it is straightforward to verify that the total power of a function defined on the unit sphere is related to its spectral coefficients by a generalization of Parseval's theorem (here, the theorem is stated for Schmidt semi-normalized harmonics, the relationship is slightly different for orthonormal harmonics):
+where
+is defined as the angular power spectrum (for Schmidt semi-normalized harmonics). In a similar manner, one can define the cross-power of two functions as
+where
+is defined as the cross-power spectrum. If the functions f and g have a zero mean (i.e., the spectral coefficients f00 and g00 are zero), then Sff(ℓ) and Sfg(ℓ) represent the contributions to the function's variance and covariance for degree ℓ, respectively. It is common that the (cross-)power spectrum is well approximated by a power law of the form
+When β = 0, the spectrum is "white" as each degree possesses equal power. When β < 0, the spectrum is termed "red" as there is more power at the low degrees with long wavelengths than higher degrees. Finally, when β > 0, the spectrum is termed "blue". The condition on the order of growth of Sff(ℓ) is related to the order of differentiability of f in the next section.
+Differentiability properties
+One can also understand the differentiability properties of the original function f in terms of the asymptotics of Sff(ℓ). In particular, if Sff(ℓ) decays faster than any rational function of ℓ as ℓ → ∞, then f is infinitely differentiable. If, furthermore, Sff(ℓ) decays exponentially, then f is actually real analytic on the sphere.
+The general technique is to use the theory of Sobolev spaces. Statements relating the growth of the Sff(ℓ) to differentiability are then similar to analogous results on the growth of the coefficients of Fourier series. Specifically, if
+then f is in the Sobolev space Hs(S2). In particular, the Sobolev embedding theorem implies that f is infinitely differentiable provided that
+for all s.
+Algebraic properties
+Addition theorem
+A mathematical result of considerable interest and use is called the addition theorem for spherical harmonics. Given two vectors r and r′, with spherical coordinates $MATH$ and $MATH$, respectively, the angle $MATH$ between them is given by the relation
+in which the role of the trigonometric functions appearing on the right-hand side is played by the spherical harmonics and that of the left-hand side is played by the Legendre polynomials.
+The addition theorem states
+where Pℓ is the Legendre polynomial of degree ℓ. This expression is valid for both real and complex harmonics. The result can be proven analytically, using the properties of the Poisson kernel in the unit ball, or geometrically by applying a rotation to the vector y so that it points along the z-axis, and then directly calculating the right-hand side.
+In particular, when x = y, this gives Unsöld's theorem
+which generalizes the identity cos2θ + sin2θ = 1 to two dimensions.
+In the expansion (1), the left-hand side Pℓ(x⋅y) is a constant multiple of the degree ℓ zonal spherical harmonic. From this perspective, one has the following generalization to higher dimensions. Let Yj be an arbitrary orthonormal basis of the space Hℓ of degree ℓ spherical harmonics on the n-sphere. Then $MATH$, the degree ℓ zonal harmonic corresponding to the unit vector x, decomposes as
+Furthermore, the zonal harmonic $MATH$ is given as a constant multiple of the appropriate Gegenbauer polynomial:
+Combining (2) and (3) gives (1) in dimension n = 2 when x and y are represented in spherical coordinates. Finally, evaluating at x = y gives the functional identity
+where ωn−1 is the volume of the (n−1)-sphere.
+Contraction rule
+Another useful identity expresses the product of two spherical harmonics as a sum over spherical harmonics
+Many of the terms in this sum are trivially zero. The values of $MATH$ and $MATH$ that result in non-zero terms in this sum are determined by the selection rules for the 3j-symbols.
+Clebsch–Gordan coefficients
+The Clebsch–Gordan coefficients are the coefficients appearing in the expansion of the product of two spherical harmonics in terms of spherical harmonics themselves. A variety of techniques are available for doing essentially the same calculation, including the Wigner 3-jm symbol, the Racah coefficients, and the Slater integrals. Abstractly, the Clebsch–Gordan coefficients express the tensor product of two irreducible representations of the rotation group as a sum of irreducible representations: suitably normalized, the coefficients are then the multiplicities.
+Visualization of the spherical harmonics
+The Laplace spherical harmonics $MATH$ can be visualized by considering their "nodal lines", that is, the set of points on the sphere where $MATH$, or alternatively where $MATH$. Nodal lines of $MATH$ are composed of ℓ circles: there are |m| circles along longitudes and ℓ−|m| circles along latitudes. One can determine the number of nodal lines of each type by counting the number of zeros of $MATH$ in the $MATH$ and $MATH$ directions respectively. Considering $MATH$ as a function of $MATH$, the real and imaginary components of the associated Legendre polynomials each possess ℓ−|m| zeros, each giving rise to a nodal 'line of latitude'. On the other hand, considering $MATH$ as a function of $MATH$, the trigonometric sin and cos functions possess 2|m| zeros, each of which gives rise to a nodal 'line of longitude'.
+When the spherical harmonic order m is zero (upper-left in the figure), the spherical harmonic functions do not depend upon longitude, and are referred to as zonal. Such spherical harmonics are a special case of zonal spherical functions. When ℓ = |m| (bottom-right in the figure), there are no zero crossings in latitude, and the functions are referred to as sectoral. For the other cases, the functions checker the sphere, and they are referred to as tesseral.
+More general spherical harmonics of degree ℓ are not necessarily those of the Laplace basis $MATH$, and their nodal sets can be of a fairly general kind.
+List of spherical harmonics
+Analytic expressions for the first few orthonormalized Laplace spherical harmonics $MATH$ that use the Condon–Shortley phase convention:
+Higher dimensions
+The classical spherical harmonics are defined as complex-valued functions on the unit sphere $MATH$ inside three-dimensional Euclidean space $MATH$. Spherical harmonics can be generalized to higher-dimensional Euclidean space $MATH$ as follows, leading to functions $MATH$. Let Pℓ denote the space of complex-valued homogeneous polynomials of degree ℓ in n real variables, here considered as functions $MATH$. That is, a polynomial p is in Pℓ provided that for any real $MATH$, one has
+Let Aℓ denote the subspace of Pℓ consisting of all harmonic polynomials:
+These are the (regular) solid spherical harmonics. Let Hℓ denote the space of functions on the unit sphere
+obtained by restriction from Aℓ
+The following properties hold:
+An orthogonal basis of spherical harmonics in higher dimensions can be constructed inductively by the method of separation of variables, by solving the Sturm-Liouville problem for the spherical Laplacian
+where φ is the axial coordinate in a spherical coordinate system on Sn−1. The end result of such a procedure is
+where the indices satisfy |ℓ1| ≤ ℓ2 ≤ ⋯ ≤ ℓn−1 and the eigenvalue is −ℓn−1(ℓn−1 + n−2). The functions in the product are defined in terms of the Legendre function
+Connection with representation theory
+The space Hℓ of spherical harmonics of degree ℓ is a representation of the symmetry group of rotations around a point (SO(3)) and its double-cover SU(2). Indeed, rotations act on the two-dimensional sphere, and thus also on Hℓ by function composition
+for ψ a spherical harmonic and ρ a rotation. The representation Hℓ is an irreducible representation of SO(3).
+The elements of Hℓ arise as the restrictions to the sphere of elements of Aℓ: harmonic polynomials homogeneous of degree ℓ on three-dimensional Euclidean space R3. By polarization of ψ ∈ Aℓ, there are coefficients $MATH$ symmetric on the indices, uniquely determined by the requirement
+The condition that ψ be harmonic is equivalent to the assertion that the tensor $MATH$ must be trace free on every pair of indices. Thus as an irreducible representation of SO(3), Hℓ is isomorphic to the space of traceless symmetric tensors of degree ℓ.
+More generally, the analogous statements hold in higher dimensions: the space Hℓ of spherical harmonics on the n-sphere is the irreducible representation of SO(n+1) corresponding to the traceless symmetric ℓ-tensors. However, whereas every irreducible tensor representation of SO(2) and SO(3) is of this kind, the special orthogonal groups in higher dimensions have additional irreducible representations that do not arise in this manner.
+The special orthogonal groups have additional spin representations that are not tensor representations, and are typically not spherical harmonics. An exception are the spin representation of SO(3): strictly speaking these are representations of the double cover SU(2) of SO(3). In turn, SU(2) is identified with the group of unit quaternions, and so coincides with the 3-sphere. The spaces of spherical harmonics on the 3-sphere are certain spin representations of SO(3), with respect to the action by quaternionic multiplication.
+Connection with hemispherical harmonics
+Spherical harmonics can be separated into two set of functions. One is hemispherical functions (HSH), orthogonal and complete on hemisphere. Another is complementary hemispherical harmonics (CHSH).
+Generalizations
+The angle-preserving symmetries of the two-sphere are described by the group of Möbius transformations PSL(2,C). With respect to this group, the sphere is equivalent to the usual Riemann sphere. The group PSL(2,C) is isomorphic to the (proper) Lorentz group, and its action on the two-sphere agrees with the action of the Lorentz group on the celestial sphere in Minkowski space. The analog of the spherical harmonics for the Lorentz group is given by the hypergeometric series; furthermore, the spherical harmonics can be re-expressed in terms of the hypergeometric series, as SO(3) = PSU(2) is a subgroup of PSL(2,C).
+More generally, hypergeometric series can be generalized to describe the symmetries of any symmetric space; in particular, hypergeometric series can be developed for any Lie group.
+See also
+Notes

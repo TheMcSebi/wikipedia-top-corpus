@@ -1,0 +1,193 @@
+Lambert W function
+In mathematics, the Lambert W function, also called the omega function or product logarithm, is a multivalued function, namely the branches of the converse relation of the function f(w) = wew, where w is any complex number and ew is the exponential function.
+For each integer k there is one branch, denoted by Wk(z), which is a complex-valued function of one complex argument. W0 is known as the principal branch. These functions have the following property: if z and w are any complex numbers, then
+holds if and only if
+When dealing with real numbers only, the two branches W0 and W−1 suffice: for real numbers x and y the equation
+can be solved for y only if x ≥ −1/e; we get y = W0(x) if x ≥ 0 and the two values y = W0(x) and y = W−1(x) if −1/e ≤ x < 0.
+The Lambert W relation cannot be expressed in terms of elementary functions. It is useful in combinatorics, for instance, in the enumeration of trees. It can be used to solve various equations involving exponentials (e.g. the maxima of the Planck, Bose–Einstein, and Fermi–Dirac distributions) and also occurs in the solution of delay differential equations, such as y′(t) = a y(t − 1). In biochemistry, and in particular enzyme kinetics, an opened-form solution for the time-course kinetics analysis of Michaelis–Menten kinetics is described in terms of the Lambert W function.
+Terminology
+The Lambert W function is named after Johann Heinrich Lambert. The principal branch W0 is denoted Wp in the Digital Library of Mathematical Functions, and the branch W−1 is denoted Wm there.
+The notation convention chosen here (with W0 and W−1) follows the canonical reference on the Lambert W function by Corless, Gonnet, Hare, Jeffrey and Knuth.
+The name "product logarithm" can be understood as this: Since the inverse function of f(w) = ew is called the logarithm, it makes sense to call the inverse "function" of the product  wew as "product logarithm". (Technical note: like the complex logarithm, it is multivalued and thus W is described as the converse relation rather than inverse function.) It is related to the Omega constant, which is equal to W0(1).
+History
+Lambert first considered the related Lambert's Transcendental Equation in 1758, which led to an article by Leonhard Euler in 1783 that discussed the special case of wew.
+The equation Lambert considered was 
+Euler transformed this equation into the form
+Both authors derived a series solution for their equations.
+Once Euler had solved this equation, he considered the case a = b. Taking limits, he derived the equation
+He then put a = 1 and obtained a convergent series solution for the resulting equation, expressing x in terms of c.
+After taking derivatives with respect to x and some manipulation, the standard form of the Lambert function is obtained.
+In 1993, it was reported that the Lambert W function provides an exact solution to the quantum-mechanical double-well Dirac delta function model for equal charges—a fundamental problem in physics. Prompted by this, Rob Corless and developers of the Maple computer algebra system realized that "the Lambert W function has been widely used in many fields, but because of differing notation and the absence of a standard name, awareness of the function was not as high as it should have been."
+Another example where this function is found is in Michaelis–Menten kinetics.
+Although it was widely believed that the Lambert W function cannot be expressed in terms of elementary (Liouvillian) functions, the first published proof did not appear until 2008.
+Elementary properties, branches and range
+There are countably many branches of the W function, denoted by Wk(z), for integer k; W0(z) being the main (or principal) branch.  W0(z) is defined for all complex numbers z while Wk(z) with k ≠ 0 is defined for all non-zero z. We have  W0(0) = 0 and limz→0 Wk(z) = −∞  for all k ≠ 0.
+The branch point for the principal branch is at z = −1/e, with a branch cut that extends to −∞ along the negative real axis.  This branch cut separates the principal branch from the two branches W−1 and W1.  In all branches Wk with k ≠ 0, there is a branch point at z = 0 and a branch cut along the entire negative real axis.
+The functions Wk(z), k ∈ Z are all injective and their ranges are disjoint. The range of the entire multivalued function W is the complex plane.  The image of the real axis is the union of the real axis and the quadratrix of Hippias, the parametric curve w = −t cot t + it.
+Inverse
+The range plot above also delineates the regions in the complex plane where the simple inverse relationship $MATH$ is true. f = zez implies that there exists an n such that $MATH$, where n depends upon the value of z. The value of the integer n changes abruptly when zez is at the branch cut of $MATH$, which means that zez ≤ 0, except for $MATH$ where it is zez ≤ −1/e.
+Defining $MATH$, where x and y are real, and expressing ez in polar coordinates, it is seen that
+For $MATH$, the branch cut for $MATH$ is the non-positive real axis, so that
+and
+For $MATH$, the branch cut for $MATH$ is the real axis with $MATH$, so that the inequality becomes
+Inside the regions bounded by the above, there are no discontinuous changes in $MATH$, and those regions specify where the W function is simply invertible, i.e. $MATH$.
+Calculus
+Derivative
+By implicit differentiation, one can show that all branches of W satisfy the differential equation
+(W is not differentiable for z = −1/e.) As a consequence, we get the following formula for the derivative of W:
+Using the identity eW(z) = z/W(z), we get the following equivalent formula:
+At the origin we have
+Integral
+The function W(x), and many expressions involving W(x), can be integrated using the substitution w = W(x), i.e. x = wew:
+(The last equation is more common in the literature but is undefined at x = 0).  One consequence of this (using the fact that W0(e) = 1) is the identity
+Asymptotic expansions
+The Taylor series of W0 around 0 can be found using the Lagrange inversion theorem and is given by
+The radius of convergence is 1/e, as may be seen by the ratio test. The function defined by this series can be extended to a holomorphic function defined on all complex numbers with a branch cut along the interval (−∞, −1/e]; this holomorphic function defines the principal branch of the Lambert W function.
+For large values of x, W0 is asymptotic to
+where L1 = ln x, L2 = ln ln x, and [l + ml + 1] is a non-negative Stirling number of the first kind. Keeping only the first two terms of the expansion,
+The other real branch, W−1, defined in the interval [−1/e, 0), has an approximation of the same form as x approaches zero, with in this case L1 = ln(−x) and L2 = ln(−ln(−x)).
+Integer and complex powers
+Integer powers of W0 also admit simple Taylor (or Laurent) series expansions at zero:
+More generally, for r ∈ Z, the Lagrange inversion formula gives
+which is, in general, a Laurent series of order r. Equivalently, the latter can be written in the form of a Taylor expansion of powers of W0(x) / x:
+which holds for any r ∈ C and |x| < 1/e.
+Bounds and inequalities
+A number of non-asymptotic bounds are known for the Lambert function.
+Hoorfar and Hassani showed that the following bound holds for x ≥ e:
+They also  showed the general bound
+for every $MATH$ and $MATH$, with equality only for $MATH$.
+The bound allows many other bounds to be made, such as taking $MATH$ which gives the bound
+In 2013 it was proven that the branch W−1 can be bounded as follows:
+Identities
+A few identities follow from the definition:
+Note that, since f(x) = xex is not injective, it does not always hold that W(f(x)) = x, much like with the inverse trigonometric functions. For fixed x < 0 and x ≠ −1, the equation xex = yey has two real solutions in y, one of which is of course y = x. Then, for i = 0 and x < −1, as well as for i = −1 and x ∈ (−1, 0), y = Wi(xex) is the other solution.
+Some other identities:
+Substituting −ln x in the definition:
+With Euler's iterated exponential h(x):
+Special values
+The following are special values of the principal branch:
+Representations
+The principal branch of the Lambert function can be represented by a proper integral, due to Poisson:
+On the wider domain −1/e ≤ x ≤ e, the considerably simpler representation was found by Mező:
+Another representation of the principal branch was found by the same author
+and previously by Kalugin-Jeffrey-Corless:
+The following continued fraction representation also holds for the principal branch:
+Also, if |W(x)| < 1:
+In turn, if |W(x)| > e, then
+Other formulas
+Definite integrals
+There are several useful definite integral formulas involving the principal branch of the W function, including the following:
+The first identity can be found by writing the Gaussian integral in polar coordinates.
+The second identity can be derived by making the substitution u = W(x), which gives
+Thus
+The third identity may be derived from the second by making the substitution u = x−2 and the first can also be derived from the third by the substitution z = 1/√2 tan x.
+Except for z along the branch cut (−∞, −1/e] (where the integral does not converge), the principal branch of the Lambert W function can be computed by the following integral:
+where the two integral expressions are equivalent due to the symmetry of the integrand.
+Indefinite integrals
+Introduce substitution variable $MATH$
+$MATH$
+$MATH$
+$MATH$
+$MATH$
+$MATH$
+$MATH$
+$MATH$
+$MATH$
+$MATH$
+$MATH$
+$MATH$
+$MATH$
+$MATH$
+$MATH$
+$MATH$
+$MATH$
+$MATH$
+$MATH$
+$MATH$
+Introduce substitution variable $MATH$, which gives us $MATH$ and $MATH$
+$MATH$
+$MATH$
+$MATH$
+$MATH$
+$MATH$
+Applications
+Solving equations
+The Lambert W function is used to solve equations in which the unknown quantity occurs both in the base and in the exponent, or both inside and outside of a logarithm. The strategy is to convert such an equation into one of the form zez = w and then to solve for z using the W function.
+For example, the equation
+(where x is an unknown real number) can be solved by rewriting it as
+This last equation has the desired form and the solutions for real x are:
+and thus:
+Generally, the solution to
+is:
+where a, b, and c are complex constants, with b and c not equal to zero, and the W function is of any integer order.
+Viscous flows
+Granular and debris flow fronts and deposits, and the fronts of viscous fluids in natural events and in laboratory experiments can be described by using the Lambert–Euler omega function as follows:
+where H(x) is the debris flow height, x is the channel downstream position, L is the unified model parameter consisting of several physical and geometrical parameters of the flow, flow height and the hydraulic pressure gradient.
+In pipe flow, the Lambert W function is part of the explicit formulation of the Colebrook equation for finding the Darcy friction factor. This factor is used to determine the pressure drop through a straight run of pipe when the flow is turbulent.
+Time dependent flow in simple branch hydraulic systems
+The principal branch of the Lambert W function was employed in the field of mechanical engineering, in the study of time dependent transfer of Newtonian fluids between two reservoirs with varying free surface levels, using centrifugal pumps. The Lambert W function provided an exact solution to the flow rate of fluid in both the laminar and turbulent regimes: 
+where $MATH$ is the initial flow rate and $MATH$ is time.
+Neuroimaging
+The Lambert W function was employed in the field of neuroimaging for linking cerebral blood flow and oxygen consumption changes within a brain voxel, to the corresponding blood oxygenation level dependent (BOLD) signal.
+Chemical engineering
+The Lambert W function was employed in the field of chemical engineering for modelling the porous electrode film thickness in a glassy carbon based supercapacitor for electrochemical energy storage. The Lambert W function turned out to be the exact solution for a gas phase thermal activation process where growth of carbon film and combustion of the same film compete with each other.
+Crystal growth
+In the crystal growth, the distribution of solute can be obtained by using the Scheil equation. So the negative principal of the Lambert W-function can be used to calculate the distribution coefficient, $MATH$:
+$MATH$
+Materials science
+The Lambert W function was employed in the field of epitaxial film growth for the determination of the critical dislocation onset film thickness. This is the calculated thickness of an epitaxial film, where due to thermodynamic principles the film will develop crystallographic dislocations in order to minimise the elastic energy stored in the films. Prior to application of Lambert W for this problem, the critical thickness had to be determined via solving an implicit equation. Lambert W turns it in an explicit equation for analytical handling with ease.
+Porous media
+The Lambert W function has been employed in the field of fluid flow in porous media to model the tilt of an interface separating two gravitationally segregated fluids in a homogeneous tilted porous bed of constant dip and thickness where the heavier fluid, injected at the bottom end, displaces the lighter fluid that is produced at the same rate from the top end. The principal branch of the solution corresponds to stable displacements while the −1 branch applies if the displacement is unstable with the heavier fluid running underneath the lighter fluid.
+Bernoulli numbers and Todd genus
+The equation (linked with the generating functions of Bernoulli numbers and Todd genus):
+can be solved by means of the two real branches W0 and W−1:
+This application shows that the branch difference of the W function can be employed in order to solve other transcendental equations.
+Statistics
+The centroid of a set of histograms defined with respect to the symmetrized Kullback–Leibler divergence (also called the Jeffreys divergence ) has a closed form using the Lambert W function.
+Pooling of tests for infectious diseases
+Solving for the optimal group size to pool tests so that at least one individual is infected involves the Lambert W function.
+Exact solutions of the Schrödinger equation
+The Lambert W function appears in a quantum-mechanical potential, which affords the fifth – next to those of the harmonic oscillator plus centrifugal, the Coulomb plus inverse square, the Morse, and the inverse square root potential – exact solution to the stationary one-dimensional Schrödinger equation in terms of the confluent hypergeometric functions. The potential is given as
+A peculiarity of the solution is that each of the two fundamental solutions that compose the general solution of the Schrödinger equation is given by a combination of two confluent hypergeometric functions of an argument proportional to
+The Lambert W function also appears in the exact solution for the bound state energy of the one dimensional Schrödinger equation with a Double Delta Potential.
+Exact solutions of the Einstein vacuum equations
+In the Schwarzschild metric solution of the Einstein vacuum equations, the W function is needed to go from the Eddington–Finkelstein coordinates to the Schwarzschild coordinates.  For this reason, it also appears in the construction of the Kruskal–Szekeres coordinates.
+Resonances of the delta-shell potential
+The s-wave resonances of the delta-shell potential can be written exactly in terms of the Lambert W function.
+Thermodynamic equilibrium
+If a reaction involves reactants and products having heat capacities that are constant with temperature then the equilibrium constant K obeys
+for some constants a, b, and c. When c (equal to ΔCp/R) is not zero we can find the value or values of T where K equals a given value as follows, where we use L for ln T.
+If a and c have the same sign there will be either two solutions or none (or one if the argument of W is exactly −1/e). (The upper solution may not be relevant.) If they have opposite signs, there will be one solution.
+Phase separation of polymer mixtures
+In the calculation of the phase diagram of thermodynamically incompatible polymer mixtures according to the Edmond-Ogston model, the solutions for binodal and tie-lines are formulated in terms of Lambert W functions.
+Wien's displacement law in a D-dimensional universe
+Wien's displacement law is expressed as $MATH$. With $MATH$ and $MATH$, where $MATH$ is the spectral energy energy density, one finds $MATH$. The solution $MATH$ shows that the spectral energy density is dependent on the dimensionality of the universe.
+AdS/CFT correspondence
+The classical finite-size corrections to the dispersion relations of giant magnons, single spikes and GKP strings can be expressed in terms of the Lambert W function.
+Epidemiology
+In the t → ∞ limit of the SIR model, the proportion of susceptible and recovered individuals has a solution in terms of the Lambert W function.
+Determination of the time of flight of a projectile
+The total time of the journey of a projectile which experiences air resistance proportional to its velocity can be determined in exact form by using the Lambert W function.
+Electromagnetic surface wave propagation
+The transcendental equation that appears in the determination of the propagation wave number of an electromagnetic axially symmetric surface wave (a low-attenuation single TM01 mode) propagating in a cylindrical metallic wire gives rise to an equation like u ln u = v (where u and v clump together the geometrical and physical factors of the problem), which is solved by the Lambert W function. The first solution to this problem, due to Sommerfeld circa 1898, already contained an iterative method to determine the value of the Lambert W function.
+Orthogonal trajectories of real ellipses
+The family of ellipses $MATH$ centered at $MATH$ is parameterized by eccentricity $MATH$. The orthogonal trajectories of this family are given by the differential equation $MATH$ whose general solution is the family $MATH$$MATH$.
+Generalizations
+The standard Lambert W function expresses exact solutions to transcendental algebraic equations (in x) of the form:
+where a0, c and r are real constants.  The solution is
+Generalizations of the Lambert W function include:
+Applications of the Lambert W function in fundamental physical problems are not exhausted even for the standard case expressed in (1) as seen recently in the area of atomic, molecular, and optical physics.
+Numerical evaluation
+The W function may be approximated using Newton's method, with successive approximations to w = W(z) (so z = wew) being
+The W function may also be approximated using Halley's method,
+given in Corless et al. to compute W.
+
+
+For real $MATH$, it could be approximated by the quadratic-rate recursive formula of R. Iacono and J.P. Boyd:
+Lajos Lóczi proves that by choosing appropriate $MATH$,
+one can determine the maximum number of iteration steps in advance for any precision:
+Software
+The Lambert W function is implemented as LambertW in Maple, lambertw in GP (and glambertW in PARI), lambertw in Matlab, also lambertw in Octave with the specfun package, as lambert_w in Maxima, as ProductLog (with a silent alias LambertW) in Mathematica, as lambertw in Python scipy's special function package, as LambertW in Perl's ntheory module, and as gsl_sf_lambert_W0, gsl_sf_lambert_Wm1 functions in the special functions section of the GNU Scientific Library (GSL). In the Boost C++ libraries, the calls are lambert_w0, lambert_wm1, lambert_w0_prime, and lambert_wm1_prime. In R, the Lambert W function is implemented as the lambertW0 and lambertWm1 functions in the lamW package.
+C++ code for all the branches of the complex Lambert W function is available on the homepage of István Mező.
+See also
+Notes

@@ -1,0 +1,90 @@
+Lichen planus
+Lichen planus (LP) is a chronic inflammatory and immune-mediated disease that affects the skin, nails, hair, and mucous membranes. It is not an actual lichen, and is only named that because it looks like one. It is characterized by polygonal, flat-topped, violaceous papules and plaques with overlying, reticulated, fine white scale (Wickham's striae), commonly affecting dorsal hands, flexural wrists and forearms, trunk, anterior lower legs and oral mucosa. The hue may be gray-brown in people with darker skin. Although there is a broad clinical range of LP manifestations, the skin and oral cavity remain as the major sites of involvement. The cause is unknown, but it is thought to be the result of an autoimmune process with an unknown initial trigger. There is no cure, but many different medications and procedures have been used in efforts to control the symptoms.
+The term lichenoid reaction (lichenoid eruption or lichenoid lesion) refers to a lesion of similar or identical histopathologic and clinical appearance to lichen planus (i.e., an area which resembles lichen planus, both to the naked eye and under a microscope). Sometimes dental materials or certain medications can cause a lichenoid reaction. They can also occur in association with graft versus host disease.: 258 
+Classification
+Lichen planus lesions are so called because of their "lichen-like" appearance and can be classified by the site they involve, or by their morphology.
+Site
+Lichen planus may be categorized as affecting mucosal or cutaneous surfaces.
+Pattern
+Lichen planus lesions can occur in many different forms:
+Overlap syndromes
+Occasionally, lichen planus is known to occur with other conditions. For example:
+Signs and symptoms
+Although lichen planus can present with a variety of lesions, the most common presentation is as a well defined area of purple-coloured, itchy, flat-topped papules with interspersed lacy white lines (Wickham's striae). This description is known as the characteristic "6 Ps" of lichen planus: planar (flat-topped), purple, polygonal, pruritic, papules, and plaques. This rash, after regressing, is likely to leave an area of hyperpigmentation that slowly fades. That said, a variety of other lesions can also occur.
+Skin
+Variants of cutaneous lichen planus are distinguished based upon the appearance of the lesions and/or their distribution. Lesions can affect the:
+Other variants may include:
+Mucous membranes
+Lichen planus affecting mucosal surfaces may have one lesion or be multifocal. Examples of lichen planus affecting mucosal surfaces include:
+Mouth
+Oral lichen planus (also termed oral mucosal lichen planus), is a form of mucosal lichen planus, where lichen planus involves the oral mucosa, the lining of the mouth. This may occur in combination with other variants of lichen planus. Six clinical forms of oral lichen planus (OLP) are recognized:
+These types often coexist in the same individual. Oral lichen planus (OLP) tends to present bilaterally as mostly white lesions on the inner cheek, although any mucosal site in the mouth may be involved. Other sites, in decreasing order of frequency, may include the tongue, lips, gingivae, floor of the mouth, and very rarely, the palate.
+Generally, oral lichen planus tends not to cause any discomfort or pain, although some people may experience soreness when eating or drinking acidic or spicy foodstuffs or beverages. When symptoms arise, they are most commonly associated with the atrophic and ulcerative subtypes. These symptoms can include a burning sensation to severe pain. They may also experience mucosal bleeding in response to mild trauma, such as toothbrushing. Additionally, the Koebner phenomenon (the development of new lesions at sites of trauma) is not only present in cutaneous lichen planus (CLP) but can also occur in the setting of OLP.
+Residual postinflammatory hyperpigmentation has been reported in association with OLP, manifesting as brown to black pigmentation on the oral mucosa and may most likely occur in dark-skinned individuals.
+OLP may occur as a sole manifestation of the disease or in conjunction with other clinical manifestations of LP, including cutaneous LP, genital LP, nail LP, and lichen planopilaris (scalp LP).
+Causes
+Cutaneous LP is a self-limiting condition. It usually resolves within 6 to 12 months. Oral LP is a non infectious, chronic inflammatory condition that involves the oral mucosa and may be accompanied by skin lesions. The etiology of oral LP are unknown.
+It is not clear whether the mechanisms causing isolated oral LP are different from those causing oral LP with cutaneous LP. An immune-mediated mechanism where basal keratinocytes are being targeted as foreign antigens by activated T cells, especially CD8+ T cells, has been proposed. Upregulation of intercellular adhesion molecule-1 (ICAM-1) and cytokines associated with T-helper 1 immune response, may also play an important role in the pathogenesis of lichen planus.
+Stress is thought to play a role in the pathogenesis of oral LP. Patients with anxiety and depression are reported more commonly with oral LP if compared to normal healthy individuals. Some studies have indicated that stressful events can induce LP lesions in otherwise healthy individuals. However, a cause effect relationship between stress and the onset of oral LP has not been demonstrated.
+Autoimmune response to epithelial self-antigens remains a possibility. A single study of cutaneous LP reported evidence in support of autoimmunity by expanding in vitro T cells isolated from the skin lesions of two patients, followed by testing the ability of these T cells to kill autologous keratinocytes (cytotoxicity).
+Several potential triggers of oral LP have been proposed over the years, mainly
+Pathogenesis
+Oral LP is considered to be a T-cell mediated chronic inflammatory tissue reaction that results in a cytotoxic reaction against epithelial basal cells. The inflammatory infiltrate in oral LP is primarily composed of CD8+ T cells. A potential pathway for CD8+ T cell-mediated cytotoxicity in oral LP is described as follows:
+Antigens presented on MHC 1 molecules activates CD8+ T cells on keratinocytes or by encounters with activated CD4+ helper T cells or cytokines produced by activated CD4+ helper T cells
+Activated CD8+ T cells induce keratinocyte apoptosis through various mechanisms such as secretion of tumor necrosis factor (TNF)-alpha, secretion of granzyme B, or Fas-Fas ligand interactions. Chemokines are produced by activated CD8+ T cells that attract additional inflammatory cells, thereby promoting continued inflammation.
+Other mechanisms that have been proposed include:
+Oral LP may also be caused by genetic factor which influence the immune function. A separate study performed in China found an association between a polymorphism in the TNF-alpha gene and risk for oral LP in a subset of patients. An Italian study found a significant increase in a genetic polymorphism of the first intron of the interferon (IFN)-gamma promoter in patients with oral LP compared with controls.
+Diagnosis
+Skin
+Patient history and clinical presentation need to be taken to diagnose lichen planus. Patients with suspected cutaneous lichen planus need to be evaluated clinically through patient interviews and physical examinations. Patients should be questioned about their medication history, any history of pruritus or genital pain and history of dysphagia or odynophagia. Examination of entire cutaneous surface including the scalp, oral cavity and external genitalia need to be included. Wickham's striae often can be seen during microscopic examination of cutaneous lesions of lichen planus.
+To confirm the diagnosis of cutaneous lichen planus, a skin biopsy can be done. A punch biopsy of sufficient depth to the mid dermis is usually significant. Immunofluorescence studies are not always needed. Direct immunofluorescence (DIF) can be useful in patients with bullous lesions to differentiate the condition from an autoimmune vesiculobullous disease.
+Mouth
+A diagnosis of oral lichen planus (LP) is confirmed through review of the patient history, physical examination, and histologic findings.
+The clinical evaluation should include a patient history that assesses the following:
+A full examination that includes the evaluation of the mucosal and cutaneous surfaces, including the vulva, vagina, penis, scalp, and nails should be performed. Thorough examination may lead to the detection of extraoral manifestations of LP that provide additional support for the diagnosis or the identification of clinical findings that suggest another diagnosis.
+Tissue biopsies of oral LP help to confirm the diagnosis and are particularly of value for erythematous and erosive LP, which share features with multiple other mucosal disorders, including oral malignancy. Biopsies to confirm oral LP are less essential in patients who present with classic reticular LP, particularly in patients in whom a diagnosis of LP has already been confirmed through biopsy of an extraoral manifestation of this disorder.
+Skin
+Oral lichenoid drug reaction
+Lichenoid drug eruptions may be caused by a variety of systemic medications and share clinical features with oral LP. Histologic findings of a deep mixed infiltrate with lymphocytes, plasma cells, and neutrophils (with or without eosinophils) and perivascular inflammation favor this diagnosis.
+Oral lichenoid contact reaction (allergic contact mucositis)
+Oral lichenoid contact reactions may be caused by a variety of substances. The clinical and histologic features of oral lichenoid contact reactions are similar to oral LP. Patch testing and recognition of the proximity of an offending substance to the eruption can aid with diagnosis.
+Autoimmune blistering diseases
+Mucous membrane pemphigoid and other autoimmune blistering diseases may present with oral erosions and desquamative gingivitis similar to that seen in erosive LP. Biopsies for routine histologic examination and direct immunofluorescence are useful for distinguishing these disorders from oral LP.
+Graft-versus-host disease (GVHD)
+Lacy, reticulated plaques or erosions that resemble oral LP may occur in GVHD. The histologic findings of these disorders are also similar. The patient history is useful for differentiating chronic GVHD from oral LP. Oral involvement in acute GVHD is less well characterized than chronic GVHD, but has been associated with erythematous, erosive, ulcerative, or lichenoid oral lesions.
+Leukoplakia
+Leukoplakia is a manifestation of squamous epithelial hyperplasia that may be a precursor to oral squamous cell carcinoma. White patches or plaques usually appear on the oral mucosa. To rule out malignancy, a biopsy of leukoplakia is indicated.
+Oral squamous cell carcinoma
+Oral squamous cell carcinoma (SCC) can present as erythematous or white patches, ulcers, or exophytic masses. The highest risk for oral SCC may occur in patients with erythematous or erosive oral LP. A biopsy is indicated.
+Leukoedema
+Leukoedema is a common, benign finding in the oral cavity that presents as white-gray, somewhat translucent plaques on the mucosa. The buccal mucosa is the most common site for involvement. Symptoms are absent, and no treatment is necessary.
+Oropharyngeal candidiasis
+Oropharyngeal candidiasis (also known as thrush) is a common infection that has a predilection for infants, older adults with dentures, immunosuppressed individuals, and individuals utilizing intraoral corticosteroid therapy. Patients present with white plaques or erythematous patches on the buccal mucosa, palate, tongue, or oropharynx that may be mistaken for reticular LP.
+Histopathology
+The histologic findings of oral LP can offer strong support for the diagnosis, but are not pathognomonic. Clinical correlation is required. Common histologic findings of oral LP include:
+Nonetheless, interpreting the histopathological features of oral LP has been associated historically with high intra-observer and inter-observer variabilities.
+Treatment
+There is no cure for lichen planus, and so treatment of cutaneous and oral lichen planus is for symptomatic relief or due to cosmetic concerns. When medical treatment is pursued, first-line treatment typically involves either topical or systemic corticosteroids, and removal of any triggers. Without treatment, most lesions will spontaneously resolve within 6–9 months for cutaneous lesions, and longer for mucosal lesions.
+Skin
+Many different treatments have been reported for cutaneous lichen planus, however there is a general lack of evidence of efficacy for any treatment. Treatments tend to be prolonged, partially effective and disappointing.  The mainstay of localized skin lesions is topical steroids. Additional treatments include retinoids, such as acitretin, or sulfasalazine. Narrow band UVB phototherapy or systemic PUVA therapy are known treatment modalities for generalized disease.
+Mouth
+Reassurance that the condition is benign, elimination of precipitating factors and improving oral hygiene are considered initial management for symptomatic OLP, and these measures are reported to be useful. Treatment usually involves topical corticosteroids (such as betamethasone, clobetasol, dexamethasone, and triamcinolone) and analgesics, or if these are ineffective and the condition is severe, then systemic corticosteroids may be used. Calcineurin inhibitors (such as pimecrolimus, tacrolimus or cyclosporin) are sometimes used. While topical steroids are widely accepted as first line treatment for mucosal lichen planus, there is only weak evidence to support their effectiveness for erosive oral lichen planus.
+Prognosis
+Cutaneous lichen planus lesions typically resolve within six months to a year. However, some variant such as the hypertrophic variant might persist for years if left untreated or unmonitored.
+It is found that cutaneous lichen planus does not carry a risk of skin cancer. In contrast to cutaneous LP, which is self limited, lichen planus lesions in the mouth may persist for many years, and tend to be difficult to treat, with relapses being common.
+Although this condition was first described almost a century ago, it has been reported that its associated oral cancer risk has been exaggerated.
+Overall, it is found that patients with erythematous or erosive oral lichen planus have a higher risk of oral squamous cell carcinoma compared to patients diagnosed with other variants.
+Due to the possibility that oral LP may increase risk for oral cancer, patients with oral lichen planus are encouraged to avoid activities known to increase the risk for oral cancer, such as smoking and alcohol use.
+Patients with oral lichen planus should be followed-up at least every 6 to 12 months, to assess the disease activity, changes in symptoms or even detect early signs of malignancy.
+Epidemiology
+The overall estimated prevalence of lichen planus in worldwide population is in the range of 0.2% to 5%.
+It generally occurs more commonly in females, in a ratio of 3:2, and most cases are diagnosed between the ages of 30 and 60, but it can occur at any age.
+Lichen planus can occur in patients as diverse cutaneous manifestations alone or in combination with mucosal lichen planus and, or lichen planus of the nails. Study shows that frequency of mucosal involvement of lichen planus patients is 30- 70%.
+Oral lichen planus is relatively common, It is one of the most common mucosal diseases. The prevalence in the general population is about 1.27–2.0%, and it occurs more commonly in middle aged people. Oral lichen planus in children is rare. About 50% of females with oral lichen planus were reported to have undiagnosed vulvar lichen planus.
+Some studies suggest that cutaneous lichen planus is more commonly found in men whilst oral lichen planus lesions are more commonly found in women.
+History
+Lichen planus was first reported in 1869 by Erasmus Wilson.
+The origin of the word is believed to be from the Greek word ''Leichen'', which means tree moss, and also from Latin word ''planus'', which means flat and even surface. Dr Wilson explained the condition as an inflammatory disorder with unknown etiology. Initially, the characteristic surface markings or striae was described by Weyl in 1885. In 1895, Wickham further explained the characteristic of the lesion, now known as Wickham striae. Further on, Darier explained the presence of such characteristic markings by correlating with an increase thickness of the granular cell layer. The coexistence of oral, cervical and stomach lichen planus lesions were described by Guogerot and Burnier in 1937. A similar variant of mucosal lichen planus as the vulvovaginal-gingival syndrome with erosive lesions involving oral and vulvovaginal mucosa were introduced by Pelisse and colleagues in year 1982.
+Research
+Apremilast is undergoing investigation as a potential treatment.
+Notes

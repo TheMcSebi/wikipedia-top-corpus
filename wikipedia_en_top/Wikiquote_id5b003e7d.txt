@@ -1,0 +1,17 @@
+Wikiquote
+Wikiquote is part of a family of wiki-based projects run by the Wikimedia Foundation using MediaWiki software. Based on an idea by Daniel Alston and implemented by Brion Vibber, the project's objective is to produce collaboratively a vast reference of quotations from prominent people, books, films, proverbs, etc. and writings about them. The website aims to be as accurate as possible regarding the provenance and sourcing of the quotations.
+Initially, the project operated only in English from July 2003, expanding to include other languages in July 2004. As of December 2022, there are active Wikiquote sites for 71 languages comprising a total of 288,842 articles and 1,782 recently active editors.
+History
+The Wikiquote site originated in 2003. The article creation milestones are taken from WikiStats.
+Operation
+Though there are many online collections of quotations, Wikiquote is distinguished by being among the few that provide an opportunity for visitors to contribute and the very few which strive to provide exact sources for each quotation as well as corrections of misattributed quotations. Wikiquote pages are cross-linked to articles about the notable personalities on Wikipedia.
+Multi-lingual cooperation
+As of December 2022, there are Wikiquote sites for 93 languages of which 71 are active and 22 are closed. The active sites have 288,842 articles and the closed sites have 638 articles. There are 4,132,014 registered users of which 1,782 are recently active.
+The top ten Wikiquote language projects by mainspace article count:
+For a complete list with totals see Wikimedia Statistics: 
+Use in experiments
+It can be possible to utilise Wikiquote as a text corpus for language experiments.
+The University of Wroclaw team entering Conversational Intelligence Challenge of the 2017 Conference on Neural Information Processing Systems (NIPS 2017) used Wikiquote to produce a conversational talker module for extraction of rare words.
+Researchers have used Wikiquote to train language models to detect extremist quotes.
+Reception
+Wikiquote has been suggested as "a great starting point for a quotation search" with only quotes with sourced citations being available. It is also noted as a source from frequent misquotes and their possible origins. It can be used for analysis to produce claims such as "Albert Einstein is probably the most quoted figure of our time".

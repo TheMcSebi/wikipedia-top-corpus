@@ -1,0 +1,70 @@
+Inequality (mathematics)
+In mathematics, an inequality is a relation which makes a non-equal comparison between two numbers or other mathematical expressions. It is used most often to compare two numbers on the number line by their size. There are several different notations used to represent different kinds of inequalities:
+In either case, a is not equal to b. These relations are known as strict inequalities, meaning that a is strictly less than or strictly greater than b. Equivalence is excluded.
+In contrast to strict inequalities, there are two types of inequality relations that are not strict:
+The relation not greater than can also be represented by a ≯ b, the symbol for "greater than" bisected by a slash, "not". The same is true for not less than and a ≮ b.
+The notation a ≠ b means that a is not equal to b; this inequation sometimes is considered a form of strict inequality. It does not say that one is greater than the other; it does not even require a and b to be member of an ordered set.
+In engineering sciences, less formal use of the notation is to state that one quantity is "much greater" than another, normally by several orders of magnitude.  
+This implies that the lesser value can be neglected with little effect on the accuracy of an approximation (such as the case of ultrarelativistic limit in physics).
+In all of the cases above, any two symbols mirroring each other are symmetrical; a < b and b > a are equivalent, etc.
+Properties on the number line
+Inequalities are governed by the following properties. All of these properties also hold if all of the non-strict inequalities (≤ and ≥) are replaced by their corresponding strict inequalities (< and >) and — in the case of applying a function — monotonic functions are limited to strictly monotonic functions.
+Converse
+The relations ≤ and ≥ are each other's converse, meaning that for any real numbers a and b:
+Transitivity
+The transitive property of inequality states that for any real numbers a, b, c:
+If either of the premises is a strict inequality, then the conclusion is a strict inequality:
+Addition and subtraction
+A common constant c may be added to or subtracted from both sides of an inequality. So, for any real numbers a, b, c:
+In other words, the inequality relation is preserved under addition (or subtraction) and the real numbers are an ordered group under addition.
+Multiplication and division
+The properties that deal with multiplication and division state that for any real numbers, a, b and non-zero c:
+In other words, the inequality relation is preserved under multiplication and division with positive constant, but is reversed when a negative constant is involved. More generally, this applies for an ordered field. For more information, see § Ordered fields.
+Additive inverse
+The property for the additive inverse states that for any real numbers a and b:
+Multiplicative inverse
+If both numbers are positive, then the inequality relation between the multiplicative inverses is opposite of that between the original numbers. More specifically, for any non-zero real numbers a and b that are both positive (or both negative):
+All of the cases for the signs of a and b can also be written in chained notation, as follows:
+Applying a function to both sides
+Any monotonically increasing function, by its definition, may be applied to both sides of an inequality without breaking the inequality relation (provided that both expressions are in the domain of that function). However, applying a monotonically decreasing function to both sides of an inequality means the inequality relation would be reversed. The rules for the additive inverse, and the multiplicative inverse for positive numbers, are both examples of applying a monotonically decreasing function.
+If the inequality is strict (a < b, a > b) and the function is strictly monotonic, then the inequality remains strict. If only one of these conditions is strict, then the resultant inequality is non-strict. In fact, the rules for additive and multiplicative inverses are both examples of applying a strictly monotonically decreasing function.
+A few examples of this rule are: 
+Formal definitions and generalizations
+A (non-strict) partial order is a binary relation ≤ over a set P which is reflexive, antisymmetric, and transitive. That is, for all a, b, and c in P, it must satisfy the three following clauses:
+A set with a partial order is called a partially ordered set. Those are the very basic axioms that every kind of order has to satisfy. Other axioms that exist for other definitions of orders on a set P include:
+Ordered fields
+If (F, +, ×) is a field and ≤ is a total order on F, then (F, +, ×, ≤) is called an ordered field if and only if:
+Both (Q, +, ×, ≤) and (R, +, ×, ≤) are ordered fields, but ≤ cannot be defined in order to make (C, +, ×, ≤) an ordered field, because −1 is the square of i and would therefore be positive.
+Besides from being an ordered field, R also has the Least-upper-bound property. In fact, R can be defined as the only ordered field with that quality.
+Chained notation
+The notation a < b < c stands for "a < b and b < c", from which, by the transitivity property above, it also follows that a < c. By the above laws, one can add or subtract the same number to all three terms, or multiply or divide all three terms by same nonzero number and reverse all inequalities if that number is negative. Hence, for example, a < b + e < c is equivalent to a − e < b < c − e.
+This notation can be generalized to any number of terms: for instance, a1 ≤ a2 ≤ ... ≤ an means that ai ≤ ai+1 for i = 1, 2, ..., n − 1.  By transitivity, this condition is equivalent to ai ≤ aj for any 1 ≤ i ≤ j ≤ n.
+When solving inequalities using chained notation, it is possible and sometimes necessary to evaluate the terms independently. For instance, to solve the inequality 4x < 2x + 1 ≤ 3x + 2, it is not possible to isolate x in any one part of the inequality through addition or subtraction. Instead, the inequalities must be solved independently, yielding x < 1/2 and x ≥ −1 respectively, which can be combined into the final solution −1 ≤ x < 1/2.
+Occasionally, chained notation is used with inequalities in different directions, in which case the meaning is the logical conjunction of the inequalities between adjacent terms.  For example, the defining condition of a zigzag poset is written as a1 < a2 > a3 < a4 > a5 < a6 > ... .   Mixed chained notation is used more often with compatible relations, like <, =, ≤.  For instance, a < b = c ≤ d means that a < b, b = c, and c ≤ d.  This notation exists in a few programming languages such as Python.  In contrast, in programming languages that provide an ordering on the type of comparison results, such as C, even homogeneous chains may have a completely different meaning.
+Sharp inequalities
+An inequality is said to be sharp if it cannot be relaxed and still be valid in general. Formally, a universally quantified inequality φ is called sharp if, for every valid universally quantified inequality ψ, if ψ ⇒ φ holds, then ψ ⇔ φ also holds. For instance, the inequality ∀a ∈ R. a2 ≥ 0 is sharp, whereas the inequality ∀a ∈ R. a2 ≥ −1 is not sharp.
+Inequalities between means
+There are many inequalities between means. For example, for any positive numbers a1, a2, ..., an we have H ≤ G ≤ A ≤ Q, where they represent the following means of the sequence:
+Cauchy–Schwarz inequality
+The Cauchy–Schwarz inequality states that for all vectors u and v of an inner product space it is true that
+where $MATH$ is the inner product. Examples of inner products include the real and complex dot product; In Euclidean space Rn with the standard inner product, the Cauchy–Schwarz inequality is
+Power inequalities
+A "power inequality" is an inequality containing terms of the form ab, where a and b are real positive numbers or variable expressions. They often appear in mathematical olympiads exercises.
+Examples
+Well-known inequalities
+Mathematicians often use inequalities to bound quantities for which exact formulas cannot be computed easily.  Some inequalities are used so often that they have names:
+Complex numbers and inequalities
+The set of complex numbers ℂ with its operations of addition and multiplication is a field, but it is impossible to define any relation ≤ so that (C, +, ×, ≤) becomes an ordered field. To make (ℂ, +, ×, ≤) an ordered field, it would have to satisfy the following two properties:
+Because ≤ is a total order, for any number a, either 0 ≤ a or a ≤ 0 (in which case the first property above implies that 0 ≤ −a). In either case 0 ≤ a2; this means that i2 > 0 and 12 > 0; so −1 > 0 and 1 > 0, which means (−1 + 1) > 0; contradiction.
+However, an operation ≤ can be defined so as to satisfy only the first property (namely, "if a ≤ b, then a + c ≤ b + c"). Sometimes the lexicographical order definition is used:
+It can easily be proven that for this definition a ≤ b implies a + c ≤ b + c.
+Vector inequalities
+Inequality relationships similar to those defined above can also be defined for column vectors.  If we let the vectors $MATH$ (meaning that $MATH$ and $MATH$, where $MATH$ and $MATH$ are real numbers for $MATH$), we can define the following relationships:
+Similarly, we can define relationships for $MATH$, $MATH$, and $MATH$. This notation is consistent with that used by Matthias Ehrgott in Multicriteria Optimization (see References).
+The trichotomy property (as stated above) is not valid for vector relationships.  For example, when $MATH$ and $MATH$, there exists no valid inequality relationship between these two vectors.  However, for the rest of the aforementioned properties, a parallel property for vector inequalities exists.
+Systems of inequalities
+Systems of linear inequalities can be simplified by Fourier–Motzkin elimination.
+The cylindrical algebraic decomposition is an algorithm that allows testing whether a system of polynomial equations and inequalities has solutions, and, if solutions exist, describing them. The complexity of this algorithm is doubly exponential in the number of variables. It is an active research domain to design algorithms that are more efficient in specific cases.
+See also
+References
+Sources

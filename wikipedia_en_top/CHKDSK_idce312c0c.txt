@@ -1,0 +1,35 @@
+CHKDSK
+In computing, CHKDSK (short for "check disk") is a system tool and command in DOS, Digital Research FlexOS, IBM/Toshiba 4690 OS, IBM OS/2, Microsoft Windows and related operating systems. It verifies the file system integrity of a volume and attempts to fix logical file system errors. It is similar to the fsck command in Unix and similar to Microsoft ScanDisk, which co-existed with CHKDSK in Windows 9x and MS-DOS 6.x.
+Implementations
+An early implementation of a 'CheckDisk' was the CHECKDSK that was a part of Digital Equipment Corporation hardware's diagnostics, running on early 1970s TENEX and TOPS-20.
+
+SCP 86-DOS
+The CHKDSK command was first implemented in 1980 by Tim Paterson and included in Seattle Computer Products 86-DOS.
+MS-DOS / IBM PC DOS
+The command is available in MS-DOS versions 1 and later.
+CHKDSK is implemented as an external command. MS-DOS versions 2.x - 4.x use chkdsk.com as the executable file. MS-DOS versions 5.x and later use chkdsk.exe as the executable file.
+CHKDSK can also show the memory usage, this was used before the command MEM.EXE was introduced in MS-DOS 4.0 to show the memory usage. In DR DOS the parameter /A limited the output to only show the memory usage. 
+MS-DOS 5.0 bug
+CHKDSK and UNDELETE in MS-DOS 5.0 have a bug which can corrupt data: If the file allocation table of a disk uses 256 sectors, running CHKDSK /F can cause data loss and running UNDELETE can cause unpredictable results. This normally affects disks with a capacity of approximately a multiple of 128 MB. This applies to CHKDSK.EXE and UNDELETE.EXE bearing a datestamp of April 9, 1991. This bug was fixed in MS-DOS 5.0a.
+Microsoft Windows
+CHKDSK can be run from DOS prompt, Windows Explorer, Windows Command Prompt, Windows PowerShell or Recovery Console.
+On Windows NT operating systems, CHKDSK can also check the disk surface for bad sectors and mark them (in MS-DOS 6.x and Windows 9x, this is a task done by Microsoft ScanDisk). The Windows Server version of CHKDSK is RAID-aware and can fully recover data in bad sectors of a disk in a RAID-1 or RAID-5 array if other disks in the set are intact.
+Fragments of files and directories deemed as corrupt as a result of, for example, power outages while writing, file name overlength, and/or invalid characters in file name, are moved into a directory under the partition's root, named found.000, and renamed into generic hexadecimally numbered files and directories starting with file00000000.chk and dir_00000000.chk respectively.
+On Windows NT family, a standard CHKDSK scan consists of three phases of testing file metadata. It looks for errors but does not fix them unless it is explicitly ordered to do so. The same applies to surface scan—this test, which could be extremely time-consuming on large or low-performance disks, is not carried out unless explicitly requested. CHKDSK requires exclusive write access to the volume to perform repairs.
+Due to the requirement of the monopolized access to the drive, the CHKDSK cannot check the system disk in the normal system mode. Instead, the system sets a dirty bit to the disk volume and then reboots the computer. During the Windows start-up, a special version of CHKDSK called Autochk (a native mode application) is started by the SMSS.EXE and checks and attempts repairing the file system if the dirty bit is set.
+Because of the exclusive access requirement and the time-consuming nature of CHKDSK operation, Windows Vista implemented a new file system health model in which the operating system fixes errors on the volumes as it encounters them. In the event that the problem is grave and a full scan is required, Action Center notifies the user to take the volume offline at the first convenience.
+Windows Vista and Windows Server 2008 added self-healing ability, turned on by default, in addition to providing the CHKDSK command. It detects physical file system errors and silently fixes them on the fly. Thus, many problems previously discovered on running CHKDSK never appear. It is administered by fsutil repair command.
+Criticism has been aimed at the tendency of AUTOCHK to automatically modify the file system when not explicitly solicited by the user who may wish to back up their data in prior, as an attempted repair may scramble, undermine and disown file and directory paths, especially on a multiboot installation where multiple operating systems may have interferingly written to the same partition.
+The alleged Windows 7 bug
+Before the release of Windows 7, InfoWorld reported an alleged memory leak in CHKDSK; according to the report, the chkdsk /r command would cause the memory consumption to reach the maximum and the system to crash. Randall C. Kennedy of InfoWorld attributed the original report to "various Web sources" and said that in his tests, the memory consumption reached above 90%, although he did not experience a crash. Nevertheless, Kennedy took the memory consumption for a critical bug that would derail Windows 7's launch and chastised Microsoft. Tom Warren of Neowin dismissed Kennedy's assessment of the alleged leak's significance. Steven Sinofsky of Microsoft also responded that Microsoft could not reproduce a crash either but that the massive memory consumption was by design, to improve performance, and not a leak. Ed Bott of ZDNet also reviewed the claim with his own tests and observed that no crash would occur. Noting that chkdsk /r, by design, does not work on the system drive while Windows is online, Bott concluded "it’s arguably a feature, not a bug, and the likelihood that you’ll ever crash a system this way is very, very small and completely avoidable."
+DR/Novell DOS
+DR DOS 6.0 also includes an implementation of the CHKDSK command.
+FreeDOS
+The FreeDOS version was developed by Imre Leber and is licensed under the GNU GPL 2.
+ReactOS
+The ReactOS implementation is based on a free clone developed by Mark Russinovich for Sysinternals in 1998.
+It was adapted to ReactOS by Emanuele Aliberti in 1999 and supports volumes using the FAT32 filesystem.
+The command does not support volumes using the Btrfs filesystem, although ReactOS supports it since version 0.4.1.
+See also
+References
+Further reading

@@ -1,0 +1,168 @@
+WHO Model List of Essential Medicines
+The WHO Model List of Essential Medicines (aka Essential Medicines List or EML), published by the World Health Organization (WHO), contains the medications considered to be most effective and safe to meet the most important needs in a health system. The list is frequently used by countries to help develop their own local lists of essential medicines. As of 2016, more than 155 countries have created national lists of essential medicines based on the World Health Organization's model list. This includes both developed and developing countries.
+
+
+The list is divided into core items and complementary items. The core items are deemed to be the most cost-effective options for key health problems and are usable with little additional health care resources. The complementary items either require additional infrastructure such as specially trained health care providers or diagnostic equipment or have a lower cost–benefit ratio. About 25% of items are in the complementary list. Some medications are listed as both core and complementary. While most medications on the list are available as generic products, being under patent does not preclude inclusion.
+The first list was published in 1977 and included 208 medications. The WHO updates the list every two years. There are 306 medications in the 14th list in 2005, 410 in the 19th list in 2015, 433 in the 20th list in 2017, 460 in the 21st list in 2019, and 479 in the 22nd list in 2021. Various national lists contain between 334 and 580 medications.
+A separate list for children up to 12 years of age, known as the WHO Model List of Essential Medicines for Children (EMLc), was created in 2007 and is in its 8th edition. It was created to make sure that the needs of children were systematically considered such as availability of proper formulations. Everything in the children's list is also included in the main list. The list and notes are based on the 19th to 22nd edition of the main list. An α indicates a medicine is on the complementary list. Therapeutic alternatives with similar clinical performance are listed for some medicines and they may be considered for national essential medicines lists.
+Anaesthetics, preoperative medicines and medical gases
+Inhalational medicines
+Injectable medicines
+Local anaesthetics
+Preoperative medication and sedation for short-term procedures
+Medical gases
+Medicines for pain and palliative care
+Non-opioids and non-steroidal anti-inflammatory medicines (NSAIMs)
+Opioid analgesics
+Medicines for other common symptoms in palliative care
+Antiallergics and medicines used in anaphylaxis
+Antidotes and other substances used in poisonings
+Non-specific
+Specific
+Anticonvulsants/antiepileptics
+Anti-infective medicines
+Intestinal anthelminthics
+Antifilarials
+Antischistosomals and other antinematode medicines
+Cysticidal medicines
+Access group antibiotics
+Watch group antibiotics
+Reserve group antibiotics
+Reserve antibiotics are last-resort antibiotics. The final version of the EML antibiotic book was supposed to be published in mid-2022, following the public consultation phase.
+Antileprosy medicines
+Antituberculosis medicines
+Antifungal medicines
+Antiherpes medicines
+Nucleoside/nucleotide reverse transcriptase inhibitors
+Non-nucleoside reverse transcriptase inhibitors
+Protease inhibitors
+Integrase inhibitors
+Fixed-dose combinations of antiretroviral medicines
+Medicines for prevention of HIV-related opportunistic infections
+Other antivirals
+Nucleoside/Nucleotide reverse transcriptase inhibitors
+Pangenotypic direct-acting antiviral combinations
+Non-pangenotypic direct-acting antiviral combinations
+Other antivirals for hepatitis C
+Antiamoebic and antigiardiasis medicines
+Antileishmaniasis medicines
+For curative treatment
+For chemoprevention
+Antipneumocystosis and antitoxoplasmosis medicines
+African trypanosomiasis
+Medicines for the treatment of 1st stage African trypanosomiasis
+Medicines for the treatment of 2nd stage African trypanosomiasis
+American trypanosomiasis
+Medicines for ectoparasitic infections
+Antimigraine medicines
+For treatment of acute attack
+For prophylaxis
+Immunomodulators and antineoplastics
+Immunomodulators for non-malignant disease
+Cytotoxic medicines
+Targeted therapies
+Immunomodulators
+Hormones and antihormones
+Supportive medicines
+Antiparkinsonism medicines
+Medicines affecting the blood
+Antianaemia medicines
+Medicines affecting coagulation
+Other medicines for haemoglobinopathies
+Blood products of human origin and plasma substitutes
+Blood and blood components
+Human immunoglobulins
+Blood coagulation factors
+Plasma substitutes
+Cardiovascular medicines
+Antianginal medicines
+Antiarrhythmic medicines
+Antihypertensive medicines
+Medicines used in heart failure
+Anti-platelet medicines
+Thrombolytic medicines
+Lipid-lowering agents
+Dermatological medicines (topical)
+Antifungal medicines
+Anti-infective medicines
+Anti-inflammatory and antipruritic medicines
+Medicines affecting skin differentiation and proliferation
+Scabicides and pediculicides
+Diagnostic agents
+Ophthalmic medicines
+Radiocontrast media
+Antiseptics and disinfectants
+Antiseptics
+Disinfectants
+Diuretics
+Gastrointestinal medicines
+Antiulcer medicines
+Antiemetic medicines
+Anti-inflammatory medicines
+Laxatives
+Medicines used in diarrhoea
+Oral rehydration
+Medicines for diarrhea
+Medicines for endocrine disorders
+Adrenal hormones and synthetic substitutes
+Androgens
+Estrogens
+No listings in this section.
+Progestogens
+Insulins
+Oral hypoglycaemic agents
+Medicines for hypoglycaemia
+Thyroid hormones and antithyroid medicines
+Immunologicals
+Diagnostic agents
+Sera, immunoglobulins and monoclonal antibodies
+Vaccines
+Recommendations for all
+Recommendations for certain regions
+Recommendations for some high-risk populations
+Recommendations for immunization programmes with certain characteristics
+Muscle relaxants (peripherally-acting) and cholinesterase inhibitors
+Ophthalmological preparations
+Anti-infective agents
+Anti-inflammatory agents
+Local anesthetics
+Miotics and antiglaucoma medicines
+Mydriatics
+Anti-vascular endothelial growth factor (VEGF)
+Medicines for reproductive health and perinatal care
+Oral hormonal contraceptives
+Injectable hormonal contraceptives
+Intrauterine devices
+Barrier methods
+Implantable contraceptives
+Intravaginal contraceptives
+Ovulation inducers
+Uterotonics
+Antioxytocics (tocolytics)
+Medicines administered to the mother
+Medicines administered to the neonate
+Peritoneal dialysis solution
+Medicines for mental and behavioural disorders
+Medicines used in psychotic disorders
+Medicines used in depressive disorders
+Medicines used in bipolar disorders
+Medicines for anxiety disorders
+Medicines used for obsessive compulsive disorders
+Medicines for disorders due to psychoactive substance use
+Medicines acting on the respiratory tract
+Antiasthmatics and medicines for chronic obstructive pulmonary disease
+Solutions correcting water, electrolyte and acid-base disturbances
+Oral
+Parenteral
+Miscellaneous
+Vitamins and minerals
+Ear, nose and throat medicines
+Medicines for diseases of joints
+Medicines used to treat gout
+Disease-modifying agents used in rheumatoid disorders (DMARDs)
+Juvenile joint diseases
+Dental preparations
+Notes
+An α indicates the medicine is on the complementary list for which specialized diagnostic or monitoring or training is needed. An item may also be listed as complementary on the basis of higher costs or a less attractive cost-benefit ratio.
+References
+Further reading

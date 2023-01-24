@@ -1,0 +1,188 @@
+Formal power series
+In mathematics, a formal series is an infinite sum that is considered independently from any notion of convergence, and can be manipulated with the usual algebraic operations on series (addition, subtraction, multiplication, division, partial sums, etc.).
+A formal power series is a special kind of formal series, whose terms are of the form $MATH$ where $MATH$ is the $MATH$th power of a variable $MATH$ ($MATH$ is a non-negative integer), and $MATH$ is called the coefficient. Hence, power series can be viewed as a generalization of polynomials, where the number of terms is allowed to be infinite, with no requirements of convergence. Thus, the series may no longer represent a function of its variable, merely a formal sequence of coefficients, in contrast to a power series, which defines a function by taking numerical values for the variable within a radius of convergence. In a formal power series, the $MATH$ are used only as position-holders for the coefficients, so that the coefficient of $MATH$ is the fifth term in the sequence. In combinatorics, the method of generating functions uses formal power series to represent numerical sequences and multisets, for instance allowing concise expressions for recursively defined sequences regardless of whether the recursion can be explicitly solved. More generally, formal power series can include series with any finite (or countable) number of variables, and with coefficients in an arbitrary ring.
+Rings of formal power series are complete local rings, and this allows using calculus-like methods in the purely algebraic framework of algebraic geometry and commutative algebra. They are analogous in many ways to p-adic integers, which can be defined as formal series of the powers of p.
+Introduction
+A formal power series can be loosely thought of as an object that is like a polynomial, but with infinitely many terms. Alternatively, for those familiar with power series (or Taylor series), one may think of a formal power series as a power series in which we ignore questions of convergence by not assuming that the variable X denotes any numerical value (not even an unknown value). For example, consider the series
+If we studied this as a power series, its properties would include, for example, that its radius of convergence is 1. However, as a formal power series, we may ignore this completely; all that is relevant is the sequence of coefficients [1, −3, 5, −7, 9, −11, ...]. In other words, a formal power series is an object that just records a sequence of coefficients. It is perfectly acceptable to consider a formal power series with the factorials [1, 1, 2, 6, 24, 120, 720, 5040, ... ] as coefficients, even though the corresponding power series diverges for any nonzero value of X.
+Arithmetic on formal power series is carried out by simply pretending that the series are polynomials. For example, if
+then we add A and B term by term:
+We can multiply formal power series, again just by treating them as polynomials (see in particular Cauchy product):
+Notice that each coefficient in the product AB only depends on a finite number of coefficients of A and B. For example, the X5 term is given by
+For this reason, one may multiply formal power series without worrying about the usual questions of absolute, conditional and uniform convergence which arise in dealing with power series in the setting of analysis.
+Once we have defined multiplication for formal power series, we can define multiplicative inverses as follows. The multiplicative inverse of a formal power series A is a formal power series C such that AC = 1, provided that such a formal power series exists. It turns out that if A has a multiplicative inverse, it is unique, and we denote it by A−1. Now we can define division of formal power series by defining B/A to be the product BA−1, provided that the inverse of A exists. For example, one can use the definition of multiplication above to verify the familiar formula
+An important operation on formal power series is coefficient extraction. In its most basic form, the coefficient extraction operator $MATH$ applied to a formal power series $MATH$ in one variable extracts the coefficient of the $MATH$th power of the variable, so that $MATH$ and $MATH$. Other examples include
+Similarly, many other operations that are carried out on polynomials can be extended to the formal power series setting, as explained below.
+The ring of formal power series
+If one considers the set of all formal power series in X with coefficients in a commutative ring R, the elements of this set collectively constitute another ring which is written $MATH$ and called the ring of formal power series in the variable X over R.
+Definition of the formal power series ring
+One can characterize $MATH$ abstractly as the completion of the polynomial ring $MATH$ equipped with a particular metric. This automatically gives $MATH$ the structure of a topological ring (and even of a complete metric space). But the general construction of a completion of a metric space is more involved than what is needed here, and would make formal power series seem more complicated than they are. 
+It is possible to describe $MATH$ more explicitly, and define the ring structure and topological structure separately, as follows.
+Ring structure
+As a set, $MATH$ can be constructed as the set $MATH$ of all infinite sequences of elements of $MATH$, indexed by the natural numbers (taken to include 0). Designating a sequence whose term at index $MATH$ is $MATH$ by $MATH$, one defines addition of two such sequences by
+and multiplication by
+This type of product is called the Cauchy product of the two sequences of coefficients, and is a sort of discrete convolution. With these operations, $MATH$ becomes a commutative ring with zero element $MATH$ and multiplicative identity $MATH$.
+The product is in fact the same one used to define the product of polynomials in one indeterminate, which suggests using a similar notation. One embeds $MATH$ into $MATH$ by sending any (constant) $MATH$ to the sequence $MATH$ and designates the sequence $MATH$ by $MATH$; then using the above definitions every sequence with only finitely many nonzero terms can be expressed in terms of these special elements as
+these are precisely the polynomials in $MATH$. Given this, it is quite natural and convenient to designate a general sequence $MATH$ by the formal expression $MATH$, even though the latter is not an expression formed by the operations of addition and multiplication defined above (from which only finite sums can be constructed). This notational convention allows reformulation of the above definitions as
+and
+which is quite convenient, but one must be aware of the distinction between formal summation (a mere convention) and actual addition.
+Topological structure
+Having stipulated conventionally that
+one would like to interpret the right hand side as a well-defined infinite summation. To that end, a notion of convergence in $MATH$ is defined and a topology on $MATH$ is constructed. There are several equivalent ways to define the desired topology.
+Informally, two sequences $MATH$ and $MATH$ become closer and closer if and only if more and more of their terms agree exactly. Formally, the sequence of partial sums of some infinite summation converges if for every fixed power of $MATH$ the coefficient stabilizes: there is a point beyond which all further partial sums have the same coefficient. This is clearly the case for the right hand side of (1), regardless of the values $MATH$, since inclusion of the term for $MATH$ gives the last (and in fact only) change to the coefficient of $MATH$. It is also obvious that the limit of the sequence of partial sums is equal to the left hand side.
+This topological structure, together with the ring operations described above, form a topological ring. This is called the ring of formal power series over $MATH$ and is denoted by $MATH$. The topology has the useful property that an infinite summation converges if and only if the sequence of its terms converges to 0, which just means that any fixed power of $MATH$ occurs in only finitely many terms.
+The topological structure allows much more flexible usage of infinite summations. For instance the rule for multiplication can be restated simply as
+since only finitely many terms on the right affect any fixed $MATH$. Infinite products are also defined by the topological structure; it can be seen that an infinite product converges if and only if the sequence of its factors converges to 1.
+Alternative topologies
+The above topology is the finest topology for which 
+always converges as a summation to the formal power series designated by the same expression, and it often suffices to give a meaning to infinite sums and products, or other kinds of limits that one wishes to use to designate particular formal power series. It can however happen occasionally that one wishes to use a coarser topology, so that certain expressions become convergent that would otherwise diverge. This applies in particular when the base ring $MATH$ already comes with a topology other than the discrete one, for instance if it is also a ring of formal power series.
+In the ring of formal power series $MATH$, the topology of above construction only relates to the indeterminate $MATH$, since the topology that was put on $MATH$ has been replaced by the discrete topology when defining the topology of the whole ring. So
+converges (and its sum can be written as $MATH$); however
+would be considered to be divergent, since every term affects the coefficient of $MATH$. This asymmetry disappears if the power series ring in $MATH$ is given the product topology where each copy of $MATH$ is given its topology as a ring of formal power series rather than the discrete topology. With this topology, a sequence of elements of $MATH$ converges if the coefficient of each power of $MATH$ converges to a formal power series in $MATH$, a weaker condition than stabilizing entirely.  For instance, with this topology, in the second example given above, the coefficient of $MATH$converges to $MATH$, so the whole summation converges to $MATH$.
+This way of defining the topology is in fact the standard one for repeated constructions of rings of formal power series, and gives the same topology as one would get by taking formal power series in all indeterminates at once. In the above example that would mean constructing $MATH$ and here a sequence converges if and only if the coefficient of every monomial $MATH$ stabilizes. This topology, which is also the $MATH$-adic topology, where $MATH$ is the ideal generated by $MATH$ and $MATH$, still enjoys the property that a summation converges if and only if its terms tend to 0.
+The same principle could be used to make other divergent limits converge. For instance in $MATH$ the limit
+does not exist, so in particular it does not converge to 
+This is because for $MATH$ the coefficient $MATH$ of $MATH$ does not stabilize as $MATH$. It does however converge in the usual topology of $MATH$, and in fact to the coefficient $MATH$ of $MATH$. Therefore, if one would give $MATH$ the product topology of $MATH$ where the topology of $MATH$ is the usual topology rather than the discrete one, then the above limit would converge to $MATH$. This more permissive approach is not however the standard when considering formal power series, as it would lead to convergence considerations that are as subtle as they are in analysis, while the philosophy of formal power series is on the contrary to make convergence questions as trivial as they can possibly be. With this topology it would not be the case that a summation converges if and only if its terms tend to 0.
+Universal property
+The ring $MATH$ may be characterized by the following universal property. If $MATH$ is a commutative associative algebra over $MATH$, if $MATH$ is an ideal of $MATH$ such that the $MATH$-adic topology on $MATH$ is complete, and if $MATH$ is an element of $MATH$, then there is a unique $MATH$ with the following properties:
+Operations on formal power series
+One can perform algebraic operations on power series to generate new power series. Besides the ring structure operations defined above, we have the following.
+Power series raised to powers
+For any natural number n we have
+where
+(This formula can only be used if m and a0 are invertible in the ring of coefficients.)
+In the case of formal power series with complex coefficients, the complex powers are well defined at least for series f with constant term equal to 1. In this case, $MATH$ can be defined either by composition with the binomial series (1+x)α, or by composition with the exponential and the logarithmic series, $MATH$ or as the solution of the differential equation $MATH$ with constant term 1, the three definitions being equivalent. The rules of calculus $MATH$ and $MATH$ easily follow.
+Multiplicative inverse
+The series
+is invertible in $MATH$ if and only if its constant coefficient $MATH$ is invertible in $MATH$. This condition is necessary, for the following reason: if we suppose that $MATH$ has an inverse $MATH$ then the constant term $MATH$ of $MATH$ is the constant term of the identity series, i.e. it is 1. This condition is also sufficient; we may compute the coefficients of the inverse series $MATH$ via the explicit recursive formula
+An important special case is that the geometric series formula is valid in $MATH$:
+If $MATH$ is a field, then a series is invertible if and only if the constant term is non-zero, i.e. if and only if the series is not divisible by $MATH$. This means that $MATH$ is a discrete valuation ring with uniformizing parameter $MATH$.
+Division
+The computation of a quotient $MATH$
+assuming the denominator is invertible (that is, $MATH$ is invertible in the ring of scalars), can be performed as a product $MATH$ and the inverse of $MATH$, or directly equating the coefficients in $MATH$:
+Extracting coefficients
+The coefficient extraction operator applied to a formal power series 
+in X is written
+and extracts the coefficient of Xm, so that
+Composition
+Given formal power series
+one may form the composition
+where the coefficients cn are determined by "expanding out" the powers of f(X):
+Here the sum is extended over all (k, j) with $MATH$ and $MATH$ with $MATH$
+A more explicit description of these coefficients is provided by Faà di Bruno's formula, at least in the case where the coefficient ring is a field of characteristic 0.
+Composition is only valid when $MATH$ has no constant term, so that each $MATH$ depends on only a finite number of coefficients of $MATH$ and $MATH$. In other words, the series for $MATH$ converges in the topology of $MATH$.
+Example
+Assume that the ring $MATH$ has characteristic 0 and the nonzero integers are invertible in $MATH$. If we denote by $MATH$ the formal power series
+then the expression
+makes perfect sense as a formal power series. However, the statement
+is not a valid application of the composition operation for formal power series. Rather, it is confusing the notions of convergence in $MATH$ and convergence in $MATH$; indeed, the ring $MATH$ may not even contain any number $MATH$ with the appropriate properties.
+Composition inverse
+Whenever a formal series 
+has f0 = 0 and f1 being an invertible element of R, there exists a series 
+that is the composition inverse of $MATH$, meaning that composing $MATH$ with $MATH$ gives the series representing the identity function $MATH$. The coefficients of $MATH$ may be found recursively by using the above formula for the coefficients of a composition, equating them with those of the composition identity X (that is 1 at degree 1 and 0 at every degree greater than 1). In the case when the coefficient ring is a field of characteristic 0, the Lagrange inversion formula (discussed below) provides a powerful tool to compute the coefficients of g, as well as the coefficients of the (multiplicative) powers of g.
+Formal differentiation
+Given a formal power series
+we define its formal derivative, denoted Df or f ′, by
+The symbol D is called the formal differentiation operator. This definition simply mimics term-by-term differentiation of a polynomial.
+This operation is R-linear:
+for any a, b in R and any f, g in $MATH$ Additionally, the formal derivative has many of the properties of the usual derivative of calculus. For example, the product rule is valid:
+and the chain rule works as well:
+whenever the appropriate compositions of series are defined (see above under composition of series).
+Thus, in these respects formal power series behave like Taylor series. Indeed, for the f defined above, we find that
+where Dk denotes the kth formal derivative (that is, the result of formally differentiating k times).
+Formal antidifferentiation
+If $MATH$ is a ring with characteristic zero and the nonzero integers are invertible in $MATH$, then given a formal power series
+we define its formal antiderivative or formal indefinite integral by
+for any constant $MATH$.
+This operation is R-linear:
+for any a, b in R and any f, g in $MATH$ Additionally, the formal antiderivative has many of the properties of the usual antiderivative of calculus. For example, the formal antiderivative is the right inverse of the formal derivative: 
+for any $MATH$.
+Properties
+Algebraic properties of the formal power series ring
+$MATH$ is an associative algebra over $MATH$ which contains the ring $MATH$ of polynomials over $MATH$; the polynomials correspond to the sequences which end in zeros.
+The Jacobson radical of $MATH$ is the ideal generated by $MATH$ and the Jacobson radical of $MATH$; this is implied by the element invertibility criterion discussed above.
+The maximal ideals of $MATH$ all arise from those in $MATH$ in the following manner: an ideal $MATH$ of $MATH$ is maximal if and only if $MATH$ is a maximal ideal of $MATH$ and $MATH$ is generated as an ideal by $MATH$ and $MATH$.
+Several algebraic properties of $MATH$ are inherited by $MATH$:
+Topological properties of the formal power series ring
+The metric space $MATH$ is complete.
+The ring $MATH$ is compact if and only if R is finite. This follows from Tychonoff's theorem and the characterisation of the topology on $MATH$ as a product topology.
+Weierstrass preparation
+The ring of formal power series with coefficients in a complete local ring satisfies the Weierstrass preparation theorem.
+Applications
+Formal power series can be used to solve recurrences occurring in number theory and combinatorics. For an example involving finding a closed form expression for the Fibonacci numbers, see the article on Examples of generating functions.
+One can use formal power series to prove several relations familiar from analysis in a purely algebraic setting. Consider for instance the following elements of $MATH$:
+Then one can show that
+The last one being valid in the ring $MATH$
+For K a field, the ring $MATH$ is often used as the "standard, most general" complete local ring over K in algebra.
+Interpreting formal power series as functions
+In mathematical analysis, every convergent power series defines a function with values in the real or complex numbers. Formal power series over certain special rings can also be interpreted as functions, but one has to be careful with the domain and codomain. Let 
+and suppose S is a commutative associative algebra over R, I is an ideal in S such that the I-adic topology on S is complete, and x is an element of I. Define:
+This series is guaranteed to converge in S given the above assumptions on x. Furthermore, we have
+and
+Unlike in the case of bona fide functions, these formulas are not definitions but have to be proved.
+Since the topology on $MATH$ is the (X)-adic topology and $MATH$ is complete, we can in particular apply power series to other power series, provided that the arguments don't have constant coefficients (so that they belong to the ideal (X)): f(0), f(X2−X) and f((1−X)−1 − 1) are all well defined for any formal power series $MATH$
+With this formalism, we can give an explicit formula for the multiplicative inverse of a power series f whose constant coefficient a = f(0) is invertible in R:
+If the formal power series g with g(0) = 0 is given implicitly by the equation
+where f is a known power series with f(0) = 0, then the coefficients of g can be explicitly computed using the Lagrange inversion formula.
+Generalizations
+Formal Laurent series
+The formal Laurent series over a ring $MATH$ are defined in a similar way to a formal power series, except that we also allow finitely many terms of negative degree.  That is, they are the series that can be written as
+for some integer N, so that there are only finitely many negative n with $MATH$.  (This is different from the classical Laurent series of complex analysis.)  For a non-zero formal Laurent series, the minimal integer $MATH$ such that $MATH$ is called the order of $MATH$ and is denoted $MATH$ (The order of the zero series is $MATH$.)  
+Multiplication of such series can be defined. Indeed, similarly to the definition for formal power series, the coefficient of Xk of two series with respective sequences of coefficients $MATH$ and $MATH$ is
+This sum has only finitely many nonzero terms because of the assumed vanishing of coefficients at sufficiently negative indices.
+The formal Laurent series form the ring of formal Laurent series over $MATH$, denoted by $MATH$.  It is equal to the localization of $MATH$ with respect to the set of positive powers of $MATH$.  If $MATH$ is a field, then $MATH$ is in fact a field, which may alternatively be obtained as the field of fractions of the integral domain $MATH$.
+As with the ring $MATH$ of formal power series, the ring $MATH$ of formal Laurent series may be endowed with the structure of a topological ring by introducing the metric
+One may define formal differentiation for formal Laurent series in the natural (term-by-term) way. Precisely, the formal derivative of the formal Laurent series $MATH$ above is
+which is again a formal Laurent series. If $MATH$ is a non-constant formal Laurent series and with coefficients in a field of characteristic 0, then one has
+However, in general this is not the case since the factor n for the lowest order term could be equal to 0 in R.
+Formal residue
+Assume that $MATH$ is a field of characteristic 0. Then the map
+is a $MATH$-derivation that satisfies
+The latter shows that the coefficient of $MATH$ in $MATH$ is of particular interest; it is called formal residue of $MATH$ and denoted $MATH$. The map
+is $MATH$-linear, and by the above observation one has an exact sequence
+Some rules of calculus. As a quite direct consequence of the above definition, and of the rules of formal derivation, one has, for any $MATH$
+Property (i) is part of the exact sequence above. Property (ii) follows from (i) as applied to $MATH$. Property (iii): any $MATH$ can be written in the form $MATH$, with $MATH$ and $MATH$: then $MATH$ $MATH$ implies $MATH$ is invertible in $MATH$ whence $MATH$ Property (iv): Since $MATH$ we can write $MATH$ with $MATH$. Consequently, $MATH$ and (iv) follows from (i) and (iii). Property (v) is clear from the definition.
+The Lagrange inversion formula
+As mentioned above, any formal series $MATH$ with f0 = 0 and f1 ≠ 0 has a composition inverse $MATH$ The following relation between the coefficients of gn and f−k holds ("Lagrange inversion formula"):
+In particular, for n = 1 and all k ≥ 1,
+Since the proof of the Lagrange inversion formula is a very short computation, it is worth reporting it here. Noting $MATH$, we can apply the rules of calculus above, crucially Rule (iv) substituting $MATH$, to get:
+Generalizations. One may observe that the above computation can be repeated plainly in more general settings than K((X)): a generalization of the Lagrange inversion formula is already available working in the $MATH$-modules $MATH$ where α is a complex exponent. As a consequence, if f and g are as above, with $MATH$, we can relate the complex powers of f / X and g / X: precisely, if α and β are non-zero complex numbers with negative integer sum, $MATH$ then
+For instance, this way one finds the power series for complex powers of the Lambert function.
+Power series in several variables
+Formal power series in any number of indeterminates (even infinitely many) can be defined. If I is an index set and XI is the set of indeterminates Xi for i∈I, then a monomial Xα is any finite product of elements of XI (repetitions allowed); a formal power series in XI with coefficients in a ring R is determined by any mapping from the set of monomials Xα to a corresponding coefficient cα, and is denoted $MATH$. The set of all such formal power series is denoted $MATH$ and it is given a ring structure by defining
+and
+Topology
+The topology on $MATH$ is such that a sequence of its elements converges only if for each monomial Xα the corresponding coefficient stabilizes. If I is finite, then this the J-adic topology, where J is the ideal of $MATH$ generated by all the indeterminates in XI. This does not hold if I is infinite. For example, if $MATH$ then the sequence $MATH$ with $MATH$ does not converge with respect to any J-adic topology on R, but clearly for each monomial the corresponding coefficient stabilizes.
+As remarked above, the topology on a repeated formal power series ring like $MATH$ is usually chosen in such a way that it becomes isomorphic as a topological ring to $MATH$
+Operations
+All of the operations defined for series in one variable may be extended to the several variables case.
+In the case of the formal derivative, there are now separate partial derivative operators, which differentiate with respect to each of the indeterminates. They all commute with each other.
+Universal property
+In the several variables case, the universal property characterizing $MATH$ becomes the following. If S is a commutative associative algebra over R, if I is an ideal of S such that the I-adic topology on S is complete, and if x1, …, xr are elements of I, then there is a unique map $MATH$ with the following properties:
+Non-commuting variables
+The several variable case can be further generalised by taking non-commuting variables Xi for i ∈ I, where I is an index set and then a monomial Xα is any word in the XI; a formal power series in XI with coefficients in a ring R is determined by any mapping from the set of monomials Xα to a corresponding coefficient cα, and is denoted $MATH$. The set of all such formal power series is denoted R«XI», and it is given a ring structure by defining addition pointwise
+and multiplication by
+where · denotes concatenation of words. These formal power series over R form the Magnus ring over R.
+On a semiring
+Given an alphabet $MATH$ and a semiring $MATH$. The formal power series over $MATH$ supported on the language $MATH$ is denoted by $MATH$. It consists of all mappings $MATH$, where $MATH$ is the free monoid generated by the non-empty set $MATH$.
+The elements of $MATH$ can be written as formal sums
+where $MATH$ denotes the value of $MATH$ at the word $MATH$. The elements $MATH$ are called the coefficients of $MATH$.
+For $MATH$ the support of $MATH$ is the set
+A series where every coefficient is either $MATH$ or $MATH$ is called the characteristic series of its support.
+The subset of $MATH$ consisting of all series with a finite support is denoted by $MATH$ and called polynomials.
+For $MATH$ and $MATH$, the sum $MATH$ is defined by 
+The (Cauchy) product $MATH$ is defined by
+The Hadamard product $MATH$ is defined by
+And the products by a scalar $MATH$ and $MATH$ by
+With these operations $MATH$ and $MATH$ are semirings, where $MATH$ is the empty word in $MATH$.
+These formal power series are used to model the behavior of weighted automata, in theoretical computer science, when the coefficients $MATH$ of the series are taken to be the weight of a path with label $MATH$ in the automata.
+Replacing the index set by an ordered abelian group
+Suppose $MATH$ is an ordered abelian group, meaning an abelian group with a total ordering $MATH$ respecting the group's addition, so that $MATH$ if and only if $MATH$ for all $MATH$. Let I be a well-ordered subset of $MATH$, meaning I contains no infinite descending chain. Consider the set consisting of
+for all such I, with $MATH$ in a commutative ring $MATH$, where we assume that for any index set, if all of the $MATH$ are zero then the sum is zero. Then $MATH$ is the ring of formal power series on $MATH$; because of the condition that the indexing set be well-ordered the product is well-defined, and we of course assume that two elements which differ by zero are the same. Sometimes the notation $MATH$ is used to denote $MATH$.
+Various properties of $MATH$ transfer to $MATH$. If $MATH$ is a field, then so is $MATH$. If $MATH$ is an ordered field, we can order $MATH$ by setting any element to have the same sign as its leading coefficient, defined as the least element of the index set I associated to a non-zero coefficient. Finally if $MATH$ is a divisible group and $MATH$ is a real closed field, then $MATH$ is a real closed field, and if $MATH$ is algebraically closed, then so is $MATH$.
+This theory is due to Hans Hahn, who also showed that one obtains subfields when the number of (non-zero) terms is bounded by some fixed infinite cardinality.
+Examples and related topics
+See also
+Notes
+References
+Further reading

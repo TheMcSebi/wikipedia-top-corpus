@@ -1,0 +1,66 @@
+Euclid's theorem
+Euclid's theorem is a fundamental statement in number theory that asserts that there are infinitely many prime numbers. It was first proved by Euclid in his work Elements. There are several proofs of the theorem.
+Euclid's proof
+Euclid offered a proof published in his work Elements (Book IX, Proposition 20), which is paraphrased here.
+Consider any finite list of prime numbers p1, p2, ..., pn. It will be shown that at least one additional prime number not in this list exists. Let P be the product of all the prime numbers in the list: P = p1p2...pn. Let q = P + 1. Then q is either prime or not:
+This proves that for every finite list of prime numbers there is a prime number not in the list. In the original work, as Euclid had no way of writing an arbitrary list of primes, he used a method that he frequently applied, that is, the method of generalizable example. Namely, he picks just three primes and using the general method outlined above, proves that he can always find an additional prime. Euclid presumably assumes that his readers are convinced that a similar proof will work, no matter how many primes are originally picked.
+Euclid is often erroneously reported to have proved this result by contradiction beginning with the assumption that the finite set initially considered contains all prime numbers, though it is actually a proof by cases, a direct proof method. The philosopher Torkel Franzén, in a book on logic, states, "Euclid's proof that there are infinitely many primes is not an indirect proof [...] The argument is sometimes formulated as an indirect proof by replacing it with the assumption 'Suppose q1, ... qn are all the primes'. However, since this assumption isn't even used in the proof, the reformulation is pointless."
+Variations
+Several variations on Euclid's proof exist, including the following:
+The factorial n! of a positive integer n is divisible by every integer from 2 to n, as it is the product of all of them. Hence, n! + 1 is not divisible by any of the integers from 2 to n, inclusive (it gives a remainder of 1 when divided by each). Hence n! + 1 is either prime or divisible by a prime larger than n. In either case, for every positive integer n, there is at least one prime bigger than n. The conclusion is that the number of primes is infinite.
+Euler's proof
+Another proof, by the Swiss mathematician Leonhard Euler, relies on the fundamental theorem of arithmetic: that every integer has a unique prime factorization. What Euler wrote (not with this modern notation and, unlike modern standards, not restricting the arguments in sums and products to any finite sets of integers) is equivalent to the statement that we have
+where $MATH$ denotes the set of the k first prime numbers, and $MATH$ is the set of the positive integers whose prime factors are all in $MATH$
+In order to show this, one expands each factor in the product as a geometric series, and distributes the product over the sum (this is a special case of the Euler product formula for the Riemann zeta function). 
+In the penultimate sum every product of primes appears exactly once, and so the last equality is true by the fundamental theorem of arithmetic. In his first corollary to this result  Euler denotes by a symbol similar to $MATH$ the « absolute infinity » and writes that the infinite sum in the statement equals the «  value »  $MATH$, to which the infinite product is thus also equal (in modern terminology this is equivalent to say that the partial sum up to $MATH$ of the harmonic series diverges asymptotically like $MATH$). Then in his second corollary Euler notes that the product 
+converges to the finite value 2, and that there are consequently more primes than squares («  sequitur infinities plures esse numeros primos »). This proves Euclid Theorem.
+
+
+In the same paper (Theorem 19) Euler in fact used the above equality to prove a much stronger theorem that was unknown before him, namely that the series 
+is divergent, where P denotes the set of all prime numbers (Euler writes that the infinite sum  $MATH$, which in modern terminology is equivalent to say that the partial sum up to $MATH$ of this series behaves asymptotically like $MATH$).
+Erdős's proof
+Paul Erdős gave a proof that also relies on the fundamental theorem of arithmetic. Every positive integer has a unique factorization into a square-free number and a square number rs2.  For example, 75,600 = 24 33 52 71 = 21 ⋅ 602.
+Let N be a positive integer, and let k be the number of primes less than or equal to N. Call those primes p1, ... , pk.  Any positive integer which is less than or equal to N can then be written in the form
+where each ei is either 0 or 1. There are 2k ways of forming the square-free part of a.  And s2 can be at most N, so s ≤ √N.  Thus, at most 2k √N numbers can be written in this form.  In other words,
+Or, rearranging, k, the number of primes less than or equal to N, is greater than or equal to 1/2log2 N.  Since N was arbitrary, k can be as large as desired by choosing N appropriately.
+Furstenberg's proof
+In the 1950s, Hillel Furstenberg introduced a proof by contradiction using point-set topology.
+Define a topology on the integers Z, called the evenly spaced integer topology, by declaring a subset U ⊆ Z to be an open set if and only if it is either the empty set, ∅, or it is a union of arithmetic sequences S(a, b) (for a ≠ 0), where
+Then a contradiction follows from the property that a finite set of integers cannot be open and the property that the basis sets S(a, b) are both open and closed, since
+cannot be closed because its complement is finite, but is closed since it is a finite union of closed sets.
+Recent proofs
+Proof using the inclusion-exclusion principle
+Juan Pablo Pinasco has written the following proof.
+Let p1, ..., pN be the smallest N primes. Then by the inclusion–exclusion principle, the number of positive integers less than or equal to x that are divisible by one of those primes is
+Dividing by x and letting x → ∞ gives
+This can be written as
+If no other primes than p1, ..., pN exist, then the expression in (1) is equal to $MATH$ and the expression in (2) is equal to 1, but clearly the expression in (3) is not equal to 1. Therefore, there must be more primes than  p1, ..., pN.
+Proof using de Polignac's formula
+In 2010, Junho Peter Whang published the following proof by contradiction.  Let k be any positive integer.  Then according to de Polignac's formula (actually due to Legendre)
+where
+But if only finitely many primes exist, then
+(the numerator of the fraction would grow singly exponentially while by Stirling's approximation the denominator grows more quickly than singly exponentially),
+contradicting the fact that for each k the numerator is greater than or equal to the denominator.
+Proof by construction
+Filip Saidak gave the following proof by construction, which does not use reductio ad absurdum or Euclid's lemma (that if a prime p divides ab then it must divide a or b).
+Since each natural number (> 1) has at least one prime factor, and two successive numbers n and (n + 1) have no factor in common, the product n(n + 1) has more different prime factors than the number n itself.  So the chain of pronic numbers:1×2 = 2 {2},    2×3 = 6 {2, 3},    6×7 = 42 {2, 3, 7},    42×43 = 1806 {2, 3, 7, 43},    1806×1807 = 3263442 {2, 3, 7, 43, 13, 139}, · · ·provides a sequence of unlimited growing sets of primes.
+Proof using the incompressibility method
+Suppose there were only k primes (p1, ..., pk). By the fundamental theorem of arithmetic, any positive integer n could then be represented as
+where the non-negative integer exponents ei together with the finite-sized list of primes are enough to reconstruct the number. Since $MATH$ for all i, it follows that $MATH$ for all i (where $MATH$ denotes the base-2 logarithm).  This yields an encoding for n of the following size (using big O notation):
+This is a much more efficient encoding than representing n directly in binary, which takes $MATH$ bits. An established result in lossless data compression states that one cannot generally compress N bits of information into fewer than N bits. The representation above violates this by far when n is large enough since $MATH$.  Therefore, the number of primes must not be finite.
+Stronger results
+The theorems in this section simultaneously imply Euclid's theorem and other results.
+Dirichlet's theorem on arithmetic progressions
+Dirichlet's theorem states that for any two positive coprime integers a and d, there are infinitely many primes of the form a + nd, where n is also a positive integer. In other words, there are infinitely many primes that are congruent to a modulo d.
+Prime number theorem
+Let π(x) be the prime-counting function that gives the number of primes less than or equal to x, for any real number x. The prime number theorem then states that x / log x is a good approximation to π(x), in the sense that the limit of the quotient of the two functions π(x) and x / log x as x increases without bound is 1:
+Using asymptotic notation this result can be restated as
+This yields Euclid's theorem, since $MATH$
+Bertrand–Chebyshev theorem
+In number theory, Bertrand's postulate is a theorem stating that for any integer $MATH$, there always exists at least one prime number such that
+Bertrand–Chebyshev theorem can also be stated as a relationship with $MATH$, where $MATH$ is the prime-counting function (number of primes less than or equal to $MATH$):
+
+
+This statement was first conjectured in 1845 by Joseph Bertrand (1822–1900). Bertrand himself verified his statement for all numbers in the interval [2, 3 × 106].
+His conjecture was completely proved by Chebyshev (1821–1894) in 1852 and so the postulate is also called the Bertrand–Chebyshev theorem or Chebyshev's theorem.
+Notes and references

@@ -1,0 +1,177 @@
+Heat equation
+In mathematics and physics, the heat equation is a certain partial differential equation. Solutions of the heat equation are sometimes known as caloric functions. The theory of the heat equation was first developed by Joseph Fourier in 1822 for the purpose of modeling how a quantity such as heat diffuses through a given region.
+As the prototypical parabolic partial differential equation, the heat equation is among the most widely studied topics in pure mathematics, and its analysis is regarded as fundamental to the broader field of partial differential equations. The heat equation can also be considered on Riemannian manifolds, leading to many geometric applications. Following work of Subbaramiah Minakshisundaram and Åke Pleijel, the heat equation is closely related with spectral geometry. A seminal nonlinear variant of the heat equation was introduced to differential geometry by James Eells and Joseph Sampson in 1964, inspiring the introduction of the Ricci flow by Richard Hamilton in 1982 and culminating in the proof of the Poincaré conjecture by Grigori Perelman in 2003. Certain solutions of the heat equation known as heat kernels provide subtle information about the region on which they are defined, as exemplified through their application to the Atiyah–Singer index theorem.
+The heat equation, along with variants thereof, is also important in many fields of science and applied mathematics. In probability theory, the heat equation is connected with the study of random walks and Brownian motion via the Fokker–Planck equation. The Black–Scholes equation of financial mathematics is a small variant of the heat equation, and the Schrödinger equation of quantum mechanics can be regarded as a heat equation in imaginary time. In image analysis, the heat equation is sometimes used to resolve pixelation and to identify edges. Following Robert Richtmyer and John von Neumann's introduction of "artificial viscosity" methods, solutions of heat equations have been useful in the mathematical formulation of hydrodynamical shocks. Solutions of the heat equation have also been given much attention in the numerical analysis literature, beginning in the 1950s with work of Jim Douglas, D.W. Peaceman, and Henry Rachford Jr.
+Statement of the equation
+In mathematics, if given an open subset U of Rn and a subinterval I of R, one says that a function u : U × I → R is a solution of the heat equation if
+where (x1, …, xn, t) denotes a general point of the domain. It is typical to refer to t as "time" and x1, …, xn as "spatial variables," even in abstract contexts where these phrases fail to have their intuitive meaning. The collection of spatial variables is often referred to simply as x. For any given value of t, the right-hand side of the equation is the Laplacian of the function u(⋅, t) : U → R. As such, the heat equation is often written more compactly as
+$MATH$.
+In physics and engineering contexts, especially in the context of diffusion through a medium, it is more common to fix a Cartesian coordinate system and then to consider the specific case of a function u(x, y, z, t) of three spatial variables (x, y, z) and time variable t. One then says that u is a solution of the heat equation if
+in which α is a positive coefficient called the thermal diffusivity of the medium. In addition to other physical phenomena, this equation describes the flow of heat in a homogeneous and isotropic medium, with u(x, y, z, t) being the temperature at the point (x, y, z) and time t. If the medium is not homogeneous and isotropic, then α would not be a fixed coefficient, and would instead depend on (x, y, z); the equation would also have a slightly different form. In the physics and engineering literature, it is common to use ∇2 to denote the Laplacian, rather than ∆.
+In mathematics as well as in physics and engineering, it is common to use Newton's notation for time derivatives, so that $MATH$ is used to denote ∂u/∂t, so the equation can be written
+$MATH$.
+Note also that the ability to use either ∆ or ∇2 to denote the Laplacian, without explicit reference to the spatial variables, is a reflection of the fact that the Laplacian is independent of the choice of coordinate system. In mathematical terms, one would say that the Laplacian is "translationally and rotationally invariant." In fact, it is (loosely speaking) the simplest differential operator which has these symmetries. This can be taken as a significant (and purely mathematical) justification of the use of the Laplacian and of the heat equation in modeling any physical phenomena which are homogeneous and isotropic, of which heat diffusion is a principal example.
+The "diffusivity constant" α is often not present in mathematical studies of the heat equation, while its value can be very important in engineering. This is not a major difference, for the following reason. Let u be a function with
+Define a new function $MATH$. Then, according to the chain rule, one has
+Thus, there is a straightforward way of translating between solutions of the heat equation with a general value of α and solutions of the heat equation with α = 1. As such, for the sake of mathematical analysis, it is often sufficient to only consider the case α = 1. 
+Since $MATH$ there is another option to define a $MATH$ satisfying $MATH$ as in (⁎) above by setting $MATH$. Note that the two possible means of defining the new function $MATH$ discussed here amount, in physical terms, to changing the unit of measure of time or the unit of measure of length.
+Interpretation
+Physical interpretation of the equation
+Informally, the Laplacian operator ∆ gives the difference between the average value of a function in the neighborhood of a point, and its value at that point.  Thus, if u is the temperature, ∆ tells whether (and by how much) the material surrounding each point is hotter or colder, on the average, than the material at that point.
+By the second law of thermodynamics, heat will flow from hotter bodies to adjacent colder bodies, in proportion to the difference of temperature and of the thermal conductivity of the material between them. When heat flows into (respectively, out of) a material, its temperature increases (respectively, decreases), in proportion to the amount of heat divided by the amount (mass) of material, with a proportionality factor called the specific heat capacity of the material.
+By the combination of these observations, the heat equation says the rate $MATH$ at which the material at a point will heat up (or cool down) is proportional to how much hotter (or cooler) the surrounding material is. The coefficient α in the equation takes into account the thermal conductivity, specific heat, and density of the material.
+Mathematical interpretation of the equation
+The first half of the above physical thinking can be put into a mathematical form. The key is that, for any fixed x, one has
+where u(x)(r) is the single-variable function denoting the average value of u over the surface of the sphere of radius r centered at x; it can be defined by
+in which ωn − 1 denotes the surface area of the unit ball in n-dimensional Euclidean space. This formalizes the above statement that the value of ∆u at a point x measures the difference between the value of u(x) and the value of u at points nearby to x, in the sense that the latter is encoded by the values of u(x)(r) for small positive values of r.
+Following this observation, one may interpret the heat equation as imposing an infinitesimal averaging of a function. Given a solution of the heat equation, the value of u(x, t + τ) for a small positive value of τ may be approximated as 1/2n times the average value of the function u(⋅, t) over a sphere of very small radius centered at x.
+Character of the solutions
+The heat equation implies that peaks (local maxima) of $MATH$ will be gradually eroded down, while depressions (local minima) will be filled in.  The value at some point will remain stable only as long as it is equal to the average value in its immediate surroundings.  In particular, if the values in a neighborhood are very close to a linear function $MATH$, then the value at the center of that neighborhood will not be changing at that time (that is, the derivative $MATH$ will be zero).
+A more subtle consequence is the maximum principle, that says that the maximum value of $MATH$ in any region $MATH$ of the medium will not exceed the maximum value that previously occurred in $MATH$, unless it is on the boundary of $MATH$. That is, the maximum temperature in a region $MATH$ can increase only if heat comes in from outside $MATH$. This is a property of parabolic partial differential equations and is not difficult to prove mathematically (see below).
+Another interesting property is that even if $MATH$ initially has a sharp jump (discontinuity) of value across some surface inside the medium, the jump is immediately smoothed out by a momentary, infinitesimally short but infinitely large rate of flow of heat through that surface. For example, if two isolated bodies, initially at uniform but different temperatures $MATH$ and  $MATH$, are made to touch each other, the temperature at the point of contact will immediately assume some intermediate value, and a zone will develop around that point where $MATH$ will gradually vary between $MATH$ and $MATH$.
+If a certain amount of heat is suddenly applied to a point in the medium, it will spread out in all directions in the form of a diffusion wave.  Unlike the elastic and electromagnetic waves, the speed of a diffusion wave drops with time: as it spreads over a larger region, the temperature gradient decreases, and therefore the heat flow decreases too.
+Specific examples
+Heat flow in a uniform rod
+For heat flow, the heat equation follows from the physical laws of conduction of heat and conservation of energy (Cannon 1984).
+By Fourier's law for an isotropic medium, the rate of flow of heat energy per unit area through a surface is proportional to the negative temperature gradient across it:
+where $MATH$ is the thermal conductivity of the material, $MATH$ is the temperature, and $MATH$ is a vector field that represents the magnitude and direction of the heat flow at the point $MATH$ of space and time $MATH$.
+If the medium is a thin rod of uniform section and material, the position is a single coordinate $MATH$, the heat flow towards increasing $MATH$ is a scalar field $MATH$, and the gradient is an ordinary derivative with respect to the $MATH$. The equation becomes
+Let $MATH$ be the internal heat energy per unit volume of the bar at each point and time. In the absence of heat energy generation, from external or internal sources, the rate of change in internal heat energy per unit volume in the material, $MATH$, is proportional to the rate of change of its temperature, $MATH$. That is,
+where $MATH$ is the specific heat capacity (at constant pressure, in case of a gas) and $MATH$ is the density (mass per unit volume) of the material. This derivation assumes that the material has constant mass density and heat capacity through space as well as time.
+Applying the law of conservation of energy to a small element of the medium centered at $MATH$, one concludes that the rate at which heat accumulates at a given point $MATH$ is equal to the derivative of the heat flow at that point, negated. That is,
+From the above equations it follows that
+which is the heat equation in one dimension, with diffusivity coefficient
+This quantity is called the thermal diffusivity of the medium.
+Accounting for radiative loss
+An additional term may be introduced into the equation to account for radiative loss of heat. According to the Stefan–Boltzmann law, this term is $MATH$, where $MATH$ is the temperature of the surroundings, and $MATH$ is a coefficient that depends on physical properties of the material. The rate of change in internal energy becomes
+and the equation for the evolution of $MATH$ becomes
+Non-uniform isotropic medium
+Note that the state equation, given by the first law of thermodynamics (i.e. conservation of energy), is written in the following form (assuming no mass transfer or radiation). This form is more general and particularly useful to recognize which property (e.g. cp or $MATH$) influences which term.
+where $MATH$ is the volumetric heat source.
+Three-dimensional problem
+In the special cases of propagation of heat in an isotropic and homogeneous medium in a 3-dimensional space, this equation is
+where:
+The heat equation is a consequence of Fourier's law of conduction (see heat conduction).
+If the medium is not the whole space, in order to solve the heat equation uniquely we also need to specify boundary conditions for u. To determine uniqueness of solutions in the whole space it is necessary to assume additional conditions, for example an exponential bound on the growth of solutions or a sign condition (nonnegative solutions are unique by a result of David Widder).
+Solutions of the heat equation are characterized by a gradual smoothing of the initial temperature distribution by the flow of heat from warmer to colder areas of an object. Generally, many different states and starting conditions will tend toward the same stable equilibrium. As a consequence, to reverse the solution and conclude something about earlier times or initial conditions from the present heat distribution is very inaccurate except over the shortest of time periods.
+The heat equation is the prototypical example of a parabolic partial differential equation.
+Using the Laplace operator, the heat equation can be simplified, and generalized to similar equations over spaces of arbitrary number of dimensions, as
+where the Laplace operator, Δ or ∇2, the divergence of the gradient, is taken in the spatial variables.
+The heat equation governs heat diffusion, as well as other diffusive processes, such as particle diffusion or the propagation of action potential in nerve cells. Although they are not diffusive in nature, some quantum mechanics problems are also governed by a mathematical analog of the heat equation (see below). It also can be used to model some phenomena arising in finance, like the Black–Scholes or the Ornstein-Uhlenbeck processes. The equation, and various non-linear analogues, has also been used in image analysis.
+The heat equation is, technically, in violation of special relativity, because its solutions involve instantaneous propagation of a disturbance. The part of the disturbance outside the forward light cone can usually be safely neglected, but if it is necessary to develop a reasonable speed for the transmission of heat, a hyperbolic problem should be considered instead – like a partial differential equation involving a second-order time derivative.  Some models of nonlinear heat conduction (which are also parabolic equations) have solutions with finite heat transmission speed.
+Internal heat generation
+The function u above represents temperature of a body. Alternatively, it is sometimes convenient to change units and represent u as the heat density of a medium. Since heat density is proportional to temperature in a homogeneous medium, the heat equation is still obeyed in the new units.
+Suppose that a body obeys the heat equation and, in addition, generates its own heat per unit volume (e.g., in watts/litre - W/L) at a rate given by a known function q varying in space and time. Then the heat per unit volume u satisfies an equation
+For example, a tungsten light bulb filament generates heat, so it would have a positive nonzero value for q when turned on. While the light is turned off, the value of q for the tungsten filament would be zero.
+Solving the heat equation using Fourier series
+The following solution technique for the heat equation was proposed by Joseph Fourier in his treatise Théorie analytique de la chaleur, published in 1822. Consider the heat equation for one space variable. This could be used to model heat conduction in a rod. The equation is
+where u = u(x, t) is a function of two variables x and t. Here 
+We assume the initial condition
+where the function f is given, and the boundary conditions
+Let us attempt to find a solution of (1) that is not identically zero satisfying the boundary conditions (3) but with the following property: u is a product in which the dependence of u on x, t is separated, that is:
+This solution technique is called separation of variables. Substituting u back into equation (1),
+Since the right hand side depends only on x and the left hand side only on t, both sides are equal to some constant value −λ. Thus:
+and
+We will now show that nontrivial solutions for (6) for values of λ ≤ 0 cannot occur:
+This solves the heat equation in the special case that the dependence of u has the special form (4).
+In general, the sum of solutions to (1) that satisfy the boundary conditions (3) also satisfies (1) and (3). We can show that the solution to (1), (2) and (3) is given by
+where
+Generalizing the solution technique
+The solution technique used above can be greatly extended to many other types of equations. The idea is that the operator uxx with the zero boundary conditions can be represented in terms of its eigenfunctions. This leads naturally to one of the basic ideas of the spectral theory of linear self-adjoint operators.
+Consider the linear operator Δu = uxx. The infinite sequence of functions
+for n ≥ 1 are eigenfunctions of Δ. Indeed,
+Moreover, any eigenfunction f of Δ with the boundary conditions f(0) = f(L) = 0 is of the form en for some n ≥ 1. The functions en for n ≥ 1 form an orthonormal sequence with respect to a certain inner product on the space of real-valued functions on [0, L]. This means
+Finally, the sequence {en}n ∈ N spans a dense linear subspace of L2((0, L)). This shows that in effect we have diagonalized the operator Δ.
+Heat conduction in non-homogeneous anisotropic media
+In general, the study of heat conduction is based on several principles. Heat flow is a form of energy flow, and as such it is meaningful to speak of the time rate of flow of heat into a region of space.
+Putting these equations together gives the general equation of heat flow:
+Remarks.
+Fundamental solutions
+A fundamental solution, also called a heat kernel, is a solution of the heat equation corresponding to the initial condition of an initial point source of heat at a known position. These can be used to find a general solution of the heat equation over certain domains; see, for instance, (Evans 2010) for an introductory treatment.
+In one variable, the Green's function is a solution of the initial value problem (by Duhamel's principle, equivalent to the definition of Green's function as one with a delta function as solution to the first equation)
+where $MATH$ is the Dirac delta function.  The solution to this problem is the fundamental solution (heat kernel)
+One can obtain the general solution of the one variable heat equation with initial condition u(x, 0) = g(x) for −∞ < x < ∞ and 0 < t < ∞ by applying a convolution:
+In several spatial variables, the fundamental solution solves the analogous problem
+The n-variable fundamental solution is the product of the fundamental solutions in each variable; i.e.,
+The general solution of the heat equation on Rn is then obtained by a convolution, so that to solve the initial value problem with u(x, 0) = g(x), one has
+The general problem on a domain Ω in Rn is
+
+
+with either Dirichlet or Neumann boundary data.  A Green's function always exists, but unless the domain Ω can be readily decomposed into one-variable problems (see below), it may not be possible to write it down explicitly.  Other methods for obtaining Green's functions include the method of images, separation of variables, and Laplace transforms (Cole, 2011). 
+Some Green's function solutions in 1D
+A variety of elementary Green's function solutions in one-dimension are recorded here; many others are available elsewhere.  In some of these, the spatial domain is (−∞,∞).  In others, it is the semi-infinite interval (0,∞) with either Neumann or Dirichlet boundary conditions.  One further variation is that some of these solve the inhomogeneous equation
+where f is some given function of x and t.
+Homogeneous heat equation
+Comment. This solution is the convolution with respect to the variable x of the fundamental solution
+and the function g(x). (The Green's function number of the fundamental solution is X00.)
+Therefore, according to the general properties of the convolution with respect to differentiation, u = g ∗ Φ is a solution of the same heat equation, for
+Moreover,
+so that, by general facts about approximation to the identity, Φ(⋅, t) ∗ g → g as t → 0 in various senses, according to the specific g. For instance, if g is assumed bounded and continuous on R then Φ(⋅, t) ∗ g converges uniformly to g as t → 0, meaning that u(x, t) is continuous on R × [0, ∞) with u(x, 0) = g(x).
+Comment. This solution is obtained from the preceding formula as applied to the data g(x) suitably extended to R, so as to be an odd function, that is, letting g(−x) := −g(x) for all x. Correspondingly, the solution of the initial value problem on (−∞,∞) is an odd function with respect to the variable x for all values of t, and in particular it satisfies the homogeneous Dirichlet boundary conditions u(0, t) = 0.
+The Green's function number of this solution is X10.
+Comment. This solution is obtained from the first solution formula as applied to the data g(x) suitably extended to R so as to be an even function, that is, letting g(−x) := g(x) for all x. Correspondingly, the solution of the initial value problem on R is an even  function with respect to the variable x for all values of t > 0, and in particular, being smooth, it satisfies the homogeneous Neumann boundary conditions ux(0, t) = 0.  The Green's function number of this solution is X20.
+Comment. This solution is the convolution with respect to the variable t of
+and the function h(t). Since Φ(x, t) is the fundamental solution of
+the function ψ(x, t) is also a solution of the same heat equation, and so is u := ψ ∗ h, thanks to general properties of the convolution with respect to differentiation. Moreover,
+so that, by general facts about approximation to the identity, ψ(x, ⋅) ∗ h → h as x → 0 in various senses, according to the specific h. For instance, if h is assumed continuous on R with support in [0, ∞) then ψ(x, ⋅) ∗ h converges uniformly on compacta to h as x → 0, meaning that u(x, t) is continuous on [0, ∞) × [0, ∞) with u(0, t) = h(t).
+Inhomogeneous heat equation
+Comment. This solution is the convolution in R2, that is with respect to both the variables x and t, of the fundamental solution
+and the function f(x, t), both meant as defined on the whole R2 and identically 0 for all t → 0. One verifies that
+which expressed in the language of distributions becomes
+where the distribution δ is the Dirac's delta function, that is the evaluation at 0.
+Comment. This solution is obtained from the preceding formula as applied to the data f(x, t) suitably extended to R × [0,∞), so as to be an odd function of the variable x, that is, letting f(−x, t) := −f(x, t) for all x and t. Correspondingly, the solution of the inhomogeneous problem on (−∞,∞) is an odd function with respect to the variable x for all values of t, and in particular it satisfies the homogeneous Dirichlet boundary conditions u(0, t) = 0.
+Comment. This solution is obtained from the first formula as applied to the data f(x, t) suitably extended to R × [0,∞), so as to be an even function of the variable x, that is, letting f(−x, t) := f(x, t) for all x and t. Correspondingly, the solution of the inhomogeneous problem on (−∞,∞) is an even function with respect to the variable x for all values of t, and in particular, being a smooth function, it satisfies the homogeneous Neumann boundary conditions ux(0, t) = 0.
+Examples
+Since the heat equation is linear, solutions of other combinations of boundary conditions, inhomogeneous term, and initial conditions can be found by taking an appropriate linear combination of the above Green's function solutions.
+For example, to solve
+let u = w + v where w and v solve the problems
+Similarly, to solve
+let u = w + v + r where w, v, and r solve the problems
+Mean-value property for the heat equation
+Solutions of the heat equations 
+satisfy a mean-value property analogous to the mean-value properties of harmonic functions, solutions of 
+though a bit more complicated. Precisely, if u solves 
+and 
+then
+where Eλ is a "heat-ball", that is a super-level set of the fundamental solution of the heat equation:
+Notice that 
+as λ → ∞ so the above formula holds for any (x, t) in the (open) set dom(u) for λ large enough. This can be shown by an argument similar to the analogous one for harmonic functions.
+Steady-state heat equation
+The steady-state heat equation is by definition not dependent on time. In other words, it is assumed conditions exist such that:
+This condition depends on the time constant and the amount of time passed since boundary conditions have been imposed. Thus, the condition is fulfilled in situations in which the time equilibrium constant is fast enough that the more complex time-dependent heat equation can be approximated by the steady-state case. Equivalently, the steady-state condition exists for all cases in which enough time has passed that the thermal field u no longer evolves in time.
+In the steady-state case, a spatial thermal gradient may (or may not) exist, but if it does, it does not change in time. This equation therefore describes the end result in all thermal problems in which a source is switched on (for example, an engine started in an automobile), and enough time has passed for all permanent temperature gradients to establish themselves in space, after which these spatial gradients no longer change in time (as again, with an automobile in which the engine has been running for long enough). The other (trivial) solution is for all spatial temperature gradients to disappear as well, in which case the temperature become uniform in space, as well.
+The equation is much simpler and can help to understand better the physics of the materials without focusing on the dynamic of the heat transport process. It is widely used for simple engineering problems assuming there is equilibrium of the temperature fields and heat transport, with time.
+Steady-state condition:
+The steady-state heat equation for a volume that contains a heat source (the inhomogeneous case), is the Poisson's equation:
+where u is the temperature, k is the thermal conductivity and q is the rate of heat generation per unit volume.
+In electrostatics, this is equivalent to the case where the space under consideration contains an electrical charge.
+The steady-state heat equation without a heat source within the volume (the homogeneous case) is the equation in electrostatics for a volume of free space that does not contain a charge. It is described by Laplace's equation:
+Applications
+Particle diffusion
+One can model particle diffusion by an equation involving either: 
+In either case, one uses the heat equation
+or
+Both c and P are functions of position and time. D is the diffusion coefficient that controls the speed of the diffusive process, and is typically expressed in meters squared over second.  If the diffusion coefficient D is not constant, but depends on the concentration c (or P in the second case), then one gets the nonlinear diffusion equation.
+Brownian motion
+Let the stochastic process $MATH$ be the solution to the stochastic differential equation
+where $MATH$ is the Wiener process (standard Brownian motion). The probability density function of $MATH$ is given at any time $MATH$ by
+which is the solution to the initial value problem
+where $MATH$ is the Dirac delta function.
+Schrödinger equation for a free particle
+With a simple division, the Schrödinger equation for a single particle of mass m in the absence of any applied force field can be rewritten in the following way:
+where i is the imaginary unit, ħ is the reduced Planck's constant, and ψ is the wave function of the particle.
+This equation is formally similar to the particle diffusion equation, which one obtains through the following transformation:
+Applying this transformation to the expressions of the Green functions determined in the case of particle diffusion yields the Green functions of the Schrödinger equation, which in turn can be used to obtain the wave function at any time through an integral on the wave function at t = 0:
+with
+Remark: this analogy between quantum mechanics and diffusion is a purely formal one. Physically, the evolution of the wave function satisfying Schrödinger's equation might have an origin other than diffusion.
+Thermal diffusivity in polymers
+A direct practical application of the heat equation, in conjunction with Fourier theory, in spherical coordinates, is the prediction of thermal transfer profiles and the measurement of the thermal diffusivity in polymers (Unsworth and Duarte). This dual theoretical-experimental method is applicable to rubber, various other polymeric materials of practical interest, and microfluids. These authors derived an expression for the temperature at the center of a sphere TC
+where T0 is the initial temperature of the sphere and TS the temperature at the surface of the sphere, of radius L.  This equation has also found applications in protein energy transfer and thermal modeling in biophysics.
+Further applications
+The heat equation arises in the modeling of a number of phenomena and is often used in financial mathematics in the modeling of options. The Black–Scholes option pricing model's differential equation can be transformed into the heat equation allowing relatively easy solutions from a familiar body of mathematics.  Many of the extensions to the simple option models do not have closed form solutions and thus must be solved numerically to obtain a modeled option price. The equation describing pressure diffusion in a porous medium is identical in form with the heat equation.  Diffusion problems dealing with Dirichlet, Neumann and Robin boundary conditions have closed form analytic solutions (Thambynayagam 2011).
+The heat equation is also widely used in image analysis (Perona & Malik 1990) and in machine-learning as the driving theory behind scale-space or graph Laplacian methods. The heat equation can be efficiently solved numerically using the implicit Crank–Nicolson method of (Crank & Nicolson 1947). This method can be extended to many of the models with no closed form solution, see for instance (Wilmott, Howison & Dewynne 1995).
+An abstract form of heat equation on manifolds provides a major approach to the Atiyah–Singer index theorem, and has led to much further work on heat equations in Riemannian geometry.
+See also
+Notes
+References
+Further reading

@@ -1,0 +1,22 @@
+Numeral prefix
+Numeral or number prefixes are prefixes derived from numerals or occasionally other numbers. In English and many other languages, they are used to coin numerous series of words. For example:
+In many European languages there are two principal systems, taken from Latin and Greek, each with several subsystems; in addition, Sanskrit occupies a marginal position. There is also an international set of metric prefixes, which are used in the metric system and which for the most part are either distorted from the forms below or not based on actual number words.
+Table of number prefixes in English
+In the following prefixes, a final vowel is normally dropped before a root that begins with a vowel, with the exceptions of bi-, which is bis- before a vowel, and of the other monosyllables, du-, di-, dvi-, tri-, which are invariable.
+The cardinal series are derived from cardinal numbers, such as the English one, two, three. The multiple series are based on adverbial numbers like the English once, twice, thrice. The distributive series originally meant one each, two each or one by one, two by two, etc., though that meaning is now frequently lost. The ordinal series are based on ordinal numbers such as the English first, second, third (for numbers higher than 2, the ordinal forms are also used for fractions; only the fraction 1⁄2 has special forms).
+For the hundreds, there are competing forms: those in -gent-, from the original Latin, and those in -cent-, derived from centi-, etc. plus the prefixes for 1–9.
+The same suffix may be used with more than one series: 
+Occurrences
+Because of the common inheritance of Greek and Latin roots across the Romance languages, the import of much of that derived vocabulary into non-Romance languages (such as into English via Norman French), and the borrowing of 19th and 20th century coinages into many languages, the same numerical prefixes occur in many languages.
+Numerical prefixes are not restricted to denoting integers. Some of the SI prefixes denote negative powers of 10, i.e. division by a multiple of 10 rather than multiplication by it. Several common-use numerical prefixes denote vulgar fractions.
+Words containing non-technical numerical prefixes are usually not hyphenated. This is not an absolute rule, however, and there are exceptions (for example: quarter-deck occurs in addition to quarterdeck). There are no exceptions for words comprising technical numerical prefixes, though. Systematic names and words comprising SI prefixes and binary prefixes are not hyphenated, by definition.
+Nonetheless, for clarity, dictionaries list numerical prefixes in hyphenated form, to distinguish the prefixes from words with the same spellings (such as duo- and duo).
+Several technical numerical prefixes are not derived from words for numbers. (mega- is not derived from a number word, for example.) Similarly, some are only derived from words for numbers inasmuch as they are word play. (Peta- is word play on penta-, for example. See its etymology for details.)
+The root language of a numerical prefix need not be related to the root language of the word that it prefixes. Some words comprising numerical prefixes are hybrid words.
+In certain classes of systematic names, there are a few other exceptions to the rule of using Greek-derived numerical prefixes. The IUPAC nomenclature of organic chemistry, for example, uses the numerical prefixes derived from Greek, except for the prefix for 9 (as mentioned) and the prefixes from 1 to 4 (meth-, eth-, prop-, and but-), which are not derived from words for numbers. These prefixes were invented by the IUPAC, deriving them from the pre-existing names for several compounds that it was intended to preserve in the new system: methane (via methyl, which is in turn from the Greek word for wine), ethane (from ethyl coined by Justus von Liebig in 1834), propane (from propionic, which is in turn from pro- and the Greek word for fat), and butane (from butyl, which is in turn from butyric, which is in turn from the Latin word for butter).
+Cardinal Latin series
+Distributive Latin series
+Greek series
+Mixed language series
+See also
+Notes

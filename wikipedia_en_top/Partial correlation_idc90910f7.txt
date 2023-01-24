@@ -1,0 +1,58 @@
+Partial correlation
+In probability theory and statistics, partial correlation measures the degree of association between two random variables, with the effect of a set of controlling random variables removed. When determining the numerical relationship between two variables of interest, using their correlation coefficient will give misleading results if there is another confounding variable that is numerically related to both variables of interest. This misleading information can be avoided by controlling for the confounding variable, which is done by computing the partial correlation coefficient. This is precisely the motivation for including other right-side variables in a multiple regression; but while multiple regression gives unbiased results for the effect size, it does not give a numerical value of a measure of the strength of the relationship between the two variables of interest.
+For example, given economic data on the consumption, income, and wealth of various individuals, consider the relationship between consumption and income. Failing to control for wealth when computing a correlation coefficient between consumption and income would give a misleading result, since income might be numerically related to wealth which in turn might be numerically related to consumption; a measured correlation between consumption and income might actually be contaminated by these other correlations. The use of a partial correlation avoids this problem.
+Like the correlation coefficient, the partial correlation coefficient takes on a value in the range from –1 to 1. The value –1 conveys a perfect negative correlation controlling for some variables (that is, an exact linear relationship in which higher values of one variable are associated with lower values of the other); the value 1 conveys a perfect positive linear relationship, and the value 0 conveys that there is no linear relationship.
+The partial correlation coincides with the conditional correlation if the random variables are jointly distributed as the multivariate normal, other elliptical, multivariate hypergeometric, multivariate negative hypergeometric, multinomial, or Dirichlet distribution, but not in general otherwise.
+Formal definition
+Formally, the partial correlation between X and Y given a set of n controlling variables Z = {Z1, Z2, ..., Zn}, written ρXY·Z, is the correlation between the residuals eX and eY resulting from the linear regression of X with Z and of Y with Z, respectively. The first-order partial correlation (i.e., when n = 1) is the difference between a correlation and the product of the removable correlations divided by the product of the coefficients of alienation of the removable correlations. The coefficient of alienation, and its relation with joint variance through correlation are available in Guilford (1973, pp. 344–345).
+Computation
+Using linear regression
+A simple way to compute the sample partial correlation for some data is to solve the two associated linear regression problems and calculate the correlation between the residuals. Let X and Y be random variables taking real values, and let Z be the n-dimensional vector-valued random variable. Let xi, yi and zi denote the ith of $MATH$ i.i.d. observations from some joint probability distribution over real random variables X, Y, and Z, with zi having been augmented with a 1 to allow for a constant term in the regression. Solving the linear regression problem amounts to finding (n+1)-dimensional regression coefficient vectors $MATH$ and $MATH$ such that
+where $MATH$ is the number of observations, and $MATH$ is the scalar product between the vectors $MATH$ and $MATH$. 
+The residuals are then
+and the sample partial correlation is then given by the usual formula for sample correlation, but between these new derived values:
+In the first expression the three terms after minus signs all equal 0 since each contains the sum of residuals from an ordinary least squares regression.
+Example
+Consider the following data on three variables, X, Y, and Z:
+Computing the Pearson correlation coefficient between variables X and Y results in approximately 0.970, while computing the partial correlation between X and Y, using the formula given above, gives a partial correlation of 0.919. The computations were done using R with the following code.
+The lower part of the above code reports generalized nonlinear partial correlation coefficient between X and Y after removing the nonlinear effect of Z to be 0.8844. Also, the generalized partial correlation coefficient between X and Z after removing the nonlinear effect of Y to be 0.1581. See the R package `generalCorr' and its vignettes for details. Simulation and other details are in Vinod (2017) "Generalized correlation and kernel causality with applications in development economics," Communications in Statistics - Simulation and Computation, vol. 46, [4513, 4534], available online: 29 Dec 2015, URL https://doi.org/10.1080/03610918.2015.1122048.
+Using recursive formula
+It can be computationally expensive to solve the linear regression problems. Actually, the nth-order partial correlation (i.e., with |Z| = n) can be easily computed from three (n - 1)th-order partial correlations. The zeroth-order partial correlation ρXY·Ø is defined to be the regular correlation coefficient ρXY.
+It holds, for any $MATH$ that
+Naïvely implementing this computation as a recursive algorithm yields an exponential time complexity. However, this computation has the overlapping subproblems property, such that using dynamic programming or simply caching the results of the recursive calls yields a complexity of $MATH$.
+Note in the case where Z is a single variable, this reduces to:
+Using matrix inversion
+The partial correlation can also be written in terms of the joint precision matrix. Consider a set of random variables, $MATH$ of cardinality n. We want the partial correlation between two variables $MATH$ and $MATH$ given all others, i.e., $MATH$. Suppose the (joint/full) covariance matrix $MATH$ is positive definite and therefore invertible. If the precision matrix is defined as $MATH$, then
+Computing this requires $MATH$, the inverse of the covariance matrix $MATH$ which runs in $MATH$ time (using the sample covariance matrix to obtain a sample partial correlation). Note that only a single matrix inversion is required to give all the partial correlations between pairs of variables in $MATH$.
+To prove Equation (1), return to the previous notation (i.e. $MATH$) and start with the definition of partial correlation: ρXY·Z is the correlation between the residuals eX and eY resulting from the linear regression of X with Z and of Y with Z, respectively.
+First, suppose $MATH$ are the coefficients for linear regression fit; that is, 
+Write the joint covariance matrix for the vector $MATH$ as
+
+where
+Then the standard formula for linear regression gives 
+Hence, the residuals can be written as
+Note that $MATH$ has expectation zero because of the inclusion of an intercept term in $MATH$. Computing the covariance now gives
+Next, write the precision matrix $MATH$ in a similar block form:
+Then, by Schur's formula for block-matrix inversion,
+The entries of the right-hand-side matrix are precisely the covariances previously computed in (2), giving 
+Using the formula for the inverse of a 2×2 matrix gives
+So indeed, the partial correlation is
+as claimed in (1).
+Interpretation
+Geometrical
+Let three variables X, Y, Z (where Z is the "control" or "extra variable") be chosen from a joint probability distribution over n variables V. Further, let vi, 1 ≤ i ≤ N, be N n-dimensional i.i.d. observations taken from the joint probability distribution over V. The geometrical interpretation comes from considering the N-dimensional vectors x (formed by the successive values of X over the observations), y (formed by the values of Y), and z (formed by the values of Z).
+It can be shown that the residuals eX,i coming from the linear regression of X on Z, if also considered as an N-dimensional vector eX (denoted rX in the accompanying graph), have a zero scalar product with the vector z generated by Z. This means that the residuals vector lies on an (N–1)-dimensional hyperplane Sz that is perpendicular to z.
+The same also applies to the residuals eY,i generating a vector eY. The desired partial correlation is then the cosine of the angle φ between the projections eX and eY of x and y, respectively, onto the hyperplane perpendicular to z.: ch. 7 
+As conditional independence test
+With the assumption that all involved variables are multivariate Gaussian, the partial correlation ρXY·Z is zero if and only if X is conditionally independent from Y given Z. This property does not hold in the general case.
+To test if a sample partial correlation $MATH$ implies that the true population partial correlation differs from 0, Fisher's z-transform of the partial correlation can be used:
+The null hypothesis is $MATH$, to be tested against the two-tail alternative $MATH$. $MATH$ can be rejected if
+where $MATH$ is the cumulative distribution function of a Gaussian distribution with zero mean and unit standard deviation, $MATH$ is the significance level of $MATH$, and $MATH$ is the sample size. This z-transform is approximate, and the actual distribution of the sample (partial) correlation coefficient is not straightforward. However, an exact t-test based on a combination of the partial regression coefficient, the partial correlation coefficient, and the partial variances is available.
+The distribution of the sample partial correlation was described by Fisher.
+Semipartial correlation (part correlation)
+The semipartial (or part) correlation statistic is similar to the partial correlation statistic; both compare variations of two variables after certain factors are controlled for. However, to calculate the semipartial correlation, one holds the third variable constant for either X or Y but not both; whereas for the partial correlation, one holds the third variable constant for both. The semipartial correlation compares the unique variation of one variable (having removed variation associated with the Z variable(s)) with the unfiltered variation of the other, while the partial correlation compares the unique variation of one variable to the unique variation of the other. 
+The semipartial correlation can be viewed as more practically relevant "because it is scaled to (i.e., relative to) the total variability in the dependent (response) variable." Conversely, it is less theoretically useful because it is less precise about the role of the unique contribution of the independent variable. 
+The absolute value of the semipartial correlation of X with Y is always less than or equal to that of the partial correlation of X with Y. The reason is this: Suppose the correlation of X with Z has been removed from X, giving the residual vector ex . In computing the semipartial correlation, Y still contains both unique variance and variance due to its association with Z. But ex , being uncorrelated with Z, can only explain some of the unique part of the variance of Y and not the part related to Z. In contrast, with the partial correlation, only ey (the part of the variance of Y that is unrelated to Z) is to be explained, so there is less variance of the type that ex cannot explain.
+Use in time series analysis
+In time series analysis, the partial autocorrelation function (sometimes "partial correlation function") of a time series is defined, for lag $MATH$, as
+This function is used to determine the appropriate lag length for an autoregression.

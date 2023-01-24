@@ -1,0 +1,50 @@
+Beer–Lambert law
+The Beer–Lambert law, also known as Beer's law, the Lambert–Beer law, or the Beer–Lambert–Bouguer law relates the attenuation of light to the properties of the material through which the light is travelling. The law is commonly applied to chemical analysis measurements and used in understanding attenuation in physical optics, for photons, neutrons, or rarefied gases. In mathematical physics, this law arises as a solution of the BGK equation.
+History
+The law was discovered by Pierre Bouguer before 1729, while looking at red wine, during a brief vacation in Alentejo, Portugal. It is often attributed to Johann Heinrich Lambert, who cited Bouguer's Essai d'optique sur la gradation de la lumière (Claude Jombert, Paris, 1729) – and even quoted from it – in his Photometria in 1760. Lambert's law stated that the loss of light intensity when it propagates in a medium is directly proportional to intensity and path length. Much later, the German scientist August Beer discovered another attenuation relation in 1852. Beer's law stated that the transmittance of a solution remains constant if the product of concentration and path length stays constant. The modern derivation of the Beer–Lambert law combines the two laws and correlates the absorbance, which is the negative decadic logarithm of the transmittance, to both the concentrations of the attenuating species and the thickness of the material sample. The first modern formulation was given possibly by Robert Luther and Andreas Nikolopulos in 1913.
+Mathematical formulation
+A common and practical expression of the Beer–Lambert law relates the optical attenuation of a physical material containing a single attenuating species of uniform concentration to the optical path length through the sample and absorptivity of the species. This expression is:
+Where
+A more general form of the Beer–Lambert law states that, for $MATH$ attenuating species in the material sample,
+or equivalently that
+where
+In the above equations, the transmittance $MATH$ of material sample is related to its optical depth $MATH$ and to its absorbance A by the following definition
+where
+Attenuation cross section and molar attenuation coefficient are related by
+and number density and amount concentration by
+where $MATH$ is the Avogadro constant.
+In case of uniform attenuation, these relations become
+or equivalently
+Cases of non-uniform attenuation occur in atmospheric science applications and radiation shielding theory for instance.
+The law tends to break down at very high concentrations, especially if the material is highly scattering. Absorbance within range of 0.2 to 0.5 is ideal to maintain linearity in the Beer–Lambart law. If the radiation is especially intense, nonlinear optical processes can also cause variances. The main reason, however, is that the concentration dependence is in general non-linear and Beer's law is valid only under certain conditions as shown by derivation below. For strong oscillators and at high concentrations the deviations are stronger. If the molecules are closer to each other interactions can set in. These interactions can be roughly divided into physical and chemical interactions. Physical interaction do not alter the polarizability of the molecules as long as the interaction is not so strong that light and molecular quantum state intermix (strong coupling), but cause the attenuation cross sections to be non-additive via electromagnetic coupling. Chemical interactions in contrast change the polarizability and thus absorption. 
+Expression with attenuation coefficient
+The Beer–Lambert law can be expressed in terms of attenuation coefficient, but in this case is better called Lambert's law since amount concentration, from Beer's law, is hidden inside the attenuation coefficient. The (Napierian) attenuation coefficient $MATH$ and the decadic attenuation coefficient $MATH$ of a material sample are related to its number densities and amount concentrations as
+respectively, by definition of attenuation cross section and molar attenuation coefficient. Then the Beer–Lambert law becomes
+and
+In case of uniform attenuation, these relations become
+or equivalently
+In many cases, the attenuation coefficient does not vary with $MATH$, in which case one does not have to perform an integral and can express the law as:
+where the attenuation is usually an addition of absorption coefficient $MATH$ (creation of electron-hole pairs) or scattering (for example Rayleigh scattering if the scattering centers are much smaller than the incident wavelength). Also note that for some systems we can put $MATH$ (1 over inelastic mean free path) in place of $MATH$.
+Derivation
+Assume that a beam of light enters a material sample. Define z as an axis parallel to the direction of the beam. Divide the material sample into thin slices, perpendicular to the beam of light, with thickness dz sufficiently small that one particle in a slice cannot obscure another particle in the same slice when viewed along the z direction. The radiant flux of the light that emerges from a slice is reduced, compared to that of the light that entered, by dΦe(z) = −μ(z)Φe(z) dz, where μ is the (Napierian) attenuation coefficient, which yields the following first-order linear ODE:
+The attenuation is caused by the photons that did not make it to the other side of the slice because of scattering or absorption. The solution to this differential equation is obtained by multiplying the integrating factor
+throughout to obtain
+which simplifies due to the product rule (applied backwards) to
+Integrating both sides and solving for Φe for a material of real thickness ℓ, with the incident radiant flux upon the slice Φei = Φe(0) and the transmitted radiant flux Φet = Φe(ℓ ) gives
+and finally
+Since the decadic attenuation coefficient μ10 is related to the (Napierian) attenuation coefficient by μ10 = μ/ln 10, one also have
+To describe the attenuation coefficient in a way independent of the number densities ni of the N attenuating species of the material sample, one introduces the attenuation cross section σi = μi(z)/ni(z). σi has the dimension of an area; it expresses the likelihood of interaction between the particles of the beam and the particles of the specie i in the material sample:
+One can also use the molar attenuation coefficients εi = (NA/ln 10)σi, where NA is the Avogadro constant, to describe the attenuation coefficient in a way independent of the amount concentrations ci(z) = ni(z)/NA of the attenuating species of the material sample:
+Validity
+Under certain conditions the Beer–Lambert law fails to maintain a linear relationship between attenuation and concentration of analyte. These deviations are classified into three categories:
+There are at least six conditions that need to be fulfilled in order for the Beer–Lambert law to be valid. These are:
+If any of these conditions are not fulfilled, there will be deviations from the Beer–Lambert law.
+Chemical analysis by spectrophotometry
+The Beer–Lambert law can be applied to the analysis of a mixture by spectrophotometry, without the need for extensive pre-processing of the sample. An example is the determination of bilirubin in blood plasma samples. The spectrum of pure bilirubin is known, so the molar attenuation coefficient ε is known. Measurements of decadic attenuation coefficient μ10 are made at one wavelength λ that is nearly unique for bilirubin and at a second wavelength in order to correct for possible interferences. The amount concentration c is then given by
+For a more complicated example, consider a mixture in solution containing two species at amount concentrations c1 and c2. The decadic attenuation coefficient at any wavelength λ is, given by
+Therefore, measurements at two wavelengths yields two equations in two unknowns and will suffice to determine the amount concentrations c1 and c2 as long as the molar attenuation coefficient of the two components, ε1 and ε2 are known at both wavelengths. This two system equation can be solved using Cramer's rule. In practice it is better to use linear least squares to determine the two amount concentrations from measurements made at more than two wavelengths. Mixtures containing more than two components can be analyzed in the same way, using a minimum of N wavelengths for a mixture containing N components.
+The law is used widely in infra-red spectroscopy and near-infrared spectroscopy for analysis of polymer degradation and oxidation (also in biological tissue) as well as to measure the concentration of various compounds in different food samples. The carbonyl group attenuation at about 6 micrometres can be detected quite easily, and degree of oxidation of the polymer calculated.
+Application for the atmosphere
+This law is also applied to describe the attenuation of solar or stellar radiation as it travels through the atmosphere. In this case, there is scattering of radiation as well as absorption. The optical depth for a slant path is τ′ = mτ, where τ refers to a vertical path, m is called the relative airmass, and for a plane-parallel atmosphere it is determined as m = sec θ where θ is the zenith angle corresponding to the given path. The Beer–Lambert law for the atmosphere is usually written
+where each τx is the optical depth whose subscript identifies the source of the absorption or scattering it describes:
+m is the optical mass or airmass factor, a term approximately equal (for small and moderate values of θ) to 1/cos θ, where θ is the observed object's zenith angle (the angle measured from the direction perpendicular to the Earth's surface at the observation site). This equation can be used to retrieve τa, the aerosol optical thickness, which is necessary for the correction of satellite images and also important in accounting for the role of aerosols in climate.

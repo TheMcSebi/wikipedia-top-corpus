@@ -1,0 +1,31 @@
+Sulpiride
+Sulpiride, sold under the brand name Dogmatil among others, is an atypical antipsychotic (although some texts have referred to it as a typical antipsychotic) medication of the benzamide class which is used mainly in the treatment of psychosis associated with schizophrenia and major depressive disorder, and sometimes used in low dosage to treat anxiety and mild depression. Sulpiride is commonly used in Asia, Central America, Europe, South Africa and South America. Levosulpiride is its purified levo-isomer and is sold in India for similar purpose. It is not approved in the United States, Canada, or Australia. The drug is chemically and clinically similar to amisulpride.
+Medical uses
+Sulpiride's primary use in medicine is in the management of the symptoms of schizophrenia. It has been used as both a monotherapy and adjunctive therapy (in case of treatment-resistance) in schizophrenia. It has also been used in the treatment of dysthymia. There is evidence, although low quality, that Sulpiride could accelerate antidepressant response in patients with major depressive disorder. There is also evidence of its efficacy in treating panic disorder. Sulpiride is indicated for the treatment of vertigo in some countries. In Japan, Sulpiride is both approved as a treatment for schizophrenia and for major depressive disorder (low dose).
+Contraindications
+Contraindications
+Cautions
+Pregnancy and lactation
+Side effects
+Sulpiride is usually well tolerated, producing few adverse effects. Their incidences are as follows:
+Overdose
+Sulpiride has a relatively low order of acute toxicity. Substantial amounts may cause severe but reversible dystonic crises with torticollis, protrusion of the tongue, and/or trismus. In some cases all the classical symptoms typical of severe Parkinson's disease may be noted; in others, over-sedation/coma may occur. The treatment is largely symptomatic. Some or all extrapyramidal reactions may respond to the application of anticholinergic drugs such as biperiden or benzatropine. All patients should be closely monitored for signs of long QT syndrome and severe arrhythmias.
+Interactions
+Sulpiride neither inhibits nor stimulates cytochrome P450 family (CYP) of oxidizing enzymes in human, thus would not cause clinically significant interactions with other drugs, which are metabolized by CYPs. However, the risk or severity of adverse effects can be increased when sulpiride is combined with other drugs, but this is not related to substrates, inducers and inhibitors of CYPs.
+Pharmacology
+Pharmacodynamics
+Sulpiride is a selective antagonist at dopamine D2, D3 and 5-HT1A receptors.  Antagonism at 5-HT1A dominates in doses exceeding 600 mg daily. In doses of 600 to 1,600 mg sulpiride shows mild sedating and antipsychotic activity. Its antipsychotic potency compared to chlorpromazine is only 0.2 (1/5). In low doses (in particular 50 to 200 mg daily) its prominent feature is antagonism of presynaptic inhibitory dopamine and serotonin receptors, accounting for some antidepressant activity and a stimulating effect. Additionally, it alleviates vertigo.
+The benzamide neuroleptics (including sulpiride, amisulpride, and sultopride) have been shown to activate the endogenous gamma-hydroxybutyrate receptor in vivo at therapeutic concentrations. Sulpiride was found in one study in rats to upregulate GHB receptors. GHB has neuroleptic properties and it is believed binding to this receptor may contribute to the effects of these neuroleptics.
+Sulpiride, along with clozapine, and valproate has been found to activate DNA demethylation in the brain.
+History
+Sulpiride was discovered in 1966 as a result of a research program by Justin-Besançon and C. Laville at Laboratoires Delagrange who were working to improve the anti-dysrhythmic properties of procainamide; the program led first to metoclopramide and later to sulpiride. Laboratoires Delagrange was acquired by Synthelabo in 1991 which eventually became part of Sanofi.
+Society and culture
+Brand names
+Sulpiride is marketed under the brand names Dogmatil (DE, HK, SG, PH), Dolmatil (IE, UK), Eglonyl (RU, ZA, SloveniaSI), Espiride (ZA), Modal (IL), Prometar (UY), Equilid (BR) and Sulpor (UK), among many others.
+Medicinal forms
+These include tablet and oral solution
+Patient Aversions
+Some individuals from the Caribbean region may have an aversion to taking the medication due to the association with the brand name of Dogmatil. Dogmatil has been associated with dog medication.
+Research
+Sulpiride has been studied for use as a hormonal contraceptive in women in whom conventional oral contraceptives are contraindicated and to potentiate progestogen-only contraceptives. The contraceptive effects of sulpiride are due to its prolactin-releasing and antigonadotropic effects and the hyperprolactinemia–amenorrhea state that it induces.
+Since the use of psychotropic drugs is efficient in treating irritable bowel syndrome (IBS), sulpiride is studied as potential sole maintenance therapy in the treatment of IBS.

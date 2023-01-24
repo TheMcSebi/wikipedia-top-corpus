@@ -1,0 +1,54 @@
+Line integral
+In mathematics, a line integral is an integral where the function to be integrated is evaluated along a curve.  The terms path integral, curve integral, and curvilinear integral are also used; contour integral is used as well, although that is typically reserved for line integrals in the complex plane.
+The function to be integrated may be a scalar field or a vector field. The value of the line integral is the sum of values of the field at all points on the curve, weighted by some scalar function on the curve (commonly arc length or, for a vector field, the scalar product of the vector field with a differential vector in the curve). This weighting distinguishes the line integral from simpler integrals defined on intervals. Many simple formulae in physics, such as the definition of work as $MATH$, have natural continuous analogues in terms of line integrals, in this case $MATH$, which computes the work done on an object moving through an electric or gravitational field F along a path $MATH$.
+Vector calculus
+In qualitative terms, a line integral in vector calculus can be thought of as a measure of the total effect of a given tensor field along a given curve. For example, the line integral over a scalar field (rank 0 tensor) can be interpreted as the area under the field carved out by a particular curve. This can be visualized as the surface created by z = f(x,y) and a curve C in the xy plane. The line integral of f would be the area of the "curtain" created—when the points of the surface that are directly over C are carved out.
+Definition
+For some scalar field $MATH$ where $MATH$, the line integral along a piecewise smooth curve $MATH$ is defined as
+where $MATH$ is an arbitrary bijective parametrization of the curve $MATH$ such that r(a) and r(b) give the endpoints of $MATH$ and a < b. Here, and in the rest of the article, the absolute value bars denote the standard (Euclidean) norm of a vector.
+The function f is called the integrand, the curve $MATH$ is the domain of integration, and the symbol ds may be intuitively interpreted as an elementary arc length of the curve $MATH$ (i.e., a differential length of $MATH$). Line integrals of scalar fields over a curve $MATH$ do not depend on the chosen parametrization r of $MATH$.
+Geometrically, when the scalar field f is defined over a plane (n = 2), its graph is a surface z = f(x, y) in space, and the line integral gives the (signed) cross-sectional area bounded by the curve $MATH$ and the graph of f. See the animation to the right.
+Derivation
+For a line integral over a scalar field, the integral can be constructed from a Riemann sum using the above definitions of f, C and a parametrization r of C. This can be done by partitioning the interval [a, b] into n sub-intervals [ti−1, ti] of length Δt = (b − a)/n, then r(ti) denotes some point, call it a sample point, on the curve C. We can use the set of sample points {r(ti): 1 ≤ i ≤ n} to approximate the curve C as a polygonal path by introducing the straight line piece between each of the sample points r(ti−1) and r(ti). (The approximation of a curve to a polygonal path is called rectification of a curve, see here for more details.) We then label the distance of the line segment between adjacent sample points on the curve as Δsi. The product of f(r(ti)) and Δsi can be associated with the signed area of a rectangle with a height and width of f(r(ti)) and Δsi, respectively. Taking the limit of the sum of the terms as the length of the partitions approaches zero gives us
+By the mean value theorem, the distance between subsequent points on the curve, is
+Substituting this in the above Riemann sum yields
+which is the Riemann sum for the integral
+Definition
+For a vector field F: U ⊆ Rn → Rn, the line integral along a piecewise smooth curve C ⊂ U, in the direction of r, is defined as
+where · is the dot product, and r: [a, b] → C is a bijective parametrization of the curve C such that r(a) and r(b) give the endpoints of C.
+A line integral of a scalar field is thus a line integral of a vector field, where the vectors are always tangential to the line of the integration.
+Line integrals of vector fields are independent of the parametrization r in absolute value, but they do depend on its orientation. Specifically, a reversal in the orientation of the parametrization changes the sign of the line integral.
+From the viewpoint of differential geometry, the line integral of a vector field along a curve is the integral of the corresponding 1-form under the musical isomorphism (which takes the vector field to the corresponding covector field), over the curve considered as an immersed 1-manifold.
+Derivation
+The line integral of a vector field can be derived in a manner very similar to the case of a scalar field, but this time with the inclusion of a dot product. Again using the above definitions of F, C and its parametrization r(t), we construct the integral from a Riemann sum. We partition the interval [a, b] (which is the range of the values of the parameter t) into n intervals of length Δt = (b − a)/n. Letting ti be the ith  point on [a, b], then r(ti) gives us the position of the ith point on the curve. However, instead of calculating up the distances between subsequent points, we need to calculate their displacement vectors, Δri. As before, evaluating F at all the points on the curve and taking the dot product with each displacement vector gives us the infinitesimal contribution of each partition of F on C. Letting the size of the partitions go to zero gives us a sum
+By the mean value theorem, we see that the displacement vector between adjacent points on the curve is
+Substituting this in the above Riemann sum yields
+which is the Riemann sum for the integral defined above.
+Path independence
+If a vector field F is the gradient of a scalar field G (i.e. if F is conservative), that is,
+then by the multivariable chain rule the derivative of the composition of G and r(t) is
+which happens to be the integrand for the line integral of F on r(t). It follows, given a path C , that
+In other words, the integral of F over C depends solely on the values of G at the points r(b) and r(a), and is thus independent of the path between them.  For this reason, a line integral of a conservative vector field is called path independent.
+Applications
+The line integral has many uses in physics. For example, the work done on a particle traveling on a curve C inside a force field represented as a vector field F is the line integral of F on C.
+Flow across a curve
+For a vector field $MATH$, F(x, y) = (P(x, y), Q(x, y)), the line integral across a curve C ⊂ U, also called the flux integral, is defined in terms of a piecewise smooth parametrization r: [a,b] → C, r(t) = (x(t), y(t)), as:
+Here ⋅ is the dot product, and $MATH$ is the clockwise perpendicular of the velocity vector $MATH$.
+The flow is computed in an oriented sense: the curve C has a specified forward direction from r(a) to r(b), and the flow is counted as positive when F(r(t)) is on the clockwise side of the forward velocity vector r'(t).
+Complex line integral
+In complex analysis, the line integral is defined in terms of multiplication and addition of complex numbers.  Suppose U is an open subset of the complex plane C, f : U → C is a function, and $MATH$ is a curve of finite length, parametrized by γ: [a,b] → L, where γ(t) = x(t) + iy(t). The line integral
+may be defined by subdividing the interval [a, b] into a = t0 < t1 < ... <  tn = b and considering the expression
+The integral is then the limit of this Riemann sum as the lengths of the subdivision intervals approach zero.
+If the parametrization γ is continuously differentiable, the line integral can be evaluated as an integral of a function of a real variable:
+When L is a closed curve (initial and final points coincide), the line integral is often denoted $MATH$ sometimes referred to in engineering as a cyclic integral.
+The line integral with respect to the conjugate complex differential $MATH$ is defined to be
+The line integrals of complex functions can be evaluated using a number of techniques. The most direct is to split into real and imaginary parts, reducing the problem to evaluating two real-valued line integrals. The Cauchy integral theorem may be used to equate the line integral of an analytic function to the same integral over a more convenient curve. It also implies that over a closed curve enclosing a region where f(z) is analytic without singularities, the value of the integral is simply zero, or in case the region includes singularities, the residue theorem computes the integral in terms of the singularities. This also implies the path independence of complex line integral for analytic functions.
+Example
+Consider the function f(z) = 1/z, and let the contour L be the counterclockwise unit circle about 0, parametrized by z(t) = eit with t in [0, 2π] using the complex exponential. Substituting, we find:
+This is a typical result of Cauchy's integral formula and the residue theorem.
+Relation of complex line integral and line integral of vector field
+Viewing complex numbers as 2-dimensional vectors, the line integral of a complex-valued function $MATH$ has real and complex parts equal to the line integral and the flux integral of the vector field corresponding to the conjugate function $MATH$ Specifically, if $MATH$ parametrizes L, and $MATH$ corresponds to the vector field $MATH$ then:
+By Cauchy's theorem, the left-hand integral is zero when $MATH$ is analytic (satisfying the Cauchy–Riemann equations) for any smooth closed curve L. Correspondingly, by Green's theorem, the right-hand integrals are zero when $MATH$ is irrotational (curl-free) and incompressible (divergence-free). In fact, the Cauchy-Riemann equations for $MATH$ are identical to the vanishing of curl and divergence for F.
+By Green's theorem, the area of a region enclosed by a smooth, closed, positively oriented curve $MATH$ is given by the integral $MATH$ This fact is used, for example, in the proof of the area theorem.
+Quantum mechanics
+The path integral formulation of quantum mechanics actually refers not to path integrals in this sense but to functional integrals, that is, integrals over a space of paths, of a function of a possible path. However, path integrals in the sense of this article are important in quantum mechanics; for example, complex contour integration is often used in evaluating probability amplitudes in quantum scattering theory.

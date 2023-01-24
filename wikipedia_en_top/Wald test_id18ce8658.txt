@@ -1,0 +1,30 @@
+Wald test
+In statistics, the Wald test (named after Abraham Wald) assesses constraints on statistical parameters based on the weighted distance between the unrestricted estimate and its hypothesized value under the null hypothesis, where the weight is the precision of the estimate. Intuitively, the larger this weighted distance, the less likely it is that the constraint is true. While the finite sample distributions of Wald tests are generally unknown, it has an asymptotic χ2-distribution under the null hypothesis, a fact that can be used to determine statistical significance.
+Together with the Lagrange multiplier test and the likelihood-ratio test, the Wald test is one of three classical approaches to hypothesis testing. An advantage of the Wald test over the other two is that it only requires the estimation of the unrestricted model, which lowers the computational burden as compared to the likelihood-ratio test. However, a major disadvantage is that (in finite samples) it is not invariant to changes in the representation of the null hypothesis; in other words, algebraically equivalent expressions of non-linear parameter restriction can lead to different values of the test statistic. That is because the Wald statistic is derived from a Taylor expansion, and different ways of writing equivalent nonlinear expressions lead to nontrivial differences in the corresponding Taylor coefficients. Another aberration, known as the Hauck–Donner effect, can occur in binomial models when the estimated (unconstrained) parameter is close to the boundary of the parameter space—for instance a fitted probability being extremely close to zero or one—which results in the Wald test no longer monotonically increasing in the distance between the unconstrained and constrained parameter.
+Mathematical details
+Under the Wald test, the estimated $MATH$ that was found as the maximizing argument of the unconstrained likelihood function is compared with a hypothesized value $MATH$. In particular, the squared difference $MATH$ is weighted by the curvature of the log-likelihood function.
+Test on a single parameter
+If the hypothesis involves only a single parameter restriction, then the Wald statistic takes the following form:
+which under the null hypothesis follows an asymptotic χ2-distribution with one degree of freedom. The square root of the single-restriction Wald statistic can be understood as a (pseudo) t-ratio that is, however, not actually t-distributed except for the special case of linear regression with normally distributed errors. In general, it follows an asymptotic z distribution.
+where $MATH$ is the standard error of the maximum likelihood estimate (MLE), the square root of the variance. There are several ways to consistently estimate the variance matrix which in finite samples leads to alternative estimates of standard errors and associated test statistics and p-values.
+Test(s) on multiple parameters
+The Wald test can be used to test a single hypothesis on multiple parameters, as well as to test jointly multiple hypotheses on single/multiple parameters. Let $MATH$ be our sample estimator of P parameters (i.e., $MATH$ is a $MATH$ vector), which is supposed to follow asymptotically a normal distribution with covariance matrix V, $MATH$.
+The test of Q hypotheses on the P parameters is expressed with a $MATH$ matrix R:
+The distribution of the test statistic under the null hypothesis is:
+where $MATH$ is an estimator of the covariance matrix.
+Suppose $MATH$. Then, by Slutsky's theorem and by the properties of the normal distribution, multiplying by R has distribution:
+Recalling that a quadratic form of normal distribution has a Chi-squared distribution:
+Rearranging n finally gives:
+What if the covariance matrix is not known a-priori and needs to be estimated from the data? If we have a consistent estimator $MATH$  of $MATH$ such that $MATH$ has a determinant that is distributed $MATH$, then by the independence of the covariance estimator and equation above, we have:
+Nonlinear hypothesis
+In the standard form, the Wald test is used to test linear hypotheses that can be represented by a single matrix R. If one wishes to test a non-linear hypothesis of the form:
+The test statistic becomes:
+where $MATH$ is the derivative of c evaluated at the sample estimator. This result is obtained using the delta method, which uses a first order approximation of the variance.
+Non-invariance to re-parameterisations
+The fact that one uses an approximation of the variance has the drawback that the Wald statistic is not-invariant to a non-linear transformation/reparametrisation of the hypothesis: it can give different answers to the same question, depending on how the question is phrased. For example, asking whether R = 1 is the same as asking whether log R = 0; but the Wald statistic for R = 1 is not the same as the Wald statistic for log R = 0 (because there is in general no neat relationship between the standard errors of R and log R, so it needs to be approximated).
+Alternatives to the Wald test
+There exist several alternatives to the Wald test, namely the likelihood-ratio test and the Lagrange multiplier test (also known as the score test). Robert F. Engle showed that these three tests, the Wald test, the likelihood-ratio test and the Lagrange multiplier test  are asymptotically equivalent. Although they are asymptotically equivalent, in finite samples, they could disagree enough to lead to different conclusions.
+There are several reasons to prefer the likelihood ratio test or the Lagrange multiplier to the Wald test:
+See also
+References
+Further reading

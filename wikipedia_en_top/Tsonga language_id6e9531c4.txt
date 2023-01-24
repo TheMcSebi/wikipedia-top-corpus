@@ -1,0 +1,124 @@
+Tsonga language
+Tsonga (/ˈtsɒŋɡə/) or Xitsonga (Tsonga: Xitsonga) as an endonym, is a Bantu language spoken by the Tsonga people of southern Africa. It is mutually intelligible with Tswa and Ronga and the name "Tsonga" is often used as a cover term for all three, also sometimes referred to as Tswa-Ronga. The Xitsonga language has been standardised for both academic and home use. Tsonga is an official language of South Africa, and under the name "Shangani" it is recognised as an official language in the Constitution of Zimbabwe. All Tswa-Ronga languages are recognised in Mozambique. It is not official in Eswatini (formerly Swaziland).
+
+
+History
+The Xitsonga language was studied in great detail by the Swiss missionary, Henri-Alexandre Junod between the years 1890 and 1920, who made the conclusion that the Xitsonga language (which he called the "Thonga language" at the time) began to develop in Mozambique even before the 1400s. In his own words, Junod states the following:
+Further studies were carried out by Junod and other Swiss missionaries such as Henri Berthoud and Ernest Creux, who began to unify the language in order to have a standard way of writing and reading. "Shigwamba" was a term used by the missionaries in order to group the language under a unified identity, however the name was unfamiliar to many of the Tsonga people and had to be replaced with "Thonga/Tsonga". Harries makes reference to this:
+Swiss missionaries engaged with the Tsonga people and used their assistance to translate the Bible from English and Sesotho into the Tsonga language. Paul Berthoud published the first book in 1883 which came as a result of the help he received from the translations by Mpapele (Mbizana) or Mandlati (Zambiki). The two men were active in teaching and translating the language to the missionaries since none of the missionaries were familiar with it and had to dedicate much of their time to learn it. The language of the Tsonga people and the dialects were put into print and the first books were published. The language was later on finally registered as "Xitsonga" within the Constitution of South Africa (Act 108 of 1996) and it was declared an official language. The standardization of the Xitsonga language as a result made it possible for the Tsonga people to develop a common way of speaking and writing.
+Etymology
+The name "Tsonga" is the root of Xitsonga (culture, language or ways of the Tsonga), Mutsonga (a Tsonga person), Vatsonga (Tsonga people), etc. In the language of the Vatsonga themselves, the root never appears by itself. It is Tsonga for the ease and accessibility of the wider international community.
+As for the origins of the name, there are three theories. The first states that Tsonga is another pronunciation for Dzonga, which means "South" and also the name of one of the dialects of Xitsonga. The second theory is that it is an alternate spelling of the old ancestral name of the Chopi and Tembe groups, Tonga/Thonga. The other Zulu explanation for the alternative spelling of "Thonga" is that the Tembe and Rhonga people, who were the first to arrive at the Delagoa Bay and around the Natal Bay, transitioned the Rhonga "Rh" into the Zulu form of "Th". An example is rhuma (Tsonga word for "send") becomes thuma (Zulu word for the same action). The third and most accepted is that it is another pronunciation for "Rhonga", the root for the word "vurhonga" for east or the direction where the sun rises. Vurhonga also means dawn in Xitsonga. Rhonga (commonly and wrongly spelt as Ronga) is one of the Tsonga languages. The physical evidence of most Tsonga people residing along the eastern coast of Africa in the south, extending inland in a westward direction, makes this explanation especially inviting. However Junod had initially used the Ronga appellation but had also realized that the northern clans did not frequently use the name 'Ronga' as their identity name, but most certainly Tsonga is a derivation of Ronga.
+Much of the written history about the Tsonga regards the aftermath of the mfecane where the Nguni people overran many of the pre-existing African tribes of South Africa, Eswatini, Mozambique, and Zimbabwe.
+Languages and dialects
+Tsonga is a Bantu language (Guthrie code S.53), closely related to other members to the Tswa-Ronga group (S.50):
+Some dialects are subdialects but have been mentioned here for completeness. For example, Valoyi and Luleke comprise the N'walungu dialect. There is no Gwamba dialect as Gwamba is another name for Xitsonga itself. Formally Xitsonga has been called Gwamba. Tswa-Ronga dialects not considered part of the family include Pulana (Xipulana, Sepulane). What is commonly referred to as "Shangana/Changana" is not a recognized language in South Africa and is not a dialect that falls within the Xitsonga language group, as its distinctiveness stems mainly from the use of the Nguni language and grammar.
+Only six Thonga/Tsonga dialects exist and these were identified by the dawn of the 1900s. These are namely xiRonga, xiHlanganu, xiBila, xiDjonga, xiN'walungu, and xiHlengwe. All other variations within South Africa are sub-dialects of the aforementioned. The dialects most spoken in the rural communities of Limpopo are the N'walungu, Bila, Hlengwe, and the Hlanganu dialects. The Xitsonga vocabulary and phonetic permutations are also largely based on these dialects (cf. Junod 1912, p. 470-473)
+For "language of", the various languages and dialects employ one or more of the following prefixes: Bi-, Chi-, Ci-, Gi-, Ici-, Ki-, Ma-, Shee-, Shi-, Txi-, Va-, Wa-, and Xi-. For "people of", they use either "Ba-" or "Va-".
+Phonology
+Tsonga has a distinction between modal and breathy voiced consonants: /bʱ, bvʱ, vʱ, dʱ, ɖʐʱ, dʒʱ, ɡʱ/ vs /b, bv, v, d, ɖʐ, dʒ, ɡ/ among the obstruents (the one exception being /ɮ/), and /m̤, n̤, ŋ̈, r̤, ȷ̈, w̤/ vs /m, n, ŋ, r, j, w/ among the sonorants (the one exception being /ɲ/). The segmental inventory is as follows:
+Vowels
+Long vowels are written double. Nasalized vowels are not distinguished in writing; [ĩ, ẽ, ə̃] are only found in words for 'yes' and 'no', while [ã] is found in a few mimetic words. Mid vowels can vary from close-mid to open-mid; they are generally close-mid [e, o] before a high vowel, /i/ or /u/, and low-mid [ɛ, ɔ] otherwise. Vowels may be realized as murmured [i̤, a̤] when following breathy consonants.
+Consonants
+Many of these consonants may be preceded by a nasal, but they are not prenasalized consonants: at least in word-initial position, they are nasal–obstruent sequences where the nasals are syllabic.
+Different consonant sounds may alternate the place of articulation. A number of Tsonga speakers vary the affricates from alveolar [ts], [tsʰ], [dz], [dzʱ], [dzʷʱ] to retroflex [tʂ], [tʂʰ], [dʐ], [dʐʱ], [dʐʷʱ]; the latter are weakly whistled in Tsonga proper and in Changana dialect. Labiodental [ɱ] and dental [n̪] appear in homorganic consonant clusters.
+Unlike some of the Nguni languages, Tsonga has very few words with click consonants, and these vary in place between dental [ᵏǀ], [ᵏǀʰ], [ᵏǀʷʰ], [ᶢǀ], [ᶢǀʷ] and postalveolar [ᵏ!], [ᵏ!ʰ], [ᵏ!ʷʰ], [ᶢ!], [ᶢ!ʷ].  Examples are: 
+ngqondo (mind), gqoka (wear/dress), guqa (kneel), riqingo (phone), qiqi (earring), qamba (compose), Mugqivela (Saturday).
+Grammar
+The grammar is generally typical of Bantu languages with a subject–verb–object order. The structure changes to subject—object—verb when addressing another person:
+Verbs
+Almost all infinitives have the prefix ku- and end with -a.
+The main exception to this is the verb ku ri – "to say" It corresponds to "ti" in many other bantu languages. Examples of its usage include:
+u ri yini? – What do you say? (What are you saying?)
+ndzi ri ka n'wina – I say to you all.
+In many instances the ri is often omitted and thus ku on its own can also mean "say".
+Va ri ndza penga – They say I'm crazy.
+Va ri yini? – What do they say? (What are they saying?)
+Present tense
+The present tense is formed by simply using the personal pronoun along with the verb.
+Ndzi lava mali – I want money,
+Hi tirha siku hinkwaro – We work all day,
+Mi(u) lava mani? – Who are you looking for?
+U kota ku famba – S/He knows how to walk.
+Present progressive
+Generally, to indicate ongoing actions in the present one takes the personal pronoun, drops the i and adds a.
+Ndzi nghena (e)ndlwini – I am entering the house,
+Ha tirha sweswi – We are working right now,
+Ma hemba – You (plural) are lying,
+Wa hemba – You (singular) are lying,
+Wa hemba – S/He is lying,
+With the plural va (they) there is no difference. Thus va hemba = "they lie" and "they are lying".
+Past tense
+This is for in one of three ways, depending on the word.
+(i) Generally, one drops the a from the verb and adds the prefix -ile 
+Ndzi nghenile ndlwini – I entered the house,
+Hi tirhile siku hinkwaro – We worked all day,
+U hembile – You lied,
+U hembile – S/He lied,
+Va hembile – They lied.
+(ii) With verbs that end with -ala, the past tense changes to -ele or -ale.
+ku rivala – to forget,
+Ndzi rivele – I forgot, U rivele – you forgot, Va rivele – they forgot,
+Ku nyamalala – To disappear,
+U nyamalarile – S/He – disappeared,
+Words used to describe a state of being also use the past tense.
+Ku karhala – To be tired,
+Ndzi karhele – I am tired, U karhele – S/He is tired, Va karhele – They are tired.
+(iii) In many cases merely changing the last a in the verb to an e indicates past action.
+Ku fika – To arrive,
+U fike tolo – S/He arrived yesterday,
+Ndzi fike tolo – I arrived yesterday,
+Hi tirhe siku hinkwaro – We worked all day,
+Ndzi nghene (e)ndlwini – I entered the house.
+Future tense
+This is formed by the adding ta in between the personal pronoun and the verb.
+Ndzi ta nghena (e)ndlwini – I will enter the house,
+Hi ta tirha siku hinkwaro – We will work all day,
+Va ta tirha siku hinkwaro – They will work all day,
+Mi ta tirha siku hinkwaro – You (plural) will work all day.
+Noun classes
+Tsonga has several classes, much like other Bantu languages, which are learned through memorisation mostly. These are:
+Personal pronouns
+Personal pronouns in Tsonga are very similar to those of many other Bantu languages, with a few variations.
+These may be classified as first person (the speaker), second person (the one spoken to), and third person (the one spoken about). They are also classified by grammatical number, i.e., singular and plural. There is no distinction between subject and object.
+Each pronoun has a corresponding concord or agreement morpheme.
+Vocabulary
+The vocabulary of Xitsonga is essentially similar not only to most South African languages but also other Eastern Bantu languages, for example, Kiswahili.
+Borrowings
+Tsonga, like many other African languages, have been influenced by various European colonial languages. Tsonga vocabulary includes words borrowed from English, Afrikaans, and Portuguese. Also, due to the assimilation of the Shangaan nation, it has taken some words from Nguni languages.
+Words borrowed from English
+Words borrowed from Afrikaans
+Words borrowed from other Nguni languages:
+Writing system
+Xitsonga Latin Alphabet
+Xitsonga uses the Latin alphabet. However, certain sounds are spelled using a combination of letters, which either do not exist in Indo-European languages, or may be meant to distinguish the language somewhat.
+An example of this is the letter "x" taken from Portuguese orthography, which is pronounced /ʃ/. Therefore, the following words, [ʃuʃa], [ʃikolo], [ʃilo], are written in Tsonga as -xuxa, xikolo, and xilo.
+Other spelling differences include the letter "c", which is pronounced /t͡ʃ/. However, where the emphasis of a word is on the following vowel the letter is hardened by adding "h" this the Tsonga word -chava (fear)
+A sound equivalent to the Welsh "ll" (/ɬ/) is written "hl" in Tsonga, e.g. -hlangana (meet), -hlasela (attack), -hleka (laugh)
+A whistling sound common in the language is written "sw" or "sv" in Zimbabwean ChiShona. This sound actually belongs to the "x-sw" class within the language. E.g.:
+Another whistling sound is spelled "dy" but has no English equivalent, the closest being the "dr" sound in the English word "drive"
+Xitsonga has been standardised as a written language. However, there are many dialects within the language that may not pronounce words as written. For example, the Tsonga bible uses the word byela (tell), pronounced bwe-la, however a large group of speakers would say "dzvela" instead.
+The Lord's Prayer as written in the Xitsonga Bible (Bibele)
+Tata wa hina la nge matilweni,
+vito ra wena a ri hlawuriwe;
+a ku te ku fuma ka wena;
+ku rhandza ka wena a ku endliwe misaveni; 
+tani hi loko ku endliwa matilweni;
+u hi nyika namuntlha vuswa bya hina
+bya siku rin'wana ni rin'wana;
+u hi rivalela swidyoho swa hina,
+tani hi loko na hina hi rivalela lava hi dyohelaka; 
+u nga hi yisi emiringweni
+kambe u hi ponisa eka Lowo biha,
+hikuva ku fuma, ni matimba, ni ku twala i swa wena
+hi masiku ni masiku. 
+Amen.
+Xiyinhlanharhu xa Mipfawulo
+The sintu writing system, Isibheqe Sohlamvu/Ditema tsa Dinoko, also known technically in Xitsonga as Xiyinhlanharhu xa Mipfawulo, is used for all Xitsonga varieties. 
+The class 7/8 noun pairs above are represented as follows:
+
+
+Proverbs
+Like many other languages, Xitsonga has many proverbs; these appear in different classes. They appear in a group of animals, trees and people.
+References
+Further reading

@@ -1,0 +1,86 @@
+Hadza language
+Hadza is a language isolate spoken along the shores of Lake Eyasi in Tanzania by around 1,000 Hadza people, who include in their number the last full-time hunter-gatherers in Africa. It is one of only three languages in East Africa with click consonants. Despite the small number of speakers, language use is vigorous, with most children learning it, but UNESCO categorizes the language as vulnerable.
+Name
+The Hadza go by several names in the literature. 'Hadza' itself just means 'human being'. 'Hadzabe' (hazabee) is the plural, and 'Hadzapi' (hazaphii) means 'they are men'. 'Hatza' and 'Hatsa' are older German spellings. The language is sometimes distinguished as 'Hadzane' (hazane) 'of the Hadza'. 
+'Tindiga' is from Swahili watindiga 'people of the marsh grass' (from the large spring in Mangola) and kitindiga (language of the same). 'Kindiga' is apparently a form of the same from one of the local Bantu languages, presumably Isanzu. 'Kangeju' (pronounced Kangeyu) is an obsolete German name of unclear origin. 'Wahi' (pronounced Vahi) is the German spelling of the Sukuma name for either the Hadza west of the lake, or perhaps a Sukuma clan that traces its ancestry to the Hadza.
+Classification
+Hadza is a language isolate (Sands 1998, Starostin 2013). It was once classified by many linguists as a Khoisan language, along with its neighbor Sandawe, primarily because they both have click consonants. However, Hadza has very few proposed cognates with either Sandawe or the other putative Khoisan languages, and many of the ones that have been proposed appear doubtful. The links with Sandawe, for example, are Cushitic loan words, whereas the links with southern Africa are so few and so short (usually single consonant–vowel syllables) that they are most likely coincidental. A few words link it with Oropom, which may itself be spurious; the numerals itchâme /it͡ʃʰaame/ 'one' and piye /pie/ 'two' suggest a connection with Kwʼadza, an extinct language of hunter-gatherers who may have had recently shifted to Cushitic. (Higher numerals were borrowed in both languages.)
+There are no dialects, though there is some regional vocabulary, especially Bantu loans, which are more numerous in the southern and western areas of high bilingualism.
+The language is marked as "threatened" in Ethnologue.
+Phonology
+Hadza syllable structure is limited to CV, or CVN if nasal vowels are analyzed as a coda nasal. Vowel-initial syllables do not occur initially, and medially they may be equivalent to /hV/ – at least, no minimal pairs of /h/ vs zero are known.
+Hadza is noted for having medial clicks (clicks within morphemes). This distribution is also found in Sandawe and the Nguni Bantu languages, but not in the Khoisan languages of southern Africa. Some of these words are historically derivable from clicks in initial positions (many appear to reflect lexicalized reduplication, for example, and some are due to prefixes), but others are opaque. As in Sandawe, most medial clicks are glottalized, but not all: puche 'a spleen', tanche 'to aim', tacce 'a belt', minca 'to lick one's lips', laqo 'to trip someone', keqhe-na 'slow', penqhenqhe ~ peqeqhe 'to hurry', haqqa-ko 'a stone', shenqe 'to peer over', exekeke 'to listen', naxhi 'to be crowded', khaxxe 'to jump', binxo 'to carry kills under one's belt'.
+Tone
+Neither lexical tone nor pitch accent has been demonstrated for Hadza. There are no known lexical minimal pairs or grammatical use of stress/tone.
+Vowels
+Hadza has five vowels, [i e a o u]. Long vowels may occur when intervocalic [ɦ] is elided. For example, [kʰaɦa] or [kʰaː] 'to climb', but some words are not attested with [ɦ], as [boːko] 'she' vs [boko] 'to be ill'. All vowels are nasalized before glottalized nasal and voiced nasal clicks, and speakers vary on whether they hear them as nasal vowels or as VN sequences. Invariable nasal vowels, although uncommon, do occur, though not before consonants that have a place of articulation to assimilate to. In such positions, [CṼCV] and [CVNCV] are allophones, but since VN cannot occur at the end of a word or before a glottal consonant, where only nasal vowels are found, it may be that nasal vowels are allophonic with VN in all positions.
+Consonants
+Orthography
+A practical orthography has been devised by Miller and Anyawire (Miller et al. 2013). As of 2015, this orthography is not being used by any Hadza speakers and is therefore of limited value for communication in Hadza. It is broadly similar to the orthographies of neighboring languages such as Swahili, Isanzu, Iraqw, and Sandawe. The apostrophe, which is ubiquitous in transcription in the anthropological literature but causes problems with literacy, is not used: Glottal stop is indicated by vowel sequences (that is, /beʔe/ is written ⟨bee⟩, as in ⟨Hazabee⟩ /ɦadzabeʔe/ 'the Hadza'), which true vowel sequences are separated by y or w (that is, /pie/ 'two' is written ⟨piye⟩), though in some cases an h may be justified, and ejectives and glottalized clicks by gemination (apart from reduced ⟨dl⟩ instead of *ddl for /c𝼆ʼ/). The ejectives are based on the voiced consonants, ⟨bb zz jj dl gg ggw⟩, because these are otherwise found mostly in borrowings and thus not common. Tc /tʃ/ and tch /tʃʰ/ are as in Sandawe, sl /ɬ/ as in Iraqw. (This is ultimately a French convention.) Nasalized vowels / VN rimes are ⟨an en in un⟩. Long vowels are ⟨â⟩, or ⟨aha⟩ where they are due to an elided /ɦ/. A tonic syllable may be written with an acute accent, ⟨á⟩, but is generally not marked.
+Grammar
+Source: Miller (2008).
+Hadza is a head-marking language in both clauses and noun phrases. Word order is flexible; the default constituent order is VSO, though VOS and fronting to SVO are both very common. The order of determiner, noun, and attributive also varies, though with morphological consequences. There is number and gender agreement on both attributives (for head nouns) and verbs (for subjects).
+Reduplication of the initial syllable of a word, usually with tonic accent and a long vowel, is used to indicate 'just' (meaning either 'merely' or 'solely') and is quite common. It occurs on both nouns and verbs, and reduplication can be used to emphasize other things, such as the habitual suffix -he- or the pluractional infix ⟨kV⟩.
+Nouns and pronouns
+Nouns have grammatical gender (masculine and feminine) and number (singular and plural). They are marked by suffixes as follows:
+The feminine plural is used for mixed natural gender, as in Hazabee 'the Hadza'. For many animals, the grammatical singular is transnumeric, as in English: dongoko 'zebra' (either one or a group). The masculine plural may trigger vowel harmony: dongobee 'zebras' (an individuated number), dungubii 'zebra bucks'. A couple of kin terms and the diminutive suffix -nakwe take -te in the m.sg., which is otherwise unmarked.
+Gender is used metaphorically, with ordinarily feminine words made masculine if they are notably thin, and ordinarily masculine words made feminine if they are notably round. Gender also distinguishes such things as vines (m) and their tubers (f), or berry trees (f) and their berries (m). Mass nouns tend to be grammatically plural, such as atibii 'water' (cf. ati 'rain', atiko 'a spring').
+The names reported for dead animals do not follow this pattern. Calling attention to a dead zebra, for example, uses the form hantayii (masculine hantayee, plural (rare) hantayetee and hantayitchii). This is because these forms are not nouns, but imperative verbs; the morphology is clearer in the imperative plural, when addressing more than one person: hantatate, hantâte, hantayetate, hantayitchate (substitute -si for final -te when addressing only men; see below for the verbal object suffixes -ta-, -a-, -eta-, -itcha-).
+The copula
+The -pe and -pi forms of nouns often seen in the anthropological literature (actually -phee and -phii) are copular: dongophee 'they are zebras'. The copular suffixes distinguish gender in all persons as well as clusivity in the 1st person. They are:
+Forms with high vowels (i, u) tend to raise preceding mid vowels to high, just as -bii does. The 3.sg copula tends to sound like a -ya(ko) or -wa(ko) after high and often mid vowels: /oa, ea/ ≈ [owa, eja], and transcriptions with w and y are common in the literature. 
+Pronouns
+Personal and demonstrative pronouns are:
+There are some additional 3rd-person pronouns, including some compound forms. Adverbs are formed from the 3rd-person forms by adding locative -na: hamana 'here', beena 'there', naná 'over there', himiggêna 'in/behind there'.
+Verbs and adjectives
+An infix ⟨kV⟩, where V is an echo vowel, occurs after the first syllable of verbs to indicate pluractionality.
+The copula was covered above. Hadza has several auxiliary verbs: sequential ka- and iya- ~ ya- 'and then', negative akhwa- 'not', and subjunctive i-. Their inflections may be irregular or have different inflectional endings from those of lexical verbs, which are as follows:
+The functions of the anterior and posterior differ between auxiliaries; with lexical verbs, they are non-past and past. The potential and veridical conditionals reflect the degree of certainty that something would have occurred. 1sg.npst -ˆta and a couple other forms lengthen the preceding vowel. The 1.ex forms apart from -ya begin with a glottal stop. The imp.sg is a glottal stop followed by an echo vowel.
+Habitual forms take -he, which tends to reduce to a long vowel, before these endings. In some verbs, the habitual has become lexicalized (marking the 3.POST forms with glottal stop), and so an actual habitual takes a second -he. Various compound tense-aspect-moods occur by doubling up the inflectional endings. There are several additional inflections which have not been worked out.
+The inflectional endings are clitics and may occur on an adverb before the verb, leaving a bare verb stem (verb root plus object suffixes).
+Attributives
+As is common in the area, there are only a few bare-root adjectives in Hadza, such as pakapaa 'big'. Most attributive forms take a suffix with cross-gender number marking: -e (m.sg. and f.pl.) or -i (f.sg. and m.pl.). These agree with the noun they modify. The -i form tends to trigger vowel harmony, so that, for example, the adjective one- 'sweet' has the following forms:
+The -ko/-bee/-bii ending may be replaced by the copula, but the e/i cross-number gender marking remains.
+Demonstratives, adjectives, and other attributives may occur before or after a noun, but nouns only take their gender number endings when they occur first in the noun phrase: Ondoshibii unîbii 'sweet cordia berries', manako unîko 'tasty meat', but unîbii ondoshi and unîko mana. Similarly, dongoko bôko but bôko dongo 'those zebra'.
+Verbs may also be made attributive: dluzîko akwiti 'the woman (akwitiko) who is speaking', from dlozo 'to say'. This attributive form is used with the copula to form the progressive aspect: dlozênee 'I am speaking' (male speaker), dluzîneko 'I am speaking' (female speaker).
+Object marking
+Verbs may take up to two object suffixes, for a direct object (DO) and indirect object (IO). These only differ in the 1ex and 3sg. The IO suffixes are also used on nouns to indicate possession (mako-kwa 'my pot', mako-a-kwa 'it is my pot').
+Two object suffixes are only allowed if the first (the DO) is 3rd person. In such cases the DO reduces to the form of the attributive suffix: -e (m.sg. / f.pl.) or -i (f.sg. / m.pl.); only context tells which combination of number and gender is intended. 3rd-singular direct objects also reduce to this form in the imperative singular; 3rd-plural change their vowels but do not conflate with the singular: see 'dead zebra' under nouns above for an example of the forms.
+Word order
+The factors governing the word order within noun phrases are not known. Constituent order tends to be SXVO (where X is an auxiliary) for a new or emphasized subject, with the subject moving further back (XSVO, XVSO, and XVOS), or simply not mentioned (XVO) the better it is established. Where context, semantics, and the verbal suffixes fail to disambiguate, verb–noun–noun is understood to be VSO.
+Numerals
+The Hadza did not count before the introduction of the Swahili language. Native numerals are itchâme 'one' and piye 'two'. Sámaka 'three' is a Datooga loan, and bone 'four', bothano 'five', and ikhumi 'ten' are Sukuma. Aso 'many' is commonly used instead of bothano for 'five'. There is no systematic way to express other numbers without using Swahili.
+Dorothea Bleek suggested piye 'two' might have a Bantu source; the closest locally in Nyaturu -βĩĩ. (Other local Bantu languages have an l/r between the vowels.) Sands first recognized the similarity of 'one' and 'two' to Kwʼadza noted above.
+Dead animal names
+Hadza has received some attention for a dozen 'celebratory' (Woodburn) or 'triumphal' (Blench) names for dead animals. These are used to announce a kill. They are (in the imperative singular):
+The words are somewhat generic: henqêe may be used for any spotted cat, hushuwee for any running ground bird. 'Lion' and 'eland' use the same root. Blench (2008) thinks this may have something to do with the eland being considered magical in the region.
+An IO suffix may be used to reference the person who made the kill. Compare hanta- 'zebra' with the more mundane verbs, qhasha 'to carry' and kw- 'to give', in the imperative singular and plural (Miller 2009):
+hanta-i-i
+hanta-ta-te
+zebra-DO.3fs-IMP
+"A zebra!"
+hanta-i-ko-o
+hanta-i-kwa-te
+zebra-DO.3fs-IO.3fs-IMP
+"I got a zebra!"
+hanta-i-i hanta-i-ko-o
+hanta-ta-te hanta-i-kwa-te
+zebra-DO.3fs-IMP zebra-DO.3fs-IO.3fs-IMP
+{"A zebra!"} {"I got a zebra!"}
+qhasha-i-i
+qhasha-ta-te
+carry-DO.3fs-IMP
+"Carry it!
+kw-i-ko-o
+kw-i-kwa-te
+give-DO.3fs-IO.3fs-IMP
+"Give it to me!"
+qhasha-i-i kw-i-ko-o
+qhasha-ta-te kw-i-kwa-te
+carry-DO.3fs-IMP give-DO.3fs-IO.3fs-IMP
+{"Carry it!} {"Give it to me!"}
+Speculations about early human language
+In 2003 the press widely reported suggestions by Alec Knight and Joanna Mountain of Stanford University that the original human language may have had clicks. The purported evidence for this is genetic: speakers of Juǀ'hoan and Hadza have the most divergent known mitochondrial DNA of any human populations, suggesting that they were the first, or at least among the first, surviving peoples to have split off the family tree. In other words, the three primary genetic divisions of humanity are the Hadza, the Juǀʼhoan and relatives, and everyone else. Because two of the three groups speak languages with clicks, perhaps their common ancestral language, which by implication is the ancestral language for all humankind, had clicks as well.
+However, besides the genetic interpretation, this conclusion rests on several unsupported assumptions: 
+There is no evidence that any of these assumptions are correct, or even likely. Linguistic opinion is that click consonants may well be a relatively late development in human language, that they are no more resistant to change or any more likely to be linguistic relics than other speech sounds, and that they are easily borrowed: at least one Khoisan language, ǁXegwi, is believed to have reborrowed clicks from Bantu languages, which had earlier borrowed them from Khoisan languages, for example. The Knight and Mountain article is the latest in a long line of speculations about the primitive origin of click consonants, which have been largely motivated by the outdated idea that primitive people speak primitive languages, which has no empirical support.
+In popular culture

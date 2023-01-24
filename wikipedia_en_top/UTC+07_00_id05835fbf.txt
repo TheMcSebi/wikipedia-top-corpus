@@ -1,0 +1,30 @@
+UTC+07:00
+UTC+07:00 is an identifier for a time offset from UTC of +07:00. In ISO 8601 the associated time would be written as 2023-01-07T01:48:09+07:00. It is 7 hours ahead of UTC, meaning that when the time in UTC areas is midnight (00:00), the time in UTC+07:00 areas would be 7:00 in the morning.
+Also known as Indochina Time (ICT) and Western Indonesian Time (Indonesian: Waktu Indonesia Barat, WIB) (in Indonesia), it is used in:
+As standard time (year-round)
+Principal cities: Medan, Lhokseumawe, Langsa, Garut, Gunungsitoli, Karawang, Jepara, Lubuklinggau, Batam, Pangkal Pinang, Palangkaraya, Pagar Alam, Probolinggo, Pasuruan, Purwakarta, Purwokerto, Pekalongan, Prabumulih, Palembang, Pematangsiantar, Padangsidempuan, Pekanbaru, Padang, Padang Panjang, Pontianak, Pariaman, Payakumbuh, Dumai, Binjai, Bogor, Cimahi, Cirebon, Bukittinggi, Bandar Lampung, Palembang, Jakarta, Bandung, Semarang, Surakarta, Surat Thani, Solok, Sawahlunto, Tanjungpinang, Singkawang, Tebing Tinggi, Sibolga, Sungai Penuh, Sukabumi, Sumedang, Salatiga, Tasikmalaya, Tegal, Udon Thani, Yogyakarta, Surabaya, Ho Chi Minh City, Hanoi, Phnom Penh, Vientiane, Bangkok, Krasnoyarsk, Novosibirsk
+North Asia
+East Asia
+It is considered the westernmost time zone in East Asia.
+Southeast Asia
+Indian Ocean
+Southern Ocean
+Discrepancies between official UTC+07:00 and geographical UTC+07:00
+Since legal, political, and economic in addition to physical or geographical criteria are used in the drawing of time zones, it follows that official time zones do not precisely adhere to meridian lines. The UTC+07:00 time zone, were it drawn by purely geographical terms, would consist of exactly the area between meridians 97°30′ E and 112°30′ E. As a result, there are places which, despite lying in an area with a "physical" UTC+07:00 time, actually use another time zone. Conversely, there are areas that have adopted UTC+07:00, even though their "physical" time zone is UTC+08:00, UTC+06:00, or even UTC+05:00.
+Areas within UTC+07:00 longitudes using other time zones
+This concerns areas within 97°30′ E to 112°30′ E longitude.
+Using UTC+06:30
+Eastern part of Myanmar
+Using UTC+08:00
+In China, many parts of central China including these divisions:
+In Russia:
+Outside China & Russia:
+Using UTC+09:00
+A (western) part Sakha Republic in Russia, including the urban localities Aykhal and Udachny.
+Areas between 67°30′ E and 97°30′ E ("physical" UTC+05:00 and UTC+06:00)
+Areas between 112°30′ E and 127°30′ E ("physical" UTC+08:00)
+In Indonesia:
+In Russia:
+Historical time offsets
+The Republic of China's offset for this time zone was Kansu-Szechwan, and was used until 1949, when the Chinese Communist Party took control of Mainland China following the Chinese Civil War and made UTC+08:00 the standard time for all areas under its control. Formerly, from 1918 to 1949, this time offset was used in eastern Sikang and Tsinghai, central Outer Mongolia (1921–1924), and all of Yunnan, Kwangsi, Kweichow, Ningsia, Suiyuan, Kansu, and Shensi.
+This time zone was also the standard used in Malaysia and Singapore from 1 June 1905 to 31 December 1932.

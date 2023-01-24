@@ -1,0 +1,137 @@
+Chern class
+
+In mathematics, in particular in algebraic topology, differential geometry and algebraic geometry, the Chern classes are characteristic classes associated with complex vector bundles. They have since found applications in physics, Calabi–Yau manifolds, string theory, Chern–Simons theory, knot theory, Gromov–Witten invariants, topological quantum field theory, the Chern theorem etc.
+Chern classes were introduced by Shiing-Shen Chern (1946).
+Geometric approach
+Basic idea and motivation
+Chern classes are characteristic classes. They are topological invariants associated with vector bundles on a smooth manifold. The question of whether two ostensibly different vector bundles are the same can be quite hard to answer. The Chern classes provide a simple test: if the Chern classes of a pair of vector bundles do not agree, then the vector bundles are different. The converse, however, is not true.
+In topology, differential geometry, and algebraic geometry, it is often important to count how many linearly independent sections a vector bundle has. The Chern classes offer some information about this through, for instance, the Riemann–Roch theorem and the Atiyah–Singer index theorem.
+Chern classes are also feasible to calculate in practice. In differential geometry (and some types of algebraic geometry), the Chern classes can be expressed as polynomials in the coefficients of the curvature form.
+Construction
+There are various ways of approaching the subject, each of which focuses on a slightly different flavor of Chern class.
+The original approach to Chern classes was via algebraic topology: the Chern classes arise via homotopy theory which provides a mapping associated with a vector bundle to a classifying space (an infinite Grassmannian in this case). For any complex vector bundle V over a manifold M, there exists a map f from M to the classifying space such that the bundle V is equal to the pullback, by f, of a universal bundle over the classifying space, and the Chern classes of V can therefore be defined as the pullback of the Chern classes of the universal bundle. In turn, these universal Chern classes can be explicitly written down in terms of Schubert cycles.
+It can be shown that for any two maps f, g from M to the classifying space whose pullbacks are the same bundle V, the maps must be homotopic. Therefore, the pullback by either f or g of any universal Chern class to a cohomology class of M must be the same class.  This shows that the Chern classes of V are well-defined.
+Chern's approach used differential geometry, via the curvature approach described predominantly in this article. He showed that the earlier definition was in fact equivalent to his. The resulting theory is known as the Chern–Weil theory.
+There is also an approach of Alexander Grothendieck showing that axiomatically one need only define the line bundle case.
+Chern classes arise naturally in algebraic geometry.  The generalized Chern classes in algebraic geometry can be defined for vector bundles (or more precisely, locally free sheaves) over any nonsingular variety.  Algebro-geometric Chern classes do not require the underlying field to have any special properties.  In particular, the vector bundles need not necessarily be complex.
+Regardless of the particular paradigm, the intuitive meaning of the Chern class concerns 'required zeroes' of a section of a vector bundle: for example the theorem saying one can't comb a hairy ball flat (hairy ball theorem).  Although that is strictly speaking a question about a real vector bundle (the "hairs" on a ball are actually copies of the real line), there are generalizations in which the hairs are complex (see the example of the complex hairy ball theorem below), or for 1-dimensional projective spaces over many other fields.
+See Chern–Simons theory for more discussion.
+The Chern class of line bundles
+(Let X be a topological space having the homotopy type of a CW complex.)
+An important special case occurs when V is a line bundle. Then the only nontrivial Chern class is the first Chern class, which is an element of the second cohomology group of X. As it is the top Chern class, it equals the Euler class of the bundle.
+The first Chern class turns out to be a complete invariant with which to classify complex line bundles, topologically speaking. That is, there is a bijection between the isomorphism classes of line bundles over X and the elements of $MATH$, which associates to a line bundle its first Chern class. Moreover, this bijection is a group homomorphism (thus an isomorphism):
+the tensor product of complex line bundles corresponds to the addition in the second cohomology group.
+In algebraic geometry, this classification of (isomorphism classes of) complex line bundles by the first Chern class is a crude approximation to the classification of (isomorphism classes of) holomorphic line bundles by linear equivalence classes of divisors.
+For complex vector bundles of dimension greater than one, the Chern classes are not a complete invariant.
+Constructions
+Via the Chern–Weil theory
+Given a complex hermitian vector bundle V of complex rank n over a smooth manifold M, representatives of each Chern class (also called a Chern form) $MATH$ of V are given as the coefficients of the characteristic polynomial of the curvature form $MATH$ of V.
+The determinant is over the ring of $MATH$ matrices whose entries are polynomials in t with coefficients in the commutative algebra of even complex differential forms on M.  The curvature form $MATH$ of V is defined as
+with ω the connection form  and d the exterior derivative, or via the same expression in which ω is a gauge form for the gauge group of V.  The scalar t is used here only as an indeterminate to generate the sum from the determinant, and I denotes the n × n identity matrix.
+To say that the expression given is a representative of the Chern class indicates that 'class' here means up to addition of an exact differential form. That is, Chern classes are cohomology classes in the sense of de Rham cohomology.  It can be shown that the cohomology classes of the Chern forms do not depend on the choice of connection in V.
+If follows from the  matrix identity $MATH$ that $MATH$. Now applying the  Maclaurin series for $MATH$, we get the following expression for the Chern forms:
+Via an Euler class
+One can define a Chern class in terms of an Euler class. This is the approach in the book by Milnor and Stasheff, and emphasizes the role of an orientation of a vector bundle.
+The basic observation is that a complex vector bundle comes with a canonical orientation, ultimately because $MATH$ is connected. Hence, one simply defines the top Chern class of the bundle to be its Euler class (the Euler class of the underlying real vector bundle) and handles lower Chern classes in an inductive fashion.
+The precise construction is as follows. The idea is to do base change to get a bundle of one-less rank. Let $MATH$ be a complex vector bundle over a paracompact space B. Thinking of B as being embedded in E as the zero section, let $MATH$ and define the new vector bundle:
+such that each fiber is the quotient of a fiber F of E by the line spanned by a nonzero vector v in F (a point of B′ is specified by a fiber F of E and a nonzero vector on F.) Then $MATH$ has rank one less than that of E. From the Gysin sequence for the fiber bundle $MATH$:
+we see that $MATH$ is an isomorphism for $MATH$. Let
+It then takes some work to check the axioms of Chern classes are satisfied for this definition.
+See also: The Thom isomorphism.
+Examples
+The complex tangent bundle of the Riemann sphere
+Let $MATH$ be the Riemann sphere: 1-dimensional complex projective space. Suppose that z is a holomorphic local coordinate for the Riemann sphere. Let $MATH$ be the bundle of complex tangent vectors having the form $MATH$ at each point, where a is a complex number.  We prove the complex version of the hairy ball theorem:  V has no section which is everywhere nonzero.
+For this, we need the following fact: the first Chern class of a trivial bundle is zero, i.e.,
+This is evinced by the fact that a trivial bundle always admits a flat connection. So, we shall show that
+Consider the Kähler metric
+One readily shows that the curvature 2-form is given by
+Furthermore, by the definition of the first Chern class
+We must show that this cohomology class is non-zero.  It suffices to compute its integral over the Riemann sphere:
+after switching to polar coordinates. By Stokes' theorem, an exact form would integrate to 0, so the cohomology class is nonzero.
+This proves that $MATH$ is not a trivial vector bundle.
+Complex projective space
+There is an exact sequence of sheaves/bundles:
+where $MATH$ is the structure sheaf (i.e., the trivial line bundle), $MATH$ is Serre's twisting sheaf (i.e., the hyperplane bundle) and the last nonzero term is the tangent sheaf/bundle.
+There are two ways to get the above sequence:
+By the additivity of total Chern class $MATH$ (i.e., the Whitney sum formula),
+where a is the canonical generator of the cohomology group $MATH$; i.e., the negative of the first Chern class of the tautological line bundle $MATH$ (note: $MATH$ when $MATH$ is the dual of E.)
+In particular, for any $MATH$,
+Chern polynomial
+A Chern polynomial is a convenient way to handle Chern classes and related notions systematically. By definition, for a complex vector bundle E, the Chern polynomial ct of E is given by:
+This is not a new invariant: the formal variable t simply keeps track of the degree of ck(E). In particular, $MATH$ is completely determined by the total Chern class of E: $MATH$ and conversely.
+The Whitney sum formula, one of the axioms of Chern classes (see below), says that ct is additive in the sense:
+Now, if $MATH$ is a direct sum of (complex) line bundles, then it follows from the sum formula that:
+where $MATH$ are the first Chern classes. The roots $MATH$, called the Chern roots of E, determine the coefficients of the polynomial: i.e.,
+where σk are elementary symmetric polynomials. In other words, thinking of ai as formal variables, ck "are" σk. A basic fact on symmetric polynomials is that any symmetric polynomial in, say, ti's is a polynomial in elementary symmetric polynomials in ti's. Either by splitting principle or by ring theory, any Chern polynomial $MATH$ factorizes into linear factors after enlarging the cohomology ring; E need not be a direct sum of line bundles in the preceding discussion. The conclusion is
+Example: We have polynomials sk
+with $MATH$ and so on (cf. Newton's identities). The sum
+is called the Chern character of E, whose first few terms are: (we drop E from writing.)
+Example: The Todd class of E is given by:
+Remark: The observation that a Chern class is essentially an elementary symmetric polynomial can be used to "define" Chern classes. Let Gn be the infinite Grassmannian of n-dimensional complex vector spaces. It is a classifying space in the sense that, given a complex vector bundle E of rank n over X, there is a continuous map 
+unique up to homotopy. Borel's theorem says the cohomology ring of Gn is exactly the ring of symmetric polynomials, which are polynomials in elementary symmetric polynomials σk; so, the pullback of fE reads:
+One then puts:
+Remark: Any characteristic class is a polynomial in Chern classes, for the reason as follows. Let $MATH$ be the contravariant functor that, to a CW complex X, assigns the set of isomorphism classes of complex vector bundles of rank n over X and, to a map, its pullback. By definition, a characteristic class is a natural transformation from $MATH$ to the cohomology functor $MATH$ Characteristic classes form a ring because of the ring structure of cohomology ring. Yoneda's lemma says this ring of characteristic classes is exactly the cohomology ring of Gn:
+Computation formulae
+Let E be a vector bundle of rank r and $MATH$ the Chern polynomial of it.
+Applications of formulae
+We can use these abstract properties to compute the rest of the chern classes of line bundles on $MATH$. Recall that $MATH$ showing $MATH$. Then using tensor powers, we can relate them to the chern classes of $MATH$ for any integer.
+Properties
+Given a complex vector bundle E over a topological space X, the Chern classes of E are a sequence of elements of the cohomology of X. The k-th Chern class of E, which is usually denoted ck(E), is an element of
+the cohomology of X with integer coefficients.  One can also define the total Chern class
+Since the values are in integral cohomology groups, rather than cohomology with real coefficients, these Chern classes are slightly more refined than those in the Riemannian example.
+Classical axiomatic definition
+The Chern classes satisfy the following four axioms:
+Grothendieck axiomatic approach
+Alternatively, Alexander Grothendieck (1958) replaced these with a slightly smaller set of axioms:
+He shows using the Leray–Hirsch theorem that the total Chern class of an arbitrary finite rank complex vector bundle can be defined in terms of the first Chern class of a tautologically-defined line bundle.
+Namely, introducing the projectivization $MATH$ of the rank n complex vector bundle E → B as the fiber bundle on B whose fiber at any point $MATH$ is the projective space of the fiber Eb. The total space of this bundle $MATH$ is equipped with its tautological complex line bundle, that we denote $MATH$, and the first Chern class
+restricts on each fiber $MATH$ to minus the (Poincaré-dual) class of the hyperplane, that spans the cohomology of the fiber, in view of the cohomology of complex projective spaces.
+The classes
+therefore form a family of ambient cohomology classes restricting to a basis of the cohomology of the fiber. The Leray–Hirsch theorem then states that any class in $MATH$ can be written uniquely as a linear combination of the 1, a, a2, ..., an−1 with classes on the base as coefficients.
+In particular, one may define the Chern classes of E in the sense of Grothendieck, denoted $MATH$ by expanding this way the class $MATH$, with the relation:
+One then may check that this alternative definition coincides with whatever other definition one may favor, or use the previous axiomatic characterization.
+The top Chern class
+In fact, these properties uniquely characterize the Chern classes. They imply, among other things:
+In algebraic geometry
+Axiomatic description
+There is another construction of Chern classes which take values in the algebrogeometric analogue of the cohomology ring, the Chow ring. It can be shown that there is a unique theory of Chern classes such that if you are given an algebraic vector bundle $MATH$ over a quasi-projective variety there are a sequence of classes $MATH$ such that
+Normal sequence
+Computing the characteristic classes for projective space forms the basis for many characteristic class computations since for any smooth projective subvariety $MATH$ there is the short exact sequence
+Quintic threefold
+For example, consider the nonsingular quintic threefold in $MATH$. Then the normal bundle is given by $MATH$ and we have the short exact sequence
+Let $MATH$ denote the hyperplane class in $MATH$. Then the Whitney sum formula gives us that
+Since the Chow ring of a hypersurface is difficult to compute, we will consider this sequence as a sequence of coherent sheaves in $MATH$. This gives us that
+Using the Gauss-Bonnet theorem we can integrate the class $MATH$ to compute the Euler characteristic. Traditionally this is called the Euler class. This is
+since the class of $MATH$ can be represented by five points (by Bézout's theorem). The Euler characteristic can then be used to compute the Betti numbers for the cohomology of $MATH$ by using the definition of the Euler characteristic and using the Lefschetz hyperplane theorem.
+Degree d hypersurfaces
+
+If $MATH$ is a degree $MATH$ smooth hypersurface, we have the short exact sequence 
+ giving the relation 
+ we can then calculate this as
+Giving the total chern class. In particular, we can find $MATH$ is a spin 4-manifold if $MATH$ is even, so every smooth hypersurface of degree $MATH$ is a spin manifold.
+Proximate notions
+The Chern character
+Chern classes can be used to construct a homomorphism of rings from the topological K-theory of a space to (the completion of) its rational cohomology. For a line bundle L, the Chern character ch is defined by
+More generally, if $MATH$ is a direct sum of line bundles, with first Chern classes $MATH$ the Chern character is defined additively
+This can be rewritten as:
+This last expression, justified by invoking the splitting principle, is taken as the definition ch(V) for arbitrary vector bundles V.
+If a connection is used to define the Chern classes when the base is a manifold (i.e., the Chern–Weil theory), then the explicit form of the Chern character is
+where Ω is the curvature of the connection.
+The Chern character is useful in part because it facilitates the computation of the Chern class of a tensor product.  Specifically, it obeys the following identities:
+As stated above, using the Grothendieck additivity axiom for Chern classes, the first of these identities can be generalized to state that ch is a homomorphism of abelian groups from the K-theory K(X) into the rational cohomology of X.  The second identity establishes the fact that this homomorphism also respects products in K(X), and so ch is a homomorphism of rings.
+The Chern character is used in the Hirzebruch–Riemann–Roch theorem.
+Chern numbers
+If we work on an oriented manifold of dimension $MATH$, then any product of Chern classes of total degree $MATH$ (i.e., the sum of indices of the Chern classes in the product should be $MATH$) can be paired with the orientation homology class (or "integrated over the manifold") to give an integer, a Chern number of the vector bundle. For example, if the manifold has dimension 6, there are three linearly independent Chern numbers, given by $MATH$, $MATH$, and $MATH$.  In general, if the manifold has dimension $MATH$, the number of possible independent Chern numbers is the number of partitions of $MATH$.
+The Chern numbers of the tangent bundle of a complex (or almost complex) manifold are called the Chern numbers of the manifold, and are important invariants.
+Generalized cohomology theories
+There is a generalization of the theory of Chern classes, where ordinary cohomology is replaced with a generalized cohomology theory.  The theories for which such generalization is possible are called complex orientable. The formal properties of the Chern classes remain the same, with one crucial difference: the rule which computes the first Chern class of a tensor product of line bundles in terms of first Chern classes of the factors is not (ordinary) addition, but rather a formal group law.
+Algebraic geometry
+In algebraic geometry there is a similar theory of Chern classes of vector bundles. There are several variations depending on what groups the Chern classes lie in:
+Manifolds with structure
+The theory of Chern classes gives rise to cobordism invariants for almost complex manifolds.
+If M is an almost complex manifold, then its tangent bundle is a complex vector bundle.  The Chern classes of M are thus defined to be the Chern classes of its tangent bundle.  If M is also compact and of dimension 2d, then each monomial of total degree 2d in the Chern classes can be paired with the fundamental class of M, giving an integer, a Chern number of M. If M′ is another almost complex manifold of the same dimension, then it is cobordant to M if and only if the Chern numbers of M′ coincide with those of M.
+The theory also extends to real symplectic vector bundles, by the intermediation of compatible almost complex structures. In particular, symplectic manifolds have a well-defined Chern class.
+Arithmetic schemes and Diophantine equations
+(See Arakelov geometry)
+See also
+Notes

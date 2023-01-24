@@ -1,0 +1,49 @@
+Apophenia
+Apophenia (/æpoʊˈfiːniə/) is the tendency to perceive meaningful connections between unrelated things. The term (German: Apophänie from  the Greek verb ἀποφαίνειν (apophaínein)) was coined by psychiatrist Klaus Conrad in his 1958 publication on the beginning stages of schizophrenia. He defined it as "unmotivated seeing of connections [accompanied by] a specific feeling of abnormal meaningfulness". He described the early stages of delusional thought as self-referential over-interpretations of actual sensory perceptions, as opposed to hallucinations.
+Apophenia has also come to describe a human propensity to unreasonably seek patterns in random information, such as can occur while gambling.
+Introduction
+Apophenia can be considered a commonplace effect of brain function. Taken to an extreme, however, it can be a symptom of psychiatric dysfunction, for example, as a symptom in paranoid schizophrenia, where a patient sees hostile patterns (for example, a conspiracy to persecute them) in ordinary actions.
+Apophenia is also typical of conspiracy theories, where coincidences may be woven together into an apparent plot.
+Examples
+Pareidolia
+Pareidolia is a type of apophenia involving the perception of images or sounds in random stimuli.
+A common example is the perception of a face within an inanimate object—the headlights and grill of an automobile may appear to be "grinning". People around the world see the "Man in the Moon". People sometimes see the face of a religious figure in a piece of toast or in the grain of a piece of wood. There is strong evidence that the use of psychedelic drugs tends to induce or enhance pareidolia.
+Pareidolia usually occurs as a result of the fusiform face area—which is the part of the human brain responsible for seeing faces—mistakenly interpreting an object, shape or configuration with some kind of perceived "face-like" features as being a face.
+Gambling
+Gamblers may imagine that they see patterns in the numbers that appear in lotteries, card games, or roulette wheels, where no such patterns exist. A common example of this is the gambler's fallacy.
+Statistics
+In statistics, apophenia is an example of a type I error – the false identification of patterns in data. It may be compared to a so-called false positive in other test situations.
+Finance
+The problem of apophenia in finance has been addressed in academic articles. More specifically, within the world of finance itself, the examples most prone to apophenia are trading, structuring, sales and compensation.
+Related terms
+In contrast to an epiphany, an apophany (i.e., an instance of apophenia) does not provide insight into the nature of reality nor its interconnectedness, but is a "process of repetitively and monotonously experiencing abnormal meanings in the entire surrounding experiential field". Such meanings are entirely self-referential, solipsistic, and paranoid—"being observed, spoken about, the object of eavesdropping, followed by strangers". Thus the English term "apophenia" has a somewhat different meaning than that which Conrad defined when he coined the term "Apophänie".
+"Patternicity"
+In 2008, Michael Shermer coined the word "patternicity", defining it as "the tendency to find meaningful patterns in meaningless noise".
+"Agenticity"
+In The Believing Brain (2011), Shermer wrote that humans have "the tendency to infuse patterns with meaning, intention, and agency", which he called "agenticity".
+Clustering illusion
+A clustering illusion is a type of cognitive bias in which a person sees a pattern in a random sequence of numbers or events. Many theories have been disproved as a result of this bias being highlighted.
+Another case, during the early 2000s, involved the occurrence of breast cancer among employees of ABC Studios in Queensland. A study found that the incidence of breast cancer at the studios was six times higher than the rate in the rest of Queensland. However, an examination found no correlation between the heightened incidence and any factors related to the site, or any genetic or lifestyle factors of the employees.
+Causes
+Although there is no confirmed reason as to why it occurs, there are some respected theories.
+Models of pattern recognition
+Pattern recognition is a cognitive process that involves retrieving information either from long-term, short-term or working memory and matching it with information from stimuli. There are three different ways in which this may happen and go wrong, resulting in apophenia.
+Template matching
+The stimulus is compared to templates, which are abstracted or partial representations of previously seen stimuli. These templates are stored in long-term memory as a result of past learning or educational experiences. For example, D, d, D and d are all recognized as the same letter.
+Template-matching detection processes, when applied to more complex data sets (such as, for example, a painting or clusters of data) can result in the wrong template being matched. A false positive detection will result in apophenia.
+Prototype matching
+This is similar to template matching, except for the fact that prototypes are complete representations of a stimulus. The prototype need not be something that has been previously seen -- for example it might be an average or amalgam of previous stimuli. Crucially, an exact match is not needed.
+An example of prototype matching would be to look at an animal such as a tiger and instead of recognizing that it has features that match the definition of a tiger (template matching), recognizing that it's similar to a particular mental image one has of a tiger (prototype matching).
+This type of pattern recognition can result in apophenia based on the fact that since the brain is not looking for exact matches, it can pick up some characteristics of a match and assume it fits. This is more common with pareidolia than data collection.
+Feature analysis
+The stimulus is first broken down into its features and then processed. This model of pattern recognition says that the processing goes through four stages: detection, pattern dissection, feature comparison in memory, and recognition.
+Evolution
+One of the explanations put forth by evolutionary psychologists for apophenia is that it is not a flaw in the cognition of human brains but rather something that has come about through years of need. The study of this topic is referred to as error management theory.
+One of the most accredited studies in this field is Skinner's box. This experiment involved taking a hungry pigeon, placing it in a box and releasing food pellets at random times. The pigeon received a food pellet while performing some action; and so, rather than attributing the arrival of the pellet to randomness, the pigeon repeats that action, and continues to do so until another pellet falls. As the pigeon increases the number of times it performs the action, it gains the impression that it also increased the times it was "rewarded" with a pellet, although the release in fact remained entirely random.
+In art
+Literature
+Films
+Music
+See also
+References
+Further reading

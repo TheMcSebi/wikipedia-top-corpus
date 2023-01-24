@@ -1,0 +1,30 @@
+Enol
+In organic chemistry, alkenols (shortened to enols) are a type of reactive structure or intermediate in organic chemistry that is represented as an alkene (olefin) with a hydroxyl group attached to one end of the alkene double bond (C=C−OH). The terms enol and alkenol are portmanteaus deriving from "-ene"/"alkene" and the "-ol" suffix indicating the hydroxyl group of alcohols, dropping the terminal "-e" of the first term. Generation of enols often involves removal of a hydrogen adjacent (α-) to the carbonyl group—i.e., deprotonation, its removal as a proton, H+. When this proton is not returned at the end of the stepwise process, the result is an anion termed an enolate (see images at right). The enolate structures shown are schematic; a more modern representation considers the molecular orbitals that are formed and occupied by electrons in the enolate. Similarly, generation of the enol often is accompanied by "trapping" or masking of the hydroxy group as an ether, such as a silyl enol ether.
+In organic chemistry, keto–enol tautomerism refers to a chemical equilibrium between a "keto" form (a carbonyl, named for the common ketone case) and an enol. The interconversion of the two forms involves the transfer of an alpha hydrogen atom and the reorganisation of bonding electrons. The keto and enol forms are tautomers of each other.
+Enolization
+Organic esters, ketones, and aldehydes with an α-hydrogen (C−H bond adjacent to the carbonyl group) often form enols. The reaction involves migration of a proton from carbon to oxygen:
+In the case of ketones, the conversion is called a keto-enol tautomerism, although this name is often more generally applied to all such tautomerizations.  Usually the equilibrium constant is so small that the enol is undetectable spectroscopically.
+In some compounds with two (or more) carbonyls, the enol form becomes dominant. The behavior of 2,4-pentanedione illustrates this effect:
+Enols are derivatives of vinyl alcohol, with a C=C−OH connectivity. Deprotonation of organic carbonyls gives the enolate anion, which are a strong nucleophile. A classic example for favoring the keto form can be seen in the equilibrium between vinyl alcohol and acetaldehyde (K = [enol]/[keto] ≈ 3×1010-7). In 1,3-diketones, such as acetylacetone (2,4-pentanedione), the enol form is favored.
+The acid-catalyzed conversion of an enol to the keto form proceeds by proton transfer from O to carbon.  The process does not occur intramolecularly, but requires participation of solvent or other mediators.
+Stereochemistry of ketonization
+If R1 and R2 (note equation at top of page) are different substituents, there is a new stereocenter formed at the alpha position when an enol converts to its keto form. Depending on the nature of the three R groups, the resulting products in this situation would be diastereomers or enantiomers.
+Enediols
+Enediols are alkenes with a hydroxyl group on each carbon of the C=C double bond. Normally such compounds are disfavored components in equilibria with acyloins.  One special case is catechol, where the C=C subunit is part of an aromatic ring.  In some other cases however, enediols are stabilized by flanking carbonyl groups. These stabilized enediols are called reductones.  Such species are important in glycochemistry, e.g., the Lobry de Bruyn-van Ekenstein transformation.
+Ribulose-1,5-bisphosphate is a key substrate in the Calvin cycle of photosynthesis.  In the Calvin cycle, the ribulose equilibrates with the enediol, which then binds carbon dioxide.  The same enediol is also susceptible to attack by oxygen (O2) in the (undesirable) process called photorespiration.
+Phenols
+Phenols represent a kind of enol.  For some phenols and related compounds, the keto tautomer plays an important role.  Many of the reactions of resorcinol involve the keto tautomer, for example. Naphthalene-1,4-diol exists in observable equilibrium with the diketone tetrahydronaphthalene-1,4-dione.
+Biochemistry
+Keto–enol tautomerism is important in several areas of biochemistry.
+The high phosphate-transfer potential of phosphoenolpyruvate results from the fact that the phosphorylated compound is "trapped" in the less thermodynamically favorable enol form, whereas after dephosphorylation it can assume the keto form.
+The enzyme enolase catalyzes the dehydration of 2-phosphoglyceric acid to the enol phosphate ester.  Metabolism of PEP to pyruvic acid by pyruvate kinase (PK) generates adenosine triphosphate (ATP) via substrate-level phosphorylation.
+Reactivity
+Addition of electrophiles
+The terminus of the double bond in enols is nucleophilic.  Its reactions with electrophilic organic compounds is important in biochemistry as well as synthetic organic chemistry.  In the former area, the fixation of carbon dioxide involves addition of CO2 to an enol.
+Deprotonation: enolates
+Deprotonation of enolizable ketones, aldehydes, and esters gives enolates.  Enolates can  be trapped by the addition of electrophiles at oxygen.  Silylation gives silyl enol ether. Acylation gives
+esters such as vinyl acetate.
+Stable enols
+In general, enols are less stable than their keto equivalents because of the favorability of the C=O double bond over C=C double bond. However, enols can be stabilized kinetically or thermodynamically.
+Some enols are sufficiently stabilized kinetically so that they can be characterized. 
+Delocalization can stabilize the enol tautomer. Thus, very stable enols are phenols. Another stabilizing factor in 1,3-dicarbonyls is intramolecular hydrogen bonding. Both of these factors influence the enol-dione equilibrium in acetylacetone.

@@ -1,0 +1,18 @@
+Spermatophyte
+A spermatophyte (lit. 'seed-bearing plants'; from Ancient Greek σπέρματος (spérmatos) 'seed', and  φυτόν (phytón) 'plant'), also known as phanerogam (taxon Phanerogamae) or phaenogam (taxon Phaenogamae), is any plant that produces seeds, hence the alternative name seed plant. Spermatophytes are a subset of the embryophytes or land plants. They include most familiar types of plants, including all flowers and most trees, but exclude some other types of plants such as ferns, mosses, algae.
+The term phanerogams or phanerogamae is derived from the Greek φανερός (phanerós), meaning "visible", in contrast to the cryptogamae (from Ancient Greek κρυπτός (kruptós) 'hidden'), together with the suffix γαμέω (gaméō), meaning "to marry". These terms distinguished those plants with hidden sexual organs (cryptogamae) from those with visible sexual organs (phanerogamae).
+Description
+The extant spermatophytes form five divisions, the first four of which are traditionally grouped as gymnosperms, plants that have unenclosed, "naked seeds":: 172 
+The fifth extant division is the flowering plants, also known as angiosperms or magnoliophytes, the largest and most diverse group of spermatophytes:
+In addition to the five living taxa listed above, the fossil record contains evidence of many extinct taxa of seed plants, among those:
+By the Triassic period, seed ferns had declined in ecological importance, and representatives of modern gymnosperm groups were abundant and dominant through the end of the Cretaceous, when the angiosperms radiated.
+Evolutionary history
+A whole genome duplication event in the ancestor of seed plants occurred about 319 million years ago. This gave rise to a series of evolutionary changes that resulted in the origin of seed plants.
+A middle Devonian (385-million-year-old) precursor to seed plants from Belgium has been identified predating the earliest seed plants by about 20 million years. Runcaria, small and radially symmetrical, is an integumented megasporangium surrounded by a cupule. The megasporangium bears an unopened distal extension protruding above the mutlilobed integument. It is suspected that the extension was involved in anemophilous (wind) pollination. Runcaria sheds new light on the sequence of character acquisition leading to the seed. Runcaria has all of the qualities of seed plants except for a solid seed coat and a system to guide the pollen to the seed.
+Relationships and nomenclature
+Seed-bearing plants are a subclade of the vascular plants (tracheophytes) and were traditionally divided into angiosperms, or flowering plants, and gymnosperms, which includes the gnetophytes, cycads, ginkgo, and conifers. Older morphological studies believed in a close relationship between the gnetophytes and the angiosperms, in particular based on vessel elements. However, molecular studies (and some more recent morphological and fossil papers) have generally shown a clade of gymnosperms, with the gnetophytes in or near the conifers. For example, one common proposed set of relationships is known as the gne-pine hypothesis and looks like:
+However, the relationships between these groups should not be considered settled.
+Other classifications group all the seed plants in a single division, with classes for the five groups:
+A more modern classification ranks these groups as separate divisions (sometimes under the Superdivision Spermatophyta):
+An alternative phylogeny of spermatophytes based on the work by Novíkov & Barabaš-Krasni 2015 with plant taxon authors from Anderson, Anderson & Cleal 2007 showing the relationship of extinct clades.
+Unassigned spermatophytes:

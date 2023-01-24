@@ -1,0 +1,121 @@
+p-adic number
+In mathematics, the p-adic number system for any prime number p extends the ordinary arithmetic of the rational numbers in a different way from the extension of the rational number system to the real and complex number systems. The extension is achieved by an alternative interpretation of the concept of "closeness" or absolute value. In particular, two p-adic numbers are considered to be close when their difference is divisible by a high power of p: the higher the power, the closer they are. This property enables p-adic numbers to encode congruence information in a way that turns out to have powerful applications in number theory – including, for example, in the famous proof of Fermat's Last Theorem by Andrew Wiles.
+These numbers were first described by Kurt Hensel in 1897, though, with hindsight, some of Ernst Kummer's earlier work can be interpreted as implicitly using p-adic numbers. The p-adic numbers were motivated primarily by an attempt to bring the ideas and techniques of power series methods into number theory. Their influence now extends far beyond this. For example, the field of p-adic analysis essentially provides an alternative form of calculus.
+More formally, for a given prime p, the field Qp of p-adic numbers is a completion of the rational numbers. The field Qp is also given a topology derived from a metric, which is itself derived from the p-adic order, an alternative valuation on the rational numbers. This metric space is complete in the sense that every Cauchy sequence converges to a point in Qp. This is what allows the development of calculus on Qp, and it is the interaction of this analytic and algebraic structure that gives the p-adic number systems their power and utility.
+The p in "p-adic" is a variable and may be replaced with a prime (yielding, for instance, "the 2-adic numbers") or another expression representing a prime number. The "adic" of "p-adic" comes from the ending found in words such as dyadic or triadic.
+p-adic expansion of rational numbers
+The decimal expansion of a positive rational number $MATH$ is its representation as a series
+where $MATH$ is an integer and each $MATH$ is also an integer such that $MATH$ This expansion can be computed by long division of the numerator by the denominator, which is itself based on the following theorem: If $MATH$ is a rational number such that $MATH$ there is an integer $MATH$ such that $MATH$ and $MATH$ with $MATH$ The decimal expansion is obtained by repeatedly applying this result to the remainder $MATH$ which in the iteration assumes the role of the original rational number $MATH$.
+The p-adic expansion of a rational number is defined similarly, but with a different division step. More precisely, given a fixed prime number $MATH$, every nonzero rational number $MATH$ can be uniquely written as $MATH$ where $MATH$ is a (possibly negative) integer, $MATH$ and $MATH$ are coprime integers both coprime with $MATH$, and $MATH$ is positive. The integer $MATH$ is the p-adic valuation of $MATH$, denoted $MATH$ and $MATH$ is its p-adic absolute value, denoted $MATH$ (the absolute value is small when the valuation is large). The division step consists of writing
+where $MATH$ is an integer such that $MATH$ and $MATH$ is either zero, or a rational number such that $MATH$ (that is, $MATH$). 
+The $MATH$-adic expansion of $MATH$ is the formal power series
+obtained by repeating indefinitely the above division step on successive remainders. In a p-adic expansion, all $MATH$ are integers such that $MATH$
+If $MATH$ with $MATH$, the process stops eventually with a zero remainder; in this case, the series is completed by trailing terms with a zero coefficient, and is the representation of $MATH$ in base-p.
+The existence and the computation of the p-adic expansion of a rational number results from Bézout's identity in the following way. If, as above, $MATH$ and $MATH$ and $MATH$ are coprime, there exist integers $MATH$ and $MATH$ such that $MATH$ So
+Then, the Euclidean division of $MATH$ by $MATH$ gives
+with $MATH$
+This gives the division step as 
+so that in the iteration
+is the new rational number.
+The uniqueness of the division step and of the whole p-adic expansion is easy: if $MATH$ one has $MATH$ This means $MATH$ divides $MATH$ Since $MATH$ and $MATH$ the following must be true: $MATH$ and $MATH$ Thus, one gets $MATH$ and since $MATH$ divides $MATH$ it must be that $MATH$
+The p-adic expansion of a rational number is a series that converges to the rational number, if one applies the definition of a convergent series with the p-adic absolute value.
+In the standard p-adic notation, the digits are written in the same order as in a standard base-p system, namely with the powers of the base increasing to the left. This means that the production of the digits is reversed and the limit happens on the left hand side.
+The p-adic expansion of a rational number is eventually periodic. Conversely, a series $MATH$ with $MATH$ converges (for the p-adic absolute value) to a rational number if and only if it is eventually periodic; in this case, the series is the p-adic expansion of that rational number. The proof is similar to that of the similar result for repeating decimals.
+Example
+Let us compute the 5-adic expansion of $MATH$ Bézout's identity for 5 and the denominator 3 is $MATH$ (for larger examples, this can be computed with the extended Euclidean algorithm). Thus
+For the next step, one has to "divide" $MATH$ (the factor 5 in the numerator of the fraction has to be viewed as a "shift" of the p-adic valuation, and thus it is not involved in the "division").  Multiplying Bézout's identity by $MATH$ gives
+The "integer part" $MATH$ is not in the right interval. So, one has to use Euclidean division by $MATH$ for getting $MATH$ giving
+and
+Similarly, one has 
+and
+As the "remainder" $MATH$ has already been found, the process can be continued easily, giving coefficients $MATH$ for odd powers of five, and $MATH$ for even powers.
+Or in the standard 5-adic notation
+with the ellipsis $MATH$ on the left hand side.
+p-adic series
+In this article, given a prime number p, a p-adic series is a formal series of the form
+where every nonzero  $MATH$ is a rational number $MATH$ such that none of $MATH$ and $MATH$ is divisible by p.
+Every rational number may be viewed as a p-adic series with a single term, consisting of its factorization of the form $MATH$ with n and d both coprime with p.
+A p-adic series is normalized if each $MATH$ is an integer in the interval $MATH$ So, the p-adic expansion of a rational number is a normalized p-adic series.
+The p-adic valuation, or p-adic order of a nonzero p-adic series is the lowest integer i such that $MATH$ The order of the zero series is infinity $MATH$
+Two p-adic series are equivalent if they have the same order k, and if for every integer n ≥ k the difference between their partial sums
+has an order greater than n (that is, is a rational number of the form $MATH$ with $MATH$ and a and b both coprime with p). 
+For every p-adic series $MATH$, there is a unique normalized series $MATH$ such that $MATH$ and $MATH$ are equivalent. $MATH$ is the normalization of $MATH$ The proof is similar to the existence proof of the p-adic expansion of a rational number. In particular, every rational number can be considered as a p-adic series with a single nonzero term, and the normalization of this series is exactly the rational representation of the rational number.
+In other words, the equivalence of p-adic series is an equivalence relation, and each equivalence class contains exactly one normalized p-adic series.
+The usual operations of series (addition, subtraction, multiplication, division) map p-adic series to p-adic series, and are compatible with equivalence of p-adic series. That is, denoting the equivalence with ~, if S, T and U are nonzero p-adic series such that $MATH$ one has
+Moreover, S and T have the same order, and the same first term.
+Positional notation
+It is possible to use a positional notation similar to that which is used to represent numbers in base p.
+Let $MATH$ be a normalized p-adic series, i.e. each $MATH$ is an integer in the interval $MATH$ One can suppose that $MATH$ by setting $MATH$ for $MATH$ (if $MATH$), and adding the resulting zero terms to the series. 
+If $MATH$ the positional notation consists of writing the $MATH$ consecutively, ordered by decreasing values of i, often with p appearing on the right as an index:
+So, the computation of the example above shows that 
+and 
+When $MATH$ a separating dot is added before the digits with negative index, and, if the index p is present, it appears just after the separating dot. For example,
+and
+If a p-adic representation is finite on the left (that is, $MATH$ for large values of i), then it has the value of a nonnegative rational number of the form $MATH$ with $MATH$ integers. These rational numbers are exactly the nonnegative rational numbers that have a finite representation in base p. For these rational numbers, the two representations are the same.
+Definition
+There are several equivalent definitions of p-adic numbers. The one that is given here is relatively elementary, since it does not involve any other mathematical concepts than those introduced in the preceding sections. Other equivalent definitions use completion of a discrete valuation ring (see § p-adic integers), completion of a metric space (see § Topological properties), or inverse limits (see § Modular properties).
+A p-adic number can be defined as a normalized p-adic series. Since there are other equivalent definitions that are commonly used, one says often that a normalized p-adic series represents a p-adic number, instead of saying that it is a p-adic number.
+One can say also that any p-adic series represents a p-adic number, since every p-adic series is equivalent to a unique normalized p-adic series. This is useful for defining operations (addition, subtraction, multiplication, division) of p-adic numbers: the result of such an operation is obtained by normalizing the result of the corresponding operation on series. This well defines operations on p-adic numbers, since the series operations are compatible with equivalence of p-adic series.
+
+With these operations, p-adic numbers form a field called the field of p-adic numbers and denoted $MATH$ or $MATH$ There is a unique field homomorphism from the rational numbers into the p-adic numbers, which maps a rational number to its p-adic expansion. The image of this homomorphism is commonly identified with the field of rational numbers. This allows considering the p-adic numbers as an extension field of the rational numbers, and the rational numbers as a subfield of the p-adic numbers.
+The valuation of a nonzero p-adic number x, commonly denoted $MATH$ is the exponent of p in the first nonzero term of every p-adic series that represents x. By convention, $MATH$ ;}
+  
+ that is, the valuation of zero is $MATH$ This valuation is a discrete valuation. The restriction of this valuation to the rational numbers is the p-adic valuation of $MATH$ that is, the exponent v in the factorization of a rational number as $MATH$ with both n and d coprime with p.
+p-adic integers
+The p-adic integers are the p-adic numbers with a nonnegative valuation. 
+A p-adic integer can be represented as a sequence
+of residues xe mod pe for each integer e, satisfying the compatibility relations $MATH$ for  i < j.
+Every integer is a p-adic integer (including zero, since $MATH$). The rational numbers of the form $MATH$ with d coprime with p and $MATH$ are also p-adic integers (for the reason that d has an inverse mod pe for every e).
+The p-adic integers form a commutative ring, denoted $MATH$  or $MATH$, that has the following properties.
+The last property provides a definition of the p-adic numbers that is equivalent to the above one: the field of the p-adic numbers is the field of fractions of the completion of the localization of the integers at the prime ideal generated by p.
+Topological properties
+The p-adic valuation allows defining an absolute value on p-adic numbers: the p-adic absolute value of a nonzero p-adic number x is
+where $MATH$ is the p-adic valuation of x. The p-adic absolute value of $MATH$ is $MATH$ This is an absolute value that satisfies the strong triangle inequality since, for every x and y one has
+Moreover, if $MATH$ one has $MATH$
+This makes the p-adic numbers a metric space, and even an ultrametric space, with the p-adic distance defined by
+$MATH$
+As a metric space, the p-adic numbers form the completion of the rational numbers equipped with the p-adic absolute value. This provides another way for defining the p-adic numbers. However, the general construction of a completion can be simplified in this case, because the metric is defined by a discrete valuation (in short, one can extract from every Cauchy sequence a subsequence such that the differences between two consecutive terms have strictly decreasing absolute values; such a subsequence is the sequence of the partial sums of a p-adic series, and thus a unique normalized p-adic series can be associated to every equivalence class of Cauchy sequences; so, for building the completion, it suffices to consider normalized p-adic series instead of equivalence classes of Cauchy sequences).
+As the metric is defined from a discrete valuation, every open ball is also closed. More precisely, the open ball $MATH$ equals the closed ball $MATH$  where v is the least integer such that $MATH$ Similarly, $MATH$ where w is the greatest integer such that $MATH$
+This implies that the p-adic numbers form a locally compact space, and the p-adic integers—that is, the ball $MATH$—form a compact space.
+Modular properties
+The quotient ring $MATH$ may be identified with the ring $MATH$ of the integers modulo $MATH$ This can be shown by remarking that every p-adic integer, represented by its normalized p-adic series, is congruent modulo $MATH$ with its partial sum $MATH$ whose value is an integer in the interval $MATH$ A straightforward verification shows that this defines a ring isomorphism from $MATH$ to $MATH$
+The inverse limit of the rings $MATH$ is defined as the ring formed by the sequences $MATH$ such that $MATH$ and $MATH$ for every i.
+The mapping that maps a normalized p-adic series to the sequence of its partial sums is a ring isomorphism from $MATH$ to the inverse limit of the $MATH$ This provides another way for defining p-adic integers (up to an isomorphism).
+This definition of p-adic integers is specially useful for practical computations, as allowing building p-adic integers by successive approximations. 
+For example, for computing the p-adic (multiplicative) inverse of an integer, one can use Newton's method, starting from the inverse modulo p; then, each Newton step computes the inverse modulo $MATH$ from the inverse modulo $MATH$
+The same method can be used for computing the p-adic square root of an integer that is a quadratic residue modulo p. This seems to be the fastest known method for testing whether a large integer is a square: it suffices to test whether the given integer is the square of the value found in $MATH$. Applying Newton's method to find the square root requires $MATH$ to be larger than twice the given integer, which is quickly satisfied.
+Hensel lifting is a similar method that allows to "lift" the factorization modulo p of a polynomial with integer coefficients to a factorization modulo $MATH$ for large values of n. This is commonly used by polynomial factorization algorithms.
+Notation
+There are several different conventions for writing p-adic expansions. So far this article has used a notation for p-adic expansions in which powers of p increase from right to left. With this right-to-left notation the 3-adic expansion of 1⁄5, for example, is written as
+When performing arithmetic in this notation, digits are carried to the left. It is also possible to write p-adic expansions so that the powers of p increase from left to right, and digits are carried to the right. With this left-to-right notation the 3-adic expansion of 1⁄5 is
+p-adic expansions may be written with other sets of digits instead of {0, 1, ..., p − 1}. For example, the 3-adic expansion of 1/5 can be written using balanced ternary digits {1,0,1} as
+In fact any set of p integers which are in distinct residue classes modulo p may be used as p-adic digits. In number theory, Teichmüller representatives are sometimes used as digits.
+Quote notation is a variant of the p-adic representation of rational numbers that was proposed in 1979 by Eric Hehner and Nigel Horspool for implementing on computers the (exact) arithmetic with these numbers.
+Cardinality
+Both $MATH$ and $MATH$ are uncountable and have the cardinality of the continuum. For $MATH$ this results from the p-adic representation, which defines a bijection of $MATH$ on the power set $MATH$ For $MATH$ this results from its expression as a countably infinite union of copies of $MATH$:
+Algebraic closure
+Qp contains Q and is a field of characteristic 0.
+Because 0 can be written as sum of squares, Qp cannot be turned into an ordered field.
+R has only a single proper algebraic extension: C; in other words, this quadratic extension is already algebraically closed. By contrast, the algebraic closure of Qp, denoted $MATH$ has infinite degree, that is, Qp has infinitely many inequivalent algebraic extensions. Also contrasting the case of real numbers, although there is a unique extension of the p-adic valuation to $MATH$ the latter is not (metrically) complete. Its (metric) completion is called Cp or Ωp. Here an end is reached, as Cp is algebraically closed. However unlike C this field is not locally compact.
+Cp and C are isomorphic as rings, so we may regard Cp as C endowed with an exotic metric. The proof of existence of such a field isomorphism relies on the axiom of choice, and does not provide an explicit example of such an isomorphism (that is, it is not constructive).
+If K is a finite Galois extension of Qp, the Galois group $MATH$ is solvable. Thus, the Galois group $MATH$ is prosolvable.
+Multiplicative group
+Qp contains the n-th cyclotomic field (n > 2) if and only if n | p − 1. For instance, the n-th cyclotomic field is a subfield of Q13 if and only if n = 1, 2, 3, 4, 6, or 12. In particular, there is no multiplicative p-torsion in Qp, if p > 2. Also, −1 is the only non-trivial torsion element in Q2.
+Given a natural number k, the index of the multiplicative group of the k-th powers of the non-zero elements of Qp in $MATH$ is finite.
+The number e, defined as the sum of reciprocals of factorials, is not a member of any p-adic field; but e p ∈ Qp (p ≠ 2). For p = 2 one must take at least the fourth power. (Thus a number with similar properties as e — namely a p-th root of ep — is a member of $MATH$ for all p.)
+Local–global principle
+Helmut Hasse's local–global principle is said to hold for an equation if it can be solved over the rational numbers if and only if it can be solved over the real numbers and over the p-adic numbers for every prime p. This principle holds, for example, for equations given by quadratic forms, but fails for higher polynomials in several indeterminates.
+Generalizations and related concepts
+The reals and the p-adic numbers are the completions of the rationals; it is also possible to complete other fields, for instance general algebraic number fields, in an analogous way. This will be described now.
+Suppose D is a Dedekind domain and E is its field of fractions. Pick a non-zero prime ideal P of D. If x is a non-zero element of E, then xD is a fractional ideal and can be uniquely factored as a product of positive and negative powers of non-zero prime ideals of D. We write ordP(x) for the exponent of P in this factorization, and for any choice of number c greater than 1 we can set
+Completing with respect to this absolute value | . |P yields a field EP, the proper generalization of the field of p-adic numbers to this setting. The choice of c does not change the completion (different choices yield the same concept of Cauchy sequence, so the same completion). It is convenient, when the residue field D/P is finite, to take for c the size of D/P.
+For example, when E is a number field, Ostrowski's theorem says that every non-trivial non-Archimedean absolute value on E arises as some | . |P. The remaining non-trivial absolute values on E arise from the different embeddings of E into the real or complex numbers. (In fact, the non-Archimedean absolute values can be considered as simply the different embeddings of E into the fields Cp, thus putting the description of all
+the non-trivial absolute values of a number field on a common footing.)
+Often, one needs to simultaneously keep track of all the above-mentioned completions when E is a number field (or more generally a global field), which are seen as encoding "local" information. This is accomplished by adele rings and idele groups.
+p-adic integers can be extended to p-adic solenoids $MATH$. There is a map from $MATH$ to the circle group whose fibers are the p-adic integers $MATH$, in analogy to how there is a map from $MATH$ to the circle whose fibers are $MATH$.
+See also
+Footnotes
+Notes
+Citations
+References
+Further reading

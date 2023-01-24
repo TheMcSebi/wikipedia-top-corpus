@@ -1,0 +1,120 @@
+Floor and ceiling functions
+In mathematics and computer science, the floor function is the function  that takes as input a real number x, and gives as output the greatest integer less than or equal to x, denoted ⌊x⌋ or floor(x).  Similarly, the ceiling function maps x to the least integer greater than or equal to x, denoted ⌈x⌉ or ceil(x).
+For example, ⌊2.4⌋ = 2, ⌊−2.4⌋ = −3, ⌈2.4⌉ = 3, and ⌈−2.4⌉ = −2.  
+Historically, the floor of x has been–and still is–called the integral part or integer part of x, often denoted [x] (as well as a variety of other notations). Some authors may define the integral part [x] as ⌊x⌋ if x is nonnegative, and ⌈x⌉ otherwise: for example, [2.4] = 2 and [−2.4] = −2.  The operation of truncation generalizes this to a specified number of digits: truncation to zero significant digits is the same as the integer part.
+For n an integer, ⌊n⌋ = ⌈n⌉ = [n] = n.
+Notation
+The integral part or integer part of a number (partie entière in the original) was first defined in 1798 by Adrien-Marie Legendre in his proof of the Legendre's formula.
+Carl Friedrich Gauss introduced the square bracket notation [x] in his third proof of quadratic reciprocity (1808). This remained the standard in mathematics until Kenneth E. Iverson introduced, in his 1962 book A Programming Language, the names "floor" and "ceiling" and the corresponding notations ⌊x⌋ and ⌈x⌉. (Iverson used square brackets for a different purpose, the Iverson bracket notation.) Both notations are now used in mathematics, although Iverson's notation will be followed in this article.
+In some sources, boldface or double brackets ⟦x⟧ are used for floor, and reversed brackets ⟧x⟦ or ]x[ for ceiling. Sometimes [x] is taken to mean the round-toward-zero function.
+The fractional part is the sawtooth function, denoted by {x}  for real x and defined by the formula
+For all x,
+These characters are provided in Unicode: 
+In the LaTeX typesetting system, these symbols can be specified with the \lfloor, \rfloor, \lceil and \rceil commands in math mode, and extended in size using \left\lfloor, \right\rfloor, \left\lceil and \right\rceil as needed.
+Definition and properties
+Given real numbers x and y, integers k, m, n and the set of integers $MATH$, floor and ceiling may be defined by the equations
+Since there is exactly one integer in a half-open interval of length one, for any real number x, there are unique integers m and n satisfying the equation
+where $MATH$ and $MATH$ may also be taken as the definition of floor and ceiling.
+Equivalences
+These formulas can be used to simplify expressions involving floors and ceilings.
+In the language of order theory, the floor function is a residuated mapping, that is, part of a Galois connection: it is the upper adjoint of the function that embeds the integers into the reals.
+These formulas show how adding integers to the arguments affects the functions:
+The above are never true if n is not an integer; however, for every x and y, the following inequalities hold:
+Monotonicity
+Both floor and ceiling functions are the monotonically non-decreasing function:
+Relations among the functions
+It is clear from the definitions that
+In fact, for integers n, both floor and ceiling functions are the identity:
+Negating the argument switches floor and ceiling and changes the sign:
+and:
+Negating the argument complements the fractional part:
+The floor, ceiling, and fractional part functions are idempotent:
+The result of nested floor or ceiling functions is the innermost function:
+due to the identity property for integers.
+Quotients
+If m and n are integers and n ≠  0,
+If n is a positive integer
+If m is positive
+For m = 2 these imply
+More generally, for positive m (See Hermite's identity)
+The following can be used to convert floors to ceilings and vice versa (m positive)
+For all m and n strictly positive integers:
+which, for positive and coprime m and n, reduces to
+and similarly for the ceiling and fractional part functions (still for positive and coprime m and n),
+
+
+Since the right-hand side of the general case is symmetrical in m and n, this implies that
+More generally, if m and n are positive,
+This is sometimes called a reciprocity law.
+Nested divisions
+For positive integer n, and arbitrary real numbers m,x:
+Continuity and series expansions
+None of the functions discussed in this article are continuous, but all are piecewise linear: the functions $MATH$, $MATH$, and $MATH$ have discontinuities at the integers.
+$MATH$  is upper semi-continuous and  $MATH$  and $MATH$  are lower semi-continuous.
+Since none of the functions discussed in this article are continuous, none of them have a power series expansion. Since floor and ceiling are not periodic, they do not have uniformly convergent Fourier series expansions.  The fractional part function has Fourier series expansion
+for x not an integer.
+At points of discontinuity, a Fourier series converges to a value that is the average of its limits on the left and the right, unlike the floor, ceiling and fractional part functions: for y fixed and x a multiple of y the Fourier series given converges to y/2, rather than to x mod y = 0. At points of continuity the series converges to the true value.
+Using the formula floor(x) = x − {x} gives
+for x not an integer.
+Applications
+Mod operator
+For an integer x and a positive integer y, the modulo operation, denoted by x mod y, gives the value of the remainder when x is divided by y.  This definition can be extended to real x and y, y ≠  0, by the formula
+Then it follows from the definition of floor function that this extended operation satisfies many natural properties.  Notably, x mod y is always between 0 and y, i.e.,
+if y is positive,
+and if y is negative,
+Quadratic reciprocity
+Gauss's third proof of quadratic reciprocity, as modified by Eisenstein, has two basic steps.
+Let p and q be distinct positive odd prime numbers, and let
+First, Gauss's lemma is used to show that the Legendre symbols are given by
+and
+The second step is to use a geometric argument to show that
+Combining these formulas gives quadratic reciprocity in the form
+There are formulas that use floor to express the quadratic character of small numbers mod odd primes p:
+Rounding
+For an arbitrary real number $MATH$, rounding $MATH$ to the nearest integer with tie breaking towards positive infinity is given by $MATH$; rounding towards negative infinity is given as $MATH$.
+If tie-breaking is away from 0, then the rounding function is $MATH$ (see sign function), and rounding towards even can be expressed with the more cumbersome $MATH$, which is the above expression for rounding towards positive infinity $MATH$ minus an integrality indicator for $MATH$.
+Number of digits
+The number of digits in base b of a positive integer k is
+Number of strings without repeated characters
+The number of possible strings of arbitrary length that don't use any character twice is given by
+where:
+For n = 26, this comes out to 1096259850353149530222034277.
+Factors of factorials
+Let n be a positive integer and p a positive prime number. The exponent of the highest power of p that divides n! is given by a version of Legendre's formula
+where $MATH$ is the way of writing n in base p. This is a finite sum, since the floors are zero when pk > n.
+Beatty sequence
+The Beatty sequence shows how every positive irrational number gives rise to a partition of the natural numbers into two sequences via the floor function.
+Euler's constant (γ)
+There are formulas for Euler's constant γ = 0.57721 56649 ... that involve the floor and ceiling, e.g.
+and
+Riemann zeta function (ζ)
+The fractional part function also shows up in integral representations of the Riemann zeta function. It is straightforward to prove (using integration by parts) that if $MATH$ is any function with a continuous derivative in the closed interval [a, b],
+Letting $MATH$ for real part of s greater than 1 and letting a and b be integers, and letting b approach infinity gives
+This formula is valid for all s with real part greater than −1, (except s = 1, where there is a pole) and combined with the Fourier expansion for {x} can be used to extend the zeta function to the entire complex plane and to prove its functional equation.
+For s = σ + it in the critical strip 0 < σ < 1,
+In 1947 van der Pol used this representation to construct an analogue computer for finding roots of the zeta function.
+Formulas for prime numbers
+The floor function appears in several formulas characterizing prime numbers.  For example, since $MATH$ is equal to 1 if m divides n, and to 0 otherwise, it follows that a positive integer n is a prime if and only if
+One may also give formulas for producing the prime numbers.  For example, let pn be the n-th prime, and for any integer r > 1, define the real number α by the sum
+Then
+A similar result is that there is a number θ = 1.3064... (Mills' constant) with the property that
+are all prime.
+There is also a number ω = 1.9287800... with the property that
+are all prime.
+Let π(x) be the number of primes less than or equal to x. It is a straightforward deduction from Wilson's theorem that
+Also, if n ≥ 2,
+None of the formulas in this section are of any practical use.
+Solved problems
+Ramanujan submitted these problems to the Journal of the Indian Mathematical Society.
+If n is a positive integer, prove that
+Some generalizations to the above floor function identities have been proven.
+Unsolved problem
+The study of Waring's problem has led to an unsolved problem:
+Are there any positive integers k ≥ 6 such that
+Mahler has proved there can only be a finite number of such k; none are known.
+Computer implementations
+In most programming languages, the simplest method to convert a floating point number to an integer does not do floor or ceiling, but truncation. The reason for this is historical, as the first machines used ones' complement and truncation was simpler to implement (floor is simpler in two's complement). FORTRAN was defined to require this behavior and thus almost all processors implement conversion this way. Some consider this to be an unfortunate historical design decision that has led to bugs handling negative offsets and graphics on the negative side of the origin.
+A bit-wise right-shift of a signed integer $MATH$ by $MATH$ is the same as $MATH$. Division by a power of 2 is often written as a right-shift, not for optimization as might be assumed, but because the floor of negative results is required. Assuming such shifts are "premature optimization" and replacing them with division can break software.
+Many programming languages (including C, C++, C#, Java, PHP, R, and Python) provide standard functions for floor and ceiling, usually called floor and ceil, or less commonly ceiling. The language APL uses ⌊x for floor.  The J Programming Language, a follow-on to APL that is designed to use standard keyboard symbols, uses <. for floor and >. for ceiling.
+ALGOL usesentier for floor.
+In Microsoft Excel the floor function is implemented as INT (which rounds down rather than toward zero). The command FLOOR in earlier versions would round toward zero, effectively the opposite of what "int" and "floor" do in other languages. Since 2010 FLOOR has been fixed to round down, with extra arguments that can reproduce previous behavior. The OpenDocument file format, as used by OpenOffice.org, Libreoffice and others, uses the same function names; INT does floor and FLOOR has a third argument that can make it round toward zero.

@@ -1,0 +1,31 @@
+Primary energy
+Primary energy (PE) is an energy form found in nature that has not been subjected to any human engineered conversion process. It is energy contained in raw fuels, and other forms of energy, including waste, received as input to a system. Primary energy can be non-renewable or renewable.
+World total primary energy supply of 162,494 TWh (or 13,792 Mtoe) by fuels in 2017 (IEA, 2019): 6, 8 
+World total primary energy supply of 162,494 TWh (or 13,792 Mtoe) by region in 2017 (IEA, 2019)
+2019 world electricity generation by source (total generation was 27 petawatt-hours)
+Where primary energy is used to describe fossil fuels, the embodied energy of the fuel is available as thermal energy and around 70% is typically lost in conversion to electrical or mechanical energy. There is a similar 60-80% conversion loss when solar and wind energy is converted to electricity, but today's UN conventions on energy statistics counts the electricity made from wind and solar as the primary energy itself for these sources. One consequence of this counting method is that the contribution of wind and solar energy is under reported compared to fossil energy sources, and there is hence an international debate on how to count primary energy from wind and solar.
+Primary energy is used in energy statistics in the compilation of energy balances, as well as in the field of energetics. In energetics, a primary energy source (PES) refers to the energy forms required by the energy sector to generate the supply of energy carriers used by human society.
+Secondary energy is a carrier of energy, such as electricity. These are produced by conversion from a primary energy source.
+Total primary energy supply (TPES) is the sum of production and imports, plus or minus stock changes, minus exports and international bunker storage.
+The International Recommendations for Energy Statistics (IRES) prefers total energy supply (TES) to refer to this indicator. These expressions are often used to describe the total energy supply of a national territory.
+
+
+Examples of sources
+Primary energy sources should not be confused with the energy system components (or conversion processes) through which they are converted into energy carriers.
+Usable energy
+Primary energy sources are transformed in energy conversion processes to more convenient forms of energy that can directly be used by society, such as electrical energy, refined fuels, or synthetic fuels such as hydrogen fuel. In the field of energetics, these forms are called energy carriers and correspond to the concept of "secondary energy" in energy statistics.
+Conversion to energy carriers (or secondary energy)
+Energy carriers are energy forms which have been transformed from primary energy sources. Electricity is one of the most common energy carriers, being transformed from various primary energy sources such as coal, oil, natural gas, and wind. Electricity is particularly useful since it has low entropy (is highly ordered) and so can be converted into other forms of energy very efficiently. District heating is another example of secondary energy.
+According to the laws of thermodynamics, primary energy sources cannot be produced. They must be available to society to enable the production of energy carriers.
+Conversion efficiency varies. For thermal energy, electricity and mechanical energy production is limited by Carnot's theorem, and generates a lot of waste heat. Other non-thermal conversions can be more efficient. For example, while wind turbines do not capture all of the wind's energy, they have a high conversion efficiency and generate very little waste heat since wind energy is low entropy. In principle solar photovoltaic conversions could be very efficient, but current conversion can only be done well for narrow ranges of wavelength, whereas solar thermal is also subject to Carnot efficiency limits. Hydroelectric power is also very ordered, and converted very efficiently. The amount of usable energy is the exergy of a system.
+Site and source energy
+Site energy is the term used in North America for the amount of end-use energy of all forms consumed at a specified location. This can be a mix of primary energy (such as natural gas burned at the site) and secondary energy (such as electricity). Site energy is measured at the campus, building, or sub-building level and is the basis for energy charges on utility bills.
+Source energy, in contrast, is the term used in North America for the amount of primary energy consumed in order to provide a facility’s site energy. It is always greater than the site energy, as it includes all site energy and adds to it the energy lost during transmission, delivery, and conversion. While source or primary energy provides a more complete picture of energy consumption, it cannot be measured directly and must be calculated using conversion factors from site energy measurements. For electricity, a typical value is three units of source energy for one unit of site energy. However, this can vary considerably depending on factors such as the primary energy source or fuel type, the type of power plant, and the transmission infrastructure. One full set of conversion factors is available as technical reference from Energy STAR.
+Either site or source energy can be an appropriate metric when comparing or analyzing energy use of different facilities. The U.S Energy Information Administration, for example, uses primary (source) energy for its energy overviews but site energy for its Commercial Building Energy Consumption Survey and Residential Building Energy Consumption Survey. The US Environmental Protection Agency's Energy STAR program recommends using source energy, and the US Department of Energy uses site energy in its definition of a zero net energy building.
+Energy accidents and fatalities
+Energy accidents are accidents that occur in systems that provide energy or power. These can result in fatalities, as can the normal running of many systems, for example those deaths due to pollution.
+Globally, coal is responsible for 100,000 deaths per trillion kWh.
+See also
+Notes
+References
+Further reading

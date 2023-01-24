@@ -1,0 +1,63 @@
+van der Waals radius
+The van der Waals radius, rw, of an atom is the radius of an imaginary hard sphere representing the distance of closest approach for another atom. 
+It is named after Johannes Diderik van der Waals, winner of the 1910 Nobel Prize in Physics, as he was the first to recognise that atoms were not simply points and to demonstrate the physical consequences of their size through the van der Waals equation of state.
+van der Waals volume
+The van der Waals volume, Vw, also called the atomic volume or molecular volume, is the atomic property most directly related to the van der Waals radius. It is the volume "occupied" by an individual atom (or molecule). 
+The van der Waals volume may be calculated if the van der Waals radii (and, for molecules, the inter-atomic distances, and angles) are known. For a single atom, it is the volume of a sphere whose radius is the van der Waals radius of the atom:
+For a molecule, it is the volume enclosed by the van der Waals surface. 
+The van der Waals volume of a molecule is always smaller than the sum of the van der Waals volumes of the constituent atoms: the atoms can be said to "overlap" when they form chemical bonds.
+The van der Waals volume of an atom or molecule may also be determined by experimental measurements on gases, notably from the van der Waals constant b, the polarizability α, or the molar refractivity A. 
+In all three cases, measurements are made on macroscopic samples and it is normal to express the results as molar quantities. 
+To find the van der Waals volume of a single atom or molecule, it is necessary to divide by the Avogadro constant NA.
+The molar van der Waals volume should not be confused with the molar volume of the substance. 
+In general, at normal laboratory temperatures and pressures, the atoms or molecules of gas only occupy about 1⁄1000 of the volume of the gas, the rest is empty space. 
+Hence the molar van der Waals volume, which only counts the volume occupied by the atoms or molecules, is usually about 1000 times smaller than the molar volume for a gas at standard temperature and pressure.
+Methods of determination
+Van der Waals radii may be determined from the mechanical properties of gases (the original method), from the critical point, from measurements of atomic spacing between pairs of unbonded atoms in crystals or from measurements of electrical or optical properties (the polarizability and the molar refractivity). 
+These various methods give values for the van der Waals radius which are similar (1–2 Å, 100–200 pm) but not identical. 
+Tabulated values of van der Waals radii are obtained by taking a weighted mean of a number of different experimental values, and, for this reason, different tables will often have different values for the van der Waals radius of the same atom. 
+Indeed, there is no reason to assume that the van der Waals radius is a fixed property of the atom in all circumstances: rather, it tends to vary with the particular chemical environment of the atom in any given case.
+Van der Waals equation of state
+The van der Waals equation of state is the simplest and best-known modification of the ideal gas law to account for the behaviour of real gases:
+where p is pressure, n is the number of moles of the gas in question and a and b depend on the particular gas, $MATH$ is the volume, R is the specific gas constant on a unit mole basis and T the absolute temperature; a is a correction for intermolecular forces and b corrects for finite atomic or molecular sizes; the value of b equals the van der Waals volume per mole of the gas. 
+Their values vary from gas to gas.
+The van der Waals equation also has a microscopic interpretation: molecules interact with one another. 
+The interaction is strongly repulsive at a very short distance, becomes mildly attractive at the intermediate range, and vanishes at a long distance. 
+The ideal gas law must be corrected when attractive and repulsive forces are considered. 
+For example, the mutual repulsion between molecules has the effect of excluding neighbors from a certain amount of space around each molecule. 
+Thus, a fraction of the total space becomes unavailable to each molecule as it executes random motion. 
+In the equation of state, this volume of exclusion (nb) should be subtracted from the volume of the container (V), thus: (V - nb). 
+The other term that is introduced in the van der Waals equation, $MATH$, describes a weak attractive force among molecules (known as the van der Waals force), which increases when n increases or V decreases and molecules become more crowded together.
+The van der Waals constant b volume can be used to calculate the van der Waals volume of an atom or molecule with experimental data derived from measurements on gases.
+For helium, b = 23.7 cm3/mol. Helium is a monatomic gas, and each mole of helium contains 6.022×1023 atoms (the Avogadro constant, NA):
+Therefore, the van der Waals volume of a single atom Vw = 39.36 Å3, which corresponds to rw = 2.11 Å (≈ 200 picometers). 
+This method may be extended to diatomic gases by approximating the molecule as a rod with rounded ends where the diameter is 2rw and the internuclear distance is d. 
+The algebra is more complicated, but the relation
+can be solved by the normal methods for cubic functions.
+Crystallographic measurements
+The molecules in a molecular crystal are held together by van der Waals forces rather than chemical bonds. 
+In principle, the closest that two atoms belonging to different molecules can approach one another is given by the sum of their van der Waals radii. 
+By examining a large number of structures of molecular crystals, it is possible to find a minimum radius for each type of atom such that other non-bonded atoms do not encroach any closer. 
+This approach was first used by Linus Pauling in his seminal work The Nature of the Chemical Bond. 
+Arnold Bondi also conducted a study of this type, published in 1964, although he also considered other methods of determining the van der Waals radius in coming to his final estimates. 
+Some of Bondi's figures are given in the table at the top of this article, and they remain the most widely used "consensus" values for the van der Waals radii of the elements. 
+Scott Rowland and Robin Taylor re-examined these 1964 figures in the light of more recent crystallographic data: on the whole, the agreement was very good, although they recommend a value of 1.09 Å for the van der Waals radius of hydrogen as opposed to Bondi's 1.20 Å. A more recent analysis of the Cambridge Structural Database, carried out by Santiago Alvarez, provided a new set of values for 93 naturally occurring elements.
+A simple example of the use of crystallographic data (here neutron diffraction) is to consider the case of solid helium, where the atoms are held together only by van der Waals forces (rather than by covalent or metallic bonds) and so the distance between the nuclei can be considered to be equal to twice the van der Waals radius. 
+The density of solid helium at 1.1 K and 66 atm is 0.214(6) g/cm3, corresponding to a molar volume Vm = 18.7×10−6 m3/mol. 
+The van der Waals volume is given by
+where the factor of π/√18 arises from the packing of spheres: Vw = 2.30×10−29 m3 = 23.0 Å3, corresponding to a van der Waals radius rw = 1.76 Å.
+Molar refractivity
+The molar refractivity A of a gas is related to its refractive index n by the Lorentz–Lorenz equation:
+The refractive index of helium n = 1.0000350 at 0 °C and 101.325 kPa, which corresponds to a molar refractivity A = 5.23×10−7 m3/mol. 
+Dividing by the Avogadro constant gives Vw = 8.685×10−31 m3 = 0.8685 Å3, corresponding to rw = 0.59 Å.
+Polarizability
+The polarizability α of a gas is related to its electric susceptibility χe by the relation
+and the electric susceptibility may be calculated from tabulated values of the relative permittivity εr using the relation χe = εr − 1. 
+The electric susceptibility of helium χe = 7×10−5 at 0 °C and 101.325 kPa, which corresponds to a polarizability α = 2.307×10−41 C⋅m2/V. 
+The polarizability is related the van der Waals volume by the relation
+so the van der Waals volume of helium Vw = 2.073×10−31 m3 = 0.2073 Å3 by this method, corresponding to rw = 0.37 Å.
+When the atomic polarizability is quoted in units of volume such as Å3, as is often the case, it is equal to the van der Waals volume. 
+However, the term "atomic polarizability" is preferred as polarizability is a precisely defined (and measurable) physical quantity, whereas "van der Waals volume" can have any number of definitions depending on the method of measurement.
+See also
+References
+Further reading

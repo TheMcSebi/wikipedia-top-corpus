@@ -1,0 +1,54 @@
+Poisson's equation
+Poisson's equation is an elliptic partial differential equation of broad utility in theoretical physics. For example, the solution to Poisson's equation is the potential field caused by a given electric charge or mass density distribution; with the potential field known, one can then calculate electrostatic or gravitational (force) field. It is a generalization of Laplace's equation, which is also frequently seen in physics.  The equation is named after French mathematician and physicist Siméon Denis Poisson.
+Statement of the equation
+
+
+Poisson's equation is 
+ where $MATH$ is the Laplace operator, and $MATH$ and $MATH$ are real or complex-valued functions on a manifold. Usually, $MATH$ is given and $MATH$ is sought. When the manifold is Euclidean space, the Laplace operator is often denoted as ∇2 and so Poisson's equation is frequently written as 
+In three-dimensional Cartesian coordinates, it takes the form
+When $MATH$ identically we obtain Laplace's equation.
+Poisson's equation may be solved using a Green's function:
+where the integral is over all of space. A general exposition of the Green's function for Poisson's equation is given in the article on the screened Poisson equation. There are various methods for numerical solution, such as the relaxation method, an iterative algorithm.
+Newtonian gravity
+In the case of a gravitational field g due to an attracting massive object of density ρ, Gauss's law for gravity in differential form can be used to obtain the corresponding Poisson equation for gravity,
+Since the gravitational field is conservative (and irrotational), it can be expressed in terms of a scalar potential Φ,
+Substituting into Gauss's law
+yields Poisson's equation for gravity,
+If the mass density is zero, Poisson's equation reduces to Laplace's equation. The corresponding Green's function can be used to calculate the potential at distance r from a central point mass m (i.e., the fundamental solution). In three dimensions the potential is
+which is equivalent to Newton's law of universal gravitation.
+Electrostatics
+One of the cornerstones of electrostatics is setting up and solving problems described by the Poisson equation. Solving the Poisson equation amounts to finding the electric potential φ for a given charge distribution $MATH$.
+The mathematical details behind Poisson's equation in electrostatics are as follows (SI units are used rather than Gaussian units, which are also frequently used in electromagnetism).
+Starting with Gauss's law for electricity (also one of Maxwell's equations) in differential form, one has
+where $MATH$ is the divergence operator, D = electric displacement field, and ρf = free charge volume density (describing charges brought from outside).
+Assuming the medium is linear, isotropic, and homogeneous (see polarization density), we have the constitutive equation,
+where ε is the permittivity of the medium and E is the electric field.
+Substituting this into Gauss's law and assuming ε is spatially constant in the region of interest yields
+where $MATH$ is a total volume charge density. In electrostatics, we assume that there is no magnetic field (the argument that follows also holds in the presence of a constant magnetic field). Then, we have that
+where ∇× is the curl operator. This equation means that we can write the electric field as the gradient of a scalar function φ (called the electric potential), since the curl of any gradient is zero. Thus we can write,
+where the minus sign is introduced so that φ is identified as the electric potential energy per unit charge.
+The derivation of Poisson's equation under these circumstances is straightforward. Substituting the potential gradient for the electric field,
+directly produces Poisson's equation for electrostatics, which is
+Solving Poisson's equation for the potential requires knowing the charge density distribution. If the charge density is zero, then Laplace's equation results. If the charge density follows a Boltzmann distribution, then the Poisson-Boltzmann equation results. The Poisson–Boltzmann equation plays a role in the development of the Debye–Hückel theory of dilute electrolyte solutions.
+Using Green's Function, the potential at distance r from a central point charge Q  (i.e., the Fundamental Solution) is:
+which is Coulomb's law of electrostatics. (For historic reasons, and unlike gravity's model above, the $MATH$ factor appears here and not in Gauss's law.)
+The above discussion assumes that the magnetic field is not varying in time. The same Poisson equation arises even if it does vary in time, as long as the Coulomb gauge is used. In this more general context, computing φ is no longer sufficient to calculate E, since E also depends on the magnetic vector potential A, which must be independently computed. See Maxwell's equation in potential formulation for more on φ and A in Maxwell's equations and how Poisson's equation is obtained in this case.
+Potential of a Gaussian charge density
+If there is a static spherically symmetric Gaussian charge density
+where Q is the total charge, then the solution φ(r) of Poisson's equation,
+is given by
+where erf(x) is the error function.
+This solution can be checked explicitly by evaluating ∇2φ.
+Note that, for r much greater than σ, the erf function approaches unity and the potential φ(r) approaches the point charge potential
+as one would expect. Furthermore, the error function approaches 1 extremely quickly as its argument increases; in practice for r > 3σ the relative error is smaller than one part in a thousand.
+Surface reconstruction
+Surface reconstruction is an inverse problem. The goal is to digitally reconstruct a smooth surface based on a large number of points pi (a point cloud) where each point also carries an estimate of the local surface normal ni. Poisson's equation can be utilized to solve this problem with a technique called Poisson surface reconstruction.
+The goal of this technique is to reconstruct an implicit function f whose value is zero at the points pi and whose gradient at the points pi equals the normal vectors ni. The set of (pi, ni) is thus modeled as a continuous vector field V.  The implicit function f is found by integrating the vector field V. Since not every vector field is the gradient of a function, the problem may or may not have a solution: the necessary and sufficient condition for a smooth vector field V to be the gradient of a function f is that the curl of V must be identically zero. In case this condition is difficult to impose, it is still possible to perform a least-squares fit to minimize the difference between V and the gradient of f.
+In order to effectively apply Poisson's equation to the problem of surface reconstruction, it is necessary to find a good discretization of the vector field V. The basic approach is to bound the data with a finite difference grid. For a function valued at the nodes of such a grid, its gradient can be represented as valued on staggered grids, i.e. on grids whose nodes lie in between the nodes of the original grid. It is convenient to define three staggered grids, each shifted in one and only one direction corresponding to the components of the normal data. On each staggered grid we perform [trilinear interpolation] on the set of points. The interpolation weights are then used to distribute the magnitude of the associated component of ni onto the nodes of the particular staggered grid cell containing pi. Kazhdan and coauthors give a more accurate method of discretization using an adaptive finite difference grid, i.e. the cells of the grid are smaller (the grid is more finely divided) where there are more data points. They suggest implementing this technique with an adaptive octree.
+Fluid dynamics
+For the incompressible Navier–Stokes equations, given by:
+The equation for the pressure field $MATH$ is an example of a nonlinear Poisson equation:
+Notice that the above trace is not sign-definite.
+See also
+References
+Further reading

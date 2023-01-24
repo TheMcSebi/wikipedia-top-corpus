@@ -1,0 +1,329 @@
+Banach space
+In mathematics, more specifically in functional analysis, a Banach space (pronounced [ˈbanax]) is a complete normed vector space. Thus, a Banach space is a vector space with a metric that allows the computation of vector length and distance between vectors and is complete in the sense that a Cauchy sequence of vectors always converges to a well-defined limit that is within the space.
+Banach spaces are named after the Polish mathematician Stefan Banach, who introduced this concept and studied it systematically in 1920–1922 along with Hans Hahn and Eduard Helly. 
+Maurice René Fréchet was the first to use the term "Banach space" and Banach in turn then coined the term "Fréchet space."
+Banach spaces originally grew out of the study of function spaces by Hilbert, Fréchet, and Riesz earlier in the century. Banach spaces play a central role in functional analysis. In other areas of analysis, the spaces under study are often Banach spaces.
+Definition
+A Banach space is a complete normed space $MATH$ 
+A normed space is a pair
+$MATH$ consisting of a vector space $MATH$ over a scalar field $MATH$ (where $MATH$ is commonly $MATH$ or $MATH$) together with a distinguished
+norm $MATH$ Like all norms, this norm induces a translation invariant
+distance function, called the canonical or (norm) induced metric, defined by
+for all vectors $MATH$ This makes $MATH$ into a metric space $MATH$ 
+A sequence $MATH$ is called $MATH$-Cauchy or Cauchy in $MATH$ or $MATH$-Cauchy if for every real $MATH$ there exists some index $MATH$ such that
+whenever $MATH$ and $MATH$ are greater than $MATH$ 
+The canonical metric $MATH$ is called a complete metric if the pair $MATH$ is a complete metric space, which by definition means for every $MATH$-Cauchy sequence $MATH$ in $MATH$ there exists some $MATH$ such that
+where because $MATH$ this sequence's convergence to $MATH$ can equivalently be expressed as:
+By definition, the normed space $MATH$ is a Banach space if the norm induced metric $MATH$ is a complete metric, or said differently, if $MATH$ is a complete metric space. 
+The norm $MATH$ of a normed space $MATH$ is called a complete norm if $MATH$ is a Banach space.
+L-semi-inner product
+For any normed space $MATH$ there exists an L-semi-inner product $MATH$ on $MATH$ such that $MATH$ for all $MATH$; in general, there may be infinitely many L-semi-inner products that satisfy this condition. L-semi-inner products are a generalization of inner products, which are what fundamentally distinguish Hilbert spaces from all other Banach spaces. This shows that all normed spaces (and hence all Banach spaces) can be considered as being generalizations of (pre-)Hilbert spaces.
+Characterization in terms of series
+The vector space structure allows one to relate the behavior of Cauchy sequences to that of converging series of vectors. 
+A normed space $MATH$ is a Banach space if and only if each absolutely convergent series in $MATH$ converges in $MATH$
+Topology
+The canonical metric $MATH$ of a normed space $MATH$ induces the usual metric topology $MATH$ on $MATH$ which is referred to as the canonical or norm induced topology. 
+Every normed space is automatically assumed to carry this Hausdorff topology, unless indicated otherwise. 
+With this topology, every Banach space is a Baire space, although there exist normed spaces that are Baire but not Banach. The norm $MATH$ is always a continuous function with respect to the topology that it induces.
+The open and closed balls of radius $MATH$ centered at a point $MATH$ are, respectively, the sets 
+Any such ball is a convex and bounded subset of $MATH$ but a compact ball/neighborhood exists if and only if $MATH$ is a finite-dimensional vector space. 
+In particular, no infinite–dimensional normed space can be locally compact or have the Heine–Borel property. 
+If $MATH$ is a vector and $MATH$ is a scalar then 
+Using $MATH$ shows that this norm-induced topology is translation invariant, which means that for any $MATH$ and $MATH$ the subset $MATH$ is open (respectively, closed) in $MATH$ if and only if this is true of its translation $MATH$ 
+Consequently, the norm induced topology is completely determined by any neighbourhood basis at the origin. Some common neighborhood bases at the origin include:
+where $MATH$ is a sequence in of positive real numbers that converges to $MATH$ in $MATH$ (such as $MATH$ or $MATH$ for instance). 
+So for example, every open subset $MATH$ of $MATH$ can be written as a union 
+indexed by some subset $MATH$ where every $MATH$ is of the form $MATH$ for some integer $MATH$ (the closed ball can also be used instead of the open ball, although the indexing set $MATH$ and radii $MATH$ may need to be changed). 
+Additionally, $MATH$ can always be chosen to be countable if $MATH$ is a separable space, which by definition means that $MATH$ contains some countable dense subset. 
+The Anderson–Kadec theorem states that every infinite–dimensional separable Fréchet space is homeomorphic to the product space $MATH$ of countably many copies of $MATH$ (this homeomorphism need not be a linear map). 
+Since every Banach space is a Fréchet space, this is also true of all infinite–dimensional separable Banach spaces, including the separable Hilbert $MATH$2 sequence space $MATH$ with its usual norm $MATH$ where (in sharp contrast to finite−dimensional spaces) $MATH$ is also homeomorphic to its unit sphere $MATH$
+There is a compact subset $MATH$ of $MATH$ whose convex hull $MATH$ is not closed and thus also not compact (see this footnote for an example). 
+However, like in all Banach spaces, the closed convex hull $MATH$ of this (and every other) compact subset will be compact. But if a normed space is not complete then it is in general not guaranteed that $MATH$ will be compact whenever $MATH$ is; an example can even be found in a (non-complete) pre-Hilbert vector subspace of $MATH$
+This norm-induced topology also makes $MATH$ into what is known as a topological vector space (TVS), which by definition is a vector space endowed with a topology making the operations of addition and scalar multiplication continuous. It is emphasized that the TVS $MATH$ is only a vector space together with a certain type of topology; that is to say, when considered as a TVS, it is not associated with any particular norm or metric (both of which are "forgotten"). This Hausdorff TVS $MATH$ is even locally convex because the set of all open balls centered at the origin forms a neighbourhood basis at the origin consisting of convex balanced open sets. This TVS is also normable, which by definition refers to any TVS whose its topology is induced by some (possibly unknown) norm.
+Comparison of complete metrizable vector topologies
+The open mapping theorem implies that if $MATH$ are topologies on $MATH$ that make both $MATH$ and $MATH$ into complete metrizable TVS (for example, Banach or Fréchet spaces) and if one topology is finer or coarser than the other then they must be equal (that is, if $MATH$).
+So for example, if $MATH$ are Banach spaces with topologies $MATH$ and if one of these spaces has some open ball that is also an open subset of the other space (or equivalently, if one of $MATH$ or $MATH$ is continuous) then their topologies are identical and their norms are equivalent.
+Completeness
+Complete norms and equivalent norms
+Two norms, $MATH$ and $MATH$ on a vector space are said to be equivalent if they induce the same topology; this happens if and only if there exist positive real numbers $MATH$ such that $MATH$ for all $MATH$ If $MATH$ and $MATH$ are two equivalent norms on a vector space $MATH$ then $MATH$ is a Banach space if and only if $MATH$ is a Banach space. 
+See this footnote for an example of a continuous norm on a Banach space that is not equivalent to that Banach space's given norm. 
+All norms on a finite-dimensional vector space are equivalent and every finite-dimensional normed space is a Banach space.
+Complete norms vs complete metrics
+A metric $MATH$ on a vector space $MATH$ is induced by a norm on $MATH$ if and only if $MATH$ is translation invariant and absolutely homogeneous, which means that $MATH$ for all scalars $MATH$ and all $MATH$ in which case the function $MATH$ defines a norm on $MATH$ and the canonical metric induced by $MATH$ is equal to $MATH$
+Suppose that $MATH$ is a normed space and that $MATH$ is the norm topology induced on $MATH$ Suppose that $MATH$ is any metric on $MATH$ such that the topology that $MATH$ induces on $MATH$ is equal to $MATH$ If $MATH$ is translation invariant then $MATH$ is a Banach space if and only if $MATH$ is a complete metric space. 
+If $MATH$ is not translation invariant, then it may be possible for $MATH$ to be a Banach space but for $MATH$ to not be a complete metric space (see this footnote for an example). In contrast, a theorem of Klee, which also applies to all metrizable topological vector spaces, implies that if there exists any complete metric $MATH$ on $MATH$ that induces the norm topology $MATH$ on $MATH$ then $MATH$ is a Banach space.
+A Fréchet space is a locally convex topological vector space whose topology is induced by some translation-invariant complete metric. 
+Every Banach space is a Fréchet space but not conversely; indeed, there even exist Fréchet spaces on which no norm is a continuous function (such as the space of real sequences $MATH$ with the product topology). 
+However, the topology of every Fréchet space is induced by some countable family of real-valued (necessarily continuous) maps called seminorms, which are generalizations of norms. 
+It is even possible for a Fréchet space to have a topology that is induced by a countable family of norms (such norms would necessarily be continuous) 
+but to not be a Banach/normable space because its topology can not be defined by any single norm. 
+An example of such a space is the Fréchet space $MATH$ whose definition can be found in the article on spaces of test functions and distributions.
+Complete norms vs complete topological vector spaces
+There is another notion of completeness besides metric completeness and that is the notion of a complete topological vector space (TVS) or TVS-completeness, which uses the theory of uniform spaces. 
+Specifically, the notion of TVS-completeness uses a unique translation-invariant uniformity, called the canonical uniformity, that depends only on vector subtraction and the topology $MATH$ that the vector space is endowed with, and so in particular, this notion of TVS completeness is independent of whatever norm induced the topology $MATH$ (and even applies to TVSs that are not even metrizable). 
+Every Banach space is a complete TVS. Moreover, a normed space is a Banach space (that is, its norm-induced metric is complete) if and only if it is complete as a topological vector space. 
+If $MATH$ is a metrizable topological vector space (such as any norm induced topology, for example), then $MATH$ is a complete TVS if and only if it is a sequentially complete TVS, meaning that it is enough to check that every Cauchy sequence in $MATH$ converges in $MATH$ to some point of $MATH$ (that is, there is no need to consider the more general notion of arbitrary Cauchy nets).
+If $MATH$ is a topological vector space whose topology is induced by some (possibly unknown) norm (such spaces are called normable and they are characterized by being Hausdorff and having a bounded convex neighborhood of the origin), then $MATH$ is a complete topological vector space if and only if $MATH$ may be assigned a norm $MATH$ that induces on $MATH$ the topology $MATH$ and also makes $MATH$ into a Banach space. 
+A Hausdorff locally convex topological vector space $MATH$ is normable if and only if its strong dual space $MATH$ is normable, in which case $MATH$ is a Banach space ($MATH$ denotes the strong dual space of $MATH$ whose topology is a generalization of the dual norm-induced topology on the continuous dual space $MATH$; see this footnote for more details). 
+If $MATH$ is a metrizable locally convex TVS, then $MATH$ is normable if and only if $MATH$ is a Fréchet–Urysohn space. 
+This shows that in the category of locally convex TVSs, Banach spaces are exactly those complete spaces that are both metrizable and have metrizable strong dual spaces.
+Completions
+Every normed space can be isometrically embedded onto a dense vector subspace of some Banach space, where this Banach space is called a completion of the normed space. This Hausdorff completion is unique up to isometric isomorphism.
+More precisely, for every normed space $MATH$ there exist a Banach space $MATH$ and a mapping $MATH$ such that $MATH$ is an isometric mapping and $MATH$ is dense in $MATH$ If $MATH$ is another Banach space such that there is an isometric isomorphism from $MATH$ onto a dense subset of $MATH$ then $MATH$ is isometrically isomorphic to $MATH$
+This Banach space $MATH$ is the Hausdorff completion of the normed space $MATH$ The underlying metric space for $MATH$ is the same as the metric completion of $MATH$ with the vector space operations extended from $MATH$ to $MATH$ The completion of $MATH$ is sometimes denoted by $MATH$
+General theory
+Linear operators, isomorphisms
+If $MATH$ and $MATH$ are normed spaces over the same ground field $MATH$ the set of all continuous $MATH$-linear maps $MATH$ is denoted by $MATH$ In infinite-dimensional spaces, not all linear maps are continuous. A linear mapping from a normed space $MATH$ to another normed space is continuous if and only if it is bounded on the closed unit ball of $MATH$ Thus, the vector space $MATH$ can be given the operator norm
+For $MATH$ a Banach space, the space $MATH$ is a Banach space with respect to this norm.  In categorical contexts, it is sometimes convenient to restrict the function space between two Banach spaces to only the short maps; in that case the space $MATH$ reappears as a natural bifunctor.
+If $MATH$ is a Banach space, the space $MATH$ forms a unital Banach algebra; the multiplication operation is given by the composition of linear maps.
+If $MATH$ and $MATH$ are normed spaces, they are isomorphic normed spaces if there exists a linear bijection $MATH$ such that $MATH$ and its inverse $MATH$ are continuous. If one of the two spaces $MATH$ or $MATH$ is complete (or reflexive, separable, etc.) then so is the other space. Two normed spaces $MATH$ and $MATH$ are isometrically isomorphic if in addition, $MATH$ is an isometry, that is, $MATH$ for every $MATH$ in $MATH$ The Banach–Mazur distance $MATH$ between two isomorphic but not isometric spaces $MATH$ and $MATH$ gives a measure of how much the two spaces $MATH$ and $MATH$ differ.
+Continuous and bounded linear functions and seminorms
+Every continuous linear operator is a bounded linear operator and if dealing only with normed spaces then the converse is also true. That is, a linear operator between two normed spaces is bounded if and only if it is a continuous function. So in particular, because the scalar field (which is $MATH$ or $MATH$) is a normed space, a linear functional on a normed space is a bounded linear functional if and only if it is a continuous linear functional. This allows for continuity-related results (like those below) to be applied to Banach spaces. Although boundedness is the same as continuity for linear maps between normed spaces, the term "bounded" is more commonly used when dealing primarily with Banach spaces.
+If $MATH$ is a subadditive function (such as a norm, a sublinear function, or real linear functional), then $MATH$ is continuous at the origin if and only if $MATH$ is uniformly continuous on all of $MATH$; and if in addition $MATH$ then $MATH$ is continuous if and only if its absolute value $MATH$ is continuous, which happens if and only if $MATH$ is an open subset of $MATH$ 
+And very importantly for applying the Hahn–Banach theorem, a linear functional $MATH$ is continuous if and only if this is true of its real part $MATH$ and moreover, $MATH$ and the real part $MATH$ completely determines $MATH$ which is why the Hahn–Banach theorem is often stated only for real linear functionals.
+Also, a linear functional $MATH$ on $MATH$ is continuous if and only if the seminorm $MATH$ is continuous, which happens if and only if there exists a continuous seminorm $MATH$ such that $MATH$; this last statement involving the linear functional $MATH$ and seminorm $MATH$ is encountered in many versions of the Hahn–Banach theorem.
+Basic notions
+The Cartesian product $MATH$ of two normed spaces is not canonically equipped with a norm. However, several equivalent norms are commonly used, such as
+which correspond (respectively) to the coproduct and product in the category of Banach spaces and short maps (discussed above).  For finite (co)products, these norms give rise to isomorphic normed spaces, and the product $MATH$ (or the direct sum $MATH$) is complete if and only if the two factors are complete.
+If $MATH$ is a closed linear subspace of a normed space $MATH$ there is a natural norm on the quotient space $MATH$
+The quotient $MATH$ is a Banach space when $MATH$ is complete. The quotient map from $MATH$ onto $MATH$ sending $MATH$ to its class $MATH$ is linear, onto and has norm $MATH$ except when $MATH$ in which case the quotient is the null space.
+The closed linear subspace $MATH$ of $MATH$ is said to be a complemented subspace of $MATH$ if $MATH$ is the range of a surjective bounded linear projection $MATH$ In this case, the space $MATH$ is isomorphic to the direct sum of $MATH$ and $MATH$ the kernel of the projection $MATH$
+Suppose that $MATH$ and $MATH$ are Banach spaces and that $MATH$ There exists a canonical factorization of $MATH$ as
+where the first map $MATH$ is the quotient map, and the second map $MATH$ sends every class $MATH$ in the quotient to the image $MATH$ in $MATH$ This is well defined because all elements in the same class have the same image. The mapping $MATH$ is a linear bijection from $MATH$ onto the range $MATH$ whose inverse need not be bounded.
+Classical spaces
+Basic examples of Banach spaces include: the Lp spaces $MATH$ and their special cases, the sequence spaces $MATH$ that consist of scalar sequences indexed by natural numbers $MATH$; among them, the space $MATH$ of absolutely summable sequences and the space $MATH$ of square summable sequences; the space $MATH$ of sequences tending to zero and the space $MATH$ of bounded sequences; the space $MATH$ of continuous scalar functions on a compact Hausdorff space $MATH$ equipped with the max norm,
+According to the Banach–Mazur theorem, every Banach space is isometrically isomorphic to a subspace of some $MATH$ For every separable Banach space $MATH$ there is a closed subspace $MATH$ of $MATH$ such that $MATH$
+Any Hilbert space serves as an example of a Banach space. A Hilbert space $MATH$ on $MATH$ is complete for a norm of the form
+where
+is the inner product, linear in its first argument that satisfies the following:
+For example, the space $MATH$ is a Hilbert space.
+The Hardy spaces, the Sobolev spaces are examples of Banach spaces that are related to $MATH$ spaces and have additional structure. They are important in different branches of analysis, Harmonic analysis and Partial differential equations among others.
+Banach algebras
+A Banach algebra is a Banach space $MATH$ over $MATH$ or $MATH$ together with a structure of algebra over $MATH$, such that the product map $MATH$ is continuous. An equivalent norm on $MATH$ can be found so that $MATH$ for all $MATH$
+Examples
+Dual space
+If $MATH$ is a normed space and $MATH$ the underlying field (either the real or the complex numbers), the continuous dual space is the space of continuous linear maps from $MATH$ into $MATH$ or continuous linear functionals. 
+The notation for the continuous dual is $MATH$ in this article. 
+Since $MATH$ is a Banach space (using the absolute value as norm), the dual $MATH$ is a Banach space, for every normed space $MATH$
+The main tool for proving the existence of continuous linear functionals is the Hahn–Banach theorem.
+Hahn–Banach theorem — Let $MATH$ be a vector space over the field $MATH$ Let further
+In particular, every continuous linear functional on a subspace of a normed space can be continuously extended to the whole space, without increasing the norm of the functional. 
+An important special case is the following: for every vector $MATH$ in a normed space $MATH$ there exists a continuous linear functional $MATH$ on $MATH$ such that
+When $MATH$ is not equal to the $MATH$ vector, the functional $MATH$ must have norm one, and is called a norming functional for $MATH$
+The Hahn–Banach separation theorem states that two disjoint non-empty convex sets in a real Banach space, one of them open, can be separated by a closed affine hyperplane. 
+The open convex set lies strictly on one side of the hyperplane, the second convex set lies on the other side but may touch the hyperplane.
+A subset $MATH$ in a Banach space $MATH$ is total if the linear span of $MATH$ is dense in $MATH$ The subset $MATH$ is total in $MATH$ if and only if the only continuous linear functional that vanishes on $MATH$ is the $MATH$ functional: this equivalence follows from the Hahn–Banach theorem.
+If $MATH$ is the direct sum of two closed linear subspaces $MATH$ and $MATH$ then the dual $MATH$ of $MATH$ is isomorphic to the direct sum of the duals of $MATH$ and $MATH$ 
+If $MATH$ is a closed linear subspace in $MATH$ one can associate the orthogonal of $MATH$ in the dual,
+The orthogonal $MATH$ is a closed linear subspace of the dual. The dual of $MATH$ is isometrically isomorphic to $MATH$ 
+The dual of $MATH$ is isometrically isomorphic to $MATH$
+The dual of a separable Banach space need not be separable, but:
+Theorem — Let $MATH$ be a normed space. If $MATH$ is separable, then $MATH$ is separable.
+When $MATH$ is separable, the above criterion for totality can be used for proving the existence of a countable total subset in $MATH$
+Weak topologies
+The weak topology on a Banach space $MATH$ is the coarsest topology on $MATH$ for which all elements $MATH$ in the continuous dual space $MATH$ are continuous. 
+The norm topology is therefore finer than the weak topology. 
+It follows from the Hahn–Banach separation theorem that the weak topology is Hausdorff, and that a norm-closed convex subset of a Banach space is also weakly closed. 
+A norm-continuous linear map between two Banach spaces $MATH$ and $MATH$ is also weakly continuous, that is, continuous from the weak topology of $MATH$ to that of $MATH$
+If $MATH$ is infinite-dimensional, there exist linear maps which are not continuous. The space $MATH$ of all linear maps from $MATH$ to the underlying field $MATH$ (this space $MATH$ is called the algebraic dual space, to distinguish it from $MATH$ also induces a topology on $MATH$ which is finer than the weak topology, and much less used in functional analysis.
+On a dual space $MATH$ there is a topology weaker than the weak topology of $MATH$ called weak* topology. 
+It is the coarsest topology on $MATH$ for which all evaluation maps $MATH$ where $MATH$ ranges over $MATH$ are continuous. 
+Its importance comes from the Banach–Alaoglu theorem.
+Banach–Alaoglu theorem — Let $MATH$ be a normed vector space. Then the closed unit ball $MATH$ of the dual space is compact in the weak* topology.
+The Banach–Alaoglu theorem can be proved using Tychonoff's theorem about infinite products of compact Hausdorff spaces. 
+When $MATH$ is separable, the unit ball $MATH$ of the dual is a metrizable compact in the weak* topology.
+Examples of dual spaces
+The dual of $MATH$ is isometrically isomorphic to $MATH$: for every bounded linear functional $MATH$ on $MATH$ there is a unique element $MATH$ such that
+The dual of $MATH$ is isometrically isomorphic to $MATH$. 
+The dual of Lebesgue space $MATH$ is isometrically isomorphic to $MATH$ when $MATH$ and $MATH$
+For every vector $MATH$ in a Hilbert space $MATH$ the mapping
+defines a continuous linear functional $MATH$ on $MATH$The Riesz representation theorem states that every continuous linear functional on $MATH$ is of the form $MATH$ for a uniquely defined vector $MATH$ in $MATH$
+The mapping $MATH$ is an antilinear isometric bijection from $MATH$ onto its dual $MATH$ 
+When the scalars are real, this map is an isometric isomorphism.
+When $MATH$ is a compact Hausdorff topological space, the dual $MATH$ of $MATH$ is the space of Radon measures in the sense of Bourbaki. 
+The subset $MATH$ of $MATH$ consisting of non-negative measures of mass 1 (probability measures) is a convex w*-closed subset of the unit ball of $MATH$ 
+The extreme points of $MATH$ are the Dirac measures on $MATH$ 
+The set of Dirac measures on $MATH$ equipped with the w*-topology, is homeomorphic to $MATH$
+Banach–Stone Theorem — If $MATH$ and $MATH$ are compact Hausdorff spaces and if $MATH$ and $MATH$ are isometrically isomorphic, then the topological spaces $MATH$ and $MATH$ are homeomorphic.
+The result has been extended by Amir and Cambern to the case when the multiplicative Banach–Mazur distance between $MATH$ and $MATH$ is $MATH$ 
+The theorem is no longer true when the distance is $MATH$
+In the commutative Banach algebra $MATH$ the maximal ideals are precisely kernels of Dirac measures on $MATH$
+More generally, by the Gelfand–Mazur theorem, the maximal ideals of a unital commutative Banach algebra can be identified with its characters—not merely as sets but as topological spaces: the former with the hull-kernel topology and the latter with the w*-topology. 
+In this identification, the maximal ideal space can be viewed as a w*-compact subset of the unit ball in the dual $MATH$
+Theorem — If $MATH$ is a compact Hausdorff space, then the maximal ideal space $MATH$ of the Banach algebra $MATH$ is homeomorphic to $MATH$
+Not every unital commutative Banach algebra is of the form $MATH$ for some compact Hausdorff space $MATH$ However, this statement holds if one places $MATH$ in the smaller category of commutative C*-algebras. 
+Gelfand's representation theorem for commutative C*-algebras states that every commutative unital C*-algebra $MATH$ is isometrically isomorphic to a $MATH$ space. 
+The Hausdorff compact space $MATH$ here is again the maximal ideal space, also called the spectrum of $MATH$ in the C*-algebra context.
+Bidual
+If $MATH$ is a normed space, the (continuous) dual $MATH$ of the dual $MATH$ is called bidual, or second dual of $MATH$ 
+For every normed space $MATH$ there is a natural map,
+This defines $MATH$ as a continuous linear functional on $MATH$ that is, an element of $MATH$ The map $MATH$ is a linear map from $MATH$ to $MATH$ 
+As a consequence of the existence of a norming functional $MATH$ for every $MATH$ this map $MATH$ is isometric, thus injective.
+For example, the dual of $MATH$ is identified with $MATH$ and the dual of $MATH$ is identified with $MATH$ the space of bounded scalar sequences. 
+Under these identifications, $MATH$ is the inclusion map from $MATH$ to $MATH$ It is indeed isometric, but not onto.
+If $MATH$ is surjective, then the normed space $MATH$ is called reflexive (see below). 
+Being the dual of a normed space, the bidual $MATH$ is complete, therefore, every reflexive normed space is a Banach space.
+Using the isometric embedding $MATH$ it is customary to consider a normed space $MATH$ as a subset of its bidual. 
+When $MATH$ is a Banach space, it is viewed as a closed linear subspace of $MATH$ If $MATH$ is not reflexive, the unit ball of $MATH$ is a proper subset of the unit ball of $MATH$ 
+The Goldstine theorem states that the unit ball of a normed space is weakly*-dense in the unit ball of the bidual. 
+In other words, for every $MATH$ in the bidual, there exists a net $MATH$ in $MATH$ so that
+The net may be replaced by a weakly*-convergent sequence when the dual $MATH$ is separable. 
+On the other hand, elements of the bidual of $MATH$ that are not in $MATH$ cannot be weak*-limit of sequences in $MATH$ since $MATH$ is weakly sequentially complete.
+Banach's theorems
+Here are the main general results about Banach spaces that go back to the time of Banach's book (Banach (1932)) and are related to the Baire category theorem. 
+According to this theorem, a complete metric space (such as a Banach space, a Fréchet space or an F-space) cannot be equal to a union of countably many closed subsets with empty interiors. 
+Therefore, a Banach space cannot be the union of countably many closed subspaces, unless it is already equal to one of them; a Banach space with a countable Hamel basis is finite-dimensional.
+Banach–Steinhaus Theorem — Let $MATH$ be a Banach space and $MATH$ be a normed vector space. Suppose that $MATH$ is a collection of continuous linear operators from $MATH$ to $MATH$ The uniform boundedness principle states that if for all $MATH$ in $MATH$ we have $MATH$ then $MATH$
+The Banach–Steinhaus theorem is not limited to Banach spaces. 
+It can be extended for example to the case where $MATH$ is a Fréchet space, provided the conclusion is modified as follows: under the same hypothesis, there exists a neighborhood $MATH$ of $MATH$ in $MATH$ such that all $MATH$ in $MATH$ are uniformly bounded on $MATH$
+The Open Mapping Theorem — Let $MATH$ and $MATH$ be Banach spaces and $MATH$ be a surjective continuous linear operator, then $MATH$ is an open map.
+Corollary — Every one-to-one bounded linear operator from a Banach space onto a Banach space is an isomorphism.
+The First Isomorphism Theorem for Banach spaces — Suppose that $MATH$ and $MATH$ are Banach spaces and that $MATH$ Suppose further that the range of $MATH$ is closed in $MATH$ Then $MATH$ is isomorphic to $MATH$
+This result is a direct consequence of the preceding Banach isomorphism theorem and of the canonical factorization of bounded linear maps.
+Corollary — If a Banach space $MATH$ is the internal direct sum of closed subspaces $MATH$ then $MATH$ is isomorphic to $MATH$
+This is another consequence of Banach's isomorphism theorem, applied to the continuous bijection from $MATH$ onto $MATH$ sending $MATH$ to the sum $MATH$
+The Closed Graph Theorem — Let $MATH$ be a linear mapping between Banach spaces. The graph of $MATH$ is closed in $MATH$ if and only if $MATH$ is continuous.
+Reflexivity
+The normed space $MATH$ is called reflexive when the natural map
+is surjective. Reflexive normed spaces are Banach spaces.
+Theorem — If $MATH$ is a reflexive Banach space, every closed subspace of $MATH$ and every quotient space of $MATH$ are reflexive.
+This is a consequence of the Hahn–Banach theorem. 
+Further, by the open mapping theorem, if there is a bounded linear operator from the Banach space $MATH$ onto the Banach space $MATH$ then $MATH$ is reflexive.
+Theorem — If $MATH$ is a Banach space, then $MATH$ is reflexive if and only if $MATH$ is reflexive.
+Corollary — Let $MATH$ be a reflexive Banach space. Then $MATH$ is separable if and only if $MATH$ is separable.
+Indeed, if the dual $MATH$ of a Banach space $MATH$ is separable, then $MATH$ is separable. 
+If $MATH$ is reflexive and separable, then the dual of $MATH$ is separable, so $MATH$ is separable.
+Theorem — Suppose that $MATH$ are normed spaces and that $MATH$ Then $MATH$ is reflexive if and only if each $MATH$ is reflexive.
+Hilbert spaces are reflexive. The $MATH$ spaces are reflexive when $MATH$ More generally, uniformly convex spaces are reflexive, by the Milman–Pettis theorem. 
+The spaces $MATH$ are not reflexive. 
+In these examples of non-reflexive spaces $MATH$ the bidual $MATH$ is "much larger" than $MATH$ 
+Namely, under the natural isometric embedding of $MATH$ into $MATH$ given by the Hahn–Banach theorem, the quotient $MATH$ is infinite-dimensional, and even nonseparable. 
+However, Robert C. James has constructed an example of a non-reflexive space, usually called "the James space" and denoted by $MATH$ such that the quotient $MATH$ is one-dimensional. 
+Furthermore, this space $MATH$ is isometrically isomorphic to its bidual.
+Theorem — A Banach space $MATH$ is reflexive if and only if its unit ball is compact in the weak topology.
+When $MATH$ is reflexive, it follows that all closed and bounded convex subsets of $MATH$ are weakly compact. 
+In a Hilbert space $MATH$ the weak compactness of the unit ball is very often used in the following way: every bounded sequence in $MATH$ has weakly convergent subsequences.
+Weak compactness of the unit ball provides a tool for finding solutions in reflexive spaces to certain optimization problems. 
+For example, every convex continuous function on the unit ball $MATH$ of a reflexive space attains its minimum at some point in $MATH$
+As a special case of the preceding result, when $MATH$ is a reflexive space over $MATH$ every continuous linear functional $MATH$ in $MATH$ attains its maximum $MATH$ on the unit ball of $MATH$ 
+The following theorem of Robert C. James provides a converse statement.
+James' Theorem — For a Banach space the following two properties are equivalent:
+The theorem can be extended to give a characterization of weakly compact convex sets.
+On every non-reflexive Banach space $MATH$ there exist continuous linear functionals that are not norm-attaining. 
+However, the Bishop–Phelps theorem states that norm-attaining functionals are norm dense in the dual $MATH$ of $MATH$
+Weak convergences of sequences
+A sequence $MATH$ in a Banach space $MATH$ is weakly convergent to a vector $MATH$ if $MATH$ converges to $MATH$ for every continuous linear functional $MATH$ in the dual $MATH$ The sequence $MATH$ is a weakly Cauchy sequence if $MATH$ converges to a scalar limit $MATH$ for every $MATH$ in $MATH$ 
+A sequence $MATH$ in the dual $MATH$ is weakly* convergent to a functional $MATH$ if $MATH$ converges to $MATH$ for every $MATH$ in $MATH$ 
+Weakly Cauchy sequences, weakly convergent and weakly* convergent sequences are norm bounded, as a consequence of the Banach–Steinhaus theorem.
+When the sequence $MATH$ in $MATH$ is a weakly Cauchy sequence, the limit $MATH$ above defines a bounded linear functional on the dual $MATH$ that is, an element $MATH$ of the bidual of $MATH$ and $MATH$ is the limit of $MATH$ in the weak*-topology of the bidual. 
+The Banach space $MATH$ is weakly sequentially complete if every weakly Cauchy sequence is weakly convergent in $MATH$ 
+It follows from the preceding discussion that reflexive spaces are weakly sequentially complete.
+Theorem  — For every measure $MATH$ the space $MATH$ is weakly sequentially complete.
+An orthonormal sequence in a Hilbert space is a simple example of a weakly convergent sequence, with limit equal to the $MATH$ vector. 
+The unit vector basis of $MATH$ for $MATH$ or of $MATH$ is another example of a weakly null sequence, that is, a sequence that converges weakly to $MATH$ 
+For every weakly null sequence in a Banach space, there exists a sequence of convex combinations of vectors from the given sequence that is norm-converging to $MATH$
+The unit vector basis of $MATH$ is not weakly Cauchy. 
+Weakly Cauchy sequences in $MATH$ are weakly convergent, since $MATH$-spaces are weakly sequentially complete. 
+Actually, weakly convergent sequences in $MATH$ are norm convergent. This means that $MATH$ satisfies Schur's property.
+Results involving the $MATH$ basis
+Weakly Cauchy sequences and the $MATH$ basis are the opposite cases of the dichotomy established in the following deep result of H. P. Rosenthal.
+Theorem — Let $MATH$ be a bounded sequence in a Banach space. Either $MATH$ has a weakly Cauchy subsequence, or it admits a subsequence equivalent to the standard unit vector basis of $MATH$
+A complement to this result is due to Odell and Rosenthal (1975).
+Theorem — Let $MATH$ be a separable Banach space. The following are equivalent:
+By the Goldstine theorem, every element of the unit ball $MATH$ of $MATH$ is weak*-limit of a net in the unit ball of $MATH$ When $MATH$ does not contain $MATH$ every element of $MATH$ is weak*-limit of a sequence in the unit ball of $MATH$
+When the Banach space $MATH$ is separable, the unit ball of the dual $MATH$ equipped with the weak*-topology, is a metrizable compact space $MATH$ and every element $MATH$ in the bidual $MATH$ defines a bounded function on $MATH$:
+This function is continuous for the compact topology of $MATH$ if and only if $MATH$ is actually in $MATH$ considered as subset of $MATH$ 
+Assume in addition for the rest of the paragraph that $MATH$ does not contain $MATH$ 
+By the preceding result of Odell and Rosenthal, the function $MATH$ is the pointwise limit on $MATH$ of a sequence $MATH$ of continuous functions on $MATH$ it is therefore a first Baire class function on $MATH$ 
+The unit ball of the bidual is a pointwise compact subset of the first Baire class on $MATH$
+Sequences, weak and weak* compactness
+When $MATH$ is separable, the unit ball of the dual is weak*-compact by the Banach–Alaoglu theorem and metrizable for the weak* topology, hence every bounded sequence in the dual has weakly* convergent subsequences. 
+This applies to separable reflexive spaces, but more is true in this case, as stated below.
+The weak topology of a Banach space $MATH$ is metrizable if and only if $MATH$ is finite-dimensional. If the dual $MATH$ is separable, the weak topology of the unit ball of $MATH$ is metrizable. 
+This applies in particular to separable reflexive Banach spaces. 
+Although the weak topology of the unit ball is not metrizable in general, one can characterize weak compactness using sequences.
+Eberlein–Šmulian theorem — A set $MATH$ in a Banach space is relatively weakly compact if and only if every sequence $MATH$ in $MATH$ has a weakly convergent subsequence.
+A Banach space $MATH$ is reflexive if and only if each bounded sequence in $MATH$ has a weakly convergent subsequence.
+A weakly compact subset $MATH$ in $MATH$ is norm-compact. Indeed, every sequence in $MATH$ has weakly convergent subsequences by Eberlein–Šmulian, that are norm convergent by the Schur property of $MATH$
+Schauder bases
+A Schauder basis in a Banach space $MATH$ is a sequence $MATH$ of vectors in $MATH$ with the property that for every vector $MATH$ there exist uniquely defined scalars $MATH$ depending on $MATH$ such that
+Banach spaces with a Schauder basis are necessarily separable, because the countable set of finite linear combinations with rational coefficients (say) is dense.
+It follows from the Banach–Steinhaus theorem that the linear mappings $MATH$ are uniformly bounded by some constant $MATH$ 
+Let $MATH$ denote the coordinate functionals which assign to every $MATH$ in $MATH$ the coordinate $MATH$ of $MATH$ in the above expansion. 
+They are called biorthogonal functionals. When the basis vectors have norm $MATH$ the coordinate functionals $MATH$ have norm $MATH$ in the dual of $MATH$
+Most classical separable spaces have explicit bases. 
+The Haar system $MATH$ is a basis for $MATH$  
+The trigonometric system is a basis in $MATH$ when $MATH$ 
+The Schauder system is a basis in the space $MATH$ 
+The question of whether the disk algebra $MATH$ has a basis remained open for more than forty years, until Bočkarev showed in 1974 that $MATH$ admits a basis constructed from the Franklin system.
+Since every vector $MATH$ in a Banach space $MATH$ with a basis is the limit of $MATH$ with $MATH$ of finite rank and uniformly bounded, the space $MATH$ satisfies the bounded approximation property. 
+The first example by Enflo of a space failing the approximation property was at the same time the first example of a separable Banach space without a Schauder basis.
+Robert C. James characterized reflexivity in Banach spaces with a basis: the space $MATH$ with a Schauder basis is reflexive if and only if the basis is both shrinking and boundedly complete. 
+In this case, the biorthogonal functionals form a basis of the dual of $MATH$
+Tensor product
+Let $MATH$ and $MATH$ be two $MATH$-vector spaces. The tensor product $MATH$ of $MATH$ and $MATH$ is a $MATH$-vector space $MATH$ with a bilinear mapping $MATH$ which has the following universal property:
+The image under $MATH$ of a couple $MATH$ in $MATH$ is denoted by $MATH$ and called a simple tensor. 
+Every element $MATH$ in $MATH$ is a finite sum of such simple tensors.
+There are various norms that can be placed on the tensor product of the underlying vector spaces, amongst others the projective cross norm and injective cross norm introduced by A. Grothendieck in 1955.
+In general, the tensor product of complete spaces is not complete again. When working with Banach spaces, it is customary to say that the projective tensor product of two Banach spaces $MATH$ and $MATH$ is the completion $MATH$ of the algebraic tensor product $MATH$ equipped with the projective tensor norm, and similarly for the injective tensor product $MATH$ 
+Grothendieck proved in particular that
+where $MATH$ is a compact Hausdorff space, $MATH$ the Banach space of continuous functions from $MATH$ to $MATH$ and $MATH$ the space of Bochner-measurable and integrable functions from $MATH$ to $MATH$ and where the isomorphisms are isometric. 
+The two isomorphisms above are the respective extensions of the map sending the tensor $MATH$ to the vector-valued function $MATH$
+Tensor products and the approximation property
+Let $MATH$ be a Banach space. The tensor product $MATH$ is identified isometrically with the closure in $MATH$ of the set of finite rank operators. 
+When $MATH$ has the approximation property, this closure coincides with the space of compact operators on $MATH$
+For every Banach space $MATH$ there is a natural norm $MATH$ linear map
+obtained by extending the identity map of the algebraic tensor product. Grothendieck related the approximation problem to the question of whether this map is one-to-one when $MATH$ is the dual of $MATH$
+Precisely, for every Banach space $MATH$ the map
+is one-to-one if and only if $MATH$ has the approximation property.
+Grothendieck conjectured that $MATH$ and $MATH$ must be different whenever $MATH$ and $MATH$ are infinite-dimensional Banach spaces. 
+This was disproved by Gilles Pisier in 1983. 
+Pisier constructed an infinite-dimensional Banach space $MATH$ such that $MATH$ and $MATH$ are equal. Furthermore, just as Enflo's example, this space $MATH$ is a "hand-made" space that fails to have the approximation property. On the other hand, Szankowski proved that the classical space $MATH$ does not have the approximation property.
+Some classification results
+Characterizations of Hilbert space among Banach spaces
+A necessary and sufficient condition for the norm of a Banach space $MATH$ to be associated to an inner product is the parallelogram identity:
+Parallelogram identity — for all $MATH$
+It follows, for example, that the Lebesgue space $MATH$ is a Hilbert space only when $MATH$ 
+If this identity is satisfied, the associated inner product is given by the polarization identity. In the case of real scalars, this gives:
+For complex scalars, defining the inner product so as to be $MATH$-linear in $MATH$ antilinear in $MATH$ the polarization identity gives:
+To see that the parallelogram law is sufficient, one observes in the real case that $MATH$ is symmetric, and in the complex case, that it satisfies the Hermitian symmetry property and $MATH$ The parallelogram law implies that $MATH$ is additive in $MATH$ 
+It follows that it is linear over the rationals, thus linear by continuity.
+Several characterizations of spaces isomorphic (rather than isometric) to Hilbert spaces are available. 
+The parallelogram law can be extended to more than two vectors, and weakened by the introduction of a two-sided inequality with a constant $MATH$: Kwapień proved that if
+for every integer $MATH$ and all families of vectors$MATH$ then the Banach space $MATH$ is isomorphic to a Hilbert space. 
+Here, $MATH$ denotes the average over the $MATH$ possible choices of signs $MATH$
+In the same article, Kwapień proved that the validity of a Banach-valued Parseval's theorem for the Fourier transform characterizes Banach spaces isomorphic to Hilbert spaces.
+Lindenstrauss and Tzafriri proved that a Banach space in which every closed linear subspace is complemented (that is, is the range of a bounded linear projection) is isomorphic to a Hilbert space. The proof rests upon Dvoretzky's theorem about Euclidean sections of high-dimensional centrally symmetric convex bodies. In other words, Dvoretzky's theorem states that for every integer $MATH$ any finite-dimensional normed space, with dimension sufficiently large compared to $MATH$ contains subspaces nearly isometric to the $MATH$-dimensional Euclidean space.
+The next result gives the solution of the so-called homogeneous space problem. An infinite-dimensional Banach space $MATH$ is said to be homogeneous if it is isomorphic to all its infinite-dimensional closed subspaces. A Banach space isomorphic to $MATH$ is homogeneous, and Banach asked for the converse.
+Theorem — A Banach space isomorphic to all its infinite-dimensional closed subspaces is isomorphic to a separable Hilbert space.
+An infinite-dimensional Banach space is hereditarily indecomposable when no subspace of it can be isomorphic to the direct sum of two infinite-dimensional Banach spaces. 
+The Gowers dichotomy theorem asserts that every infinite-dimensional Banach space $MATH$ contains, either a subspace $MATH$ with unconditional basis, or a hereditarily indecomposable subspace $MATH$ and in particular, $MATH$ is not isomorphic to its closed hyperplanes. 
+If $MATH$ is homogeneous, it must therefore have an unconditional basis. It follows then from the partial solution obtained by Komorowski and Tomczak–Jaegermann, for spaces with an unconditional basis, that $MATH$ is isomorphic to $MATH$
+Metric classification
+If $MATH$ is an isometry from the Banach space $MATH$ onto the Banach space $MATH$ (where both $MATH$ and $MATH$ are vector spaces over $MATH$), then the Mazur–Ulam theorem states that $MATH$ must be an affine transformation. 
+In particular, if $MATH$ this is $MATH$ maps the zero of $MATH$ to the zero of $MATH$ then $MATH$ must be linear. This result implies that the metric in Banach spaces, and more generally in normed spaces, completely captures their linear structure.
+Topological classification
+Finite dimensional Banach spaces are homeomorphic as topological spaces, if and only if they have the same dimension as real vector spaces.
+Anderson–Kadec theorem (1965–66) proves that any two infinite-dimensional separable Banach spaces are homeomorphic as topological spaces. Kadec's theorem was extended by Torunczyk, who proved that any two Banach spaces are homeomorphic if and only if  they have the same density character, the minimum cardinality of a dense subset.
+Spaces of continuous functions
+When two compact Hausdorff spaces $MATH$ and $MATH$ are homeomorphic, the Banach spaces $MATH$ and $MATH$ are isometric. Conversely, when $MATH$ is not homeomorphic to $MATH$ the (multiplicative) Banach–Mazur distance between $MATH$ and $MATH$ must be greater than or equal to $MATH$ see above the results by Amir and Cambern. 
+Although uncountable compact metric spaces can have different homeomorphy types, one has the following result due to Milutin:
+Theorem — Let $MATH$ be an uncountable compact metric space. Then $MATH$ is isomorphic to  $MATH$
+The situation is different for countably infinite compact Hausdorff spaces. 
+Every countably infinite compact $MATH$ is homeomorphic to some closed interval of ordinal numbers
+equipped with the order topology, where $MATH$ is a countably infinite ordinal. 
+The Banach space $MATH$ is then isometric to C(⟨1, α⟩). When $MATH$ are two countably infinite ordinals, and assuming $MATH$ the spaces C(⟨1, α⟩) and C(⟨1, β⟩) are isomorphic if and only if β < αω.
+For example, the Banach spaces
+are mutually non-isomorphic.
+Examples
+Glossary of symbols for the table below:
+Derivatives
+Several concepts of a derivative may be defined on a Banach space. See the articles on the Fréchet derivative and the Gateaux derivative for details. 
+The Fréchet derivative allows for an extension of the concept of a total derivative to Banach spaces. The Gateaux derivative allows for an extension of a directional derivative to locally convex topological vector spaces. 
+Fréchet differentiability is a stronger condition than Gateaux differentiability. 
+The quasi-derivative is another generalization of directional derivative that implies a stronger condition than Gateaux differentiability, but a weaker condition than Fréchet differentiability.
+Generalizations
+Several important spaces in functional analysis, for instance the space of all infinitely often differentiable functions $MATH$ or the space of all distributions on $MATH$ are complete but are not normed vector spaces and hence not Banach spaces. 
+In Fréchet spaces one still has a complete metric, while LF-spaces are complete uniform vector spaces arising as limits of Fréchet spaces.
+See also
+Notes

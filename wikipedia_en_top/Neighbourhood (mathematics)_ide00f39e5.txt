@@ -1,0 +1,36 @@
+Neighbourhood (mathematics)
+In topology and related areas of mathematics, a neighbourhood (or neighborhood) is one of the basic concepts in a topological space. It is closely related to the concepts of open set and interior. Intuitively speaking, a neighbourhood of a point is a set of points containing that point where one can move some amount in any direction away from that point without leaving the set.
+Definitions
+Neighbourhood of a point
+If $MATH$ is a topological space and $MATH$ is a point in $MATH$ then a neighbourhood of $MATH$ is a subset $MATH$ of $MATH$ that includes an open set $MATH$ containing $MATH$,
+This is also equivalent to the point $MATH$ belonging to the topological interior of $MATH$ in $MATH$
+The neighbourhood $MATH$ need not be an open subset $MATH$ but when $MATH$ is open in $MATH$ then it is called an open neighbourhood. Some authors have been known to require neighbourhoods to be open, so it is important to note conventions.
+A set that is a neighbourhood of each of its points is open since it can be expressed as the union of open sets containing each of its points. A closed rectangle, as illustrated in the figure, is not a neighbourhood of all its points; points on the edges or corners of the rectangle are not contained in any open set that is contained within the rectangle.
+The collection of all neighbourhoods of a point is called the neighbourhood system at the point.
+Neighbourhood of a set
+
+
+If $MATH$ is a subset of a topological space $MATH$, then a neighbourhood of $MATH$ is a set $MATH$ that includes an open set $MATH$ containing $MATH$,
+It follows that a set $MATH$ is a neighbourhood of $MATH$ if and only if it is a neighbourhood of all the points in $MATH$ Furthermore, $MATH$ is a neighbourhood of $MATH$ if and only if $MATH$ is a subset of the interior of $MATH$
+A neighbourhood of $MATH$ that is also an open subset of $MATH$ is called an open neighbourhood of $MATH$
+The neighbourhood of a point is just a special case of this definition.
+In a metric space
+In a metric space $MATH$ a set $MATH$ is a neighbourhood of a point $MATH$ if there exists an open ball with center $MATH$ and radius $MATH$ such that
+is contained in $MATH$
+$MATH$ is called uniform neighbourhood of a set $MATH$ if there exists a positive number $MATH$ such that for all elements $MATH$ of $MATH$
+is contained in $MATH$
+
+
+For $MATH$ the $MATH$-neighbourhood $MATH$ of a set $MATH$ is the set of all points in $MATH$ that are at distance less than $MATH$ from $MATH$ (or equivalently, $MATH$ is the union of all the open balls of radius $MATH$ that are centered at a point in $MATH$): 
+It directly follows that an $MATH$-neighbourhood is a uniform neighbourhood, and that a set is a uniform neighbourhood if and only if it contains an $MATH$-neighbourhood for some value of $MATH$
+Examples
+Given the set of real numbers $MATH$ with the usual Euclidean metric and a subset $MATH$ defined as
+then $MATH$ is a neighbourhood for the set $MATH$ of natural numbers, but is not a uniform neighbourhood of this set.
+Topology from neighbourhoods
+The above definition is useful if the notion of open set is already defined. There is an alternative way to define a topology, by first defining the neighbourhood system, and then open sets as those sets containing a neighbourhood of each of their points.
+A neighbourhood system on $MATH$ is the assignment of a filter $MATH$ of subsets of $MATH$ to each $MATH$ in $MATH$ such that
+One can show that both definitions are compatible, that is, the topology obtained from the neighbourhood system defined using open sets is the original one, and vice versa when starting out from a neighbourhood system.
+Uniform neighbourhoods
+In a uniform space $MATH$ $MATH$ is called a uniform neighbourhood of $MATH$ if there exists an entourage $MATH$ such that $MATH$ contains all points of $MATH$ that are $MATH$-close to some point of $MATH$ that is, $MATH$ for all $MATH$
+Deleted neighbourhood
+A deleted neighbourhood of a point $MATH$ (sometimes called a punctured neighbourhood) is a neighbourhood of $MATH$ without $MATH$ For instance, the interval $MATH$ is a neighbourhood of $MATH$ in the real line, so the set $MATH$ is a deleted neighbourhood of $MATH$ A deleted neighbourhood of a given point is not in fact a neighbourhood of the point. The concept of deleted neighbourhood occurs in the definition of the limit of a function and in the definition of limit points (among other things).

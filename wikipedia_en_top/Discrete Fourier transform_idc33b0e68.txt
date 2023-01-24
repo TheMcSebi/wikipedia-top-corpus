@@ -1,0 +1,187 @@
+Discrete Fourier transform
+In mathematics, the discrete Fourier transform (DFT) converts a finite sequence of equally-spaced samples of a function into a same-length sequence of equally-spaced samples of the discrete-time Fourier transform (DTFT), which is a complex-valued function of frequency. The interval at which the DTFT is sampled is the reciprocal of the duration of the input sequence.  An inverse DFT is a Fourier series, using the DTFT samples as coefficients of complex sinusoids at the corresponding DTFT frequencies.  It has the same sample-values as the original input sequence.  The DFT is therefore said to be a frequency domain representation of the original input sequence.  If the original sequence spans all the non-zero values of a function, its DTFT is continuous (and periodic), and the DFT provides discrete samples of one cycle.  If the original sequence is one cycle of a periodic function, the DFT provides all the non-zero values of one DTFT cycle.
+The DFT is the most important discrete transform, used to perform Fourier analysis in many practical applications. In digital signal processing, the function is any quantity or signal that varies over time, such as the pressure of a sound wave, a radio signal, or daily temperature readings, sampled over a finite time interval (often defined by a window function). In image processing, the samples can be the values of pixels along a row or column of a raster image. The DFT is also used to efficiently solve partial differential equations, and to perform other operations such as convolutions or multiplying large integers.
+Since it deals with a finite amount of data, it can be implemented in computers by numerical algorithms or even dedicated hardware. These implementations usually employ efficient fast Fourier transform (FFT) algorithms; so much so that the terms "FFT" and "DFT" are often used interchangeably.  Prior to its current usage, the "FFT" initialism may have also been used for the ambiguous term "finite Fourier transform".
+Definition
+The discrete Fourier transform transforms a sequence of N complex numbers $MATH$ into another sequence of complex numbers,  $MATH$ which is defined by
+where the last expression follows from the first one by Euler's formula.
+The transform is sometimes denoted by the symbol $MATH$, as in $MATH$ or $MATH$ or $MATH$.
+Motivation
+Eq.1 can also be evaluated outside the domain $MATH$, and that extended sequence is $MATH$-periodic. Accordingly, other sequences of $MATH$ indices are sometimes used,  such as $MATH$ (if $MATH$ is even) and $MATH$ (if $MATH$ is odd), which amounts to swapping the left and right halves of the result of the transform.
+Eq.1 can be interpreted or derived in various ways, for example:
+The normalization factor multiplying the DFT and IDFT (here 1 and $MATH$) and the signs of the exponents are merely conventions, and differ in some treatments. The only requirements of these conventions are that the DFT and IDFT have opposite-sign exponents and that the product of their normalization factors be $MATH$. A normalization of $MATH$ for both the DFT and IDFT, for instance, makes the transforms unitary. A discrete impulse, $MATH$ at n = 0 and 0 otherwise; might transform to $MATH$ for all k (use normalization factors 1 for DFT and $MATH$ for IDFT). A DC signal, $MATH$ at k = 0 and 0 otherwise; might inversely transform to $MATH$ for all $MATH$ (use $MATH$ for DFT and 1 for IDFT) which is consistent with viewing DC as the mean average of the signal.
+Example
+This example demonstrates how to apply the DFT to a sequence of length $MATH$ and the input vector
+$MATH$
+Calculating the DFT of $MATH$ using Eq.1
+$MATH$
+$MATH$
+$MATH$
+$MATH$
+results in
+$MATH$
+Inverse transform
+The discrete Fourier transform is an invertible, linear transformation
+with $MATH$ denoting the set of complex numbers. Its inverse is known as Inverse Discrete Fourier Transform (IDFT). In other words, for any $MATH$, an N-dimensional complex vector has a DFT and an IDFT which are in turn $MATH$-dimensional complex vectors.
+The inverse transform is given by:
+Properties
+Linearity
+The DFT is a linear transform, i.e. if $MATH$ and $MATH$, then for any complex numbers $MATH$:
+Time and frequency reversal
+Reversing the time (i.e. replacing $MATH$ by $MATH$) in $MATH$ corresponds to reversing the frequency (i.e. $MATH$ by $MATH$).: p.421  Mathematically, if $MATH$ represents the vector x then
+Conjugation in time
+If $MATH$ then $MATH$.: p.423 
+Real and imaginary part
+This table shows some mathematical operations on $MATH$ in the time domain and the corresponding effects on its DFT $MATH$ in the frequency domain.
+Orthogonality
+The vectors $MATH$ form an orthogonal basis over the set of N-dimensional complex vectors:
+where $MATH$ is the Kronecker delta. (In the last step, the summation is trivial if $MATH$, where it is 1 + 1 + ⋯ = N, and otherwise is a geometric series that can be explicitly summed to obtain zero.)  This orthogonality condition can be used to derive the formula for the IDFT from the definition of the DFT, and is equivalent to the unitarity property below.
+The Plancherel theorem and Parseval's theorem
+If $MATH$ and $MATH$ are the DFTs of $MATH$ and $MATH$ respectively then the Parseval's theorem states:
+where the star denotes complex conjugation.  Plancherel theorem is a special case of the Parseval's theorem and states:
+These theorems are also equivalent to the unitary condition below.
+Periodicity
+The periodicity can be shown directly from the definition:
+Similarly, it can be shown that the IDFT formula leads to a periodic extension.
+Shift theorem
+Multiplying $MATH$ by a linear phase $MATH$ for some integer m corresponds to a circular shift of the output $MATH$: $MATH$ is replaced by $MATH$, where the subscript is interpreted modulo N (i.e., periodically).  Similarly, a circular shift of the input $MATH$ corresponds to multiplying the output $MATH$ by a linear phase. Mathematically, if $MATH$ represents the vector x then
+Circular convolution theorem and cross-correlation theorem
+
+
+The convolution theorem for the discrete-time Fourier transform (DTFT) indicates that a convolution of two sequences can be obtained as the inverse transform of the product of the individual transforms. An important simplification occurs when one of sequences is N-periodic, denoted here by $MATH$ because $MATH$ is non-zero at only discrete frequencies (see DTFT § Periodic data), and therefore so is its product with the continuous function $MATH$  That leads to a considerable simplification of the inverse transform.
+where $MATH$ is a periodic summation of the $MATH$ sequence: $MATH$
+Customarily, the DFT and inverse DFT summations are taken over the domain $MATH$. Defining those DFTs as $MATH$ and $MATH$, the result is:
+In practice, the $MATH$ sequence is usually length N or less, and $MATH$ is a periodic extension of an N-length $MATH$-sequence, which can also be expressed as a circular function:
+Then the convolution can be written as:
+$MATH$
+which gives rise to the interpretation as a circular convolution of $MATH$ and $MATH$ It is often used to efficiently compute their linear convolution. (see Circular convolution, Fast convolution algorithms, and Overlap-save)
+Similarly, the cross-correlation of $MATH$ and $MATH$ is given by:
+
+
+It has been shown  that any linear transform that turns convolution into pointwise product is the DFT (up to a permutation of coefficients).
+Convolution theorem duality
+It can also be shown that:
+Trigonometric interpolation polynomial
+The trigonometric interpolation polynomial
+where the coefficients Xk are given by the DFT of xn above, satisfies the interpolation property $MATH$ for $MATH$.
+For even N, notice that the Nyquist component $MATH$ is handled specially.
+This interpolation is not unique: aliasing implies that one could add N to any of the complex-sinusoid frequencies (e.g. changing $MATH$ to $MATH$) without changing the interpolation property, but giving different values in between the $MATH$ points.  The choice above, however, is typical because it has two useful properties.  First, it consists of sinusoids whose frequencies have the smallest possible magnitudes: the interpolation is bandlimited. Second, if the  $MATH$ are real numbers, then $MATH$ is real as well.
+In contrast, the most obvious trigonometric interpolation polynomial is the one in which the frequencies range from 0 to $MATH$ (instead of roughly $MATH$ to $MATH$ as above), similar to the inverse DFT formula. This interpolation does not minimize the slope, and is not generally real-valued for real $MATH$; its use is a common mistake.
+The unitary DFT
+Another way of looking at the DFT is to note that in the above discussion, the DFT can be expressed as the DFT matrix, a Vandermonde matrix, 
+introduced by Sylvester in 1867,
+where $MATH$ is a primitive Nth root of unity.
+The inverse transform is then given by the inverse of the above matrix,
+With unitary normalization constants $MATH$, the DFT becomes a unitary transformation, defined by a unitary matrix:
+where $MATH$ is the determinant function. The determinant is the product of the eigenvalues, which are always $MATH$ or $MATH$ as described below.  In a real vector space, a unitary transformation can be thought of as simply a rigid rotation of the coordinate system, and all of the properties of a rigid rotation can be found in the unitary DFT.
+The orthogonality of the DFT is now expressed as an orthonormality condition (which arises in many areas of mathematics as described in root of unity):
+If X  is defined as the unitary DFT of the vector x, then
+and the Parseval's theorem is expressed as
+If we view the DFT as just a coordinate transformation which simply specifies the components of a vector in a new coordinate system, then the above is just the statement that the dot product of two vectors is preserved under a unitary DFT transformation. For the special case $MATH$, this implies that the length of a vector is preserved as well — this is just Plancherel theorem,
+A consequence of the circular convolution theorem is that the DFT matrix F diagonalizes any circulant matrix.
+Expressing the inverse DFT in terms of the DFT
+A useful property of the DFT is that the inverse DFT can be easily expressed in terms of the (forward) DFT, via several well-known "tricks".  (For example, in computations, it is often convenient to only implement a fast Fourier transform corresponding to one transform direction and then to get the other transform direction from the first.)
+First, we can compute the inverse DFT by reversing all but one of the inputs (Duhamel et al., 1988):
+(As usual, the subscripts are interpreted modulo N; thus, for $MATH$, we have $MATH$.)
+Second, one can also conjugate the inputs and outputs:
+Third, a variant of this conjugation trick, which is sometimes preferable because it requires no modification of the data values, involves swapping real and imaginary parts (which can be done on a computer simply by modifying pointers). Define $MATH$ as $MATH$ with its real and imaginary parts swapped—that is, if $MATH$ then $MATH$ is $MATH$.  Equivalently, $MATH$ equals $MATH$.  Then
+That is, the inverse transform is the same as the forward transform with the real and imaginary parts swapped for both input and output, up to a normalization (Duhamel et al., 1988).
+The conjugation trick can also be used to define a new transform, closely related to the DFT, that is involutory—that is, which is its own inverse.  In particular, $MATH$ is clearly its own inverse: $MATH$.  A closely related involutory transformation (by a factor of $MATH$) is $MATH$, since the $MATH$ factors in $MATH$ cancel the 2.  For real inputs $MATH$, the real part of $MATH$ is none other than the discrete Hartley transform, which is also involutory.
+Eigenvalues and eigenvectors
+The eigenvalues of the DFT matrix are simple and well-known, whereas the eigenvectors are complicated, not unique, and are the subject of ongoing research.
+Consider the unitary form $MATH$ defined above for the DFT of length N, where
+This matrix satisfies the matrix polynomial equation:
+This can be seen from the inverse properties above: operating $MATH$ twice gives the original data in reverse order, so operating $MATH$ four times gives back the original data and is thus the identity matrix.  This means that the eigenvalues $MATH$ satisfy the equation:
+Therefore, the eigenvalues of $MATH$ are the fourth roots of unity: $MATH$ is +1, −1, +i,  or −i.
+Since there are only four distinct eigenvalues for this $MATH$ matrix, they have some multiplicity.  The multiplicity gives the number of linearly independent eigenvectors corresponding to each eigenvalue.  (There are N independent eigenvectors; a unitary matrix is never defective.)
+The problem of their multiplicity was solved by McClellan and Parks (1972), although it was later shown to have been equivalent to a problem solved by Gauss (Dickinson and Steiglitz, 1982).  The multiplicity depends on the value of N modulo 4, and is given by the following table:
+Otherwise stated, the characteristic polynomial of $MATH$ is:
+No simple analytical formula for general eigenvectors is known.   Moreover, the eigenvectors are not unique because any linear combination of eigenvectors for the same eigenvalue is also an eigenvector for that eigenvalue.  Various researchers have proposed different choices of eigenvectors, selected to satisfy useful properties like orthogonality and to have "simple" forms (e.g., McClellan and Parks, 1972; Dickinson and Steiglitz, 1982; Grünbaum, 1982; Atakishiyev and Wolf, 1997; Candan et al., 2000; Hanna et al., 2004; Gurevich and Hadani, 2008).
+A straightforward approach is to discretize an eigenfunction of the continuous Fourier transform,
+of which the most famous is the Gaussian function.
+Since periodic summation of the function means discretizing its frequency spectrum
+and discretization means periodic summation of the spectrum,
+the discretized and periodically summed Gaussian function yields an eigenvector of the discrete transform:
+The closed form expression for the series can be expressed by Jacobi theta functions as
+Two other simple closed-form analytical eigenvectors for special DFT period N were found (Kong, 2008):
+For DFT period N = 2L + 1 = 4K + 1, where K is an integer, the following is an eigenvector of DFT:
+For DFT period N = 2L = 4K, where K is an integer, the following is an eigenvector of DFT:
+The choice of eigenvectors of the DFT matrix has become important in recent years in order to define a discrete analogue of the fractional Fourier transform—the DFT matrix can be taken to fractional powers by exponentiating the eigenvalues (e.g., Rubio and Santhanam, 2005).  For the continuous Fourier transform, the natural orthogonal eigenfunctions are the Hermite functions, so various discrete analogues of these have been employed as the eigenvectors of the DFT, such as the Kravchuk polynomials (Atakishiyev and Wolf, 1997).  The "best" choice of eigenvectors to define a fractional discrete Fourier transform remains an open question, however.
+Probabilistic uncertainty principle
+If the random variable Xk is constrained by
+then 
+may be considered to represent a discrete probability mass function of n, with an associated probability mass function constructed from the transformed variable,
+For the case of continuous functions $MATH$ and $MATH$, the Heisenberg uncertainty principle states that
+where $MATH$ and $MATH$ are the variances of $MATH$ and $MATH$ respectively, with the equality attained in the case of a suitably normalized Gaussian distribution. Although the variances may be analogously defined for the DFT, an analogous uncertainty principle is not useful, because the uncertainty will not be shift-invariant. Still, a meaningful uncertainty principle has been introduced by Massar and Spindel.
+However, the Hirschman entropic uncertainty will have a useful analog for the case of the DFT. The Hirschman uncertainty principle is expressed in terms of the Shannon entropy of the two probability functions.
+In the discrete case, the Shannon entropies are defined as
+and
+and the entropic uncertainty principle becomes
+The equality is obtained for $MATH$ equal to translations and modulations of a suitably normalized Kronecker comb of period $MATH$ where $MATH$ is any exact integer divisor of $MATH$. The probability mass function $MATH$ will then be proportional to a suitably translated Kronecker comb of period $MATH$.
+Deterministic uncertainty principle
+There is also a well-known deterministic uncertainty principle that uses signal sparsity (or the number of non-zero coefficients). Let $MATH$ and $MATH$ be the number of non-zero elements of the time and frequency sequences $MATH$ and $MATH$, respectively. Then, 
+As an immediate consequence of the inequality of arithmetic and geometric means, one also has $MATH$. Both uncertainty principles were shown to be tight for specifically-chosen "picket-fence" sequences (discrete impulse trains), and find practical use for signal recovery applications.
+DFT of real and purely imaginary signals
+It follows that for even $MATH$ $MATH$ and $MATH$ are real-valued, and the remainder of the DFT is completely specified by just $MATH$ complex numbers.
+Generalized DFT (shifted and non-linear phase)
+It is possible to shift the transform sampling in time and/or frequency domain by some real shifts a and b, respectively. This is sometimes known as a generalized DFT (or GDFT), also called the shifted DFT or offset DFT, and has analogous properties to the ordinary DFT:
+Most often, shifts of $MATH$ (half a sample) are used.
+While the ordinary DFT corresponds to a periodic signal in both time and frequency domains, $MATH$ produces a signal that is anti-periodic in frequency domain ($MATH$) and vice versa for $MATH$.
+Thus, the specific case of $MATH$ is known as an odd-time odd-frequency discrete Fourier transform (or O2 DFT).
+Such shifted transforms are most often used for symmetric data, to represent different boundary symmetries, and for real-symmetric data they correspond to different forms of the discrete cosine and sine transforms.
+Another interesting choice is $MATH$, which is called the centered DFT (or CDFT).  The centered DFT has the useful property that, when N is a multiple of four, all four of its eigenvalues (see above) have equal multiplicities (Rubio and Santhanam, 2005)
+The term GDFT is also used for the non-linear phase extensions of DFT. Hence, GDFT method provides a generalization for constant amplitude orthogonal block transforms including linear and non-linear phase types. GDFT is a framework 
+to improve time and frequency domain properties of the traditional DFT, e.g. auto/cross-correlations, by the addition of the properly designed phase shaping function (non-linear, in general) to the original linear phase functions (Akansu and Agirman-Tosun, 2010).
+The discrete Fourier transform can be viewed as a special case of the z-transform, evaluated on the unit circle in the complex plane; more general z-transforms correspond to complex shifts a and b above.
+Multidimensional DFT
+The ordinary DFT transforms a one-dimensional sequence or array $MATH$ that is a function of exactly one discrete variable n.  The multidimensional DFT of a multidimensional array $MATH$ that is a function of d discrete variables $MATH$ for $MATH$ in $MATH$ is defined by:
+where $MATH$ as above and the d output indices run from $MATH$.  This is more compactly expressed in vector notation, where we define $MATH$ and $MATH$ as d-dimensional vectors of indices from 0 to $MATH$, which we define as $MATH$:
+where the division $MATH$ is defined as $MATH$ to be performed element-wise, and the sum denotes the set of nested summations above.
+The inverse of the multi-dimensional DFT is, analogous to the one-dimensional case, given by:
+As the one-dimensional DFT expresses the input $MATH$ as a superposition of sinusoids, the multidimensional DFT expresses the input as a superposition of plane waves, or multidimensional sinusoids. The direction of oscillation in space is $MATH$. The amplitudes  are $MATH$.  This decomposition is of great importance for everything from digital image processing (two-dimensional) to solving partial differential equations. The solution is broken up into plane waves.
+The multidimensional DFT can be computed by the composition of a sequence of one-dimensional DFTs along each dimension.  In the two-dimensional case $MATH$ the $MATH$ independent DFTs of the rows (i.e., along $MATH$) are computed first to form a new array $MATH$. Then the $MATH$ independent DFTs of y along the columns (along $MATH$) are computed to form the final result $MATH$.  Alternatively the columns can be computed first and then the rows. The order is immaterial because the nested summations above commute.
+An algorithm to compute a one-dimensional DFT is thus sufficient to efficiently compute a multidimensional DFT.  This approach is known as the row-column algorithm. There are also intrinsically multidimensional FFT algorithms.
+The real-input multidimensional DFT
+For input data $MATH$ consisting of real numbers, the DFT outputs have a conjugate symmetry similar to the one-dimensional case above:
+where the star again denotes complex conjugation and the $MATH$-th subscript is again interpreted modulo $MATH$ (for $MATH$).
+Applications
+The DFT has seen wide usage across a large number of fields; we only sketch a few examples below (see also the references at the end). All applications of the DFT depend crucially on the availability of a fast algorithm to compute discrete Fourier transforms and their inverses, a fast Fourier transform.
+Spectral analysis
+When the DFT is used for signal spectral analysis, the $MATH$ sequence usually represents a finite set of uniformly spaced time-samples of some signal $MATH$, where $MATH$ represents time.  The conversion from continuous time to samples (discrete-time) changes the underlying Fourier transform of $MATH$ into a discrete-time Fourier transform (DTFT), which generally entails a type of distortion called aliasing.  Choice of an appropriate sample-rate (see Nyquist rate) is the key to minimizing that distortion.  Similarly, the conversion from a very long (or infinite) sequence to a manageable size entails a type of distortion called leakage, which is manifested as a loss of detail (a.k.a. resolution) in the DTFT.  Choice of an appropriate sub-sequence length is the primary key to minimizing that effect.  When the available data (and time to process it) is more than the amount needed to attain the desired frequency resolution, a standard technique is to perform multiple DFTs, for example to create a spectrogram.  If the desired result is a power spectrum and noise or randomness is present in the data, averaging the magnitude components of the multiple DFTs is a useful procedure to reduce the variance of the spectrum (also called a periodogram in this context); two examples of such techniques are the Welch method and the Bartlett method; the general subject of estimating the power spectrum of a noisy signal is called spectral estimation.
+A final source of distortion (or perhaps illusion) is the DFT itself, because it is just a discrete sampling of the DTFT, which is a function of a continuous frequency domain.  That can be mitigated by increasing the resolution of the DFT.  That procedure is illustrated at § Sampling the DTFT.
+Optics, diffraction, and tomography
+The discrete Fourier transform is widely used with spatial frequencies in modeling the way that light, electrons, and other probes travel through optical systems and scatter from objects in two and three dimensions. The dual (direct/reciprocal) vector space of three dimensional objects further makes available a three dimensional reciprocal lattice, whose construction from translucent object shadows (via the Fourier slice theorem) allows tomographic reconstruction of three dimensional objects with a wide range of applications e.g. in modern medicine.
+Filter bank
+See § FFT filter banks and § Sampling the DTFT.
+Data compression
+The field of digital signal processing relies heavily on operations in the frequency domain (i.e. on the Fourier transform). For example, several lossy image and sound compression methods employ the discrete Fourier transform: the signal is cut into short segments, each is transformed, and then the Fourier coefficients of high frequencies, which are assumed to be unnoticeable, are discarded. The decompressor computes the inverse transform based on this reduced number of Fourier coefficients. (Compression applications often use a specialized form of the DFT, the discrete cosine transform or sometimes the modified discrete cosine transform.)
+Some relatively recent compression algorithms, however, use wavelet transforms, which give a more uniform compromise between time and frequency domain than obtained by chopping data into segments and transforming each segment.  In the case of JPEG2000, this avoids the spurious image features that appear when images are highly compressed with the original JPEG.
+Partial differential equations
+Discrete Fourier transforms are often used to solve partial differential equations, where again the DFT is used as an approximation for the Fourier series (which is recovered in the limit of infinite N). The advantage of this approach is that it expands the signal in complex exponentials $MATH$, which are eigenfunctions of differentiation: $MATH$. Thus, in the Fourier representation, differentiation is simple—we just multiply by $MATH$.  (However, the choice of $MATH$ is not unique due to aliasing; for the method to be convergent, a choice similar to that in the trigonometric interpolation section above should be used.) A linear differential equation with constant coefficients is transformed into an easily solvable algebraic equation. One then uses the inverse DFT to transform the result back into the ordinary spatial representation. Such an approach is called a spectral method.
+Polynomial multiplication
+Suppose we wish to compute the polynomial product c(x) = a(x) · b(x).  The ordinary product expression for the coefficients of c involves a linear (acyclic) convolution, where indices do not "wrap around."  This can be rewritten as a cyclic convolution by taking the coefficient vectors for a(x) and b(x) with constant term first, then appending zeros so that the resultant coefficient vectors a and b have dimension d > deg(a(x)) + deg(b(x)).  Then,
+Where c is the vector of coefficients for c(x), and the convolution operator $MATH$ is defined so
+But convolution becomes multiplication under the DFT:
+Here the vector product is taken elementwise.  Thus the coefficients of the product polynomial c(x) are just the terms 0, ..., deg(a(x)) + deg(b(x)) of the coefficient vector
+With a fast Fourier transform, the resulting algorithm takes O(N log N) arithmetic operations.  Due to its simplicity and speed, the Cooley–Tukey FFT algorithm, which is limited to composite sizes, is often chosen for the transform operation.  In this case, d should be chosen as the smallest integer greater than the sum of the input polynomial degrees that is factorizable into small prime factors (e.g. 2, 3, and 5, depending upon the FFT implementation).
+Multiplication of large integers
+The fastest known algorithms for the multiplication of very large integers use the polynomial multiplication method outlined above.  Integers can be treated as the value of a polynomial evaluated specifically at the number base, with the coefficients of the polynomial corresponding to the digits in that base (ex. $MATH$).  After polynomial multiplication, a relatively low-complexity carry-propagation step completes the multiplication.
+Convolution
+When data is convolved with a function with wide support, such as for downsampling by a large sampling ratio, because of the Convolution theorem and the FFT algorithm, it may be faster to transform it, multiply pointwise by the transform of the filter and then reverse transform it.  Alternatively, a good filter is obtained by simply truncating the transformed data and re-transforming the shortened data set.
+Generalizations
+Representation theory
+The DFT can be interpreted as a complex-valued representation of the finite cyclic group. In other words, a sequence of $MATH$ complex numbers can be thought of as an element of $MATH$-dimensional complex space $MATH$ or equivalently a function $MATH$ from the finite cyclic group of order $MATH$ to the complex numbers, $MATH$. So  $MATH$ is a class function on the finite cyclic group, and thus can be expressed as a linear combination of the irreducible characters of this group, which are the roots of unity.
+From this point of view, one may generalize the DFT to representation theory generally, or more narrowly to the representation theory of finite groups.
+More narrowly still, one may generalize the DFT by either changing the target (taking values in a field other than the complex numbers), or the domain (a group other than a finite cyclic group), as detailed in the sequel.
+Other fields
+Many of the properties of the DFT only depend on the fact that $MATH$ is a primitive root of unity, sometimes denoted $MATH$ or $MATH$ (so that $MATH$).  Such properties include the completeness, orthogonality, Plancherel/Parseval, periodicity, shift, convolution, and unitarity properties above, as well as many FFT algorithms. For this reason, the discrete Fourier transform can be defined by using roots of unity in fields other than the complex numbers, and such generalizations are commonly called number-theoretic transforms (NTTs) in the case of finite fields. For more information, see number-theoretic transform and discrete Fourier transform (general).
+Other finite groups
+The standard DFT acts on a sequence x0, x1, ..., xN−1 of complex numbers, which can be viewed as a function {0, 1, ..., N − 1} → C. The multidimensional DFT acts on multidimensional sequences, which can be viewed as functions
+This suggests the generalization to Fourier transforms on arbitrary finite groups, which act on functions G → C where G is a finite group. In this framework, the standard DFT is seen as the Fourier transform on a cyclic group, while the multidimensional DFT is a Fourier transform on a direct sum of cyclic groups.
+Further, Fourier transform can be on cosets of a group.
+Alternatives
+ There are various alternatives to the DFT for various applications, prominent among which are wavelets. The analog of the DFT is the discrete wavelet transform (DWT). From the point of view of time–frequency analysis, a key limitation of the Fourier transform is that it does not include location information, only frequency information, and thus has difficulty in representing transients. As wavelets have location as well as frequency, they are better able to represent location, at the expense of greater difficulty representing frequency. For details, see comparison of the discrete wavelet transform with the discrete Fourier transform.
+See also
+Notes
+References
+Further reading

@@ -1,0 +1,53 @@
+Total order
+In mathematics, a total or linear order is a partial order in which any two elements are comparable.  That is, a total order is a binary relation $MATH$ on some set $MATH$, which satisfies the following for all $MATH$ and $MATH$ in $MATH$:
+Total orders are sometimes also called simple, connex, or full orders.
+A set equipped with a total order is a totally ordered set; the terms simply ordered set, linearly ordered set, and loset are also used. The term chain is sometimes defined as a synonym of totally ordered set, but refers generally to some sort of totally ordered subsets of a given partially ordered set.
+An extension of a given partial order to a total order is called a linear extension of that partial order.
+Strict and non-strict total orders
+A strict total order on a set $MATH$ is a strict partial order on $MATH$ in which any two distinct elements are comparable. That is, a total order is a binary relation $MATH$ on some set $MATH$, which satisfies the following for all $MATH$ and $MATH$ in $MATH$:
+Asymmetry follows from transitivity and irreflexivity; moreover, irreflexivity follows from asymmetry.
+For each (non-strict) total order $MATH$ there is an associated relation $MATH$, called the strict total order associated with $MATH$ that can be defined in two equivalent ways:
+Conversely, the reflexive closure of a strict total order $MATH$ is a (non-strict) total order.
+Examples
+Chains
+The term chain is sometimes defined as a synonym for a totally ordered set, but it is generally used for referring to a subset of a partially ordered set that is totally ordered for the induced order. Typically, the partially ordered set is a set of subsets of a given set that is ordered by inclusion, and the term is used for stating properties of the set of the chains. This high number of nested levels of sets explains the usefulness of the term.
+A common example of the use of chain for referring to totally ordered subsets is Zorn's lemma which asserts that, if every chain in a partially ordered set X has an upper bound in X, then X contains at least one maximal element. Zorn's lemma is commonly used with X being a set of subsets; in this case, the upperbound is obtained by proving that the union of the elements of a chain in X is in X. This is the way that is generally used to prove that a vector space has Hamel bases and that a ring has maximal ideals.
+In some contexts, the chains that are considered are order isomorphic to the natural numbers with their usual order or its opposite order. In this case, a chain can be identified with a monotone sequence, and is called an ascending chain or a descending chain, depending whether the sequence is increasing or decreasing.
+A partially ordered set has the descending chain condition if every descending chain eventually stabilizes. For example, an order is well founded if it has the descending chain condition. Similarly, the ascending chain condition means that every ascending chain eventually stabilizes. For example, a Noetherian ring is a ring whose ideals satisfy the ascending chain condition.
+In other contexts, only chains that are finite sets are considered. In this case, one talks of a finite chain, often shortened as a chain. In this case, the length of a chain is the number of inequalities (or set inclusions) between consecutive elements of the chain; that is, the number minus one of elements in the chain. Thus a singleton set is a chain of length zero, and an ordered pair is a chain of length one. The dimension of a space is often defined or characterized as the maximal length of chains of subspaces. For example, the dimension of a vector space is the maximal length of chains of linear subspaces, and the Krull dimension of a commutative ring is the maximal length of chains of prime ideals.
+"Chain" may also be used for some totally ordered subsets of structures that are not partially ordered sets. An example is given by regular chains of polynomials. Another example is the use of "chain" as a synonym for a walk in a graph.
+Further concepts
+Lattice theory
+One may define a totally ordered set as a particular kind of lattice, namely one in which we have
+We then write a ≤ b if and only if $MATH$. Hence a totally ordered set is a distributive lattice.
+Finite total orders
+A simple counting argument will verify that any non-empty finite totally ordered set (and hence any non-empty subset thereof) has a least element. Thus every finite total order is in fact a well order.  Either by direct proof or by observing that every well order is order isomorphic to an ordinal one may show that every finite total order is order isomorphic to an initial segment of the natural numbers ordered by <. In other words, a total order on a set with k elements induces a bijection with the first k natural numbers. Hence it is common to index finite total orders or well orders with order type ω by natural numbers in a fashion which respects the ordering (either starting with zero or with one).
+Category theory
+Totally ordered sets form a full subcategory of the category of partially ordered sets, with the morphisms being maps which respect the orders, i.e. maps f such that if a ≤ b then f(a) ≤ f(b).
+A bijective map between two totally ordered sets that respects the two orders is an isomorphism in this category.
+Order topology
+For any totally ordered set X we can define the open intervals (a, b) = {x : a < x and x < b}, (−∞, b) = {x : x < b}, (a, ∞) = {x : a < x} and (−∞, ∞) = X.  We can use these open intervals to define a topology on any ordered set, the order topology.
+When more than one order is being used on a set one talks about the order topology induced by a particular order.  For instance if N is the natural numbers, < is less than and > greater than we might refer to the order topology on N induced by < and the order topology on N induced by > (in this case they happen to be identical but will not in general).
+The order topology induced by a total order may be shown to be hereditarily normal.
+Completeness
+A totally ordered set is said to be complete if every nonempty subset that has an upper bound, has a least upper bound. For example, the set of real numbers R is complete but the set of rational numbers Q is not. In other words, the various concepts of completeness (not to be confused with being "total") do not carry over to restrictions. For example, over the real numbers a property of the relation ≤ is that every non-empty subset S of R with an upper bound in R has a least upper bound (also called supremum) in R. However, for the rational numbers this supremum is not necessarily rational, so the same property does not hold on the restriction of the relation ≤ to the rational numbers.
+There are a number of results relating properties of the order topology to the completeness of X:
+A totally ordered set (with its order topology) which is a complete lattice is compact. Examples are the closed intervals of real numbers, e.g. the unit interval [0,1], and the affinely extended real number system (extended real number line). There are order-preserving homeomorphisms between these examples.
+Sums of orders
+For any two disjoint total orders $MATH$  and $MATH$, there is a natural order $MATH$ on the set $MATH$, which is called the sum of the two orders or sometimes just $MATH$: 
+Intuitively, this means that the elements of the second set are added on top of the elements of the first set.
+More generally, if $MATH$ is a totally ordered index set, and for each $MATH$ the structure $MATH$ is a linear order, where the sets $MATH$ are pairwise disjoint, then the natural total order on $MATH$ is defined by 
+Decidability
+The first-order theory of total orders is  decidable, i.e. there is an algorithm for deciding which first-order statements hold for all total orders.  Using interpretability in S2S, the monadic second-order theory of countable total orders is also decidable.
+Orders on the Cartesian product of totally ordered sets
+In order of increasing strength, i.e., decreasing sets of pairs, three of the possible orders on the Cartesian product of two totally ordered sets are:
+All three can similarly be defined for the Cartesian product of more than two sets.
+Applied to the vector space Rn, each of these make it an ordered vector space.
+See also examples of partially ordered sets.
+A real function of n real variables defined on a subset of Rn defines a strict weak order and a corresponding total preorder on that subset.
+Related structures
+A binary relation that is antisymmetric, transitive, and reflexive (but not necessarily total) is a partial order.
+A group with a compatible total order is a totally ordered group.
+There are only a few nontrivial structures that are (interdefinable as) reducts of a total order. Forgetting the orientation results in a betweenness relation. Forgetting the location of the ends results in a cyclic order. Forgetting both data results in a separation relation.
+See also
+Notes

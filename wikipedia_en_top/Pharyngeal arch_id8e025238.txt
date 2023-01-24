@@ -1,0 +1,53 @@
+Pharyngeal arch
+The pharyngeal arches, also known as visceral arches, are structures seen in the embryonic development of vertebrates that are recognisable precursors for many structures. In fish, the arches are known as the branchial arches, or gill arches.
+In the human embryo, the arches are first seen during the fourth week of development. They appear as a series of outpouchings of mesoderm on both sides of the developing pharynx. The vasculature of the pharyngeal arches is known as the aortic arches.
+In fish, the branchial arches support the gills.
+Structure
+In vertebrates, the pharyngeal arches are derived from all three germ layers (the primary layers of cells that form during embryogenesis). Neural crest cells enter these arches where they contribute to features of the skull and facial skeleton such as bone and cartilage. However, the existence of pharyngeal structures before neural crest cells evolved is indicated by the existence of neural crest-independent mechanisms of pharyngeal arch development. The first, most anterior pharyngeal arch gives rise to the oral jaw.  The second arch becomes the hyoid and jaw support.  In fish, the other posterior arches contribute to the branchial skeleton, which support the gills; in tetrapods the anterior arches develop into components of the ear, tonsils, and thymus. The genetic and developmental basis of pharyngeal arch development is well characterized.  It has been shown that Hox genes and other developmental genes such as DLX are important for patterning the anterior/posterior and dorsal/ventral axes of the branchial arches. Some fish species have a second set of jaws in their throat, known as pharyngeal jaws, which develop using the same genetic pathways involved in oral jaw formation.
+During human and all vertebrate development, a series of pharyngeal arch pairs form in the developing embryo. These project forward from the back of the embryo toward the front of the face and neck. Each arch develops its own artery, nerve that controls a distinct muscle group, and skeletal tissue. The arches are numbered from 1 to 6, with 1 being the arch closest to the head of the embryo, and arch 5 existing only transiently.
+These grow and join in the ventral midline. The first arch, as the first to form, separates the mouth pit or stomodeum from the pericardium.  By differential growth the neck elongates and new arches form, so the pharynx has six arches ultimately.
+Each pharyngeal arch has a cartilaginous stick, a muscle component that differentiates from the cartilaginous tissue, an artery, and a cranial nerve. Each of these is surrounded by mesenchyme. Arches do not develop simultaneously but instead possess a "staggered" development.
+Pharyngeal pouches form on the endodermal side between the arches, and pharyngeal grooves (or clefts) form from the lateral ectodermal surface of the neck region to separate the arches. In fish the pouches line up with the clefts, and these thin segments become gills. In mammals the endoderm and ectoderm not only remain intact but also continue to be separated by a mesoderm layer.
+The development of the pharyngeal arches provides a useful landmark with which to establish the precise stage of embryonic development.  Their formation and development corresponds to Carnegie stages 10 to 16 in mammals, and Hamburger–Hamilton stages 14 to 28 in the chicken. Although there are six pharyngeal arches, in humans the fifth arch exists only transiently during embryogenesis.
+First arch
+The first pharyngeal arch also mandibular arch (corresponding to the first branchial arch or gill arch of fish), is the first of six pharyngeal arches that develops during the fourth week of development.  It is located between the stomodeum and the first pharyngeal groove.
+Processes
+This arch divides into a maxillary process and a mandibular process, giving rise to structures including the bones of the lower two-thirds of the face and the jaw.  The maxillary process becomes the maxilla (or upper jaw, although there are large differences among animals), and palate while the mandibular process becomes the mandible or lower jaw. This arch also gives rise to the muscles of mastication.
+Meckel's cartilage
+Meckel's cartilage forms in the mesoderm of the mandibular process and eventually regresses to form the incus and malleus of the middle ear, the anterior ligament of the malleus and the sphenomandibular ligament. The mandible or lower jaw forms by perichondral ossification using Meckel's cartilage as a 'template', but the maxillary does not arise from direct ossification of Meckel's cartilage.
+Derivatives
+The skeletal elements and muscles are derived from mesoderm of the pharyngeal arches.
+Skeletal
+Muscles
+Other
+Mucous membrane and glands of the anterior two thirds of the tongue are derived from ectoderm and endoderm of the arch.
+Nerve supply
+The mandibular and maxillary branches of the trigeminal nerve (CN V) innervate the structures derived from the corresponding processes of the first arch. In some lower animals, each arch is supplied by two cranial nerves. The nerve of the arch itself runs along the cranial side of the arch and is called post-trematic nerve of the arch. Each arch also receives a branch from the nerve of the succeeding arch called the pre-trematic nerve which runs along the caudal border of the arch. In human embryo, a double innervation is seen only in the first pharyngeal arch. The mandibular nerve is the post-trematic nerve of the first arch and chorda tympani (branch of facial nerve) is the pre-trematic nerve. This double innervation is reflected in the nerve supply of anterior two-thirds of tongue which is derived from the first arch.
+Blood supply
+The artery of the first arch is the first aortic arch, which partially persists as the maxillary artery.
+Second arch
+The second pharyngeal arch or hyoid arch, is the second of fifth pharyngeal arches that develops in fetal life during the fourth week of development and assists in forming the side and front of the neck.
+Reichert's cartilage
+Cartilage in the second pharyngeal arch is referred to as Reichert's cartilage and contributes to many structures in the fully developed adult. In contrast to the Meckel's cartilage of the first pharyngeal arch it does not constitute a continuous element, and instead is composed of two distinct cartilaginous segments joined by a faint layer of mesenchyme.  Dorsal ends of Reichert's cartilage ossify during development to form the stapes of the middle ear before being incorporated into the middle ear cavity, while the ventral portion ossifies to form the lesser cornu and upper part of the body of the hyoid bone. Caudal to what will eventually become the stapes, Reichert's cartilage also forms the styloid process of the temporal bone. The cartilage between the hyoid bone and styloid process will not remain as development continues, but its perichondrium will eventually form the stylohyoid ligament.
+Derivatives
+Skeletal
+From the cartilage of the second arch arises
+Muscles
+Nerve supply
+Facial nerve (CN VII)
+Blood supply
+The artery of the second arch is the second aortic arch, which gives origin to the stapedial artery in some mammals but atrophies in humans.
+Muscles derived from the pharyngeal arches
+Pharyngeal muscles or Branchial muscles are striated muscles of the head and neck. Unlike skeletal muscles that developmentally come from somites, pharyngeal muscles are developmentally formed from the pharyngeal arches.
+Most of the skeletal musculature supplied by the cranial nerves (special visceral efferent) is pharyngeal. Exceptions include, but are not limited to, the extraocular muscles and some of the muscles of the tongue. These exceptions receive general somatic efferent innervation.
+First arch
+All of the pharyngeal muscles that come from the first pharyngeal arch are innervated by the mandibular divisions of the trigeminal nerve.  These muscles include all the muscles of mastication, the anterior belly of the digastric, the mylohyoid, tensor tympani, and tensor veli palatini.
+Second arch
+All of the pharyngeal muscles of the second pharyngeal arch are innervated by the facial nerve.  These muscles include the muscles of facial expression, the posterior belly of the digastric, the stylohyoid muscle, the auricular muscle and the stapedius muscle of the middle ear.
+Third arch
+There is only one muscle of the third pharyngeal arch, the stylopharyngeus. The stylopharyngeus and other structures from the third pharyngeal arch are all innervated by the glossopharyngeal nerve.
+Fourth and sixth arches
+All the pharyngeal muscles of the fourth and sixth arches are innervated by the superior laryngeal and the recurrent laryngeal branches of the vagus nerve. These muscles include all the muscles of the palate (exception of the tensor veli palatini which is innervated by the trigeminal nerve), all the muscles of the pharynx (except stylopharyngeus which is innervated by the glossopharyngeal nerve), and all the muscles of the larynx.
+In humans
+Amniotes have five arches, numbered 1 to 5. Older literature reports the fifth arch as the sixth arch, the fifth being absent. More is known about the fate of the first arch than the remaining four. The first three contribute to structures above the larynx, whereas the last two contribute to the larynx and trachea.
+The recurrent laryngeal nerves are produced from the nerve of arch 5, and the laryngeal cartilages from arches 4 and 5. The superior laryngeal branch of the vagus nerve arises from arch 4. Its arteries, which project between the nerves of the fourth and fifth arches, become the left-side arch of the aorta and the right subclavian artery. On the right side, the artery of arch 5 is obliterated while, on the left side, the artery persists as the ductus arteriosus; circulatory changes immediately following birth cause the vessel to close down, leaving a remnant, the ligamentum arteriosum. During growth, these arteries descend into their ultimate positions in the chest, creating the elongated recurrent paths.

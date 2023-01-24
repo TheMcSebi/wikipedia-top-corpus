@@ -1,0 +1,156 @@
+Taylor's theorem
+In calculus, Taylor's theorem gives an approximation of a k-times differentiable function around a given point by a polynomial of degree k, called the kth-order Taylor polynomial. For a smooth function, the Taylor polynomial is the truncation at the order k of the Taylor series of the function. The first-order Taylor polynomial is the linear approximation of the function, and the second-order Taylor polynomial is often referred to as the quadratic approximation. There are several versions of Taylor's theorem, some giving explicit estimates of the approximation error of the function by its Taylor polynomial.
+Taylor's theorem is named after the mathematician Brook Taylor, who stated a version of it in 1715, although an earlier version of the result was already mentioned in 1671 by James Gregory.
+Taylor's theorem is taught in introductory-level calculus courses and is one of the central elementary tools in mathematical analysis. It gives simple arithmetic formulas to accurately compute values of many transcendental functions such as the exponential function and trigonometric functions.
+It is the starting point of the study of analytic functions, and is fundamental in various areas of mathematics, as well as in numerical analysis and mathematical physics. Taylor's theorem also generalizes to multivariate and vector valued functions.
+Motivation
+If a real-valued function f(x) is differentiable at the point x = a, then it has a linear approximation near this point.  This means that there exists a function h1(x) such that
+Here
+is the linear approximation of f(x) for x near the point a, whose graph y = P1(x) is the tangent line to the graph y = f(x) at x = a. The error in the approximation is:
+As x tends to a, this error goes to zero much faster than $MATH$, making $MATH$ a useful approximation.
+For a better approximation to f(x), we can fit a quadratic polynomial instead of a linear function:
+Instead of just matching one derivative of f(x) at x = a, this polynomial has the same first and second derivatives, as is evident upon differentiation.
+Taylor's theorem ensures that the quadratic approximation is, in a sufficiently small neighborhood of x = a, more accurate than the linear approximation.  Specifically,
+Here the error in the approximation is
+which, given the limiting behavior of $MATH$, goes to zero faster than $MATH$ as x tends to a.
+ Similarly, we might get still better approximations to f if we use polynomials of higher degree, since then we can match even more derivatives with f at the selected base point.
+In general, the error in approximating a function by a polynomial of degree k will go to zero much faster than $MATH$ as x tends to a. However, there are functions, even infinitely differentiable ones, for which increasing the degree of the approximating polynomial does not increase the accuracy of approximation: we say such a function fails to be analytic at x = a: it is not (locally) determined by its derivatives at this point.
+Taylor's theorem is of asymptotic nature: it only tells us that the error Rk in an approximation by a k-th order Taylor polynomial Pk tends to zero faster than any nonzero k-th degree polynomial as x → a. It does not tell us how large the error is in any concrete neighborhood of the center of expansion, but for this purpose there are explicit formulas for the remainder term (given below) which are valid under some additional regularity assumptions on f. These enhanced versions of Taylor's theorem typically lead to uniform estimates for the approximation error in a small neighborhood of the center of expansion, but the estimates do not necessarily hold for neighborhoods which are too large, even if the function f is analytic. In that situation one may have to select several Taylor polynomials with different centers of expansion to have reliable Taylor-approximations of the original function (see animation on the right.)
+There are several ways we might use the remainder term:
+Taylor's theorem in one real variable
+Statement of the theorem
+The precise statement of the most basic version of Taylor's theorem is as follows:
+Taylor's theorem — Let k ≥ 1 be an integer and let the function f : R → R be k times differentiable at the point a ∈ R. Then there exists a function  hk : R → R such that
+and
+This is called the Peano form of the remainder.
+The polynomial appearing in Taylor's theorem is the k-th order Taylor polynomial
+of the function f at the point a. The Taylor polynomial is the unique "asymptotic best fit" polynomial in the sense that if there exists a function  hk : R → R and a k-th order polynomial p such that
+then p = Pk. Taylor's theorem describes the asymptotic behavior of the remainder term
+which is the approximation error when approximating f with its Taylor polynomial. Using the little-o notation, the statement in Taylor's theorem reads as
+Explicit formulas for the remainder
+Under stronger regularity assumptions on f there are several precise formulas for the remainder term Rk of the Taylor polynomial, the most common ones being the following.
+Mean-value forms of the remainder — Let f : R → R  be k + 1 times differentiable on the open interval with f(k) continuous on the closed interval between a and x. Then
+for some real number ξL between a and x. This is the Lagrange form of the remainder.
+Similarly,
+for some real number ξC between a and x. This is the Cauchy form of the remainder.
+These refinements of Taylor's theorem are usually proved using the mean value theorem, whence the name. Additionally, notice that this is precisely the mean value theorem when k = 0. Also other similar expressions can be found. For example, if G(t) is continuous on the closed interval and differentiable with a non-vanishing derivative on the open interval between a and x, then
+for some number ξ between a and x. This version covers the Lagrange and Cauchy forms of the remainder as special cases, and is proved below using Cauchy's mean value theorem. The Lagrange form is obtained by taking $MATH$ and the Cauchy form is obtained by taking $MATH$.
+The statement for the integral form of the remainder is more advanced than the previous ones, and requires understanding of Lebesgue integration theory for the full generality. However, it holds also in the sense of Riemann integral provided the (k + 1)th derivative of f is continuous on the closed interval [a,x].
+Integral form of the remainder — Let f(k) be absolutely continuous on the closed interval between a and x. Then
+Due to absolute continuity of f(k) on the closed interval between a and x, its derivative f(k+1) exists as an L1-function, and the result can be proven by a formal calculation using fundamental theorem of calculus and integration by parts.
+Estimates for the remainder
+It is often useful in practice to be able to estimate the remainder term appearing in the Taylor approximation, rather than having an exact formula for it.  Suppose that f is (k + 1)-times continuously differentiable in an interval I containing a. Suppose that there are real constants q and Q such that
+throughout I. Then the remainder term satisfies the inequality
+if x > a, and a similar estimate if x < a. This is a simple consequence of the Lagrange form of the remainder. In particular, if
+on an interval I = (a − r,a + r) with some $MATH$ , then
+for all x∈(a − r,a + r). The second inequality is called a uniform estimate, because it holds uniformly for all x on the interval (a − r,a + r).
+Example
+ Suppose that we wish to find the approximate value of the function f(x) = ex on the interval [−1,1] while ensuring that the error in the approximation is no more than 10−5. In this example we pretend that we only know the following properties of the exponential function:
+From these properties it follows that f(k)(x) = ex for all k, and in particular, f(k)(0) = 1. Hence the k-th order Taylor polynomial of f at 0 and its remainder term in the Lagrange form are given by
+where ξ is some number between 0 and x. Since ex is increasing by (⁎), we can simply use ex ≤ 1 for x ∈ [−1, 0] to estimate the remainder on the subinterval [−1, 0]. To obtain an upper bound for the remainder on [0,1], we use the property eξ < ex for 0<ξ<x to estimate
+using the second order Taylor expansion. Then we solve for ex to deduce that
+simply by maximizing the numerator and minimizing the denominator. Combining these estimates for ex we see that
+so the required precision is certainly reached, when
+(See factorial or compute by hand the values 9! = 362880 and 10! = 3628800.) As a conclusion, Taylor's theorem leads to the approximation
+For instance, this approximation provides a decimal expression e ≈ 2.71828, correct up to five decimal places.
+Relationship to analyticity
+Taylor expansions of real analytic functions
+Let I ⊂ R be an open interval. By definition, a function f : I → R is real analytic if it is locally defined by a convergent power series. This means that for every a ∈ I there exists some r > 0 and a sequence of coefficients ck ∈ R such that (a − r, a + r) ⊂ I and
+In general, the radius of convergence of a power series can be computed from the Cauchy–Hadamard formula
+This result is based on comparison with a geometric series, and the same method shows that if the power series based on a converges for some b ∈ R, it must converge uniformly on the closed interval [a − rb, a + rb], where rb = |b − a|. Here only the convergence of the power series is considered, and it might well be that (a − R,a + R) extends beyond the domain I of f.
+The Taylor polynomials of the real analytic function f at a are simply the finite truncations
+of its locally defining power series, and the corresponding remainder terms are locally given by the analytic functions
+Here the functions
+are also analytic, since their defining power series have the same radius of convergence as the original series. Assuming that [a − r, a + r] ⊂ I and r < R, all these series converge uniformly on (a − r, a + r). Naturally, in the case of analytic functions one can estimate the remainder term Rk(x) by the tail of the sequence of the derivatives f′(a) at the center of the expansion, but using complex analysis also another possibility arises, which is described below.
+Taylor's theorem and convergence of Taylor series
+The Taylor series of f will converge in some interval in which all its derivatives are bounded and do not grow too fast as k goes to infinity. (However, even if the Taylor series converges, it might not converge to f, as explained below; f is then said to be non-analytic.)
+One might think of the Taylor series
+of an infinitely many times differentiable function f : R → R as its "infinite order Taylor polynomial" at a. Now the estimates for the remainder imply that if, for any r, the derivatives of f are known to be bounded over (a − r, a + r), then for any order k and for any r > 0 there exists a constant Mk,r > 0 such that
+for every x ∈ (a − r,a + r). Sometimes the constants Mk,r can be chosen in such way that Mk,r is bounded above, for fixed r and all k. Then the Taylor series of f converges uniformly to some analytic function
+(One also gets convergence even if Mk,r is not bounded above as long as it grows slowly enough.)
+The limit function Tf is by definition always analytic, but it is not necessarily equal to the original function f, even if f is infinitely differentiable. In this case, we say f is a non-analytic smooth function, for example a flat function:
+Using the chain rule repeatedly by mathematical induction, one shows that for any order k,
+for some polynomial pk of degree 2(k − 1). The function $MATH$ tends to zero faster than any polynomial as x → 0, so f is infinitely many times differentiable and f(k)(0) = 0 for every positive integer k. The above results all hold in this case:
+However, as k increases for fixed r, the value of Mk,r  grows more quickly than rk, and the error does not go to zero.
+Taylor's theorem in complex analysis
+Taylor's theorem generalizes to functions f : C → C which are complex differentiable in an open subset U ⊂ C of the complex plane. However, its usefulness is dwarfed by other general theorems in complex analysis. Namely, stronger versions of related results can be deduced for complex differentiable functions f : U → C using Cauchy's integral formula as follows.
+Let r > 0 such that the closed disk B(z, r) ∪ S(z, r) is contained in U. Then Cauchy's integral formula with a positive parametrization γ(t) = z + reit of the circle S(z, r) with t ∈ [0, 2π] gives
+Here all the integrands are continuous on the circle S(z, r), which justifies differentiation under the integral sign. In particular, if f is once complex differentiable  on the open set U, then it is actually infinitely many times complex differentiable on U. One also obtains the Cauchy's estimates
+for any z ∈ U and r > 0 such that B(z, r) ∪ S(c, r) ⊂ U. These estimates imply that the complex Taylor series
+of f converges uniformly on any open disk B(c, r) ⊂ U with S(c, r) ⊂ U into some function Tf. Furthermore, using the contour integral formulas for the derivatives f(k)(c),
+so any complex differentiable function f in an open set U ⊂ C is in fact complex analytic. All that is said for real analytic functions here holds also for complex analytic functions with the open interval I replaced by an open subset U ∈ C and a-centered intervals (a − r, a + r) replaced by c-centered disks B(c, r). In particular, the Taylor expansion holds in the form
+where the remainder term Rk is complex analytic. Methods of complex analysis provide some powerful results regarding Taylor expansions. For example, using Cauchy's integral formula for any positively oriented Jordan curve γ which parametrizes the boundary ∂W ⊂ U of a region W ⊂ U, one obtains expressions for the derivatives f(j)(c) as above, and modifying slightly the computation for Tf(z) = f(z), one arrives at the exact formula
+The important feature here is that the quality of the approximation by a Taylor polynomial on the region W ⊂ U is dominated by the values of the function f itself on the boundary ∂W ⊂ U. Similarly, applying Cauchy's estimates to the series expression for the remainder, one obtains the uniform estimates
+Example
+The function
+is real analytic, that is, locally determined by its Taylor series. This function was plotted above to illustrate the fact that some elementary functions cannot be approximated by Taylor polynomials in neighborhoods of the center of expansion which are too large. This kind of behavior is easily understood in the framework of complex analysis. Namely, the function f extends into a meromorphic function
+on the compactified complex plane. It has simple poles at z = i and z = −i, and it is analytic elsewhere. Now its Taylor series centered at z0 converges on any disc B(z0, r) with r < |z − z0|, where the same Taylor series converges at z ∈ C. Therefore, Taylor series of f centered at 0 converges on B(0, 1) and it does not converge for any z ∈ C with |z| > 1 due to the poles at i and −i. For the same reason the Taylor series of f centered at 1 converges on B(1, √2) and does not converge for any z ∈ C with |z − 1| > √2.
+Generalizations of Taylor's theorem
+Higher-order differentiability
+A function f: Rn → R is differentiable at a ∈ Rn if and only if there exists a linear functional L : Rn → R and a function h : Rn → R such that
+If this is the case, then L = df(a) is the (uniquely defined) differential of f at the point a. Furthermore, then the partial derivatives of f exist at a and the differential of f at a is given by
+Introduce the multi-index notation
+for α ∈ Nn and x ∈ Rn.  If all the k-th order partial derivatives of f : Rn → R are continuous at a ∈ Rn, then by Clairaut's theorem, one can change the order of mixed derivatives at a, so the notation
+for the higher order partial derivatives is justified in this situation. The same is true if all the (k − 1)-th order partial derivatives of f exist in some neighborhood of a and are differentiable at a. Then we say that f is k times differentiable at the point a.
+Taylor's theorem for multivariate functions
+Using notations of the preceding section, one has the following theorem.
+Multivariate version of Taylor's theorem — Let f : Rn → R be a k-times continuously differentiable function at the point a ∈ Rn. Then there exist functions hα : Rn → R, where $MATH$ such that
+If the function f : Rn → R is k + 1 times continuously differentiable in a closed ball $MATH$ for some $MATH$, then one can derive an exact formula for the remainder in terms of (k+1)-th order partial derivatives of f in this neighborhood. Namely,
+In this case, due to the continuity of (k+1)-th order partial derivatives in the compact set B, one immediately obtains the uniform estimates
+Example in two dimensions
+For example, the third-order Taylor polynomial of a smooth function f: R2 → R is, denoting x − a = v,
+Proofs
+Proof for Taylor's theorem in one real variable
+Let
+where, as in the statement of Taylor's theorem,
+It is sufficient to show that
+The proof here is based on repeated application of L'Hôpital's rule.  Note that, for each j = 0,1,…,k−1, $MATH$.  Hence each of the first k−1 derivatives of the numerator in $MATH$ vanishes at $MATH$, and the same is true of the denominator.  Also, since the condition that the function f be k times differentiable at a point requires differentiability up to order k−1 in a neighborhood of said point (this is true, because differentiability requires a function to be defined in a whole neighborhood of a point), the numerator and its k − 2 derivatives are differentiable in a neighborhood of a. Clearly, the denominator also satisfies said condition, and additionally, doesn't vanish unless x=a, therefore all conditions necessary for L'Hopital's rule are fulfilled, and its use is justified. So
+where the last equality follows by the definition of the derivative at x = a.
+Alternate proof for Taylor's theorem in one real variable
+Let $MATH$ be any real-valued, continuous, function to be approximated by the Taylor polynomial.
+Step 1: Let F and G be functions. Set F and G to be
+Step 2: Properties of F and G:
+Similarly, 
+.
+.
+.
+Step 3: Use Cauchy Mean Value Theorem
+Let $MATH$ and $MATH$ be continuous functions on $MATH$. Since $MATH$ so we can work with the interval $MATH$. Let $MATH$ and $MATH$ be differentiable on $MATH$. Assume $MATH$ for all $MATH$.
+Then there exists $MATH$ such that
+Note: $MATH$ in $MATH$ and $MATH$ so
+for some $MATH$.
+This can also be performed for $MATH$:
+for some $MATH$.
+This can be continued to $MATH$.
+This gives a partition in $MATH$:
+with
+Set $MATH$:
+Step 4: Substitute back
+By the Power Rule, repeated derivatives of $MATH$, $MATH$, so:
+This leads to:
+By rearranging, we get:
+or because $MATH$ eventually:
+Derivation for the mean value forms of the remainder
+Let G be any real-valued function, continuous on the closed interval between a and x and differentiable with a non-vanishing derivative on the open interval between a and x, and define
+For $MATH$. Then, by Cauchy's mean value theorem,
+for some ξ on the open interval between a and x. Note that here the numerator F(x) − F(a) = Rk(x) is exactly the remainder of the Taylor polynomial for f(x). Compute
+plug it into (⁎⁎⁎) and rearrange terms to find that
+This is the form of the remainder term mentioned after the actual statement of Taylor's theorem with remainder in the mean value form.
+The Lagrange form of the remainder is found by choosing $MATH$ and the Cauchy form by choosing $MATH$.
+Remark. Using this method one can also recover the integral form of the remainder by choosing
+but the requirements for f needed for the use of mean value theorem are too strong, if one aims to prove the claim in the case that f(k) is only absolutely continuous. However, if one uses Riemann integral instead of Lebesgue integral, the assumptions cannot be weakened.
+Derivation for the integral form of the remainder
+Due to absolute continuity of f(k) on the closed interval between a and x its derivative f(k+1) exists as an L1-function, and we can use fundamental theorem of calculus and integration by parts. This same proof applies for the Riemann integral assuming that f(k) is continuous on the closed interval and differentiable on the open interval between a and x, and this leads to the same result than using the mean value theorem.
+The fundamental theorem of calculus states that
+Now we can integrate by parts and use the fundamental theorem of calculus again to see that
+which is exactly Taylor's theorem with remainder in the integral form in the case k=1. The general statement is proved using induction. Suppose that
+Integrating the remainder term by parts we arrive at
+Substituting this into the formula in (⁎⁎⁎⁎) shows that if it holds for the value k, it must also hold for the value k + 1. Therefore, since it holds for k = 1, it must hold for every positive integer k.
+Derivation for the remainder of multivariate Taylor polynomials
+We prove the special case, where f : Rn → R has continuous partial derivatives up to the order k+1 in some closed ball B with center a.  The strategy of the proof is to apply the one-variable case of Taylor's theorem to the restriction of f to the line segment adjoining x and a.  Parametrize the line segment between a and x by u(t) = a + t(x − a). We apply the one-variable version of Taylor's theorem to the function g(t) = f(u(t)):
+Applying the chain rule for several variables gives
+where $MATH$ is the multinomial coefficient. Since $MATH$ !}}}
+  
+, we get:
+See also
+Footnotes

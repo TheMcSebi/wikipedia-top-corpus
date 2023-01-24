@@ -1,0 +1,88 @@
+Fermat number
+In mathematics, a Fermat number, named after Pierre de Fermat, who first studied them, is a positive integer of the form
+where n is a non-negative integer. The first few Fermat numbers are:
+If 2k + 1 is prime and k > 0, then k must be a power of 2, so 2k + 1 is a Fermat number; such primes are called Fermat primes. As of 2022, the only known Fermat primes are F0 = 3, F1 = 5, F2 = 17, F3 = 257, and F4 = 65537 (sequence A019434 in the OEIS); heuristics suggest that there are no more.
+Basic properties
+The Fermat numbers satisfy the following recurrence relations:
+for n ≥ 1,
+for n ≥ 2. Each of these relations can be proved by mathematical induction. From the second equation, we can deduce Goldbach's theorem (named after Christian Goldbach): no two Fermat numbers share a common integer factor greater than 1. To see this, suppose that 0 ≤ i < j and Fi and Fj have a common factor a > 1. Then a divides both
+and Fj; hence a divides their difference, 2. Since a > 1, this forces a = 2. This is a contradiction, because each Fermat number is clearly odd. As a corollary, we obtain another proof of the infinitude of the prime numbers: for each Fn, choose a prime factor pn; then the sequence {pn} is an infinite sequence of distinct primes.
+Further properties
+Primality
+Fermat numbers and Fermat primes were first studied by Pierre de Fermat, who conjectured that all Fermat numbers are prime. Indeed, the first five Fermat numbers F0, ..., F4 are easily shown to be prime. Fermat's conjecture was refuted by Leonhard Euler in 1732 when he showed that
+Euler proved that every factor of Fn must have the form k 2n+1 + 1 (later improved to k 2n+2 + 1 by Lucas) for n ≥ 2.
+That 641 is a factor of F5 can be deduced from the equalities 641 = 27 × 5 + 1 and 641 = 24 + 54. It follows from the first equality that 27 × 5 ≡ −1 (mod 641) and therefore (raising to the fourth power) that 228 × 54 ≡ 1 (mod 641). On the other hand, the second equality implies that 54 ≡ −24 (mod 641). These congruences imply that 232 ≡ −1 (mod 641).
+Fermat was probably aware of the form of the factors later proved by Euler, so it seems curious that he failed to follow through on the straightforward calculation to find the factor. One common explanation is that Fermat made a computational mistake.
+There are no other known Fermat primes Fn with n > 4, but little is known about Fermat numbers for large n. In fact, each of the following is an open problem:
+As of 2014, it is known that Fn is composite for 5 ≤ n ≤ 32, although of these, complete factorizations of Fn are known only for 0 ≤ n ≤ 11, and there are no known prime factors for n = 20 and n = 24. The largest Fermat number known to be composite is F18233954, and its prime factor 7 × 218233956 + 1 was discovered in October 2020.
+Heuristic arguments
+Heuristics suggest that F4 is the last Fermat prime.
+The prime number theorem implies that a random integer in a suitable interval around N is prime with probability 1 / ln N. If one uses the heuristic that a Fermat number is prime with the same probability as a random integer of its size, and that F5, ..., F32 are composite, then the expected number of Fermat primes beyond F4 (or equivalently, beyond F32) should be 
+One may interpret this number as an upper bound for the probability that a Fermat prime beyond F4 exists.
+This argument is not a rigorous proof. For one thing, it assumes that Fermat numbers behave "randomly", but the factors of Fermat numbers have special properties. Boklan and Conway published a more precise analysis suggesting that the probability that there is another Fermat prime is less than one in a billion.
+Equivalent conditions
+Let $MATH$ be the nth Fermat number. Pépin's test states that for n > 0,
+The expression $MATH$ can be evaluated modulo $MATH$ by repeated squaring. This makes the test a fast polynomial-time algorithm. But Fermat numbers grow so rapidly that only a handful of them can be tested in a reasonable amount of time and space.
+There are some tests for numbers of the form k 2m + 1, such as factors of Fermat numbers, for primality.
+If N = Fn > 3, then the above Jacobi symbol is always equal to −1 for a = 3, and this special case of Proth's theorem is known as Pépin's test. Although Pépin's test and Proth's theorem have been implemented on computers to prove the compositeness of some Fermat numbers, neither test gives a specific nontrivial factor. In fact, no specific prime factors are known for n = 20 and 24.
+Factorization
+Because of Fermat numbers' size, it is difficult to factorize or even to check primality. Pépin's test gives a necessary and sufficient condition for primality of Fermat numbers, and can be implemented by modern computers. The elliptic curve method is a fast method for finding small prime divisors of numbers. Distributed computing project Fermatsearch has found some factors of Fermat numbers. Yves Gallot's proth.exe has been used to find factors of large Fermat numbers. Édouard Lucas, improving Euler's above-mentioned result, proved in 1878 that every factor of the Fermat number $MATH$, with n at least 2, is of the form $MATH$ (see Proth number), where k is a positive integer. By itself, this makes it easy to prove the primality of the known Fermat primes.
+Factorizations of the first twelve Fermat numbers are:
+As of November 2021, only F0 to F11 have been completely factored. The distributed computing project Fermat Search is searching for new factors of Fermat numbers. The set of all Fermat factors is A050922 (or, sorted, A023394) in OEIS.
+The following factors of Fermat numbers were known before 1950 (since then, digital computers have helped find more factors):
+As of January 2021, 356 prime factors of Fermat numbers are known, and 312 Fermat numbers are known to be composite. Several new Fermat factors are found each year.
+Pseudoprimes and Fermat numbers
+Like composite numbers of the form 2p − 1, every composite Fermat number is a strong pseudoprime to base 2. This is because all strong pseudoprimes to base 2 are also Fermat pseudoprimes - i.e.
+for all Fermat numbers.
+In 1904, Cipolla showed that the product of at least two distinct prime or composite Fermat numbers $MATH$ $MATH$ will be a Fermat pseudoprime to base 2 if and only if $MATH$.
+Other theorems about Fermat numbers
+Lemma. — If n is a positive integer,
+$MATH$
+Theorem —  If $MATH$ is an odd prime, then $MATH$ is a power of 2.
+If $MATH$ is a positive integer but not a power of 2, it must have an odd prime factor $MATH$, and we may write $MATH$ where $MATH$.
+By the preceding lemma, for positive integer $MATH$,
+where $MATH$ means "evenly divides". Substituting $MATH$, and $MATH$ and using that $MATH$ is odd,
+and thus
+Because $MATH$, it follows that $MATH$ is not prime. Therefore, by contraposition $MATH$ must be a power of 2.
+Theorem —  A Fermat prime cannot be a Wieferich prime.
+We show if $MATH$ is a Fermat prime (and hence by the above, m is a power of 2), then the congruence $MATH$ does not hold.
+Since $MATH$ we may write $MATH$. If the given congruence holds, then $MATH$, and therefore
+Hence $MATH$, and therefore $MATH$. This leads to $MATH$, which is impossible since $MATH$.
+Theorem (Édouard Lucas) —  Any prime divisor p of $MATH$ is of the form $MATH$ whenever n > 1.
+Let Gp denote the group of non-zero integers modulo p under multiplication, which has order p−1. Notice that 2 (strictly speaking, its image modulo p) has multiplicative order equal to $MATH$ in Gp (since $MATH$ is the square of $MATH$ which is −1 modulo Fn), so that, by Lagrange's theorem, p − 1 is divisible by $MATH$ and p has the form $MATH$ for some integer k, as Euler knew. Édouard Lucas went further. Since n > 1, the prime p above is congruent to 1 modulo 8. Hence (as was known to Carl Friedrich Gauss), 2 is a quadratic residue modulo p, that is, there is integer a such that $MATH$ Then the image of a has order $MATH$ in the group Gp and (using Lagrange's theorem again), p − 1 is divisible by $MATH$ and p has the form $MATH$ for some integer s.
+In fact, it can be seen directly that 2 is a quadratic residue modulo p, since
+Since an odd power of 2 is a quadratic residue modulo p, so is 2 itself.
+A Fermat number cannot be a perfect number or part of a pair of amicable numbers. (Luca 2000)
+The series of reciprocals of all prime divisors of Fermat numbers is convergent. (Křížek, Luca & Somer 2002)
+If nn + 1 is prime, there exists an integer m such that n = 22m. The equation
+nn + 1 = F(2m+m)
+holds in that case.
+Let the largest prime factor of the Fermat number Fn be P(Fn). Then,
+Relationship to constructible polygons
+Carl Friedrich Gauss developed the theory of Gaussian periods in his Disquisitiones Arithmeticae and formulated a sufficient condition for the constructibility of regular polygons. Gauss stated that this condition was also necessary, but never published a proof. Pierre Wantzel gave a full proof of necessity in 1837. The result is known as the Gauss–Wantzel theorem:
+A positive integer n is of the above form if and only if its totient φ(n) is a power of 2.
+Applications of Fermat numbers
+Pseudorandom number generation
+Fermat primes are particularly useful in generating pseudo-random sequences of numbers in the range 1 ... N, where N is a power of 2. The most common method used is to take any seed value between 1 and P − 1, where P is a Fermat prime. Now multiply this by a number A, which is greater than the square root of P and is a primitive root modulo P (i.e., it is not a quadratic residue). Then take the result modulo P. The result is the new value for the RNG.
+This is useful in computer science, since most data structures have members with 2X possible values. For example, a byte has 256 (28) possible values (0–255). Therefore, to fill a byte or bytes with random values, a random number generator that produces values 1–256 can be used, the byte taking the output value −1. Very large Fermat primes are of particular interest in data encryption for this reason. This method produces only pseudorandom values, as after P − 1 repetitions, the sequence repeats. A poorly chosen multiplier can result in the sequence repeating sooner than P − 1.
+Generalized Fermat numbers
+Numbers of the form $MATH$ with a, b any coprime integers, a > b > 0, are called generalized Fermat numbers. An odd prime p is a generalized Fermat number if and only if p is congruent to 1 (mod 4). (Here we consider only the case n > 0, so 3 = $MATH$ is not a counterexample.)
+An example of a probable prime of this form is 1215131072 + 242131072 (found by Kellen Shenton).
+By analogy with the ordinary Fermat numbers, it is common to write generalized Fermat numbers of the form $MATH$ as Fn(a). In this notation, for instance, the number 100,000,001 would be written as F3(10). In the following we shall restrict ourselves to primes of this form, $MATH$, such primes are called "Fermat primes base a". Of course, these primes exist only if a is even.
+If we require n > 0, then Landau's fourth problem asks if there are infinitely many generalized Fermat primes Fn(a).
+Generalized Fermat primes
+Because of the ease of proving their primality, generalized Fermat primes have become in recent years a topic for research within the field of number theory. Many of the largest known primes today are generalized Fermat primes.
+Generalized Fermat numbers can be prime only for even a, because if a is odd then every generalized Fermat number will be divisible by 2.  The smallest prime number $MATH$ with $MATH$ is $MATH$, or 3032 + 1. Besides, we can define "half generalized Fermat numbers" for an odd base, a half generalized Fermat number to base a (for odd a) is $MATH$, and it is also to be expected that there will be only finitely many half generalized Fermat primes for each odd base.
+(In the list, the generalized Fermat numbers ($MATH$) to an even a are $MATH$, for odd a, they are $MATH$. If a is a perfect power with an odd exponent (sequence A070265 in the OEIS), then all generalized Fermat number can be algebraic factored, so they cannot be prime)
+(For the smallest number $MATH$ such that $MATH$ is prime, see OEIS: A253242)
+(See  for more information (even bases up to 1000), also see  for odd bases)
+(For the smallest prime of the form $MATH$ (for odd $MATH$), see also OEIS: A111635)
+(For the smallest even base a such that $MATH$ is prime, see OEIS: A056993)
+The smallest base b such that b2n + 1 is prime are
+The smallest k such that (2n)k + 1 is prime are
+A more elaborate theory can be used to predict the number of bases for which $MATH$ will be prime for fixed $MATH$. The number of generalized Fermat primes can be roughly expected to halve as $MATH$ is increased by 1.
+Largest known generalized Fermat primes
+The following is a list of the 5 largest known generalized Fermat primes. The whole top-5 is discovered by participants in the PrimeGrid project.
+On the Prime Pages one can find the current top 100 generalized Fermat primes.
+See also
+Notes

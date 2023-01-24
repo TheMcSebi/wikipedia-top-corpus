@@ -1,0 +1,27 @@
+Famotidine
+Famotidine, sold under the brand name Pepcid among others, is a histamine H2 receptor antagonist medication that decreases stomach acid production. It is used to treat peptic ulcer disease, gastroesophageal reflux disease, and Zollinger-Ellison syndrome. It is taken by mouth or by injection into a vein. It begins working within an hour.
+Common side effects include headache, intestinal upset, and dizziness. Serious side effects may include pneumonia and seizures. Use in pregnancy appears safe but has not been well studied while use during breastfeeding is not recommended.
+Famotidine was patented in 1979 and came into medical use in 1985. It is available as a generic medication. In 2020, it was the 66th most commonly prescribed medication in the United States, with more than 10 million prescriptions.
+Medical uses
+Pharmacokinetics
+Famotidine has a delayed onset of action, beginning after 90 minutes. However, famotidine has a duration of effect of at least 540 minutes (9.0 h). At its peak effect, 210 minutes (3.5 h) after administration, famotidine reduces acid secretion by 7.3 mmol per 30 minutes.
+Side effects
+The most common side effects associated with famotidine use include headache, dizziness, and constipation or diarrhea.
+Famotidine may contribute to QT prolongation, particularly when used with other QT-elongating drugs, or in people with poor kidney function.
+Mechanism of action
+Activation of H2 receptors located on parietal cells stimulates proton pumps to secrete acid into the stomach lumen. Famotidine, an H2 antagonist, blocks the action of histamine on the parietal cells, ultimately reducing acid secretion into the stomach.
+Interactions
+Unlike cimetidine, the first H2 antagonist, famotidine has a minimal effect on the cytochrome P450 enzyme system, and does not appear to interact with as many drugs as other medications in its class. Some exceptions include antiretrovirals such as atazanavir, chemotherapeutics such as doxorubicin, and antifungal medications such as itraconazole. 
+History
+Famotidine was developed by Yamanouchi Pharmaceutical Co. It was licensed in the mid-1980s by Merck & Co. and is marketed by a joint venture between Merck and Johnson & Johnson. The imidazole ring of cimetidine was replaced with a 2-guanidinothiazole ring. Famotidine proved to be nine times more potent than ranitidine, and thirty-two times more potent than cimetidine.
+It was first marketed in 1981. Pepcid RPD orally disintegrating tablets were released in 1999. Generic preparations became available in 2001, e.g. Fluxid (Schwarz) or Quamatel (Gedeon Richter Ltd.).
+In the United States and Canada, a product called Pepcid Complete, which combines famotidine with an antacid in a chewable tablet to quickly relieve the symptoms of excess stomach acid, is available. In the UK, this product was known as PepcidTwo until its discontinuation in April 2015.
+Famotidine has poor bioavailibility (50%) due to low gastroretention time. Famotidine is less soluble at higher pH, and when used in combination with antacids gastroretention time is increased. This promotes local delivery of these drugs to receptors in the parietal cell membrane and increases bioavailibility. Researchers are developing tablet formulations that rely on other gastroretentive drug delivery systems such as floating tablets to further increase bioavailibility.
+Society and culture
+Certain preparations of famotidine are available over the counter (OTC) in various countries. In the United States and Canada, 10 mg and 20 mg tablets, sometimes in combination with an antacid, are available OTC. Larger doses still require a medical prescription.
+Formulations of famotidine in combination with ibuprofen were marketed by Horizon Pharma under the trade name Duexis.
+Research
+COVID-19
+At the start of the COVID-19 pandemic, some doctors observed that anecdotally some hospitalized patients on famotidine in China may have had better outcomes than other patients that were not taking famotidine. This led to hypotheses about use of famotidine in treatment of COVID-19. Famotidine was researched for potential benefit in treating COVID-19 following hypotheses at the start of the pandemic that it may be an applicable medication. No good evidence of benefit was found.
+Veterinary uses
+Famotidine is given to dogs and cats with acid reflux. Famotidine has been used in combination with an H1 antagonist to treat and prevent urticaria caused by an acute allergic reaction.

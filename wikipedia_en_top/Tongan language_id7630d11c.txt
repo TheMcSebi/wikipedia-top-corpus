@@ -1,0 +1,63 @@
+Tongan language
+Tongan (English pronunciation: /ˈtɒŋən/ or /ˈtɒŋɡən/; lea fakatonga) is an Austronesian language of the Polynesian branch native to the island nation of Tonga. It has around 187,000 speakers. It uses the word order verb–subject–object.
+Related languages
+Tongan is one of the multiple languages in the Polynesian branch of the Austronesian languages, along with Hawaiian, Māori, Samoan and Tahitian, for example. Together with Niuean, it forms the Tongic subgroup of Polynesian.
+Tongan is unusual among Polynesian languages in that it has a so-called definitive accent. As with all Polynesian languages, Tongan has adapted the phonological system of proto-Polynesian.
+Tongan has heavily influenced the Wallisian language after Tongans colonized the island of ʻUvea in the 15th and 16th centuries.
+Writing
+History
+The earliest attempts to transcribe the Tongan language were made by Willem Schouten and Jacob Le Maire of the Dutch East India Company when they first arrived in 1616. They transcribed a limited number of nouns and verbs using phonetic Dutch spelling and added them to a growing list of Polynesian vocabulary. Abel Tasman, also of the Dutch East India Company, attempted to converse with indigenous Tongans using vocabulary from this list when he arrived on Tongatapu on 20 January 1643, although he was poorly understood, likely using words added from different Polynesian languages.
+Alphabet
+Tongan is presently written in a subset of the Latin script. In the old, "missionary" alphabet, the order of the letters was modified: the vowels were put first and then followed by the consonants: a, e, i, o, u, etc. That was still so as of the Privy Council decision of 1943 on the orthography of the Tongan language. However, C. M. Churchward's grammar and dictionary favoured the standard European alphabetical order, which, since his time, has been in use exclusively:
+Notes:
+Note that the above order is strictly followed in proper dictionaries. Therefore, ngatu follows nusi, ʻa follows vunga and it also follows z if foreign words occur. Words with long vowels come directly after those with short vowels. Improper wordlists may or may not follow these rules. (For example, the Tonga telephone directory for years now ignores all rules.)
+The original j, used for /tʃ/, disappeared in the beginning of the 20th century, merging with /s/. By 1943, j was no longer used. Consequently, many words written with s in Tongan are cognate to those with t in other Polynesian languages. For example, Masisi (a star name) in Tongan is cognate with Matiti in Tokelauan; siale (Gardenia taitensis) in Tongan and tiare in Tahitian. This seems to be a natural development, as /tʃ/ in many Polynesian languages derived from Proto-Polynesian /ti/.
+Phonology
+Consonants
+/l/ may also be heard as an alveolar flap sound [ɺ].
+Syllabification
+Although the acute accent has been available on most personal computers from their early days onwards, when Tongan newspapers started to use computers around 1990 to produce their papers, they were unable to find, or failed to enter, the proper keystrokes, and it grew into a habit to put the accent after the vowel instead of on it: not á but a´. But as this distance seemed to be too big, a demand arose for Tongan fonts where the acute accent was shifted to the right, a position halfway in between the two extremes above. Most papers still follow this practice.
+Grammar
+Articles
+English, like most European languages, uses only two articles:
+By contrast, Tongan has three articles, and possessives also have a three-level definiteness distinction:
+Registers
+There are three registers which consist of
+There are also further distinctions between 
+For example, the phrase "Come and eat!" translates to:
+Pronouns
+The Tongan language distinguishes three numbers: singular, dual, and plural. They appear as the three major columns in the tables below.
+The Tongan language distinguishes four persons: First person exclusive, first person inclusive, second person and third person. They appear as the four major rows in the tables below.  This gives us 12 main groups.
+Subjective and objective
+In addition, possessive pronouns are either alienable (reddish) or inalienable (greenish), which Churchward termed subjective and objective. This marks a distinction that has been referred to, in some analyses of other Polynesian languages, as a-possession versus o-possession, respectively, though more Tongan-appropriate version would be ʻe-possession and ho-possession.
+Subjective and objective are fitting labels when dealing with verbs: ʻeku taki "my leading" vs. hoku taki "my being led".  However, this is less apt when used on nouns.  Indeed, in most contexts hoku taki would be interpreted as "my leader", as a noun rather than a verb.  What then of nouns that have no real verb interpretation, such as fale "house"?
+Churchward himself laid out the distinction thus:
+ʻE possessives are generally used for:
+Ho possessives are generally used for
+There are plenty of exceptions which do not fall under the guidelines above, for instance, ʻeku tamai, "my father".  The number of exceptions is large enough to make the alienable and inalienable distinction appear on the surface to be as arbitrary as the grammatical gender distinction for Romance languages, but by and large the above guidelines hold true.
+Cardinal pronouns
+The cardinal pronouns are the main personal pronouns which in Tongan can either be preposed (before the verb, light colour) or postposed (after the verb, dark colour). The first are the normal alienable possessive pronouns, the latter the stressed alienable pronouns, which are sometimes used as reflexive pronouns, or with kia te in front the inalienable possessive forms. (There is no possession involved in the cardinal pronouns and therefore no alienable or inalienable forms).
+Examples of use.
+Another archaic aspect of Tongan is the retention of preposed pronouns. They are used much less frequently in Sāmoan and have completely disappeared in East Polynesian languages, where the pronouns are cognate with the Tongan postposed form minus ki-. (We love you: ʻOku ʻofa kimautolu kia te kimoutolu; Māori: e aroha nei mātou i a koutou).
+Possessive pronouns
+The possessives for every person and number (1st person plural, 3rd person dual, etc.) can be further divided into normal or ordinary (light colour), emotional (medium colour) and emphatic (bright colour) forms. The latter is rarely used, but the two former are common and further subdivided in definite (saturated colour) and indefinite (greyish colour) forms.
+Notes:
+Examples of use.
+Other pronouns
+These are the remainders: the pronominal adjectives (mine), indirect object pronouns or pronominal adverbs (for me) and the adverbial possessives (as me).
+Notes:
+Examples of use:
+Numerals
+In Tongan, "telephone-style" numerals can be used: reading numbers by simply saying their digits one by one. For 'simple' two-digit multiples of ten both the 'full-style' and 'telephone-style' numbers are in equally common use, while for other two-digit numbers the 'telephone-style' numbers are almost exclusively in use:
+ʻOku fiha ia? (how much (does it cost)?) Paʻanga ʻe ua-nima-noa (T$2.50)
+In addition there are special, traditional counting systems for fish, coconuts, yams, etc.
+Literature
+One of the first publications of Tongan texts was in William Mariner's grammar and dictionary of the Tongan language, edited and published in 1817 by John Martin as part of volume 2 of Mariner's Account of the Natives of the Tonga Islands, in the South Pacific Ocean.  Orthography has changed since Mariner's time.
+An annotated list of dictionaries and vocabularies of the Tongan language is available at the website of the Bibliographical Society of America under the resource heading 'Breon Mitchell": https://bibsocamer.org/bibsite-home/list-of-resources/.
+Tongan is primarily a spoken, rather than written, language. The Bible and the Book of Mormon were translated into Tongan and few other books were written in it.
+There are several weekly and monthly magazines in Tongan, but there are no daily newspapers.
+Weekly newspapers, some of them twice per week:
+Monthly or two-monthly papers, mostly church publications:
+Calendar
+The Tongan calendar was based on the phases of the moon and had 13 months. The main purpose of the calendar, for Tongans, was to determine the time for the planting and cultivation of yams, which were Tonga's most important staple food. 
+Notes

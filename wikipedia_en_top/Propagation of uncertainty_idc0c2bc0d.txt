@@ -1,0 +1,73 @@
+Propagation of uncertainty
+In statistics, propagation of uncertainty (or propagation of error) is the effect of variables' uncertainties (or errors, more specifically random errors) on the uncertainty of a function based on them. When the variables are the values of experimental measurements they have uncertainties due to measurement limitations (e.g., instrument precision) which propagate due to the combination of variables in the function.
+The uncertainty u can be expressed in a number of ways.
+It may be defined by the absolute error Δx. Uncertainties can also be defined by the relative error (Δx)/x, which is usually written as a percentage.
+Most commonly, the uncertainty on a quantity is quantified in terms of the standard deviation, σ, which is the positive square root of the variance. The value of a quantity and its error are then expressed as an interval x ± u. If the statistical probability distribution of the variable is known or can be assumed, it is possible to derive confidence limits to describe the region within which the true value of the variable may be found. For example, the 68% confidence limits for a one-dimensional variable belonging to a normal distribution are approximately ± one standard deviation σ from the central value x, which means that the region x ± σ will cover the true value in roughly 68% of cases.
+If the uncertainties are correlated then covariance must be taken into account. Correlation can arise from two different sources. First, the measurement errors may be correlated. Second, when the underlying values are correlated across a population, the uncertainties in the group averages will be correlated. For very expensive data or complex functions, the error propagation may be achieved with a surrogate model, e.g. based on Bayesian probability theory.
+Linear combinations
+Let $MATH$ be a set of m functions, which are linear combinations of $MATH$ variables $MATH$ with combination coefficients $MATH$:
+or in matrix notation,
+Also let the variance–covariance matrix of x = (x1, ..., xn) be denoted by $MATH$ and let the mean value be denoted by $MATH$:
+$MATH$ is the outer product.
+Then, the variance–covariance matrix $MATH$ of f is given by
+In component notation, the equation
+reads
+This is the most general expression for the propagation of error from one set of variables onto another. When the errors on x are uncorrelated, the general expression simplifies to
+where $MATH$ is the variance of k-th element of the x vector.
+Note that even though the errors on x may be uncorrelated, the errors on f are in general correlated; in other words, even if $MATH$ is a diagonal matrix, $MATH$ is in general a full matrix.
+The general expressions for a scalar-valued function f are a little simpler (here a is a row vector):
+Each covariance term $MATH$ can be expressed in terms of the correlation coefficient $MATH$ by $MATH$, so that an alternative expression for the variance of f is
+In the case that the variables in x are uncorrelated, this simplifies further to
+In the simple case of identical coefficients and variances, we find
+For the arithmetic mean, $MATH$, the result is the standard error of the mean:
+Non-linear combinations
+When f is a set of non-linear combination of the variables x, an interval propagation could be performed in order to compute intervals which contain all consistent values for the variables. In a probabilistic approach, the function f must usually be linearised by approximation to a first-order Taylor series expansion, though in some cases, exact formulae can be derived that do not depend on the expansion as is the case for the exact variance of products. The Taylor expansion would be:
+where $MATH$ denotes the partial derivative of fk with respect to the i-th variable, evaluated at the mean value of all components of vector x. Or in matrix notation,
+where J is the Jacobian matrix. Since f0 is a constant it does not contribute to the error on f. Therefore, the propagation of error follows the linear case, above, but replacing the linear coefficients, Aki and Akj by the partial derivatives, $MATH$ and $MATH$. In matrix notation,
+That is, the Jacobian of the function is used to transform the rows and columns of the variance-covariance matrix of the argument.
+Note this is equivalent to the matrix expression for the linear case with $MATH$.
+Simplification
+Neglecting correlations or assuming independent variables yields a common formula among engineers and experimental scientists to calculate error propagation, the variance formula:
+where $MATH$ represents the standard deviation of the function $MATH$, $MATH$ represents the standard deviation of $MATH$, $MATH$ represents the standard deviation of $MATH$, and so forth.
+It is important to note that this formula is based on the linear characteristics of the gradient of $MATH$ and therefore it is a good estimation for the standard deviation of $MATH$ as long as $MATH$ are small enough. Specifically, the linear approximation of  $MATH$ has to be close to $MATH$ inside a neighbourhood of radius $MATH$.
+Example
+Any non-linear differentiable function, $MATH$, of two variables, $MATH$ and $MATH$, can be expanded as
+now, taking variance on both sides, and using the formula for variance of a linear combination of variables:
+$MATH$
+hence:
+where $MATH$ is the standard deviation of the function $MATH$, $MATH$ is the standard deviation of $MATH$, $MATH$ is the standard deviation of $MATH$ and $MATH$ is the covariance between $MATH$ and $MATH$.
+In the particular case that $MATH$, $MATH$. Then
+or
+where $MATH$ is the correlation between $MATH$ and $MATH$.
+When the variables $MATH$ and $MATH$ are uncorrelated, $MATH$. Then
+Caveats and warnings
+Error estimates for non-linear functions are biased on account of using a truncated series expansion. The extent of this bias depends on the nature of the function. For example, the bias on the error calculated for log(1+x) increases as x increases, since the expansion to x is a good approximation only when x is near zero.
+For highly non-linear functions, there exist five categories of probabilistic approaches for uncertainty propagation; see Uncertainty quantification for details.
+Reciprocal and shifted reciprocal
+In the special case of the inverse or reciprocal $MATH$, where $MATH$ follows a standard normal distribution, the resulting distribution is a reciprocal standard normal distribution, and there is no definable variance.
+However, in the slightly more general case of a shifted reciprocal function $MATH$ for $MATH$ following a general normal distribution, then mean and variance statistics do exist in a principal value sense, if the difference between the pole $MATH$ and the mean $MATH$ is real-valued.
+Ratios
+Ratios are also problematic; normal approximations exist under certain conditions.
+Example formulae
+This table shows the variances and standard deviations of simple functions of the real variables $MATH$, with standard deviations $MATH$ covariance $MATH$, and correlation $MATH$.
+The real-valued coefficients $MATH$ and $MATH$ are assumed exactly known (deterministic), i.e., $MATH$.
+In the columns "Variance" and "Standard Deviation", A and B should be understood as expectation values (i.e. values around which we're estimating the uncertainty), and $MATH$ should be understood as the value of the function calculated at the expectation value of $MATH$.
+For uncorrelated variables ($MATH$, $MATH$) expressions for more complicated functions can be derived by combining simpler functions. For example, repeated multiplication, assuming no correlation, gives
+For the case $MATH$ we also have Goodman's expression for the exact variance: for the uncorrelated case it is
+and therefore we have:
+Effect of correlation on differences
+If A and B are uncorrelated, their difference A-B will have more variance than either of them. An increasing positive correlation ($MATH$) will decrease the variance of the difference, converging to zero variance for perfectly correlated variables with the same variance. On the other hand, a negative correlation ($MATH$) will further increase the variance of the difference, compared to the uncorrelated case.
+For example, the self-subtraction f=A-A has zero variance $MATH$ only if the variate is perfectly autocorrelated ($MATH$). If A is uncorrelated, $MATH$, then the output variance is twice the input variance, $MATH$. And if A is perfectly anticorrelated, $MATH$, then the input variance is quadrupled in the output, $MATH$ (notice $MATH$ for f = aA - aA in the table above).
+Example calculations
+Inverse tangent function
+We can calculate the uncertainty propagation for the inverse tangent function as an example of using partial derivatives to propagate error.
+Define
+where $MATH$ is the absolute uncertainty on our measurement of x. The derivative of f(x) with respect to x is
+Therefore, our propagated uncertainty is
+where $MATH$ is the absolute propagated uncertainty.
+Resistance measurement
+A practical application is an experiment in which one measures current, I, and voltage, V, on a resistor in order to determine the resistance, R, using Ohm's law, R = V / I.
+Given the measured variables with uncertainties, I ± σI and V ± σV, and neglecting their possible correlation, the uncertainty in the computed quantity, σR, is:
+See also
+References
+Further reading

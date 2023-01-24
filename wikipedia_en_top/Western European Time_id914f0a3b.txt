@@ -1,0 +1,20 @@
+Western European Time
+Western European Time (WET, UTC±00:00) is a time zone covering parts of western Europe and consists of countries using UTC±00:00 (also known as Greenwich Mean Time, shortly called GMT). It is one of the three standard time zones in the European Union along with Central European Time and Eastern European Time.
+The following Western European countries and regions use UTC±00:00 in winter months:
+All the above countries except Iceland implement daylight saving time in summer (from the last Sunday in March to the last Sunday in October each year), switching to Western European Summer Time (WEST, UTC+01:00), which is one hour ahead of WET. WEST is called British Summer Time in the UK and is legally defined as Irish Standard Time in Ireland.
+The nominal span of the UTC±00:00 time zone is 7.5°E to 7.5°W (0° ± 7.5°), but does not include the Netherlands, Belgium, Luxembourg, France, Gibraltar or Spain (except Canary Islands) which use Central European Time (CET) even though these are mostly or completely west of 7.5°E. Conversely, Iceland and eastern Greenland use UTC±00:00 although both are west of 7.5°W. In September 2013, a Spanish parliamentary committee recommended switching to UTC±00:00.
+Historical uses
+A slight variation of UTC±00:00, based until 1911 on the Paris Meridian, was used in:
+Until the Second World War, France used UTC±00:00. However, the German occupation switched France to German time, and it has remained in CET since then. Two other occupied territories, Belgium and the Netherlands, did the same, and Spain also switched to CET in solidarity with Germany under the orders of General Franco.
+In the United Kingdom, from 1940 to 1945 British Summer Time (BST=CET) was used in winters, and from 1941 to 1945 and again in 1947, British Double Summer Time (BDST=CEST) was used in summers. Between 18 February 1968 and 31 October 1971, BST was used all year round.
+In Ireland, from 1940 to 1946 Irish Summer Time (IST=CET) was used all year round, with no 'double' summer time akin to that in the United Kingdom. Between 18 February 1968 and 31 October 1971, Irish Standard Time was used all year round.
+In Portugal, CET was used in the mainland from 1966 to 1976 and from 1992 to 1996. The autonomous region of the Azores used WET from 1992 to 1993.
+Anomalies
+Regions located outside UTC longitudes
+Located west of 22°30′ W ("physical" UTC−2)
+Located west of 7°30′ W ("physical" UTC-1)
+Areas located within UTC+00:00 longitudes using other time zones
+These areas are actually located between 7°30′E and 7°30′W (nominally UTC+0) but use UTC+01:00 (Central European Time, nominally for longitudes between 7°30′E and 22°30′E):
+All of 
+and most of
+and minor parts of other countries.

@@ -1,0 +1,57 @@
+7400-series integrated circuits
+The 7400 series of integrated circuits (ICs) are a popular logic family of transistor–transistor logic (TTL) logic chips.
+In 1964, Texas Instruments introduced the SN5400 series of logic chips, in a ceramic semiconductor package. A low-cost plastic package SN7400 series was introduced in 1966 which quickly gained over 50% of the logic chip market, and eventually becoming de facto standardized electronic components.  Over the decades, many generations of pin-compatible descendant families evolved to include support for low power CMOS technology, lower supply voltages, and surface mount packages.
+Overview
+The 7400 series contains hundreds of devices that provide everything from basic logic gates, flip-flops, and counters, to special purpose bus transceivers and arithmetic logic units (ALU). Specific functions are described in a list of 7400 series integrated circuits. Some TTL logic parts were made with an extended military-specification temperature range. These parts are prefixed with 54 instead of 74 in the part number. A short-lived 64 prefix on Texas Instruments parts indicated an industrial temperature range; this prefix had been dropped from the TI literature by 1973. Since the 1970s, new product families have been released to replace the original 7400 series. More recent TTL logic families were manufactured using CMOS or BiCMOS technology rather than TTL.
+Today, surface-mounted CMOS versions of the 7400 series are used in various applications in electronics and for glue logic in computers and industrial electronics. The original through-hole devices in dual in-line packages (DIP/DIL) were the mainstay of the industry for many decades. They are useful for rapid breadboard-prototyping and for education and remain available from most manufacturers. The fastest types and very low voltage versions are typically surface-mount only, however.
+The first part number in the series, the 7400, is a 14-pin IC containing four two-input NAND gates. Each gate uses two input pins and one output pin, with the remaining two pins being power (+5 V) and ground. This part was made in various through-hole and surface-mount packages, including flat pack and plastic/ceramic dual in-line. Additional characters in a part number identify the package and other variations.
+Unlike the older resistor-transistor logic integrated circuits, bipolar TTL gates were unsuitable to be used as analog devices, providing low gain, poor stability, and low input impedance. Special-purpose TTL devices were used to provide interface functions such as Schmitt triggers or monostable multivibrator timing circuits. Inverting gates could be cascaded as a ring oscillator, useful for purposes where high stability was not required.
+History
+Although the 7400 series was the first de facto industry standard TTL logic family (i.e. second-sourced by several semiconductor companies), there were earlier TTL logic families such as:
+The 7400 quad NAND gate was the first product in the series, introduced by Texas Instruments in a military grade metal flat package (5400W) in October 1964. The pin assignment of this early series differed from the de facto standard set by the later series in DIP packages (in particular, ground was connected to pin 11 and the power supply to pin 4, compared to pins 7 and 14 for DIP packages). The extremely popular commercial grade plastic DIP (7400N) followed in the third quarter of 1966.
+The 5400 and 7400 series were used in many popular minicomputers in the 1970s and early 1980s. Some models of the DEC PDP-series 'minis' used the 74181 ALU as the main computing element in the CPU.  Other examples were the Data General Nova series and Hewlett-Packard 21MX, 1000, and 3000 series.
+In 1965, typical quantity-one pricing for the SN5400 (military grade, in ceramic welded flat-pack) was around 22 USD.
+As of 2007, individual commercial-grade chips in molded epoxy (plastic) packages can be purchased for approximately US$0.25 each, depending on the particular chip.
+Families
+7400 series parts were constructed using bipolar transistors, forming what is referred to as transistor–transistor logic or TTL.  Newer series, more or less compatible in function and logic level with the original parts, use CMOS technology or a combination of the two (BiCMOS).  Originally the bipolar circuits provided higher speed but consumed more power than the competing 4000 series of CMOS devices.  Bipolar devices are also limited to a fixed power supply voltage, typically 5 V, while CMOS parts often support a range of supply voltages.
+Milspec-rated devices for use in extended temperature conditions are available as the 5400 series.  Texas Instruments also manufactured radiation-hardened devices with the prefix RSN, and the company offered beam-lead bare dies for integration into hybrid circuits with a BL prefix designation.
+
+Regular-speed TTL parts were also available for a time in the 6400 series – these had an extended industrial temperature range of −40 °C to +85 °C.  While companies such as Mullard listed 6400-series compatible parts in 1970 data sheets, by 1973 there was no mention of the 6400 family in the Texas Instruments TTL Data Book.  Some companies have also offered industrial extended temperature range variants using the regular 7400-series part numbers with a prefix or suffix to indicate the temperature grade.
+As integrated circuits in the 7400 series were made in different technologies, usually compatibility was retained with the original TTL logic levels and power supply voltages.  An integrated circuit made in CMOS is not a TTL chip, since it uses field-effect transistors (FETs) and not bipolar junction transistors, but similar part numbers are retained to identify similar logic functions and electrical (power and I/O voltage) compatibility in the different subfamilies.
+Over 40 different logic subfamilies use this standardized part number scheme.
+Many parts in the CMOS HC, AC, and FC families are also offered in "T" versions (HCT, ACT, and FCT) which have input thresholds that are compatible with both TTL and 3.3 V CMOS signals.  The non-T parts have conventional CMOS input thresholds, which are more restrictive than TTL thresholds.  Typically, CMOS input thresholds require high-level signals to be at least 70% of Vcc and low-level signals to be at most 30% of Vcc. (TTL has the input high level above 2.0 V and the input low level below 0.8 V, so a TTL high-level signal could be in the forbidden middle range for 5 V CMOS.)
+The 74H family is the same basic design as the 7400 family with resistor values reduced. This reduced the typical propagation delay from 9 ns to 6 ns but increased the power consumption. The 74H family provided a number of unique devices for CPU designs in the 1970s. Many designers of military and aerospace equipment used this family over a long period and as they need exact replacements, this family is still produced by Lansdale Semiconductor.
+The 74S family, using Schottky circuitry, uses more power than the 74, but is faster. The 74LS family of ICs is a lower-power version of the 74S family, with slightly higher speed but lower power dissipation than the original 74 family; it became the most popular variant once it was widely available. Many 74LS ICs can be found in microcomputers and digital consumer electronics manufactured in the 1980s and early 1990s.
+The 74F family was introduced by Fairchild Semiconductor and adopted by other manufacturers; it is faster than the 74, 74LS and 74S families.
+Through the late 1980s and 1990s newer versions of this family were introduced to support the lower operating voltages used in newer CPU devices.
+Part numbering
+Part number schemes varied by manufacturer. The part numbers for 7400-series logic devices often use the following designators:
+For example, "SN5400N" signifies that the part is a 7400-series IC probably manufactured by Texas Instruments ("SN" originally meaning "Semiconductor Network") using commercial processing, is of the military temperature rating ("54"), and is of the TTL family (absence of a family designator), its function being the quad 2-input NAND gate ("00") implemented in a plastic through-hole DIP package ("N").
+Many logic families maintain a consistent use of the device numbers as an aid to designers. Often a part from a different 74x00 subfamily could be substituted ("drop-in replacement") in a circuit, with the same function and pin-out yet more appropriate characteristics for an application (perhaps speed or power consumption), which was a large part of the appeal of the 74C00 series over the competing CD4000B series, for example.  But there are a few exceptions where incompatibilities (mainly in pin-out) across the subfamilies occurred, such as:
+Second sources from Europe and Eastern Bloc
+Some manufacturers, such as Mullard and Siemens, had pin-compatible TTL parts, but with a completely different numbering scheme; however, data sheets identified the 7400-compatible number as an aid to recognition.
+At the time the 7400 series was being made, some European manufacturers (that traditionally followed the Pro Electron naming convention), such as Philips/Mullard, produced a series of TTL integrated circuits with part names beginning with FJ. Some examples of FJ series are:
+The Soviet Union started manufacturing TTL ICs with 7400-series pinout in the late 1960s and early 1970s, such as the K155ЛA3, which was pin-compatible with the 7400 part available in the United States, except for using a metric spacing of 2.5 mm between pins instead of the 0.1 inches (2.54 mm) pin-to-pin spacing used in the west.
+Another peculiarity of the Soviet-made 7400 series was the packaging material used in the 1970s–1980s. Instead of the ubiquitous black resin, they had a brownish-green body colour with subtle swirl marks created during the moulding process. It was jokingly referred to in the Eastern Bloc electronics industry as the "elephant-dung packaging", due to its appearance.
+The Soviet integrated circuit designation is different from the Western series:
+Before July 1974 the two letters from the functional description were inserted after the first digit of the series. Examples: К1ЛБ551 and К155ЛА1 (7420), К1ТМ552 and К155ТМ2 (7474) are the same ICs made at different times.
+Clones of the 7400 series were also made in other Eastern Bloc countries:
+A number of different technologies were available from the Soviet Union,
+
+
+
+Czechoslovakia,
+
+Poland, and East Germany. The 8400 series in the table below indicates an industrial temperature range from −25 °C to +85 °C (as opposed to −40 °C to +85 °C for the 6400 series).
+Around 1990 the production of standard logic ceased in all Eastern European countries except the Soviet Union and later Russia and Belarus. As of 2016, the series 133, К155, 1533, КР1533, 1554, 1594, and 5584 were in production at "Integral" in Belarus,
+as well as the series 130 and 530 at "NZPP-KBR",
+134 and 5574 at "VZPP",
+533 at "Svetlana",
+1564, К1564, КР1564 at "NZPP",
+1564, К1564 at "Voshod",
+1564 at "Exiton",
+and 133, 530, 533, 1533 at "Mikron" in Russia.
+The Russian company Angstrem manufactures 54HC circuits as the 5514БЦ1 series, 54AC as the 5514БЦ2 series, and 54LVC as the 5524БЦ2 series.
+See also
+References
+Further reading

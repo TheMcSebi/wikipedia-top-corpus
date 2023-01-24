@@ -1,0 +1,27 @@
+IP code
+The IP code or ingress protection code indicates how well a device is protected against water and dust. It is defined by the International Electrotechnical Commission (IEC) under the international standard IEC 60529 which classifies and provides a guideline to the degree of protection provided by mechanical casings and electrical enclosures against intrusion, dust, accidental contact, and water. It is published in the European Union by the European Committee for Electrotechnical Standardization (CENELEC) as EN 60529.
+The standard aims to provide users more detailed information than vague marketing terms such as waterproof. For example, a cellular phone rated at IP67 is "dust resistant" and can be "immersed in 1 meter of freshwater for up to 30 minutes". Similarly, an electrical socket rated IP22 is protected against insertion of fingers and will not become unsafe during a specified test in which it is exposed to vertically or nearly vertically dripping water. IP22 or IP2X are typical minimum requirements for the design of electrical accessories for indoor use.
+The digits indicate conformity with the conditions summarized in the tables below. The digit 0 is used where no protection is provided. The digit is replaced with the letter X when insufficient data has been gathered to assign a protection level. The device can become less capable, however it cannot become unsafe.
+There are no hyphens in a standard IP code. IPX-8 (for example) is thus an invalid IP code.
+Code breakdown
+This table shows what each digit or part of the IP code represents.
+First digit: Solid particle protection
+The first digit indicates the level of protection that the enclosure provides against access to hazardous parts (e.g., electrical conductors, moving parts) and the ingress of solid foreign objects.
+Second digit: Liquid ingress protection
+The second digit indicates the level of protection that the enclosure provides against harmful ingress of water.
+The ratings for water ingress are not cumulative beyond IPX6. A device that is compliant with IPX7 (covering immersion in water) is not necessarily compliant with IPX5 or IPX6 (covering exposure to water jets). A device that meets both tests is indicated by listing both tests separated by a slash, e.g. IPX5/IPX7.
+(All tests with the letter "K" are defined by ISO 20653 (replacing DIN 40050-9) and are not found in IEC 60529, except for IPx9 which is the same as the IP69K water test.)
+Additional letter (optional)
+For the protection of personnel against access to hazardous parts with:
+Supplementary letter (optional)
+For the protection of equipment specific to:
+The letter K is specified in ISO 20653 (replacing DIN 40050-9), and not in IEC 60529.
+IP69K and IPx9
+DIN 40050-9 extended the newer IEC 60529 rating system with an IP69K rating for high-pressure, high-temperature wash-down applications. Enclosures conforming with ISO 20653:2013 must not only be dust-tight (IP6X), but also able to withstand high-pressure and steam cleaning.
+The IP69K standard was originally developed for road vehicles—especially those that need regular intensive cleaning (dump trucks, concrete mixers, etc.)—but it also finds use in other areas, such as food processing machinery and car wash systems. It was superseded by ISO 20653:2013 Road Vehicles-Degrees of protection (IP code), and complemented by the addition of a level 9 water ingress testing to IEC 60529, which includes essentially the same spray test as IP69K, but also includes, in Figure 10 of the standard, a drawing for a test fixture designed to verify the correct water pressure.
+Test setup
+The test specifies a spray nozzle that is fed with 80 °C (176 °F) water at 8–10 MPa (80–100 bar; 1,200–1,500 psi) and a flow rate of 14–16 litres per minute (3.7–4.2 US gal/min). The nozzle is held 10–15 cm from the tested device at angles of 0°, 30°, 60° and 90° for 30 seconds each. The test device sits on a turntable that completes a rotation once every 12 seconds (5 rpm). The IPx9 specification details a freehand method for testing larger specimens that will not fit on a turntable (see table above). The free hand method also requires (at least) one additional minute of spray time (1 min/m2, 3 min. minimum). The test distance also increases to .175 m (0.15–0.2 m per section 14.2.9).
+United States (NEMA rating)
+In the U.S., the National Electrical Manufacturers Association defines NEMA enclosure types in NEMA standard number 250. The following table outlines which IEC 60529 IP code each respective NEMA guideline meets. Ratings between the two standards are not directly equivalent: NEMA ratings also require additional product features and tests (such as functionality under icing conditions,  enclosures for hazardous areas, knock-outs for cable connections and others) not addressed by IP ratings.
+Waterproofness without IP rating
+There is a common misconception that smartphones that have no IP rating are equal to having no water resistance at all. Due to the high cost of getting IP certified, many companies make products waterproof without certifying them to reduce overhead costs.

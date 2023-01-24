@@ -1,0 +1,42 @@
+Infineon Technologies
+Infineon Technologies AG is a German semiconductor manufacturer founded in 1999, when the semiconductor operations of the former parent company Siemens AG were spun off. Infineon has about 50,280 employees and is one of the ten largest semiconductor manufacturers worldwide. In fiscal year 2021, the company achieved sales of €11.06 billion. Infineon bought Cypress Semiconductor in April 2020.
+Markets
+Infineon markets semiconductors and systems for automotive, industrial, and multimarket sectors, as well as chip card and security products. Infineon has subsidiaries in the US in Milpitas, California, and in the Asia-Pacific region, in Singapore and Tokyo, Japan.
+Infineon has a number of facilities in Europe, one in Dresden. Infineon's high power segment is in Warstein, Germany; Villach and Graz in Austria; Cegléd in Hungary; and Italy. It also runs R&D centers in France, Singapore, Romania, Taiwan, UK, Ukraine and India, as well as fabrication units in Singapore, Malaysia, Indonesia, and China. There's also a Shared Service Center in Maia, Portugal.
+Infineon is listed in the DAX index of the Frankfurt Stock Exchange.
+In 2010, a proxy contest broke out in advance of the impending shareholders' meeting over whether board member Klaus Wucherer would be allowed to step into the chairman's office upon the retirement of the then-current chairman Max Dietrich Kley.
+After several restructurings, Infineon today comprises four business areas:
+Automotive (ATV)
+Infineon provides semiconductor products for use in powertrains (engine and transmission control), comfort electronics (e.g., steering, shock absorbers, air conditioning) as well as in safety systems (ABS, airbags, ESP). The product portfolio includes microcontrollers, power semiconductors and sensors. In fiscal year 2018 (ending September), sales amounted to €3,284 million for the ATV segment.
+Industrial Power Control (IPC)
+The industrial division of the company includes power semiconductors and modules which are used for generation, transmission and consumption of electrical energy. Its application areas include control of electric drives for industrial applications and household appliances, modules for renewable energy production, conversion and transmission. This segment achieved sales of €1,323 million in fiscal year 2018.
+Power & Sensor Systems (PSS)
+The division Power & Sensor Systems sums up the business with semiconductor components for efficient power management or high-frequency applications. Those find application in lighting management systems and LED lighting, power supplies for servers, PCs, notebooks and consumer electronics, custom devices for peripheral devices, game consoles, applications in medical technology, high-frequency components having a protective function for communication and tuner systems and silicon MEMS microphones. In fiscal year 2018 PSS generated €2,318 million.
+Connected Secure Systems (CSS)
+The CSS business provides microcontrollers for mobile phone SIM cards, payment cards, security chips and chip-based solutions for passports, identity cards and other official documents. Infineon delivers a significant number of chips for the new German identity card. In addition, CSS provides solutions for applications with high security requirements such as pay television and Trusted Computing. CSS achieved €664 million in fiscal year 2018. "Infineon is the number 1 in embedded security" (IHS, 2016 – IHS Embedded Digital Security Report).
+Acquisitions and divestitures
+ADMTek acquisition
+Infineon bought ADMtek in 2004.
+Qimonda carve out
+The former Memory Products division was carved out in 2006 as Infineon's subsidiary Qimonda AG, of which Infineon last held a little over three-quarters. At its height Qimonda employed about 13,500 people; it was listed on the New York Stock Exchange until it filed for bankruptcy with the district court in Munich in January 2009.
+Lantiq carve out
+On 7 July 2009, Infineon Technologies AG agreed by contract with the U.S. investor Golden Gate Capital on the sale of its Wireline Communications for €250 million. The resulting company was named Lantiq and had around 1,000 employees. It was acquired by Intel in 2015 for US$345 million.
+Mobile Communications sale to Intel
+On 31 January 2011, the sale of the business segment of wireless solutions to Intel was completed for US$1.4 billion. The resulting new company had approximately 3,500 employees and operated as Intel Mobile Communications (IMC). The smartphone modem business of IMC was announced to be acquired by Apple Inc. in 2019.
+International Rectifier acquisition
+Infineon Technologies agreed on 20 August 2014 to buy the International Rectifier Corporation (IR) for about $3 billion, one third by cash and two-thirds by credit line. The acquisition of International Rectifier was officially closed on 13 January 2015.
+Wolfspeed acquisition attempt
+In July 2016, Infineon announced it agreed to buy the North Carolina-based company Wolfspeed from Cree Inc. for $850 million in cash. The deal was however stopped due to US security concerns.
+Innoluce BV acquisition
+In October 2016, Infineon acquired the company Innoluce which has expertise in MEMS and LiDAR systems for use in autonomous cars. The MEMS lidar system can scan up to 5,000 data points a second with a range of 250 meters with an expected unit cost of $250 in mass production.
+RF Power sale to Cree
+In March 2018, Infineon Technologies AG sold its RF Power Business Unit to Cree Inc. for €345 Million.
+Cypress Semiconductor acquisition
+In June 2019, Infineon announced it would acquire Cypress Semiconductors for $9.4 billion. The acquisition closed on 17 April 2020.
+Management
+The board of directors consists of Jochen Hanebeck (Chief Executive Officer), Helmut Gassel (Chief Marketing Officer), Rutger Wijburg (Chief Operations Officer), Constanze Hufenbecher (Chief Digital Transformation Officer) and Sven Schneider (Chief Financial Officer).
+Litigation
+In 2004–2005, an investigation was carried out into a DRAM price fixing conspiracy during 1999–2002 that damaged competition and raised PC prices. As a result, Samsung paid a $300 million fine, Hynix paid $185 million, Infineon: $160 million.
+Security flaw
+In October 2017, it was reported that a flaw, dubbed ROCA, in a code library developed by Infineon, which had been in widespread use in security products such as smartcards and TPMs, enabled private keys to be inferred from public keys. As a result, all systems depending upon the privacy of such keys were vulnerable to compromise, such as identity theft or spoofing. Affected systems include 750,000 Estonian national ID cards, 300,000 Slovak national ID cards, and computers that use Microsoft BitLocker drive encryption in conjunction with an affected TPM. Microsoft released a patch that works around the flaw via Windows Update immediately after the disclosure.
+Notes

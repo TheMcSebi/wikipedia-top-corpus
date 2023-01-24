@@ -1,0 +1,69 @@
+Summation
+In mathematics, summation is the addition of a sequence of any kind of numbers, called addends or summands; the result is their sum or total. Beside numbers, other types of values can be summed as well: functions, vectors, matrices, polynomials and, in general, elements of any type of mathematical objects on which an operation denoted "+" is defined.
+Summations of infinite sequences are called series. They involve the concept of limit, and are not considered in this article.
+The summation of an explicit sequence is denoted as a succession of additions. For example, summation of [1, 2, 4, 2] is denoted 1 + 2 + 4 + 2, and results in 9, that is, 1 + 2 + 4 + 2 = 9. Because addition is associative and commutative, there is no need of parentheses, and the result is the same irrespective of the order of the summands. Summation of a sequence of only one element results in this element itself. Summation of an empty sequence (a sequence with no elements), by convention, results in 0.
+Very often, the elements of a sequence are defined, through a regular pattern, as a function of their place in the sequence. For simple patterns, summation of long sequences may be represented with most summands replaced by ellipses. For example, summation of the first 100 natural numbers may be written as 1 + 2 + 3 + 4 + ⋯ + 99 + 100. Otherwise, summation is denoted by using Σ notation, where $MATH$ is an enlarged capital Greek letter sigma. For example, the sum of the first n natural numbers can be denoted as $MATH$
+For long summations, and summations of variable length (defined with ellipses or Σ notation), it is a common problem to find closed-form expressions for the result. For example,
+Although such formulas do not always exist, many summation formulas have been discovered—with some of the most common and elementary ones being listed in the remainder of this article.
+Notation
+Capital-sigma notation
+Mathematical notation uses a symbol that compactly represents summation of many similar terms: the summation symbol, $MATH$, an enlarged form of the upright capital Greek letter sigma. This is defined as
+where i is the index of summation; ai is an indexed variable representing each term of the sum; m is the lower bound of summation, and n is the upper bound of summation. The "i = m" under the summation symbol means that the index i starts out equal to m. The index, i, is incremented by one for each successive term, stopping when i = n.
+This is read as "sum of ai, from i = m to n".
+Here is an example showing the summation of squares:
+In general, while any variable can be used as the index of summation (provided that no ambiguity is incurred), some of the most common ones include letters such as $MATH$, $MATH$, $MATH$, and $MATH$; the latter is also often used for the upper bound of a summation.
+Alternatively, index and bounds of summation are sometimes omitted from the definition of summation if the context is sufficiently clear. This applies particularly when the index runs from 1 to n. For example, one might write that:
+Generalizations of this notation are often used, in which an arbitrary logical condition is supplied, and the sum is intended to be taken over all values satisfying the condition. For example:
+is an alternative notation for  $MATH$ the sum of $MATH$ over all (integers) $MATH$ in the specified range. Similarly,
+is the sum of $MATH$ over all elements $MATH$ in the set $MATH$, and
+is the sum of $MATH$ over all positive integers $MATH$ dividing $MATH$.
+There are also ways to generalize the use of many sigma signs. For example,
+is the same as
+A similar notation is used for the product of a sequence, where $MATH$, an enlarged form of the Greek capital letter pi, is used instead of $MATH$
+Special cases
+It is possible to sum fewer than 2 numbers:
+These degenerate cases are usually only used when the summation notation gives a degenerate result in a special case.
+For example, if $MATH$ in the definition above, then there is only one term in the sum; if $MATH$, then there is none.
+Formal definition
+Summation may be defined recursively as follows:
+Measure theory notation
+In the notation of measure and integration theory, a sum can be expressed as a definite integral,
+where $MATH$ is the subset of the integers from $MATH$ to $MATH$, and where $MATH$ is the counting measure.
+Calculus of finite differences
+Given a function f that is defined over the integers in the interval [m, n], the following equation holds:
+This is the analogue of the fundamental theorem of calculus in calculus of finite differences, which states that:
+where
+is the derivative of f.
+An example of application of the above equation is the following: 
+Using binomial theorem, this may be rewritten as: 
+The above formula is more commonly used for inverting of the difference operator $MATH$, defined by:
+where f is a function defined on the nonnegative integers.
+Thus, given such a function f, the problem is to compute the antidifference of f, a function $MATH$  such that $MATH$. That is, $MATH$
+This function is defined up to the addition of a constant, and may be chosen as
+There is not always a closed-form expression for such a summation, but Faulhaber's formula provides a closed form in the case where $MATH$ and, by linearity, for every polynomial function of n.
+Approximation by definite integrals
+Many such approximations can be obtained by the following connection between sums and integrals, which holds for any increasing function f:
+and for any decreasing function f:
+For more general approximations, see the Euler–Maclaurin formula.
+For summations in which the summand is given (or can be interpolated) by an integrable function of the index, the summation can be interpreted as a Riemann sum occurring in the definition of the corresponding definite integral. One can therefore expect that for instance
+since the right-hand side is by definition the limit for $MATH$ of the left-hand side. However, for a given summation n is fixed, and little can be said about the error in the above approximation without additional assumptions about f: it is clear that for wildly oscillating functions the Riemann sum can be arbitrarily far from the Riemann integral.
+Identities
+The formulae below involve finite sums; for infinite summations or finite summations of expressions involving trigonometric functions or other transcendental functions, see list of mathematical series.
+General identities
+Powers and logarithm of arithmetic progressions
+More generally, one has Faulhaber's formula for $MATH$
+where $MATH$ denotes a Bernoulli number, and $MATH$ is a binomial coefficient.
+Summation index in exponents
+In the following summations, a is assumed to be different from 1.
+Binomial coefficients and factorials
+There exist very many summation identities involving binomial coefficients (a whole chapter of Concrete Mathematics is devoted to just the basic techniques). Some of the most basic ones are the following.
+Involving the binomial theorem
+Involving permutation numbers
+In the following summations, $MATH$ is the number of k-permutations of n.
+Others
+Harmonic numbers
+Growth rates
+The following are useful approximations (using theta notation):
+History
+See also
+Notes

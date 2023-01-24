@@ -1,0 +1,60 @@
+Samsung Galaxy
+Samsung Galaxy  (Korean: 삼성 갤럭시, stylised as SΛMSUNG Galaxy since 2015 (except Japan where it omits the Samsung branding), previously stylised as Samsung GALAXY; abbreviated as SG) is a series of computing and mobile computing devices that are designed, manufactured and marketed by Samsung Electronics. The product line includes the Samsung Galaxy S series of high-end smartphones, the Samsung Galaxy Tab series of tablets, the Samsung Galaxy Note series of tablets and phablets with the added functionality of a stylus, the foldable Samsung Galaxy Z series, and smartwatches including the first version of the Samsung Galaxy Gear, with later versions dropping the Galaxy branding, until the release of the Samsung Galaxy Watch in 2018.
+Samsung Galaxy devices use the Android operating system produced by Google, with a custom user interface called One UI (with previous versions being known as Samsung Experience and TouchWiz). However, the Galaxy TabPro S is the first Galaxy-branded Windows 10 device that was announced in CES 2016. The Galaxy Watch is the first Galaxy-branded smartwatch since the release of later iterations of the Gear smartwatch from 2014 to 2017.
+In 2020 Samsung added the Samsung Galaxy Chromebook 2-in-1 laptop running ChromeOS to the Galaxy branding lineup. The follow-on Samsung Galaxy Chromebook 2 was released in 2021.
+Definitions
+Categories
+Galaxy S,
+Galaxy Note (discontinued in 2021),
+Galaxy Fit,
+Galaxy A,
+Galaxy J (discontinued in 2019),
+Galaxy M,
+Galaxy Tab,
+Galaxy Fold,
+Galaxy Flip,
+Galaxy Watch,
+Galaxy Grand (discontinued).
+Smartphones
+The flagship Galaxy smartphones are the Galaxy S and the phablet Galaxy Note series. The Galaxy Z series are foldable smartphones. The Galaxy A series, Galaxy M series and Galaxy F series are mid-range. Other lines like the C, J, and W are discontinued.
+Model numbers
+Since September 2013,  model numbers of devices in the Samsung Galaxy series are in the "SM-XXXX" format (excluding the Galaxy J SC-02F, Galaxy Centura SCH-S738C, and SGH-N075T). Previously, from 2009 until September 2013, the model numbers were in the "GT-XXXX" format.
+Devices
+Samsung Galaxy Z series
+The Galaxy Z series is a line of high-end foldable smartphones. The line started in 2019 with the Galaxy Z Fold. The latest phones from this series are the Galaxy Z Flip4 and the Galaxy Z Fold4, both released in August 2022.
+Samsung Galaxy S (Super Smart) series
+The Galaxy S series is a line of high-end smartphones. The latest models are the Galaxy S22, S22+, and S22 Ultra, released in February 2022, and the S21 FE, released in January 2022.
+Samsung Galaxy A (Alpha) series
+The Galaxy A series is a line of mid-range to high-end Android smartphones manufactured by Samsung Electronics. The Galaxy A series is similar to the high-end Galaxy S series, but with lower specifications and features.
+Samsung Galaxy M (Millennial) series
+The Galaxy M series is a line of online-exclusive, mid-range ; considered as the successor to the Galaxy J and Galaxy On series.
+Samsung Galaxy F (Fun/Flipkart) series
+The Galaxy F series is a newer line of mid-range to low-end phones.
+Galaxy XCover series
+The Galaxy XCover series is a line of rugged “business” phones, which have low-end specifications.
+Discontinued lines
+Samsung released multiple series of smartphones, often overlapping with each other. Most of these series were dropped.
+Other phones
+Samsung Galaxy Tab Series
+The Samsung Galaxy Tab series is a line of Android-powered tablets. There are two sub-categories currently under this series:
+Smartwatches
+Samsung announced the Samsung Galaxy Gear, a smartwatch running Android 4.3, on 4 September 2013. The Galaxy Gear was Samsung's only smartwatch to feature "Galaxy" branding; later Samsung smartwatches use the Samsung Gear branding. The Gear series was later succeeded by the Samsung Galaxy Watch series.
+In a software update in May 2014, Samsung replaced the operating system of the Galaxy Gear from Android to Tizen . Samsung's OneUI, which is running on newer Samsung Galaxy devices released after 2019, is available to Samsung Galaxy Watch on 20 May 2019.
+Activity trackers
+Samsung announced the Samsung Galaxy Fit, an activity tracker positioned below the Galaxy Watch line. The first iteration was released on 2019. Samsung later announced the Galaxy Fit 2, which is a follow up of their first tracker from 2019.
+Wireless earbuds
+Samsung announced the Samsung Galaxy Buds on 20 February 2019. The Galaxy Buds is the new replacement to the Samsung Gear IconX.
+Samsung Galaxy Buds2
+Samsung Galaxy Buds2 Pro
+Laptops
+In 2020 Samsung released the Samsung Galaxy Chromebook 2-in-1 laptop running ChromeOS. In 2021 the followup Samsung Galaxy Chromebook 2 was released. These laptops are based on ChromeOS rather than Android.
+Media player
+Cameras
+Projectors
+Region locking and CSC codes
+Starting from the Samsung Galaxy Note 3, Samsung phones and tablets contained a warning label stating that it would only operate with SIM cards from the region the phone was sold in. A spokesperson clarified the policy, stating that it was intended to prevent grey-market reselling, and that it only applied to the first SIM card inserted. For devices to use a SIM card from other regions, one of the following actions totaling five minutes or longer in length must first be performed with the SIM card from the local region:
+With the launch of the Samsung Galaxy S8 series in 2017, that process has changed. Due to the fact that many variants use a Multi-CSC, it will only work with SIM cards from the same CSC group. For example, an AT&T SIM card will not work on cellular-based Galaxy devices sold in Europe and other countries.
+"Over the Horizon"
+"Over the Horizon" is the trademark sound for Samsung smartphone devices, first introduced in 2011 on the Galaxy S II. It was composed by Joong-sam Yun and appears as music in the music library of most Samsung phones released since 2011. Prior to 2011, "Beyond Samsung" served as Samsung's trademark music track, while "Samsung Tune" was used as the default ringtone. The sound appears as the default ringtone, as well as the sound when the phone turns on or off (a snippet is used), and as a notification sound. While the basic composition of the six-note tune has not changed since its inception, various versions of different genres have been introduced as the product line evolved. 
+While the first two versions were created in-house at Samsung, later versions were outsourced to external musicians. These include symphonic arrangements by Jamie Christopherson in 2013 and 2015, a jazz fusion arrangement by Swedish band Dirty Loops in 2016, a crossover by Grammy winner Jacob Collier in 2017, an orchestral arrangement by Icelandic composer Pétur Jónsson in 2018, a classical crossover by Academy Award-winning composer Steven Price in 2019 performed by the London Philharmonic Orchestra, a nature inspired version in 2020, an all-piano composition by Korean pianist Yiruma in 2021, and a jazztronica version by LA-based musician Kiefer Shackelford in 2022. The sound has been covered by various popular artists who have released their own arrangements and remixes of the song, such as Quincy Jones, Icona Pop, Yiruma, Suga of BTS, and various K-Pop artists.
+In Samsung's U.S. registration of the trademark for the sound, it is described as "the sound of a bell playing a B4 dotted eighth note, a B4 sixteenth note, an F#5 sixteenth note, a B5 sixteenth note, an A#5 eighth note, and an F#5 half note."

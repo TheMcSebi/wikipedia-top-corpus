@@ -1,0 +1,34 @@
+Analytic function
+In mathematics, an analytic function is a function that is locally given by a convergent power series. There exist both real analytic functions and complex analytic functions. Functions of each type are infinitely differentiable, but complex analytic functions exhibit properties that do not generally hold for real analytic functions. A function is analytic if and only if its Taylor series about x0 converges to the function in some neighborhood for every x0 in its domain.
+Definitions
+Formally, a function $MATH$ is real analytic on an open set $MATH$ in the real line if for any $MATH$ one  can write
+in which the coefficients $MATH$ are real numbers and the series is convergent to $MATH$ for $MATH$ in a neighborhood of $MATH$.
+Alternatively, a real analytic function is an infinitely differentiable function such that the Taylor series at any point $MATH$ in its domain
+converges to $MATH$ for $MATH$ in a neighborhood of $MATH$  pointwise. The set of all real analytic functions on a given set $MATH$ is often denoted by $MATH$.
+A function $MATH$ defined on some subset of the real line is said to be real analytic at a point $MATH$ if there is a neighborhood $MATH$ of $MATH$ on which $MATH$ is real analytic.
+The definition of a complex analytic function is obtained by replacing, in the definitions above, "real" with "complex" and "real line" with "complex plane". A function is complex analytic if and only if it is holomorphic i.e. it is complex differentiable. For this reason the terms "holomorphic" and "analytic" are often used interchangeably for such functions.
+Examples
+Typical examples of analytic functions are
+Typical examples of functions that are not analytic are
+Alternative characterizations
+The following conditions are equivalent:
+Complex analytic functions are exactly equivalent to holomorphic functions, and are thus much more easily characterized.
+For the case of an analytic function with several variables (see below),  the real analyticity can be characterized using the Fourier–Bros–Iagolnitzer transform. 
+In the multivariable case, real analytic functions satisfy a direct generalization of the third characterization. Let $MATH$ be an open set, and let $MATH$. 
+Then $MATH$ is real analytic on $MATH$ if and only if $MATH$ and for every compact $MATH$ there exists a constant $MATH$ such that for every multi-index $MATH$ the following bound holds
+Properties of analytic functions
+A polynomial cannot be zero at too many points unless it is the zero polynomial (more precisely, the number of zeros is at most the degree of the polynomial). A similar but weaker statement holds for analytic functions. If the set of zeros of an analytic function ƒ has an accumulation point inside its domain, then ƒ is zero everywhere on the connected component containing the accumulation point. In other words, if (rn) is a sequence of distinct numbers such that ƒ(rn) = 0 for all n and this sequence converges to a point r in the domain of D, then ƒ is identically zero on the connected component of D  containing r. This is known as the identity theorem.
+Also, if all the derivatives of an analytic function at a point are zero, the function is constant on the corresponding connected component.
+These statements imply that while analytic functions do have more degrees of freedom than polynomials, they are still quite rigid.
+Analyticity and differentiability
+As noted above, any analytic function (real or complex) is infinitely differentiable (also known as smooth, or $MATH$). (Note that this differentiability is in the sense of real variables; compare complex derivatives below.) There exist smooth real functions that are not analytic: see non-analytic smooth function. In fact there are many such functions.
+The situation is quite different when one considers complex analytic functions and complex derivatives. It can be proved that any complex function differentiable (in the complex sense) in an open set is analytic. Consequently, in complex analysis, the term analytic function is synonymous with holomorphic function.
+Real versus complex analytic functions
+Real and complex analytic functions have important differences (one could notice that even from their different relationship with differentiability). Analyticity of complex functions is a more restrictive property, as it has more restrictive necessary conditions and complex analytic functions have more structure than their real-line counterparts.
+According to Liouville's theorem, any bounded complex analytic function defined on the whole complex plane is constant. The corresponding statement for real analytic functions, with the complex plane replaced by the real line, is clearly false; this is illustrated by
+Also, if a complex analytic function is defined in an open ball around a point x0, its power series expansion at x0 is convergent in the whole open ball (holomorphic functions are analytic). This statement for real analytic functions (with open ball meaning an open interval of the real line rather than an open disk of the complex plane) is not true in general; the function of the example above gives an example for x0 = 0 and a ball of radius exceeding 1, since the power series 1 − x2 + x4 − x6... diverges for |x| ≥ 1.
+Any real analytic function on some open set on the real line can be extended to a complex analytic function on some open set of the complex plane. However, not every real analytic function defined on the whole real line can be extended to a complex function defined on the whole complex plane. The function ƒ(x) defined in the paragraph above is a counterexample, as it is not defined for x = ±i. This explains why the Taylor series of ƒ(x) diverges for |x| > 1, i.e., the radius of convergence is 1 because the complexified function has a pole at distance 1 from the evaluation point 0 and no further poles within the open disc of radius 1 around the evaluation point.
+Analytic functions of several variables
+One can define analytic functions in several variables by means of power series in those variables (see power series). Analytic functions of several variables have some of the same properties as analytic functions of one variable. However, especially for complex analytic functions, new and interesting phenomena show up in 2 or more complex dimensions:
+See also
+Notes

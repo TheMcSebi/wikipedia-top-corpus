@@ -1,0 +1,31 @@
+Puzzle video game
+Puzzle video games make up a broad genre of video games that emphasize puzzle solving. The types of puzzles can test problem-solving skills, including logic, pattern recognition, sequence solving, spatial recognition, and word completion.
+History
+Puzzle video games owe their origins to brain teasers and puzzles throughout human history. The mathematical strategy game Nim, and other traditional thinking games such as Hangman and Bulls and Cows (commercialized as Mastermind), were popular targets for computer implementation.
+Universal Entertainment's Space Panic, released in arcades in 1980, is a precursor to later puzzle-platform games such as Apple Panic (1981), Lode Runner (1983), Door Door (1983), and Doki Doki Penguin Land (1985).
+Blockbuster, by Alan Griesemer and Stephen Bradshaw (Atari 8-bit, 1981), is a computerized version of the Rubik's Cube puzzle. Snark Hunt (Atari 8-bit, 1982) is a single-player game of logical deduction, a clone of the 1970s Black Box board game.
+Elements of Konami's tile-sliding Loco-Motion (1982) were later seen in Pipe Mania from LucasArts (1989).
+In Boulder Dash (1984), the goal is to collect diamonds while avoiding or exploiting rocks that fall when the dirt beneath them is removed.
+Chain Shot! (1985) introduced removing groups of the same color tiles on a grid, causing the remaining tiles to fall into the gap.
+Uncle Henry's Nuclear Waste Dump (1986) has similarities to Tetris, although it was published prior to Tetris reaching the United States.
+Tetris revolutionized and popularized the puzzle game genre. The game was created by Soviet game designer Alexey Pajitnov in 1984. Pajitnov was inspired by a traditional puzzle game named Pentominos in which players arrange blocks into lines without any gaps. The game was released by Spectrum Holobyte for MS-DOS in 1987 and Atari Games in arcades in 1988, and sold 30 million copies for Game Boy.
+In Lemmings (1991), a series of creatures walk into deadly situations, and a player assigns jobs to specific lemmings to guide the swarm to a safe destination.
+The 1994 MS-DOS game Shariki, by Eugene Alemzhin, introduced the mechanic of swapping adjacent elements to tile matching games. It was little known at the time, but later had a major influence on the genre.
+Interest in Mahjong video games from Japan began to grow in 1994.
+When Minesweeper was released with Windows 95, players began using a mouse to play puzzle games.
+Modern puzzle games
+In 2001, PopCap Games released Bejewled, a  direct clone of the 1994 tile-matching game Shariki with improved visuals. It sparked interest in the match-three mechanic which became the foundation for other popular games, including Candy Crush Saga and Puzzle & Dragons, both from 2012.
+Portal (2007) was followed by other physics-based puzzle games.
+Subgenres
+Physics game
+A physics game is a type of logical puzzle video game wherein the player must use the game's physics and environment to complete each puzzle. Physics games use consistent physics to make games more challenging. The genre is popular in online flash games and mobile games. Educators have used these games to demonstrate principles of physics.
+Physics-based logic puzzle games include Portal, The Talos Principle, The Witness, Braid, Fez, World of Goo, and Cut the Rope, and projectile collision games such as Angry Birds, Peggle, Monster Strike, and Crush the Castle.
+Coding
+Coding games are logical puzzle games that require programming elements. Examples include The Incredible Machine, SpaceChem, and Infinifactory.
+Exploration
+This subgenre includes point-and-click games that often exhibit similarities with adventure games and walking simulators. Unlike logical puzzle games, these games generally require inductive reasoning to solve. The defining trait is that the player must experiment with mechanisms in each level before they can solve them. Puzzle elements often do not have consistency throughout the game, and thus require guessing and checking, and exploration to reveal more of the puzzle.
+Exploration games include Myst, Limbo, The Dig, Monument Valley, and escape room games such as The Room.
+Hidden object game
+A hidden object game, sometimes called hidden picture or hidden object puzzle adventure (HOPA), is a genre of puzzle video game in which the player must find items from a list that are hidden within a scene. Hidden object games are a popular trend in casual gaming.
+Tile-matching
+In tile-matching video games, the player manipulates tiles in order to make them disappear according to a matching criterion. The genre began with 1985's Chain Shot! and has similarities to falling-block games such as Tetris. This genre includes games that require pieces to be swapped such as Bejeweled or Candy Crush Saga, games that adapt the classic tile-based game Mahjong such as Mahjong Trails, and games in which pieces are shot on the board such as Zuma. Puzzle games based on Tetris include tile-matching games where the matching criterion is to place a given number of tiles of the same type so that they adjoin each other. That number is often three, and the corresponding subset of tile-matching games is referred to as match-three games.

@@ -1,0 +1,55 @@
+Distributive property
+In mathematics, the distributive property of binary operations generalizes the distributive law, which asserts that the equality
+is always true in elementary algebra.
+For example, in elementary arithmetic, one has
+One says that multiplication distributes over addition.
+This basic property of numbers is part of the definition of most algebraic structures that have two operations called addition and multiplication, such as complex numbers, polynomials, matrices, rings, and fields. It is also encountered in Boolean algebra and mathematical logic, where each of the logical and (denoted $MATH$) and the logical or (denoted $MATH$) distributes over the other.
+Definition
+Given a set $MATH$ and two binary operators $MATH$ and $MATH$ on $MATH$
+When $MATH$ is commutative, the three conditions above are logically equivalent.
+Meaning
+The operators used for examples in this section are those of the usual addition $MATH$ and multiplication $MATH$
+If the operation denoted $MATH$ is not commutative, there is a distinction between left-distributivity and right-distributivity:
+In either case, the distributive property can be described in words as:
+To multiply a sum (or difference) by a factor, each summand (or minuend and subtrahend) is multiplied by this factor and the resulting products are added (or subtracted).
+If the operation outside the parentheses (in this case, the multiplication) is commutative, then left-distributivity implies right-distributivity and vice versa, and one talks simply of distributivity.
+One example of an operation that is "only" right-distributive is division, which is not commutative:
+In this case, left-distributivity does not apply:
+The distributive laws are among the axioms for rings (like the ring of integers) and fields (like the field of rational numbers). Here multiplication is distributive over addition, but addition is not distributive over multiplication. Examples of structures with two operations that are each distributive over the other are Boolean algebras such as the algebra of sets or the switching algebra.
+Multiplying sums can be put into words as follows: When a sum is multiplied by a sum, multiply each summand of a sum with each summand of the other sum (keeping track of signs) then add up all of the resulting products.
+Examples
+Real numbers
+In the following examples, the use of the distributive law on the set of real numbers $MATH$ is illustrated. When multiplication is mentioned in elementary mathematics, it usually refers to this kind of multiplication. From the point of view of algebra, the real numbers form a field, which ensures the validity of the distributive law.
+Matrices
+The distributive law is valid for matrix multiplication. More precisely,
+for all  $MATH$-matrices $MATH$ and $MATH$-matrices $MATH$ as well as
+for all $MATH$-matrices $MATH$ and $MATH$-matrices $MATH$ 
+Because the commutative property does not hold for matrix multiplication, the second law does not follow from the first law. In this case, they are two different laws.
+Other examples
+Propositional logic
+Rule of replacement
+In standard truth-functional propositional logic, distribution in logical proofs uses two valid rules of replacement to expand individual occurrences of certain logical connectives, within some formula, into separate applications of those connectives across subformulas of the given formula. The rules are
+where "$MATH$", also written $MATH$ is a metalogical symbol representing "can be replaced in a proof with" or "is logically equivalent to".
+Truth functional connectives
+Distributivity is a property of some logical connectives of truth-functional propositional logic. The following logical equivalences demonstrate that distributivity is a property of particular connectives. The following are truth-functional tautologies.
+Distributivity and rounding
+In approximate arithmetic, such as floating-point arithmetic, the distributive property of multiplication (and division) over addition may fail because of the limitations of arithmetic precision.  For example, the identity $MATH$ fails in decimal arithmetic, regardless of the number of significant digits. Methods such as banker's rounding may help in some cases, as may increasing the precision used, but ultimately some calculation errors are inevitable.
+In rings and other structures
+Distributivity is most commonly found in semirings, notably the particular cases of rings and distributive lattices.
+A semiring has two binary operations, commonly denoted $MATH$ and $MATH$ and requires that $MATH$ must distribute over $MATH$
+A ring is a semiring with additive inverses.
+A lattice is another kind of algebraic structure with two binary operations, $MATH$ 
+If either of these operations distributes over the other (say $MATH$ distributes over $MATH$), then the reverse also holds ($MATH$ distributes over $MATH$), and the lattice is called distributive. See also Distributivity (order theory).
+A Boolean algebra can be interpreted either as a special kind of ring (a Boolean ring) or a special kind of distributive lattice (a Boolean lattice). Each interpretation is responsible for different distributive laws in the Boolean algebra.
+Similar structures without distributive laws are near-rings and near-fields instead of rings and division rings. The operations are usually defined to be distributive on the right but not on the left.
+Generalizations
+In several mathematical areas, generalized distributivity laws are considered. This may involve the weakening of the above conditions or the extension to infinitary operations. Especially in order theory one finds numerous important variants of distributivity, some of which include infinitary operations, such as the infinite distributive law; others being defined in the presence of only one binary operation, such as the according definitions and their relations are given in the article distributivity (order theory). This also includes the notion of a completely distributive lattice.
+In the presence of an ordering relation, one can also weaken the above equalities by replacing $MATH$ by either $MATH$ or $MATH$ Naturally, this will lead to meaningful concepts only in some situations. An application of this principle is the notion of sub-distributivity as explained in the article on interval arithmetic.
+In category theory, if $MATH$ and $MATH$ are monads on a category $MATH$ a distributive law $MATH$ is a natural transformation $MATH$ such that $MATH$ is a lax map of monads $MATH$ and $MATH$ is a colax map of monads $MATH$ This is exactly the data needed to define a monad structure on $MATH$: the multiplication map is $MATH$ and the unit map is $MATH$ See: distributive law between monads.
+A generalized distributive law has also been proposed in the area of information theory.
+Antidistributivity
+The ubiquitous identity that relates inverses to the binary operation in any group, namely $MATH$ which is taken as an axiom in the more general context of a semigroup with involution, has sometimes been called an antidistributive property (of inversion as a unary operation).
+In the context of a near-ring, which removes the commutativity of the additively written group and assumes only one-sided distributivity, one can speak of (two-sided) distributive elements but also of antidistributive elements. The latter reverse the order of (the non-commutative) addition; assuming a left-nearring (i.e. one which all elements distribute when multiplied on the left), then an antidistributive element $MATH$ reverses the order of addition when multiplied to the right: $MATH$
+In the study of propositional logic and Boolean algebra, the term antidistributive law is sometimes used to denote the interchange between conjunction and disjunction when implication factors over them:
+These two tautologies are a direct consequence of the duality in De Morgan's laws.
+Notes

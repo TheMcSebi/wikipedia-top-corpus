@@ -1,0 +1,33 @@
+Normal subgroup
+In abstract algebra, a normal subgroup (also known as an invariant subgroup or self-conjugate subgroup) is a subgroup that is invariant under conjugation by members of the group of which it is a part. In other words, a subgroup $MATH$ of the group $MATH$ is normal in $MATH$ if and only if $MATH$ for all $MATH$ and $MATH$ The usual notation for this relation is $MATH$
+Normal subgroups are important because they (and only they) can be used to construct quotient groups of the given group.  Furthermore, the normal subgroups of $MATH$ are precisely the kernels of group homomorphisms with domain $MATH$ which means that they can be used to internally classify those homomorphisms.
+Évariste Galois was the first to realize the importance of the existence of normal subgroups.
+Definitions
+A subgroup $MATH$ of a group $MATH$ is called a normal subgroup of $MATH$ if it is invariant under conjugation; that is, the conjugation of an element of $MATH$ by an element of $MATH$ is always in $MATH$  The usual notation for this relation is $MATH$
+Equivalent conditions
+For any subgroup $MATH$ of $MATH$ the following conditions are equivalent to $MATH$ being a normal subgroup of $MATH$ Therefore, any one of them may be taken as the definition:
+Examples
+For any group $MATH$ the trivial subgroup $MATH$ consisting of just the identity element of $MATH$ is always a normal subgroup of $MATH$  Likewise, $MATH$ itself is always a normal subgroup of $MATH$ (If these are the only normal subgroups, then $MATH$ is said to be simple.)  Other named normal subgroups of an arbitrary group include the center of the group (the set of elements that commute with all other elements) and the commutator subgroup $MATH$  More generally, since conjugation is an isomorphism, any characteristic subgroup is a normal subgroup.
+If $MATH$ is an abelian group then every subgroup $MATH$ of $MATH$ is normal, because $MATH$ A group that is not abelian but for which every subgroup is normal is called a Hamiltonian group.
+A concrete example of a normal subgroup is the subgroup $MATH$ of the symmetric group $MATH$ consisting of the identity and both three-cycles.  In particular, one can check that every coset of $MATH$ is either equal to $MATH$ itself or is equal to $MATH$  On the other hand, the subgroup $MATH$ is not normal in $MATH$ since $MATH$ This illustrates the general fact that any subgroup $MATH$ of index two is normal.
+In the Rubik's Cube group, the subgroups consisting of operations which only affect the orientations of either the corner pieces or the edge pieces are normal.
+The translation group is a normal subgroup of the Euclidean group in any dimension. This means: applying a rigid transformation, followed by a translation and then the inverse rigid transformation, has the same effect as a single translation. By contrast, the subgroup of all rotations about the origin is not a normal subgroup of the Euclidean group, as long as the dimension is at least 2: first translating, then rotating about the origin, and then translating back will typically not fix the origin and will therefore not have the same effect as a single rotation about the origin.
+Properties
+Lattice of normal subgroups
+Given two normal subgroups, $MATH$ and $MATH$ of $MATH$ their intersection $MATH$and their product $MATH$ are also normal subgroups of $MATH$
+The normal subgroups of $MATH$ form a lattice under subset inclusion with least element, $MATH$ and greatest element, $MATH$ The meet of two normal subgroups, $MATH$ and $MATH$ in this lattice is their intersection and the join is their product.
+The lattice is complete and modular.
+Normal subgroups, quotient groups and homomorphisms
+If $MATH$ is a normal subgroup, we can define a multiplication on cosets as follows: 
+
+This relation defines a mapping $MATH$ To show that this mapping is well-defined, one needs to prove that the choice of representative elements $MATH$ does not affect the result. To this end, consider some other representative elements $MATH$ Then there are $MATH$ such that $MATH$ It follows that 
+where we also used the fact that $MATH$ is a normal subgroup, and therefore there is $MATH$ such that $MATH$ This proves that this product is a well-defined mapping between cosets.
+With this operation, the set of cosets is itself a group, called the quotient group and denoted with $MATH$ There is a natural homomorphism, $MATH$ given by $MATH$ This homomorphism maps $MATH$ into the identity element of $MATH$ which is the coset $MATH$ that is, $MATH$
+In general, a group homomorphism, $MATH$ sends subgroups of $MATH$ to subgroups of $MATH$ Also, the preimage of any subgroup of $MATH$ is a subgroup of $MATH$ We call the preimage of the trivial group $MATH$ in $MATH$ the kernel of the homomorphism and denote it by $MATH$ As it turns out, the kernel is always normal and the image of $MATH$ is always isomorphic to $MATH$ (the first isomorphism theorem). In fact, this correspondence is a bijection between the set of all quotient groups of $MATH$ and the set of all homomorphic images of $MATH$ (up to isomorphism). It is also easy to see that the kernel of the quotient map, $MATH$ is $MATH$ itself, so the normal subgroups are precisely the kernels of homomorphisms with domain $MATH$
+Normal subgroups and Sylow Theorem
+The Second Sylow Theorem states: If $MATH$ and $MATH$ are Sylow p-subgroups of a group $MATH$, then there exists $MATH$ such that $MATH$
+There is a direct corollary of the theorem above:
+Let $MATH$ be a finite group and $MATH$ a Sylow p-subgroup for some prime $MATH$. Then $MATH$ is normal in $MATH$ if and only if $MATH$ is the only Sylow p-subgroup in $MATH$.
+Notes
+References
+Further reading

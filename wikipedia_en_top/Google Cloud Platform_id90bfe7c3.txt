@@ -1,0 +1,26 @@
+Google Cloud Platform
+Google Cloud Platform (GCP), offered by Google, is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products, such as Google Search, Gmail, Google Drive, and YouTube. Alongside a set of management tools, it provides a series of modular cloud  services including computing, data storage, data analytics and machine learning. Registration requires a credit card or bank account details.
+
+
+Google Cloud Platform provides infrastructure as a service, platform as a service, and serverless computing environments.
+In April 2008, Google announced App Engine, a platform for developing and hosting web applications in Google-managed data centers, which was the first cloud computing service from the company. The service became generally available in November 2011. Since the announcement of App Engine, Google added multiple cloud services to the platform.
+Google Cloud Platform is a part of Google Cloud, which includes the Google Cloud Platform public cloud infrastructure, as well as Google Workspace (G Suite), enterprise versions of Android and ChromeOS, and application programming interfaces (APIs) for machine learning and enterprise mapping services.
+Products
+Google lists over 100 products under the Google Cloud brand. Some of the key services are listed below.
+Compute
+Storage & Databases
+Networking
+Big Data
+Cloud AI
+Management Tools
+Identity & Security
+IoT
+API Platform
+Regions and zones
+As of Q3 2022, Google Cloud Platform is available in 34 regions and 103 zones. A region is a specific geographical location where users can deploy cloud resources.
+Each region is an independent geographic area that consists of zones.
+A zone is a deployment area for Google Cloud Platform resources within a region. Zones should be considered a single failure domain within a region.
+Most of the regions have three or more zones. As of Q3 2022, Google Cloud Platform is available in the following regions and zones:
+Similarity to services by other cloud service providers
+For those familiar with other notable cloud service providers, a comparison of similar services may be helpful in understanding Google Cloud Platform's offerings.
+Timeline

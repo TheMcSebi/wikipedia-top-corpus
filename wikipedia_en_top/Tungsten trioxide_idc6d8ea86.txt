@@ -1,0 +1,18 @@
+Tungsten trioxide
+Tungsten(VI) oxide, also known as tungsten trioxide is a chemical compound of oxygen and the transition metal tungsten, with formula WO3.  The compound is also called tungstic anhydride, reflecting its relation to tungstic acid H2WO4.  It is a light yellow crystalline solid.
+Tungsten(VI) oxide occurs naturally in the form of hydrates, which include minerals: tungstite WO3·H2O, meymacite WO3·2H2O and hydrotungstite (of the same composition as meymacite, however sometimes written as H2WO4). These minerals are rare to very rare secondary tungsten minerals.
+History
+In 1841, a chemist named Robert Oxland gave the first procedures for preparing tungsten trioxide and sodium tungstate. He was granted patents for his work soon after, and is considered to be the founder of systematic tungsten chemistry.
+Structure and properties
+The crystal structure of tungsten trioxide is temperature dependent. It is tetragonal at temperatures above 740 °C, orthorhombic from 330 to 740 °C, monoclinic from 17 to 330 °C, triclinic from -50 to 17 °C, and monoclinic again at temperatures below -50 °C. The most common structure of WO3 is monoclinic with space group P21/n.
+The pure compound is an electric insulator, but oxygen-deficient varieties, such as WO2.90 = W20O58, are dark blue to purple in color and conduct electricity.  They can be prepared by combining the trioxide and the dioxide WO2 at 1000 °C in vacuum.
+Possible signs of superconductivity with critical temperatures Tc = 80 to 90 K were claimed in sodium-doped and oxygen-deficient WO3 crystals. If confirmed, these would be the first superconducting materials containing no copper, with Tc higher than the boiling point of liquid nitrogen at normal pressure. 
+Preparation
+Industrial
+Tungsten trioxide is obtained as an intermediate in the recovery of tungsten from its minerals. Tungsten ores can be treated with alkalis to produce soluble tungstates. Alternatively, CaWO4, or scheelite, is allowed to react with HCl to produce tungstic acid, which decomposes to WO3 and water at high temperatures.
+Laboratory
+Another common way to synthesize WO3 is by calcination of ammonium paratungstate (APT) under oxidizing conditions:
+Reactions
+Tungsten trioxide can be reduced with carbon or hydrogen gas yielding the pure metal.
+Uses
+Tungsten trioxide is a starting material for the synthesis of tungstates.  Barium tungstate BaWO4 is used as a x-ray screen phosphors. Alkali metal tungstates, such as lithium tungstate Li2WO4 and Cesium tungstate Cs2WO4, give dense solutions that can be used to separate minerals. Other applications, actual or potential, include:

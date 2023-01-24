@@ -1,0 +1,67 @@
+Borax
+Borax is a salt (ionic compound), a hydrated borate of sodium, with chemical formula Na2H20B4O17 often written Na2B4O7·10H2O. It is a colorless crystalline solid, that dissolves in water to make a basic solution.  It is commonly available in powder or granular form, and has many industrial and household uses, including as a pesticide, as a metal soldering flux, as a component of glass, enamel, and pottery glazes, for tanning of skins and hides, for artificial aging of wood, as a preservative against wood fungus, and as a pharmaceutic alkalizer.  In chemical laboratories, it is used as a buffering agent.
+The compound is often called sodium tetraborate decahydrate, but that name is not consistent with its structure.  The anion is not tetraborate [B4O7]2− but tetrahydroxy tetraborate [B4O5(OH)4]2−, so the more correct formula should be Na2B4O5(OH)4·8H2O.  Informally, the product is often called sodium borate decahydrate or just sodium borate.
+The terms tincal /ˈtɪŋkəl/ "tinkle" and tincar /ˈtɪŋkər/ "tinker" refer to native borax, historically mined from dry lake beds in various parts of Asia.
+History
+Borax was first discovered in dry lake beds in Tibet. Native tincal from Tibet, Persia, and other parts of Asia was traded via the Silk Road to the Arabian Peninsula in the 8th century AD.
+Borax first came into common use in the late 19th century when Francis Marion Smith's Pacific Coast Borax Company began to market and popularize a large variety of applications under the 20 Mule Team Borax trademark, named for the method by which borax was originally hauled out of the California and Nevada deserts.
+Etymology
+The English word borax is Latinized:  the Middle English form was boras, from Old French boras, bourras. That may have been from Medieval Latin baurach (another English spelling), borac(-/um/em), borax, along with Spanish borrax (> borraj) and Italian borrace, in the 9th century. 
+The words tincal and tincar were adopted into English in the 17th century from Malay tingkal and from Urdu/Persian Arabic تنکار tinkār/tankār; thus the two forms in English. These all appear to be related to the Sanskrit टांकण ṭānkaṇa.
+Chemistry
+Structure
+From the chemical perspective, borax contains the [B4O5(OH)4]2− ion. In this structure, there are two four-coordinate boron centers and two three-coordinate boron centers.
+Physical properties
+The crystalline decahydrate is a proton conductor at temperatures above 21 °C. Conductivity is maximum along the b axis.
+Reactions
+Borax is also easily converted to boric acid and other borates, which have many applications. Its reaction with hydrochloric acid to form boric acid is:
+The "decahydrate" is sufficiently stable to find use as a primary standard for acid base titrimetry.: p.316 
+Molten borax dissolves many metal oxides to form glasses. This property is important for its uses in metallurgy and for the borax bead test of qualitative chemical analysis. 
+Solubility
+Borax is soluble in a variety of solvents; however, it is notably insoluble in ethanol.
+Hydrates
+The term borax properly refers to the so called decahydrate Na2B4O7·10H2O, more correctly written Na2B4O5(OH)4·8H2O.  However, the term may be applied also to the related compounds
+Borax pentahydrate
+Borax pentahydrate has the formula Na2B4O7·5H2O, more properly Na2B4O5(OH)4·3H2O  It is a colorless solid with density is 1.880 kg/m3 that crystallizes from water solutions above 60.8 °C in the rhombohedral crystal system.  It occurs naturally as the mineral tinkhanite.  It can be obtained by heating the decahydrate above 61 °C.
+Borax dihydrate
+Borax dihydrate has the formula Na2B4O7·2H2O, more properly Na2B4O5(OH)4. It can be obtained by heating the decahydrate or pentahydrate to above 116-120 °C. 
+Anhydrous borax
+Anhydrous borax is sodium tetraborate proper, with formula Na2B4O7. It can be obtained by heating any hydrate to 300 °C. It has one amorphous (glassy) form and three crystalline forms -- α, β, and γ, with melting points of 1015, 993 and 936 K respectively. α-Na2B4O7 is the stable form.
+Natural sources
+Borax occurs naturally in evaporite deposits produced by the repeated evaporation of seasonal lakes. The most commercially important deposits are found in: Turkey; Boron, California; and Searles Lake, California. Also, borax has been found at many other locations in the Southwestern United States, the Atacama desert in Chile, newly discovered deposits in Bolivia, and in Tibet and Romania. Borax can also be produced synthetically from other boron compounds.
+Naturally occurring borax (known by the trade name Rasorite–46 in the United States and many other countries) is refined by a process of recrystallization.
+Uses
+Ant control
+Borax is used in control solutions because it is toxic to ants. Because it is slow-acting, worker ants will carry the borax to their nests and poison the rest of the colony.
+Household products
+Borax is used in various household laundry and cleaning products, including the 20 Mule Team Borax laundry booster, Boraxo powdered hand soap, and some tooth bleaching formulas.
+pH buffer
+Borate ions (commonly supplied as boric acid) are used in biochemical and chemical laboratories to make buffers, e.g. for polyacrylamide gel electrophoresis of DNA and RNA, such as TBE buffer (borate buffered tris-hydroxymethylaminomethonium) or the newer SB buffer or BBS buffer (borate buffered saline) in coating procedures. Borate buffers (usually at pH 8) are also used as preferential equilibration solution in dimethyl pimelimidate (DMP) based crosslinking reactions.
+Co-complexing agent
+Borax as a source of borate has been used to take advantage of the co-complexing ability of borate with other agents in water to form complex ions with various substances. Borate and a suitable polymer bed are used to chromatograph non-glycated hemoglobin differentially from glycated hemoglobin (chiefly HbA1c), which is an indicator of long-term hyperglycemia in diabetes mellitus.
+Water-softening agent
+Borax alone does not have a high affinity for the hardness cations, although it has been used for water-softening. Its chemical equation for water-softening is given below:
+The sodium ions introduced do not make water ‘hard’. This method is suitable for removing both temporary and permanent types of hardness.
+Flux
+A mixture of borax and ammonium chloride is used as a flux when welding iron and steel. It lowers the melting point of the unwanted iron oxide (scale), allowing it to run off. Borax is also used mixed with water as a flux when soldering jewelry metals such as gold or silver, where it allows the molten solder to wet the metal and flow evenly into the joint. Borax is also a good flux for "pre-tinning" tungsten with zinc, making the tungsten soft-solderable. Borax is often used as a flux for forge welding.
+Small-scale gold mining
+In artisanal gold mining, borax is sometimes used as part of a process known as the borax method (as a flux) meant to eliminate the need for toxic mercury in the gold extraction process, although it cannot directly replace mercury. Borax was reportedly used by gold miners in parts of the Philippines in the 1900s. There is evidence that, in addition to reducing the environmental impact, this method achieves better gold recovery for suitable ores and is less expensive. This borax method is used in northern Luzon in the Philippines, but miners have been reluctant to adopt it elsewhere for reasons that are not well understood. The method has also been promoted in Bolivia and Tanzania.
+Flubber
+A rubbery polymer sometimes called Slime, Flubber, 'gluep' or 'glurch' (or erroneously called Silly Putty, which is based on silicone polymers), can be made by cross-linking polyvinyl alcohol with borax. Making flubber from polyvinyl acetate-based glues, such as Elmer's Glue, and borax is a common elementary-science demonstration.
+Food additive
+Borax, given the E number E285, is used as a food additive, but is banned in some countries, such as Australia, China,Thailand and the United States. As a consequence, certain foods, such as caviar, produced for sale in the United States contain higher levels of salt to assist preservation.
+In addition to its use as a preservative, borax imparts a firm, rubbery texture to food. In China, borax (Chinese: 硼砂; pinyin: péng shā or Chinese: 月石; pinyin: yuè shí) has been found in foods including wheat and rice noodles named lamian (Chinese: 拉面; pinyin: lāmiàn), shahe fen (Chinese: 沙河粉; pinyin: shāhéfěn), char kway teow (Chinese: 粿條; pinyin: guǒ tiáo), and chee cheong fun (Chinese: 肠粉; pinyin: chángfěn) In Indonesia, it is a common, but forbidden, additive to such foods as noodles, bakso (meatballs), and steamed rice. 
+When consumed with boric acid, numerous studies have demonstrated an inverse correlation between borax and various types of cancers. Boric acid and borax are low in toxicity for acute oral exposures, at approximately the same acute toxicity as salt. The average dose for asymptomatic ingestion cases, which accounts for 88% of all ingestions, is around 0.9 grams. However, the range of reported asymptomatic doses is wide, from 0.01 to 88.8 g.
+Other uses
+Toxicity
+Borax, sodium tetraborate decahydrate, according to one study, is not acutely toxic.  Its LD50 (median lethal dose) score is tested at 2.66 g/kg in rats, meaning that a significant dose of the chemical is needed to cause severe symptoms or death. The lethal dose is not necessarily the same for humans. On pesticide information websites it is listed as a non-lethal compound and of no hazardous concerns.
+Borax has been in use as an insecticide in the United States with various restrictions since 1946.  All restrictions were removed in February 1986 due to the low toxicity of borax, as reported in two EPA documents relating to boric acid and borax.
+Although it cited inconclusive data, a re-evaluation in 2006 by the EPA still found that "There were no signs of toxicity observed during the study and no evidence of cytotoxicity to the target organ." In the reevaluation, a study of toxicity due to overexposure was checked and the findings were that "The residential handler inhalation risks due to boric acid and its sodium salts as active ingredients are not a risk concern and do not exceed the level of concern..." but that there could be some risk of irritation to children inhaling it if used as a powder for cleaning rugs.
+Sodium tetraborate decahydrate has no known hazard issues.
+Overexposure to borax dust can cause respiratory irritation, while no skin irritation is known to exist due to external borax exposure. Ingestion may cause gastrointestinal distress including nausea, persistent vomiting, abdominal pain, and diarrhea. Effects on the vascular system and human brain include headaches and lethargy, but are less frequent. In severe cases, a "beefy" red rash affecting the palms, soles, buttocks and scrotum has occurred. 
+Possible carcinogen
+The Indonesian Directorate of Consumer Protection warns of the risk of liver cancer with high consumption of borax over a period of 5–10 years.
+Risk to fertility and pregnancy
+Borax was added to the Substance of Very High Concern (SVHC) candidate list on December 16, 2010. The SVHC candidate list is part of the EU Regulations on the Registration, Evaluation, Authorisation and Restriction of Chemicals 2006 (REACH), and the addition was based on the revised classification of borax as toxic for reproduction category 1B under the CLP Regulations. Substances and mixtures imported into the EU which contain borax are now required to be labelled with the warnings "May damage fertility" and "May damage the unborn child".  It was proposed for addition to REACH Annex XIV by the ECHA on July 1, 2015.  If this recommendation is approved, all imports and uses of borax in the EU will have to be authorized by the ECHA.
+Review of the boron toxicity (as boric acid and borates) published 2012 in Journal of Toxicology and Environmental Health concluded: "It clearly appears that human B [boron] exposures, even in the highest exposed cohorts, are too low to reach the blood (and target tissue) concentrations that would be required to exert adverse effects on reproductive functions."
+A draft risk assessment released by Health Canada in July 2016 has found that overexposure to boric acid has the potential to cause developmental and reproductive health effects. Since people are already exposed to boric acid naturally through their diets and water, Health Canada advised that exposure from other sources should be reduced as much as possible, especially for children and pregnant women. The concern is not with any one product, but rather multiple exposures from a variety of sources. With this in mind, the department also announced that registrations for certain pesticides that contain boric acid, which are commonly used in homes, will have their registrations cancelled and be phased out of the marketplace. As well, new, more protective label directions are being introduced for other boric acid pesticides that continue to be registered in Canada (for example, enclosed bait stations and spot treatments using gel formulations).

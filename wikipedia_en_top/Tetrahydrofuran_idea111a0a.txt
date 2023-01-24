@@ -1,0 +1,36 @@
+Tetrahydrofuran
+Tetrahydrofuran (THF), or oxolane, is an organic compound with the formula (CH2)4O. The compound is classified as heterocyclic compound, specifically a cyclic ether.  It is a colorless, water-miscible organic liquid with low viscosity.  It is mainly used as a precursor to polymers.  Being polar and having a wide liquid range, THF is a versatile solvent.
+Production
+About 200,000 tonnes of tetrahydrofuran are produced annually. The most widely used industrial process involves the acid-catalyzed dehydration of 1,4-butanediol. Ashland/ISP is one of the biggest producers of this chemical route. The method is similar to the production of diethyl ether from ethanol. The butanediol is derived from condensation of acetylene with formaldehyde followed by hydrogenation. DuPont developed a process for producing THF by oxidizing n-butane to crude maleic anhydride, followed by catalytic hydrogenation. A third major industrial route entails hydroformylation of allyl alcohol followed by hydrogenation to 1,4-butanediol.
+Other methods
+THF can also be synthesized by catalytic hydrogenation of furan. This allows certain sugars to be converted to THF via acid-catalyzed digestion to furfural and decarbonylation to furan, although this method is not widely practiced.  THF is thus derivable from renewable resources.
+Applications
+Polymerization
+In the presence of strong acids, THF converts to a linear polymer called poly(tetramethylene ether) glycol (PTMEG), also known as polytetramethylene oxide (PTMO):
+This polymer is primarily used to make elastomeric polyurethane fibers like Spandex.
+As a solvent
+The other main application of THF is as an industrial solvent for polyvinyl chloride (PVC) and in varnishes. It is an aprotic solvent with a dielectric constant of 7.6. It is a moderately polar solvent and can dissolve a wide range of nonpolar and polar chemical compounds. THF is water-miscible and can form solid clathrate hydrate structures with water at low temperatures.
+THF has been explored as a miscible co-solvent in aqueous solution to aid in the liquefaction and delignification of plant lignocellulosic biomass for production of renewable platform chemicals and sugars as potential precursors to biofuels. Aqueous THF augments the hydrolysis of glycans from biomass and dissolves the majority of biomass lignin making it a suitable solvent for biomass pretreatment.
+THF is often used in polymer science. For example, it can be used to dissolve polymers prior to determining their molecular mass using gel permeation chromatography. THF dissolves PVC as well, and thus it is the main ingredient in PVC adhesives. It can be used to liquefy old PVC cement and is often used industrially to degrease metal parts.
+THF is used as a component in mobile phases for reversed-phase liquid chromatography.  It has a greater elution strength than methanol or acetonitrile, but is less commonly used than these solvents.
+THF is used as a solvent in 3D printing when using PLA plastics. It can be used to clean clogged 3D printer parts, as well as when finishing prints to remove extruder lines and add a shine to the finished product.
+Recently THF is used as co-solvent for lithium metal batteries, helping to stabilize the metal anode. 
+Laboratory use
+In the laboratory, THF is a popular solvent when its water miscibility is not an issue. It is more basic than diethyl ether and forms stronger complexes with Li+, Mg2+, and boranes. It is a popular solvent for hydroboration reactions and for organometallic compounds such as organolithium and Grignard reagents. Thus, while diethyl ether remains the solvent of choice for some reactions (e.g., Grignard reactions), THF fills that role in many others, where strong coordination is desirable and the precise properties of ethereal solvents such as these (alone and in mixtures and at various temperatures) allows fine-tuning modern chemical reactions.
+Commercial THF contains substantial water that must be removed for sensitive operations, e.g. those involving organometallic compounds.  Although THF is traditionally dried by distillation from an aggressive desiccant, molecular sieves are superior.
+Reaction with hydrogen sulfide
+In the presence of a solid acid catalyst, THF reacts with hydrogen sulfide to give tetrahydrothiophene.
+Lewis basicity
+THF is a Lewis base that bonds to a variety of Lewis acids such as I2, phenols, triethylaluminum and bis(hexafluoroacetylacetonato)copper(II). THF has been classified in the ECW model and it has been shown that there is no one order of base strengths.  Many complexes are of the stoichiometry MCl3(THF)3.
+Precautions
+THF is a relatively acutely nontoxic solvent, with the median lethal dose (LD50) comparable to that for acetone. However, chronic exposure is suspected of causing cancer. Reflecting its remarkable solvent properties, it penetrates the skin, causing rapid dehydration. THF readily dissolves latex and thus should be handled with nitrile rubber gloves. It is highly flammable.
+One danger posed by THF is its tendency to form the explosive compound 2-hydroperoxytetrahydrofuran upon reaction with air:
+To minimize this problem, commercial supplies of THF are often stabilized with butylated hydroxytoluene (BHT). Distillation of THF to dryness is unsafe because the explosive peroxides can concentrate in the residue.
+Related compounds
+Tetrahydrofurans
+The tetrahydrofuran ring is found in diverse natural products including lignans, acetogenins, and polyketide natural products. Diverse methodology has been developed for the synthesis of substituted THFs.
+Oxolanes
+Tetrahydrofuran is one of the class of pentic cyclic ethers called oxolanes.  There are seven possible structures, namely,
+See also
+References
+General reference

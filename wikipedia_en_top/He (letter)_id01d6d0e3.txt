@@ -1,0 +1,38 @@
+He (letter)
+He is the fifth letter of the Semitic abjads, including Phoenician Hē , Hebrew Hē ה, Aramaic Hē , Syriac Hē ܗ, and Arabic Hāʾ ه. Its sound value is the voiceless glottal fricative ([h]).
+The proto-Canaanite letter gave rise to the Greek Epsilon Ε ε, Etruscan   𐌄, Latin E, Ë and Ɛ, and  Cyrillic Е, Ё, Є, Э, and Ҩ. He, like all Phoenician letters, represented a consonant, but the Latin, Greek and Cyrillic equivalents have all come to represent vowel sounds.
+Origins
+
+
+In Proto-Northwest Semitic there were still three voiceless fricatives: uvular ḫ IPA: [χ], glottal h IPA: [h], and pharyngeal ḥ IPA: [ħ]. In the Wadi el-Hol script, these appear to be expressed by derivatives of the following Egyptian hieroglyphs 
+ḫayt "thread",
+hillul "jubilation", compare South Arabian  h,  ḥ,  ḫ, Ge'ez ሀ, ሐ, ኀ, and 
+ḥasir "court".
+In the Phoenician alphabet, ḫayt and ḥasir are merged into Heth "fence", while hillul is replaced by He "window".
+Arabic hāʾ
+The letter is named hāʾ. It is written in several ways depending on its position in the word:
+Hāʾ is used as a suffix (with the harakat dictated by ʾIʿrab) indicating possession, indicating that the noun marked with the suffix belongs to a specific masculine possessor; for example, كِتَاب kitāb ("book") becomes كِتَابُهُ kitābuhu ('his book') with the addition of final hāʾ; the possessor is implied in the suffix. A longer example, هُوَ يَقْرَأُ كِتَابَهُ, (huwa yaqraʼu kitābahu, "he reads his book") more clearly indicates the possessor. Hāʾ is also used as the Arabic abbreviation for dates following the Islamic era AH.
+The hāʾ suffix appended to a verb represents a masculine object (e.g. يَقْرَأُهُ, yaqraʾuhu, 'he reads it').
+The feminine form of this construction is in both cases ـهَا -hā.
+In Nastaʿlīq the letter has a variant, gol he, with its own particular shapes. As Urdu and other languages of Pakistan are usually written in Nastaʿlīq, they normally employ this variant, which is given an independent code point (U+06C1) for compatibility:
+For aspiration and breathy voice Urdu and other languages of Pakistan use the medial (in Nastaliq script) or initial (in Naskh script) form of hāʾ, called in Urdu do cashmī he ('two-eyed he'):
+Several Turkic languages of Central Asia like Uyghur as well as Kurdish also use this letter for fricative /h/.
+Arabic ae
+Many Turkic languages of Central Asia like Uyghur as well as Kurdish use the modification of the letter for front vowels /æ/ or /ɛ/. This has its own code point (U+06D5). To distinguish it from Arabic hāʾ /h/ the letter lacks its initial and medial forms:
+By contrast, the letter used for /h/, appearing in loanwords, uses only the initial and medial forms of the Arabic hāʾ, even in isolated and final positions. In Unicode, U+06BE ھ ARABIC LETTER HEH DOACHASHMEE is used for this purpose.
+Example words in Uyghur include شاھ (shah), a loanword from Persian, and سۈلھ (sülh), a loanword from Arabic.
+Hebrew Hei
+Hebrew spelling: הֵא
+Pronunciation
+In modern Hebrew, the letter represents a voiceless glottal fricative /h/, and may also be dropped, although this pronunciation is seen as substandard.
+Also, in many variant Hebrew pronunciations the letter may represent a glottal stop. In word-final position, Hei is used to indicate an a-vowel, usually that of qamatz ( ָ ), and in this sense functions like Aleph, Vav, and Yud as a mater lectionis, indicating the presence of a long vowel.
+Hei, along with Aleph, Ayin, Reish, and Khet, cannot receive a dagesh. Nonetheless, it does receive a marking identical to the dagesh, to form Hei-mappiq (הּ). Although indistinguishable for most modern speakers or readers of Hebrew, the mapiq is placed in a word-final Hei to indicate that the letter is not merely a mater lectionis but the consonant should be aspirated in that position. It is generally used in Hebrew to indicate the third-person feminine singular genitive marker. Today, such a pronunciation only occurs in religious contexts and even then often only by careful readers of the scriptures.
+Significance of He
+In gematria, Hei symbolizes the number five, and when used at the beginning of Hebrew years, it means 5000 (i.e. התשנ״ד in numbers would be the date 5754). 
+Attached to words, Hei may have three possible meanings:
+In modern Hebrew the frequency of the usage of hei, out of all the letters, is 8.18%.
+He, representing five in gematria, is often found on amulets, symbolizing the five fingers of a hand, a very common talismanic symbol.
+In Judaism
+He is often used to represent the name of God as an abbreviation for Hashem, which means The Name and is a way of saying God without actually saying the name of God (YHWH). In print, Hashem is usually written as Hei with a geresh: ה׳.
+Syriac Heh
+In the Syriac alphabet, the fifth letter is ܗ — Heh (ܗܹܐ). It is pronounced as an [h]. At the end of a word with a point above it, it represents the third-person feminine singular suffix. Without the point, it stands for the masculine equivalent. Standing alone with a horizontal line above it, it is the abbreviation for either hānoh (ܗܵܢܘܿ), meaning 'this is' or 'that is', or halelûya (ܗܵܠܹܠܘܼܝܵܐ). As a numeral, He represents the number five.

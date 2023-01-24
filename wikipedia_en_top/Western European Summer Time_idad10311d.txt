@@ -1,0 +1,18 @@
+Western European Summer Time
+Western European Summer Time (WEST, UTC+01:00) is a summer daylight saving time scheme, 1 hour ahead of Greenwich Mean Time and Coordinated Universal Time. It is used in:
+The following countries also use the same time zone for their daylight saving time but use a different title:
+The scheme runs from the last Sunday in March to the last Sunday in October each year. At both the start and end of the schemes, clock changes take place at 01:00 UTC+00:00. During the winter, Western European Time (WET, GMT+0 or UTC±00:00) is used.
+The start and end dates of the scheme are asymmetrical in terms of daylight hours: the vernal time of year with a similar amount of daylight to late October is mid-February, well before the start of summer time. The asymmetry reflects temperature more than the length of daylight.
+Ireland observes Irish Standard Time during the summer months and changes to UTC±00:00 in winter. As Ireland's winter time period begins on the last Sunday in October and finishes on the last Sunday in March, the result is the same as if it observed summer time.
+Usage
+The following countries and territories use UTC+01:00 during the summer, between 1:00 UTC on the last Sunday of March and 1:00 UTC on the last Sunday of October.
+Ireland
+In Ireland, since the Standard Time (Amendment) Act, 1971, Ireland has used UTC+1 in summer (officially "standard time", Irish: am caighdeánach, though usually called "summer time") and UTC+0 in winter (officially "winter time").
+Portugal
+Portugal moved to Central European Time and Central European Summer Time in 1992, but reverted to Western European Time in 1996 after concluding that energy savings were small, it had a disturbing effect on children's sleeping habits as it would not get dark until 22:00 or 22:30 in summer evenings, during winter mornings the sun was still rising at 9:00, with repercussions on standards of learning and school performance, and insurance companies reported a rise in the number of accidents.
+United Kingdom
+Starting in 1916, the dates for the beginning and end of BST each year were mandated by the Parliament of the United Kingdom. From 1940 to 1945, the country used British Summer Time in the winter months and British Double Summer Time, a further hour ahead of GMT, in the summer months. From 1968 to 1971, the country used BST throughout the year. In February 2002, the Summer Time Order 2002 changed the dates and times to match European rules for moving to and from daylight saving time.
+Start and end dates of British Summer Time and Irish Standard Time
+Note: Until 1 October 1916 time in all of Ireland was based on Dublin Mean Time, GMT − 25 minutes.
+References
+Further reading

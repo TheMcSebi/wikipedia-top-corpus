@@ -1,0 +1,62 @@
+Americanist phonetic notation
+Americanist phonetic notation, also known as the North American Phonetic Alphabet (NAPA), the Americanist Phonetic Alphabet or the American Phonetic Alphabet (APA), is a system of phonetic notation originally developed by European and American anthropologists and language scientists (many of whom were students of Neogrammarians) for the phonetic and phonemic transcription of indigenous languages of the Americas and for languages of Europe. It is still commonly used by linguists working on, among others, Slavic, Uralic, Semitic languages and for the languages of the Caucasus and of India; however, Uralists commonly use a variant known as the Uralic Phonetic Alphabet.
+Despite its name, the term "Americanist phonetic alphabet" has always been widely used outside the Americas. For example, a version of it is the standard for the transcription of Arabic in articles published in the Zeitschrift der Deutschen Morgenländischen Gesellschaft, the journal of the German Oriental Society.
+Diacritics are widely used in Americanist notation. Unlike the International Phonetic Alphabet (IPA), which seeks to use as few diacritics as possible for phonemic distinctions, restricting diacritics to phonetic detail, the Americanist notation relies on diacritics for basic consonants and vowels.
+Summary contrast with the IPA alphabet
+Certain symbols in NAPA were once identical to those of the International Phonetic Alphabet, but have become obsolete in the latter, such as ⟨ι⟩. Over the years, NAPA has drawn closer to the IPA. This can be seen, for example, in a comparison of Edward Sapir's earlier and later works. However, there remain significant differences. Among these are:
+History
+John Wesley Powell used an early set of phonetic symbols in his publications (particularly Powell 1880) on American language families, although he chose symbols which had their origins in work by other phoneticians and American writers (e.g., Pickering 1820; Cass 1821a, 1821b; Hale 1846; Lepsius 1855, 1863; Gibbs 1861; and Powell 1877). The influential anthropologist Franz Boas used a somewhat different set of symbols (Boas 1911). In 1916, a publication by the American Anthropological Society greatly expanded upon Boas's alphabet. This same alphabet was discussed and modified in articles by Bloomfield & Bolling (1927) and Herzog et al. (1934). The Americanist notation may be seen in the journals American Anthropologist, International Journal of American Linguistics, and Language. Useful sources explaining the symbols – some with comparisons of the alphabets used at different times – are Campbell (1997:xii-xiii), Goddard (1996:10–16), Langacker (1972:xiii-vi), Mithun (1999:xiii-xv), and Odden (2005).
+It is often useful to compare the Americanist tradition with another widespread tradition, the International Phonetic Alphabet (IPA). Americanist phonetic notation does not require a strict harmony among character styles: letters from the Greek and Latin alphabets are used side-by-side. Another contrasting feature is that, to represent some of the same sounds, the Americanist tradition relies heavily on letters modified with diacritics; whereas the IPA, which reserves diacritics for other specific uses, gave Greek and Latin letters new shapes. These differing approaches reflect the traditions' differing philosophies. The Americanist linguists were interested in a phonetic notation that could be easily created from typefaces of existing orthographies. This was seen as more practical and more cost-efficient, as many of the characters chosen already existed in Greek and East European orthographies.
+Abercrombie (1991:44–45) recounts the following concerning the Americanist tradition:
+Alphabet
+Consonants
+There is no central authority. The Western Institute for Endangered Language Documentation (WIELD) recommends the following conventions:
+Advanced is ⟨C̯⟩ and retracted is ⟨C̣⟩. Geminate is ⟨C꞉⟩ or ⟨CC⟩. Glottalization is e.g. ⟨č̓⟩ or ⟨m̓⟩ (ejectives are not distinguished from other types of glottalization). 
+Palatalization is written ⟨Cʸ⟩. Labialization, velarization, aspiration, voicelessness and prenasalization are as in the IPA. Pharyngeals, epiglottals and glottals are as in the IPA, as are implosives and clicks. 
+Notes:
+Rhotics table
+Most languages only have one phonemic rhotic consonant (only about 18% of the world's languages have more than one rhotic). As a result, rhotic consonants are generally transcribed with the ⟨r⟩ character. This usage is common practice in Americanist and also other notational traditions (such as the IPA). This lack of detail, although economical and phonologically sound, requires a more careful reading of a given language's phonological description to determine the precise phonetics. A list of rhotics is given below.
+Other flaps are ⟨ň, l͏̌⟩ etc.
+Common alternate symbols
+There are many alternate symbols seen in Americanist transcription. Below are some equivalent symbols matched with the symbols shown in the consonant chart above.
+The use of the standard IPA belted l (ɬ) for the voiceless lateral fricative is becoming increasingly common.
+Pullum & Ladusaw
+According to Pullum & Ladusaw (1996), typical Americanist usage at the time was more-or-less as follows. There was, however, little standardization of rhotics, and ⟨ṛ⟩ may be either retroflex or uvular, though as noted above ⟨ṛ⟩ or ⟨ṛ̌⟩ may be a retroflex flap vs ⟨ṛ̃⟩ as a uvular trill. Apart from the ambiguity of the rhotics below, and minor graphic variants (ȼ g γ for c ɡ ɣ and the placement of the diacritic in g̑ γ̑), this is compatible with the WIELD recommendations. Only precomposed affricates are shown below; others may be indicated by digraphs (e.g. ⟨dz⟩).
+Ejectives and implosives follow the same conventions as in the IPA, apart from the ejective apostrophe being placed above the base letter.
+Pike
+Pike (1947) provides the following set of symbols:
+Voiceless, voiced and syllabic consonants may also be C̥, C̬ and C̩, as in IPA. Aspirated consonants are Cʻ or C̥ʰ / C̬ʱ. Non-audible release is indicated with superscripting, VC.
+Fortis is C͈ and lenis C᷂. Labialization is C̮ or Cʷ; palatalization is Ꞔ, C⁽ⁱ⁾ or Cʸ; velarization is C⁽ᵘ⁾, and pharyngealization is C̴.
+Other airstream mechanisms are pulmonic ingressive C←, ejective Cˀ, implosive Cˤ, click C˂, and lingual ejective (spurt) C˃.
+Anthropos
+The journal Anthropos published the alphabet to be used in their articles in 1907. Although European, it is the same basic system that Sapir and Boas introduced to the United States. Transcription is italic, without other delimiters.
+Palatalized consonants are written with an acute – t́ d́ ć j́ ś ź ľ ń etc. Semivowels are i̯ u̯ ü̯ o̯ e̯ etc.
+Vowels
+WIELD recommends the following conventions. It doesn't provide characters for distinctions that aren't attested in the literature:
+No distinction is made between front and central for the lowest unrounded vowels. Diphthongs are e.g. ⟨ai⟩ or ⟨ay⟩, depending on phonological analysis. Nasal vowels are e.g. ⟨ą⟩. Long vowels are e.g. ⟨a꞉⟩. A three-way length distinction may be ⟨a a꞉ a꞉꞉⟩ or ⟨a aꞏ a꞉⟩. Primary and secondary stress are e.g. ⟨á⟩ and ⟨à⟩. Voicelessness is e.g. ⟨ḁ⟩, as in the IPA. Creak, murmur, rhoticity et al. are as in the IPA. 
+Pullum & Ladusaw
+According to Pullum & Ladusaw (1996), typical Americanist usage at the time was more-or-less as follows:
+Pike
+Pike (1947) presents the following:
+Nasalization is V̨ or Vⁿ. A long vowel is V꞉ or Vꞏ; half-long is V‧ (raised dot). Positional variants are fronted V˂, backed V˃, raised V˄ and lowered V˅.
+Anthropos
+Vowels are inconsistent between languages. ï ë etc. may be used for unrounded central vowels, and the ⟨a⟩-based letters are poorly defined, with height and rounding confounded. 
+There are actually three heights of low front and back vowels. ā is also seen for a low back vowel.
+Reduced (obscure) vowels are i̥ e̥ ḁ etc. There are also extra-high vowels ị ụ etc.
+Bloch & Trager
+Bloch & Trager (1942) proposed the following schema, which was never used. They use a single dot for central vowels and a dieresis to reverse backness. The only central vowels with their own letters are ⟨ɨ⟩, which already has a dot, and ⟨ᵻ⟩, which would not be distinct if formed with a dot.
+Kurath
+Kurath (1939) is as follows. Enclosed in parentheses are rounded vowels. Apart from ⟨ʚ, ꭤ⟩ and some differences in alignment, it is essentially the IPA.
+Chomsky & Halle
+Chomsky & Halle (1968) proposed the following schema, which was hardly ever used. In addition to the table, there was ⟨ə⟩ for an unstressed reduced vowel.
+Tone and prosody
+Pike (1947) provides the following tone marks:
+Stress is primary ˈCV or V́ and secondary ˌCV or V̀.
+Short or intermediate and long or final 'pauses' are |, ||, as in IPA. 
+Syllable division is CV.CV, as in IPA, and morpheme boundaries are CV-CV.
+Historical charts of 1916
+The following charts were agreed by committee of the American Anthropological Association in 1916.
+The vowel chart is based on the classification of H. Sweet. The high central vowels are differentiated by moving the centralizing dot to the left rather than with a cross stroke. IPA equivalents are given in a few cases that may not be clear. 
+Notes:
+Variation between authors
+Following are symbols that differ among well-known Americanist sources.

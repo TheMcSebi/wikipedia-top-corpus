@@ -1,0 +1,49 @@
+Negation
+In logic, negation, also called the logical complement, is an operation that takes a proposition $MATH$ to another proposition "not $MATH$", written $MATH$, $MATH$ or $MATH$. It is interpreted intuitively as being true when $MATH$ is false, and false when $MATH$ is true. Negation is thus a unary logical connective. It may be applied as an operation on notions, propositions, truth values, or semantic values more generally. In classical logic, negation is normally identified with the truth function that takes truth to falsity (and vice versa). In intuitionistic logic, according to the Brouwer–Heyting–Kolmogorov interpretation, the negation of a proposition $MATH$ is the proposition whose proofs are the refutations of $MATH$.
+Definition
+Classical negation is an operation on one logical value, typically the value of a proposition, that produces a value of true when its operand is false, and a value of false when its operand is true. Thus if statement P is true, then $MATH$ (pronounced "not P") would then be false; and conversely, if $MATH$ is false, then P would be true.
+The truth table of $MATH$ is as follows:
+Negation can be defined in terms of other logical operations. For example, $MATH$ can be defined as $MATH$ (where $MATH$ is logical consequence and $MATH$ is absolute falsehood). Conversely, one can define $MATH$ as $MATH$ for any proposition Q (where $MATH$ is logical conjunction). The idea here is that any contradiction is false, and while these ideas work in both classical and intuitionistic logic, they do not work in paraconsistent logic, where contradictions are not necessarily false. In classical logic, we also get a further identity, $MATH$ can be defined as $MATH$, where $MATH$ is logical disjunction.
+Algebraically, classical negation corresponds to complementation in a Boolean algebra, and intuitionistic negation to pseudocomplementation in a Heyting algebra. These algebras provide a semantics for classical and intuitionistic logic, respectively.
+Notation
+The negation of a proposition p is notated in different ways, in various contexts of discussion and fields of application. The following table documents some of these variants:
+The notation Np is Łukasiewicz notation.
+In set theory, $MATH$ is also used to indicate 'not in the set of': $MATH$ is the set of all members of U that are not members of A.
+Regardless how it is notated or symbolized, the negation $MATH$ can be read as "it is not the case that P", "not that P", or usually more simply as "not P".
+Properties
+Double negation
+Within a system of classical logic, double negation, that is, the negation of the negation of a proposition $MATH$, is logically equivalent to $MATH$.  Expressed in symbolic terms, $MATH$. In intuitionistic logic, a proposition implies its double negation, but not conversely. This marks one important difference between classical and intuitionistic negation. Algebraically, classical negation is called an involution of period two.
+However, in intuitionistic logic, the weaker equivalence $MATH$ does hold. This is because in intuitionistic logic, $MATH$ is just a shorthand for  $MATH$, and we also have $MATH$. Composing that last implication with triple negation $MATH$ implies that $MATH$ .
+As a result, in the propositional case, a sentence is classically provable if its double negation is intuitionistically provable. This result is known as Glivenko's theorem.
+Distributivity
+De Morgan's laws provide a way of distributing negation over disjunction and conjunction:
+Linearity
+Let $MATH$ denote the logical xor operation. In Boolean algebra, a linear function is one such that:
+If there exists $MATH$,
+$MATH$,
+for all $MATH$.
+Another way to express this is that each variable always makes a difference in the truth-value of the operation, or it never makes a difference. Negation is a linear logical operator.
+Self dual
+In Boolean algebra, a self dual function is a function such that:
+$MATH$ for all
+$MATH$.
+Negation is a self dual logical operator.
+Negations of quantifiers
+In first-order logic, there are two quantifiers, one is the universal quantifier $MATH$ (means "for all") and the other is the existential quantifier $MATH$ (means "there exists"). The negation of one quantifier is the other quantifier ($MATH$ and $MATH$). For example, with the predicate P as "x is mortal" and the domain of x as the collection of all humans, $MATH$ means "a person x in all humans is mortal" or "all humans are mortal". The negation of it is $MATH$, meaning "there exists a person x in all humans who is not mortal", or "there exists someone who lives forever".
+Rules of inference
+There are a number of equivalent ways to formulate rules for negation. One usual way to formulate classical negation in a natural deduction setting is to take as primitive rules of inference negation introduction (from a derivation of $MATH$ to both $MATH$ and $MATH$, infer $MATH$; this rule also being called reductio ad absurdum), negation elimination (from $MATH$ and $MATH$ infer $MATH$; this rule also being called ex falso quodlibet), and double negation elimination (from $MATH$ infer $MATH$). One obtains the rules for intuitionistic negation the same way but by excluding double negation elimination.
+Negation introduction states that if an absurdity can be drawn as conclusion from $MATH$ then $MATH$ must not be the case (i.e. $MATH$ is false (classically) or refutable (intuitionistically) or etc.). Negation elimination states that anything follows from an absurdity. Sometimes negation elimination is formulated using a primitive absurdity sign $MATH$. In this case the rule says that from $MATH$ and $MATH$ follows an absurdity. Together with double negation elimination one may infer our originally formulated rule, namely that anything follows from an absurdity.
+Typically the intuitionistic negation $MATH$ of $MATH$ is defined as $MATH$. Then negation introduction and elimination are just special cases of implication introduction (conditional proof) and elimination (modus ponens). In this case one must also add as a primitive rule ex falso quodlibet.
+Programming language and ordinary language
+As in mathematics, negation is used in computer science to construct logical statements.
+The exclamation mark "!" signifies logical NOT in B, C, and languages with a C-inspired syntax such as C++, Java, JavaScript, Perl, and PHP. "NOT" is the operator used in ALGOL 60, BASIC, and languages with an ALGOL- or BASIC-inspired syntax such as Pascal, Ada, Eiffel and Seed7. Some languages (C++, Perl, etc.) provide more than one operator for negation. A few languages like PL/I and Ratfor use ¬ for negation. Most modern languages allow the above statement to be shortened from if (!(r == t)) to if (r != t), which allows sometimes, when the compiler/interpreter is not able to optimize it, faster programs.
+In computer science there is also bitwise negation. This takes the value given and switches all the binary 1s to 0s and 0s to 1s.  See bitwise operation.  This is often used to create ones' complement or "~" in C or C++ and two's complement (just simplified to "-" or the negative sign since this is equivalent to taking the arithmetic negative value of the number) as it basically creates the opposite (negative value equivalent) or mathematical complement of the value (where both values are added together they create a whole).
+To get the absolute (positive equivalent) value of a given integer the following would work as the "-" changes it from negative to positive (it is negative because "x < 0" yields true)
+To demonstrate logical negation:
+Inverting the condition and reversing the outcomes produces code that is logically equivalent to the original code, i.e. will have identical results for any input (note that depending on the compiler used, the actual instructions performed by the computer may differ).
+This convention occasionally surfaces in ordinary written speech, as computer-related slang for not.  For example, the phrase !voting means "not voting".  Another example is the phrase !clue which is used as a synonym for "no-clue" or "clueless".
+Kripke semantics
+In Kripke semantics where the semantic values of formulae are sets of possible worlds, negation can be taken to mean set-theoretic complementation (see also possible world semantics for more).
+See also
+References
+Further reading

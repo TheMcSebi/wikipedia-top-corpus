@@ -1,0 +1,16 @@
+Sodium oxide
+Sodium oxide is a chemical compound with the formula Na2O.  It is used in ceramics and glasses. It is a white solid but the compound is rarely encountered.  Instead "sodium oxide" is used to describe components of various materials such as glasses and fertilizers which contain oxides that include sodium and other elements.
+Structure
+The structure of sodium oxide has been determined by X-ray crystallography. Most alkali metal oxides M2O (M = Li, Na, K, Rb) crystallise in the antifluorite structure. In this motif the positions of the anions and cations are reversed relative to their positions in CaF2, with sodium ions tetrahedrally coordinated to 4 oxide ions and oxide cubically coordinated to 8 sodium ions.
+Preparation
+Sodium oxide is produced by the reaction of sodium with sodium hydroxide, sodium peroxide, or sodium nitrite:
+To the extent that NaOH is contaminated with water, correspondingly greater amounts of sodium are employed.  Excess sodium is distilled from the crude product.
+A second method involves heating a mixture of sodium azide and sodium nitrate:
+Burning sodium in air produces a mixture of Na2O and sodium peroxide (Na2O2).
+Applications
+Glassmaking
+Glasses  are often described in terms of their sodium oxide content although they do not really contain Na2O. Furthermore, such glasses are not made from sodium oxide, but the equivalent of Na2O is added in the form of "soda" (sodium carbonate), which loses carbon dioxide at high temperatures:
+A typical manufactured glass contains around 15% sodium oxide, 70% silica (silicon dioxide), and 9% lime (calcium oxide). The sodium carbonate "soda" serves as a flux to lower the temperature at which the silica mixture melts. Such soda-lime glass has a much lower melting temperature than pure silica and has slightly higher elasticity. These changes arise because the Na2[SiO2]x[SiO3]-based material is somewhat more flexible.
+Reactions
+Sodium oxide reacts readily and irreversibly with water to give sodium hydroxide:
+Because of this reaction, sodium oxide is sometimes referred to as the base anhydride of sodium hydroxide (more archaically, "anhydride of caustic soda").

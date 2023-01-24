@@ -1,0 +1,91 @@
+Spearman's rank correlation coefficient
+In statistics, Spearman's rank correlation coefficient or Spearman's ρ, named after Charles Spearman and often denoted by the Greek letter $MATH$ (rho) or as $MATH$, is a nonparametric measure of rank correlation (statistical dependence between the rankings of two variables). It assesses how well the relationship between two variables can be described using a monotonic function.
+The Spearman correlation between two variables is equal to the Pearson correlation between the rank values of those two variables; while Pearson's correlation assesses linear relationships, Spearman's correlation assesses monotonic relationships (whether linear or not). If there are no repeated data values, a perfect Spearman correlation of +1 or −1 occurs when each of the variables is a perfect monotone function of the other.
+Intuitively, the Spearman correlation between two variables will be high when observations have a similar (or identical for a correlation of 1) rank (i.e. relative position label of the observations within the variable: 1st, 2nd, 3rd, etc.) between the two variables, and low when observations have a dissimilar (or fully opposed for a correlation of −1) rank between the two variables.
+Spearman's coefficient is appropriate for both continuous and discrete ordinal variables. Both Spearman's $MATH$ and Kendall's $MATH$ can be formulated as special cases of a more general correlation coefficient.
+Definition and calculation
+The Spearman correlation coefficient is defined as the Pearson correlation coefficient between the rank variables.
+For a sample of size n, the n raw scores $MATH$ are converted to ranks $MATH$, and $MATH$ is computed as
+where
+Only if all n ranks are distinct integers, it can be computed using the popular formula
+where
+
+
+Consider a bivariate sample $MATH$ with corresponding ranks $MATH$.
+Then the Spearman correlation coefficient of $MATH$ is 
+where, as usual,
+$MATH$,
+$MATH$,
+$MATH$,
+and
+$MATH$,
+We shall show that $MATH$ can be expressed purely in terms of
+$MATH$,
+provided we assume that there be no ties within each sample.
+Under this assumption, we have that $MATH$ can be viewed as random variables
+distributed like a uniformly distributed random variable, $MATH$, on $MATH$.
+Hence
+$MATH$
+and
+$MATH$,
+where
+$MATH$,
+$MATH$,
+and thus
+$MATH$.
+(These sums can be computed using the formulas for the triangular number and Square pyramidal number,
+or basic summation results from discrete mathematics.)
+Observe now that
+Putting this all together thus yields
+
+
+Identical values are usually each assigned fractional ranks equal to the average of their positions in the ascending order of the values, which is equivalent to averaging over all possible permutations.
+If ties are present in the data set, the simplified formula above yields incorrect results: Only if in both variables all ranks are distinct, then $MATH$ (calculated according to biased variance).
+The first equation — normalizing by the standard deviation — may be used even when ranks are normalized to [0, 1] ("relative ranks") because it is insensitive both to translation and linear scaling.
+The simplified method should also not be used in cases where the data set is truncated; that is, when the Spearman's correlation coefficient is desired for the top X records (whether by pre-change rank or post-change rank, or both), the user should use the Pearson correlation coefficient formula given above.
+Related quantities
+There are several other numerical measures that quantify the extent of statistical dependence between pairs of observations. The most common of these is the Pearson product-moment correlation coefficient, which is a similar correlation method to Spearman's rank, that measures the “linear” relationships between the raw numbers rather than between their ranks.
+An alternative name for the Spearman rank correlation is the “grade correlation”; in this, the “rank” of an observation is replaced by the “grade”. In continuous distributions, the grade of an observation is, by convention, always one half less than the rank, and hence the grade and rank correlations are the same in this case. More generally, the “grade” of an observation is proportional to an estimate of the fraction of a population less than a given value, with the half-observation adjustment at observed values. Thus this corresponds to one possible treatment of tied ranks. While unusual, the term “grade correlation” is still in use.
+Interpretation
+The sign of the Spearman correlation indicates the direction of association between X (the independent variable) and Y (the dependent variable).  If  Y tends to increase when X increases, the Spearman correlation coefficient is positive.  If Y tends to decrease when X increases, the Spearman correlation coefficient is negative.  A Spearman correlation of zero indicates that there is no tendency for Y to either increase or decrease when X increases.  The Spearman correlation increases in magnitude as X and Y become closer to being perfectly monotone functions of each other.  When X and Y are perfectly monotonically related, the Spearman correlation coefficient becomes 1.  A perfectly monotone increasing relationship implies that for any two pairs of data values Xi, Yi and Xj, Yj, that Xi − Xj and Yi − Yj always have the same sign.  A perfectly monotone decreasing relationship implies that these differences always have opposite signs.
+The Spearman correlation coefficient is often described as being "nonparametric".  This can have two meanings.  First, a perfect Spearman correlation results when X and Y are related by any monotonic function. Contrast this with the Pearson correlation, which only gives a perfect value when X and Y are related by a linear function. The other sense in which the Spearman correlation is nonparametric is that its exact sampling distribution can be obtained without requiring knowledge (i.e., knowing the parameters) of the joint probability distribution of X and Y.
+Example
+In this example, the arbitrary raw data in the table below is used to calculate the correlation between the IQ of a person with the number of hours spent in front of TV per week [fictitious values used].
+Firstly, evaluate $MATH$. To do so use the following steps, reflected in the table below.
+With $MATH$ found, add them to find $MATH$. The value of n is 10. These values can now be substituted back into the equation
+to give
+which evaluates to ρ = −29/165 = −0.175757575... with a p-value = 0.627188 (using the t-distribution).
+That the value is close to zero shows that the correlation between IQ and hours spent watching TV is very low, although the negative value suggests that the longer the time spent watching television the lower the IQ. In the case of ties in the original values, this formula should not be used; instead, the Pearson correlation coefficient should be calculated on the ranks (where ties are given ranks, as described above).
+Confidence intervals
+Confidence intervals for Spearman's ρ can be easily obtained using the Jackknife Euclidean likelihood approach in de Carvalho and Marques (2012). The confidence interval with level $MATH$ is based on a Wilks' theorem given in the latter paper, and is given by 
+where $MATH$ is the $MATH$ quantile of a chi-square distribution with one degree of freedom, and the $MATH$ are jackknife pseudo-values. This approach is implemented in the R package spearmanCI. 
+Determining significance
+One approach to test whether an observed value of ρ is significantly different from zero (r will always maintain −1 ≤ r ≤ 1) is to calculate the probability that it would be greater than or equal to the observed r, given the null hypothesis, by using a permutation test. An advantage of this approach is that it automatically takes into account the number of tied data values in the sample and the way they are treated in computing the rank correlation.
+Another approach parallels the use of the Fisher transformation in the case of the Pearson product-moment correlation coefficient. That is, confidence intervals and hypothesis tests relating to the population value ρ can be carried out using the Fisher transformation:
+If F(r) is the Fisher transformation of r, the sample Spearman rank correlation coefficient, and n is the sample size, then
+is a z-score for r, which approximately follows a standard normal distribution under the null hypothesis of statistical independence (ρ = 0).
+One can also test for significance using
+which is distributed approximately as Student's t-distribution with n − 2 degrees of freedom under the null hypothesis. A justification for this result relies on a permutation argument.
+A generalization of the Spearman coefficient is useful in the situation where there are three or more conditions, a number of subjects are all observed in each of them, and it is predicted that the observations will have a particular order.  For example, a number of subjects might each be given three trials at the same task, and it is predicted that performance will improve from trial to trial.  A test of the significance of the trend between conditions in this situation was developed by E. B. Page and is usually referred to as Page's trend test for ordered alternatives.
+Correspondence analysis based on Spearman's ρ
+Classic correspondence analysis is a statistical method that gives a score to every value of two nominal variables. In this way the Pearson correlation coefficient between them is maximized.
+There exists an equivalent of this method, called grade correspondence analysis, which maximizes Spearman's ρ or Kendall's τ.
+Approximating Spearman's ρ from a stream
+There are two existing approaches to approximating the Spearman's rank correlation coefficient from streaming data. The first approach
+involves coarsening the joint distribution of $MATH$. For continuous $MATH$ values: $MATH$ cutpoints are selected for $MATH$ and $MATH$ respectively, discretizing
+these random variables. Default cutpoints are added at $MATH$ and $MATH$.  A count matrix of size $MATH$, denoted $MATH$, is then constructed where $MATH$ stores the number of observations that
+fall into the two-dimensional cell indexed by $MATH$. For streaming data, when a new observation arrives, the appropriate $MATH$ element is incremented. The Spearman's rank
+correlation can then be computed, based on the count matrix $MATH$, using linear algebra operations (Algorithm 2). Note that for discrete random
+variables, no discretization procedure is necessary. This method is applicable to stationary streaming data as well as large data sets. For non-stationary streaming data, where the Spearman's rank correlation coefficient may change over time, the same procedure can be applied, but to a moving window of observations. When using a moving window, memory requirements grow linearly with chosen window size.
+The second approach to approximating the Spearman's rank correlation coefficient from streaming data involves the use of Hermite series based estimators. These estimators, based on Hermite polynomials,
+allow sequential estimation of the probability density function and cumulative distribution function in univariate and bivariate cases. Bivariate Hermite series density
+estimators and univariate Hermite series based cumulative distribution function estimators are plugged into a large sample version of the
+Spearman's rank correlation coefficient estimator, to give a sequential Spearman's correlation estimator. This estimator is phrased in
+terms of linear algebra operations for computational efficiency (equation (8) and algorithm 1 and 2). These algorithms are only applicable to continuous random variable data, but have
+certain advantages over the count matrix approach in this setting. The first advantage is improved accuracy when applied to large numbers of observations. The second advantage is that the Spearman's rank correlation coefficient can be
+computed on non-stationary streams without relying on a moving window.  Instead, the Hermite series based estimator uses an exponential weighting scheme to track time-varying Spearman's rank correlation from streaming data,
+which has constant memory requirements with respect to "effective" moving window size.
+Software implementations
+See also
+References
+Further reading

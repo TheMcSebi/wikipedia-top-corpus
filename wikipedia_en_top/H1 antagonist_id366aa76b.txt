@@ -1,0 +1,40 @@
+H1 antagonist
+H1 antagonists,  also called H1 blockers, are a class of medications that block the action of histamine at the H1 receptor, helping to relieve allergic reactions. Agents where the main therapeutic effect is mediated by negative modulation of histamine receptors are termed antihistamines; other agents may have antihistaminergic action but are not true antihistamines.
+In common use, the term "antihistamine" refers only to H1-antihistamines. Virtually all H1-antihistamines function as inverse agonists at the histamine H1-receptor, as opposed to neutral antagonists, as was previously believed.
+Medical uses
+H1-antihistamines are clinically used in the treatment of histamine-mediated allergic conditions. These indications may include:
+H1-antihistamines can be administered topically (through the skin, nose, or eyes) or systemically, based on the nature of the allergic condition.
+The authors of the American College of Chest Physicians Updates on Cough Guidelines (2006) recommend that, for cough associated with the common cold, first-generation antihistamine-decongestants are more effective than newer, non-sedating antihistamines. First-generation antihistamines include diphenhydramine (Benadryl), carbinoxamine (Clistin), clemastine (Tavist), chlorpheniramine (Chlor-Trimeton), and
+brompheniramine (Dimetane). However, a 1955 study of "antihistaminic drugs for colds," carried out by the U.S. Army Medical Corps, reported that "there was no significant difference in the proportion of cures reported by patients receiving oral antihistaminic drugs and those receiving oral placebos. Furthermore, essentially the same proportion of patients reported no benefit from either type of treatment."
+Side effects
+Adverse drug reactions are most commonly associated with the first-generation H1-antihistamines. This is due to their relative lack of selectivity for the H1-receptor and their ability to cross the blood–brain barrier.
+The most common adverse effect is sedation; this "side-effect" is utilized in many OTC sleeping-aid preparations. Other common adverse effects in first-generation H1-antihistamines include dizziness, tinnitus, blurred vision, euphoria, incoordination, anxiety, increased appetite leading to weight gain, insomnia, tremor, nausea and vomiting, constipation, diarrhea, dry mouth, and dry cough. Infrequent adverse effects include urinary retention, palpitations, hypotension, headache, hallucination, psychosis and erectile dysfunction.
+The newer, second-generation H1-antihistamines are far more selective for peripheral histamine H1-receptors and have a better tolerability profile compared to the first-generation agents. The most common adverse effects noted for second-generation agents include drowsiness, fatigue, headache, nausea and dry mouth.
+Multiple studies have shown that H1 antihistamines, including fexofenadine, interfere with exercise induced muscle growth and repair
+Continuous and/or cumulative use of anticholinergic medications, including first-generation antihistamines, is associated with higher risk for cognitive decline and dementia in older people.
+Pharmacology
+In type I hypersensitivity allergic reactions, an allergen (a type of antigen) interacts with and cross-links surface IgE antibodies on mast cells and basophils. Once the allergen cross-links Immunoglobulin E, tyrosine kinases rapidly signal into the cell, leading to cell degranulation and the release of histamine (and other chemical mediators) from the mast cell or basophil. Once released, the histamine can react with local or widespread tissues through histamine receptors.
+Histamine, acting on H1-receptors, produces pruritus, vasodilation, hypotension, flushing, headache, bradycardia, bronchoconstriction, increase in vascular permeability and potentiation of pain.
+While H1-antihistamines help against these effects, they work only if taken before contact with the allergen. In severe allergies, such as anaphylaxis or angioedema, these effects may be of life-threatening severity. Additional administration of epinephrine, often in the form of an autoinjector, is required by people with such hypersensitivities.
+First-generation (non-selective)
+These are the oldest H1-antihistaminergic drugs and are relatively inexpensive and widely available. They are effective in the relief of allergic symptoms, but are typically moderately to highly potent muscarinic acetylcholine receptor (anticholinergic) antagonists as well. These agents also commonly have action at α-adrenergic receptors and/or 5-HT receptors. This lack of receptor selectivity is the basis of the poor tolerability profile of some of these agents, especially when compared with the second-generation H1-antihistamines. Patient response and occurrence of adverse drug reactions vary greatly between classes and between agents within classes.
+Classes
+The first H1-antihistamine discovered was piperoxan, by Ernest Fourneau and Daniel Bovet (1933) in their efforts to develop a guinea pig animal model for anaphylaxis at the Pasteur Institute in Paris. Bovet went on to win the 1957 Nobel Prize in Physiology or Medicine for his contribution. Following their discovery, the first-generation H1-antihistamines were developed in the following decades. They can be classified on the basis of chemical structure, and agents within these groups have similar properties.
+Common structural features
+
+X = N, R1 = R2 = small alkyl groups
+X = C
+X = CO
+Second-generation
+Second-generation
+Second-generation H1-antihistamines are newer drugs that are much more selective for peripheral H1 receptors as opposed to the central nervous system H1 receptors and cholinergic receptors. This selectivity significantly reduces the occurrence of adverse drug reactions, such as sedation, while still providing effective relief of allergic conditions.
+The reason for their peripheral selectivity is that most of these compounds are zwitterionic at physiological pH (around pH 7.4). As such, they are very polar, meaning that they are less likely to cross the blood–brain barrier and act mainly outside the central nervous system.  However, some second-generation antihistamines, notably cetirizine, can interact with CNS psychoactive drugs such as bupropion and benzodiazepines.
+Examples of systemic second-generation antihistamines include:
+Examples of topical second-generation antihistamines include:
+Regulation
+Over-the-counter
+H1 receptor antagonists that are approved for over-the-counter sale, at least in the United States, include the following.
+First-generation
+Common/marketed:
+Uncommon/discontinued:
+Second-generation

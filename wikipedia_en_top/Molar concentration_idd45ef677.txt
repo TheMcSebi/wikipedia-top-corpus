@@ -1,0 +1,38 @@
+Molar concentration
+Molar concentration (also called molarity, amount concentration or substance concentration) is a measure of the concentration of a chemical species, in particular of a solute in a solution, in terms of amount of substance per unit volume of solution. In chemistry, the most commonly used unit for molarity is the number of moles per liter, having the unit symbol mol/L or mol/dm3 in SI unit. A solution with a concentration of 1 mol/L is said to be 1 molar, commonly designated as 1 M.
+Definition
+Molar concentration or molarity is most commonly expressed in units of moles of solute per litre of solution. For use in broader applications, it is defined as amount of substance of solute per unit volume of solution, or per unit volume available to the species, represented by lowercase $MATH$:
+Here, $MATH$ is the amount of the solute in moles, $MATH$ is the number of constituent particles present in volume $MATH$ (in litres) of the solution, and $MATH$ is the Avogadro constant, since 2019 defined as exactly 6.02214076×1023 mol−1. The ratio $MATH$ is the number density $MATH$.
+In thermodynamics the use of molar concentration is often not convenient because the volume of most solutions slightly depends on temperature due to thermal expansion. This problem is usually resolved by introducing temperature correction factors, or by using a temperature-independent measure of concentration such as molality.
+The reciprocal quantity represents the dilution (volume) which can appear in Ostwald's law of dilution.
+If a molecular entity dissociates in solution, the concentration refers to the original chemical formula in solution, the molar concentration is sometimes called formal concentration or formality (FA) or analytical concentration (cA). For example, if a sodium carbonate solution (Na2CO3) has a formal concentration of c(Na2CO3) = 1 mol/L, the molar concentrations are c(Na+) = 2 mol/L and c(CO2−3) = 1 mol/L because the salt dissociates into these ions.
+Units
+In the International System of Units (SI) the coherent unit for molar concentration is mol/m3. However, this is inconvenient for most laboratory purposes and most chemical literature traditionally uses mol/dm3, which is the same as mol/L. This traditional unit is often called a molar and denoted by the letter M, for example:
+To avoid confusion with SI prefix mega, which has the same abbreviation, small caps ᴍ or italicized M are also used in journals and textbooks.
+Sub-multiples such as millimolar consist of the unit preceded by an SI prefix:
+Related quantities
+Number concentration
+The conversion to number concentration $MATH$ is given by
+where $MATH$ is the Avogadro constant.
+Mass concentration
+The conversion to mass concentration $MATH$ is given by
+where $MATH$ is the molar mass of constituent $MATH$.
+Mole fraction
+The conversion to mole fraction $MATH$ is given by
+where $MATH$ is the average molar mass of the solution, $MATH$ is the density of the solution.
+A simpler relation can be obtained by considering the total molar concentration, namely, the sum of molar concentrations of all the components of the mixture:
+Mass fraction
+The conversion to mass fraction $MATH$ is given by
+Molality
+For binary mixtures, the conversion to molality $MATH$ is
+where the solvent is substance 1, and the solute is substance 2.
+For solutions with more than one solute, the conversion is
+Properties
+Sum of molar concentrations – normalizing relations
+The sum of molar concentrations gives the total molar concentration, namely the density of the mixture divided by the molar mass of the mixture or by another name the reciprocal of the molar volume of the mixture. In an ionic solution, ionic strength is proportional to the sum of the molar concentration of salts.
+Sum of products of molar concentrations and partial molar volumes
+The sum of products between these quantities equals one:
+Dependence on volume
+The molar concentration depends on the variation of the volume of the solution due mainly to thermal expansion. On small intervals of temperature, the dependence is
+where $MATH$ is the molar concentration at a reference temperature, $MATH$ is the thermal expansion coefficient of the mixture.
+Examples

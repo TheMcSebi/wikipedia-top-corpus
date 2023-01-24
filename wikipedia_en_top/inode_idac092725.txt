@@ -1,0 +1,27 @@
+inode
+The inode (index node) is a data structure in a Unix-style file system that describes a file-system object such as a file or a directory. Each inode stores the attributes and disk block locations of the object's data. File-system object attributes may include metadata (times of last change, access, modification), as well as owner and permission data.
+A directory is a list of inodes with their assigned names. The list includes an entry for itself, its parent, and each of its children.
+Etymology
+
+There has been uncertainty on the Linux kernel mailing list about the reason for the "i" in "inode". In 2002, the question was brought to Unix pioneer Dennis Ritchie, who replied:
+
+
+A 1978 paper by Ritchie and Ken Thompson bolsters the notion of "index" being the etymological origin of inodes. They wrote:
+ Additionally, Maurice J. Bach wrote that an inode "is a contraction of the term index node and is commonly used in literature on the UNIX system".
+Details
+A file system relies on data structures about the files, as opposed to the contents of that file. The former are called metadata—data that describes data.  Each file is associated with an inode, which is identified by an integer, often referred to as an i-number or inode number.
+Inodes store information about files and directories (folders), such as file ownership, access mode (read, write, execute permissions), and file type. On many older file system implementations, the maximum number of inodes is fixed at file system creation, limiting the maximum number of files the file system can hold.  A typical allocation heuristic for inodes in a file system is one inode for every 2K bytes contained in the filesystem.
+The inode number indexes a table of inodes in a known location on the device. From the inode number, the kernel's file system driver can access the inode contents, including the location of the file, thereby allowing access to the file. A file's inode number can be found using the ls -i command.  The ls -i command prints the i-node number in the first column of the report.
+Some Unix-style file systems such as ZFS, OpenZFS, ReiserFS, btrfs, and APFS omit a fixed-size inode table, but must store equivalent data in order to provide equivalent capabilities. The data may be called stat data, in reference to the stat system call that provides the data to programs. Common alternatives to the fixed-size table include B-trees and the derived B+ trees.
+File names and directory implications:
+The operating system kernel's in-memory representation of this data is called struct inode in Linux. Systems derived from BSD use the term vnode (the "v" refers to the kernel's virtual file system layer).
+POSIX inode description
+The POSIX standard mandates file-system behavior that is strongly influenced by traditional UNIX file systems.  An inode is denoted by the phrase "file serial number", defined as a per-file system unique identifier for a file. That file serial number, together with the device ID of the device containing the file, uniquely identify the file within the whole system.
+Within a POSIX system, a file has the following attributes which may be retrieved by the stat system call:
+Implications
+Filesystems designed with inodes will have the following administrative characteristics.
+Inlining
+It can make sense to store very small files in the inode itself to save both space (no data block needed) and lookup time (no further disk access needed). This file system feature is called inlining. The strict separation of inode and file data thus can no longer be assumed when using modern file systems.
+If the data of a file fits in the space allocated for pointers to the data, this space can conveniently be used. For example, ext2 and its successors store the data of symlinks (typically file names) in this way if the data is no more than 60 bytes ("fast symbolic links").
+Ext4 has a file system option called inline_data that allows ext4 to perform inlining if enabled during file system creation. Because an inode's size is limited, this only works for very small files.
+In non-Unix systems

@@ -1,0 +1,53 @@
+Grantha script
+The Grantha script (Tamil: கிரந்த எழுத்து, romanized: Granta eḻuttu; Malayalam: ഗ്രന്ഥലിപി, romanized: granthalipi) is a South Indian script, found particularly in Tamil Nadu and Kerala. Originating from the Pallava script, the Grantha script is related to the Tamil and the Vatteluttu scripts. The modern Malayalam script of Kerala is a direct descendant of the Grantha script. The Southeast Asian and Indonesian scripts such as Thai and Javanese respectively, as well as South Asian Tigalari and Sinhala scripts are derived or closely related to Grantha through the early Pallava script. The Pallava script or Pallava Grantha, emerged in the 4th century CE and was used until the 7th century CE, in India. This early Grantha script was used to write Sanskrit texts, inscriptions on copper plates and stones of Hindu temples and monasteries. It was also used for classical Manipravalam – a language that is a blend of Sanskrit and Tamil. From it evolved Middle Grantha by the 7th century, and Transitional Grantha by about the 8th century, which remained in use until about the 14th century. Modern Grantha has been in use since the 14th century and into the modern era, to write classical texts in Sanskrit and Dravidian languages. It is also used to chant hymns and in traditional Vedic schools.
+
+
+The Tamil purist movement of the colonial era sought to purge the Grantha script from use and use the Tamil script exclusively. According to Kailasapathy, this was a part of Tamil nationalism and amounted to regional ethnic chauvinism.
+History
+In Sanskrit, grantha is literally 'a knot'. It is a word that was used for books, and the script used to write them. This stems from the practice of binding inscribed palm leaves using a length of thread held by knots. Grantha was widely used to write Sanskrit in the Tamil-speaking parts of South Asia from about the 5th century CE into modern times.
+The Grantha script was also historically used for writing Manipravalam, a blend of Tamil and Sanskrit which was used in the exegesis of Manipravalam texts. This evolved into a fairly complex writing system which required that Tamil words be written in the Tamil script and Sanskrit words be written in the Grantha script. By the 15th century, this had evolved to the point that both scripts would be used within the same word – if the root was derived from Sanskrit it would be written in the Grantha script, but any Tamil suffixes which were added to it would be written using the Tamil script. This system of writing went out of use when Manipravalam declined in popularity, but it was customary to use the same convention in printed editions of texts originally written in Manipravalam until the middle of the 20th century.
+In modern times, the Tamil-Grantha script is used in religious contexts by Tamil-speaking Hindus. For example, they use the script to write a child's name for the first time during the naming ceremony, for the Sanskrit portion of traditional wedding cards, and for announcements of a person's last rites. It is also used in many religious almanacs to print traditional formulaic summaries of the coming year.
+Types of Grantha
+Grantha script may be classified as follows:
+Pallava Grantha
+An archaic and ornamental variety of Grantha is sometimes referred to as Pallava Grantha. It was used by the Pallava in some inscriptions from the 4th century CE to the 7th century CE, in India. Examples are the Mamallapuram Tiruchirapalli Rock Cut Cave Inscriptions and Kailasantha Inscription.
+Middle Grantha
+Middle Granta first appeared in the Kuram copper plates, dating from around 675 CE, and was used until the end of the 8th century CE.
+Transitional Grantha
+Transitional Grantha is traceable from the 8th or 9th century CE, until around the 14th century CE. The Tulu-Malayalam script is derivative of Transitional Grantha dating to the 8th or 9th century CE, which later split into two distinct scripts – Tigalari and Malayalam.
+Modern Grantha
+Grantha in the present form dates from the 14th century CE. The oldest modern manuscript has been dated to the end of the 16th century CE. Two varieties are found in modern era Grantha texts: the 'Brahmanic' or square form used by Hindus, and the 'Jain' or round form used by Jains.
+Modern Grantha typeface
+The Grantha script has evolved over time. The modern Grantha is illustrated below and shares similarities with the Modern Tamil Script.
+Consonants
+As with other Abugida scripts Grantha consonant signs have the inherent vowel /a/. Its absence is marked with Virāma:
+Each letter below includes the inherent vowel:
+For other vowels diacritics are used:
+Sometimes ligatures of consonants with vowel diacritics may be found, e.g.:
+There are also a few special consonant forms with Virāma:
+Consonant clusters
+Grantha has two ways of representing consonant clusters. Sometimes, consonants in a cluster may form ligatures.
+Ligatures are normally preferred whenever they exist. If no ligatures exist, "stacked" forms of consonants are written, just as in Kannada and Telugu, with the lowest member of the stack being the only "live" consonant and the other members all being vowel-less. Note that ligatures may be used as members of stacks also.
+Special forms:
+ ⟨ya⟩ when final in a cluster, and  ⟨ra⟩ when non-initial become  and  respectively. These are often called "ya-phalaa" and "ra-vattu" in other Indic scripts.
+ ⟨ra⟩ as initial component of a cluster becomes (called Reph as in other Indic scripts) and is shifted to the end of the cluster but placed before any "ya-phalaa".
+Numerals
+Below is an image of a palm leaf manuscript with Sanskrit written in Grantha script:
+Text samples
+Kālidāsa's Kumārasambhavam:
+Transliterated into Latin (ISO 15919),
+Transliterated into Devanāgarī script,
+Comparison with other South Indian scripts
+Vowel signs
+Grantha script vowel comparison with Malayalam, Tamil, Sinhala]:
+
+Note: As in Devanāgarī ⟨e⟩ and ⟨o⟩ in Grantha stand for [eː] and [oː]. Originally also Malayāḷam and Tamiḻ scripts did not distinguish long and short ⟨e⟩ and ⟨o⟩, though both languages have the phonemes /e/ /eː/ and /o/ /oː/. The addition of extra signs for /eː/ and /oː/ is attributed to the Italian missionary  Constanzo Beschi (1680–1774), who is also known as Vīramāmunivar.
+Consonant signs
+The letters ழ ற ன and the corresponding sounds occur only in Dravidian languages.
+Another table that compares the consonants ka    , kha,     ga    , gha,     ṅa with other Southern Indic scripts such as Grantha, Tigalari, Malayalam, Kannada and Sinhala.
+Unicode
+Grantha script was added to the Unicode Standard in June 2014 with the release of version 7.0.
+The Unicode block for Grantha is U+11300–U+1137F:
+Unification with Tamil
+Some proposed to reunify Grantha and Tamil; however, the proposal triggered discontent by some. Considering the sensitivity involved, it was determined that the two scripts should not be unified, except for the numerals.
+Notes

@@ -1,0 +1,61 @@
+Psalm 22
+Psalm 22 of the Book of Psalms (the hind of the dawn) or My God, my God, why hast thou forsaken me? is a psalm in the Bible.
+The Book of Psalms is part of the third section of the Hebrew Bible, and a book of the Christian Old Testament. In the slightly different numbering system used in the Greek Septuagint and Latin Vulgate translations of the Bible, this psalm is Psalm 21. In Latin, it is known as "Deus, Deus meus".
+The psalm forms a regular part of Jewish, Orthodox Christian, Catholic, Anglican, Lutheran, and other Protestant liturgies.
+History and context
+In the most general sense, Psalm 22 is about a person who is crying out to God to save him from the taunts and torments of his enemies, and (in the last ten verses) thanking God for rescuing him.
+Jewish interpretations of Psalm 22 identify the individual in the psalm with a royal figure, usually King David or Queen Esther.
+The psalm is also interpreted as referring to the plight of the Jewish people and their distress and alienation in exile. For instance, the phrase "But I am a worm" (Hebrew: ואנכי תולעת) refers to Israel, similarly to Isaiah 41: "Fear not, thou worm Jacob, and ye men of Israel; I help thee, saith the LORD, and thy Redeemer, the Holy One of Israel."
+Tractate Megillah of the Babylonian Talmud contains an extended collection of midrash expanding on the Book of Esther. Commenting on Esther 5:1, Rabbi Levi is quoted saying that, as Esther passed through the hall of idols on the way to the throne room to plead with the king, she felt the Shekhinah (divine presence) leaving her, at which point she quoted Psalm 22:1 saying "My God, my God, why have you forsaken me." This quote in the Tractate Megillah of the Babylonian Talmud does not appear in the KJV of the Bible.
+Heading
+Ayelet Hashachar (Hebrew: "hind of the dawn") is found in the title of the psalm. It is probably the name of some song or tune to the measure of which the psalm was to be chanted. Some, however, understand by the name some instrument of music, or an allegorical allusion to the subject of the psalms. In the recent literature, however, it is argued that "Hind of Dawn" is a cultic role of the priest designated person acting as מְנַצֵּחַ (menatseach), as head of the ritual.
+Where English translations have "psalm", the underlying Hebrew word is מִזְמוֹר (mizmor), a song with instrumental accompaniment. This is part of the series of "Davidic Psalms" (mizmor le-david). Traditionally, their authorship was attributed to King David; however, in scholarly exegesis this attribution has been variously qualified or challenged since the late 19th century. The Hebrew particle le, can mean "for", "about", or "by", so that it remains open to interpretation whether these psalms originate with David, or whether the heading refers, rather, to the chief character of the poetry, as being concerned with Davidic kingship in the narrow sense, or even divine kingship more generally.
+The heading further assigns the psalm as "for the conductor" (לַֽמְנַצֵּחַ). This is apparently a reference to the use of psalms in the (temple) liturgy. The exact meaning is unclear.
+Text
+Hebrew Bible version
+Following is the Hebrew text of Psalm 22:
+King James Version
+New Testament references
+The New Testament makes numerous allusions to Psalm 22, mainly during the crucifixion of Jesus.
+Verse 1, "My God, my God, why have you forsaken me?", is quoted in Mark 15:34; Matthew 27:46 Codex Vaticanus transliterates this differently from the canonical Greek text. Codex Vaticanus Matthew 27.46 has: Eloey, Eloey, lema sabaktanei which is similar to the old Syriac Psalm 22 Alóhi Alóhi lmóno shbáqthoni. Codex Vaticanus Mark 15.34 has: Eloi, Eloi, lama zabafthanei which matches the Hebrew Psalm 22 (אלי אלי למה עזבתני) Elí, Elí, láma azavtháni.
+Verse 7, "They hurl insults, shaking their heads", is quoted in Mark 15:29; Matthew 27:39
+Verse 8, "He trusted on the Lord that he would deliver him: let him deliver him, seeing he delighted in him", is quoted in Matthew 27:43
+Verse 18, "They divide my clothes among them and cast lots for my garment", is quoted in Mark 15:24; Matthew 27:35; Luke 23:34; John 19:24
+Verse 22, "I will declare your name to my people; in the assembly I will praise you", is quoted Hebrews 2:12
+Uses
+Judaism
+Psalm 22 is traditionally recited on the Fast of Esther, on the day before Purim.
+This psalm is recited during synagogue services on Purim by various groups. Sephardi and Mizrahi Jews say Psalm 22 at the beginning of the evening service on Purim night. Sephardi and Mizrahi Jews, as well as Ashkenazi Jews who follow the nusach of the Vilna Gaon, recite Psalm 22 as the Song of the Day in the Purim morning service.
+Verse 4 is part of the opening paragraph of Uva letzion.
+Verse 12 is recited during Selichot.
+Verse 26 is found in the repetition of the Amidah in the Rosh Hashanah morning service.
+Verse 29 is a part of the Song of the Sea, which is recited during Pesukei dezimra in the morning prayer. This verse is also said during Mussaf on Rosh Hashanah.
+Christianity
+According to the Gospel of Matthew and Gospel of Mark, Jesus cried out the opening verse of Psalm 22 from the cross (Matthew 27:46; Mark 15:34). Although Jesus said its first verse alone in his duress, it is well established that the first word or words of a Jewish text are understood as indicating its entirety, so thereby he regards the whole psalm as foreshadowing his passion and resurrection.
+Christians contend that "They have pierced my hands and my feet" (Psalm 22:16), and "I can count all my bones" (Psalm 22:17) are prophecies indicating the manner of Jesus's crucifixion: that he would be nailed to a cross (John 20:25) and, per the Levitical requirement for a sacrifice, that none of his bones would be broken (Numbers 9:11–13). (Christians view Jesus as an atoning sacrifice.)
+Some Christian commentators, such as E. W. Bullinger's Companion Bible Notes, and H. A. Ironside, point out that the word translated 'worm' in "I am a worm and not a man" (Psalm 22:6) is tola, a Middle Eastern worm that lives in a tree and is crushed for its red dye, also translated 'crimson'. It is also the word used in  (Isaiah 41:14) in the servant songs of Isaiah. This would be consistent with the view of the suffering person being an atoning sacrifice, dying on a tree.
+All four Gospels report the Roman soldiers casting lots for Jesus' clothes (Matthew 27:35; Mark 15:24; Luke 23:34; John 19:24). John reports the action of the soldiers in the language of the psalm, then stating that the soldiers' action occurred "that the scripture might be fulfilled," followed at once by quoting Psalm 22:19 ("They divided my garments among them, and for my clothing they cast lots."). The Gospel of Matthew in Codex Amiatinus and other Latin manuscripts contain a clause (not found either in the Greek nor, apparently, in Jerome's original version of the Vulgate), at the end of Matthew 27:35 "ut [ad]impleretur quod dictum est per prophetam dicentem 'Miserunt sortem...'" ("so that what was said through the prophet might be fulfilled, 'They cast lots...'").
+Jerome correlates Jesus' direction to the disciples, "Tell my brothers (nuntiate fratribus meis)" to meet Jesus in Galilee (Matthew 28:10) with Psalm 22:23: "I will tell forth (Adnuntiabo) your name to my brothers (fratribus meis)."
+Catholic Church
+In the Roman Rite, prior to the implementation of the Mass of Paul VI, this psalm was sung at the Stripping of the Altar on Maundy Thursday to signify the stripping of Christ's garments before crucifixion. The psalm was preceded and followed by the antiphon "Diviserunt sibi vestimenta mea: et super vestem meam miserunt sortem" (They divided my clothes among them and cast lots for my garment). The chanting of this psalm was suppressed in the 1970 revisions to the Mass. It is still included in many parts of the Anglican Communion.
+Since the Middle Ages, this psalm was traditionally performed during the celebration of the vigils dimanche, according to the Rule of St. Benedict set to 530, as St. Benedict of Nursia simply attributed Psalms 21 (20) 109 (108) offices vigils, "all sitting with ordre".
+In the pre-Tridentine Divine Office, the Psalm was said on Sundays at Prime.  It was reassigned to Friday by Pope Pius V. In the current Divine Office promulgated in 1971 (Liturgy of the Hours), with the suppression of Prime, it was reassigned to the middle of the day (Terce, Sext, or None) on Friday of the third week.
+Book of Common Prayer
+In the Church of England's Book of Common Prayer, this psalm is appointed to be read on the evening of the fourth day of the month.
+Eastern Orthodox Church
+In the Orthodox Church, the Psalm forms part of the Third Kathisma, which is sung every Sunday (except Pascha) at Matins and at the Third Hour on Wednesdays in Lent, except in the Fifth Week when it is sung at the First Hour. The Psalm is also sung at the Royal Hours of Good Friday.
+Musical settings
+The psalm's own heading states that it is to be sung to the tune "Hind of Dawn", in a style apparently known to the original audience, according to the traditional interpretation. Heinrich Schütz wrote a settings of a metric paraphrase in German in two parts, "Hört zu ihr Völker in gemein", SWV 118, and "Ich will verkündgen in der Gmein", SWV 119, for the Becker Psalter, published first in 1628.
+The King James Version of verses 7–8 from this chapter is cited as texts in Handel's English-language oratorio Messiah, HWV 56.
+Historical-critical analysis
+In exegetical scholarship, Psalm 22 is generally regarded as being of composite origin. It is understood to have originally consisted of the contents of verses 1-22/23, with verses 23/24-32 comprising a later addition. Further analysis also recognizes verses 4–6 as part of the later addition, and finds a third layer of editorial development in verses 28–32. The exact distinction between the two main parts of the psalm is also controversial, as verse 23 is sometimes counted as a part of the original psalm, but sometimes as part of the later addition.
+The original psalm (v. 2-22/23) is thought to date from the pre-exilic period, that is, before the Babylonian destruction of Jerusalem in 587 BC. The second part, because of the significant rescue of Israel, was probably added only in the post-exilic period. The most recent portion of the composition (v. 28–32), on account of its universalist perspective, is considered to date from the Hellenistic period, likely the late 4th century BC.
+Commentary
+The reproachful, plaintive question "why" of suffering (verse 2) in the 22nd Psalm touches the deepest sense of godforsakenness in the face of suffering and multiple persecution by enemies. Because of the vagueness of the plea being made by the first part of the psalm it has become a timeless testimony applicable to many  situations of persecution. The complaints about the absence of God are punctuated by praise (v. 4), confidences (v. 5–6, 10–11) and petitions (v. 20–22) interrupted.
+The second part of the psalm is the gratitude of the petitioner in the light of his salvation (v. 22) in the context of Israel (v. 26–27) and expands in worship YHWH the perspective of the peoples of the world that impressed God's action should show.
+In the New Testament Jesus cites Psalm 22 shortly before his death on the cross, to make himself the psalm petitioner, and to own, according to Jewish tradition, the entire contents of the psalm.
+Christologically this is considered problematic, inasmuch as Jesus, the Second Person of the Trinity, can hardly say that God has forsaken him. However, as in the psalm, apparent abandonment by God is not the end. Rather, in both cases there is the sudden and abrupt rescue of the petitioner by God (in the New Testament through Jesus' resurrection). The usual division of the psalm into an action part (v. 2-22) and a praise or thanksgiving part (v. 23–32), therefore, is interpreted by some (by Martin Luther, among others) to anticipate the Crucifixion and the Resurrection.
+See also
+Explanatory notes
+Citations
+General and cited sources

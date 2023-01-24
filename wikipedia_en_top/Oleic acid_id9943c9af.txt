@@ -1,0 +1,27 @@
+Oleic acid
+Oleic acid is a fatty acid that occurs naturally in various animal and vegetable fats and oils. It is an odorless, colorless oil, although commercial samples may be yellowish. In chemical terms, oleic acid is classified as a monounsaturated omega-9 fatty acid, abbreviated with a lipid number of 18:1 cis-9, and a main product of Δ9 desaturase. It has the formula CH3(CH2)7CH=CH(CH2)7COOH. The name derives from the Latin word oleum, which means oil. It is the most common fatty acid in nature. The salts and esters of oleic acid are called oleates.
+Occurrence
+Fatty acids (or their salts) often do not occur as such in biological systems. Instead fatty acids such as oleic acid occur as their esters, commonly triglycerides, which are the greasy materials in many natural oils. Oleic acid is the most common monounsaturated fatty acid in nature. It is found in fats (triglycerides), the phospholipids that make membranes, cholesterol esters, and wax esters.
+Triglycerides of oleic acid comprise the majority of olive oil (about 70%). Olive oil exceeding 2% free oleic acid is graded unfit for human consumption. It also makes up 59–75% of pecan oil, 61% of canola oil, 36–67% of peanut oil, 60% of macadamia oil, 20–80% of sunflower oil, 15–20% of grape seed oil, sea buckthorn oil, 40% of sesame oil, and 14% of poppyseed oil. High oleic variants of plant sources such as sunflower (~80%) and canola oil (70%) also have been developed. Karuka contains 52.39% oleic acid. It is abundantly present in many animal fats, constituting 37 to 56% of chicken and turkey fat, and 44 to 47% of lard.
+Oleic acid is the most abundant fatty acid in human adipose tissue, and second in abundance in human tissues overall, following palmitic acid.
+Production and chemical behavior
+The biosynthesis of oleic acid involves the action of the enzyme stearoyl-CoA 9-desaturase acting on stearoyl-CoA. In effect, stearic acid is dehydrogenated to give the monounsaturated derivative, oleic acid.
+Oleic acid undergoes the reactions of carboxylic acids and alkenes. It is soluble in aqueous base to give soaps called oleates. Iodine adds across the double bond. Hydrogenation of the double bond yields the saturated derivative stearic acid. Oxidation at the double bond occurs slowly in air, and is known as rancidification in foodstuffs and as drying in coatings.
+Reduction of the carboxylic acid group yields oleyl alcohol. Ozonolysis of oleic acid is an important route to azelaic acid. The coproduct is nonanoic acid:
+Esters of azelaic acid find applications in lubrications and plasticizer.
+Related compounds
+The trans isomer of oleic acid is called elaidic acid or trans-9-octadecenoic acid. These isomers have distinct physical properties and biochemical properties. Elaidic acid, the most abundant trans fatty acid in diet, appears to have an adverse effect on health. A reaction that converts oleic acid to elaidic acid is called elaidinization.
+Another naturally occurring isomer of oleic acid is petroselinic acid.
+In chemical analysis, fatty acids are separated by gas chromatography of their methyl ester derivatives.  Alternatively, separation of unsaturated isomers is possible by argentation thin-layer chromatography.
+In ethenolysis, methyl oleate, the methyl ester of the acid, converts to 1-decene and methyl 9-decenoate:
+Uses
+Oleic acid is used as a component in many foods, in the form of its triglycerides. It is a component of the normal human diet, being a part of animal fats and vegetable oils.
+Oleic acid as its sodium salt is a major component of soap as an emulsifying agent. It is also used as an emollient. Small amounts of oleic acid are used as an excipient in pharmaceuticals, and it is used as an emulsifying or solubilizing agent in aerosol products.
+Niche uses
+Oleic acid is used to induce lung damage in certain types of animals for the purpose of testing new drugs and other means to treat lung diseases. Specifically in sheep, intravenous administration of oleic acid causes acute lung injury with corresponding pulmonary edema.
+Oleic acid is used as a soldering flux in stained glass work for joining lead came.
+Nanoparticles
+Oleic acid is widely used in the solution phase synthesis of nanoparticles, functioning as a kinetic knob to control the size and morphology of nanoparticles.
+Health effects
+Oleic acid is the topmost monounsaturated fat in the human diet. Monounsaturated fat consumption has been associated with decreased low-density lipoprotein (LDL) cholesterol, and possibly with increased high-density lipoprotein (HDL) cholesterol. Oleic acid may be responsible for the hypotensive (blood pressure reducing) effects of olive oil that is considered a health benefit. A 2017 review found that diets enriched in oleic acid are beneficial for regulating body weight.
+The United States FDA has approved a health claim on reduced risk of coronary heart disease for high oleic (> 70% oleic acid) oils. Some oil plants have cultivars bred to increase the amount of oleic acid in the oils. In addition to providing a health claim, the heat stability and shelf life may also be improved, but only if the increase in monounsaturated oleic acid levels correspond to a substantial reduction in polyunsaturated fatty acid (especially α-Linolenic acid) content. When the saturated fat or trans fat in a fried food is replaced with a stable high oleic oil, consumers may be able to avoid certain health risks associated with consuming saturated fat and trans fat.

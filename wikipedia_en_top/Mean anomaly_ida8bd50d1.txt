@@ -1,0 +1,23 @@
+Mean anomaly
+In celestial mechanics, the mean anomaly is the fraction of an elliptical orbit's period that has elapsed since the orbiting body passed periapsis, expressed as an angle which can be used in calculating the position of that body in the classical two-body problem. It is the angular distance from the pericenter which a fictitious body would have if it moved in a circular orbit, with constant speed, in the same orbital period as the actual body in its elliptical orbit.
+Definition
+Define T as the time required for a particular body to complete one orbit. In time T, the radius vector sweeps out 2π radians, or 360°. The average rate of sweep, n, is then 
+which is called the mean angular motion of the body, with dimensions of radians per unit time or degrees per unit time.
+Define τ as the time at which the body is at the pericenter. From the above definitions, a new quantity, M, the mean anomaly can be defined 
+which gives an angular distance from the pericenter at arbitrary time t. with dimensions of radians or degrees.
+Because the rate of increase, n, is a constant average, the mean anomaly increases uniformly (linearly) from 0 to 2π radians or 0° to 360° during each orbit. It is equal to 0 when the body is at the pericenter, π radians (180°) at the apocenter, and 2π radians (360°) after one complete revolution. If the mean anomaly is known at any given instant, it can be calculated at any later (or prior) instant by simply adding (or subtracting) n⋅δt where δt represents the small time difference.
+Mean anomaly does not measure an angle between any physical objects (except at pericenter or apocenter, or for a circular orbit). It is simply a convenient uniform measure of how far around its orbit a body has progressed since pericenter. The mean anomaly is one of three angular parameters (known historically as "anomalies") that define a position along an orbit, the other two being the eccentric anomaly and the true anomaly.
+Formulae
+The mean anomaly M can be computed from the eccentric anomaly E and the eccentricity e with Kepler's Equation:
+Mean anomaly is also frequently seen as
+where M0 is the mean anomaly at epoch and t0 is the epoch, a reference time to which the orbital elements are referred, which may or may not coincide with τ, the time of pericenter passage. The classical method of finding the position of an object in an elliptical orbit from a set of orbital elements is to calculate the mean anomaly by this equation, and then to solve Kepler's equation for the eccentric anomaly.
+Define ϖ as the longitude of the pericenter, the angular distance of the pericenter from a reference direction. Define ℓ as the mean longitude, the angular distance of the body from the same reference direction, assuming it moves with uniform angular motion as with the mean anomaly. Thus mean anomaly is also
+Mean angular motion can also be expressed,
+where μ is a gravitational parameter which varies with the masses of the objects, and a is the semi-major axis of the orbit. Mean anomaly can then be expanded,
+and here mean anomaly represents uniform angular motion on a circle of radius a .
+Mean anomaly can be calculated from the eccentricity and the true anomaly f by finding the eccentric anomaly and then using Kepler's equation. This gives, in radians:
+where atan2(y, x) is the angle from the x-axis of the ray from (0, 0) to (x, y), having the same sign as y. (Note that the arguments are often reversed in spreadsheets, for example Excel.)
+For parabolic and hyperbolic trajectories the mean anomaly is not defined, because they don't have a period. But in those cases, as with elliptical orbits, the area swept out by a chord between the attractor and the object following the trajectory increases linearly with time. For the hyperbolic case, there is a formula similar to the above giving the elapsed time as a function of the angle (the true anomaly in the elliptic case), as explained in the article Kepler orbit. For the parabolic case there is a different formula, the limiting case for either the elliptic or the hyperbolic case as the distance between the foci goes to infinity – see Parabolic trajectory#Baker's equation.
+Mean anomaly can also be expressed as a series expansion:
+A similar formula gives the true anomaly directly in terms of the mean anomaly:
+A general formulation of the above equation can be written as the equation of the centre : 

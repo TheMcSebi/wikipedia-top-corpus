@@ -1,0 +1,167 @@
+Continued fraction
+In mathematics, a continued fraction is an expression obtained through an iterative process of representing a number as the sum of its integer part and the reciprocal of another number, then writing this other number as the sum of its integer part and another reciprocal, and so on. In a finite continued fraction (or terminated continued fraction), the iteration/recursion is terminated after finitely many steps by using an integer in lieu of another continued fraction. In contrast, an infinite continued fraction is an infinite expression. In either case, all integers in the sequence, other than the first, must be positive. The integers $MATH$ are called the coefficients or terms of the continued fraction.
+It is generally assumed that the numerator of all of the fractions is 1. If arbitrary values and/or functions are used in place of one or more of the numerators or the integers in the denominators, the resulting expression is a generalized continued fraction. When it is necessary to distinguish the first form from generalized continued fractions, the former may be called a simple or regular continued fraction, or said to be in canonical form.
+Continued fractions have a number of remarkable properties related to the Euclidean algorithm for integers or real numbers. Every rational number $MATH$/$MATH$ has two closely related expressions as a finite continued fraction, whose coefficients ai can be determined by applying the Euclidean algorithm to $MATH$. The numerical value of an infinite continued fraction is irrational; it is defined from its infinite sequence of integers as the limit of a sequence of values for finite continued fractions. Each finite continued fraction of the sequence is obtained by using a finite prefix of the infinite continued fraction's defining sequence of integers. Moreover, every irrational number $MATH$ is the value of a unique infinite regular continued fraction, whose coefficients can be found using the non-terminating version of the Euclidean algorithm applied to the incommensurable values $MATH$ and 1. This way of expressing real numbers (rational and irrational) is called their continued fraction representation.
+The term continued fraction may also refer to representations of rational functions, arising in their analytic theory. For this use of the term, see Padé approximation and Chebyshev rational functions.
+Motivation and notation
+Consider, for example, the rational number 415/93, which is around 4.4624. As a first approximation, start with 4, which is the integer part; 415/93 = 4 + 43/93. The fractional part is the reciprocal of 93/43 which is about 2.1628. Use the integer part, 2, as an approximation for the reciprocal to obtain a second approximation of 4 + 1/2 = 4.5; 93/43 = 2 + 7/43.
+The remaining fractional part, 7/43, is the reciprocal of 43/7, and 43/7 is around 6.1429. Use 6 as an approximation for this to obtain 2 + 1/6 as an approximation for 93/43 and 4 + 1/2 + 1/6, about 4.4615, as the third approximation; 43/7 = 6 + 1/7. Finally, the fractional part, 1/7, is the reciprocal of 7, so its approximation in this scheme, 7, is exact (7/1 = 7 + 0/1) and produces the exact expression 4 + 1/2 + 1/6 + 1/7 for 415/93.
+The expression 4 + 1/2 + 1/6 + 1/7 is called the continued fraction representation of 415/93. This can be represented by the abbreviated notation 415/93 = [4; 2, 6, 7]. (It is customary to replace only the first comma by a semicolon.) Some older textbooks use all commas in the (n + 1)-tuple, for example, [4, 2, 6, 7].
+If the starting number is rational, then this process exactly parallels the Euclidean algorithm applied to the numerator and denominator of the number. In particular, it must terminate and produce a finite continued fraction representation of the number. The sequence of integers that occur in this representation is the sequence of successive quotients computed by the Euclidean algorithm. If the starting number is irrational, then the process continues indefinitely. This produces a sequence of approximations, all of which are rational numbers, and these converge to the starting number as a limit. This is the (infinite) continued fraction representation of the number. Examples of continued fraction representations of irrational numbers are:
+Continued fractions are, in some ways, more "mathematically natural" representations of a real number than other representations such as decimal representations, and they have several desirable properties:
+Basic formula
+A (generalized) continued fraction is an expression of the form
+where ai and bi can be any complex numbers.
+When bi = 1 for all i the expression is called a simple continued fraction.
+When the expression contains finitely many terms, it is called a finite continued fraction.
+When the expression contains infinitely many terms, it is called an infinite continued fraction.
+When the terms eventually repeat from some point onwards, the expression is called a periodic continued fraction.
+Thus, all of the following illustrate valid finite simple continued fractions:
+For simple continued fractions of the form
+$MATH$
+the $MATH$ term can be calculated using the following recursive formula:
+$MATH$
+where $MATH$ and $MATH$
+From which it can be understood that the $MATH$ sequence stops if $MATH$.
+Calculating continued fraction representations
+Consider a real number r.
+Let $MATH$ be the integer part of r and let
+$MATH$ be the fractional part of r.
+Then the continued fraction representation of r is
+$MATH$, where $MATH$ is the continued fraction representation of $MATH$.
+To calculate a continued fraction representation of a number r, write down the integer part (technically the floor) of r. Subtract this integer part from r. If the difference is 0, stop; otherwise find the reciprocal of the difference and repeat. The procedure will halt if and only if r is rational. This process can be efficiently implemented using the Euclidean algorithm when the number is rational.  The table below shows an implementation of this procedure for the number 3.245, resulting in the continued fraction expansion [3; 4,12,4].
+Notations
+The integers $MATH$, $MATH$ etc., are called the coefficients or terms of the continued fraction. One can abbreviate the continued fraction
+in the notation of Carl Friedrich Gauss
+or as
+or in the notation of Pringsheim as
+or in another related notation as
+Sometimes angle brackets are used, like this:
+The semicolon in the square and angle bracket notations is sometimes replaced by a comma.
+One may also define infinite simple continued fractions as limits:
+This limit exists for any choice of $MATH$ and positive integers $MATH$.
+Finite continued fractions
+Every finite continued fraction represents a rational number, and every rational number can be represented in precisely two different ways as a finite continued fraction, with the conditions that the first coefficient is an integer and the other coefficients are positive integers. These two representations agree except in their final terms. In the longer representation the final term in the continued fraction is 1; the shorter representation drops the final 1, but increases the new final term by 1. The final element in the short representation is therefore always greater than 1, if present. In symbols:
+Reciprocals
+The continued fraction representations of a positive rational number and its reciprocal are identical except for a shift one place left or right depending on whether the number is less than or greater than one respectively. In other words, the numbers represented by
+$MATH$ and $MATH$ are reciprocals.
+For instance if $MATH$ is an integer and $MATH$ then
+If $MATH$ then
+The last number that generates the remainder of the continued fraction is the same for both $MATH$ and its reciprocal.
+For example,
+Infinite continued fractions and convergents
+Every infinite continued fraction is irrational, and every irrational number can be represented in precisely one way as an infinite continued fraction.
+An infinite continued fraction representation for an irrational number is useful because its initial segments provide rational approximations to the number. These rational numbers are called the convergents of the continued fraction. The larger a term is in the continued fraction, the closer the corresponding convergent is to the irrational number being approximated. Numbers like π have occasional large terms in their continued fraction, which makes them easy to approximate with rational numbers. Other numbers like e have only small terms early in their continued fraction, which makes them more difficult to approximate rationally. The golden ratio Φ has terms equal to 1 everywhere—the smallest values possible—which makes Φ the most difficult number to approximate rationally. In this sense, therefore, it is the "most irrational" of all irrational numbers. Even-numbered convergents are smaller than the original number, while odd-numbered ones are larger.
+For a continued fraction [a0; a1, a2, ...], the first four convergents (numbered 0 through 3) are
+The numerator of the third convergent is formed by multiplying the numerator of the second convergent by the third coefficient, and adding the numerator of the first convergent. The denominators are formed similarly. Therefore, each convergent can be expressed explicitly in terms of the continued fraction as the ratio of certain multivariate polynomials called continuants.
+If successive convergents are found, with numerators h1, h2, ... and denominators k1, k2, ... then the relevant recursive relation is:
+The successive convergents are given by the formula
+Thus to incorporate a new term into a rational approximation, only the two previous convergents are necessary. The initial "convergents" (required for the first two terms) are 0⁄1 and 1⁄0. For example, here are the convergents for [0;1,5,2,2].
+When using the Babylonian method to generate successive approximations to the square root of an integer, if one starts with the lowest integer as first approximant, the rationals generated all appear in the list of convergents for the continued fraction. Specifically, the approximants will appear on the convergents list in positions 0, 1, 3, 7, 15, ... , 2k−1, ... For example, the continued fraction expansion for √3 is [1;1,2,1,2,1,2,1,2,...]. Comparing the convergents with the approximants derived from the Babylonian method:
+Properties
+A Baire space is a topological space on infinite sequences of natural numbers. The infinite continued fraction provides a homeomorphism from the Baire space to the space of irrational real numbers (with the subspace topology inherited from the usual topology on the reals). The infinite continued fraction also provides a map between the quadratic irrationals and the dyadic rationals, and from other irrationals to the set of infinite strings of binary numbers (i.e. the Cantor set); this map is called the Minkowski question mark function. The mapping has interesting self-similar fractal properties; these are given by the modular group, which is the subgroup of Möbius transformations having integer values in the transform. Roughly speaking, continued fraction convergents can be taken to be Möbius transformations acting on the (hyperbolic) upper half-plane; this is what leads to the fractal self-symmetry.
+The limit probability distribution of the coefficients in the continued fraction expansion of a random variable uniformly distributed in (0, 1) is the Gauss–Kuzmin distribution.
+Some useful theorems
+If $MATH$, $MATH$, $MATH$, $MATH$ is an infinite sequence of positive integers, define the sequences $MATH$ and $MATH$ recursively:
+Corollary 1: Each convergent is in its lowest terms (for if $MATH$ and $MATH$ had a nontrivial common divisor it would divide $MATH$, which is impossible).
+Corollary 2: The difference between successive convergents is a fraction whose numerator is unity:
+Corollary 3: The continued fraction is equivalent to a series of alternating terms:
+Corollary 4: The matrix
+has determinant plus or minus one, and thus belongs to the group of
+$MATH$ unimodular matrices $MATH$.
+Corollary 1: The even convergents (before the $MATH$th) continually increase, but are always less than $MATH$.
+Corollary 2: The odd convergents (before the $MATH$th) continually decrease, but are always greater than $MATH$.
+Corollary 1: A convergent is nearer to the limit of the continued fraction than any fraction whose denominator is less than that of the convergent.
+Corollary 2: A convergent obtained by terminating the continued fraction just before a large term is a close approximation to the limit of the continued fraction.
+Semiconvergents
+If
+are consecutive convergents, then any fractions of the form
+where $MATH$ is an integer such that $MATH$, are called semiconvergents, secondary convergents, or intermediate fractions. The $MATH$-st semiconvergent equals the mediant of the $MATH$-th one and the convergent $MATH$. Sometimes the term is taken to mean that being a semiconvergent excludes the possibility of being a convergent (i.e., $MATH$), rather than that a convergent is a kind of semiconvergent.
+It follows that semiconvergents represent a monotonic sequence of fractions between the convergents $MATH$ (corresponding to $MATH$) and $MATH$ (corresponding to $MATH$). The consecutive semiconvergents $MATH$ and $MATH$ satisfy the property $MATH$.
+If a rational approximation $MATH$ to a real number $MATH$ is such that the value $MATH$ is smaller than that of any approximation with a smaller denominator, then $MATH$ is a semiconvergent of the continued fraction expansion of $MATH$. The converse is not true, however.
+Best rational approximations
+One can choose to define a best rational approximation to a real number x as a rational number n/d, d > 0, that is closer to x than any approximation with a smaller or equal denominator. The simple continued fraction for x can be used to generate all of the best rational approximations for x by applying these three rules:
+For example, 0.84375 has continued fraction [0;1,5,2,2]. Here are all of its best rational approximations.
+The strictly monotonic increase in the denominators as additional terms are included permits an algorithm to impose a limit, either on size of denominator or closeness of approximation.
+The "half rule" mentioned above requires that when ak is even, the halved term ak/2 is admissible if and only if |x − [a0 ; a1, ..., ak − 1]| > |x − [a0 ; a1, ..., ak − 1, ak/2]|  This is equivalent  to: Shoemake (1995).
+The convergents to x are "best approximations" in a much stronger sense than the one defined above. Namely, n/d is a convergent for x if and only if |dx − n| has the smallest value among the analogous expressions for all rational approximations m/c with c ≤ d; that is, we have |dx − n| < |cx − m| so long as c < d. (Note also that |dkx − nk| → 0 as k → ∞.)
+Best rational within an interval
+A rational that falls within the interval (x, y), for 0 < x < y, can be found with the continued fractions for x and y. When both x and y are irrational and
+where x and y have identical continued fraction expansions up through ak−1, a rational that falls within the interval (x, y) is given by the finite continued fraction,
+This rational will be best in the sense that no other rational in (x, y) will have a smaller numerator or a smaller denominator.
+If x is rational, it will have two continued fraction representations that are finite, x1 and x2, and similarly a rational y will have two representations, y1 and y2. The coefficients beyond the last in any of these representations should be interpreted as +∞; and the best rational will be one of z(x1, y1), z(x1, y2), z(x2, y1), or z(x2, y2).
+For example, the decimal representation 3.1416 could be rounded from any number in the interval [3.14155, 3.14165). The continued fraction representations of 3.14155 and 3.14165 are
+and the best rational between these two is
+Thus, 355/113 is the best rational number corresponding to the rounded decimal number 3.1416, in the sense that no other rational number that would be rounded to 3.1416 will have a smaller numerator or a smaller denominator.
+Interval for a convergent
+A rational number, which can be expressed as finite continued fraction in two ways,
+will be one of the convergents for the continued fraction expansion of a number, if and only if the number is strictly between (see this proof)
+The numbers x and y are formed by incrementing the last coefficient in the two representations for z. It is the case that x < y when k is even, and x > y when k is odd.
+For example, the number 355/113 has the continued fraction representations
+and thus 355/113 is a convergent of any number strictly between
+Comparison
+Consider x = [a0; a1, ...] and y = [b0; b1, ...]. If k is the smallest index for which ak is unequal to bk then x < y if (−1)k(ak − bk) < 0 and y < x otherwise.
+If there is no such k, but one expansion is shorter than the other, say x = [a0; a1, ..., an] and y = [b0; b1, ..., bn, bn + 1, ...] with ai = bi for 0 ≤ i ≤ n, then x < y if n is even and y < x if n is odd.
+Continued fraction expansion of π and its convergents
+To calculate the convergents of π we may set a0 = ⌊π⌋ = 3, define u1 = 1/π − 3 ≈ 7.0625 and a1 = ⌊u1⌋ = 7, u2 = 1/u1 − 7 ≈ 15.9966 and a2 = ⌊u2⌋ = 15, u3 = 1/u2 − 15 ≈ 1.0034. Continuing like this, one can determine the infinite continued fraction of π as
+The fourth convergent of π is [3;7,15,1] = 355/113 = 3.14159292035..., sometimes called Milü, which is fairly close to the true value of π.
+Let us suppose that the quotients found are, as above, [3;7,15,1]. The following is a rule by which we can write down at once the convergent fractions which result from these quotients without developing the continued fraction.
+The first quotient, supposed divided by unity, will give the first fraction, which will be too small, namely, 3/1. Then, multiplying the numerator and denominator of this fraction by the second quotient and adding unity to the numerator, we shall have the second fraction, 22/7, which will be too large. Multiplying in like manner the numerator and denominator of this fraction by the third quotient, and adding to the numerator the numerator of the preceding fraction, and to the denominator the denominator of the preceding fraction, we shall have the third fraction, which will be too small. Thus, the third quotient being 15, we have for our numerator (22 × 15 = 330) + 3 = 333, and for our denominator, (7 × 15 = 105) + 1 = 106. The third convergent, therefore, is 333/106. We proceed in the same manner for the fourth convergent. The fourth quotient being 1, we say 333 times 1 is 333, and this plus 22, the numerator of the fraction preceding, is 355; similarly, 106 times 1 is 106, and this plus 7 is 113.
+In this manner, by employing the four quotients [3;7,15,1], we obtain the four fractions:
+To sum up, the pattern is
+$MATH$
+$MATH$
+These convergents are alternately smaller and larger than the true value of π, and approach nearer and nearer to π. The difference between a given convergent and π is less than the reciprocal of the product of the denominators of that convergent and the next convergent. For example, the fraction 22/7 is greater than π, but 22/7 − π is less than 1/7 × 106 = 1/742 (in fact, 22/7 − π is just more than 1/791 = 1/7 × 113).
+The demonstration of the foregoing properties is deduced from the fact that if we seek the difference between one of the convergent fractions and the next adjacent to it we shall obtain a fraction of which the numerator is always unity and the denominator the product of the two denominators. Thus the difference between 22/7 and 3/1 is 1/7, in excess; between 333/106 and 22/7, 1/742, in deficit; between 355/113 and 333/106, 1/11978, in excess; and so on. The result being, that by employing this series of differences we can express in another and very simple manner the fractions with which we are here concerned, by means of a second series of fractions of which the numerators are all unity and the denominators successively be the product of every two adjacent denominators. Instead of the fractions written above, we have thus the series:
+The first term, as we see, is the first fraction; the first and second together give the second fraction, 22/7; the first, the second and the third give the third fraction 333/106, and so on with the rest; the result being that the series entire is equivalent to the original value.
+Generalized continued fraction
+A generalized continued fraction is an expression of the form
+where the an (n > 0) are the partial numerators, the bn are the partial denominators, and the leading term b0 is called the integer part of the continued fraction.
+To illustrate the use of generalized continued fractions, consider the following example. The sequence of partial denominators of the simple continued fraction of π does not show any obvious pattern:
+or
+However, several generalized continued fractions for π have a perfectly regular structure, such as:
+The first two of these are special cases of the arctangent function with π = 4 arctan (1) and the fourth and fifth one can be derived using the Wallis product.
+
+
+The continued fraction of $MATH$ above consisting of cubes uses the Nilakantha series and an exploit from Leonhard Euler.
+Other continued fraction expansions
+Periodic continued fractions
+The numbers with periodic continued fraction expansion are precisely the irrational solutions of quadratic equations with rational coefficients; rational solutions have finite continued fraction expansions as previously stated. The simplest examples are the golden ratio φ = [1;1,1,1,1,1,...] and √2 = [1;2,2,2,2,...], while √14 = [3;1,2,1,6,1,2,1,6...] and √42 = [6;2,12,2,12,2,12...]. All irrational square roots of integers have a special form for the period; a symmetrical string, like the empty string (for √2) or 1,2,1 (for √14), followed by the double of the leading integer.
+A property of the golden ratio φ
+Because the continued fraction expansion for φ doesn't use any integers greater than 1, φ is one of the most "difficult" real numbers to approximate with rational numbers. Hurwitz's theorem  states that any irrational number k can be approximated by infinitely many rational m/n with
+While virtually all real numbers k will eventually have infinitely many convergents m/n whose distance from k is significantly smaller than this limit, the convergents for φ (i.e., the numbers 5/3, 8/5, 13/8, 21/13, etc.) consistently "toe the boundary", keeping a distance of almost exactly $MATH$ away from φ, thus never producing an approximation nearly as impressive as, for example, 355/113 for π. It can also be shown that every real number of the form a + bφ/c + dφ, where a, b, c, and d are integers such that a d − b c = ±1, shares this property with the golden ratio φ; and that all other real numbers can be more closely approximated.
+Regular patterns in continued fractions
+While there is no discernible pattern in the simple continued fraction expansion of π, there is one for e, the base of the natural logarithm:
+which is a special case of this general expression for positive integer n:
+Another, more complex pattern appears in this continued fraction expansion for positive odd n:
+with a special case for n = 1:
+Other continued fractions of this sort are
+where n is a positive integer; also, for integer n:
+with a special case for n = 1:
+If In(x) is the modified, or hyperbolic, Bessel function of the first kind, we may define a function on the rationals p/q by
+which is defined for all rational numbers, with p and q in lowest terms. Then for all nonnegative rationals, we have
+with similar formulas for negative rationals; in particular we have
+Many of the formulas can be proved using Gauss's continued fraction.
+Typical continued fractions
+Most irrational numbers do not have any periodic or regular behavior in their continued fraction expansion. Nevertheless, Khinchin proved that for almost all real numbers x, the ai (for i = 1, 2, 3, ...) have an astonishing property: their geometric mean tends to a constant (known as Khinchin's constant, K ≈ 2.6854520010...) independent of the value of x. Paul Lévy showed that the nth root of the denominator of the nth convergent of the continued fraction expansion of almost all real numbers approaches an asymptotic limit, approximately 3.27582, which is known as Lévy's constant. Lochs' theorem states that nth convergent of the continued fraction expansion of almost all real numbers determines the number to an average accuracy of just over n decimal places.
+Applications
+Square roots
+Generalized continued fractions are used in a method for computing square roots.
+The identity
+leads via recursion to the generalized continued fraction for any square root:
+Pell's equation
+Continued fractions play an essential role in the solution of Pell's equation. For example, for positive integers p and q, and non-square n, it is true that if p2 − nq2 = ±1, then p/q is a convergent of the regular continued fraction for √n.  The converse holds if the period of the regular continued fraction for √n is 1, and in general the period describes which convergents give solutions to Pell's equation.
+Dynamical systems
+Continued fractions also play a role in the study of dynamical systems, where they tie together the Farey fractions which are seen in the Mandelbrot set with Minkowski's question mark function and the modular group Gamma.
+The backwards shift operator for continued fractions is the map h(x) = 1/x − ⌊1/x⌋ called the Gauss map, which lops off digits of a continued fraction expansion: h([0; a1, a2, a3, ...]) = [0; a2, a3, ...]. The transfer operator of this map is called the Gauss–Kuzmin–Wirsing operator. The distribution of the digits in continued fractions is given by the zero'th eigenvector of this operator, and is called the Gauss–Kuzmin distribution.
+Eigenvalues and eigenvectors
+The Lanczos algorithm uses a continued fraction expansion to iteratively approximate the eigenvalues and eigenvectors of a large sparse matrix.
+Networking applications
+Continued fractions have also been used in modelling optimization problems for wireless network virtualization to find a route between a source and a destination.
+
+
+Examples of rational and irrational numbers
+ra: rational approximant obtained by expanding continued fraction up to ar
+History
+See also
+Notes

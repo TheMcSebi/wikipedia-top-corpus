@@ -1,0 +1,85 @@
+Mann–Whitney U test
+In statistics, the Mann–Whitney U test (also called the Mann–Whitney–Wilcoxon (MWW/MWU), Wilcoxon rank-sum test, or Wilcoxon–Mann–Whitney test) is a nonparametric test of the null hypothesis that, for randomly selected values X and Y from two populations, the probability of X being greater than Y is equal to the probability of Y being greater than X.
+Nonparametric tests used on two dependent samples are the Sign test and the Wilcoxon signed-rank test.
+Assumptions and formal statement of hypotheses
+Although Mann and Whitney developed the Mann–Whitney U test under the assumption of continuous responses with the alternative hypothesis being that one distribution is stochastically greater than the other, there are many other ways to formulate the null and alternative hypotheses such that the Mann–Whitney U test will give a valid test.
+A very general formulation is to assume that:
+Under the general formulation, the test is only consistent when the following occurs under H1:
+Under more strict assumptions than the general formulation above, e.g., if the responses are assumed to be continuous and the alternative is restricted to a shift in location, i.e., F1(x) = F2(x + δ), we can interpret a significant Mann–Whitney U test as showing a difference in medians. Under this location shift assumption, we can also interpret the Mann–Whitney U test as assessing whether the Hodges–Lehmann estimate of the difference in central tendency between the two populations differs from zero. The Hodges–Lehmann estimate for this two-sample problem is the median of all possible differences between an observation in the first sample and an observation in the second sample.
+Otherwise, if both the dispersions and shapes of the distribution of both samples differ, the Mann-Whitney U test fails a test of medians. It is possible to show examples where medians are numerically equal while the test rejects the null hypothesis with a small p-value.  
+The Mann–Whitney U test / Wilcoxon rank-sum test is not the same as the Wilcoxon signed-rank test, although both are nonparametric and involve summation of ranks. The Mann–Whitney U test is applied to independent samples. The Wilcoxon signed-rank test is applied to matched or dependent samples.
+U statistic
+Let $MATH$ be an i.i.d. sample from $MATH$, and $MATH$ an i.i.d. sample from $MATH$, and both samples independent of each other. The corresponding Mann-Whitney U statistic is defined as:
+with 
+Area-under-curve (AUC) statistic for ROC curves
+The U statistic is equivalent to the area under the receiver operating characteristic curve (AUC) that can be readily calculated.
+Note that this is the same definition as the common language effect size from the section above. i.e.: the probability that a classifier will rank a randomly chosen positive instance higher than a randomly chosen negative one (assuming 'positive' ranks higher than 'negative').
+Because of its probabilistic form, the U statistic can be generalised to a measure of a classifier's separation power for more than two classes:
+Where c is the number of classes, and the Rk,ℓ term of AUCk,ℓ considers only the ranking of the items belonging to classes k and ℓ (i.e., items belonging to all other classes are ignored) according to the classifier's estimates of the probability of those items belonging to class k. AUCk,k will always be zero but, unlike in the two-class case, generally AUCk,ℓ ≠ AUCℓ,k, which is why the M measure sums over all (k,ℓ) pairs, in effect using the average of AUCk,ℓ and AUCℓ,k.
+Calculations
+The test involves the calculation of a statistic, usually called U, whose distribution under the null hypothesis is known. In the case of small samples, the distribution is tabulated, but for sample sizes above ~20, approximation using the normal distribution is fairly good. Some books tabulate statistics equivalent to U, such as the sum of ranks in one of the samples, rather than U itself.
+The Mann–Whitney U test is included in most modern statistical packages. It is also easily calculated by hand, especially for small samples. There are two ways of doing this.
+Method one:
+For comparing two small sets of observations, a direct method is quick, and gives insight into the meaning of the U statistic, which corresponds to the number of wins out of all pairwise contests (see the tortoise and hare example under Examples below). For each observation in one set, count the number of times this first value wins over any observations in the other set (the other value loses if this first is larger). Count 0.5 for any ties. The sum of wins and ties is U (i.e.: $MATH$) for the first set. U for the other set is the converse (i.e.: $MATH$).
+Method two:
+For larger samples:
+Properties
+The maximum value of U is the product of the sample sizes for the two samples (i.e.: $MATH$). In such a case, the "other" U would be 0.
+Examples
+Illustration of calculation methods
+Suppose that Aesop is dissatisfied with his classic experiment in which one tortoise was found to beat one hare in a race, and decides to carry out a significance test to discover whether the results could be extended to tortoises and hares in general. He collects a sample of 6 tortoises and 6 hares, and makes them all run his race at once. The order in which they reach the finishing post (their rank order, from first to last crossing the finish line) is as follows, writing T for a tortoise and H for a hare:
+What is the value of U?
+Example statement of results
+In reporting the results of a Mann–Whitney U test, it is important to state:
+In practice some of this information may already have been supplied and common sense should be used in deciding whether to repeat it. A typical report might run,
+A statement that does full justice to the statistical status of the test might run,
+However it would be rare to find such an extensive report in a document whose major topic was not statistical inference.
+Normal approximation and tie correction
+For large samples, U is approximately normally distributed. In that case, the standardized value
+where mU and σU are the mean and standard deviation of U, is approximately a standard normal deviate whose significance can be checked in tables of the normal distribution. mU and σU are given by
+The formula for the standard deviation is more complicated in the presence of tied ranks. If there are ties in ranks, σ should be adjusted as follows:
+where the left side is simply the variance and the right side is the adjustment for ties,  tk is the number of ties for the kth rank, and K is the total number of unique ranks with ties.
+A more computationally-efficient form with n1n2/12 factored out is
+where n = n1 + n2.
+If the number of ties is small (and especially if there are no large tie bands) ties can be ignored when doing calculations by hand. The computer statistical packages will use the correctly adjusted formula as a matter of routine.
+Note that since U1 + U2 = n1n2, the mean n1n2/2 used in the normal approximation is the mean of the two values of U. Therefore, the absolute value of the z-statistic calculated will be same whichever value of U is used.
+Effect sizes
+It is a widely recommended practice for scientists to report an effect size for an inferential test.
+Proportion of concordance out of all pairs
+The following three measures are equivalent.
+Common language effect size
+One method of reporting the effect size for the Mann–Whitney U test is with f, the common language effect size. As a sample statistic, the common language effect size is computed by forming all possible pairs between the two groups, then finding the proportion of pairs that support a direction (say, that items from group 1 are larger than items from group 2). To illustrate, in a study with a sample of ten hares and ten tortoises, the total number of ordered pairs is ten times ten or 100 pairs of hares and tortoises. Suppose the results show that the hare ran faster than the tortoise in 90 of the 100 sample pairs; in that case, the sample common language effect size is 90%. This sample value is an unbiased estimator of the population value, so the sample suggests that the best estimate of the common language effect size in the population is 90%.
+The relationship between f and the Mann–Whitney U (specifically $MATH$) is as follows:
+This is the same as the area under the curve (AUC) for the ROC curve.
+ρ statistic
+A statistic called ρ that is linearly related to U and widely used in studies of categorization (discrimination learning involving concepts), and elsewhere, is calculated by dividing U by its maximum value for the given sample sizes, which is simply n1×n2. ρ is thus a non-parametric measure of the overlap between two distributions; it can take values between 0 and 1, and it is an estimate of P(Y > X) + 0.5 P(Y = X), where X and Y are randomly chosen observations from the two distributions. Both extreme values represent complete separation of the distributions, while a ρ of 0.5 represents complete overlap. The usefulness of the ρ statistic can be seen in the case of the odd example used above, where two distributions that were significantly different on a Mann–Whitney U test nonetheless had nearly identical medians: the ρ value in this case is approximately 0.723 in favour of the hares, correctly reflecting the fact that even though the median tortoise beat the median hare, the hares collectively did better than the tortoises collectively.
+Rank-biserial correlation
+A method of reporting the effect size for the Mann–Whitney U test is with a measure of rank correlation known as the rank-biserial correlation. Edward Cureton introduced and named the measure. Like other correlational measures, the rank-biserial correlation can range from minus one to plus one, with a value of zero indicating no relationship.
+There is a simple difference formula to compute the rank-biserial correlation from the common language effect size: the correlation is the difference between the proportion of pairs favorable to the hypothesis (f) minus its complement (i.e.: the proportion that is unfavorable (u)). This simple difference formula is just the difference of the common language effect size of each group, and is as follows:
+For example, consider the example where hares run faster than tortoises in 90 of 100 pairs. The common language effect size is 90%, so the rank-biserial correlation is 90% minus 10%, and the rank-biserial r = 0.80.
+An alternative formula for the rank-biserial can be used to calculate it from the Mann–Whitney U (either $MATH$ or $MATH$) and the sample sizes of each group:
+This formula is useful when the data are not available, but when there is a published report, because U and the sample sizes are routinely reported. Using the example above with 90 pairs that favor the hares and 10 pairs that favor the tortoise, U2 is the smaller of the two, so U2 = 10. This formula then gives r = 1 – (2×10) / (10×10) = 0.80, which is the same result as with the simple difference formula above.
+Relation to other tests
+Comparison to Student's t-test
+The Mann–Whitney U test tests a null hypothesis of that the probability distribution of a randomly drawn observation from one group is the same as the probability distribution of a randomly drawn observation from the other group against an alternative that those distributions are not equal (see Mann–Whitney U test#Assumptions and formal statement of hypotheses). In contrast, a t-test tests a null hypothesis of equal means in two groups against an alternative of unequal means. Hence, except in special cases, the Mann–Whitney U test and the t-test do not test the same hypotheses and should be compared with this in mind.  
+The Mann–Whitney U test will give very similar results to performing an ordinary parametric two-sample t-test on the rankings of the data.
+Different distributions
+The Mann-Whitney U test is not valid for testing the null hypothesis $MATH$ against  the alternative hypothesis $MATH$), without assuming that the distributions are the same under the null hypothesis (i.e., assuming $MATH$). To test between those hypotheses, better tests are available. Among those are the Brunner-Munzel and the Fligner–Policello test. Specifically, under the more general null hypothesis $MATH$, the Mann–Whitney U test can have inflated type I error rates even in large samples (especially if the variances of two populations are unequal and the sample sizes are different), a problem the better alternatives solve. As a result, it has been suggested to use one of the alternatives (specifically the Brunner-Munzel test) if it cannot be assumed that the distributions are equal under the null hypothesis.
+Alternatives
+If one desires a simple shift interpretation, the Mann–Whitney U test should not be used when the distributions of the two samples are very different, as it can give erroneous interpretation of significant results. In that situation, the unequal variances version of the t-test may give more reliable results.
+Similarly, some authors (e.g., Conover) suggest transforming the data to ranks (if they are not already ranks) and then performing the t-test on the transformed data, the version of the t-test used depending on whether or not the population variances are suspected to be different. Rank transformations do not preserve variances, but variances are recomputed from samples after rank transformations.
+The Brown–Forsythe test has been suggested as an appropriate non-parametric equivalent to the F-test for equal variances.
+A more powerful test is the Brunner-Munzel test, outperforming the Mann-Whitney U test in case of violated assumption of exchangeability.
+The Mann-Whitney U test is a special case of the Proportional odds model, allowing for covariate-adjustment.
+See also Kolmogorov–Smirnov test.
+Related test statistics
+Kendall's tau
+The Mann–Whitney U test is related to a number of other non-parametric statistical procedures. For example, it is equivalent to Kendall's tau correlation coefficient if one of the variables is binary (that is, it can only take two values).
+Software implementations
+In many software packages, the Mann–Whitney U test (of the hypothesis of equal distributions against appropriate alternatives) has been poorly documented. Some packages incorrectly treat ties or fail to document asymptotic techniques (e.g., correction for continuity). A 2000 review discussed some of the following packages:
+History
+The statistic appeared in a 1914 article by the German Gustav Deuchler (with a missing term in the variance).
+In a single paper in 1945, Frank Wilcoxon proposed  both the one-sample signed rank and the two-sample rank sum test, in a test of significance with a point null-hypothesis against its complementary alternative (that is, equal versus not equal). However, he only tabulated a few points for the equal-sample size case in that paper (though in a later paper he gave larger tables).
+A thorough analysis of the statistic, which included a recurrence allowing the computation of tail probabilities for arbitrary sample sizes and tables for sample sizes of eight or less appeared in the article by Henry Mann and his student Donald Ransom Whitney in 1947. This article discussed alternative hypotheses, including a stochastic ordering (where the cumulative distribution functions satisfied the pointwise inequality FX(t) < FY(t)). This paper also computed the first four moments and established the limiting normality of the statistic under the null hypothesis, so establishing that it is asymptotically distribution-free.
+See also
+Notes

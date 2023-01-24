@@ -1,0 +1,12 @@
+Foot (prosody)
+The foot is the basic repeating rhythmic unit that forms part of a line of verse in most Indo-European traditions of poetry, including English accentual-syllabic verse and the quantitative meter of classical ancient Greek and Latin poetry. The unit is composed of syllables, and is usually two, three, or four syllables in length. The most common feet in English are the iamb, trochee, dactyl, and anapest. The foot might be compared to a bar, or a beat divided into pulse groups, in musical notation.
+The English word "foot" is a translation of the Latin term pes, plural pedes, which in turn is a translation of the Ancient Greek ποῦς, pl. πόδες. The Ancient Greek prosodists, who invented this terminology, specified that a foot must have both an arsis and a thesis, that is, a place where the foot was raised ("arsis") and where it was put down ("thesis") in beating time or in marching or dancing. The Greeks recognised three basic types of feet, the iambic (where the ratio of arsis to thesis was 1:2), the dactylic (where it was 2:2) and the paeonic (where it was 3:2).
+Lines of verse are classified according to the number of feet they contain, e.g. pentameter. However some lines of verse are not considered to be made up of feet, e.g. hendecasyllable.
+In some kinds of metre, such as the Greek iambic trimeter, two feet are combined into a larger unit called a metron (pl. metra) or dipody.
+The foot is a purely metrical unit; there is no inherent relation to a word or phrase as a unit of meaning or syntax, though the interplay between these is an aspect of the poet's skill and artistry.
+Classical meter
+Below listed are the names given to the poetic feet by classical metrics.  The feet are classified first by the number of syllables in the foot (disyllables have two, trisyllables three, and tetrasyllables four) and secondarily by the pattern of vowel lengths (in classical languages) or syllable stresses (in English poetry) which they comprise.
+The following lists describe the feet in terms of vowel length (as in classical languages). Translated into syllable stresses (as in English poetry), "long" becomes "stressed" ("accented"), and "short" becomes "unstressed" ("unaccented"). For example, an iamb, which is short-long in classical meter, becomes unstressed-stressed, as in the English word "alone".
+Disyllables
+Macron and breve notation:
+ = stressed/long syllable,  = unstressed/short syllable

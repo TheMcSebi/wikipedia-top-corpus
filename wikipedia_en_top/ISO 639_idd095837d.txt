@@ -1,0 +1,32 @@
+ISO 639
+ISO 639 is a set of standards by the International Organization for Standardization that is concerned with representation of names for languages and language groups.
+It was also the name of the original standard, approved in 1967 (as ISO 639/R) and withdrawn in 2002. The ISO 639 set now consists of five parts, since part 6 was withdrawn.
+Use of ISO 639 codes
+The language codes defined in the several sections of ISO 639 are used for bibliographic purposes and, in computing and internet environments, as a key element of locale data. The codes also find use in various applications, such as Wikipedia URLs for its different language editions.
+Current and historical parts of the standard
+Each part of the standard is maintained by a maintenance agency, which adds codes and changes the status of codes when needed.  ISO 639-6 was withdrawn in 2014.
+Characteristics of individual codes
+Scopes:
+Types (for individual languages):
+Individual languages and macrolanguages with two distinct alpha-3 codes in Part 2:
+Relations between the parts
+The different parts of ISO 639 are designed to work together, in such a way that no code means one thing in one part and something else in another. However, not all languages are in all parts, and there is a variety of different ways that specific languages and other elements are treated in the different parts. This depends, for example, whether a language is listed in Parts 1 or 2, whether it has separate B/T codes in Part 2, or is classified as a macrolanguage in Part 3, and so forth.
+These various treatments are detailed in the following chart. In each group of rows (one for each scope of ISO 639-3), the last four columns contain codes for a representative language that exemplifies a specific type of relation between the parts of ISO 639, the second column provides an explanation of the relationship, and the first column indicates the number of elements that have that type of relationship. For example, there are four elements that have a code in Part 1, have a B/T code, and are classified as macrolanguages in Part 3. One representative of these four elements is "Persian" fa/per/fas.
+These differences are due to the following factors.
+In ISO 639-2, two distinct codes were assigned to 22 individual languages, namely a bibliographic and a terminology code (B/T codes). B codes were included for historical reasons because previous widely used bibliographic systems used language codes based on the English name for the language. In contrast, the ISO 639-1 codes were based on the native name for the language, and there was also a strong desire to have 639-2 codes (T codes) for these languages which were similar to the corresponding 2-character code in ISO 639-1.
+Individual languages in Part 2 always have a code in Part 3 (only the Part 2 terminology code is reused there) but may or may not have a code in Part 1, as illustrated by the following examples:
+Some codes (62) in Part 3 are macrolanguages. These are groups containing multiple individual languages that have a good mutual understanding and are commonly mixed or confused. Some macrolanguages developed a default standard form on one of their individual languages (e.g. Mandarin is implied by default for the Chinese macrolanguage, other individual languages may be still distinguished if needed but the specific code cmn for Mandarin is rarely used).
+Collective codes in Part 2 have a code in Part 5: e.g. aus in Parts 2 and 5, which stands for Australian languages.
+Parts 2 and 3 also have a reserved range and four special codes:
+Code space
+Alpha-2 code space
+"Alpha-2" codes (for codes composed of 2 letters of the ISO basic Latin alphabet) are used in ISO 639-1. When codes for a wider range of languages were desired, more than 2 letter combinations could cover (a maximum of 262 = 676), ISO 639-2 was developed using Alpha-3 codes. (However, the latter was formally published first.)
+Alpha-3 code space
+"Alpha-3" codes (for codes composed of 3 letters of the ISO basic Latin alphabet) are used in ISO 639-2, ISO 639-3, and ISO 639-5. The number of languages and language groups that can be so represented is 263 = 17,576.
+The common use of Alpha-3 codes by three parts of ISO 639 requires some coordination within a larger system.
+Part 2 defines four special codes mis, mul, und, zxx, a reserved range qaa-qtz (20 × 26 = 520 codes) and has 20 double entries (the B/T codes), plus 2 entries with deprecated B-codes. This sums up to 520 + 22 + 4 = 546 codes that cannot be used in part 3 to represent languages or in part 5 to represent language families or groups.  The remainder is 17,576 – 546 = 17,030.
+There are somewhere around six or seven thousand languages on Earth today. So those 17,030 codes are adequate to assign a unique code to each language, although some languages may end up with arbitrary codes that sound nothing like the traditional name(s) of that language.
+Alpha-4 code space (withdrawn)
+"Alpha-4" codes (for codes composed of 4 letters of the ISO basic Latin alphabet) were proposed to be used in ISO 639-6, which has been withdrawn. The upper limit for the number of languages and dialects that can be represented is 264 = 456,976.
+See also
+Notes and references

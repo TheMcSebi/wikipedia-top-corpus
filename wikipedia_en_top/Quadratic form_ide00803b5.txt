@@ -1,0 +1,97 @@
+Quadratic form
+In mathematics, a quadratic form is a polynomial with terms all of degree two ("form" is another name for a homogeneous polynomial). For example, 
+is a quadratic form in the variables x and y. The coefficients usually belong to a fixed field K, such as the real or complex numbers, and one speaks of a quadratic form over K. If $MATH$, and the quadratic form takes zero only when all variables are simultaneously zero, then it is a definite quadratic form, otherwise it is an isotropic quadratic form.
+Quadratic forms occupy a central place in various branches of mathematics, including number theory, linear algebra, group theory (orthogonal group), differential geometry (Riemannian metric, second fundamental form), differential topology (intersection forms of four-manifolds), and Lie theory (the Killing form).
+Quadratic forms are not to be confused with a quadratic equation, which has only one variable and includes terms of degree two or less. A quadratic form is one case of the more general concept of homogeneous polynomials.
+Introduction
+Quadratic forms are homogeneous quadratic polynomials in n variables. In the cases of one, two, and three variables they are called unary, binary, and ternary and have the following explicit form:
+where a, …, f are the coefficients.
+The notation $MATH$ is often used for the quadratic form
+The theory of quadratic forms and methods used in their study depend in a large measure on the nature of the coefficients, which may be real or complex numbers, rational numbers, or integers. In linear algebra, analytic geometry, and in the majority of applications of quadratic forms, the coefficients are real or complex numbers. In the algebraic theory of quadratic forms, the coefficients are elements of a certain field. In the arithmetic theory of quadratic forms, the coefficients belong to a fixed commutative ring, frequently the integers Z or the p-adic integers Zp. Binary quadratic forms have been extensively studied in number theory, in particular, in the theory of quadratic fields, continued fractions, and modular forms. The theory of integral quadratic forms in n variables has important applications to algebraic topology.
+Using homogeneous coordinates, a non-zero quadratic form in n variables defines an (n−2)-dimensional quadric in the (n−1)-dimensional projective space. This is a basic construction in projective geometry. In this way one may visualize 3-dimensional real quadratic forms as conic sections.
+An example is given by the three-dimensional Euclidean space and the square of the Euclidean norm expressing the distance between a point with coordinates (x, y, z) and the origin:
+A closely related notion with geometric overtones is a quadratic space, which is a pair (V, q), with V a vector space over a field K, and q : V → K a quadratic form on V. See § Definitions below for the definition of a quadratic form on a vector space.
+History
+The study of particular quadratic forms, in particular the question of whether a given integer can be the value of a quadratic form over the integers, dates back many centuries. One such case is Fermat's theorem on sums of two squares, which determines when an integer may be expressed in the form x2 + y2, where x, y are integers. This problem is related to the problem of finding Pythagorean triples, which appeared in the second millennium B.C.
+In 628, the Indian mathematician Brahmagupta wrote Brāhmasphuṭasiddhānta, which includes, among many other things, a study of equations of the form x2 − ny2 = c. In particular he considered what is now called Pell's equation, x2 − ny2 = 1, and found a method for its solution. In Europe this problem was studied by Brouncker, Euler and Lagrange.
+In 1801 Gauss published Disquisitiones Arithmeticae, a major portion of which was devoted to a complete theory of binary quadratic forms over the integers. Since then, the concept has been generalized, and the connections with quadratic number fields, the modular group, and other areas of mathematics have been further elucidated.
+Associated symmetric matrix
+Any n×n matrix A determines a quadratic form qA in n variables by
+where $MATH$. 
+Example
+Consider the case of quadratic forms in three variables $MATH$ The matrix A has the form
+The above formula gives
+So, two different matrices define the same quadratic form if and only if they have the same elements on the diagonal and the same values for the sums $MATH$ and $MATH$ In particular, the quadratic form $MATH$ is defined by a unique symmetric matrix
+This generalizes to any number of variables as follows.
+General case
+Given a quadratic form $MATH$ defined by the matrix $MATH$
+the matrix 
+ is symmetric, defines the same quadratic form as A, and is the unique symmetric matrix that defines $MATH$
+So, over the real numbers (and, more generally, over a field of characteristic different from two), there is a one-to-one correspondence between quadratic forms and symmetric matrices that determine them.
+Real quadratic forms
+A fundamental question is the classification of the real quadratic form under linear change of variables.  
+Jacobi proved that, for every real quadratic form, there is an orthogonal diagonalization, that is an orthogonal change of variables that puts the quadratic form in a "diagonal form"
+where the associated symmetric matrix is diagonal. Moreover, the coefficients λ1, λ2, ..., λn are determined uniquely up to a permutation.
+If the change of variables is given by an invertible matrix, that is not necessarily orthogonal, one can suppose that all coefficients λi are 0, 1, or −1. Sylvester's law of inertia states that the numbers of each 1 and −1 are invariants of the quadratic form, in the sense that any other diagonalization will contain the same number of each. The signature of the quadratic form is the triple (n0, n+, n−), where n0 is the number of 0s and n± is the number of ±1s. Sylvester's law of inertia shows that this is a well-defined quantity attached to the quadratic form. 
+The case when all λi have the same sign is especially important: in this case the quadratic form is called positive definite (all 1) or negative definite (all −1).  If none of the terms are 0, then the form is called nondegenerate; this includes positive definite, negative definite, and indefinite (a mix of 1 and −1); equivalently, a nondegenerate quadratic form is one whose associated symmetric form is a nondegenerate bilinear form. A real vector space with an indefinite nondegenerate quadratic form of index (p, q) (denoting p 1s and q −1s) is often denoted as Rp,q particularly in the physical theory of spacetime.
+The discriminant of a quadratic form, concretely the class of the determinant of a representing matrix in K/(K×)2 (up to non-zero squares) can also be defined, and for a real quadratic form is a cruder invariant than signature, taking values of only “positive, zero, or negative”. Zero corresponds to degenerate, while for a non-degenerate form it is the parity of the number of negative coefficients, $MATH$
+These results are reformulated in a different way below.
+Let q be a quadratic form defined on an n-dimensional real vector space. Let A be the matrix of the quadratic form q in a given basis. This means that A is a symmetric n × n matrix such that
+where x is the column vector of coordinates of v in the chosen basis. Under a change of basis, the column x is multiplied on the left by an n × n invertible matrix S, and the symmetric square matrix A is transformed into another symmetric square matrix B of the same size according to the formula
+Any symmetric matrix A can be transformed into a diagonal matrix
+by a suitable choice of an orthogonal matrix S, and the diagonal entries of B are uniquely determined – this is Jacobi's theorem. If S is allowed to be any invertible matrix then B can be made to have only 0,1, and −1 on the diagonal, and the number of the entries of each type (n0 for 0, n+ for 1, and n− for −1) depends only on A. This is one of the formulations of Sylvester's law of inertia and the numbers n+ and n− are called the positive and negative indices of inertia. Although their definition involved a choice of basis and consideration of the corresponding real symmetric matrix A, Sylvester's law of inertia means that they are invariants of the quadratic form q.
+The quadratic form q is positive definite (resp., negative definite) if q(v) > 0 (resp., q(v) < 0) for every nonzero vector v. When q(v) assumes both positive and negative values, q is an indefinite quadratic form. The theorems of Jacobi and Sylvester show that any positive definite quadratic form in n variables can be brought to the sum of n squares by a suitable invertible linear transformation: geometrically, there is only one positive definite real quadratic form of every dimension. Its isometry group is a compact orthogonal group O(n). This stands in contrast with the case of indefinite forms, when the corresponding group, the indefinite orthogonal group O(p, q), is non-compact. Further, the isometry groups of Q and −Q are the same (O(p, q) ≈ O(q, p)), but the associated Clifford algebras (and hence pin groups) are different.
+Definitions
+A quadratic form over a field K is a map $MATH$ from a finite-dimensional K-vector space to K such that $MATH$ for all $MATH$ and the function $MATH$ is bilinear.
+More concretely, an n-ary quadratic form over a field K is a homogeneous polynomial of degree 2 in n variables with coefficients in K:
+This formula may be rewritten using matrices: let x be the column vector with components x1, ..., xn and A = (aij) be the n×n matrix over K whose entries are the coefficients of q. Then
+A vector $MATH$ is a null vector if q(v) = 0. 
+Two n-ary quadratic forms φ and ψ over K are equivalent if there exists a nonsingular linear transformation C ∈ GL(n, K) such that
+Let the characteristic of K be different from 2. The coefficient matrix A of q may be replaced by the symmetric matrix (A + AT)/2 with the same quadratic form, so it may be assumed from the outset that A is symmetric. Moreover, a symmetric matrix A is uniquely determined by the corresponding quadratic form. Under an equivalence C, the symmetric matrix A of φ and the symmetric matrix B of ψ are related as follows:
+The associated bilinear form of a quadratic form q is defined by
+Thus, bq is a symmetric bilinear form over K with matrix A. Conversely, any symmetric bilinear form b defines a quadratic form
+and these two processes are the inverses of each other. As a consequence, over a field of characteristic not equal to 2, the theories of symmetric bilinear forms and of quadratic forms in n variables are essentially the same.
+Quadratic space
+Given an n-dimensional vector space V over a field K, a quadratic form on V is a function $MATH$ that has the following property: for some basis, the function q that maps the coordinates of $MATH$ to $MATH$ is a quadratic form. In particular, if $MATH$ with its standard basis, one has 
+The change of basis formulas show that the property of being a quadratic form does not depend on the choice of a specific basis in V, although the quadratic form q depends on the choice of the basis.
+A finite-dimensional vector space with a quadratic form is called a quadratic space.
+The map Q is a homogeneous function of degree 2, which means that it has the property that, for all a in K and v in V:
+When the characteristic of K is not 2, the bilinear map B : V × V → K over K is defined:
+This bilinear form B is symmetric. That is, B(x, y) = B(y, x) for all x, y in V, and it determines Q: Q(x) = B(x, x) for all x in V.
+When the characteristic of K is 2, so that 2 is not a unit, it is still possible to use a quadratic form to define a symmetric bilinear form B′(x, y) = Q(x + y) − Q(x) − Q(y). However, Q(x) can no longer be recovered from this B′ in the same way, since B′(x, x) = 0 for all x (and is thus alternating). Alternatively, there always exists a bilinear form B″ (not in general either unique or symmetric) such that B″(x, x) = Q(x).
+The pair (V, Q) consisting of a finite-dimensional vector space V over K and a quadratic map Q from V to K is called a quadratic space, and B as defined here is the associated symmetric bilinear form of Q. The notion of a quadratic space is a coordinate-free version of the notion of quadratic form. Sometimes, Q is also called a quadratic form.
+Two n-dimensional quadratic spaces (V, Q) and (V′, Q′) are isometric if there exists an invertible linear transformation T : V → V′ (isometry) such that
+The isometry classes of n-dimensional quadratic spaces over K correspond to the equivalence classes of n-ary quadratic forms over K.
+Generalization
+Let R be a commutative ring, M be an R-module, and b : M × M → R be an R-bilinear form. A mapping q : M → R : v ↦ b(v, v) is the associated quadratic form of b, and B : M × M → R : (u, v) ↦ q(u + v) − q(u) − q(v) is the polar form of q.
+A quadratic form q : M → R may be characterized in the following equivalent ways:
+Related concepts
+Two elements v and w of V are called orthogonal if B(v, w) = 0. The kernel of a bilinear form B consists of the elements that are orthogonal to every element of V. Q is non-singular if the kernel of its associated bilinear form is {0}. If there exists a non-zero v in V such that Q(v) = 0, the quadratic form Q is isotropic, otherwise it is anisotropic. This terminology also applies to vectors and subspaces of a quadratic space. If the restriction of Q to a subspace U of V is identically zero, then U is totally singular.
+The orthogonal group of a non-singular quadratic form Q is the group of the linear automorphisms of V that preserve Q:  that is, the group of isometries of (V, Q) into itself.
+If a quadratic space (A, Q) has a product so that A is an algebra over a field, and satisfies
+Equivalence of forms
+Every quadratic form q in n variables over a field of characteristic not equal to 2 is equivalent to a diagonal form
+Such a diagonal form is often denoted by $MATH$
+Classification of all quadratic forms up to equivalence can thus be reduced to the case of diagonal forms.
+Geometric meaning
+Using Cartesian coordinates in three dimensions, let $MATH$, and let $MATH$ be a symmetric 3-by-3 matrix. Then the geometric nature of the solution set of the equation $MATH$ depends on the eigenvalues of the matrix $MATH$.
+If all eigenvalues of $MATH$ are non-zero, then the solution set is an ellipsoid or a hyperboloid. If all the eigenvalues are positive, then it is an ellipsoid; if all the eigenvalues are negative, then it is an imaginary ellipsoid (we get the equation of an ellipsoid but with imaginary radii); if some eigenvalues are positive and some are negative, then it is a hyperboloid.
+If there exist one or more eigenvalues $MATH$, then the shape depends on the corresponding $MATH$. If the corresponding $MATH$, then the solution set is a paraboloid (either elliptic or hyperbolic); if the corresponding $MATH$, then the dimension $MATH$ degenerates and does not come into play, and the geometric meaning will be determined by other eigenvalues and other components of $MATH$. When the solution set is a paraboloid, whether it is elliptic or hyperbolic is determined by whether all other non-zero eigenvalues are of the same sign: if they are, then it is elliptic; otherwise, it is hyperbolic.
+Integral quadratic forms
+Quadratic forms over the ring of integers are called integral quadratic forms, whereas the corresponding modules are quadratic lattices (sometimes, simply lattices). They play an important role in number theory and topology.
+An integral quadratic form has integer coefficients, such as x2 + xy + y2; equivalently, given a lattice Λ in a vector space V (over a field with characteristic 0, such as Q or R), a quadratic form Q is integral with respect to Λ if and only if it is integer-valued on Λ, meaning Q(x, y) ∈ Z if x, y ∈ Λ.
+This is the current use of the term; in the past it was sometimes used differently, as detailed below.
+Historical use
+Historically there was some confusion and controversy over whether the notion of integral quadratic form should mean:
+This debate was due to the confusion of quadratic forms (represented by polynomials) and symmetric bilinear forms (represented by matrices), and "twos out" is now the accepted convention; "twos in" is instead the theory of integral symmetric bilinear forms (integral symmetric matrices).
+In "twos in", binary quadratic forms are of the form $MATH$, represented by the symmetric matrix
+this is the convention Gauss uses in Disquisitiones Arithmeticae.
+In "twos out", binary quadratic forms are of the form $MATH$, represented by the symmetric matrix
+Several points of view mean that twos out has been adopted as the standard convention. Those include:
+Universal quadratic forms
+An integral quadratic form whose image consists of all the positive integers is sometimes called universal.  Lagrange's four-square theorem shows that $MATH$ is universal. Ramanujan generalized this to $MATH$ and found 54 multisets {a, b, c, d} that can each generate all positive integers, namely,
+There are also forms whose image consists of all but one of the positive integers.  For example, {1,2,5,5} has 15 as the exception.  Recently, the 15 and 290 theorems have completely characterized universal integral quadratic forms: if all coefficients are integers, then it represents all positive integers if and only if it represents all integers up through 290; if it has an integral matrix, it represents all positive integers if and only if it represents all integers up through 15.
+See also
+Notes
+References
+Further reading

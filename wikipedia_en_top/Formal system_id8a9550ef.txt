@@ -1,0 +1,42 @@
+Formal system
+A formal system is an abstract structure used for inferring theorems from axioms according to a set of rules. These rules, which are used for carrying out the inference of theorems from axioms, are the logical calculus of the formal system. 
+A formal system is essentially an "axiomatic system".
+In 1921, David Hilbert proposed to use such a system as the foundation for the knowledge in mathematics. A formal system may represent a well-defined system of abstract thought.
+The term formalism is sometimes a rough synonym for formal system, but it also refers to a given style of notation, for example, Paul Dirac's bra–ket notation.
+Background
+Each formal system is described by primitive symbols (which collectively form an alphabet) to finitely construct a formal language from a set of axioms through inferential rules of formation.
+The system thus consists of valid formulas built up through finite combinations of the primitive symbols—combinations that are formed from the axioms in accordance with the stated rules.
+More formally, this can be expressed as the following:
+Recursive
+A formal system is said to be recursive (i.e. effective) or recursively enumerable if the set of axioms and the set of inference rules are decidable sets or semidecidable sets, respectively.
+Inference and entailment
+The entailment of the system by its logical foundation is what distinguishes a formal system from others which may have some basis in an abstract model. Often the formal system will be the basis for or even identified with a larger theory or field (e.g. Euclidean geometry) consistent with the usage in modern mathematics such as model theory.
+Formal language
+A formal language is a language that is defined by a formal system. Like languages in linguistics, formal languages generally have two aspects:
+In computer science and linguistics usually only the syntax of a formal language is considered via the notion of a formal grammar. A formal grammar is a precise description of the syntax of a formal language: a set of strings. The two main categories of formal grammar are that of generative grammars, which are sets of rules for how strings in a language can be generated, and that of analytic grammars (or reductive grammar,) which are sets of rules for how a string can be analyzed to determine whether it is a member of the language. In short, an analytic grammar describes how to recognize when strings are members in the set, whereas a generative grammar describes how to write only those strings in the set.
+In mathematics, a formal language is usually not described by a formal grammar but by (a) natural language, such as English. Logical systems are defined by both a deductive system and natural language. Deductive systems in turn are only defined by natural language (see below).
+Deductive system
+A deductive system, also called a deductive apparatus or a logic, consists of the axioms (or axiom schemata) and rules of inference that can be used to derive theorems of the system.
+Such deductive systems preserve deductive qualities in the formulas that are expressed in the system. Usually the quality we are concerned with is truth as opposed to falsehood. However, other modalities, such as justification or belief may be preserved instead.
+In order to sustain its deductive integrity, a deductive apparatus must be definable without reference to any intended interpretation of the language. The aim is to ensure that each line of a derivation is merely a syntactic consequence of the lines that precede it. There should be no element of any interpretation of the language that gets involved with the deductive nature of the system.
+An example of deductive system is first order predicate logic.
+Logical system
+A logical system or language (not be confused with the kind of "formal language" discussed above which is described by a formal grammar), is a deductive system (see section above; most commonly first order predicate logic) together with additional (non-logical) axioms. According to model theory, a logical system may be given one or more semantics or interpretations which describe whether a well-formed formula is satisfied by a given structure. A structure that satisfies all the axioms of the formal system is known as a model of the logical system. A logical system is sound if each well-formed formula that can be inferred from the axioms is satisfied by every model of the logical system. Conversely, a logic system is (semantically) complete if each well-formed formula that is satisfied by every model of the logical system can be inferred from the axioms.
+An example of a logical system is Peano arithmetic. The standard model of arithmetic sets the domain of discourse to be the nonnegative integers and gives the symbols their usual meaning. There are also non-standard models of arithmetic.
+History
+Early logic systems includes Indian logic of Pāṇini, syllogistic logic of Aristotle, propositional logic of Stoicism, and Chinese logic of Gongsun Long (c. 325–250 BCE) .  In more recent times, contributors include George Boole, Augustus De Morgan, and Gottlob Frege.  Mathematical logic was developed in 19th century Europe.
+Hilbert's program
+David Hilbert instigated a formalist movement that was eventually tempered by Gödel's incompleteness theorems.
+QED manifesto
+The QED manifesto represented a subsequent, as yet unsuccessful, effort at formalization of known mathematics.
+Examples
+Examples of formal systems include:
+Variants
+The following systems are variations of formal systems.
+Proof system
+Formal proofs are sequences of well-formed formulas (or wff for short). For a wff to qualify as part of a proof, it might either be an axiom or be the product of applying an inference rule on previous wffs in the proof sequence. The last wff in the sequence is recognized as a theorem.
+The point of view that generating formal proofs is all there is to mathematics is often called formalism. David Hilbert founded metamathematics as a discipline for discussing formal systems.  Any language that one uses to talk about a formal system is called a metalanguage.  The metalanguage may be a natural language, or it may be partially formalized itself, but it is generally less completely formalized than the formal language component of the formal system under examination, which is then called the object language, that is, the object of the discussion in question.
+Once a formal system is given, one can define the set of theorems which can be proved inside the formal system. This set consists of all wffs for which there is a proof. Thus all axioms are considered theorems. Unlike the grammar for wffs, there is no guarantee that there will be a decision procedure for deciding whether a given wff is a theorem or not. The notion of theorem just defined should not be confused with theorems about the formal system, which, in order to avoid confusion, are usually called metatheorems.
+See also
+References
+Further reading

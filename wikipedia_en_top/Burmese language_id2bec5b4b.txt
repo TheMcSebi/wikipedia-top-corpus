@@ -1,0 +1,280 @@
+Burmese language
+Burmese (Burmese: မြန်မာဘာသာ, MLCTS: mranmabhasa, IPA: [mjəmà bàðà]) is a Sino-Tibetan language spoken in Myanmar (also known as Burma), where it is an official language, lingua franca, and the native language of the Burmans, the country's principal ethnic group. Burmese is also spoken by the indigenous tribes in Chittagong Hill Tracts (Rangamati, Bandarban, Khagrachari, Cox's Bazar) in Bangladesh, Tripura state in Northeast India. Although the Constitution of Myanmar officially recognizes the English name of the language as the Myanmar language, most English speakers continue to refer to the language as Burmese, after Burma, the country's once previous and currently co-official name. Burmese is the common lingua franca in Myanmar, as the most widely-spoken language in the country. In 2007, it was spoken as a first language by 33 million, primarily the Burman people and related ethnic groups, and as a second language by 10 million, particularly ethnic minorities in Myanmar and neighboring countries. In 2022, the Burmese-speaking population was 38.8 million.
+Burmese is a tonal, pitch-register (as well as social-register), and syllable-timed language, largely monosyllabic and agglutinative with a subject–object–verb word order. It is a member of the Lolo-Burmese grouping of the Sino-Tibetan language family. The Burmese alphabet is ultimately descended from a Brahmic script, either the Kadamba or Pallava alphabets.
+Classification
+Burmese belongs to the Southern Burmish branch of the Sino-Tibetan languages, of which Burmese is the most widely spoken of the non-Sinitic languages. Burmese was the fifth of the Sino-Tibetan languages to develop a writing system, after Classical Chinese, Pyu, Old Tibetan and Tangut.
+Dialects
+The majority of Burmese speakers, who live throughout the Irrawaddy River Valley, use a number of largely similar dialects, while a minority speak non-standard dialects found in the peripheral areas of the country. These dialects include:
+Arakanese (Rakhine) in Rakhine State and Marma in Bangladesh are also sometimes considered dialects of Burmese and sometimes as separate languages.
+Despite vocabulary and pronunciation differences, there is mutual intelligibility among Burmese dialects, as they share a common set of tones, consonant clusters, and written script. However, several Burmese dialects differ substantially from standard Burmese with respect to vocabulary, lexical particles, and rhymes.
+Irrawaddy River valley
+Spoken Burmese is remarkably uniform among Burmese speakers, particularly those living in the Irrawaddy valley, all of whom use variants of Standard Burmese. The standard dialect of Burmese (the Mandalay-Yangon dialect continuum) comes from the Irrawaddy River valley. Regional differences between speakers from Upper Burma (e.g., Mandalay dialect), called anya tha (အညာသား) and speakers from Lower Burma (e.g., Yangon dialect), called auk tha (အောက်သား), largely occur in vocabulary choice, not in pronunciation. Minor lexical and pronunciation differences exist throughout the Irrawaddy River valley. For instance, for the term ဆွမ်း, "food offering [to a monk]", Lower Burmese speakers use [sʰʊ́ɰ̃] instead of [sʰwáɰ̃], which is the pronunciation used in Upper Burma.
+The standard dialect is represented by the Yangon dialect because of the modern city's media influence and economic clout. In the past, the Mandalay dialect represented standard Burmese. The most noticeable feature of the Mandalay dialect is its use of the first person pronoun ကျွန်တော်, kya.nau [tɕənɔ̀] by both men and women, whereas in Yangon, the said pronoun is used only by male speakers while ကျွန်မ, kya.ma. [tɕəma̰] is used by female speakers. Moreover, with regard to kinship terminology, Upper Burmese speakers differentiate the maternal and paternal sides of a family, whereas Lower Burmese speakers do not.
+The Mon language has also influenced subtle grammatical differences between the varieties of Burmese spoken in Lower and Upper Burma. In Lower Burmese varieties, the verb ပေး ('to give') is colloquially used as a permissive causative marker, like in other Southeast Asian languages, but unlike in other Tibeto-Burman languages. This usage is hardly used in Upper Burmese varieties, and is considered a sub-standard construct.
+Outside the Irrawaddy basin
+More distinctive non-standard varieties emerge as one moves farther away from the Irrawaddy River valley toward peripheral areas of the country. These varieties include the Yaw, Palaw, Myeik (Merguese), Tavoyan and Intha dialects. Despite substantial vocabulary and pronunciation differences, there is mutual intelligibility among most Burmese dialects. Dialects in Tanintharyi Region, including Palaw, Merguese, and Tavoyan, are especially conservative in comparison to Standard Burmese. The Tavoyan and Intha dialects have preserved the /l/ medial, which is otherwise only found in Old Burmese inscriptions. They also often reduce the intensity of the glottal stop. Beik has 250,000 speakers while Tavoyan has 400,000. The grammatical constructs of Burmese dialects in Southern Myanmar show greater Mon influence than Standard Burmese.
+The most pronounced feature of the Arakanese language of Rakhine State is its retention of the [ɹ] sound, which has become [j] in standard Burmese. Moreover, Arakanese features a variety of vowel differences, including the merger of the ဧ [e] and ဣ [i] vowels. Hence, a word like "blood" သွေး is pronounced [θwé] in standard Burmese and [θwí] in Arakanese.
+History
+The Burmese language's early forms include Old Burmese and Middle Burmese. Old Burmese dates from the 11th to the 16th century (Pagan to Ava dynasties); Middle Burmese from the 16th to the 18th century (Toungoo to early Konbaung dynasties); modern Burmese from the mid-18th century to the present. Word order, grammatical structure, and vocabulary have remained markedly stable well into Modern Burmese, with the exception of lexical content (e.g., function words).
+Old Burmese
+The earliest attested form of the Burmese language is called Old Burmese, dating to the 11th and 12th century stone inscriptions of Pagan. The earliest evidence of the Burmese alphabet is dated to 1035, while a casting made in the 18th century of an old stone inscription points to 984.
+Owing to the linguistic prestige of Old Pyu in the Pagan Kingdom era, Old Burmese borrowed a substantial corpus of vocabulary from Pali via the Pyu language. These indirect borrowings can be traced back to orthographic idiosyncrasies in these loanwords, such as the Burmese word "to worship," which is spelt ပူဇော် (pūjo) instead of ပူဇာ (pūjā), as would be expected by the original Pali orthography.
+Middle Burmese
+The transition to Middle Burmese occurred in the 16th century. The transition to Middle Burmese included phonological changes (e.g. mergers of sound pairs that were distinct in Old Burmese) as well as accompanying changes in the underlying orthography.
+From the 1500s onward, Burmese kingdoms saw substantial gains in the populace's literacy rate, which manifested itself in greater participation of laymen in scribing and composing legal and historical documents, domains that were traditionally the domain of Buddhist monks, and drove the ensuing proliferation of Burmese literature, both in terms of genres and works. During this period, the Burmese alphabet began employing cursive-style circular letters typically used in palm-leaf manuscripts, as opposed to the traditional square block-form letters used in earlier periods. The orthographic conventions used in written Burmese today can largely be traced back to Middle Burmese.
+Modern Burmese
+Modern Burmese emerged in the mid-18th century. By this time, male literacy in Burma stood at nearly 50%, which enabled the wide circulation of legal texts, royal chronicles, and religious texts. A major reason for the uniformity of the Burmese language was the near-universal presence of Buddhist monasteries (called kyaung) in Burmese villages. These kyaung served as the foundation of the pre-colonial monastic education system, which fostered uniformity of the language throughout the Upper Irrawaddy valley, the traditional homeland of Burmese speakers. The 1891 Census of India, conducted five years after the annexation of the entire Konbaung Kingdom, found that the former kingdom had an "unusually high male literacy" rate of 62.5% for Upper Burmans aged 25 and above. For all of British Burma, the literacy rate was 49% for men and 5.5% for women (by contrast, British India more broadly had a male literacy rate of 8.44%).
+The expansion of the Burmese language into Lower Burma also coincided with the emergence of Modern Burmese. As late as the mid-1700s, Mon, an Austroasiatic language, was the principal language of Lower Burma, employed by the Mon people who inhabited the region. Lower Burma's shift from Mon to Burmese was accelerated by the Burmese-speaking Konbaung Dynasty's victory over the Mon-speaking Restored Hanthawaddy Kingdom in 1757. By 1830, an estimated 90% of the population in Lower Burma self-identified as Burmese-speaking Bamars; huge swaths of former Mon-speaking territory, from the Irrawaddy Delta to upriver in the north, spanning Bassein (now Pathein) and Rangoon (now Yangon) to Tharrawaddy, Toungoo, Prome (now Pyay), and Henzada (now Hinthada), were now Burmese-speaking. The language shift has been ascribed to a combination of population displacement, intermarriage, and voluntary changes in self-identification among increasingly Mon–Burmese bilingual populations in the region.
+Standardized tone marking in written Burmese was not achieved until the 18th century. From the 19th century onward, orthographers created spellers to reform Burmese spelling, because of ambiguities that arose over transcribing sounds that had been merged. British rule saw continued efforts to standardize Burmese spelling through dictionaries and spellers.
+Britain's gradual annexation of Burma throughout the 19th century, in addition to concomitant economic and political instability in Upper Burma (e.g., increased tax burdens from the Burmese crown, British rice production incentives, etc.) also accelerated the migration of Burmese speakers from Upper Burma into Lower Burma. British rule in Burma eroded the strategic and economic importance of the Burmese language; Burmese was effectively subordinated to the English language in the colonial educational system, especially in higher education.
+In the 1930s, the Burmese language saw a linguistic revival, precipitated by the establishment of an independent University of Rangoon in 1920 and the inception of a Burmese language major at the university by Pe Maung Tin, modeled on Anglo Saxon language studies at the University of Oxford. Student protests in December of that year, triggered by the introduction of English into matriculation examinations, fueled growing demand for Burmese to become the medium of education in British Burma; a short-lived but symbolic parallel system of "national schools" that taught in Burmese, was subsequently launched. The role and prominence of the Burmese language in public life and institutions was championed by Burmese nationalists, intertwined with their demands for greater autonomy and independence from the British in the lead-up to the independence of Burma in 1948.
+The 1948 Constitution of Burma prescribed Burmese as the official language of the newly independent nation. The Burma Translation Society and Rangoon University's Department of Translation and Publication were established in 1947 and 1948, respectively, with the joint goal of modernizing the Burmese language in order to replace English across all disciplines. Anti-colonial sentiment throughout the early post-independence era led to a reactionary switch from English to Burmese as the national medium of education, a process that was accelerated by the Burmese Way to Socialism. In August 1963, the socialist Union Revolutionary Government established the Literary and Translation Commission (the immediate precursor of the Myanmar Language Commission) to standardize Burmese spelling, diction, composition, and terminology. The latest spelling authority, named the Myanma Salonpaung Thatpon Kyan (မြန်မာ စာလုံးပေါင်း သတ်ပုံ ကျမ်း), was compiled in 1978 by the commission.
+Registers
+Burmese is a diglossic language with two distinguishable registers (or diglossic varieties):
+The literary form of Burmese retains archaic and conservative grammatical structures and modifiers (including affixes and pronouns) no longer used in the colloquial form. Literary Burmese, which has not changed significantly since the 13th century, is the register of Burmese taught in schools. In most cases, the corresponding affixes in the literary and spoken forms are totally unrelated to each other. Examples of this phenomenon include the following lexical terms:
+Historically the literary register was preferred for written Burmese on the grounds that "the spoken style lacks gravity, authority, dignity". In the mid-1960s, some Burmese writers spearheaded efforts to abandon the literary form, asserting that the spoken vernacular form ought to be used. Some Burmese linguists such as Minn Latt, a Czech academic, proposed moving away from the high form of Burmese altogether. Although the literary form is heavily used in written and official contexts (literary and scholarly works, radio news broadcasts, and novels), the recent trend has been to accommodate the spoken form in informal written contexts. Nowadays, television news broadcasts, comics, and commercial publications use the spoken form or a combination of the spoken and simpler, less ornate formal forms.
+The following sample sentence reveals that differences between literary and spoken Burmese mostly occur in affixes:
+Burmese has politeness levels and honorifics that take the speaker's status and age in relation to the audience into account. The suffix ပါ pa is frequently used after a verb to express politeness. Moreover, Burmese pronouns relay varying degrees of deference or respect. In many instances, polite speech (e.g., addressing teachers, officials, or elders) employs feudal-era third person pronouns or kinship terms in lieu of first- and second-person pronouns. Furthermore, with regard to vocabulary choice, spoken Burmese clearly distinguishes the Buddhist clergy (monks) from the laity (householders), especially when speaking to or about bhikkhus (monks). The following are examples of varying vocabulary used for Buddhist clergy and for laity:
+Vocabulary
+Burmese primarily has a monosyllabic received Sino-Tibetan vocabulary. Nonetheless, many words, especially loanwords from Indo-European languages like English, are polysyllabic, and others, from Mon, an Austroasiatic language, are sesquisyllabic. Burmese loanwords are overwhelmingly in the form of nouns.
+Historically, Pali, the liturgical language of Theravada Buddhism, had a profound influence on Burmese vocabulary. Burmese has readily adopted words of Pali origin; this may be due to phonotactic similarities between the two languages, alongside the fact that the script used for Burmese can be used to reproduce Pali spellings with complete accuracy. Pali loanwords are often related to religion, government, arts, and science.
+Burmese loanwords from Pali primarily take four forms:
+Burmese has also adapted numerous words from Mon, traditionally spoken by the Mon people, who until recently formed the majority in Lower Burma. Most Mon loanwords are so well assimilated that they are not distinguished as loanwords, as Burmese and Mon were used interchangeably for several centuries in pre-colonial Burma. Mon loans are often related to flora, fauna, administration, textiles, foods, boats, crafts, architecture, and music.
+As a natural consequence of British rule in Burma, English has been another major source of vocabulary, especially with regard to technology, measurements, and modern institutions. English loanwords tend to take one of three forms:
+To a lesser extent, Burmese has also imported words from Sanskrit (religion), Hindi (food, administration, and shipping), and Chinese (games and food). Burmese has also imported a handful of words from other European languages such as Portuguese.
+Here is a sample of loan words found in Burmese:
+Since the end of British rule, the Burmese government has attempted to limit usage of Western loans (especially from English) by coining new words (neologisms). For instance, for the word "television," Burmese publications are mandated to use the term ရုပ်မြင်သံကြား (lit. 'see picture, hear sound') in lieu of တယ်လီဗီးရှင်း, a direct English transliteration. Another example is the word "vehicle", which is officially ယာဉ် [jɪ̃̀] (derived from Pali) but ကား [ká] (from English car) in spoken Burmese. Some previously common English loanwords have fallen out of use with the adoption of neologisms. An example is the word "university", formerly ယူနီဗာစတီ [jùnìbàsətì], from English university, now တက္ကသိုလ် [tɛʔkət̪ò], a Pali-derived neologism recently created by the Burmese government and derived from the Pali spelling of Taxila (တက္ကသီလ Takkasīla), an ancient university town in modern-day Pakistan.
+Some words in Burmese may have many synonyms, each having certain usages, such as formal, literary, colloquial, and poetic. One example is the word "moon", which can be လ la̰ (native Tibeto-Burman), စန္ဒာ/စန်း [sàndà]/[sã́] (derivatives of Pali canda 'moon'), or သော်တာ [t̪ɔ̀ dà] (Sanskrit).
+Phonology
+Consonants
+The consonants of Burmese are as follows:
+According to Jenny & San San Hnin Tun (2016:15), contrary to their use of symbols θ and ð, consonants of သ are dental stops (/t̪, d̪/), rather than fricatives (/θ, ð/) or affricates.
+An alveolar /ɹ/ can occur as an alternate of /j/ in some loanwords.
+The final nasal /ɰ̃/ is the value of the four native final nasals: ⟨မ်⟩ /m/, ⟨န်⟩ /n/, ⟨ဉ်⟩ /ɲ/, ⟨င်⟩ /ŋ/, as well as the retroflex ⟨ဏ⟩ /ɳ/ (used in Pali loans) and nasalisation mark anusvara demonstrated here above ka (က → ကံ) which most often stands in for a homorganic nasal word medially as in တံခါး tankhá ('door', and တံတား tantá ('bridge') or else replaces final -m ⟨မ်⟩ in both Pali and native vocabulary, especially after the OB vowel *u e.g. ငံ ngam ('salty'), သုံး thóum ('three; use'), and ဆုံး sóum ('end'). It does not, however, apply to ⟨ည်⟩ which is never realised as a nasal, but rather as an open front vowel [iː] [eː] or [ɛː].
+The final nasal is usually realised as nasalisation of the vowel. It may also allophonically appear as a homorganic nasal before stops. For example, in /mòʊɰ̃dáɪɰ̃/ ('storm'), which is pronounced [mõ̀ũndã́ĩ].
+Vowels
+The vowels of Burmese are:
+The monophthongs /e/, /o/, /ə/ and /ɔ/ occur only in open syllables (those without a syllable coda); the diphthongs /ei/, /ou/, /ai/ and /au/ occur only in closed syllables (those with a syllable coda). /ə/ only occurs in a minor syllable, and is the only vowel that is permitted in a minor syllable (see below).
+The close vowels /i/ and /u/ and the close portions of the diphthongs are somewhat mid-centralized ([ɪ, ʊ]) in closed syllables, i.e. before /ɰ̃/ and /ʔ/. Thus နှစ် /n̥iʔ/ ('two') is phonetically [n̥ɪʔ] and ကြောင် /tɕàũ/ ('cat') is phonetically [tɕàʊ̃].
+Tones
+Burmese is a tonal language, which means phonemic contrasts can be made on the basis of the tone of a vowel. In Burmese, these contrasts involve not only pitch, but also phonation, intensity (loudness), duration, and vowel quality. However, some linguists consider Burmese a pitch-register language like Shanghainese.
+There are four contrastive tones in Burmese. In the following table, the tones are shown marked on the vowel /a/ as an example.
+For example, the following words are distinguished from each other only on the basis of tone:
+In syllables ending with /ɰ̃/, the checked tone is excluded:
+In spoken Burmese, some linguists classify two real tones (there are four nominal tones transcribed in written Burmese), "high" (applied to words that terminate with a stop or check, high-rising pitch) and "ordinary" (unchecked and non-glottal words, with falling or lower pitch), with those tones encompassing a variety of pitches. The "ordinary" tone consists of a range of pitches. Linguist L. F. Taylor concluded that "conversational rhythm and euphonic intonation possess importance" not found in related tonal languages and that "its tonal system is now in an advanced state of decay."
+Syllable structure
+The syllable structure of Burmese is C(G)V((V)C), which is to say the onset consists of a consonant optionally followed by a glide, and the rime consists of a monophthong alone, a monophthong with a consonant, or a diphthong with a consonant. The only consonants that can stand in the coda are /ʔ/ and /ɰ̃/. Some representative words are:
+A minor syllable has some restrictions:
+Some examples of words containing minor syllables:
+Writing system
+The Burmese alphabet consists of 33 letters and 12 vowels and is written from left to right. It requires no spaces between words, although modern writing usually contains spaces after each clause to enhance readability. Characterized by its circular letters and diacritics, the script is an abugida, with all letters having an inherent vowel အ a. [a̰] or [ə]. The consonants are arranged into six consonant groups (called ဝဂ်) based on articulation, like other Brahmi scripts. Tone markings and vowel modifications are written as diacritics placed to the left, right, top, and bottom of letters.
+Orthographic changes subsequent to shifts in phonology (such as the merging of the [-l-] and [-ɹ-] medials) rather than transformations in Burmese grammatical structure and phonology, which by contrast, has remained stable between Old Burmese and modern Burmese. For example, during the Pagan era, the medial [-l-] ္လ was transcribed in writing, which has been replaced by medials [-j-] ျ and [-ɹ-] ြ in modern Burmese (e.g. "school" in old Burmese က္လောင် [klɔŋ] → ကျောင်း [tɕã́ʊ̃] in modern Burmese). Likewise, written Burmese has preserved all nasalized finals [-n, -m, -ŋ], which have merged to [-ɰ̃] in spoken Burmese. (The exception is [-ɲ], which, in spoken Burmese, can be one of many open vowels [i, e, ɛ]. Similarly, other consonantal finals [-s, -p, -t, -k] have been reduced to [-ʔ]. Similar mergers are seen in other Sino-Tibetan languages like Shanghainese, and to a lesser extent, Cantonese.
+Written Burmese dates to the early Pagan period. Burmese orthography originally followed a square block format, but the cursive format took hold from the 17th century when increased literacy and the resulting explosion of Burmese literature led to the wider use of palm leaves and folded paper known as parabaiks (ပုရပိုက်).
+Grammar
+The basic word order of the Burmese language is subject-object-verb. Pronouns in Burmese vary according to the gender and status of the audience, although pronouns are often omitted. Affixes are used to convey information. Verbs almost always suffixed and nouns declined.
+Case Affixes
+Burmese is an agglutinative with an extensive case system and nouns are suffixed to determine their syntactic function in a sentence or clause. For example, the subject marker tells us the noun is the doer of an action and the object marker tells us that it is getting the recipient of an action. Sometimes the case markers are different in the High Literary register and the Colloquial register.
+The case markers in the High Burmese are:
+Subject: thi, ká, hma
+Object: ko
+Recipient: à
+Allative: thó
+Ablative: hmá, ká
+Locative: hnai, hma, twin
+Comitative: hnín
+Instrumental: hpyin, hnin
+Possessive: í
+The cases markers in Colloquial Burmese are:
+Subject: ha, ká,
+Object: ko
+Recipient: ko
+Allative: ko
+Ablative: ká
+Locative: hma
+Comitative: né
+Instrumental: né
+Possessive: yé
+Adjectives
+Burmese does not have adjectives per se. Rather, it has verbs that carry the meaning "to be X", where X is an English adjective. These verbs can modify a noun by means of the suffix တဲ့ tai. [dɛ̰] in colloquial Burmese (literary form: သော sau: [t̪ɔ́]), which is suffixed as follows:
+Adjectives may also form a compound with the noun (e.g. လူချော lu hkyau: [lù tɕʰɔ́] 'person' + 'be beautiful').
+Comparatives are usually ordered: X + ထက်ပို htak pui [tʰɛʔ pò] + adjective, where X is the object being compared to. Superlatives are indicated with the prefix အ a. [ʔə] + adjective + ဆုံး hcum: [zṍʊ̃].
+Verbs
+The roots of Burmese verbs are almost always have suffixes which convey information like tense, aspect, intention, politeness, mood, etc. Many of these suffixes also have formal/literary and colloquial equivalents. In fact, the only time in which no suffix is attached to a verb is in imperative commands.
+The most commonly used verb suffixes and their usage are shown below with an example verb root စား ca: [sá] ('to eat'). Alone, the statement စား is imperative.
+The suffix တယ် tai [dɛ̀] (literary form: သည် sany [d̪ì]) can be viewed as a suffix marking the present tense and/or a factual statement:
+စား
+ca:
+[sá
+တယ်
+tai
+dɛ̀]
+စား တယ်
+ca: tai
+[sá dɛ̀]
+'I eat'
+The suffix ခဲ့ hkai. [ɡɛ̰] denotes that the action took place in the past. However, this suffix is not always necessary to indicate the past tense such that it can convey the same information without it. But to emphasize that the action happened before another event that is also currently being discussed, the suffix becomes imperative. Note that the suffix တယ် tai [dɛ̀] in this case denotes a factual statement rather than the present tense:
+စား
+ca:
+[sá
+ခဲ့
+hkai.
+ɡɛ̰
+တယ်
+tai
+dɛ̀]
+စား ခဲ့ တယ်
+ca: hkai. tai
+[sá ɡɛ̰ dɛ̀]
+'I ate'
+The suffix နေ ne [nè] is used to denote an action in progression. It is equivalent to the English '-ing'.
+စား
+ca:
+[sá
+နေ
+ne
+nè
+တယ်
+tai
+dɛ̀]
+စား နေ တယ်
+ca: ne tai
+[sá nè dɛ̀]
+'I am eating'
+This suffix ပြီ pri [bjì], which is used when an action that had been expected to be performed by the subject is now finally being performed, has no equivalent in English. So in the above example, if someone had been expecting the subject to eat, and the subject has finally started eating, the suffix ပြီ is used as follows:
+(စ)
+(ca.)
+[(sə)
+စား
+ca:
+sá
+ပြီ
+pri
+bjì]
+(စ) စား ပြီ
+(ca.) ca: pri
+[(sə) sá bjì]
+'I am [now] eating'
+The suffix မယ် mai [mɛ̀] (literary form: မည် many [mjì]) is used to indicate the future tense or an action which is yet to be performed:
+စား
+ca:
+[sá
+မယ်
+mai
+mɛ̀]
+စား မယ်
+ca: mai
+[sá mɛ̀]
+'I will eat'
+The suffix တော့ tau. [dɔ̰] is used when the action is about to be performed immediately when used in conjunction with မယ်. Therefore, it could be termed as the "immediate future tense suffix".
+စား
+ca:
+[sá
+တော့
+tau.
+dɔ̰
+မယ်
+mai
+mɛ̀]
+စား တော့ မယ်
+ca: tau. mai
+[sá dɔ̰ mɛ̀]
+'I'm going to eat [right away]'
+When တော့ is used alone, however, it is imperative:
+စား
+ca:
+[sá
+တော့
+tau.
+dɔ̰]
+စား တော့
+ca: tau.
+[sá dɔ̰]
+'eat [now]'
+Verbs are negated by the prefix မ ma. [mə]. Generally speaking, there are other suffixes on verb, along with မ.
+The verb suffix နဲ့ nai. [nɛ̰] (literary form: နှင့် hnang. [n̥ɪ̰̃]) indicates a command:
+မစား
+ma.ca:
+[məsá
+နဲ့
+nai.
+nɛ̰]
+မစား နဲ့
+ma.ca: nai.
+[məsá nɛ̰]
+'don't eat'
+The verb suffix ဘူး bhu: [bú] indicates a statement:
+မစား
+ma.ca:
+[məsá
+ဘူး
+bhu:
+bú]
+မစား ဘူး
+ma.ca: bhu:
+[məsá bú]
+'[I] don't eat'
+Nouns
+Nouns in Burmese are pluralized by suffixing တွေ twe [dwè] (or [twè] if the word ends in a glottal stop) in colloquial Burmese or များ mya: [mjà] in formal Burmese. The suffix တို့ tou. [to̰], which indicates a group of persons or things, is also suffixed to the modified noun. An example is below:
+Plural suffixes are not used when the noun is quantified with a number.
+ကလေး
+hka.le:
+/kʰəlé
+child
+၅
+nga:
+ŋá
+five
+ယောက်
+yauk
+jaʊʔ/
+CL
+ကလေး ၅ ယောက်
+hka.le: nga: yauk
+/kʰəlé ŋá jaʊʔ/
+child five CL
+"five children"
+Although Burmese does not have grammatical gender (e.g. masculine or feminine nouns), a distinction is made between the sexes, especially in animals and plants, by means of suffix particles. Nouns are masculinized with the following suffixes: ထီး hti: [tʰí], ဖ hpa [pʰa̰], or ဖို hpui [pʰò], depending on the noun, and feminized with the suffix မ ma. [ma̰]. Examples of usage are below:
+Numerical classifiers
+Like its neighboring languages such as Thai, Bengali, and Chinese, Burmese uses numerical classifiers (also called measure words) when nouns are counted or quantified. This approximately equates to English expressions such as "two slices of bread" or "a cup of coffee". Classifiers are required when counting nouns, so ကလေး ၅ hka.le: nga: [kʰəlé ŋà] (lit. 'child five') is incorrect, since the measure word for people ယောက် yauk [jaʊʔ] is missing; it needs to suffix the numeral.
+The standard word order of quantified words is: quantified noun + numeral adjective + classifier, except in round numbers (numbers that end in zero), in which the word order is flipped, where the quantified noun precedes the classifier: quantified noun + classifier + numeral adjective. The only exception to this rule is the number 10, which follows the standard word order.
+Measurements of time, such as "hour," နာရီ "day," ရက် or "month," လ do not require classifiers.
+Below are some of the most commonly used classifiers in Burmese.
+Affixes
+The Burmese language makes prominent usage of affixes (called ပစ္စည်း in Burmese), which are untranslatable words that are suffixed or prefixed to words to indicate tense, aspect, case, formality etc. For example, စမ်း [sã́] is a suffix used to indicate the imperative mood. While လုပ်ပါ ('work' + suffix indicating politeness) does not indicate the imperative, လုပ်စမ်းပါ ('work' + suffix indicating imperative mood + suffix indicating politeness) does. Affixes are often stacked next to each other
+Some affixes modify the word's part of speech. Among the most prominent of these is the prefix အ [ə], which is prefixed to verbs and adjectives to form nouns or adverbs. For instance, the word ဝင် means "to enter," but combined with အ, it means "entrance" အဝင်. Moreover, in colloquial Burmese, there is a tendency to omit the second အ in words that follow the pattern အ + noun/adverb + အ + noun/adverb, like အဆောက်အအုံ, which is pronounced [əsʰaʊʔ ú] and formally pronounced [əsʰaʊʔ əõ̀ʊ̃].
+Pronouns
+Subject pronouns begin sentences, though the subject is generally omitted in the imperative forms and in conversation. Grammatically speaking, subject markers (က [ɡa̰] in colloquial, သည် [t̪ì] in formal) must be attached to the subject pronoun, although they are also generally omitted in conversation. Object pronouns must have an object marker (ကို [ɡò] in colloquial, အား [á] in formal) attached immediately after the pronoun. Proper nouns are often substituted for pronouns. One's status in relation to the audience determines the pronouns used, with certain pronouns used for different audiences.
+Polite pronouns are used to address elders, teachers, and strangers, through the use of feudal-era third person pronouns in lieu of first- and second-person pronouns. In such situations, one refers to oneself in third person: ကျွန်တော် kya. nau [tɕənɔ̀] for men and ကျွန်မ kya. ma. [tɕəma̰] for women, both meaning "your servant", and refer to the addressee as မင်း min [mɪ̃́] ('your highness'), ခင်ဗျား khang bya: [kʰəmjá] ('master, lord') (from Burmese  သခင်ဘုရား 'lord master') or ရှင် hrang [ʃɪ̃̀] "ruler/master". So ingrained are these terms in the daily polite speech that people use them as the first and second person pronouns without giving a second thought to the root meaning of these pronouns.
+When speaking to a person of the same status or of younger age, ငါ nga [ŋà] ('I/me') and နင် nang [nɪ̃̀] ('you') may be used, although most speakers choose to use third person pronouns. For example, an older person may use ဒေါ်လေး dau le: [dɔ̀ lé] ('aunt') or ဦးလေး u: lei: [ʔú lé] ('uncle') to refer to himself, while a younger person may use either သား sa: [t̪á] ('son') or သမီး sa.mi: [t̪əmí] ('daughter').
+The basic pronouns are:
+Other pronouns are reserved for speaking with bhikkhus (Buddhist monks). When speaking to a bhikkhu, pronouns like ဘုန်းဘုန်း bhun: bhun: (from ဘုန်းကြီး phun: kri: 'monk'), ဆရာတော် chara dau [sʰəjàdɔ̀] ('royal teacher'), and အရှင်ဘုရား a.hrang bhu.ra: [ʔəʃɪ̃̀ pʰəjá] ('your lordship') are used depending on their status ဝါ. When referring to oneself, terms like တပည့်တော် ta. paey. tau ('royal disciple') or ဒကာ da. ka [dəɡà], ('donor') are used. When speaking to a monk, the following pronouns are used:
+In colloquial Burmese, possessive pronouns are contracted when the root pronoun itself is low toned. This does not occur in literary Burmese, which uses ၏ [ḭ] as postpositional marker for possessive case instead of ရဲ့ [jɛ̰]. Examples include the following:
+The contraction also occurs in some low toned nouns, making them possessive nouns (e.g. အမေ့ or မြန်မာ့, "mother's" and "Myanmar's" respectively).
+Kinship terms
+Minor pronunciation differences do exist within regions of Irrawaddy valley. For example, the pronunciation [sʰʊ̃́] of ဆွမ်း "food offering [to a monk]" is preferred in Lower Burma, instead of [sʰwã́], which is preferred in Upper Burma. However, the most obvious difference between Upper Burmese and Lower Burmese is that Upper Burmese speech still differentiates maternal and paternal sides of a family:
+1 The youngest (paternal or maternal) aunt may be called ထွေးလေး [dwé lé], and the youngest paternal uncle ဘထွေး [ba̰ dwé].
+In a testament to the power of media, the Yangon-based speech is gaining currency even in Upper Burma. Upper Burmese-specific usage, while historically and technically accurate, is increasingly viewed as distinctly rural or regional speech. In fact, some usages are already considered strictly regional Upper Burmese speech and are likely to die out. For example:
+In general, the male-centric names of old Burmese for familial terms have been replaced in standard Burmese with formerly female-centric terms, which are now used by both sexes. One holdover is the use of ညီ ('younger brother to a male') and မောင် ('younger brother to a female'). Terms like နောင် ('elder brother to a male') and နှမ ('younger sister to a male') now are used in standard Burmese only as part of compound words like ညီနောင် ('brothers') or မောင်နှမ ('brother and sister').
+Reduplication
+Reduplication is prevalent in Burmese and is used to intensify or weaken adjectives' meanings. For example, if ချော [tɕʰɔ́] "beautiful" is reduplicated, then the intensity of the adjective's meaning increases. Many Burmese words, especially adjectives with two syllables, such as လှပ [l̥a̰pa̰] "beautiful", when reduplicated (လှပ → လှလှပပ [l̥a̰l̥a̰ pa̰pa̰]) become adverbs. This is also true of some Burmese verbs and nouns (e.g. ခဏ 'a moment' → ခဏခဏ 'frequently'), which become adverbs when reduplicated.
+Some nouns are also reduplicated to indicate plurality. For instance, ပြည် [pjì] ('country'), but when reduplicated to အပြည်ပြည် [əpjì pjì], it means "many countries," as in အပြည်ပြည်ဆိုင်ရာ [əpjì pjì sʰã̀ɪ̃ jà] ('international'). Another example is အမျိုး, which means "a kind," but the reduplicated form အမျိုးမျိုး means "multiple kinds."
+A few measure words can also be reduplicated to indicate "one or the other":
+Numerals
+Burmese digits are traditionally written using a set of numerals unique to the Mon–Burmese script, although Arabic numerals are also used in informal contexts. The cardinal forms of Burmese numerals are primarily inherited from the Proto-Sino-Tibetan language, with cognates with modern-day Sino-Tibetan languages, including the Chinese and Tibetan. Numerals beyond 'ten million' are borrowed from Indic languages like Sanskrit or Pali. Similarly, the ordinal forms of primary Burmese numerals (i.e., from first to tenth) are borrowed from Pali, the liturgical language of Theravada Buddhism. Ordinal numbers beyond ten are suffixed မြောက် (lit. 'to raise').
+Burmese numerals follow the nouns they modify, with the exception of round numbers, which precede the nouns they modify. Moreover, numerals are subject to several tone sandhi and voicing rules that involve tone changes (low tone → creaky tone) and voicing shifts depending on the pronunciation of surrounding words. A more thorough explanation is found on Burmese numerals.
+Romanization and transcription
+There is no official romanization system for Burmese. There have been attempts to make one, but none have been successful. Replicating Burmese sounds in the Latin script is complicated. There is a Pali-based transcription system in existence, MLC Transcription System which was devised by the Myanmar Language Commission (MLC). However, it only transcribes sounds in formal Burmese and is based on the Burmese alphabet rather than the phonology.
+Several colloquial transcription systems have been proposed, but none is overwhelmingly preferred over others.
+Transcription of Burmese is not standardized, as seen in the varying English transcriptions of Burmese names. For instance, a Burmese personal name like ဝင်း [wɪ̃́] may be variously romanized as Win, Winn, Wyn, or Wynn, while ခိုင် [kʰã̀ɪ̃] may be romanized as Khaing, Khine, or Khain.
+Computer fonts and standard keyboard layout
+The Burmese alphabet can be entered from a standard QWERTY keyboard and is supported within the Unicode standard, meaning it can be read and written from most modern computers and smartphones.
+Burmese has complex character rendering requirements, where tone markings and vowel modifications are noted using diacritics. These can be placed before consonants (as with ေ), above them (as with ိ) or even around them (as with ြ). These character clusters are built using multiple keystrokes. In particular, the inconsistent placement of diacritics as a feature of the language presents a conflict between an intuitive WYSIWYG typing approach, and a logical consonant-first storage approach.
+Since its introduction in 2007, the most popular Burmese font, Zawgyi, has been near-ubiquitous in Myanmar. Linguist Justin Watkins argues that the ubiquitous use of Zawgyi harms Myanmar languages, including Burmese, by preventing efficient sorting, searching, processing and analyzing Myanmar text through flexible diacritic ordering.
+Zawgyi is not Unicode-compliant, but occupies the same code space as Unicode Myanmar font. As it is not defined as a standard character encoding, Zawgyi is not built in to any major operating systems as standard. However, allow for its position as the de facto (but largely undocumented) standard within the country, telcos and major smartphone distributors (such as Huawei and Samsung) ship phones with Zawgyi font overwriting standard Unicode-compliant fonts, which are installed on most internationally distributed hardware. Facebook also supports Zawgyi as an additional language encoding for their app and website. As a result, almost all SMS alerts (including those from telcos to their customers), social media posts and other web resources may be incomprehensible on these devices without the custom Zawgyi font installed at the operating system level. These may include devices purchased overseas, or distributed by companies who do not customize software for the local market.
+Keyboards which have a Zawgyi keyboard layout printed on them are the most commonly available for purchase domestically.
+Until recently, Unicode compliant fonts have been more difficult to type than Zawgyi, as they have a stricter, less forgiving and arguably less intuitive method for ordering diacritics. However, intelligent input software such as Keymagic and recent versions of smartphone soft-keyboards including Gboard and ttKeyboard allow for more forgiving input sequences and Zawgyi keyboard layouts which produce Unicode-compliant text.
+A number of Unicode-compliant Burmese fonts exist. The national standard keyboard layout is known as the Myanmar3 layout, and it was published along with the Myanmar3 Unicode font. The layout, developed by the Myanmar Unicode and NLP Research Center, has a smart input system to cover the complex structures of Burmese and related scripts.
+In addition to the development of computer fonts and standard keyboard layout, there is still a lot of scope of research for the Burmese language, specifically for Natural Language Processing (NLP) areas like WordNet, Search Engine, development of parallel corpus for Burmese language as well as development of a formally standardized and dense domain-specific corpus of Burmese language.
+Myanmar government has designated Oct 1 2019 as "U-Day" to officially switch to Unicode. The full transition is estimated to take two years.
+See also
+Notes

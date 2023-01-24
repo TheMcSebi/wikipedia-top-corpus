@@ -1,0 +1,111 @@
+Sufficient statistic
+In statistics, a statistic is sufficient with respect to a statistical model and its associated unknown parameter if "no other statistic that can be calculated from the same sample provides any additional information as to the value of the parameter". In particular, a statistic is sufficient for a family of probability distributions if the sample from which it is calculated gives no additional information than the statistic, as to which of those probability distributions is the sampling distribution.
+A related concept is that of linear sufficiency, which is weaker than sufficiency but can be applied in some cases where there is no sufficient statistic, although it is restricted to linear estimators. The Kolmogorov structure function deals with individual finite data; the related notion there is the algorithmic sufficient statistic.
+The concept is due to Sir Ronald Fisher in 1920. Stephen Stigler noted in 1973 that the concept of sufficiency had fallen out of favor in descriptive statistics because of the strong dependence on an assumption of the distributional form (see Pitman–Koopman–Darmois theorem below), but remained very important in theoretical work.
+Background
+Roughly, given a set $MATH$ of independent identically distributed data conditioned on an unknown parameter $MATH$, a sufficient statistic is a function $MATH$ whose value contains all the information needed to compute any estimate of the parameter (e.g. a maximum likelihood estimate).  Due to the factorization theorem (see below), for a sufficient statistic $MATH$, the probability density can be written as $MATH$.  From this factorization, it can easily be seen that the maximum likelihood estimate of $MATH$ will interact with $MATH$ only through $MATH$.  Typically, the sufficient statistic is a simple function of the data, e.g. the sum of all the data points.
+More generally, the "unknown parameter" may represent a vector of unknown quantities or may represent everything about the model that is unknown or not fully specified.  In such a case, the sufficient statistic may be a set of functions, called a jointly sufficient statistic.  Typically, there are as many functions as there are parameters.  For example, for a Gaussian distribution with unknown mean and variance, the jointly sufficient statistic, from which maximum likelihood estimates of both parameters can be estimated, consists of two functions, the sum of all data points and the sum of all squared data points (or equivalently, the sample mean and sample variance).
+The concept is equivalent to the statement that, conditional on the value of a sufficient statistic for a parameter, the joint probability distribution of the data does not depend on that parameter. Both the statistic and the underlying parameter can be vectors.
+Mathematical definition
+A statistic t = T(X) is sufficient for underlying parameter θ precisely if the conditional probability distribution of the data X, given the statistic t = T(X), does not depend on the  parameter θ.
+Alternatively, one can say the statistic T(X) is sufficient for θ if its mutual information with θ equals the mutual information between X and θ. In other words, the data processing inequality becomes an equality:
+Example
+As an example, the sample mean is sufficient for the mean (μ) of a normal distribution with known variance. Once the sample mean is known, no further information about μ can be obtained from the sample itself.  On the other hand, for an arbitrary distribution the median is not sufficient for the mean: even if the median of the sample is known, knowing the sample itself would provide further information about the population mean.  For example, if the observations that are less than the median are only slightly less, but observations exceeding the median exceed it by a large amount, then this would have a bearing on one's inference about the population mean.
+Fisher–Neyman factorization theorem
+Fisher's factorization theorem or factorization criterion provides a convenient characterization of a sufficient statistic.  If the probability density function is ƒθ(x), then T is sufficient for θ if and only if nonnegative functions g and h can be found such that
+i.e. the density ƒ can be factored into a product such that one factor, h, does not depend on θ and the other factor, which does depend on θ, depends on x only through T(x). A general proof of this was given by Halmos and Savage and the theorem is sometimes referred to as the Halmos-Savage factorization theorem. The proofs below handle special cases, but an alternative general proof along the same lines can be given.
+It is easy to see that if F(t) is a one-to-one function and T is a sufficient
+statistic, then F(T) is a sufficient statistic. In particular we can multiply a
+sufficient statistic by a nonzero constant and get another sufficient statistic.
+Likelihood principle interpretation
+An implication of the theorem is that when using likelihood-based inference, two sets of data yielding the same value for the sufficient statistic T(X) will always yield the same inferences about θ.  By the factorization criterion, the likelihood's dependence on θ is only in conjunction with T(X).  As this is the same in both cases, the dependence on θ will be the same as well, leading to identical inferences.
+Proof
+Due to Hogg and Craig. Let $MATH$,  denote a random sample from a distribution having the pdf f(x, θ) for ι < θ < δ. Let Y1 = u1(X1, X2, ..., Xn) be a statistic whose pdf is g1(y1; θ). What we want to prove is that Y1 = u1(X1, X2, ..., Xn) is a sufficient statistic for θ if and only if, for some function H,
+First, suppose that
+We shall make the transformation yi = ui(x1, x2, ..., xn), for i = 1, ..., n, having inverse functions xi = wi(y1, y2, ..., yn), for i = 1, ..., n, and Jacobian $MATH$. Thus,
+The left-hand member is the joint pdf g(y1, y2, ..., yn; θ) of Y1 = u1(X1, ..., Xn), ..., Yn = un(X1, ..., Xn).  In the right-hand member, $MATH$ is the pdf of $MATH$, so that $MATH$ is the quotient of $MATH$ and $MATH$; that is, it is the conditional pdf $MATH$ of $MATH$ given $MATH$.
+But $MATH$, and thus $MATH$, was given not to depend upon $MATH$. Since $MATH$ was not introduced in the transformation and accordingly not in the Jacobian $MATH$, it follows that $MATH$ does not depend upon $MATH$ and that $MATH$ is a sufficient statistics for $MATH$.
+The converse is proven by taking:
+where $MATH$ does not depend upon $MATH$ because $MATH$ depend only upon $MATH$, which are independent on $MATH$ when conditioned by $MATH$, a sufficient statistics by hypothesis. Now divide both members by the absolute value of the non-vanishing Jacobian $MATH$, and replace $MATH$ by the functions $MATH$ in $MATH$. This yields
+where $MATH$ is the Jacobian with $MATH$ replaced by their value in terms $MATH$. The left-hand member is necessarily the joint pdf $MATH$ of $MATH$. Since $MATH$, and thus $MATH$, does not depend upon $MATH$, then
+is a function that does not depend upon $MATH$.
+Another proof
+A simpler more illustrative  proof is as follows, although it applies only in the discrete case.
+We use the shorthand notation to denote the joint probability density of $MATH$ by $MATH$. Since $MATH$ is a function of $MATH$, we have $MATH$, as long as $MATH$ and zero otherwise. Therefore:
+with the last equality being true by the definition of sufficient statistics. Thus $MATH$ with $MATH$ and $MATH$.
+Conversely, if $MATH$, we have
+With the first equality by the definition of pdf for multiple variables, the second by the remark above, the third by hypothesis, and the fourth because the summation is not over $MATH$.
+Let $MATH$ denote the conditional probability density of $MATH$ given $MATH$. Then we can derive an explicit expression for this:
+With the first equality by definition of conditional probability density, the second by the remark above, the third by the equality proven above, and the fourth by simplification. This expression does not depend on $MATH$ and thus $MATH$ is a sufficient statistic.
+Minimal sufficiency
+A sufficient statistic is minimal sufficient if it can be represented as a function of any other sufficient statistic. In other words, S(X) is minimal sufficient if and only if
+Intuitively, a minimal sufficient statistic most efficiently captures all possible information about the parameter θ.
+A useful characterization of minimal sufficiency is that when the density fθ exists, S(X) is minimal sufficient if and only if
+This follows as a consequence from Fisher's factorization theorem stated above.
+A case in which there is no minimal sufficient statistic was shown by Bahadur, 1954. However, under mild conditions, a minimal sufficient statistic does always exist. In particular, in Euclidean space, these conditions always hold if the random variables (associated with $MATH$ ) are all discrete or are all continuous.
+If there exists a minimal sufficient statistic, and this is usually the case, then every complete sufficient statistic is necessarily minimal sufficient(note that this statement does not exclude a pathological case in which a complete sufficient exists while there is no minimal sufficient statistic). While it is hard to find cases in which a minimal sufficient statistic does not exist, it is not so hard to find cases in which there is no complete statistic.
+The collection of likelihood ratios $MATH$ for $MATH$, is a minimal sufficient statistic if the parameter space is discrete $MATH$.
+Examples
+Bernoulli distribution
+If X1, ...., Xn are independent Bernoulli-distributed random variables with expected value p, then the sum T(X) = X1 + ... + Xn is a sufficient statistic for p (here 'success' corresponds to Xi = 1 and 'failure' to  Xi = 0; so T is the total number of successes)
+This is seen by considering the joint probability distribution:
+Because the observations are independent, this can be written as
+and, collecting powers of p and 1 − p,  gives
+which satisfies the factorization criterion, with h(x) = 1 being just a constant.
+Note the crucial feature: the unknown parameter p interacts with the data x only via the statistic T(x) = Σ xi.
+As a concrete application, this gives a procedure for distinguishing a fair coin from a biased coin.
+Uniform distribution
+If X1, ...., Xn are independent and uniformly distributed on the interval [0,θ], then T(X) = max(X1, ..., Xn) is sufficient for θ — the sample maximum is a sufficient statistic for the population maximum.
+To see this, consider the joint probability density function of X  (X1,...,Xn). Because the observations are independent, the pdf can be written as a product of individual densities
+where 1{...} is the indicator function.  Thus the density takes form required by the Fisher–Neyman factorization theorem, where h(x) = 1{min{xi}≥0}, and the rest of the expression is a function of only θ and T(x) = max{xi}.
+In fact, the minimum-variance unbiased estimator (MVUE) for θ is
+This is the sample maximum, scaled to correct for the bias, and is MVUE by the Lehmann–Scheffé theorem. Unscaled sample maximum T(X) is the maximum likelihood estimator for θ.
+Uniform distribution (with two parameters)
+If $MATH$ are independent and uniformly distributed on the interval $MATH$ (where $MATH$ and $MATH$ are unknown parameters), then $MATH$ is a two-dimensional sufficient statistic for $MATH$.
+To see this, consider the joint probability density function of $MATH$. Because the observations are independent, the pdf can be written as a product of individual densities, i.e.
+The joint density of the sample takes the form required by the Fisher–Neyman factorization theorem, by letting
+Since $MATH$ does not depend on the parameter $MATH$ and $MATH$ depends only on $MATH$ through the function $MATH$
+the Fisher–Neyman factorization theorem implies $MATH$ is a sufficient statistic for $MATH$.
+Poisson distribution
+If X1, ...., Xn are independent and have a Poisson distribution with parameter λ, then the sum T(X) = X1 + ... + Xn is a sufficient statistic for λ.
+To see this, consider the joint probability distribution:
+Because the observations are independent, this can be written as
+which may be written as
+which shows that the factorization criterion is satisfied, where h(x) is the reciprocal of the product of the factorials.  Note the parameter λ interacts with the data only through its sum T(X).
+Normal distribution
+If $MATH$ are independent and normally distributed with expected value $MATH$ (a parameter) and known finite variance $MATH$ then
+is a sufficient statistic for $MATH$
+To see this, consider the joint probability density function of $MATH$. Because the observations are independent, the pdf can be written as a product of individual densities, i.e.
+The joint density of the sample takes the form required by the Fisher–Neyman factorization theorem, by letting
+Since $MATH$ does not depend on the parameter $MATH$ and $MATH$ depends only on $MATH$ through the function
+the Fisher–Neyman factorization theorem implies $MATH$ is a sufficient statistic for $MATH$.
+If $MATH$ is unknown and since $MATH$,  the above likelihood can be rewritten as
+The Fisher–Neyman factorization theorem still holds and implies that $MATH$ is a joint sufficient statistic for $MATH$.
+Exponential distribution
+If $MATH$ are independent and exponentially distributed with expected value θ (an unknown real-valued positive parameter), then $MATH$ is a sufficient statistic for θ.
+To see this, consider the joint probability density function of $MATH$. Because the observations are independent, the pdf can be written as a product of individual densities, i.e.
+The joint density of the sample takes the form required by the Fisher–Neyman factorization theorem, by letting
+Since $MATH$ does not depend on the parameter $MATH$ and $MATH$ depends only on $MATH$ through the function $MATH$
+the Fisher–Neyman factorization theorem implies $MATH$ is a sufficient statistic for $MATH$.
+Gamma distribution
+If $MATH$ are independent and distributed as a $MATH$, where $MATH$ and $MATH$ are unknown parameters of a Gamma distribution, then $MATH$ is a two-dimensional sufficient statistic for $MATH$.
+To see this, consider the joint probability density function of $MATH$. Because the observations are independent, the pdf can be written as a product of individual densities, i.e.
+The joint density of the sample takes the form required by the Fisher–Neyman factorization theorem, by letting
+Since $MATH$ does not depend on the parameter $MATH$ and $MATH$ depends only on $MATH$ through the function $MATH$
+the Fisher–Neyman factorization theorem implies $MATH$ is a sufficient statistic for $MATH$
+Rao–Blackwell theorem
+Sufficiency finds a useful application in the Rao–Blackwell theorem, which  states that if g(X) is any kind of estimator of θ, then typically the conditional expectation of g(X) given sufficient statistic T(X) is a better (in the sense of having lower variance) estimator of θ, and is never worse.  Sometimes one can very easily construct a very crude estimator g(X), and then evaluate that conditional expected value to get an estimator that is in various senses optimal.
+Exponential family
+According to the Pitman–Koopman–Darmois theorem, among families of probability distributions whose domain does not vary with the parameter being estimated, only in exponential families is there a sufficient statistic whose dimension remains bounded as sample size increases. Intuitively, this states that nonexponential families of distributions on the real line require nonparametric statistics to fully capture the information in the data.
+Less tersely, suppose $MATH$ are independent identically distributed real random variables whose distribution is known to be in some family of probability distributions, parametrized by $MATH$, satisfying certain technical regularity conditions, then that family is an exponential family if and only if there is a $MATH$-valued sufficient statistic $MATH$ whose number of scalar components $MATH$ does not increase as the sample size n increases.
+This theorem shows that the existence of a finite-dimensional, real-vector-valued sufficient statistics sharply restricts the possible forms of a family of distributions on the real line. 
+When the parameters or the random variables are no longer real-valued, the situation is more complex.
+Other types of sufficiency
+Bayesian sufficiency
+An alternative formulation of the condition that a statistic be sufficient, set in a Bayesian context, involves the posterior distributions obtained by using the full data-set and by using only a statistic. Thus the requirement is that, for almost every x,
+More generally, without assuming a parametric model, we can say that the statistics T is predictive sufficient if
+It turns out that this "Bayesian sufficiency" is a consequence of the formulation above, however they are not directly equivalent in the infinite-dimensional case. A range of theoretical results for sufficiency in a Bayesian context is available.
+Linear sufficiency
+A concept called "linear sufficiency" can be formulated in a Bayesian context, and more generally. First define the best linear predictor of a vector Y based on X as $MATH$. Then a linear statistic T(x) is linear sufficient if
+See also
+Notes

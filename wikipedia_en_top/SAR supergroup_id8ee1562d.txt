@@ -1,0 +1,5 @@
+SAR supergroup
+The SAR supergroup, also just SAR or Harosa, is a clade that includes stramenopiles (heterokonts), alveolates, and Rhizaria. The name is an acronym derived from the first letters of each of these clades; it has been alternatively spelled "RAS". The term "Harosa" (at the subkingdom level) has also been used. The SAR supergroup is a node-based taxon.
+Note that as a formal taxon, "Sar" has only its first letter capitalized, while the earlier abbreviation, SAR, retains all uppercase letters.  Both names refer to the same group of organisms, unless further taxonomic revisions deem otherwise.  Members of the SAR supergroup were once included under the separate supergroups Chromalveolata (Chromista and Alveolata) and Rhizaria, until phylogenetic studies confirmed that stramenopiles and alveolates diverged with Rhizaria. This apparently excluded haptophytes and cryptomonads, leading  Okamoto et al. (2009) to propose the clade Hacrobia to accommodate them.
+Phylogeny
+Based on a compilation of the following works.

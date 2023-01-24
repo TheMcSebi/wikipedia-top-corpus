@@ -1,0 +1,45 @@
+Solar eclipse of November 13, 2012
+A total solar eclipse took place on 13–14 November 2012 (UTC). Because it crossed the International Date Line it began in local time on November 14 west of the date line over northern Australia, and ended in local time on November 13 east of the date line near the west coast of South America. Its greatest magnitude was 1.0500, occurring only 12 hours before perigee (Perigee on 2012 Nov 14 at 10:11:48 UTC), with greatest eclipse totality lasting just over four minutes. A solar eclipse occurs when the Moon passes between Earth and the Sun, thereby totally or partly obscuring the image of the Sun for a viewer on Earth. A total solar eclipse occurs when the Moon's apparent diameter is larger than the Sun's, blocking all direct sunlight, turning day into darkness. Totality occurs in a narrow path across Earth's surface, with the partial solar eclipse visible over a surrounding region thousands of kilometres wide.
+It was the 45th eclipse of the 133rd Saros cycle, which began with a partial eclipse on July 13, 1219 and will conclude with a partial eclipse on September 5, 2499.
+Summary of the Total Solar Eclipse of 13 November 2012
+Eclipse Characteristics
+Eclipse Magnitude = 1.05004
+Eclipse Obscuration = 1.10259
+Gamma = -0.37189
+Saros Series = 133rd (45 of 72)
+Conjunction Times
+Greatest Eclipse = 13 Nov 2012 22:11:48.2 UTC (22:12:55.2 TD)
+Ecliptic Conjunction = 13 Nov 2012 22:07:59.9 UTC (22:09:06.9 TD)
+Equatorial Conjunction = 13 Nov 2012 22:18:04.7 UTC (22:19:11.7 TD)
+Geocentric Coordinates of Sun and Moon
+Sun right ascension = 15 hours, 18 minutes, 6.7 seconds
+Moon right ascension = 15 hours, 17 minutes, 51.2 seconds
+Earth's shadow right ascension = 3 hours, 18 minutes, 6.7 seconds
+Sun declination = 18 degrees, 15 minutes, 2.6 seconds south of Celestial Equator
+Moon declination = 18 degrees, 37 minutes, 29.5 seconds south of Celestial Equator
+Earth's shadow declination = 18 degrees, 15 minutes, 2.6 seconds north of Celestial Equator
+Sun diameter = 1939.8 arcseconds
+Moon diameter = 2004.8 arcseconds
+Geocentric Libration of Moon
+Latitude: 1.0 degrees south
+Longitude: 0.5 degrees east
+Direction: 16.5 (NNE)
+Visibility
+For this eclipse, totality was visible from northern Australia to about 470 km north of the Chilean Juan Fernández Islands in the southern Pacific Ocean where totality ended. The most populous city to experience totality was Cairns, which had around 2 minutes of totality an hour after daybreak (06:39 AEST, 20:39 UTC) with the sun at an altitude of 14°. Norfolk Island, a small Pacific island east of Australia, experienced a partial eclipse with a maximum eclipse of 98% of the sun obscured at 08:37 NFT and an altitude of 42°.
+New Zealand experienced a partial eclipse. Auckland had 84.8% of the sun obscured, whereas Wellington, Christchurch and Dunedin respectively had 71.2%, 61.9% and 52.9% of the sun obscured. Maximum eclipse over New Zealand occurred around 10:30 NZDT (21:30 UTC), with Auckland at 10:27, Wellington at 10:34, Christchurch at 10:35 and Dunedin at 10:36.
+Most of Chile and parts of Argentina saw a partial eclipse at sunset. In some places over half the sun was obscured. In Chile, Talcahuano in Biobío saw 72% obscured, Castro in Los Lagos saw 56% obscured. Chilean coastal locations were ideally situated to observe an eclipsing sunset over the Pacific Ocean. Points further north, up to about Chañaral, saw the eclipse begin as the sun was setting.
+West of the International Date Line the eclipse took place on the morning of November 14. The maximum eclipse totality, of duration 4 min 2 sec, occurred east of the International Date Line on November 13, approximately 2,000 km east of New Zealand, and 9,600 km west of Chile.
+On the morning of November 14, skies in Auckland were cloudy, obscuring much of the eclipse, which peaked at 10:27 NZDT. Cloud also obscured the moment of totality at Cairns, disappointing many tourists that had flocked to the area. Eclipse chasers along the northern beaches up through to Port Douglas generally got a clear view however.
+Related eclipses
+Eclipses of 2012
+Solar eclipses of 2011–2014
+This eclipse is a member of the 2011–2014 solar eclipse semester series. An eclipse in a semester series of solar eclipses repeats approximately every 177 days and 4 hours (a semester) at alternating nodes of the Moon's orbit.
+Saros 133
+Solar Saros 133, repeating every 18 years, 11 days, contains 72 events. The series started with a partial solar eclipse on July 13, 1219. It contains annular eclipses from November 20, 1435, through January 13, 1526, with a hybrid eclipse on January 24, 1544. It has total eclipses from February 3, 1562, through June 21, 2373. The series ends at member 72 as a partial eclipse on September 5, 2499. The longest duration of totality was 6 minutes, 49.97 seconds on August 7, 1850. The total eclipses of this saros series are getting shorter and farther south with each iteration. All eclipses in this series occurs at the Moon’s ascending node.
+Inex series
+This eclipse is a part of the long period inex cycle, repeating at alternating nodes, every 358 synodic months (≈ 10,571.95 days, or 29 years minus 20 days). Their appearance and longitude are irregular due to a lack of synchronization with the anomalistic month (period of perigee). However, groupings of 3 inex cycles (≈ 87 years minus 2 months) comes close (≈ 1,151.02 anomalistic months), so eclipses are similar in these groupings.
+Tritos series
+This eclipse is a part of a tritos cycle, repeating at alternating nodes every 135 synodic months (≈ 3986.63 days, or 11 years minus 1 month). Their appearance and longitude are irregular due to a lack of synchronization with the anomalistic month (period of perigee), but groupings of 3 tritos cycles (≈ 33 years minus 3 months) come close (≈ 434.044 anomalistic months), so eclipses are similar in these groupings.
+Metonic series
+The metonic series repeats eclipses every 19 years (6939.69 days), lasting about 5 cycles. Eclipses occur in nearly the same calendar date. In addition, the octon subseries repeats 1/5 of that or every 3.8 years (1387.94 days). All eclipses in this table occur at the Moon's ascending node.
+Notes

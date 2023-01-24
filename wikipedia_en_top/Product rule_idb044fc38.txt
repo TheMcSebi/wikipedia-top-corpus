@@ -1,0 +1,71 @@
+Product rule
+
+
+In calculus, the product rule (or Leibniz rule or Leibniz product rule) is a formula used to find the derivatives of products of two or more functions. For two functions, it may be stated in Lagrange's notation as 
+ or in Leibniz's notation as 
+The rule may be extended or generalized to products of three or more functions, to a rule for higher-order derivatives of a product, and to other contexts.
+Discovery
+Discovery of this rule is credited to Gottfried Leibniz, who demonstrated it using differentials. (However, J. M. Child, a translator of Leibniz's papers, argues that it is due to Isaac Barrow.) Here is Leibniz's argument: Let u(x) and v(x) be two differentiable functions of x. Then the differential of uv is
+Since the term du·dv is "negligible" (compared to du and dv), Leibniz concluded that
+and this is indeed the differential form of the product rule. If we divide through by the differential dx, we obtain
+which can also be written in Lagrange's notation as
+Examples
+Proofs
+Limit definition of derivative
+Let h(x) = f(x)g(x) and suppose that f and g are each differentiable at x. We want to prove that h is differentiable at x and that its derivative, h′(x), is given by f′(x)g(x) + f(x)g′(x). To do this, $MATH$ (which is zero, and thus does not change the value) is added to the numerator to permit its factoring, and then properties of limits are used.
+The fact that $MATH$ follows from the fact that differentiable functions are continuous.
+Linear approximations
+By definition, if $MATH$ are differentiable at $MATH$, then we can write linear approximations:
+ and 
+where the error terms are small with respect to h: that is, $MATH$ also written $MATH$. Then:
+The "error terms" consist of items such as $MATH$ and $MATH$ which are easily seen to have magnitude $MATH$ Dividing by $MATH$ and taking the limit $MATH$ gives the result.
+Quarter squares
+This proof uses the chain rule and the quarter square function $MATH$ with derivative $MATH$. We have:
+and differentiating both sides gives:
+Multivariable chain rule
+The product rule can be considered a special case of the chain rule for several variables, applied to the multiplication function $MATH$:
+Non-standard analysis
+Let u and v be continuous functions in x, and let dx, du and dv be infinitesimals within the framework of non-standard analysis, specifically the hyperreal numbers. Using st to denote the standard part function that associates to a finite hyperreal number the real infinitely close to it, this gives
+This was essentially Leibniz's proof exploiting the transcendental law of homogeneity (in place of the standard part above).
+Smooth infinitesimal analysis
+In the context of Lawvere's approach to infinitesimals, let $MATH$ be a nilsquare infinitesimal. Then $MATH$ and $MATH$, so that
+since $MATH$ Dividing by $MATH$ then gives $MATH$ or $MATH$.
+Logarithmic differentiation
+Let $MATH$. Taking the absolute value of each function and the natural log of both sides of the equation, 
+Applying properties of the absolute value and logarithms, 
+Taking the logarithmic derivative of both sides and then solving for $MATH$:
+Solving for $MATH$ and substituting back $MATH$ for $MATH$ gives:
+Note: Taking the absolute value of the functions is necessary to allow logarithmic differentiation of functions that can have negative values, as logarithms are only defined for positive arguments. This works because $MATH$, which justifies taking the absolute value of the functions for logarithmic differentiation.
+Generalizations
+Product of more than two factors
+The product rule can be generalized to products of more than two factors. For example, for three factors we have
+For a collection of functions $MATH$, we have
+The logarithmic derivative provides a simpler expression of the last form, as well as a direct proof that does not involve any recursion. The logarithmic derivative   of a function f, denoted here Logder(f), is the derivative of the logarithm of the function. It follows that 
+Using that the logarithm of a product is the sum of the logarithms of the factors, the sum rule for derivatives gives immediately
+The last above expression of the derivative of a product is obtained by multiplying both members of this equation by the product of the $MATH$
+Higher derivatives
+It can also be generalized to the general Leibniz rule for the nth derivative of a product of two factors, by symbolically expanding according to the binomial theorem:
+Applied at a specific point x, the above formula gives: 
+Furthermore, for the nth derivative of an arbitrary number of factors, one has a similar formula with multinomial coefficients:
+Higher partial derivatives
+For partial derivatives, we have
+where the index S runs through all 2n subsets of {1, ..., n}, and |S| is the cardinality of S. For example, when n = 3,
+Banach space
+Suppose X, Y, and Z are Banach spaces (which includes Euclidean space) and B : X × Y → Z is a continuous bilinear operator. Then B is differentiable, and its derivative at the point (x,y) in X × Y is the linear map D(x,y)B : X × Y → Z given by
+This result can be extended to more general topological vector spaces.
+In vector calculus
+The product rule extends to various product operations of vector functions on $MATH$:
+There are also analogues for other analogs of the derivative: if f and g are scalar fields then there is a product rule with the gradient:
+Such a rule will hold for any continuous bilinear product operation.  Let B : X × Y → Z be a continuous bilinear map between vector spaces, and let f and g be differentiable functions into X and Y, respectively.  The only properties of multiplication used in the proof using the limit definition of derivative is that multiplication is continuous and bilinear.  So for any continuous bilinear operation,
+This is also a special case of the product rule for bilinear maps in Banach space.
+Derivations in abstract algebra and differential geometry
+In abstract algebra, the product rule is the defining property of a derivation. In this terminology, the product rule states that the derivative operator is a derivation  on functions. 
+
+
+In differential geometry, a tangent vector to a manifold M at a point p may be defined abstractly as an operator on real-valued functions which behaves like a directional derivative at p: that is, a linear functional v which is a derivation,
+
+Generalizing (and dualizing) the formulas of vector calculus to an n-dimensional manifold M, one may take differential forms of degrees k and l, denoted $MATH$, with the wedge or exterior product operation $MATH$, as well as the exterior derivative $MATH$. Then one has the graded Leibniz rule:
+Applications
+Among the applications of the product rule is a proof that
+when n is a positive integer (this rule is true even if n is not positive or is not an integer, but the proof of that must rely on other methods). The proof is by mathematical induction on the exponent n. If n = 0 then xn is constant and nxn − 1 = 0. The rule holds in that case because the derivative of a constant function is 0. If the rule holds for any particular exponent n, then for the next value, n + 1, we have
+Therefore, if the proposition is true for n, it is true also for n + 1, and therefore for all natural n.

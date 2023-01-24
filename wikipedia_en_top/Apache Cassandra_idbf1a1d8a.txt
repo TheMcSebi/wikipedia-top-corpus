@@ -1,0 +1,26 @@
+Apache Cassandra
+Cassandra   is a free and open-source, distributed, wide-column store, NoSQL database management system designed to handle large amounts of data across many commodity servers, providing high availability with no single point of failure. Cassandra offers support for clusters spanning multiple datacenters, with asynchronous masterless replication allowing low latency operations for all clients. Cassandra was designed to implement a combination of Amazon's Dynamo distributed storage and replication techniques combined with Google's Bigtable data and storage engine model.
+History
+Avinash Lakshman, one of the authors of Amazon's Dynamo, and Prashant Malik initially developed  Cassandra at Facebook to power the Facebook inbox search feature.  Facebook released Cassandra as an open-source project on Google code in July 2008.  In March 2009, it became an Apache Incubator project. On February 17, 2010, it graduated to a top-level project.
+Facebook developers named their database after the Trojan mythological prophet Cassandra, with classical allusions to a curse on an oracle.
+Releases
+Releases after graduation include
+Main features
+Cassandra Query Language
+Cassandra introduced the Cassandra Query Language (CQL). CQL is a simple interface for accessing Cassandra, as an alternative to the traditional Structured Query Language (SQL). CQL adds an abstraction layer that hides implementation details of this structure and provides native syntaxes for collections and other common encodings. Language drivers are available for Java (JDBC), Python (DBAPI2), Node.JS (Datastax), Go (gocql) and C++.
+The keyspace in Cassandra is a namespace that defines data replication across nodes. Therefore, replication is defined at the keyspace level. Below an example of keyspace creation, including a column family in CQL 3.0:
+Which gives:
+Known issues
+Up to Cassandra 1.0, Cassandra was not row-level consistent, meaning that inserts and updates into the table that affect the same row that are processed at approximately the same time may affect the non-key columns in inconsistent ways. One update may affect one column while another affects the other, resulting in sets of values within the row that were never specified or intended. Cassandra 1.1 solved this issue by introducing row-level isolation.
+Cassandra is not supported on Windows as of version 4, see issue CASSANDRA-16171.
+Tombstones
+Deletion markers called "Tombstones" are known to cause severe performance degradation.
+Data model
+Cassandra is wide column store, and, as such, essentially a hybrid between a key-value and a tabular database management system. Its data model is a partitioned row store with tunable consistency. Rows are organized into tables; the first component of a table's primary key is the partition key; within a partition, rows are clustered by the remaining columns of the key. Other columns may be indexed separately from the primary key.
+Tables may be created, dropped, and altered at run-time without blocking updates and queries.
+Cassandra cannot do joins or subqueries.  Rather, Cassandra emphasizes denormalization through features like collections.
+A column family (called "table" since CQL 3) resembles a table in an RDBMS (Relational Database Management System). Column families contain rows and columns. Each row is uniquely identified by a row key. Each row has multiple columns, each of which has a name, value, and a timestamp. Unlike a table in an RDBMS, different rows in the same column family do not have to share the same set of columns, and a column may be added to one or multiple rows at any time.
+Each key in Cassandra corresponds to a value which is an object. Each key has values as columns, and columns are grouped together into sets called column families. Thus, each key identifies a row of a variable number of elements. These column families could be considered then as tables.  A table in Cassandra is a distributed multi dimensional map indexed by a key. Furthermore, applications can specify the sort order of columns within a Super Column or Simple Column family.
+Management and monitoring
+Cassandra is a Java-based system that can be managed and monitored via Java Management Extensions (JMX). The JMX-compliant nodetool utility, for instance, can be used to manage a Cassandra cluster (adding nodes to a ring, draining nodes, decommissioning nodes, and so on). Nodetool also offers a number of commands to return Cassandra metrics pertaining to disk usage, latency, compaction, garbage collection, and more.
+Since Cassandra 2.0.2 in 2013, measures of several metrics are produced via the Dropwizard metrics framework, and may be queried via JMX using tools such as JConsole or passed to external monitoring systems via Dropwizard-compatible reporter plugins.

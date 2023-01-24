@@ -1,0 +1,40 @@
+Heptagon
+In geometry, a heptagon or septagon is a seven-sided polygon or 7-gon.
+The heptagon is sometimes referred to as the septagon, using "sept-" (an elision of septua-, a Latin-derived numerical prefix, rather than hepta-, a Greek-derived numerical prefix; both are cognate) together with the Greek suffix "-agon" meaning angle.
+Regular heptagon
+A regular heptagon, in which all sides and all angles are equal, has internal angles of 5π/7 radians (1284⁄7 degrees). Its Schläfli symbol is {7}.
+Area
+The area (A) of a regular heptagon of side length a is given by:
+This can be seen by subdividing the unit-sided heptagon into seven triangular "pie slices" with vertices at the center and at the heptagon's vertices, and then halving each triangle using the apothem as the common side. The apothem is half the cotangent of $MATH$ and the area of each of the 14 small triangles is one-fourth of the apothem.
+The area of a regular heptagon inscribed in a circle of radius R  is $MATH$ while the area of the circle itself is $MATH$ thus the regular heptagon fills approximately 0.8710 of its circumscribed circle.
+Construction
+As 7 is a Pierpont prime but not a Fermat prime, the regular heptagon is not constructible with compass and straightedge but is constructible with a marked ruler and compass. It is the smallest regular polygon with this property. This type of construction is called a neusis construction. It is also constructible with compass, straightedge and angle trisector. The impossibility of straightedge and compass construction follows from the observation that $MATH$ is a zero of the irreducible cubic x3 + x2 − 2x − 1. Consequently, this polynomial is the minimal polynomial of 2cos(2π⁄7), whereas the degree of the minimal polynomial for a constructible number must be a power of 2.
+Approximation
+An approximation for practical use with an error of about 0.2% is shown in the drawing.  It is attributed to Albrecht Dürer. Let A lie on the circumference of the circumcircle. Draw arc BOC. Then $MATH$ gives an approximation for the edge of the heptagon.
+This approximation uses $MATH$ for the side of the heptagon inscribed in the unit circle while the exact value is $MATH$.
+Example to illustrate the error:
+At a circumscribed circle radius r = 1 m, the absolute error of the 1st side would be approximately -1.7 mm
+Symmetry
+The regular heptagon belongs to the D7h point group (Schoenflies notation), order 28. The symmetry elements are: a 7-fold proper rotation axis C7, a 7-fold improper rotation axis, S7, 7 vertical mirror planes, σv, 7 2-fold rotation axes, C2, in the plane of the heptagon and a horizontal mirror plane, σh, also in the heptagon's plane.
+Diagonals and heptagonal triangle
+The regular heptagon's side a, shorter diagonal b, and longer diagonal c, with a<b<c, satisfy: Lemma 1 
+and hence
+and: Coro. 2 
+Thus –b/c, c/a, and a/b all satisfy the cubic equation $MATH$ However, no algebraic expressions with purely real terms exist for the solutions of this equation, because it is an example of casus irreducibilis.
+The approximate lengths of the diagonals in terms of the side of the regular heptagon are given by
+We also have
+and
+A heptagonal triangle has vertices coinciding with the first, second, and fourth vertices of a regular heptagon (from an arbitrary starting vertex) and angles $MATH$ and $MATH$ Thus its sides coincide with one side and two particular diagonals of the regular heptagon.
+In polyhedra
+Apart from the heptagonal prism and heptagonal antiprism, no convex polyhedron made entirely out of regular polygons contains a heptagon as a face.
+Star heptagons
+Two kinds of star heptagons (heptagrams) can be constructed from regular heptagons, labeled by Schläfli symbols {7/2}, and {7/3}, with the divisor being the interval of connection.
+Blue, {7/2} and green {7/3} star heptagons inside a red heptagon.
+Tiling and packing
+A regular triangle, heptagon, and 42-gon can completely fill a plane vertex. However, there is no tiling of the plane with only these polygons, because there is no way to fit one of them onto the third side of the triangle without leaving a gap or creating an overlap. In the hyperbolic plane, tilings by regular heptagons are possible.
+The regular heptagon has a double lattice packing of the Euclidean plane of packing density approximately 0.89269. This has been conjectured to be the lowest density possible for the optimal double lattice packing density of any convex set, and more generally for the optimal packing density of any convex set.
+Empirical examples
+The United Kingdom, as of 2022, has two heptagonal coins, the 50p and 20p pieces, and the Barbados Dollar are also heptagonal. The 20-eurocent coin has cavities placed similarly. Strictly, the shape of the coins is a Reuleaux heptagon, a curvilinear heptagon which has curves of constant width; the sides are curved outwards to allow the coins to roll smoothly when they are inserted into a vending machine. Botswana pula coins in the denominations of 2 Pula, 1 Pula, 50 Thebe and 5 Thebe are also shaped as equilateral-curve heptagons. Coins in the shape of Reuleaux heptagons are also in circulation in Mauritius, U.A.E., Tanzania, Samoa, Papua New Guinea, São Tomé and Príncipe, Haiti, Jamaica, Liberia, Ghana, the Gambia, Jordan, Jersey, Guernsey, Isle of Man, Gibraltar, Guyana, Solomon Islands, Falkland Islands and Saint Helena. The 1000 Kwacha coin of Zambia is a true heptagon.
+The Brazilian 25-cent coin has a heptagon inscribed in the coin's disk. Some old versions of the coat of arms of Georgia, including in Soviet days, used a {7/2} heptagram as an element.
+In architecture, heptagonal floor plans are very rare. A remarkable example is the Mausoleum of Prince Ernst in Stadthagen, Germany.
+Many police badges in the US have a {7/2} heptagram outline.

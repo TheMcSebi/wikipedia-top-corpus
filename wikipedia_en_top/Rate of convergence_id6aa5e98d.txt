@@ -1,0 +1,67 @@
+Rate of convergence
+In numerical analysis, the order of convergence and the rate of convergence of a convergent sequence are quantities that represent how quickly the sequence approaches its limit. A sequence $MATH$ that converges to $MATH$ is said to have order of convergence $MATH$ and rate of convergence $MATH$ if 
+The rate of convergence $MATH$ is also called the asymptotic error constant.
+Note that this terminology is not standardized and some authors will use rate where
+this article uses order (e.g., ).
+In practice, the rate and order of convergence provide useful insights when using iterative methods for calculating numerical approximations. If the order of convergence is higher, then typically fewer iterations are necessary to yield a useful approximation. Strictly speaking, however, the asymptotic behavior of a sequence does not give conclusive information about any finite part of the sequence.
+Similar concepts are used for discretization methods. The solution of the discretized problem converges to the solution of the continuous problem as the grid size goes to zero, and the speed of convergence is one of the factors of the efficiency of the method. However, the terminology, in this case, is different from the terminology for iterative methods.
+Series acceleration is a collection of techniques for improving the rate of convergence of a series discretization. Such acceleration is commonly accomplished with sequence transformations.
+Convergence speed for iterative methods
+Convergence definitions
+
+Suppose that the sequence $MATH$ converges to the number $MATH$. The sequence is said to converge with order $MATH$ to $MATH$, and with a rate of convergence of $MATH$, if
+for some positive constant $MATH$ if $MATH$, and $MATH$ if $MATH$. It is not necessary, however, that $MATH$ be an integer. For example, the secant method, when converging to a regular, simple root, has an order of φ ≈ 1.618.
+Convergence with order
+Order estimation
+A practical method to calculate the order of convergence for a sequence is to calculate the following sequence, which converges to $MATH$: 
+Q-convergence definitions
+In addition to the previously defined Q-linear convergence, a few other Q-convergence definitions exist. Given Definition 1 defined above, the sequence is said to converge Q-superlinearly to $MATH$ (i.e. faster than linearly) in all the cases where $MATH$ and also the case $MATH$. Given Definition 1, the sequence is said to converge Q-sublinearly to $MATH$ (i.e. slower than linearly) if $MATH$. The sequence $MATH$ converges logarithmically to $MATH$ if the sequence converges sublinearly and additionally if
+Note that unlike previous definitions,  logarithmic convergence is not called "Q-logarithmic."
+In the definitions above, the "Q-" stands for "quotient" because the terms are defined using the quotient between two successive terms.: 619  Often, however, the "Q-" is dropped and a sequence is simply said to have linear convergence, quadratic convergence, etc.
+R-convergence definition
+The Q-convergence definitions have a shortcoming in that they do not include some sequences, such as the sequence $MATH$ below, which converge reasonably fast, but whose rate is variable. Therefore, the definition of rate of convergence is extended as follows.
+Suppose that $MATH$ converges to $MATH$. The sequence is said to converge R-linearly to $MATH$ if there exists a sequence $MATH$ such that
+and $MATH$ converges Q-linearly to zero. The "R-" prefix stands for "root".
+: 620 
+Examples
+Consider the sequence
+It can be shown that this sequence converges to $MATH$. To determine the type of convergence, we plug the sequence into the definition of Q-linear convergence,
+Thus, we find that $MATH$ converges Q-linearly and has a convergence rate of $MATH$.
+More generally, for any $MATH$, the sequence $MATH$ converges linearly with rate $MATH$.
+The sequence 
+also converges linearly to 0 with rate 1/2 under the R-convergence definition, but not under the Q-convergence definition. (Note that $MATH$ is the floor function, which gives the largest integer that is less than or equal to $MATH$.)
+The sequence 
+converges superlinearly. In fact, it is quadratically convergent.
+Finally, the sequence 
+converges sublinearly and logarithmically.
+Convergence speed for discretization methods
+A similar situation exists for discretization methods designed to approximate a function $MATH$, which might be an integral being approximated by numerical quadrature, or the solution of an ordinary differential equation (see example below).  The discretization method generates a sequence $MATH$, where each successive $MATH$ is a function of $MATH$ along with the grid spacing $MATH$ between successive values of the independent variable $MATH$.  The important parameter here for the convergence speed to $MATH$ is the grid spacing $MATH$, inversely proportional to the number of grid points, i.e. the number of points in the sequence required to reach a given value of $MATH$.
+In this case, the sequence $MATH$ is said to converge to the sequence $MATH$ with order q if there exists a constant C such that
+This is written as $MATH$ using big O notation.
+This is the relevant definition when discussing methods for numerical quadrature or the solution of ordinary differential equations.
+A practical method to estimate the order of convergence for a discretization method is pick step sizes $MATH$ and $MATH$ and calculate the resulting errors $MATH$ and $MATH$. The order of convergence is then approximated by the following formula:
+which comes from writing the truncation error, at the old and new grid spacings, as
+The error $MATH$ is, more specifically, a global truncation error (GTE), in that it represents a sum of errors accumulated over all $MATH$ iterations, as opposed to a local truncation error (LTE)  over just one iteration.
+Example of discretization methods
+Consider the ordinary differential equation
+with initial condition $MATH$.  We can solve this equation using the Forward Euler scheme for numerical discretization:
+which generates the sequence
+In terms of $MATH$, this sequence is as follows, from the Binomial theorem:
+The exact solution to this ODE is $MATH$, corresponding to the following Taylor expansion in $MATH$ for $MATH$:
+In this case, the truncation error is
+so $MATH$ converges to $MATH$ with a convergence rate $MATH$.
+Examples (continued)
+The sequence $MATH$ with $MATH$ was introduced above. This sequence converges with order 1 according to the convention for discretization methods.
+The sequence $MATH$ with $MATH$, which was also introduced above, converges with order q for every number q. It is said to converge exponentially using the convention for discretization methods. However, it only converges linearly (that is, with order 1) using the convention for iterative methods.
+Recurrent sequences and fixed points
+The case of recurrent sequences $MATH$ which occurs in dynamical systems and in the context of various fixed point theorems is of particular interest. Assuming that the relevant derivatives of f are continuous, one can (easily) show that for a fixed point $MATH$ such that $MATH$, one has at linear convergence for any starting value $MATH$ sufficiently close to p. If  $MATH$ and  $MATH$, then one has at least quadratic convergence, and so on. If $MATH$, then one has a repulsive fixed point and no starting value will produce a sequence converging to p (unless one directly jumps to the point p itself).
+Acceleration of convergence
+Many methods exist to increase the rate of convergence of a given sequence, 
+i.e. to transform a given sequence into one converging faster to the same limit.  Such techniques are in general known as "series acceleration". The goal of the transformed sequence is to reduce the computational cost of the calculation. One example of series acceleration is Aitken's delta-squared process.
+(It should be noted, though, that these methods in general (and in particular Aitken's method) do not increase the order of convergence, and are useful only if initially the convergence is not faster than linear: If $MATH$ convergences linearly, one gets a sequence $MATH$ that still converges linearly (except for pathologically designed special cases), but faster in the sense that $MATH$. On the other hand, if the convergence is already of order ≥ 2, Aitken's method will bring no improvement.)
+References
+Literature
+The simple definition is used in
+The extended definition is used in
+The Big O definition is used in
+The terms Q-linear and R-linear are used in; The Big O definition when using Taylor series is used in

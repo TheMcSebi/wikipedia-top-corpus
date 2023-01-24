@@ -1,0 +1,53 @@
+Root mean square
+In mathematics and its applications, the root mean square of a set of numbers $MATH$ (abbreviated as RMS, RMS or rms and denoted in formulas as either $MATH$ or $MATH$) is defined as the square root of the mean square (the arithmetic mean of the squares) of the set.
+The RMS is also known as the quadratic mean (denoted $MATH$) and is a particular case of the generalized mean. The RMS of a continuously varying function (denoted $MATH$) can be defined in terms of an integral of the squares of the instantaneous values during a cycle.
+For alternating electric current, RMS is equal to the value of the constant direct current that would produce the same power dissipation in a resistive load.
+In estimation theory, the root-mean-square deviation of an estimator is a measure of the imperfection of the fit of the estimator to the data.
+Definition
+The RMS value of a set of values (or a continuous-time waveform) is the square root of the arithmetic mean of the squares of the values, or the square of the function that defines the continuous waveform. In physics, the RMS current value can also be defined as the "value of the direct current that dissipates the same power in a resistor."
+In the case of a set of n values $MATH$, the RMS is
+The corresponding formula for a continuous function (or waveform) f(t) defined over the interval $MATH$ is
+and the RMS for a function over all time is
+The RMS over all time of a periodic function is equal to the RMS of one period of the function. The RMS value of a continuous function or signal can be approximated by taking the RMS of a sample consisting of equally spaced observations. Additionally, the RMS value of various waveforms can also be determined without calculus, as shown by Cartwright.
+In the case of the RMS statistic of a random process, the expected value is used instead of the mean.
+In common waveforms
+If the waveform is a pure sine wave, the relationships between amplitudes (peak-to-peak, peak) and RMS are fixed and known, as they are for any continuous periodic wave. However, this is not true for an arbitrary waveform, which may not be periodic or continuous. For a zero-mean sine wave, the relationship between RMS and peak-to-peak amplitude is:
+For other waveforms, the relationships are not the same as they are for sine waves. For example, for either a triangular or sawtooth wave
+In waveform combinations
+Waveforms made by summing known simple waveforms have an RMS value that is the root of the sum of squares of the component RMS values, if the component waveforms are orthogonal (that is, if the average of the product of one simple waveform with another is zero for all pairs other than a waveform times itself).
+Alternatively, for waveforms that are perfectly positively correlated, or "in phase" with each other, their RMS values sum directly.
+Uses
+Voltage
+A special case of RMS of waveform combinations is:
+where $MATH$ refers to the direct current (or average) component of the signal, and $MATH$ is the alternating current component of the signal.
+Average electrical power
+Electrical engineers often need to know the power, P, dissipated by an electrical resistance, R. It is easy to do the calculation when there is a constant current, I, through the resistance. For a load of R ohms, power is defined simply as:
+However, if the current is a time-varying function, I(t), this formula must be extended to reflect the fact that the current (and thus the instantaneous power) is varying over time. If the function is periodic (such as household AC power), it is still meaningful to discuss the average power dissipated over time, which is calculated by taking the average power dissipation:
+So, the RMS value, IRMS, of the function I(t) is the constant current that yields the same power dissipation as the time-averaged power dissipation of the current I(t).
+Average power can also be found using the same method that in the case of a time-varying voltage, V(t), with RMS value VRMS,
+This equation can be used for any periodic waveform, such as a sinusoidal or sawtooth waveform, allowing us to calculate the mean power delivered into a specified load.
+By taking the square root of both these equations and multiplying them together, the power is found to be:
+Both derivations depend on voltage and current being proportional (that is, the load, R, is purely resistive). Reactive loads (that is, loads capable of not just dissipating energy but also storing it) are discussed under the topic of AC power.
+In the common case of alternating current when I(t) is a sinusoidal current, as is approximately true for mains power, the RMS value is easy to calculate from the continuous case equation above. If Ip is defined to be the peak current, then:
+where t is time and ω is the angular frequency (ω = 2π/T, where T is the period of the wave).
+Since Ip is a positive constant:
+Using a trigonometric identity to eliminate squaring of trig function:
+but since the interval is a whole number of complete cycles (per definition of RMS), the sine terms will cancel out, leaving:
+A similar analysis leads to the analogous equation for sinusoidal voltage:
+where IP represents the peak current and VP represents the peak voltage.
+Because of their usefulness in carrying out power calculations, listed voltages for power outlets (for example, 120 V in the US, or 230 V in Europe) are almost always quoted in RMS values, and not peak values. Peak values can be calculated from RMS values from the above formula, which implies VP = VRMS × √2, assuming the source is a pure sine wave. Thus the peak value of the mains voltage in the USA is about 120 × √2, or about 170 volts. The peak-to-peak voltage, being double this, is about 340 volts. A similar calculation indicates that the peak mains voltage in Europe is about 325 volts, and the peak-to-peak mains voltage, about 650 volts.
+RMS quantities such as electric current are usually calculated over one cycle. However, for some purposes the RMS current over a longer period is required when calculating transmission power losses. The same principle applies, and (for example) a current of 10 amps used for 12 hours each 24-hour day represents an average current of 5 amps, but an RMS current of 7.07 amps, in the long term.
+The term RMS power is sometimes erroneously used in the audio industry as a synonym for mean power or average power (it is proportional to the square of the RMS voltage or RMS current in a resistive load). For a discussion of audio power measurements and their shortcomings, see Audio power.
+Speed
+In the physics of gas molecules, the root-mean-square speed is defined as the square root of the average squared-speed. The RMS speed of an ideal gas is calculated using the following equation:
+where R represents the gas constant, 8.314 J/(mol·K), T is the temperature of the gas in kelvins, and M is the molar mass of the gas in kilograms per mole. In physics, speed is defined as the scalar magnitude of velocity. For a stationary gas, the average speed of its molecules can be in the order of thousands of km/hr, even though the average velocity of its molecules is zero.
+Error
+When two data sets — one set from theoretical prediction and the other from actual measurement of some physical variable, for instance — are compared, the RMS of the pairwise differences of the two data sets can serve as a measure how far on average the error is from 0. The mean of the absolute values of the pairwise differences could be a useful measure of the variability of the differences. However, the RMS of the differences is usually the preferred measure, probably due to mathematical convention and compatibility with other formulae.
+In frequency domain
+The RMS can be computed in the frequency domain, using Parseval's theorem. For a sampled signal $MATH$, where $MATH$ is the sampling period,
+where $MATH$ and N is the sample size, that is, the number of observations in the sample and FFT coefficients.
+In this case, the RMS computed in the time domain is the same as in the frequency domain:
+Relationship to other statistics
+If $MATH$ is the arithmetic mean and $MATH$ is the standard deviation of a population or a waveform, then:
+From this it is clear that the RMS value is always greater than or equal to the average, in that the RMS includes the "error" / square deviation as well.
+Physical scientists often use the term root mean square as a synonym for standard deviation when it can be assumed the input signal has zero mean, that is, referring to the square root of the mean squared deviation of a signal from a given baseline or fit. This is useful for electrical engineers in calculating the "AC only" RMS of a signal. Standard deviation being the RMS of a signal's variation about the mean, rather than about 0, the DC component is removed (that is, RMS(signal) = stdev(signal) if the mean signal is 0).

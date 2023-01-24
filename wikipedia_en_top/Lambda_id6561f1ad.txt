@@ -1,0 +1,14 @@
+Lambda
+Lambda (/ˈlæmdə/; uppercase Λ, lowercase λ; Greek: λάμ(β)δα, lám(b)da) is the 11th letter of the Greek alphabet, representing the voiced alveolar lateral approximant IPA: [l]. In the system of Greek numerals, lambda has a value of 30. Lambda is derived from the Phoenician Lamed . Lambda gave rise to the Latin L and the Cyrillic El (Л). The ancient grammarians and dramatists give evidence to the pronunciation as [laːbdaː] (λάβδα) in Classical Greek times. In Modern Greek, the name of the letter, Λάμδα, is pronounced [ˈlam.ða].
+In early Greek alphabets, the shape and orientation of lambda varied. Most variants consisted of two straight strokes, one longer than the other, connected at their ends. The angle might be in the upper-left, lower-left ("Western" alphabets) or top ("Eastern" alphabets). Other variants had a vertical line with a horizontal or sloped stroke running to the right. With the general adoption of the Ionic alphabet, Greek settled on an angle at the top; the Romans put the angle at the lower-left.
+The HTML 4 character entity references for the Greek capital and small letter lambda are &#923; and &#955; respectively. The Unicode code points for lambda are U+039B and U+03BB.
+Symbol
+Upper-case letter Λ
+Examples of the symbolic use of uppercase lambda include:
+Lower-case letter λ
+Examples of the symbolic use of lowercase lambda include:
+Litra symbol
+The Roman libra and Byzantine lítra (λίτρα), which served as both the pound mass unit and liter volume unit, were abbreviated in Greek using lambda with modified forms of the iota subscript (as λͅ). These are variously encoded in Unicode. The Ancient Greek Numbers Unicode block includes 10183 GREEK LITRA SIGN (𐆃) as well as 𐅢, which is described as 10162 GREEK ACROPHONIC HERMIONIAN TEN but was much more common as a form of the litra sign. A variant of the sign can be formed from 0338 COMBINING LONG SOLIDUS OVERLAY and either 039B GREEK CAPITAL LETTER LAMDA (Λ̸) or 03BB GREEK SMALL LETTER LAMDA (λ̸).
+Character encodings
+Unicode uses the (Modern Greek-based) spelling "lamda" in character names, instead of "lambda", due to "the pre-existing names in ISO 8859-7, as well as preferences expressed by the Greek National Body".
+These characters are used only as mathematical symbols. Stylized Greek text should be encoded using the normal Greek letters, with markup and formatting to indicate text style.

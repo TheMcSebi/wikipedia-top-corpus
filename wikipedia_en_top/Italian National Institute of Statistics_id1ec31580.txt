@@ -1,0 +1,22 @@
+Italian National Institute of Statistics
+The Italian National Institute of Statistics (Italian: Istituto nazionale di statistica; Istat) is the main producer of official statistics in Italy. Its activities include the census of population, economic censuses and a number of social, economic and environmental surveys and analyses. Istat is by far the largest producer of statistical information in Italy, and is an active member of the European Statistical System, coordinated by Eurostat.
+History
+The Italian National Institute of Statistics (IT ISTAT) was founded in compliance with Law Decree no. 1162 of 9 July 1926 as the Central Institute of Statistics (IT Istituto Centrale di Statistica) in order to replace the General Statistics Division of the Ministry for Agriculture (now known as Ministero delle politiche agricole alimentari, forestali e del turismo). The direction of the institution, which was subordinated to the head of state, was given to Corrado Gini.
+The ISTAT institute, with a staff of about 170 workers, was supposed to update the figures of the censuses that were formerly carried out by the General Statistics Division (that were updated only to 1921), by publishing, as a result, the figures of the 6th general population census. After an acceleration of the duties of the institute in the early 30s, the national statistics operations were rather slowed down by the economical fines that had been caused by the Ethiopian offensive, that virtually stopped any further publications of the economical-financial figures.
+In 1937, the figures that had been already collected, yet, not shared during that period, were eventually published, although the activity of the institute ceased after only two years.
+After the outbreak of the Second World War, publications decreased due to the lack of personnel, that had mainly been called up for military service, that led to a consequent postponement of the 9th population census, that would indeed be held in 1951. Furthermore, due to the Cassibile Armistice in 1943, the venue of the institution was moved to the boundaries of the Republic of Salò.
+During the late 40s, the archives were retrieved and moved back to Rome, letting the institute restart completely its activities. With the post-war reconstruction, the ICS mainly focused on collecting new data concerning national development, that eventually allowed for the publication, in 1950, of the volume National Revenue Studies (Studi sul reddito nazionale).
+Law Decree no. 322 published on 6 September, 1989, gave life to the National Statistics System (IT Sistema statistico nazionale, Sistan) and changed the name of the institution to the National Institute of Statistics (IT Istituto nazionale di statistica), without changing its acronym, which remained ISTAT.
+The publications of the institute are released under creative commons "Attribution" (CC BY) license.
+Organization
+The administration of the institute consists of the following:
+Presidents
+Central Institute of Statistics (in Italian, Istituto Centrale di Statistica) (until 1989):
+National Institute of Statistics (in Italian, Istituto Nazionale di Statistica) (since 1989):
+Access points
+Information offices
+Istat has 18 regional offices, called Centri di informazione statistica (statistical information centers), which host public access points. The center in Rome also offers data from Eurostat.
+Library
+The library, established in 1926, is open to the public and contains Istat publications, national and international works on statistical and socioeconomics subjects, and journals from other national statistical institutes and international organizations (Food and Agriculture Organization, International Monetary Fund, OECD, United Nations, etc.). The library collection includes 400,000 volumes and receives about 2800 periodical journals. There are also 1500 volumes printed prior to 1900.
+Databases and Information system
+Istat provides databases and web interfaces for browsing and downloading of data produced by the institute. The access and downloading of data and information are free and made available on dati.istat.it, seriestoriche.istat.it, and other web interfaces.

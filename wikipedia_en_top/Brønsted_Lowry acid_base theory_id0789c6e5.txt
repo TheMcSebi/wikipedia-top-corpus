@@ -1,0 +1,36 @@
+Brønsted–Lowry acid–base theory
+The Brønsted–Lowry theory (also called proton theory of acids and bases) is an acid–base reaction theory which was proposed independently by Johannes Nicolaus Brønsted and Thomas Martin Lowry in 1923. The fundamental concept of this theory is that when an acid and a base react with each other, the acid forms its conjugate base, and the base forms its conjugate acid by exchange of a proton (the hydrogen cation, or H+). This theory is a generalization of the Arrhenius theory.
+Definitions of acids and bases
+In the Arrhenius theory, acids are defined as substances that dissociate in aqueous solution to give H+ (hydrogen ions), while bases are defined as substances that dissociate in aqueous solution to give OH− (hydroxide ions).
+In 1923 physical chemists Johannes Nicolaus Brønsted in Denmark and Thomas Martin Lowry in England both independently proposed the theory that carries their names. In the Brønsted–Lowry theory acids and bases are defined by the way they react with each other, which allows for greater generality. The definition is expressed in terms of an equilibrium expression
+With an acid, HA, the equation can be written symbolically as:
+The equilibrium sign, ⇌, is used because the reaction can occur in both forward and backward directions. The acid, HA, can lose a proton to become its conjugate base, A−. The base, B, can accept a proton to become its conjugate acid, HB+. Most acid–base reactions are fast, so the components of the reaction are usually in dynamic equilibrium with each other.
+Aqueous solutions
+Consider the following acid–base reaction:
+Acetic acid, CH3COOH, is an acid because it donates a proton to water (H2O) and becomes its conjugate base, the acetate ion (CH3COO−). H2O is a base because it accepts a proton from CH3COOH and becomes its conjugate acid, the hydronium ion, (H3O+).
+The reverse of an acid–base reaction is also an acid–base reaction, between the conjugate acid of the base in the first reaction and the conjugate base of the acid. In the above example, acetate is the base of the reverse reaction and hydronium ion is the acid.
+One hallmark of the Brønsted–Lowry theory in contrast to Arrhenius theory is that it does not require an acid to dissociate.
+Amphoteric substances
+The essence of Brønsted–Lowry theory is that an acid only exists as such in relation to a base, and vice versa. Water is amphoteric as it can act as an acid or as a base. In the image shown at the right one molecule of H2O acts as a base and gains H+ to become H3O+ while the other acts as an acid and loses H+ to become OH−.
+Another example is furnished by substances like aluminium hydroxide, Al(OH)3.
+Non-aqueous solutions
+The hydrogen ion, or hydronium ion, is a Brønsted–Lowry acid in aqueous solutions, and the hydroxide ion is a base, by virtue of the self-dissociation reaction
+An analogous reaction occurs in liquid ammonia
+Thus, the ammonium ion, NH+4, plays the same role in liquid ammonia as does the hydronium ion in water and the amide ion, NH−2, is analogous to the hydroxide ion. Ammonium salts behave as acids, and amides behave as bases.
+Some non-aqueous solvents can behave as bases, that is, proton acceptors, in relation to Brønsted–Lowry acids.
+where S stands for a solvent molecule. The most important such solvents are dimethylsulfoxide, DMSO, and acetonitrile, CH3CN, as these solvents have been widely used to measure the acid dissociation constants of organic molecules. Because DMSO is a stronger proton acceptor than H2O the acid becomes a stronger acid in this solvent than in water. Indeed, many molecules behave as acids in non-aqueous solution that do not do so in aqueous solution. An extreme case occurs with carbon acids, where a proton is extracted from a C−H bond.
+Some non-aqueous solvents can behave as acids. An acidic solvent will increase basicity of substances dissolved in it. For example, the compound CH3COOH is known as acetic acid because of its acidic behaviour in water. However it behaves as a base in liquid hydrogen chloride, a much more acidic solvent.
+Comparison with Lewis acid–base theory
+In the same year that Brønsted and Lowry published their theory, G. N. Lewis proposed an alternative theory of acid–base reactions. The Lewis theory is based on electronic structure. A Lewis base is defined as a compound that can donate an electron pair to a Lewis acid, a compound that can accept an electron pair. Lewis's proposal gives an explanation to the Brønsted–Lowry classification in terms of electronic structure.
+In this representation both the base, B, and the conjugate base, A−, are shown carrying a lone pair of electrons and the proton, which is a Lewis acid, is transferred between them.
+Lewis later wrote in "To restrict the group of acids to those substances that contain hydrogen interferes as seriously with the systematic understanding of chemistry as would the restriction of the term oxidizing agent to substances containing oxygen." In Lewis theory an acid, A, and a base, B, form an adduct, AB, in which the electron pair is used to form a dative covalent bond between A and B. This is illustrated with the formation of the adduct H3N−BF3 from ammonia and boron trifluoride, a reaction that cannot occur in aqueous solution because boron trifluoride reacts violently with water in a hydrolysis reaction.
+These reactions illustrate that BF3 is an acid in both Lewis and  Brønsted–Lowry classifications and emphasizes the consistency between both theories.
+Boric acid is recognized as a Lewis acid by virtue of the reaction
+In this case the acid does not dissociate; it is the base, H2O that dissociates. A solution of B(OH)3 is acidic because hydrogen ions are liberated in this reaction.
+There is strong evidence that dilute aqueous solutions of ammonia contain negligible amounts of the ammonium ion 
+and that, when dissolved in water, ammonia functions as a Lewis base.
+Comparison with the Lux–Flood theory
+The reactions between oxides in the solid or liquid state are not included in Brønsted–Lowry theory. For example, the reaction 
+does not fall within the scope of the Brønsted–Lowry definition of acids and bases. On the other hand, magnesium oxide acts as a base when it reacts with an aqueous solution of an acid.
+Dissolved SiO2 has been predicted to be a weak acid in the Brønsted–Lowry sense.
+According to the Lux–Flood theory, compounds such as MgO and SiO2 in the solid state may be classified as acids or bases. For example, the mineral olivine may be regarded as a compound of a basic oxide, MgO, with an acidic oxide, silica, SiO2. This classification is important in geochemistry.

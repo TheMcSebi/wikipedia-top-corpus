@@ -1,0 +1,11 @@
+Message
+A message is a discrete unit of communication intended by the source for consumption by some recipient or group of recipients.  A message may be delivered by various means, including courier, telegraphy, carrier pigeon and electronic bus.
+A message can be the content of a broadcast.  An interactive
+exchange of messages forms a conversation.
+One example of a message is a press release, which may vary from a brief report or statement released by a public agency to commercial publicity material.
+Roles in human communication
+In communication between humans, messages can be verbal or nonverbal:
+In computer science
+There are two main senses of the word "message" in computing:  messages between the human users of computer systems that are delivered by those computer systems, and messages passed between programs or between components of a single program, for their own purposes.
+Safety and privacy concerns
+Safety and privacy concerns have been expressed in the computer science industry regarding messages. There have been cases where instant messaging apps were found to present a risk of spyware infection. Text messaging is one of the larger causes of distracted driving, and the act of texting and driving has been made illegal in many states as a result.

@@ -1,0 +1,56 @@
+Mean squared error
+In statistics, the mean squared error (MSE) or mean squared deviation (MSD) of an estimator (of a procedure for estimating an unobserved quantity) measures the average of the squares of the errors—that is, the average squared difference between the estimated values and the actual value. MSE is a risk function, corresponding to the expected value of the squared error loss. The fact that MSE is almost always strictly positive (and not zero) is because of randomness or because the estimator does not account for information that could produce a more accurate estimate. In machine learning, specifically empirical risk minimization, MSE may refer to the empirical risk (the average loss on an observed data set), as an estimate of the true MSE (the true risk: the average loss on the actual population distribution).
+The MSE is a measure of the quality of an estimator.  As it is derived from the square of Euclidean distance, it is always a positive value that decreases as the error approaches zero.
+The MSE is the second moment (about the origin) of the error, and thus incorporates both the variance of the estimator (how widely spread the estimates are from one data sample to another) and its bias (how far off the average estimated value is from the true value). For an unbiased estimator, the MSE is the variance of the estimator. Like the variance, MSE has the same units of measurement as the square of the quantity being estimated. In an analogy to standard deviation, taking the square root of MSE yields the root-mean-square error or root-mean-square deviation (RMSE or RMSD), which has the same units as the quantity being estimated; for an unbiased estimator, the RMSE is the square root of the variance, known as the standard error.
+Definition and basic properties
+The MSE either assesses the quality of a predictor (i.e., a function mapping arbitrary inputs to a sample of values of some random variable), or of an estimator (i.e., a mathematical function mapping a sample of data to an estimate of a parameter of the population from which the data is sampled). The definition of an MSE differs according to whether one is describing a predictor or an estimator.
+Predictor
+If a vector of $MATH$ predictions is generated from a sample of $MATH$ data points on all variables, and $MATH$ is the vector of observed values of the variable being predicted, with $MATH$ being the predicted values (e.g. as from a least-squares fit), then the within-sample MSE of the predictor is computed as
+In other words, the MSE is the mean $MATH$ of the squares of the errors $MATH$. This is an easily computable quantity for a particular sample (and hence is sample-dependent).
+In matrix notation, 
+where $MATH$ is $MATH$ and $MATH$ is the $MATH$ column vector.
+The MSE can also be computed on q data points that were not used in estimating the model, either because they were held back for this purpose, or because these data have been newly obtained. Within this process, known as statistical learning, the MSE is often called the test MSE, and is computed as
+Estimator
+The MSE of an estimator $MATH$ with respect to an unknown parameter $MATH$ is defined as
+This definition depends on the unknown parameter, but the MSE is a priori a property of an estimator. The MSE could be a function of unknown parameters, in which case any estimator of the MSE based on estimates of these parameters would be a function of the data (and thus a random variable). If the estimator $MATH$ is derived as a sample statistic and is used to estimate some population parameter, then the expectation is with respect to the sampling distribution of the sample statistic. 
+The MSE can be written as the sum of the variance of the estimator and the squared bias of the estimator, providing a useful way to calculate the MSE and implying that in the case of unbiased estimators, the MSE and variance are equivalent.
+Proof of variance and bias relationship
+
+
+An even shorter proof can be achieved using the well-known formula that for a random variable $MATH$, $MATH$. By substituting $MATH$ with, $MATH$, we have
+But in real modeling case, MSE could be described as the addition of model variance, model bias, and irreducible uncertainty (see Bias–variance tradeoff). According to the relationship, the MSE of the estimators could be simply used for the efficiency comparison, which includes the information of estimator variance and bias. This is called MSE criterion.
+In regression
+In regression analysis, plotting is a more natural way to view the overall trend of the whole data. The mean of the distance from each point to the predicted regression model can be calculated, and shown as the mean squared error. The squaring is critical to reduce the complexity with negative signs. To minimize MSE, the model could be more accurate, which would mean the model is closer to actual data. One example of a linear regression using this method is the least squares method—which evaluates appropriateness of linear regression model to model bivariate dataset, but whose limitation is related to known distribution of the data.
+The term mean squared error is sometimes used to refer to the unbiased estimate of error variance: the residual sum of squares divided by the number of degrees of freedom. This definition for a known, computed quantity differs from the above definition for the computed MSE of a predictor, in that a different denominator is used. The denominator is the sample size reduced by the number of model parameters estimated from the same data, (n−p) for p regressors or (n−p−1) if an intercept is used (see errors and residuals in statistics for more details). Although the MSE (as defined in this article) is not an unbiased estimator of the error variance, it is consistent, given the consistency of the predictor.
+In regression analysis, "mean squared error", often referred to as mean squared prediction error or "out-of-sample mean squared error", can also refer to the mean value of the squared deviations of the predictions from the true values, over an out-of-sample test space, generated by a model estimated over a particular sample space. This also is a known, computed quantity, and it varies by sample and by out-of-sample test space.
+Examples
+Mean
+Suppose we have a random sample of size $MATH$ from a population, $MATH$. Suppose the sample units were chosen with replacement. That is, the $MATH$ units are selected one at a time, and previously selected units are still eligible for selection for all $MATH$ draws. The usual estimator for the $MATH$ is the sample average
+which has an expected value equal to the true mean $MATH$ (so it is unbiased) and a mean squared error of
+where $MATH$ is the population variance.
+For a Gaussian distribution, this is the best unbiased estimator (i.e., one with the lowest MSE among all unbiased estimators), but not, say, for a uniform distribution.
+Variance
+The usual estimator for the variance is the corrected sample variance:
+This is unbiased (its expected value is $MATH$), hence also called the unbiased sample variance, and its MSE is
+where $MATH$ is the fourth central moment of the distribution or population, and $MATH$ is the excess kurtosis.
+However, one can use other estimators for $MATH$ which are proportional to $MATH$, and an appropriate choice can always give a lower mean squared error. If we define
+then we calculate:
+This is minimized when
+For a Gaussian distribution, where $MATH$, this means that the MSE is minimized when dividing the sum by $MATH$. The minimum excess kurtosis is $MATH$, which is achieved by a Bernoulli distribution with p = 1/2 (a coin flip), and the MSE is minimized for $MATH$ Hence regardless of the kurtosis, we get a "better" estimate (in the sense of having a lower MSE) by scaling down the unbiased estimator a little bit; this is a simple example of a shrinkage estimator: one "shrinks" the estimator towards zero (scales down the unbiased estimator).
+Further, while the corrected sample variance is the best unbiased estimator (minimum mean squared error among unbiased estimators) of variance for Gaussian distributions, if the distribution is not Gaussian, then even among unbiased estimators, the best unbiased estimator of the variance may not be $MATH$
+Gaussian distribution
+The following table gives several estimators of the true parameters of the population, μ and σ2, for the Gaussian case.
+Interpretation
+An MSE of zero, meaning that the estimator $MATH$ predicts observations of the parameter $MATH$ with perfect accuracy, is ideal (but typically not possible).
+Values of MSE may be used for comparative purposes. Two or more statistical models may be compared using their MSEs—as a measure of how well they explain a given set of observations: An unbiased estimator (estimated from a statistical model) with the smallest variance among all unbiased estimators is the best unbiased estimator or MVUE (Minimum-Variance Unbiased Estimator).
+Both analysis of variance and linear regression techniques estimate the MSE as part of the analysis and use the estimated MSE to determine the statistical significance of the factors or predictors under study. The goal of experimental design is to construct experiments in such a way that when the observations are analyzed, the MSE is close to zero relative to the magnitude of at least one of the estimated treatment effects.
+In one-way analysis of variance, MSE can be calculated by the division of the sum of squared errors and the degree of freedom. Also, the f-value is the ratio of the mean squared treatment and the MSE.
+MSE is also used in several stepwise regression techniques as part of the determination as to how many predictors from a candidate set to include in a model for a given set of observations.
+Applications
+Loss function
+Squared error loss is one of the most widely used loss functions in statistics, though its widespread use stems more from mathematical convenience than considerations of actual loss in applications. Carl Friedrich Gauss, who introduced the use of mean squared error, was aware of its arbitrariness and was in agreement with objections to it on these grounds. The mathematical benefits of mean squared error are particularly evident in its use at analyzing the performance of linear regression, as it allows one to partition the variation in a dataset into variation explained by the model and variation explained by randomness.
+Criticism
+The use of mean squared error without question has been criticized by the decision theorist James Berger. Mean squared error is the negative of the expected value of one specific utility function, the quadratic utility function, which may not be the appropriate utility function to use under a given set of circumstances. There are, however, some scenarios where mean squared error can serve as a good approximation to a loss function occurring naturally in an application.
+Like variance, mean squared error has the disadvantage of heavily weighting outliers. This is a result of the squaring of each term, which effectively weights large errors more heavily than small ones. This property, undesirable in many applications, has led researchers to use alternatives such as the mean absolute error, or those based on the median.
+See also
+Notes

@@ -1,0 +1,149 @@
+Weighted arithmetic mean
+The weighted arithmetic mean is similar to an ordinary arithmetic mean (the most common type of average), except that instead of each of the data points contributing equally to the final average, some data points contribute more than others. The notion of weighted mean plays a role in descriptive statistics and also occurs in a more general form in several other areas of mathematics.
+If all the weights are equal, then the weighted mean is the same as the arithmetic mean.  While weighted means generally behave in a similar fashion to arithmetic means, they do have a few counterintuitive properties, as captured for instance in Simpson's paradox.
+Examples
+Basic example
+Given two school classes — one with 20 students, one with 30 students — and test grades in each class as follows:
+The mean for the morning class is 80 and the mean of the afternoon class is 90. The unweighted mean of the two means is 85. However, this does not account for the difference in number of students in each class (20 versus 30); hence the value of 85 does not reflect the average student grade (independent of class). The average student grade can be obtained by averaging all the grades, without regard to classes (add all the grades up and divide by the total number of students):
+Or, this can be accomplished by weighting the class means by the number of students in each class. The larger class is given more "weight":
+Thus, the weighted mean makes it possible to find the mean average student grade without knowing each student's score. Only the class means and the number of students in each class are needed.
+Convex combination example
+Since only the relative weights are relevant, any weighted mean can be expressed using coefficients that sum to one. Such a linear combination is called a convex combination.
+Using the previous example, we would get the following weights:
+Then, apply the weights like this: 
+Mathematical definition
+Formally, the weighted mean of a non-empty finite tuple of data $MATH$,
+with corresponding non-negative weights $MATH$ is
+which expands to:
+Therefore, data elements with a high weight contribute more to the weighted mean than do elements with a low weight. The weights cannot be negative. Some may be zero, but not all of them (since division by zero is not allowed).
+The formulas are simplified when the weights are normalized such that they sum up to 1, i.e., $MATH$. 
+For such normalized weights, the weighted mean is equivalently:
+Note that one can always normalize the weights by making the following transformation on the original weights:
+The ordinary mean $MATH$ is a special case of the weighted mean where all data have equal weights.
+If the data elements are independent and identically distributed random variables with variance $MATH$, the standard error of the weighted mean, $MATH$, can be shown via uncertainty propagation to be:
+Variance-defined weights
+For the weighted mean of a list of data for which each element $MATH$ potentially comes from a different probability distribution with known variance $MATH$, all having the same mean, one possible choice for the weights is given by the reciprocal of variance:
+The weighted mean in this case is:
+and the standard error of the weighted mean (with inverse-variance weights) is:
+Note this reduces to $MATH$ when all $MATH$.
+It is a special case of the general formula in previous section,
+The equations above can be combined to obtain:
+The significance of this choice is that this weighted mean is the maximum likelihood estimator of the mean of the probability distributions under the assumption that they are independent and normally distributed with the same mean.
+Statistical properties
+Expectancy
+The weighted sample mean, $MATH$, is itself a random variable. Its expected value and standard deviation are related to the expected values and standard deviations of the observations, as follows. For simplicity, we assume normalized weights (weights summing to one).
+If the observations have expected values 
+then the weighted sample mean has expectation
+In particular, if the means are equal, $MATH$, then the expectation of the weighted sample mean will be that value,
+Simple i.i.d. case
+When treating the weights as constants, and having a sample of n observations from uncorrelated random variables, all with the same variance and expectation (as is the case for i.i.d random variables), then the variance of the weighted mean can be estimated as the multiplication of the variance by Kish's design effect (see proof):
+With $MATH$, $MATH$, and $MATH$
+However, this estimation is rather limited due to the strong assumption about the y observations. This has led to the development of alternative, more general, estimators.
+Survey sampling perspective
+From a model based perspective, we are interested in estimating the variance of the weighted mean when the different $MATH$ are not i.i.d random variables. An alternative perspective for this problem is that of some arbitrary sampling design of the data in which units are selected with unequal probabilities (with replacement).: 306 
+In Survey methodology, the population mean, of some quantity of interest y, is calculated by taking an estimation of the total of y over all elements in the population (Y or sometimes T) and dividing it by the population size – either known ($MATH$) or estimated ($MATH$). In this context, each value of y is considered constant, and the variability comes from the selection procedure. This in contrast to "model based" approaches in which the randomness is often described in the y values. The survey sampling procedure yields a series of Bernoulli indicator values ($MATH$) that get 1 if some observation i is in the sample and 0 if it was not selected. This can occur with fixed sample size, or varied sample size sampling (e.g.: Poisson sampling). The probability of some element to be chosen, given a sample, is denoted as $MATH$, and the one-draw probability of selection is $MATH$ (If N is very large and each $MATH$ is very small). For the following derivation we'll assume that the probability of selecting each element is fully represented by these probabilities.: 42, 43, 51  I.e.: selecting some element will not influence the probability of drawing another element (this doesn't apply for things such as cluster sampling design).
+Since each element ($MATH$) is fixed, and the randomness comes from it being included in the sample or not ($MATH$), we often talk about the multiplication of the two, which is a random variable. To avoid confusion in the following section, let's call this term: $MATH$. With the following expectancy: $MATH$; and variance: $MATH$.
+When each element of the sample is inflated by the inverse of its selection probability, it is termed the $MATH$-expanded y values, i.e.: $MATH$. A related quantity is $MATH$-expanded y values: $MATH$.: 42, 43, 51, 52  As above, we can add a tick mark if multiplying by the indicator function. I.e.: $MATH$
+In this design based perspective, the weights, used in the numerator of the weighted mean, are obtained from taking the inverse of the selection probability (i.e.: the inflation factor). I.e.: $MATH$.
+Variance of the weighted sum (pwr-estimator for totals)
+If the population size N is known we can estimate the population mean using $MATH$.
+If the sampling design is one that results in a fixed sample size n (such as in pps sampling), then the variance of this estimator is:
+The general formula can be developed like this:
+The population total is denoted as $MATH$ and it may be estimated by the (unbiased) Horvitz–Thompson estimator, also called the $MATH$-estimator. This estimator can be itself estimated using the pwr-estimator (i.e.: $MATH$-expanded with replacement estimator, or "probability with replacement" estimator). With the above notation, it is: $MATH$.: 51 
+The estimated variance of the pwr-estimator is given by:: 52 
+where $MATH$.
+The above formula was taken from Sarndal et al. (1992) (also presented in Cochran 1977), but was written differently.: 52 : 307 (11.35)  The left side is how the variance was written and the right side is how we've developed the weighted version:
+And we got to the formula from above.
+An alternative term, for when the sampling has a random sample size (as in Poisson sampling), is presented in Sarndal et al. (1992) as:: 182 
+With $MATH$. Also, $MATH$ where $MATH$ is the probability of selecting both i and j.: 36  And $MATH$, and for i=j: $MATH$.: 43 
+If the selection probability are uncorrelated (i.e.: $MATH$), and when assuming the probability of each element is very small, then:
+We assume that $MATH$ and that 
+Variance of the weighted mean (π-estimator for ratio-mean)
+The previous section dealt with estimating the population mean as a ratio of an estimated population total ($MATH$) with a known population size ($MATH$), and the variance was estimated in that context. Another common case is that the population size itself ($MATH$) is unknown and is estimated using the sample (i.e.: $MATH$). The estimation of $MATH$ can be described as the sum of weights. So when $MATH$ we get $MATH$. When using notation from previous sections, the ratio we care about is the sum of $MATH$s, and 1s. I.e.: $MATH$. We can estimate it using our sample with: $MATH$. As we moved from using N to using n, we actually know that all the indicator variables get 1, so we could simply write: $MATH$. This will be the estimand for specific values of y and w, but the statistical properties comes when including the indicator variable $MATH$.: 162, 163, 176 
+This is called Ratio estimator and it is approximately unbiased for R.: 182 
+In this case, the variability of the ratio depends on the variability of the random variables both in the numerator and the denominator - as well as their correlation. Since there is no closed analytical form to compute this variance, various methods are used for approximate estimation. Primarily Taylor series first-order linearization, asymptotics, and bootstrap/jackknife.: 172  The Taylor linearization method could lead to under-estimation of the variance for small sample sizes in general, but that depends on the complexity of the statistic. For the weighted mean, the approximate variance is supposed to be relatively accurate even for medium sample sizes.: 176  For when the sampling has a random sample size (as in Poisson sampling), it is as follows:: 182 
+We note that if $MATH$, then either using $MATH$ or $MATH$ would give the same estimator, since multiplying $MATH$ by some factor would lead to the same estimator. It also means that if we scale the sum of weights to be equal to a known-from-before population size N, the variance calculation would look the same. When all weights are equal to one another, this formula is reduced to the standard unbiased variance estimator.
+The Taylor linearization states that for a general ratio estimator of two sums ($MATH$), they can be expanded around the true value R, and give:: 178 
+And the variance can be approximated by:: 178, 179 
+The term $MATH$ is the estimated covariance between the estimated sum of Y and estimated sum of Z. Since this is the covariance of two sums of random variables, it would include many combinations of covariances that will depend on the indicator variables. If the selection probability are uncorrelated (i.e.: $MATH$), this term would still include a summation of n covariances for each element i between $MATH$ and $MATH$. This helps illustrate that this formula incorporates the effect of correlation between y and z on the variance of the ratio estimators.
+When defining $MATH$ the above becomes:: 182 
+If the selection probability are uncorrelated (i.e.: $MATH$), and when assuming the probability of each element is very small (i.e.: $MATH$), then the above reduced to the following:
+A similar re-creation of the proof (up to some mistakes at the end) was provided by Thomas Lumley in crossvalidated.
+We have (at least) two versions of variance for the weighted mean: one with known and one with unknown population size estimation. There is no uniformly better approach, but the literature presents several arguments to prefer using the population estimation version (even when the population size is known).: 188  For example: if all y values are constant, the estimator with unknown population size will give the correct result, while the one with known population size will have some variability. Also, when the sample size itself is random (e.g.: in Poisson sampling), the version with unknown population mean is considered more stable. Lastly, if the proportion of sampling is negatively correlated with the values (i.e.: smaller chance to sample an observation that is large), then the un-known population size version slightly compensates for that.
+Bootstrapping validation
+It has been shown, by Gatz et al. (1995), that in comparison to bootstrapping methods, the following (variance estimation of ratio-mean using Taylor series linearization) is a reasonable estimation for the square of the standard error of the mean (when used in the context of measuring chemical constituents):: 1186 
+where $MATH$. Further simplification leads to
+Gatz et al. mention that the above formulation was published by Endlich et al. (1988) when treating the weighted mean as a combination of a weighted total estimator divided by an estimator of the population size, based on the formulation published by Cochran (1977), as an approximation to the ratio mean. However, Endlich et al. didn't seem to publish this derivation in their paper (even though they mention they used it), and Cochran's book includes a slightly different formulation.: 155  Still, it's almost identical to the formulations described in previous sections.
+Replication-based estimators
+Because there is no closed analytical form for the variance of the weighted mean, it was proposed in the literature to rely on replication methods such as the Jackknife and Bootstrapping.: 321 
+Other notes
+For uncorrelated observations with variances $MATH$, the variance of the weighted sample mean is
+whose square root $MATH$ can be called the standard error of the weighted mean (general case).
+Consequently, if all the observations have equal variance, $MATH$, the weighted sample mean will have variance
+where $MATH$. The variance attains its maximum value, $MATH$, when all weights except one are zero. Its minimum value is found when all weights are equal (i.e., unweighted mean), in which case we have $MATH$, i.e., it degenerates into the standard error of the mean, squared.
+Note that because one can always transform non-normalized weights to normalized weights all formula in this section can be adapted to non-normalized weights by replacing all $MATH$.
+Related concepts
+Weighted sample variance
+Typically when a mean is calculated it is important to know the variance and standard deviation about that mean. When a weighted mean $MATH$ is used, the variance of the weighted sample is different from the variance of the unweighted sample.
+The biased weighted sample variance $MATH$ is defined similarly to the normal biased sample variance $MATH$:
+where $MATH$ for normalized weights. If the weights are frequency weights (and thus are random variables), it can be shown  that $MATH$ is the maximum likelihood estimator of $MATH$ for iid Gaussian observations.
+For small samples, it is customary to use an unbiased estimator for the population variance. In normal unweighted samples, the N in the denominator (corresponding to the sample size) is changed to N − 1 (see Bessel's correction). In the weighted setting, there are actually two different unbiased estimators, one for the case of frequency weights and another for the case of reliability weights.
+Frequency weights
+If the weights are frequency weights (where a weight equals the number of occurrences), then the unbiased estimator is:
+This effectively applies Bessel's correction for frequency weights.
+For example, if values $MATH$ are drawn from the same distribution, then we can treat this set as an unweighted sample, or we can treat it as the weighted sample $MATH$ with corresponding weights $MATH$, and we get the same result either way.
+If the frequency weights $MATH$ are normalized to 1, then the correct expression after Bessel's correction becomes
+where the total number of samples is $MATH$ (not $MATH$). In any case, the information on total number of samples is necessary in order to obtain an unbiased correction, even if $MATH$ has a different meaning other than frequency weight.
+Note that the estimator can be unbiased only if the weights are not standardized nor normalized, these processes changing the data's mean and variance and thus leading to a loss of the base rate (the population count, which is a requirement for Bessel's correction).
+Reliability weights
+If the weights are instead non-random (reliability weights), we can determine a correction factor to yield an unbiased estimator. Assuming each random variable is sampled from the same distribution with mean $MATH$ and actual variance $MATH$, taking expectations we have,
+where $MATH$ and $MATH$. Therefore, the bias in our estimator is $MATH$, analogous to the $MATH$ bias in the unweighted estimator (also notice that $MATH$ is the effective sample size). This means that to unbias our estimator we need to pre-divide by $MATH$, ensuring that the expected value of the estimated variance equals the actual variance of the sampling distribution.
+The final unbiased estimate of sample variance is:
+where $MATH$.
+The degrees of freedom of the weighted, unbiased sample variance vary accordingly from N − 1 down to 0.
+The standard deviation is simply the square root of the variance above.
+As a side note, other approaches have been described to compute the weighted sample variance.
+Weighted sample covariance
+In a weighted sample, each row vector $MATH$ (each set of single observations on each of the K random variables) is assigned a weight $MATH$.
+Then the weighted mean vector $MATH$ is given by
+And the weighted covariance matrix is given by:
+Similarly to weighted sample variance, there are two different unbiased estimators depending on the type of the weights.
+Frequency weights
+If the weights are frequency weights, the unbiased weighted estimate of the covariance matrix $MATH$, with Bessel's correction, is given by:
+Note that this estimator can be unbiased only if the weights are not standardized nor normalized, these processes changing the data's mean and variance and thus leading to a loss of the base rate (the population count, which is a requirement for Bessel's correction).
+Reliability weights
+In the case of reliability weights, the weights are normalized:
+(If they are not, divide the weights by their sum to normalize prior to calculating $MATH$:
+Then the weighted mean vector $MATH$ can be simplified to
+and the unbiased weighted estimate of the covariance matrix $MATH$ is:
+The reasoning here is the same as in the previous section.
+Since we are assuming the weights are normalized, then $MATH$ and this reduces to:
+If all weights are the same, i.e. $MATH$, then the weighted mean and covariance reduce to the unweighted sample mean and covariance above.
+Vector-valued estimates
+The above generalizes easily to the case of taking the mean of vector-valued estimates. For example, estimates of position on a plane may have less certainty in one direction than another. As in the scalar case, the weighted mean of multiple estimates can provide a maximum likelihood estimate. We simply replace the variance $MATH$ by the covariance matrix $MATH$ and the arithmetic inverse by the matrix inverse (both denoted in the same way, via superscripts); the weight matrix then reads:
+The weighted mean in this case is:
+(where the order of the matrix–vector product is not commutative), in terms of the covariance of the weighted mean:
+For example, consider the weighted mean of the point [1 0] with high variance in the second component and [0 1] with high variance in the first component. Then
+then the weighted mean is:
+which makes sense: the [1 0] estimate is "compliant" in the second component and the [0 1] estimate is compliant in the first component, so the weighted mean is nearly [1 1].
+Accounting for correlations
+In the general case, suppose that $MATH$, $MATH$ is the covariance matrix relating the quantities $MATH$, $MATH$ is the common mean to be estimated, and $MATH$ is a design matrix equal to a vector of ones $MATH$ (of length $MATH$). The Gauss–Markov theorem states that the estimate of the mean having minimum variance is given by:
+and
+where:
+Decreasing strength of interactions
+Consider the time series of an independent variable $MATH$ and a dependent variable $MATH$, with $MATH$ observations sampled at discrete times $MATH$. In many common situations, the value of $MATH$ at time $MATH$ depends not only on $MATH$ but also on its past values. Commonly, the strength of this dependence decreases as the separation of observations in time increases. To model this situation, one may replace the independent variable by its sliding mean $MATH$ for a window size $MATH$.
+Exponentially decreasing weights
+In the scenario described in the previous section, most frequently the decrease in interaction strength obeys a negative exponential law. If the observations are sampled at equidistant times, then exponential decrease is equivalent to decrease by a constant fraction $MATH$ at each time step. Setting $MATH$ we can define $MATH$ normalized weights by
+where $MATH$ is the sum of the unnormalized weights. In this case $MATH$ is simply
+approaching $MATH$ for large values of $MATH$.
+The damping constant $MATH$ must correspond to the actual decrease of interaction strength. If this cannot be determined from theoretical considerations, then the following properties of exponentially decreasing weights are useful in making a suitable choice: at step $MATH$, the weight approximately equals $MATH$, the tail area the value $MATH$, the head area $MATH$. The tail area at step $MATH$ is $MATH$. Where primarily the closest $MATH$ observations matter and the effect of the remaining observations can be ignored safely, then choose $MATH$ such that the tail area is sufficiently small.
+Weighted averages of functions
+The concept of weighted average can be extended to functions. Weighted averages of functions play an important role in the systems of weighted differential and integral calculus.
+Correcting for over- or under-dispersion
+Weighted means are typically used to find the weighted mean of historical data, rather than theoretically generated data. In this case, there will be some error in the variance of each data point. Typically experimental errors may be underestimated due to the experimenter not taking into account all sources of error in calculating the variance of each data point. In this event, the variance in the weighted mean must be corrected to account for the fact that $MATH$ is too large. The correction that must be made is
+where $MATH$ is the reduced chi-squared:
+The square root $MATH$ can be called the standard error of the weighted mean (variance weights, scale corrected).
+When all data variances are equal, $MATH$, they cancel out in the weighted mean variance, $MATH$, which again reduces to the standard error of the mean (squared), $MATH$, formulated in terms of the sample standard deviation (squared),
+See also
+References
+Further reading

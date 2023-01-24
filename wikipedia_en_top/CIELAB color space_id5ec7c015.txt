@@ -1,0 +1,67 @@
+CIELAB color space
+The CIELAB color space, also referred to as L*a*b*, is a color space defined by the International Commission on Illumination (abbreviated CIE) in 1976. (Referring to CIELAB as "Lab" without asterisks should be avoided to prevent confusion with Hunter Lab). It expresses color as three values: L* for perceptual lightness and a* and b* for the four unique colors of human vision: red, green, blue and yellow.  CIELAB was intended as a perceptually uniform space, where a given numerical change corresponds to a similar perceived change in color. While the LAB space is not truly perceptually uniform, it nevertheless is useful in industry for detecting small differences in color.
+Like the CIEXYZ space it derives from, CIELAB color space is a device-independent, "standard observer" model. The colors it defines are not relative to any particular device such as a computer monitor or a printer, but instead relate to the CIE standard observer which is an averaging of the results of color matching experiments under laboratory conditions.
+The CIELAB space is three-dimensional and covers the entire gamut (range) of human color perception. It is based on the opponent color model of human vision, where red and green form an opponent pair and blue and yellow form an opponent pair. The lightness value, L*, also referred to as "Lstar," defines black at 0 and white at 100. The a* axis is relative to the green–red opponent colors, with negative values toward green and positive values toward red.  The b* axis represents the blue–yellow opponents, with negative numbers toward blue and positive toward yellow.
+The a* and b* axes are unbounded and depending on the reference white they can easily exceed ±150 to cover the human gamut. Nevertheless, software implementations often clamp these values for practical reasons. For instance, if integer math is being used it is common to clamp a* and b* in the range of −128 to 127.
+CIELAB is calculated relative to a reference white, for which the CIE recommends the use of CIE Standard illuminant D65. D65 is used in the vast majority industries and applications, with the notable exception being the printing industry which uses D50. The International Color Consortium largely supports the printing industry and uses D50 with either CIEXYZ or CIELAB in the Profile Connection Space, for v2 and v4 ICC profiles.
+While the intention behind CIELAB was to create a space that was more perceptually uniform than CIEXYZ using only a simple formula, CIELAB is known to lack perceptual uniformity, particularly in the area of blue hues.
+The lightness value, L* in CIELAB is calculated using the cube root of the relative luminance with an offset near black. This results in an effective power curve with an exponent of approximately 0.43 which represents the human eye's response to light under daylight (photopic) conditions.
+Advantages
+Unlike the RGB and CMYK color models, CIELAB is designed to approximate human vision. The L*  component closely matches human perception of lightness, though it does not take the Helmholtz–Kohlrausch effect into account. CIELAB is less uniform in the color axes, but is useful for predicting small differences in color.
+The CIELAB coordinate space represents the entire gamut of human photopic (daylight) vision and far exceeds the gamut for sRGB or CMYK. In an integer implementation such as TIFF, ICC or Photoshop, the large coordinate space results in substantial data inefficiency due to unused code values. Only about 35% of the available coordinate code values are inside the CIELAB gamut with an integer format.
+Using CIELAB in an 8-bit per channel integer format typically results in significant quantization errors. Even 16-bit per channel can result in clipping, as the full gamut extends past the bounding coordinate space. Ideally, CIELAB should be used with floating-point data to minimize obvious quantization errors.
+CIE standards and documents are copyright by the CIE and must be purchased; however, the formulas for CIELAB are available on the CIE website.
+CIELAB coordinates
+The three coordinates of CIELAB represent the lightness of the color (L* = 0 yields black and L* = 100 indicates diffuse white; specular white may be higher), its position between red and green (a*, where negative values indicate green and positive values indicate red) and its position between yellow and blue (b*, where negative values indicate blue and positive values indicate yellow). The asterisks (*) after L*, a*, and b* are pronounced star and are part of the full name to distinguish L*a*b* from Hunter's Lab, described below.
+Since the L*a*b* model has three axes, it requires a three-dimensional space to be represented completely. Also, because each axis is non-linear, it is not possible to create a two-dimensional chromaticity diagram. Also, it is important to understand that the visual representations shown in the plots of the full CIELAB gamut on this page are an approximation, as it is impossible for a monitor to display the full gamut of LAB colors.
+The red-green and yellow-blue opponent channels relate to the human vision system's opponent color process. This makes CIELAB a  Hering opponent color space. The nature of the transformations also characterizes it as an chromatic value color space.
+A related color space, the CIE 1976 L*u*v* color space (a.k.a. CIELUV), preserves the same L* as L*a*b* but has a different representation of the chromaticity components. CIELAB and CIELUV can also be expressed in cylindrical form (CIELChab and CIELChuv, respectively), with the chromaticity components replaced by correlates of chroma and hue.
+Since the work on CIELAB and CIELUV, the CIE has been incorporating an increasing number of color appearance phenomena into their models and difference equations to better predict human color perception. These color appearance models, of which CIELAB is a simple example, culminated with CIECAM02.
+Perceptual differences
+The nonlinear relations for L*, a* and b* are intended to mimic the nonlinear response of the visual system. Furthermore, uniform changes of components in the L*a*b* color space aim to correspond to uniform changes in perceived color, so the relative perceptual differences between any two colors in L*a*b* can be approximated by treating each color as a point in a three-dimensional space (with three components: L*, a*, b*) and taking the Euclidean distance between them.
+RGB and CMYK conversions
+In order to convert RGB or CMYK values to or from L*a*b*, the RGB or CMYK data must be linearized relative to light. The reference illuminant of the RGB or CMYK data must be known, as well as the RGB primary coordinates or the CMYK printer's reference data in the form of a color lookup table (CLUT).
+In color managed systems, ICC profiles contain these needed data, which are then used to perform the conversions.
+Range of coordinates
+As mentioned previously, the L* coordinate nominally ranges from 0 to 100.  The range of a* and b* coordinates is technically unbounded, though it is commonly clamped to the range of −128 to 127 for use with integer code values, though this results in potentially clipping some colors depending on the size of the source colorspace. The gamut's large size and inefficient utilization of the coordinate space means the best practice is to use floating-point values for all three coordinates.
+Converting between CIELAB and CIEXYZ coordinates
+From CIEXYZ to CIELAB
+where, being t = X/Xn, Y/Yn, or Z/Zn: 
+X, Y, Z describe the color stimulus considered and Xn, Yn, Zn describe a specified white achromatic reference illuminant. for the CIE 1931 (2°) standard colorimetric observer and assuming normalization where   reference white = Y = 100, the values are:
+For Standard Illuminant D65:
+For illuminant D50, which is used in the printing industry: 
+The division of the domain of the f function into two parts was done to prevent an infinite slope at t = 0. The function f was assumed to be linear below some t = t0 and was assumed to match the 3√t part of the function at t0 in both value and slope. In other words:
+The intercept f(0) = c was chosen so that L* would be 0 for Y = 0: c = 16/116 = 4/29. The above two equations can be solved for m and t0:
+where δ = 6/29.
+From CIELAB to CIEXYZ
+The reverse transformation is most easily expressed using the inverse of the function f above:
+where
+and where δ = 6/29.
+CIEHLC cylindrical model
+The "CIELCh" or "CIEHLC" space is a color space based on CIELAB, which uses the polar coordinates C* (chroma, relative saturation) and h° (hue angle, angle of the hue in the CIELAB color wheel) instead of the Cartesian coordinates a* and b*. The CIELAB lightness L* remains unchanged.
+The conversion of a* and b* to C* and h° is performed as follows:
+Conversely, given the polar coordinates, conversion to Cartesian coordinates is achieved with:
+The LCh (or HLC) color space is not the same as the HSV, HSL or HSB color models, although their values can also be interpreted as a base color, saturation and lightness of a color. The HSL values are a polar coordinate transformation of what is technically defined RGB cube color space. LCh is still perceptually uniform.
+Further, H and h are not identical, because HSL space uses as primary colors the three additive primary colors red, green and blue (H = 0, 120, 240°). Instead, the LCh system uses the four colors red, yellow, green and blue (h = 0, 90, 180, 270°).  Regardless the angle h, C = 0 means the achromatic colors (non saturated), that is, the gray axis.
+The simplified spellings LCh, LCh(ab), LCH, LCH(ab) and HLC are common, but the letter presents a different order. HCL color space (Hue-Chroma-Luminance) on the other hand is a commonly used alternative name for the L*C*h(uv) color space, also known as the cylindrical representation or polar CIELUV. This name is commonly used by information visualization practitioners who want to present data without the bias implicit in using varying saturation. The name Lch(ab) is sometimes used to differentiate from L*C*h(uv).
+Where CIELAB is used
+Some systems and software applications that support CIELAB include:
+Hunter Lab
+The Hunter Lab color space, defined in 1948 by Richard S. Hunter, is another color space referred to as "Lab".  Like CIELAB, it was also designed to be computed via simple formulas from the CIEXYZ space, but to be more perceptually uniform than CIEXYZ.  Hunter named his coordinates L, a and b. The CIE named the coordinates for CIELAB as L*, a*, b*  to distinguish them from Hunter's coordinates.
+Hunter Lab Math
+L is a correlate of lightness and is computed from the Y tristimulus value using Priest's approximation to Munsell value:
+where Yn is the Y tristimulus value of a specified white object. For surface-color applications, the specified white object is usually (though not always) a hypothetical material with unit reflectance that follows Lambert's law. The resulting L will be scaled between 0 (black) and 100 (white); roughly ten times the Munsell value. Note that a medium lightness of 50 is produced by a luminance of 25, due to the square root proportionality.
+a and b are termed opponent color axes. a represents, roughly, Redness (positive) versus Greenness (negative). It is computed as:
+where Ka is a coefficient that depends upon the illuminant (for D65, Ka is 172.30; see approximate formula below) and Xn is the X tristimulus value of the specified white object.
+The other opponent color axis, b, is positive for yellow colors and negative for blue colors. It is computed as:
+where Kb is a coefficient that depends upon the illuminant (for D65, Kb is 67.20; see approximate formula below) and Zn is the Z tristimulus value of the specified white object.
+Both a and b will be zero for objects that have the same chromaticity coordinates as the specified white objects (i.e., achromatic, grey, objects).
+Approximate formulas for Ka and Kb
+In the previous version of the Hunter Lab color space, Ka was 175 and Kb was 70. Hunter Associates Lab discovered that better agreement could be obtained with other color difference metrics, such as CIELAB (see above) by allowing these coefficients to depend upon the illuminants. Approximate formulae are:
+which result in the original values for Illuminant C, the original illuminant with which the Lab color space was used.
+As an Adams chromatic valence space
+Adams chromatic valence color spaces are based on two elements: a (relatively) uniform lightness scale and a (relatively) uniform chromaticity scale. If we take as the uniform lightness scale Priest's approximation to the Munsell Value scale, which would be written in modern notation as: 
+and, as the uniform chromaticity coordinates:
+where ke is a tuning coefficient, we obtain the two chromatic axes:
+and
+which is identical to the Hunter Lab formulas given above if we select K = Ka/100 and ke = Kb/Ka. Therefore, the Hunter Lab color space is an Adams chromatic valence color space.

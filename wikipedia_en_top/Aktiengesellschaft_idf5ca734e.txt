@@ -1,0 +1,16 @@
+Aktiengesellschaft
+Aktiengesellschaft (German pronunciation: [ˈaktsi̯ənɡəˌzɛlʃaft]; abbreviated AG, pronounced [aːˈgeː]) is a German word for a corporation limited by share ownership (i.e. one which is owned by its shareholders) whose shares may be traded on a stock market. The term is used in Germany, Austria, Switzerland (where it is equivalent to a société anonyme or a società per azioni), and South Tyrol for companies incorporated there. It is also used in Luxembourg (as Aktiëgesellschaft, pronounced [ˈɑktsjəɡəˌzælʃɑft]), although the equivalent French language term société anonyme is more common. In the United Kingdom, the equivalent term is "PLC" and in the United States while the terms "incorporated" or "corporation" are typically used, technically the more precise equivalent term is "joint-stock company" (though note for the British term only a minority of public limited companies have their shares listed on stock exchanges).
+Meaning of the word
+The German word Aktiengesellschaft is a compound noun made up of two elements: Aktien meaning an acting part or share, and Gesellschaft, meaning company or society.  English translations include share company, or company limited by shares, or joint-stock company. In German, the use of the term Aktien for shares is restricted to Aktiengesellschaften. Shares in other types of German companies (e.g. GmbH or a cooperative) are called Anteile (parts-of) rather than Aktien.
+Legal basis
+In Germany and Austria, the legal basis of the AG is the German Aktiengesetz (abbr. AktG; "shares law") or the Austrian Aktiengesetz (abbr. AktG). Since the German commercial law (§ 19 Handelsgesetzbuch) requires all corporations to specify their legal form in their name, in order to inform the public of the limits on their liability, all German (required by § 4 Aktiengesetz) and Austrian stock corporations include Aktiengesellschaft or AG as part of their name, frequently as a suffix.
+In Switzerland, the Company Limited by Shares (Aktiengesellschaft in German, société anonyme in French, società anonima in Italian, societad anonima in Romansh) is defined in Title Twenty-Six of the Code of Obligations, Article 620. Article 950 specifies that the business name must indicate the legal form.
+Structure
+German AGs have a "two-tiered board" structure, consisting of a supervisory board (Aufsichtsrat) and a management board (Vorstand). The supervisory board is generally controlled by shareholders, although employees may have seats, depending on the size of the company. The management board directly runs the company, but its members may be removed by the supervisory board, which also determines the management board's compensation. Some German AGs have management boards which determine their own remuneration, but that situation is now relatively uncommon.
+The general meeting is the supreme governing body of a Swiss company limited by shares. It elects the board of directors (Verwaltungsrat in German) and the external auditors. The board of directors may appoint and dismiss persons entrusted with managing and representing the company.
+Similar forms
+The equivalent terms in other countries include the following, which mostly mean literally either "share company/society" or "anonymous company/society".
+See also
+Explanatory notes
+References
+Further reading

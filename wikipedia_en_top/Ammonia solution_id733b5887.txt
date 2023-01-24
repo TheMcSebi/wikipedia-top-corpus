@@ -1,0 +1,34 @@
+Ammonia solution
+
+
+Ammonia solution, also known as ammonia water, ammonium hydroxide, ammoniacal liquor, ammonia liquor, aqua ammonia, aqueous ammonia, or (inaccurately) ammonia, is a solution of ammonia in water. It can be denoted by the symbols NH3(aq).  Although the name ammonium hydroxide suggests an alkali with composition [NH+4][OH−], it is actually impossible to isolate samples of NH4OH. The ions NH+4 and OH− do not account for a significant fraction of the total amount of ammonia except in extremely dilute solutions.
+Basicity of ammonia in water
+In aqueous solution, ammonia deprotonates a small fraction of the water to give ammonium and hydroxide according to the following equilibrium:
+In a 1 M ammonia solution, about 0.42% of the ammonia is converted to ammonium, equivalent to pH = 11.63
+because [NH4+] = 0.0042 M, [OH−] = 0.0042 M, [NH3] = 0.9958 M, and pH = 14 + log10[OH−] = 11.62. The base ionization constant is
+Saturated solutions
+Like other gases, ammonia exhibits decreasing solubility in solvent liquids as the temperature of the solvent increases. Ammonia solutions decrease in density as the concentration of dissolved ammonia increases. At 15.6 °C (60.1 °F), the density of a saturated solution is 0.88 g/ml and contains 35.6% ammonia by mass, 308 grams of ammonia per litre of solution, and has a molarity of approximately 18 mol/L. At higher temperatures, the molarity of the saturated solution decreases and the density increases.  Upon warming saturated solutions, ammonia gas is released.
+Applications
+In contrast to anhydrous ammonia, aqueous ammonia finds few non-niche uses outside of cleaning agents.
+Household cleaner
+Diluted (1–3%) ammonia is also an ingredient of numerous cleaning agents, including many window cleaning formulas.  Because aqueous ammonia is a gas dissolved in water, as the water evaporates from a window, the gas evaporates also, leaving the window streak-free.
+In addition to use as an ingredient in cleansers with other cleansing ingredients, ammonia in water is also sold as a cleaning agent by itself, usually labeled as simply "ammonia". It may be sold plain, lemon-scented (and typically colored yellow), or pine-scented (green). Commonly available ammonia with soap added is known as "cloudy ammonia".
+Alkyl amine precursor
+In industry, aqueous ammonia can be used as a precursor to some alkyl amines, although anhydrous ammonia is usually preferred.  Hexamethylenetetramine forms readily from aqueous ammonia and formaldehyde.  Ethylenediamine forms from 1,2-dichloroethane and aqueous ammonia.
+Absorption refrigeration
+In the early years of the twentieth century, the vapor absorption cycle using water-ammonia systems was popular and widely used, but after the development of the vapor compression cycle it lost much of its importance because of its low coefficient of performance (about one fifth of that of the vapor compression cycle). Both the Electrolux refrigerator and the Einstein refrigerator are well known examples of this application of the ammonia solution.
+Water treatment
+Ammonia is used to produce monochloramine, which is used as a disinfectant. Chloramine is preferred over chlorination for its ability to remain active in stagnant water pipes longer, reducing the risk of waterborne infections.
+Ammonia is used by aquarists for the purposes of setting up a new fish tank using an ammonia process called fishless cycling. This application requires that the ammonia contain no additives.
+Food production
+Baking ammonia (ammonium bicarbonate) was one of the original chemical leavening agents. It was obtained from deer antlers. It is useful as a leavening agent, because ammonium carbonate is heat activated. This characteristic allows bakers to avoid both yeast's long proofing time and the quick CO2 dissipation of baking soda in making breads and cookies rise. It is still used to make ammonia cookies and other crisp baked goods, but its popularity has waned because of ammonia's off-putting smell and concerns over its use as a food ingredient compared to modern-day baking powder formulations. It has been assigned E number E527 for use as a food additive in the European Union.
+Aqueous ammonia is used as an acidity regulator to bring down the acid levels in food. It is classified in the United States by the Food and Drug Administration as generally recognized as safe (GRAS) when using the food grade version. Its pH control abilities make it an effective antimicrobial agent.
+Furniture darkening
+In furniture-making, Ammonia fuming was traditionally used to darken or stain wood containing tannic acid. After being sealed inside a container with the wood, fumes from the ammonia solution react with the tannic acid and iron salts naturally found in wood, creating a  rich, dark stained look to the wood. This technique was commonly used during the arts and crafts movement in furniture – a furniture style which was primarily constructed of oak and stained using these methods.
+Treatment of straw for cattle
+Ammonia solution is used to treat straw, producing "ammoniated straw" making it more edible for cattle.
+Laboratory use
+Aqueous ammonia is used in traditional qualitative inorganic analysis as a complexant and base. Like many amines, it gives a deep blue coloration with copper(II) solutions. Ammonia solution can dissolve silver oxide residues, such as that formed from Tollens' reagent. It is often found in solutions used to clean gold, silver, and platinum jewelry, but may have adverse effects on porous gem stones like opals and pearls.
+See also
+References
+Further reading

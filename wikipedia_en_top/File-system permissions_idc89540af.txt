@@ -1,0 +1,44 @@
+File-system permissions
+Most file systems include attributes of files and directories that control the ability of users to read, change, navigate, and execute the contents of the file system. In some cases, menu options or functions may be made visible or hidden depending on a user's permission level; this kind of user interface is referred to as permission-driven.
+Two types of permissions are widely available: traditional Unix file system permissions and access-control lists (ACLs) which are capable of more specific control.
+File system variations
+The original File Allocation Table file system has a per-file all-user read-only attribute. 
+NTFS implemented in Microsoft Windows NT and its derivatives, use ACLs to provide a complex set of permissions. 
+OpenVMS uses a permission scheme similar to that of Unix. There are four categories (system, owner, group, and world) and four types of access permissions (Read, Write, Execute and Delete). The categories are not mutually disjoint: World includes Group, which in turn includes Owner. The System category independently includes system users.
+HFS implemented in Classic Mac OS operating systems, do not support permissions.
+Mac OS X versions 10.3 ("Panther") and prior use POSIX-compliant permissions. Mac OS X, beginning with version 10.4 ("Tiger"), also support the use of NFSv4 ACLs. They support "traditional Unix permissions" as used in previous versions of Mac OS X, and the Apple Mac OS X Server version 10.4+ File Services Administration Manual recommends using only traditional Unix permissions if possible. It also still supports the Mac OS Classic's "Protected" attribute.
+Solaris ACL support depends on the filesystem being used; older UFS filesystem supports POSIX.1e ACLs, while ZFS supports only NFSv4 ACLs.
+Linux supports ext2, ext3, ext4, Btrfs and other file systems many of which include POSIX.1e ACLs. There is experimental support for NFSv4 ACLs for ext3 and ext4 filesystems.
+FreeBSD supports POSIX.1e ACLs on UFS, and NFSv4 ACLs on UFS and ZFS.
+IBM z/OS implements file security using RACF (Resource Access Control Facility)
+The AmigaOS Filesystem, AmigaDOS supports a permissions system relatively advanced for a single-user OS. In AmigaOS 1.x, files had Archive, Read, Write, Execute and Delete (collectively known as ARWED) permissions/flags. In AmigaOS 2.x and higher, additional Hold, Script, and Pure permissions/flags were added.
+Traditional Unix permissions
+Permissions on Unix-like file systems are managed in three scopes or classes known as user, group, and others. When a file is created its permissions are restricted by the umask of the process that created it.
+Classes
+Files and directories are owned by a user. The owner determines the file's user class. Distinct permissions apply to the owner.
+Files and directories are assigned a group, which define the file's group class. Distinct permissions apply to members of the file's group. The owner may be a member of the file's group.
+Users who are not the owner, nor a member of the group, comprise a file's others class. Distinct permissions apply to others.
+The effective permissions are determined based on the first class the user falls within in the order of user, group then others. For example, the user who is the owner of the file will have the permissions given to the user class regardless of the permissions assigned to the group class or others class.
+Permissions
+Unix-like systems implement three specific permissions that apply to each class:
+The effect of setting the permissions on a directory, rather than a file, is "one of the most frequently misunderstood file permission issues".
+When a permission is not set, the corresponding rights are denied. Unlike ACL-based systems, permissions on Unix-like systems are not inherited. Files created within a directory do not necessarily have the same permissions as that directory.
+Changing permission behavior with setuid, setgid, and sticky bits
+Unix-like systems typically employ three additional modes. These are actually attributes but are referred to as permissions or modes.  These special modes are for a file or directory overall, not by a class, though in the symbolic notation (see below) the setuid bit is set in the triad for the user, the setgid bit is set in the triad for the group and the sticky bit is set in the triad for others.
+These additional modes are also referred to as setuid bit, setgid bit, and sticky bit, due to the fact that they each occupy only one bit.
+Notation of traditional Unix permissions
+Symbolic notation
+Unix permissions are represented either in symbolic notation or in octal notation.
+The most common form, as used by the command ls -l, is symbolic notation.
+The first character of the ls display indicates the file type and is not related to permissions. The remaining nine characters are in three sets, each representing a class of permissions as three characters. The first set represents the user class. The second set represents the group class. The third  set represents the others class.
+Each of the three characters represent the read, write, and execute permissions:
+The following are some examples of symbolic notation:
+In some permission systems additional symbols in the ls -l display represent additional permission features:
+To represent the  setuid, setgid and sticky or text attributes, the executable character (x or -) is modified. Though these attributes affect the overall file, not only users in one class, the setuid attribute modifies the executable character in the triad for the user, the setgid attribute modifies the executable character in the triad for the group and the sticky or text attribute modifies the executable character in the triad for others. For the setuid or setgid attributes, in the first or second triad, the x becomes s and the - becomes S.  For the sticky or text attribute, in the third triad, the x becomes t and the - becomes T. Here is an example:
+Numeric notation
+Another method for representing Unix permissions is an octal (base-8) notation as shown by stat -c %a. This notation consists of at least three digits. Each of the three rightmost digits represents a different component of the permissions: owner, group, and others.  (If a fourth digit is present, the leftmost (high-order) digit addresses three additional attributes, the setuid bit, the setgid bit and the sticky bit.)
+Each of these digits is the sum of its component bits in the binary numeral system. As a result, specific bits add to the sum as it is represented by a numeral:
+These values never produce ambiguous combinations; each sum represents a specific set of permissions. More technically, this is an octal representation of a bit field – each bit references a separate permission, and grouping 3 bits at a time in octal corresponds to grouping these permissions by user, group, and others.
+These are the examples from the symbolic notation section given in octal notation:
+User private group
+Some systems diverge from the traditional POSIX model of users and groups by creating a new group – a "user private group" – for each user. Assuming that each user is the only member of its user private group, this scheme allows an umask of 002 to be used without allowing other users to write to newly created files in normal directories because such files are assigned to the creating user's private group. However, when sharing files is desirable, the administrator can create a group containing the desired users, create a group-writable directory assigned to the new group, and, most importantly, make the directory setgid. Making it setgid will cause files created in it to be assigned to the same group as the directory and the 002 umask (enabled by using user private groups) will ensure that other members of the group will be able to write to those files.

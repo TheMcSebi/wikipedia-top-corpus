@@ -1,0 +1,21 @@
+Instruction cycle
+The instruction cycle (also known as the fetch–decode–execute cycle, or simply the fetch-execute cycle) is the cycle that the central processing unit (CPU) follows from boot-up until the computer has shut down in order to process instructions. It is composed of three main stages: the fetch stage, the decode stage, and the execute stage. 
+In simpler CPUs, the instruction cycle is executed sequentially, each instruction being processed before the next one is started. In most modern CPUs, the instruction cycles are instead executed concurrently, and often in parallel, through an instruction pipeline: the next instruction starts being processed before the previous instruction has finished, which is possible because the cycle is broken up into separate steps.
+Role of components
+The program counter (PC) is a special register that holds the memory address of the next instruction to be executed. During the fetch stage, the address stored in the PC is copied into the memory address register (MAR) and then the PC is incremented in order to "point" to the memory address of the next instruction to be executed. The CPU then takes the instruction at the memory address described by the MAR and copies it into the memory data register (MDR). The MDR also acts as a two-way register that holds data fetched from memory or data waiting to be stored in memory (it is also known as the memory buffer register (MBR) because of this). Eventually, the instruction in the MDR is copied into the current instruction register (CIR) which acts as a temporary holding ground for the instruction that has just been fetched from memory.
+During the decode stage, the control unit (CU) will decode the instruction in the CIR. The CU then sends signals to other components within the CPU, such as the arithmetic logic unit (ALU) and the floating point unit (FPU). The ALU performs arithmetic operations such as addition and subtraction and also multiplication via repeated addition and division via repeated subtraction. It also performs logic operations such as AND, OR, NOT, and binary shifts as well. The FPU is reserved for performing floating-point operations.
+Summary of stages
+Each computer's CPU can have different cycles based on different instruction sets, but will be similar to the following cycle:
+In addition, on most processors interrupts can occur. This will cause the CPU to jump to an interrupt service routine, execute that and then return. In some cases an instruction can be interrupted in the middle, the instruction will have no effect, but will be re-executed after return from the interrupt.
+Initiation
+The cycle begins as soon as power is applied to the system, with an initial PC value that is predefined by the system's architecture (for instance, in Intel IA-32 CPUs, the predefined PC value is 0xfffffff0). Typically, this address points to a set of instructions in read-only memory (ROM), which begins the process of loading (or booting) the operating system.
+Fetch stage
+The fetch step is the same for each instruction:
+The control unit fetches the instruction's address from the memory unit.
+Decode stage
+The decoding process allows the CPU to determine what instruction is to be performed so that the CPU can tell how many operands it needs to fetch in order to perform the instruction. The opcode fetched from the memory is decoded for the next steps and moved to the appropriate registers. The decoding is typically performed by binary decoders in the CPU's control unit.
+Reading the effective address
+This step evaluates which type of operation is to be performed. If it is a memory operation, the computer checks whether it's a direct or indirect memory operation:
+If it is an I/O or register instruction, the computer checks its type and executes the instruction.
+Execute stage
+The CPU sends the decoded instruction as a set of control signals to the corresponding computer components. If the instruction involves arithmetic or logic, the ALU is utilized. This is the only stage of the instruction cycle that is useful from the perspective of the end-user. Everything else is overhead required to make the execute step happen.

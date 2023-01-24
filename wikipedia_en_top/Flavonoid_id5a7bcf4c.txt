@@ -1,0 +1,75 @@
+Flavonoid
+Flavonoids (or bioflavonoids; from the Latin word flavus, meaning yellow, their color in nature) are a class of polyphenolic secondary metabolites found in plants, and thus commonly consumed in the diets of humans.
+Chemically, flavonoids have the general structure of a 15-carbon skeleton, which consists of two phenyl rings (A and B) and a heterocyclic ring (C, the ring containing the embedded oxygen). This carbon structure can be abbreviated C6-C3-C6. According to the IUPAC nomenclature,
+they can be classified into:
+The three flavonoid classes above are all ketone-containing compounds and as such, anthoxanthins (flavones and flavonols). This class was the first to be termed bioflavonoids. The terms flavonoid and bioflavonoid have also been more loosely used to describe non-ketone polyhydroxy polyphenol compounds, which are more specifically termed flavanoids. The three cycles or heterocycles in the flavonoid backbone are generally called ring A, B, and C. Ring A usually shows a phloroglucinol substitution pattern.
+History
+In the 1930s, Albert Szent-Györgyi and other scientists discovered that Vitamin C alone was not as effective at preventing scurvy as the crude yellow extract from oranges, lemons or paprika. They attributed the increased activity of this extract to the other substances in this mixture, which they referred to as "citrin" (referring to citrus) or "Vitamin P" (a reference to its effect on reducing the permeability of capillaries). The substances in question (hesperidin, eriodictyol, hesperidin methyl chalcone and neohesperidin) were however later shown not to fulfil the criteria of a vitamin, so that this term is now obsolete.
+Biosynthesis
+Flavonoids are secondary metabolites synthesized mainly by plants. The general structure of flavonoids is a 15-carbon skeleton, containing 2 benzene rings connected by a 3-carbon linking chain. Therefore, they are depicted as C6-C3-C6 compounds. Depending on the chemical structure, degree of oxidation, and unsaturation of the linking chain (C3), flavonoids can be classified into different groups, such as anthocyanidins, chalcones, flavonols, flavanones, flavan-3-ols, flavanonols, flavones, and isoflavonoids. Furthermore, flavonoids can be found in plants in glycoside-bound and free aglycone forms. The glycoside-bound form is the most common flavone and flavonol form consumed in the diet.
+
+
+Functions of flavonoids in plants
+Flavonoids are widely distributed in plants, fulfilling many functions. They are the most important plant pigments for flower coloration, producing yellow or red/blue pigmentation in petals designed to attract pollinator animals. In higher plants, they are involved in UV filtration, symbiotic nitrogen fixation, and floral pigmentation.  They may also act as chemical messengers, physiological regulators, and cell cycle inhibitors.  Flavonoids secreted by the root of their host plant help Rhizobia in the infection stage of their symbiotic relationship with legumes like peas, beans, clover, and soy. Rhizobia living in soil are able to sense the flavonoids and this triggers the secretion of Nod factors, which in turn are recognized by the host plant and can lead to root hair deformation and several cellular responses such as ion fluxes and the formation of a root nodule.  In addition, some flavonoids have inhibitory activity against organisms that cause plant diseases, e.g. Fusarium oxysporum.
+Subgroups
+Over 5000 naturally occurring flavonoids have been characterized from various plants. They have been classified according to their chemical structure, and are usually subdivided into the following subgroups (for further reading see):
+
+
+Anthocyanidins
+Anthocyanidins are the aglycones of anthocyanins; they use the flavylium (2-phenylchromenylium) ion skeleton.
+Anthoxanthins
+Anthoxanthins are divided into two groups:
+Flavanones
+Flavanones
+Flavanonols
+Flavanonols
+Flavans
+Include flavan-3-ols (flavanols), flavan-4-ols and flavan-3,4-diols.
+Isoflavonoids
+Dietary sources
+Flavonoids (specifically flavanoids such as the catechins) are "the most common group of polyphenolic compounds in the human diet and are found ubiquitously in plants". Flavonols, the original bioflavonoids such as quercetin, are also found ubiquitously, but in lesser quantities. The widespread distribution of flavonoids, their variety and their relatively low toxicity compared to other active plant compounds (for instance alkaloids) mean that many animals, including humans, ingest significant quantities in their diet. Foods with a high flavonoid content include parsley, onions, blueberries and other berries, black tea, green tea and oolong tea, bananas, all citrus fruits, Ginkgo biloba, red wine, sea-buckthorns, buckwheat, and dark chocolate with a cocoa content of 70% or greater.
+Parsley
+Parsley, both fresh and dried, contains flavones.
+Blueberries
+Blueberries are a dietary source of anthocyanidins.
+Black tea
+Black tea is a rich source of dietary flavan-3-ols.
+Citrus
+The citrus flavonoids include hesperidin (a glycoside of the flavanone hesperetin), quercitrin, rutin (two glycosides of the flavonol quercetin), and the flavone tangeritin. The flavonoids are much less concentrated in the pulp than in the peels (for example, 165 vs. 1156 mg/100g in pulp vs. peel of satsuma mandarin, and 164 vis-à-vis 804 mg/100g in pulp vs. peel of clementine).
+Cocoa
+Flavonoids exist naturally in cocoa, but because they can be bitter, they are often removed from chocolate, even dark chocolate. Although flavonoids are present in milk chocolate, milk may interfere with their absorption; however this conclusion has been questioned.
+Peanut
+Peanut (red) skin contains significant polyphenol content, including flavonoids.
+Unit: mg/100g
+Dietary intake
+Food composition data for flavonoids were provided by the USDA database on flavonoids. In the United States NHANES survey, mean flavonoid intake was 190 mg/d in adults, with flavan-3-ols as the main contributor. In the European Union, based on data from EFSA, mean flavonoid intake was 140 mg/d, although there were considerable differences among individual countries. The main type of flavonoids consumed in the EU and USA were flavan-3-ols (80% for USA adults), mainly from tea or cocoa in chocolate, while intake of other flavonoids was considerably lower.
+Research
+Neither the United States Food and Drug Administration (FDA) nor the European Food Safety Authority (EFSA) has approved any health claim for flavonoids or approved any flavonoids as prescription drugs. The U.S. FDA has warned numerous dietary supplement companies about illegal advertising and misleading health claims.
+Metabolism and excretion
+Flavonoids are poorly absorbed in the human body (less than 5%), then are quickly metabolized into smaller fragments with unknown properties, and rapidly excreted. Flavonoids have negligible antioxidant activity in the body, and the increase in antioxidant capacity of blood seen after consumption of flavonoid-rich foods is not caused directly by flavonoids, but by production of uric acid resulting from flavonoid depolymerization and excretion. Microbial metabolism is a major contributor to the overall metabolism of dietary flavonoids. The effect of habitual flavonoid intake on the human gut microbiome is unknown.
+Inflammation
+Inflammation has been implicated as a possible origin of numerous local and systemic diseases, such as cancer, cardiovascular disorders, diabetes mellitus, and celiac disease. There is no clinical evidence that dietary flavonoids affect any of these diseases.
+Cancer
+Clinical studies investigating the relationship between flavonoid consumption and cancer prevention or development are conflicting for most types of cancer, probably because most human studies have weak designs, such as a small sample size. There is little evidence to indicate that dietary flavonoids affect human cancer risk in general, but observational studies and clinical trials on hormone-dependent cancers (breast and prostate) have shown benefits.
+A recent review has suggested that dietary intake of flavonoids is associated with a reduced risk of different types of cancer, including gastric, breast, prostate, and colorectal cancer.
+Cardiovascular diseases
+Although no significant association has been found between flavan-3-ol intake and cardiovascular disease mortality, clinical trials have shown improved endothelial function and reduced blood pressure (with a few studies showing inconsistent results). Reviews of cohort studies in 2013 found that the studies had too many limitations to determine a possible relationship between increased flavonoid intake and decreased risk of cardiovascular disease, although a trend for an inverse relationship existed.
+In vitro
+Laboratory studies on isolated cells or cell cultures in vitro indicate that flavonoids may selectively inhibit kinases, but in vivo results could differ because of low bioavailability.
+Synthesis, detection, quantification, and semi-synthetic alterations
+Color spectrum
+Flavonoid synthesis in plants is induced by light color spectrums at both high and low energy radiations. Low energy radiations are accepted by phytochrome, while high energy radiations are accepted by carotenoids, flavins, cryptochromes in addition to phytochromes. The photomorphogenic process of phytochrome-mediated flavonoid biosynthesis has been observed in Amaranthus, barley, maize, Sorghum and turnip. Red light promotes flavonoid synthesis.
+Availability through microorganisms
+Several recent research articles have demonstrated the efficient production of flavonoid molecules from genetically engineered microorganisms. and the project SynBio4Flav aims to provide a cost-effective alternative to current flavonoid production breaking down their complex biosynthetic pathways into standardized specific parts, which can be transferred to engineered microorganisms within Synthetic Microbial Consortia to promote flavonoid assembly through distributed catalysis.
+Tests for detection
+Four pieces of magnesium filings are added to the ethanolic extract followed by few drops of concentrated hydrochloric acid. A pink or red colour indicates the presence of flavonoid. Colours varying from orange to red indicated flavones, red to crimson indicated flavonoids, crimson to magenta indicated flavonones.
+About 5 mg of the compound is dissolved in water, warmed, and filtered. 10% aqueous sodium hydroxide is added to 2 ml of this solution. This produces a yellow coloration. A change in color from yellow to colorless on addition of dilute hydrochloric acid is an indication for the presence of flavonoids.
+A colorimetric assay based upon the reaction of A-rings with the chromogen p-dimethylaminocinnamaldehyde (DMACA) has been developed for flavanoids in beer that can be compared with the vanillin procedure.
+Quantification
+Lamaison and Carnet have designed a test for the determination of the total flavonoid content of a sample (AlCI3 method). After proper mixing of the sample and the reagent, the mixture is incubated for ten minutes at ambient temperature and the absorbance of the solution is read at 440 nm. Flavonoid content is expressed in mg/g of quercetin.
+Semi-synthetic alterations
+Immobilized Candida antarctica lipase can be used to catalyze the regioselective acylation of flavonoids.
+See also
+References
+Further reading
+Databases

@@ -1,0 +1,23 @@
+Digital recording
+In digital recording, an audio or video signal is converted into a stream of discrete numbers representing the changes over time in air pressure for audio, or chroma and luminance values for video.  This number stream is saved to a storage device.  To play back a digital recording, the numbers are retrieved and converted back into their original analog audio or video forms so that they can be heard or seen.
+In a properly matched analog-to-digital converter (ADC) and digital-to-analog converter (DAC) pair the analog signal is accurately reconstructed per the constraints of the Nyquist–Shannon sampling theorem dependent on the sampling rate and quantization error dependent on the audio or video bit depth. Because the signal is stored digitally, assuming proper error detection and correction, the recording is not degraded by copying, storage or interference.
+Timeline
+Process
+Recording
+Playback
+Recording of bits
+Techniques to record to commercial media
+For digital cassettes, the tape head moves as well as the tape, typically in a helical scan configuration, in order to maintain a high enough speed to keep the bits at a manageable size.
+For optical disc recording technologies such as CD-R, a laser is used to alter the optical properties of the dye layer of the medium. A weaker laser is used to read these patterns.
+Parameters of digital audio recording
+Word size
+The number of bits used to represent a sampled audio wave (the word size) directly affects the resulting noise in a recording after intentionally added dither, or the distortion of an undithered signal.
+The number of possible voltage levels at the output is simply the number of levels that may be represented by the largest possible digital number (the number 2 raised to the power of the number of bits in each sample). There are no “in between” values allowed. If there are more bits in each sample the waveform is more accurately traced, because each additional bit doubles the number of possible values. The distortion is roughly the percentage that the least significant bit represents out of the average value. Distortion (as a percentage) in digital systems increases as signal levels decrease, which is the opposite of the behavior of analog systems.
+Sample rate
+If the sampling rate is too low, the original audio signal cannot be reconstructed from the sampled signal.
+As stated by the Nyquist–Shannon sampling theorem, to prevent aliasing, the audio signal must be sampled at a rate at least twice that of the highest frequency component in the signal. For recording music-quality audio, the following PCM sampling rates are the most common: 44.1, 48, 88.2, 96, 176.4, and 192 kHz, each with an upper-frequency limit half the sampling frequency.
+When making a recording, experienced audio recording and mastering engineers will often do a master recording at a higher sampling rate (i.e. 88.2, 96, 176.4 or 192 kHz) and then do any editing or mixing at that same higher frequency to avoid aliasing errors. High resolution PCM recordings have been released on DVD-Audio (also known as DVD-A), DAD (Digital Audio Disc, which utilizes the stereo PCM audio tracks of a regular DVD), DualDisc (utilizing the DVD-Audio layer), or High Fidelity Pure Audio on Blu-ray. In addition it is possible to release a high resolution recording as either an uncompressed WAV or lossless compressed FLAC file (usually at 24 bits) without down-converting it.  There remains some controversy whether higher sampling rates actually provide any verifiable benefit in the consumer product when using modern anti-aliasing filters.
+When a Compact Disc (the CD Red Book standard is 44.1 kHz 16 bit) is to be made from a high-res recording, the recording must be down-converted to 44.1 kHz, or originally recorded at that rate.  This is done as part of the mastering process.
+Beginning in the 1980s, music that was recorded, mixed and/or mastered digitally was often labelled using the SPARS code to describe which processes were analog and which were digital.  Since digital recording has become near-ubiquitous the SPARS codes are now rarely used.
+Error rectification
+One of the advantages of digital recording over analog recording is its resistance to errors. Once the signal is in the digital format, it will not be degraded (add noise or distortion) from copying or storage.

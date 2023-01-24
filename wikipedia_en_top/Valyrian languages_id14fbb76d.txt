@@ -1,0 +1,97 @@
+Valyrian languages
+The Valyrian languages are a fictional language family in the A Song of Ice and Fire series of fantasy novels by George R. R. Martin, and in their television adaptation Game of Thrones and later House of the Dragon.
+In the novels, High Valyrian and its descendant languages are often mentioned but not developed beyond a few words. For the TV series, language creator David J. Peterson created the High Valyrian language, as well as the derivative languages Astapori and Meereenese Valyrian, based on fragments from the novels. Valyrian and Dothraki have been described as "the most convincing fictional tongues since Elvish".
+Creation
+To create the Dothraki and Valyrian languages to be spoken in Game of Thrones, HBO selected the language creator David J. Peterson through a competition among conlangers. The producers gave Peterson a largely free hand in developing the languages, as, according to Peterson, George R. R. Martin himself was not very interested in the linguistic aspect of his works. The already published novels include only a few words of High Valyrian, including valar morghulis ("all men must die"), valar dohaeris ("all men must serve") and dracarys ("dragonfire"). For the forthcoming novel The Winds of Winter, Peterson has supplied Martin with additional Valyrian translations.
+Peterson commented that he considered Martin's choice of dracarys unfortunate because of its (presumably intended) similarity to the Latin word for dragon, draco. Because the Latin language does not exist in the fictional world of A Song of Ice and Fire, Peterson chose to treat the similarity as coincidental and made dracarys an independent lexeme; his High Valyrian term for dragon is zaldrīzes. The phrases valar morghulis and valar dohaeris, on the other hand, became the foundation of the language's conjugation system. Another word, trēsy, meaning "son", was coined in honour of Peterson's 3000th Twitter follower.
+At the start of June 2013, there were 667 High Valyrian words.
+Peterson expanded the languages for the House of the Dragon.
+Documentation
+Since 2019, Peterson has been documenting the Valyrian languages (along with his other conlangs) in a Wiktionary-style repository on the website The Languages of David J. Peterson, with some assistance from a couple curators.
+High Valyrian
+— High Valyrian, Game of Thrones, season 3, episode 4
+In the world of A Song of Ice and Fire, High Valyrian occupies a cultural niche similar to that of Classical Latin in medieval Europe.  The novels describe it as no longer being used as a language of everyday communication, but rather as a language of learning and education among the nobility of Essos and Westeros, with much literature and song composed in Valyrian.
+Phonology
+Notes:
+Vowels with a macron over them (ī, ȳ, ū, ē, ō and ā) are long, held for twice as long as short vowels. Some words are distinguished simply by their vowel length in High Valyrian. The rounded vowels ⟨ȳ⟩ and ⟨y⟩ may not be pronounced in modern High Valyrian, as a non-native or prestige language and did not survive into the descendant languages. As a result, while Daenerys Targaryen's first name may generally be pronounced [də.ˈnɛː.ɹɪs] by characters in Game of Thrones, in High Valyrian it would have been closer to [ˈdae.ne.ɾys], with a diphthong in the first syllable and a rounded vowel in the last. The long vowels have also been lost in some derived languages; in season 3 of Game of Thrones, Astapori Valyrian is heard, from which all long vowels have been lost.
+Syllable stress is penultimate unless the penultimate syllable is light and the antepenultimate syllable is heavy, in which case stress is on the antepenultimate. As a highly inflected language, word order is flexible (a feature lost in derived languages), but sentences with relative clauses are head-final.
+Nouns
+There are four grammatical numbers in High Valyrian—singular, plural, paucal and collective. For example:
+vala
+NOM.SG
+"man"
+vali
+NOM.PL
+"men"
+valun
+NOM.PAU
+"some men"
+valar
+NOM.COL
+"all men"
+ 
+ 
+vala vali valun valar
+NOM.SG NOM.PL NOM.PAU NOM.COL
+"man" "men" {"some men"} {"all men"}
+The collective can itself be modified by number as a new noun declension, for example:
+azantys
+NOM.SG
+"knight, soldier"
+→
+ 
+ 
+azantyr
+NOM.COL
+"army"
+azantys → azantyr
+NOM.SG {} NOM.COL
+{"knight, soldier"} {} "army"
+azantyr
+NOM.SG
+"army"
+→
+ 
+ 
+azantyri
+NOM.PL
+"armies"
+ 
+ 
+azantyr → azantyri
+NOM.SG {} NOM.PL
+"army" {} "armies"
+Nouns have eight cases—nominative, accusative, genitive, dative, locative, instrumental, comitative and vocative, though the instrumental and comitative are not distinguished in all declensions, nor are the genitive, dative and locative always distinguished in the plural. Both prepositions and postpositions are used to form other cases; for example, the ablative is formed with the preposition hen + the locative (e.g. hen lentot, "from a house") while the superessive is formed with the postposition bē following the genitive (e.g. lento bē, "on top of a house").
+There are four grammatical genders, which do not align with biological sex. The Valyrian names for the genders are:
+Animate and individuatable nouns are generally in the lunar or solar classes, while other nouns are generally classified as terrestrial or aquatic. The names of the classes derive from the nouns themselves, which are prototypical members of each gender. Peterson describes Valyrian gender as being inherent but more predictable from phonology than gender in French, with some of the derivational properties of the noun classes of Bantu languages. As a result of the phonological predictability, many words for humans (which tend to end -a or -ys) are lunar or solar; many foods and plants (often ending -on) are terrestrial.
+According to Peterson, "what defines declension classes in High Valyrian" can be divined by paying "close attention to the singular and plural numbers" and noting "where cases are conflated and where they aren't".
+Verbs
+Verbs conjugate for seven tenses (present, aorist, future, imperfect, perfect, pluperfect and past habitual), two voices (active and passive) and three moods (indicative, subjunctive and imperative). Tenses in High Valyrian often convey information both about time and aspect.
+Nouns have four grammatical numbers, but verb conjugations have only been described in the singular and the plural; paucals trigger plural agreement, and collectives trigger singular agreement.
+Adjectives
+Adjectives have three declension classes. Like verbs, adjectives only have two number forms—a singular, which is also used for the collective, and a plural, also used for paucal numbers. Adjectives may be both prepositive (e.g. "the white shoe") or post-positive (e.g. "the body politic"); when prepositive some further rules apply.
+Several forms of elision and consonant assimilation occur with prepositive adjectives:
+Class I adjectives decline differently for each of the four noun classes. Adjective classes II and III both conflate rather more forms, failing to distinguish between solar and lunar nouns and failing to distinguish between terrestrial and aquatic nouns.
+Duolingo course
+On October 31, 2016, a course in High Valyrian for English speakers began to be constructed in the Duolingo Language Incubator. David J. Peterson is one of the contributors to the course. The beta version was released on July 12, 2017. In April 2019, the course was updated in anticipation of Game of Thrones' eighth and final season. As a part of this update, Peterson created audio for the course's lessons and exercises.
+Bastard Valyrian
+In the world of the novel and TV series, the Nine Free Cities of Essos speak locally evolved variants of Valyrian known as Bastard Valyrian, described by the character Tyrion in A Dance with Dragons as "not so much a dialect as nine dialects on the way to becoming separate tongues".
+Peterson described the relationship between High Valyrian and Bastard Valyrian as being similar to that between Classical Latin and the Romance languages evolved from Vulgar Latin, or more accurately between Classical Arabic and the modern varieties of Arabic, in that High Valyrian is intelligible, with some difficulty, to a speaker of a local Essoan language.
+Slaver's Bay dialects
+The slave cities of Slaver's Bay are lands of the ancient Ghiscari Empire that was conquered and annexed by Valyria, so they speak related languages descended from High Valyrian with the substrate of the local Ghiscari languages.  Peterson noted that with regard to the vocabulary of the derived languages, "If it’s got a 'j' in an odd place, it’s probably Ghiscari in origin."
+Astapori Valyrian
+— Astapori Valyrian, Game of Thrones, season 3, episode 3
+The first derivative Valyrian language to be featured in the series was Astapori Valyrian, a variety from the city of Astapor in Slaver's Bay. It appeared in the third-season premiere episode "Valar Dohaeris".  Peterson created the Astapori dialogue by first writing the text in High Valyrian, then applying a series of regular grammar and sound changes to simulate the changes in natural languages over a long period of time.
+For example, Astapori Valyrian has lost all long vowels (designated with a macron) and most diphthongs. Between vowels, [b, d, g] have become [v, ð, ɣ]; subsequently, [p, t, k] have become [b, d, g] in the same environment.
+As a result, an "Unsullied" is rendered as Dovaogēdy [do.vao.ˈɡeː.dy] in High Valyrian, but as Dovoghedhy [do.vo.ˈɣe.ði] in Astapori.
+Similarly, Astapori Valyrian has lost the case system of High Valyrian, so the word order is more reliably subject–verb–object (SVO) and the four genders of High Valyrian have been reduced to two, with three definite articles: ji [ˈʒi] (animate singular, derived from High Valyrian ziry [ˈzi.ry] "him/her (accusative)"), vi [ˈvi] (inanimate singular, derived from High Valyrian ūī [ˈuː.iː] "it (accusative)"), and po [ˈpo] (plural, derived from High Valyrian pōnte [ˈpoːn.te] "them (accusative)"). There is also an indefinite article, me [ˈme], derived from High Valyrian mēre [ˈmeː.re] ("one"). Word stress is less predictable than in High Valyrian, but commands are stressed word-finally (for example: ivetrá).
+Meereenese Valyrian
+— Meereenese Valyrian, Game of Thrones, season 6, episode 4.
+Meereenese Valyrian appears in Seasons 4 and 6 of Game of Thrones.
+Like Astapori Valyrian, it lacked long vowels as well as the sound /y/. However, its phonology departs considerably more from High Valyrian. This decision was a response to the request that it not be mutually intelligible with High Valyrian, unlike Astapori Valyrian, which is. For example, the word "Unsullied":
+Written form
+Peterson did not create a High Valyrian writing system for Game of Thrones, but he commented that he "was thinking something more like Egyptian's system of hieroglyphs—not in style, necessarily, but in their functionality. Egyptians had an alphabet, of sorts, a couple of phonetically-based systems, and a logography all layered on top of one another." In the third season's episode "The Bear and the Maiden Fair", Talisa is seen writing a Valyrian letter in the Latin alphabet, because according to Peterson, "it didn't seem worthwhile to create an entire writing system for what ultimately is kind of a throwaway shot".
+A writing system was eventually created for House of the Dragon. It's a mixed script, consisting of 3 types of glyphs:
+In media
+High Valyrian was featured in detail in Game of Thrones only from season 3 onwards, spoken mostly by Daenerys Targaryen (played by Emilia Clarke) on occasions with her scribe Missandei (played by Nathalie Emmanuel) and lieutenant Grey Worm (played by Jacob Anderson). The language has more prominence in the prequel House of the Dragon, mainly between the lead character Rhaenyra Targaryen (played by Milly Alcock as teenager and Emma D'Arcy as adult) and her uncle Daemon Targaryen (played by Matt Smith).
+Emma D'Arcy, who played the adult Rhaenyra in House of the Dragon, reports enjoying learning it, saying, "I actually really enjoyed the process. It's like a fully functioning language — it's fully operational and so it's really gratifying to unpick." Their co-star Matt Smith, who played Daemon, initially found it daunting, saying, "I had pages of it. Reams. At first, I dreaded it. But when I got to it, I quite enjoyed learning it and quite enjoyed performing it."

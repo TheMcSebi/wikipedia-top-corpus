@@ -1,0 +1,21 @@
+UTC+02:00
+UTC+02:00 is an identifier for a time offset from UTC of +02:00. In ISO 8601, the associated time would be written as 2020-11-08T23:41:45+02:00. This time is used in:
+As standard time (year-round)
+Principal cities: Cairo, Pretoria, Cape Town, Johannesburg, Khartoum, Lubumbashi, Kigali, Gaborone, Bujumbura, Manzini, Maseru, Tripoli,  Lilongwe, Maputo, Windhoek, Omdurman, Juba, Lusaka, Harare, Kaliningrad
+Central Africa
+Europe
+As standard time (Northern Hemisphere winter only)
+Principal cities: Kyiv, Bucharest, Athens, Jerusalem, Nicosia, Tallinn, Helsinki, Sofia, Riga, Vilnius, Chisinau, Mariehamn, North Nicosia, Tiraspol
+Eastern Europe
+Most countries observe European Union rule to remove DST.
+Middle East
+Principal cities: Jerusalem, Amman, Beirut, Gaza City
+As daylight saving time (Northern Hemisphere summer only)
+Europe
+Principal cities: Berlin, Rome, Paris, Madrid, Warsaw, Prague, Brussels, Copenhagen, Budapest, Amsterdam, Zurich, Barcelona, Belgrade, Stockholm 
+Discrepancies between official UTC+02:00 and geographical UTC+02:00
+Areas in UTC+02:00 longitudes using other time zones
+Using UTC+03:00
+Using UTC+01:00
+Areas between 7°30' E and 22°30' E ("physical" UTC+01:00)
+From south to north:

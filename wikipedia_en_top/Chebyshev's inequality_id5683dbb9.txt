@@ -1,0 +1,155 @@
+Chebyshev's inequality
+In probability theory, Chebyshev's inequality (also called the Bienaymé–Chebyshev inequality) guarantees that, for a wide class of probability distributions, no more than a certain fraction of values can be more than a certain distance from the mean. Specifically, no more than 1/k2 of the distribution's values can be k or more standard deviations away from the mean (or equivalently, at least 1 − 1/k2 of the distribution's values are less than k standard deviations away from the mean). The rule is often called Chebyshev's theorem, about the range of standard deviations around the mean, in statistics. The inequality has great utility because it can be applied to any probability distribution in which the mean and variance are defined. For example, it can be used to prove the weak law of large numbers.
+Its practical usage is similar to the 68–95–99.7 rule, which applies only to normal distributions. Chebyshev's inequality is more general, stating that a minimum of just 75% of values must lie within two standard deviations of the mean and 88.89% within three standard deviations for a broad range of different probability distributions.
+The term Chebyshev's inequality may also refer to Markov's inequality, especially in the context of analysis. They are closely related, and some authors refer to Markov's inequality as "Chebyshev's First Inequality," and the similar one referred to on this page as "Chebyshev's Second Inequality."
+History
+The theorem is named after Russian mathematician Pafnuty Chebyshev, although it was first formulated by his friend and colleague Irénée-Jules Bienaymé.: 98  The theorem was first stated without proof by Bienaymé in 1853 and later proved by Chebyshev in 1867. His student Andrey Markov provided another proof in his 1884 Ph.D. thesis.
+Statement
+Chebyshev's inequality is usually stated for random variables, but can be generalized to a statement about measure spaces.
+Probabilistic statement
+Let X (integrable) be a random variable with finite expected value μ and finite non-zero variance σ2. Then for any real number k > 0,
+Only the case $MATH$ is useful. When $MATH$ the right-hand side $MATH$ and the inequality is trivial as all probabilities are ≤ 1.
+As an example, using $MATH$ shows that the probability that values lie outside the interval $MATH$ does not exceed $MATH$.
+Because it can be applied to completely arbitrary distributions provided they have a known finite mean and variance, the inequality generally gives a poor bound compared to what might be deduced if more aspects are known about the distribution involved.
+Measure-theoretic statement
+Let (X, Σ, μ) be a measure space, and let f be an extended real-valued measurable function defined on X. Then for any real number t > 0 and 0 < p < ∞,
+More generally, if g is an extended real-valued measurable function, nonnegative and nondecreasing, with $MATH$ then: 
+The previous statement then follows by defining $MATH$ as $MATH$ if $MATH$ and $MATH$ otherwise.
+Example
+Suppose we randomly select a journal article from a source with an average of 1000 words per article, with a standard deviation of 200 words. We can then infer that the probability that it has between 600 and 1400 words (i.e. within k = 2 standard deviations of the mean) must be at least 75%, because there is no more than 1⁄k2 = 1/4 chance to be outside that range, by Chebyshev's inequality. But if we additionally know that the distribution is normal, we can say there is a 75% chance the word count is between 770 and 1230 (which is an even tighter bound).
+Sharpness of bounds
+As shown in the example above, the theorem typically provides rather loose bounds. However, these bounds cannot in general (remaining true for arbitrary distributions) be improved upon. The bounds are sharp for the following example: for any k ≥ 1,
+For this distribution, the mean μ = 0 and the standard deviation σ = 1/k , so
+Chebyshev's inequality is an equality for precisely those distributions that are a linear transformation of this example.
+Proof
+Markov's inequality states that for any real-valued random variable Y and any positive number a, we have Pr(|Y| ≥a) ≤ E(|Y|)/a. One way to prove Chebyshev's inequality is to apply Markov's inequality to the random variable Y = (X − μ)2 with a = (kσ)2:
+It can also be proved directly using conditional expectation:
+Chebyshev's inequality then follows by dividing by k2σ2.
+This proof also shows why the bounds are quite loose in typical cases: the conditional expectation on the event where |X − μ| < kσ is thrown away, and the lower bound of k2σ2 on the event |X − μ| ≥ kσ can be quite poor.
+Extensions
+Several extensions of Chebyshev's inequality have been developed.
+Selberg's inequality
+Selberg derived a generalization to arbitrary intervals. Suppose X is a random variable with mean μ and variance σ2. Selberg's inequality states that
+When $MATH$, this reduces to Chebyshev's inequality. These are known to be the best possible bounds.
+Finite-dimensional vector
+Chebyshev's inequality naturally extends to the multivariate setting, where one has n random variables Xi with mean μi and variance σi2. Then the following inequality holds.
+This is known as the Birnbaum–Raymond–Zuckerman inequality after the authors who proved it for two dimensions. This result can be rewritten in terms of vectors X = (X1, X2, ...) with mean μ = (μ1, μ2, ...), standard deviation σ = (σ1, σ2, ...), in the Euclidean norm || ⋅ ||.
+One can also get a similar infinite-dimensional Chebyshev's inequality. A second related inequality has also been derived by Chen. Let n be the dimension of the stochastic vector X and let E(X) be the mean of X. Let S be the covariance matrix and k > 0. Then
+where YT is the transpose of Y.
+The inequality can be written in terms of the Mahalanobis distance as
+where the Mahalanobis distance based on S is defined by
+Navarro proved that these bounds are sharp, that is, they are the best possible bounds for that regions when we just know the mean and the covariance matrix of X.
+Stellato et al. showed that this multivariate version of the Chebyshev inequality can be easily derived analytically as a special case of Vandenberghe et al. where the bound is computed by solving a semidefinite program (SDP).
+Known correlation
+If the variables are independent this inequality can be sharpened.
+Berge derived an inequality for two correlated variables X1, X2. Let ρ be the correlation coefficient between X1 and X2 and let σi2 be the variance of Xi. Then
+This result can be sharpened to having different bounds for the two random variables and having asymmetric bounds, as in Selberg's inequality.
+
+Olkin and Pratt derived an inequality for n correlated variables.
+where the sum is taken over the n variables and
+where ρij is the correlation between Xi and Xj.
+Olkin and Pratt's inequality was subsequently generalised by Godwin.
+Higher moments
+Mitzenmacher and Upfal note that by applying Markov's inequality to the nonnegative variable $MATH$, one can get a family of tail bounds
+For n = 2 we obtain Chebyshev's inequality. For k ≥ 1, n > 4 and assuming that the nth moment exists, this bound is tighter than Chebyshev's inequality. This strategy, called the method of moments, is often used to prove tail bounds.
+Exponential moment
+A related inequality sometimes known as the exponential Chebyshev's inequality is the inequality
+Let K(t) be the cumulant generating function,
+Taking the Legendre–Fenchel transformation of K(t) and using the exponential Chebyshev's inequality we have
+This inequality may be used to obtain exponential inequalities for unbounded variables.
+Bounded variables
+If P(x) has finite support based on the interval [a, b], let M = max(|a|, |b|) where |x| is the absolute value of x. If the mean of P(x) is zero then for all k > 0
+The second of these inequalities with r = 2 is the Chebyshev bound. The first provides a lower bound for the value of P(x).
+Finite samples
+Univariate case
+Saw et al extended Chebyshev's inequality to cases where the population mean and variance are not known and may not exist, but the sample mean and sample standard deviation from N samples are to be employed to bound the expected value of a new drawing from the same distribution. The following simpler version of this inequality is given by Kabán.
+where X is a random variable which we have sampled N times, m is the sample mean, k is a constant and s is the sample standard deviation.
+This inequality holds even when the population moments do not exist, and when the sample is only weakly exchangeably distributed; this criterion is met for randomised sampling. A table of values for the Saw–Yang–Mo inequality for finite sample sizes (N < 100) has been determined by Konijn. The table allows the calculation of various confidence intervals for the mean, based on multiples, C, of the standard error of the mean as calculated from the sample. For example, Konijn shows that for N = 59, the 95 percent confidence interval for the mean m is (m − Cs, m + Cs) where C = 4.447 × 1.006 = 4.47 (this is 2.28 times larger than the value found on the assumption of normality showing the loss on precision resulting from ignorance of the precise nature of the distribution).
+If the standard deviation is a multiple of the mean then a further inequality can be derived,
+A table of values for the Saw–Yang–Mo inequality for finite sample sizes (N < 100) has been determined by Konijn.
+For fixed N and large m the Saw–Yang–Mo inequality is approximately
+Beasley et al have suggested a modification of this inequality
+In empirical testing this modification is conservative but appears to have low statistical power. Its theoretical basis currently remains unexplored.
+Dependence on sample size
+The bounds these inequalities give on a finite sample are less tight than those the Chebyshev inequality gives for a distribution. To illustrate this let the sample size N = 100 and let k = 3. Chebyshev's inequality states that at most approximately 11.11% of the distribution will lie at least three standard deviations away from the mean. Kabán's version of the inequality for a finite sample states that at most approximately 12.05% of the sample lies outside these limits. The dependence of the confidence intervals on sample size is further illustrated below.
+For N = 10, the 95% confidence interval is approximately ±13.5789 standard deviations.
+For N = 100 the 95% confidence interval is approximately ±4.9595 standard deviations; the 99% confidence interval is approximately ±140.0 standard deviations.
+For N = 500 the 95% confidence interval is approximately ±4.5574 standard deviations; the 99% confidence interval is approximately ±11.1620 standard deviations.
+For N = 1000 the 95% and 99% confidence intervals are approximately ±4.5141 and approximately ±10.5330 standard deviations respectively.
+The Chebyshev inequality for the distribution gives 95% and 99% confidence intervals of approximately ±4.472 standard deviations and ±10 standard deviations respectively.
+Samuelson's inequality
+Although Chebyshev's inequality is the best possible bound for an arbitrary distribution, this is not necessarily true for finite samples. Samuelson's inequality states that all values of a sample will lie within  √N − 1 standard deviations of the mean (with probability one).
+By comparison, Chebyshev's inequality states that all but a 1/N fraction of the sample will lie within √N standard deviations of the mean. Since there are N samples, this means that no samples will lie outside √N standard deviations of the mean, which is worse than Samuelson's inequality. However, the benefit of Chebyshev's inequality is that it can be applied more generally to get confidence bounds for ranges of standard deviations that do not depend on the number of samples.
+Semivariances
+An alternative method of obtaining sharper bounds is through the use of semivariances (partial variances). The upper (σ+2) and lower (σ−2) semivariances are defined as
+where m is the arithmetic mean of the sample and n is the number of elements in the sample.
+The variance of the sample is the sum of the two semivariances:
+In terms of the lower semivariance Chebyshev's inequality can be written
+Putting
+Chebyshev's inequality can now be written
+A similar result can also be derived for the upper semivariance.
+If we put
+Chebyshev's inequality can be written
+Because σu2 ≤ σ2, use of the semivariance sharpens the original inequality.
+If the distribution is known to be symmetric, then
+and
+This result agrees with that derived using standardised variables.
+Multivariate case
+Stellato et al. simplified the notation and extended the empirical Chebyshev inequality from Saw et al. to the multivariate case. Let $MATH$ be a random variable and let $MATH$. We draw $MATH$ iid samples of $MATH$ denoted as $MATH$. Based on the first $MATH$ samples, we define the empirical mean as $MATH$ and the unbiased empirical covariance as $MATH$. If $MATH$ is nonsingular, then for all $MATH$ then
+Remarks
+In the univariate case, i.e. $MATH$, this inequality corresponds to the one from Saw et al.  Moreover, the right-hand side can be simplified by upper bounding the floor function by its argument
+As $MATH$, the right-hand side tends to $MATH$ which corresponds to the multivariate Chebyshev inequality over ellipsoids shaped according to $MATH$ and centered in $MATH$.
+Sharpened bounds
+Chebyshev's inequality is important because of its applicability to any distribution. As a result of its generality it may not (and usually does not) provide as sharp a bound as alternative methods that can be used if the distribution of the random variable is known. To improve the sharpness of the bounds provided by Chebyshev's inequality a number of methods have been developed; for a review see eg.
+Cantelli's inequality
+Cantelli's inequality due to Francesco Paolo Cantelli states that for a real random variable (X) with mean (μ) and variance (σ2)
+where a ≥ 0.
+This inequality can be used to prove a one tailed variant of Chebyshev's inequality with k > 0
+The bound on the one tailed variant is known to be sharp. To see this consider the random variable X that takes the values
+Then E(X) = 0 and E(X2) = σ2 and P(X < 1) = 1 / (1 + σ2).
+An application: distance between the mean and the median
+The one-sided variant can be used to prove the proposition that for probability distributions having an expected value and a median, the mean and the median can never differ from each other by more than one standard deviation.  To express this in symbols let μ, ν, and σ be respectively the mean, the median, and the standard deviation. Then
+There is no need to assume that the variance is finite because this inequality is trivially true if the variance is infinite.
+The proof is as follows. Setting k = 1 in the statement for the one-sided inequality gives:
+Changing the sign of X and of μ, we get
+As the median is by definition any real number m that satisfies the inequalities
+this implies that the median lies within one standard deviation of the mean. A proof using Jensen's inequality also exists.
+Bhattacharyya's inequality
+Bhattacharyya extended Cantelli's inequality using the third and fourth moments of the distribution.
+Let μ = 0 and σ2 be the variance. Let γ = E(X3)/σ3 and κ = E(X4)/σ4.
+If k2 − kγ − 1 > 0 then
+The necessity of k2 − kγ − 1 > 0 requires that k be reasonably large.
+In the case $MATH$ this simplifies to
+Since $MATH$ for k close to 1, this bound improves slightly over Cantelli's bound $MATH$ as κ > 1.
+wins a factor 2 over Chebyshev's inequality.
+Gauss's inequality
+In 1823 Gauss showed that for a distribution with a unique mode at zero,
+Vysochanskij–Petunin inequality
+The Vysochanskij–Petunin inequality generalizes Gauss's inequality, which only holds for deviation from the mode of a unimodal distribution, to deviation from the mean, or more generally, any center. If X is a unimodal distribution with mean μ and variance σ2, then the inequality states that
+For symmetrical unimodal distributions, the median and the mode are equal, so both the Vysochanskij–Petunin inequality and Gauss's inequality apply to the same center. Further, for symmetrical distributions, one-sided bounds can be obtained by noticing that
+The additional fraction of $MATH$ present in these tail bounds lead to better confidence intervals than Chebyshev's inequality. For example, for any symmetrical unimodal distribution, the Vysochanskij–Petunin inequality states that 4/(9 x 3^2) = 4/81 ≈ 4.9% of the distribution lies outside 3 standard deviations of the mode.
+Bounds for specific distributions
+DasGupta has shown that if the distribution is known to be normal
+From DasGupta's inequality it follows that for a normal distribution at least 95% lies within approximately 2.582 standard deviations of the mean. This is less sharp than the true figure (approximately 1.96 standard deviations of the mean).
+Related inequalities
+Several other related inequalities are also known.
+Paley–Zygmund inequality
+The Paley–Zygmund inequality gives a lower bound on tail probabilities, as opposed to Chebyshev's inequality which gives an upper bound. Applying it to the square of a random variable, we get
+Haldane's transformation
+One use of Chebyshev's inequality in applications is to create confidence intervals for variates with an unknown distribution. Haldane noted, using an equation derived by Kendall, that if a variate (x) has a zero mean, unit variance and both finite skewness (γ) and kurtosis (κ) then the variate can be converted to a normally distributed standard score (z):
+This transformation may be useful as an alternative to Chebyshev's inequality or as an adjunct to it for deriving confidence intervals for variates with unknown distributions.
+While this transformation may be useful for moderately skewed and/or kurtotic distributions, it performs poorly when the distribution is markedly skewed and/or kurtotic.
+He, Zhang and Zhang's inequality
+For any collection of n non-negative independent random variables Xi with expectation 1 
+Integral Chebyshev inequality
+There is a second (less well known) inequality also named after Chebyshev
+If f, g : [a, b] → R are two monotonic functions of the same monotonicity, then
+If f and g are of opposite monotonicity, then the above inequality works in the reverse way.
+This inequality is related to Jensen's inequality, Kantorovich's inequality, the Hermite–Hadamard inequality and Walter's conjecture.
+Other inequalities
+There are also a number of other inequalities associated with Chebyshev:
+Notes
+The Environmental Protection Agency has suggested best practices for the use of Chebyshev's inequality for estimating confidence intervals.
+See also
+References
+Further reading

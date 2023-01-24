@@ -1,0 +1,87 @@
+Two truths doctrine
+The Buddhist doctrine of the two truths (Sanskrit: dvasatya, Wylie: bden pa gnyis) differentiates between two levels of satya (Sanskrit; Pali: sacca; word meaning "truth" or "reality") in the teaching of the Śākyamuni Buddha: the "conventional" or "provisional" (saṁvṛti) truth, and the "ultimate" (paramārtha) truth.
+The exact meaning varies between the various Buddhist schools and traditions. The best known interpretation is from the Madhyamaka school of Mahāyāna Buddhism, whose founder was the Indian Buddhist monk and philosopher Nāgārjuna. For Nāgārjuna, the two truths are epistemological truths. The phenomenal world is accorded a provisional existence. The character of the phenomenal world is declared to be neither real nor unreal, but logically indeterminable. Ultimately, all phenomena are empty (śūnyatā) of an inherent self or essence due to the non-existence of the self (anattā), but exist depending on other phenomena (pratītyasamutpāda).
+In Chinese Buddhism, the Madhyamaka position is accepted and the two truths refer to two ontological truths. Reality exists of two levels, a relative level and an absolute level. Based on their understanding of the Mahāyāna Mahāparinirvāṇa Sūtra, the Chinese Buddhist monks and philosophers supposed that the teaching of the Buddha-nature was, as stated by that sutra, the final Buddhist teaching, and that there is an essential truth above śūnyatā and the two truths. The doctrine of śūnyatā is an attempt to show that it is neither proper nor strictly justifiable to regard any metaphysical system as absolutely valid. It doesn't lead to nihilism but strikes a middle course between excessive naivete and excessive scepticism.
+Etymology and meaning
+Satya is usually taken to mean "truth", but also refers to "a reality", "a genuinely real existent". Satya (Sat-yá) is derived from Sat and ya. Sat means being, reality, and is the present participle of the root as, "to be" (PIE *h₁es-; cognate to English is). Ya and yam means "advancing, supporting, hold up, sustain, one that moves". As a composite word, Satya and Satyam imply that "which supports, sustains and advances reality, being"; it literally means, "that which is true, actual, real, genuine, trustworthy, valid".
+The two truths doctrine states that there is:
+Chandrakīrti suggests three possible meanings of saṁvṛti : 
+The conventional truth may be interpreted as "obscurative truth" or "that which obscures the true nature" as a result. It is constituted by the appearances of mistaken awareness. Conventional truth would be the appearance that includes a duality of apprehender and apprehended, and objects perceived within that. Ultimate truths are phenomena free from the duality of apprehender and apprehended.
+Background
+Buddha's teaching of Dharma may be viewed as a path (mārga) of release from suffering or Dukkha. The first Noble Truth equates life-experiences with pain and suffering. Buddha's language was simple and colloquial. Naturally, various statements of Buddha at times appear contradictory to each other. Later Buddhist teachers were faced with the problem of resolving these contradictions. Nagarjuna and other teachers introduced an exegetical technique of distinguishing between two levels of truth, the conventional and the ultimate.
+A similar method is reflected in the Brahmanical exegesis of the Vedic scriptures, which combine the ritualistic injunctions of the Brahmana and speculative philosophical questions of the Upanishads as one whole 'revealed' body of work thereby contrasting the jñāna kāņḍa with karmakāņḍa.
+Origin and development
+While the concept of the two truths is associated with the Madhyamaka school, its history goes back to the earliest years of Buddhism.
+Pali Canon
+In the Pali canon, the distinction is not made between a lower truth and a higher truth, but rather between two kinds of expressions of the same truth, which must be interpreted differently. Thus a phrase or passage, or a whole sutta, might be classed as neyyattha or samuti or vohāra, but it is not regarded at this stage as expressing or conveying a different level of truth.
+Nītattha (Pāli; Sanskrit: nītārtha), "of plain or clear meaning" and neyyattha (Pāli; Sanskrit: neyartha), "[a word or sentence] having a sense that can only be guessed". These terms were used to identify texts or statements that either did or did not require additional interpretation. A nītattha text required no explanation, while a neyyattha one might mislead some people unless properly explained:
+Saṃmuti or samuti (Pāli; Sanskrit: saṃvṛti), meaning "common consent, general opinion, convention", and paramattha (Pāli; Sanskrit: paramārtha), meaning "ultimate", are used to distinguish conventional or common-sense language, as used in metaphors or for the sake of convenience, from language used to express higher truths directly. The term vohāra (Pāli; Sanskrit: vyavahāra, "common practice, convention, custom" is also used in more or less the same sense as samuti.
+Theravāda
+
+The Theravādin commentators expanded on these categories and began applying them not only to expressions but to the truth then expressed: 
+Prajnāptivāda
+The Prajñaptivāda school took up the distinction between the conventional (saṃvṛti) and ultimate (paramārtha) truths, and extended the concept to metaphysical-phenomenological constituents (dharma), distinguishing those that are real (tattva) from those that are purely conceptual, i.e., ultimately nonexistent (prajñāpti).
+Madhyamaka
+The distinction between the two truths (satyadvayavibhāga) was fully developed by Nāgārjuna (c. 150 – c. 250 CE) of the Madhyamaka school. The Madhyamikas distinguish between loka-samvriti-satya, "world speech truth" c.q. "relative truth" c.q. "truth that keeps the ultimate truth concealed", and paramarthika satya, ultimate truth.
+Loka-samvriti-satya can be further divided in tathya-samvrti or loka-samvrti, and mithya-samvrti or aloka-samvrti, "true samvrti" and "false samvrti". Tathya-samvrti or "true samvrti" refers to "things" which concretely exist and can be perceived as such by the senses, while mithya-samvrti or "false samvrti" refers to false cognitions of "things" which do not exist as they are perceived.
+
+
+Nagarjuna's Mūlamadhyamakakārikā provides a logical defense for the claim that all things are empty (sunyata) of an inherently-existing self-nature. Sunyata, however, is also shown to be "empty", and Nagarjuna's assertion of "the emptiness of emptiness" prevents sunyata from constituting a higher or ultimate reality. Nagarjuna's view is that "the ultimate truth is that there is no ultimate truth". According to Siderits, Nagarjuna is a "semantic anti-dualist" who posits that there are only conventional truths. Jay L. Garfield explains: 
+
+
+In Nāgārjuna's Mūlamadhyamakakārikā the two truths doctrine is used to defend the identification of dependent origination (pratītyasamutpāda) with emptiness (śūnyatā): 
+
+
+In Nagarjuna's own words: 
+Nāgārjuna based his statement of the two truths on the Kaccāyanagotta Sutta. In the Kaccāyanagotta Sutta, the Buddha, speaking to the monk Kaccayana Gotta on the topic of right view, describes the middle Way between nihilism and eternalism: 
+According to Chattopadhyaya, although Nagarjuna presents his understanding of the two truths as a clarification of the teachings of the Buddha, the two truths doctrine as such is not part of the earliest Buddhist tradition.
+Yogacara
+The Yogacara school of Buddhism distinguishes the Three Natures and the Trikaya. The Three Natures are:
+Lankavatara Sutra
+
+The Lankavatara Sutra took an idealistic turn in apprehending reality. D. T. Suzuki writes the following: 
+East Asian Buddhism
+When Buddhism came to China from Gandhara (now Afghanistan) and India in the first/second century CE, it was initially adapted to the Chinese culture and understanding. Buddhism was exposed to Confucianist and Taoist influences. Neo-Taoist concepts were taken over in Chinese Buddhism. Concepts such as "T’i -yung" (Essence and Function) and "Li-Shih" (Noumenon and Phenomenon) were first taken over by Hua-yen Buddhism, which consequently influenced Chán deeply.
+The two truths doctrine was another point of confusion. Chinese thinking took this to refer to two ontological truths: reality exists of two levels, a relative level and an absolute level. Taoists at first misunderstood sunyata to be akin to the Taoist non-being. In Madhyamaka the two truths are two epistemological truths: two different ways to look at reality. Based on their understanding of the Mahayana Mahaparinirvana Sutra the Chinese supposed that the teaching of the Buddha-nature was, as stated by that sutra, the final Buddhist teaching, and that there is an essential truth above sunyata and the two truths.
+Hua-yen Buddhism
+The Huayan school or Flower Garland is a tradition of Mahayana Buddhist philosophy that flourished in China during the Tang period. It is based on the Sanskrit Flower Garland Sutra (S. Avataṃsaka Sūtra, C. Huayan Jing) and on a lengthy Chinese interpretation of it, the Huayan Lun.  The name Flower Garland is meant to suggest the crowning glory of profound understanding.
+The most important philosophical contributions of the Huayan school were in the area of its metaphysics. It taught the doctrine of the mutual containment and interpenetration of all phenomena, as expressed in Indra's net. One thing contains all other existing things, and all existing things contain that one thing.
+Distinctive features of this approach to Buddhist philosophy include:
+Huayan teaches the Four Dharmadhatu, four ways to view reality:
+Absolute and relative in Zen
+The teachings of Zen are expressed by a set of polarities: Buddha-nature - sunyata, absolute-relative, sudden and gradual enlightenment.
+The Prajnaparamita Sutras and Madhyamaka emphasized the non-duality of form and emptiness: form is emptiness, emptiness is form, as the Heart Sutra says.
+The idea that the ultimate reality is present in the daily world of relative reality fitted into the Chinese culture which emphasized the mundane world and society. But this does not tell how the absolute is present in the relative world. This question is answered in such schemata as the Five Ranks of Tozan and the Oxherding Pictures.
+Essence-function in Korean Buddhism
+The polarity of absolute and relative is also expressed as "essence-function". The absolute is essence, the relative is function. They can't be seen as separate realities, but interpenetrate each other. The distinction does not "exclude any other frameworks such as neng-so or "subject-object" constructions", though the two "are completely different from each other in terms of their way of thinking".
+
+
+In Korean Buddhism, essence-function is also expressed as "body" and "the body's functions": 
+A metaphor for essence-function is "A lamp and its light", a phrase from the Platform Sutra, where Essence is lamp and Function is light.
+Nyingma
+The Nyingma tradition is the oldest of the four major schools of Tibetan Buddhism. It is founded on the first translations of Buddhist scriptures from Sanskrit into Tibetan, in the eighth century. Ju Mipham (1846–1912) in his commentary to the Madhyamālaṃkāra of Śāntarakṣita (725–788) says:
+
+
+The following sentence from Mipham's exegesis of Śāntarakṣita's Madhyamālaṃkāra highlights the relationship between the absence of the four extremes (mtha'-bzhi) and the nondual or indivisible two truths (bden-pa dbyer-med): 
+Dzogchen
+Dzogchen holds that the two truths are ultimately resolved into non-duality as a lived experience and are non-different.
+Understanding in other traditions
+Jainism
+Anekāntavāda (Sanskrit: अनेकान्तवाद, "many-sidedness") refers to the Jain doctrine about metaphysical truths that emerged in ancient India.[1] It states that the ultimate truth and reality is complex and has multiple aspects.[2] Anekantavada has also been interpreted to mean non-absolutism, "intellectual Ahimsa",[3] religious pluralism,[4] as well as a rejection of fanaticism that leads to terror attacks and mass violence.
+The origins of anekāntavāda can be traced back to the teachings of Mahāvīra (599–527 BCE), the 24th Jain Tīrthankara.[10] The dialectical concepts of syādvāda "conditioned viewpoints" and nayavāda "partial viewpoints" arose from anekāntavāda in the medieval era, providing Jainism with more detailed logical structure and expression. 
+The Jain philosopher Kundakunda distinguishes between two perspectives of truth:
+For Kundakunda, the mundane realm of truth is also the relative perspective of normal folk, where the workings of karma operate and where things emerge, last for a certain duration and perish. The ultimate perspective meanwhile, is that of the liberated jiva, which is "blissful, energetic, perceptive, and omniscient".
+Advaita Vedanta
+Advaita took over from the Madhyamika the idea of levels of reality. Usually two levels are being mentioned, but Shankara uses sublation as the criterion to postulate an ontological hierarchy of three levels.
+Mīmāṃsā refutation of Two Truths Doctrine
+
+Chattopadhyaya notes that the eighth-century Mīmāṃsā philosopher Kumārila Bhaṭṭa rejected the Two Truths Doctrine in his Shlokavartika. Bhaṭṭa was highly influential with his defence of the Vedic rituals against medieval Buddhist rejections of these rituals. Some believe that his influence contributed to the decline of Buddhism in India since his lifetime coincides with the period in which Buddhism began to decline. According to Kumarila, the two truths doctrine is an idealist doctrine, which conceals the fact that "the theory of the nothingness of the objective world" is absurd: 
+Correspondence with Pyrrhonism
+McEvilley notes a correspondence between Greek Pyrrhonism and Madhyamika doctrines: 
+Thus in Pyrrhonism "absolute truth" corresponds to acatalepsy and "conventional truth" to phantasiai.
+See also
+Notes
+References
+Sources
+Published sources
+Web-sources

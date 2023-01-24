@@ -1,0 +1,32 @@
+Logistic distribution
+In probability theory and statistics, the logistic distribution is a continuous probability distribution. Its cumulative distribution function is the logistic function, which appears in logistic regression and feedforward neural networks. It resembles the normal distribution in shape but has heavier tails (higher kurtosis).  The logistic distribution is a special case of the Tukey lambda distribution.
+Specification
+Probability density function
+When the location parameter μ is 0 and the scale parameter s is 1, then the probability density function of the logistic distribution is given by
+Thus in general the density is:
+Because this function can be expressed in terms of the square of the hyperbolic secant function "sech", it is sometimes referred to as the sech-square(d) distribution. (See also: hyperbolic secant distribution).
+Cumulative distribution function
+The logistic distribution receives its name from its cumulative distribution function, which is an instance of the family of logistic functions. The cumulative distribution function of the logistic distribution is also a scaled version of the hyperbolic tangent.
+In this equation μ is the mean, and s is a scale parameter proportional to the standard deviation.
+Quantile function
+The inverse cumulative distribution function (quantile function) of the logistic distribution is a generalization of the logit function.  Its derivative is called the quantile density function.  They are defined as follows:
+Alternative parameterization
+An alternative parameterization of the logistic distribution can be derived by expressing the scale parameter, $MATH$, in terms of the standard deviation, $MATH$, using the substitution $MATH$, where $MATH$.  The alternative forms of the above functions are reasonably straightforward.
+Applications
+The logistic distribution—and the S-shaped pattern of its cumulative distribution function (the logistic function) and quantile function (the logit function)—have been extensively used in many different areas. 
+Logistic regression
+One of the most common applications is in logistic regression, which is used for modeling categorical dependent variables (e.g., yes-no choices or a choice of 3 or 4 possibilities), much as standard linear regression is used for modeling continuous variables (e.g., income or population). Specifically, logistic regression models can be phrased as latent variable models with error variables following a logistic distribution. This phrasing is common in the theory of discrete choice models, where the logistic distribution plays the same role in logistic regression as the normal distribution does in probit regression. Indeed, the logistic and normal distributions have a quite similar shape. However, the logistic distribution has heavier tails, which often increases the robustness of analyses based on it compared with using the normal distribution.
+Physics
+The PDF of this distribution has the same functional form as the derivative of the Fermi function. In the theory of electron properties in semiconductors and metals, this derivative sets the relative weight of the various electron energies in their contributions to electron transport. Those energy levels whose energies are closest to the distribution's "mean" (Fermi level) dominate processes such as electronic conduction, with some smearing induced by temperature.: 34  Note however that the pertinent probability distribution in Fermi–Dirac statistics is actually a simple Bernoulli distribution, with the probability factor given by the Fermi function.
+The logistic distribution arises as limit distribution of a finite-velocity damped random motion described by a telegraph process in which the random times between consecutive velocity changes have independent exponential distributions with linearly increasing parameters.
+Hydrology
+In hydrology the distribution of long duration river discharge and rainfall (e.g., monthly and yearly totals, consisting of the sum of 30 respectively 360 daily values) is often thought to be almost normal according to the central limit theorem. The normal distribution, however, needs a numeric approximation. As the logistic distribution, which can be solved analytically, is similar to the normal distribution, it can be used instead. The blue picture illustrates an example of fitting the logistic distribution to ranked October rainfalls—that are almost normally distributed—and it shows the 90% confidence belt based on the binomial distribution. The rainfall data are represented by plotting positions as part of the cumulative frequency analysis.
+Chess ratings
+The United States Chess Federation and FIDE have switched its formula for calculating chess ratings from the normal distribution to the logistic distribution; see the article on Elo rating system (itself based on the normal distribution).
+Related distributions
+Derivations
+Higher-order moments
+The nth-order central moment can be expressed in terms of the quantile function:
+This integral is well-known and can be expressed in terms of Bernoulli numbers:
+See also
+Notes

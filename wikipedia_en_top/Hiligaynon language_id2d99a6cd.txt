@@ -1,0 +1,174 @@
+Hiligaynon language
+Hiligaynon, also often referred to as Ilonggo or Binisaya/Bisaya nga Hiniligaynon/Inilonggo, is an Austronesian regional language spoken in the Philippines by about 9.1 million people, predominantly in Western Visayas and Soccsksargen, most of whom belong to the Hiligaynon people. It is the second-most widely spoken language in the Visayas and belongs to the Bisayan languages, and it is more distantly related to other Philippine languages.
+It also has one of the largest native language-speaking populations of the Philippines, despite it not being taught and studied formally in schools and universities until 2012. Hiligaynon is given the ISO 639-2 three-letter code hil, but has no ISO 639-1 two-letter code.
+Hiligaynon is mainly concentrated in the regions of Western Visayas (Iloilo, Capiz, Guimaras, and Negros Occidental), as well as in South Cotabato (including General Santos), Sultan Kudarat, and North Cotabato in Soccsksargen. It is also spoken in other neighboring provinces, such as Antique and Aklan in Western Visayas, Negros Oriental in Central Visayas, Masbate in Bicol Region, and Romblon and Palawan in Mimaropa. It is also spoken as a second language by Kinaray-a speakers in Antique, Aklanon/Malaynon speakers in Aklan, Capiznon speakers in Capiz and Cebuano speakers in Negros Oriental. There are approximately 9,300,000 people in and out of the Philippines who are native speakers of Hiligaynon and an additional 5,000,000 capable of speaking it with a substantial degree of proficiency.
+Nomenclature
+Aside from Hiligaynon, the language is also referred to as Ilonggo (also spelled Ilongo), as it originated in Iloilo. Many speakers outside Iloilo argue, however, that this is an incorrect usage of the word Ilonggo. In precise usage, these people opine that Ilonggo should be used only in relation to the ethnolinguistic group of native inhabitants of Iloilo and the culture associated with native Hiligaynon speakers in that place, including their language. The disagreement over the usage of Ilonggo to refer to the language extends to Philippine language specialists and native laypeople.
+Historically, the term Visayan had originally been applied to the people of Panay; however, in terms of language, Visayan is more used today to refer to what is also known as Cebuano. As pointed out by H. Otley Beyer and other anthropologists, the term Visayan was first applied only to the people of Panay and to their settlements eastward in the island of Negros (especially its western portion), and northward in the smaller islands, which now compose the province of Romblon. In fact, at the early part of Spanish Colonization in the Philippines, the Spaniards used the term Visayan only for these areas. While the people of Cebu, Bohol and Leyte were for a long time known only as Pintados. The name Visayan was later extended to these other islands because, as several of the early writers state, their languages are closely allied to the Visayan dialect of Panay.
+History
+Historical evidence from observations of early Spanish explorers in the Archipelago shows that the nomenclature used to refer to this language had its origin among the people of the coasts or people of the Ilawod ("los [naturales] de la playa") in Iloilo, Panay, whom Spanish explorer Miguel de Loarca called Yligueynes (or the more popular term Hiligaynon, also referred to by the Karay-a people as Siná). The term Hiligaynon came from the root word ilig ('to go downstream'), referring to a flowing river in Iloilo. In contrast, the Kinaray-a has been used by what the Spanish colonizers called Arayas, which may be a Spanish misconception of the Hiligaynon words Iraya or taga-Iraya, or the current and more popular version Karay-a ('highlanders' – people of Iraya/highlands).
+Dialects
+Similar to many languages in the Philippines, very little research on dialectology has been done on Hiligaynon. Standard Hiligaynon, simply called Ilonggo, is the dialect that is used in the province of Iloilo, primarily in the northern and eastern portions of the province. It has a more traditional and extensive vocabulary, whereas the Urban Hiligaynon dialect spoken in Metro Iloilo has a more simplified or modern vocabulary. For example, the term for 'to wander,' 'to walk,' or 'to stroll' in Urban Hiligaynon is lágaw, which is also widely used by most of the Hiligaynon speakers, whereas in Standard Hiligaynon, dayán is more commonly used, which has rarely or never been used by other dialects of the language. Another example, amó iní, ('this is it') in Standard Hiligaynon can be simplified in Urban Hiligaynon and become 'mó'ní.
+Some of the other widely recognized dialects of the language, aside from Standard Hiligaynon and Urban Hiligaynon, are Bacolodnon Hiligaynon (Metro Bacolod dialect), Negrense Hiligaynon (provincial Negros Occidental dialect that is composed of three sub-variants: Northern, Central and Southern Negrense Hiligaynon), Guimaras Hiligaynon, and Mindanao Hiligaynon.
+Some native speakers also consider Kinaray-a (also known as Hiniraya or Antiqueño) and Capiznon dialects of Hiligaynon; however, linguists have classified Kinaray-a as a Western Bisayan language, while Capiznon is a Central Bisayan language closely related to Hiligaynon.
+Phonology
+Consonants
+Consonants [d] and [ɾ] were once allophones but cannot interchange as in other Philippine languages: patawaron ('to forgive') [from patawad, 'forgiveness'] but not patawadon, and tagadiín ('from where') [from diín, 'where'] but not tagariín.
+Vowels
+There are four main vowels: /a/, /i ~ ɛ/, /o ~ ʊ/, and /u/. [i] and [ɛ] (both spelled i) are allophones, with [i] in the beginning and middle and sometimes final syllables and [ɛ] in final syllables. The vowels [ʊ] and [o] are also allophones, with [ʊ] always being used when it is the beginning of a syllable, and [o] always used when it ends a syllable.
+Writing system
+Hiligaynon is written using the Latin script. Until the second half of the 20th century, Hiligaynon was widely written largely following Spanish orthographic conventions. Nowadays there is no officially recognized standard orthography for the language and different writers may follow different conventions. It is common for the newer generation, however, to write the language based on the current orthographic rules of Filipino.
+A noticeable feature of the Spanish-influenced orthography absent in those writing following Filipino's orthography is the use of "c" and "qu" in representing /k/ (now replaced with "k" in all instances) and the absence of the letter "w" ("u" was formerly used in certain instances).
+The core alphabet consists of 20 letters used for expressing consonants and vowels in Hiligaynon, each of which comes in an uppercase and lowercase variety.
+Additional symbols
+The apostrophe ⟨'⟩ and hyphen ⟨-⟩ also appear in Hiligaynon writing, and might be considered separate letters.
+The hyphen, in particular, is used medially to indicate the glottal stop san-o 'when' gab-e 'evening; night'. It is also used in reduplicated words: adlaw-adlaw 'daily, every day', from adlaw 'day, sun'. This marking is not used in reduplicated words whose base is not also used independently, as in pispis 'bird'.
+Hyphens are also used in words with successive sounds of /g/ and /ŋ/, to separate the letters with the digraph NG. Like in the word gin-gaan 'was given'; without the hyphen, it would be read as gingaan /gi.ŋaʔan/ as opposed to /gin.gaʔan/.
+In addition, some English letters may be used in borrowed words.
+Grammar
+Determiners
+Hiligaynon has three types of case markers: absolutive, ergative, and oblique. These types in turn are divided into personal, that have to do with names of people, and impersonal, that deal with everything else, and further into singular and plural types, though the plural impersonal case markers are just the singular impersonal case markers + mga (a contracted spelling for /maŋa/), a particle used to denote plurality in Hiligaynon.
+(*)The articles sing and sing mga means the following noun is indefinite, while sang tells of a definite noun, like the use of a in English as opposed to the; however, it is not as common in modern speech, being replaced by sang. It appears in conservative translations of the Bible into Hiligaynon and in traditional or formal speech.
+(**)The plural personal case markers are not used very often and not even by all speakers. Again, this is an example of a case marker that has fallen largely into disuse, but is still occasionally used when speaking a more traditional form of Hiligaynon, using fewer Spanish loan words.
+The case markers do not determine which noun is the subject and which is the object; rather, the affix of the verb determines this, though the ang-marked noun is always the topic.
+Demonstrative pronouns
+In addition to this, there are two verbal deictics, karí, meaning 'come to speaker', and kadto, meaning 'to go yonder'.
+Copula
+Hiligaynon lacks the marker of sentence inversion ay of Tagalog/Filipino or hay of Akeanon. Instead sentences in SV form (Filipino: Di karaniwang anyo) are written without any marker or copula.
+Examples: 
+Si Saxa ay maganda (Tagalog)
+Si Saxa matahum / Gwapa si Saxa (Hiligaynon) = 'Saxa is beautiful.'
+'Saxa is beautiful' (English)
+There is no direct translation for the English copula to be in Hiligaynon. However, the prefixes mangin- and nangin- may be used to mean will be and became, respectively.
+Example: Manamì mangín manggaránon.'It is nice to become rich.'
+The Spanish copula estar ('to be') has also become a part of the Hiligaynon lexicon. Its meaning and pronunciation have changed compared to its Spanish meaning, however. In Hiligaynon it is pronounced as istar and means 'to live (in)/location' (Compare with the Hiligaynon word puyô).
+Example: Nagaistar ako sa tabuk suba.'I live in tabuk suba'. Tabuk suba translates to 'other side of the river' and is also a barangay in Jaro, Iloilo.
+Existential
+To indicate the existence of an object, the word may is used.
+Example:
+May
+EXIST
+idô
+dog
+(a)ko
+1SG
+May idô (a)ko
+EXIST dog 1SG
+I have a dog.
+Hiligaynon linkers
+When an adjective modifies a noun, the linker nga links the two.
+Example:
+Ido nga itom'black dog'
+Sometimes, if the linker is preceded by a word that ends in a vowel, glottal stop or the letter N, it becomes acceptable to contract it into -ng, as in Filipino. This is often used to make the words sound more poetic or to reduce the number of syllables. Sometimes the meaning may change as in maayo nga aga, '(the) good morning', and maayong aga, the greeting for 'good morning'.
+The linker ka is used if a number modifies a noun.
+Example:
+Anum ka ido'six dogs'
+Interrogative pronouns
+The interrogative pronouns of Hiligaynon are as follows: diin, san-o, sin-o, nga-a, kamusta, ano, and pila
+Diin means 'where'.Example: Diin ka na subong?'Where are you now?'
+A derivation of diin, tagadiin, is used to inquire the birthplace or hometown of the listener.Example: Tagadiin ka?'Where are you from?'
+San-o means 'when'Example: San-o inâ?'When is that?'
+Sin-o means 'who'Example: Sin-o imo abyan?'Who is your friend?'
+Nga-a means 'why'Example: Nga-a indi ka magkadto?'Why won't you go?'
+Kamusta means 'how', as in "How are you?"Example: Kamusta ang tindahan?'How is the store?'
+Ano means 'what'Example: Ano ang imo ginabasa?'What are you reading?'
+A derivative of ano, paano, means 'how', as in "How do I do that?"Example: Paano ko makapulî?'How can I get home?'
+A derivative of paano is paanoano, an archaic phrase which can be compared with kamusta.Example: Paanoano ikaw?'How art thou?'
+Pila means 'how much/how many'Example: Pila ang gaupod sa imo?'How many are with you?'
+A derivative of pila, ikapila, asks the numerical order of the person, as in, "What place were you born in your family?"(first-born, second-born, etc.) This word is notoriously difficult to translate into English, as English has no equivalent.Example: Ikapila ka sa inyo pamilya?'What place were you born into your family?'
+A derivative of pila, tagpila, asks the monetary value of something, as in, "How much is this beef?"Example: Tagpila ini nga karne sang baka?'How much is this beef?'
+Focus
+As it is essential for sentence structure and meaning, focus is a key concept in Hiligaynon and other Philippine languages. In English, in order to emphasize a part of a sentence, variation in intonation is usually employed – the voice is stronger or louder on the part emphasized. For example:
+Furthermore, active and passive grammatical constructions can be used in English to place focus on the actor or object as the subject:
+In contrast, sentence focus in Philippine languages is built into the construction by grammatical elements. Focus is marked by verbal affixes and a special particle prior to the noun in focus. Consider the following Hiligaynon translations of the above sentences:
+Reduplication
+Hiligaynon, like other Philippine languages, employs reduplication, the repetition of a root or stem of a word or part of a word for grammatical or semantic purposes. Reduplication in Hiligaynon tends to be limited to roots instead of affixes, as the only inflectional or derivational morpheme that seems to reduplicate is -pa-. Root reduplication suggests 'non-perfectiveness' or 'non-telicity'. Used with nouns, reduplication of roots indicate particulars which are not fully actualized members of their class. Note the following examples.
+balay-bálay
+house-house
+balay-bálay
+house-house
+toy-house, playhouse
+maestra-maestra
+teacher-teacher
+maestra-maestra
+teacher-teacher
+make-believe teacher
+Reduplication of verbal roots suggests a process lacking a focus or decisive goal. The following examples describe events which have no apparent end, in the sense of lacking purpose or completion. A lack of seriousness may also be implied. Similarly, reduplication can suggest a background process in the midst of a foreground activity, as shown in (5).
+Nag-a-
+NAG-IMP-
+hìbî-híbî
+cry-cry
+ang
+FOC
+bátâ.
+child
+Nag-a- hìbî-híbî ang bátâ.
+NAG-IMP- cry-cry FOC child
+The child has been crying and crying.
+Nag-a-
+NAG-IMP-
+tinlò-tinlò
+clean-clean
+akó
+1SG.FOC
+sang
+UNFOC
+lamésa
+table
+Nag-a- tinlò-tinlò akó sang lamésa
+NAG-IMP- clean-clean 1SG.FOC UNFOC table
+I'm just cleaning off the table (casually). Unknown glossing abbreviation(s) (help);
+Nag-a-
+NAG-IMP-
+kàon-káon
+eat-eat
+gid
+just
+silá
+3PL.FOC
+sang
+UNFOC
+nag-abót
+MAG-arrive
+ang
+FOC
+íla
+3PL.UNFOC
+bisíta.
+visitor
+Nag-a- kàon-káon gid silá sang nag-abót ang íla bisíta.
+NAG-IMP- eat-eat just 3PL.FOC UNFOC MAG-arrive FOC 3PL.UNFOC visitor
+They were just eating when their visitor arrived. Unknown glossing abbreviation(s) (help);
+When used with adjectival roots, non-telicity may suggest a gradualness of the quality, such as the comparison in (6). In comparative constructions the final syllables of each occurrence of the reduplicated root are accented. If the stress of the second occurrence is shifted to the first syllable, then the reduplicated root suggests a superlative degree, as in (7). Note that superlatives can also be created through prefixation of pinaka- to the root, as in pinaka-dakô. While non-telicity can suggest augmentation, as shown in (7), it can also indicate diminishment as in shown in (9), in contrast with (8) (note the stress contrast). In (8b), maàyoáyo, accented in the superlative pattern, suggests a trajectory of improvement that has not been fully achieved. In (9b), maàyoayó suggests a trajectory of decline when accented in the comparative pattern. The reduplicated áyo implies sub-optimal situations in both cases; full goodness/wellness is not achieved.
+Iní
+this.FOC
+nga
+LINK
+kwárto
+room
+ma-dulùm-dulúm
+MA-dark-dark
+sang
+UNFOC
+sa
+OBL
+sinâ
+that.UNFOC
+Iní nga kwárto ma-dulùm-dulúm sang sa sinâ
+this.FOC LINK room MA-dark-dark UNFOC OBL that.UNFOC
+This room is darker than that one. Unknown glossing abbreviation(s) (help);
+Vocabulary
+Derived from Spanish
+Hiligaynon has a large number of words derived from Spanish including nouns (e.g., santo from santo, 'saint'), adjectives (e.g., berde from verde, 'green'), prepositions (e.g., antes from antes, 'before'), and conjunctions (e.g., pero from pero, 'but').
+Nouns denoting material items and abstract concepts invented or introduced during the early modern era include barko (barco, 'ship'), sapatos (zapatos, 'shoes'), kutsilyo (cuchillo, 'knife'), kutsara (cuchara, 'spoon'), tenedor ('fork'), plato ('plate'), kamiseta (camiseta, 'shirt'), and kambiyo (cambio, 'change', as in money). Spanish verbs are incorporated into Hiligaynon in their infinitive forms: edukar, kantar, mandar, pasar. The same holds true for other languages such as Cebuano. In contrast, incorporations of Spanish verbs into Tagalog for the most part resemble, though are not necessarily derived from, the vos forms in the imperative: eduká, kantá, mandá, pasá. Notable exceptions include andar, pasyal (from pasear) and sugal (from jugar).
+Examples
+Days of the week
+The names of the days of the week are derived from their Spanish equivalents.
+The Ten Commandments
+Literal translation as per photo:
+Universal Declaration of Human Rights
+Article 1 of the Universal Declaration of Human Rights (Ang Kalibutánon nga Pahayag sang mga Kinamaatárung sang Katáwhan)
+Notable Hiligaynon writers
+See also
+References
+Further reading

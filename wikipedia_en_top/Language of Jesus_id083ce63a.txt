@@ -1,0 +1,129 @@
+Language of Jesus
+There exists a consensus among scholars that the language of Jesus and his disciples was Aramaic. This is generally agreed upon by historians. Aramaic was the common language of Judea in the first century AD. The villages of Nazareth and Capernaum in Galilee, where Jesus spent most of his time, were Aramaic-speaking communities. Jesus likely spoke a Galilean variant of the language, distinguishable from that of Jerusalem. It is also likely that Jesus knew enough Koine Greek to converse with those not native to Judea, and it is reasonable to assume that Jesus was well versed in Hebrew for religious purposes.
+Cultural and linguistic background
+Aramaic was the common language of the Eastern Mediterranean during and after the Neo-Assyrian, Neo-Babylonian, and Achaemenid empires (722–330 BC) and remained a common language of the region in the first century AD. In spite of the increasing importance of Greek, the use of Aramaic was also expanding, and it would eventually be dominant among Jews both in the Holy Land and elsewhere in the Middle East around 200 AD and would remain so until the Islamic conquests in the seventh century.
+Dead Sea Scrolls
+According to Dead Sea Scrolls archaeologist Yigael Yadin, Aramaic was the language of Hebrews until Simon Bar Kokhba's revolt (132 AD to 135 AD). Yadin noticed the shift from Aramaic to Hebrew in the documents he studied, which had been written during the time of the Bar Kokhba revolt. In his book, Bar Kokhba: The rediscovery of the legendary hero of the last Jewish Revolt Against Imperial Rome, Yigael Yadin notes, "It is interesting that the earlier documents are written in Aramaic while the later ones are in Hebrew. Possibly the change was made by a special decree of Bar Kokhba who wanted to restore Hebrew as the official language of the state".
+In another book by Sigalit Ben-Zion, Yadin said: "it seems that this change came as a result of the order that was given by Bar Kokhba, who wanted to revive the Hebrew language and make it the official language of the state." Yadin points out that Aramaic was the lingua franca at the time.
+Josephus
+Hebrew historian Josephus comments on learning Greek in first century Judea:
+In the first century AD, the Aramaic language was widespread throughout the Middle East, as is supported by the testimony of Josephus's The Jewish War.
+Josephus chose to inform people from what are now Iran, Iraq, and remote parts of the Arabian Peninsula about the war of the Jews against the Romans through books he wrote "in the language of our country", prior to translating into Greek for the benefit of the Greeks and Romans:
+H. St. J. Thackeray (who translated Josephus' Jewish Wars from Greek into English) also points out, "We learn from the proem that the Greek text was not the first draft of the work. It had been preceded by a narrative written in Aramaic and addressed to "the barbarians in the interior", who are more precisely defined lower down as the natives of Parthia, Babylonia, and Arabia, the Jewish dispersion in Mesopotamia, and the inhabitants of Adiabene, a principality of which the reigning house, as was proudly remembered, were converts to Judaism (B. i, 3, 6). Of this Aramaic work the Greek is described as a "version" made for the benefit of the subjects of the Roman Empire, i.e. the Graeco-Roman world at large.
+In Acts 1:19, the "Field of Blood" was known to all the inhabitants of Jerusalem in their own language as Akeldama, which is the transliteration of the Aramaic words "Haqal Dama".
+Josephus differentiated Hebrew from his language and that of first-century Israel. Josephus refers to Hebrew words as belonging to "the Hebrew tongue" but refers to Aramaic words as belonging to "our tongue" or "our language" or "the language of our country".
+Josephus refers to a Hebrew word with the phrase "the Hebrew tongue": "But the affairs of the Canaanites were at this time in a flourishing condition, and they expected the Israelites with a great army at the city Bezek, having put the government into the hands of Adonibezek, which name denotes the Lord of Bezek, for Adoni in the Hebrew tongue signifies Lord."
+In this example, Josephus refers to an Aramaic word as belonging to "our language": "This new-built part of the city was called 'Bezetha,' in our language, which, if interpreted in the Grecian language, may be called 'the New City.'"
+On several occasions in the New Testament, Aramaic words are called Hebrew. For example, in John 19:17 (KJV), the gospel-writer narrates that Jesus, "bearing his cross[,] went forth into a place called the place of a skull, which is called in the Hebrew Golgotha." The last word is, in fact, Aramaic. The word "Golgotha" is a transliteration of an Aramaic word, because -tha in Golgotha is the Aramaic definite article on a feminine noun in an emphatic state.
+Phonology
+
+
+Aramaic phrases in the Greek New Testament
+The Greek New Testament transliterates a few Semitic words. When the text itself refers to the language of such Semitic glosses, it uses words meaning "Hebrew"/"Jewish" (Acts 21:40; 22:2; 26:14: têi hebraḯdi dialéktōi, lit. 'in the Hebrew dialect/language') but this term is often applied to unmistakably Aramaic words and phrases; for this reason, it is often interpreted as meaning "the (Aramaic) vernacular of the Jews" in recent translations.
+A small minority of scholars believe that most or all of the New Testament was originally written in Aramaic. This theory is known as Aramaic primacy.
+Talitha kum (Ταλιθὰ κούμ)
+Mark 5:41:
+This verse gives an Aramaic phrase, attributed to Jesus bringing the girl back to life, with a transliteration into Greek, as ταλιθὰ κούμ. A few Greek manuscripts (Codex Sinaiticus, Vaticanus) of Mark's Gospel have this form of the text, but others (Codex Alexandrinus, the text-type known as the Majority Text, and also the Latin Vulgate) write κοῦμι (koumi, cumi) instead. The latter is in the Textus Receptus and is the version which appears in the KJV.
+The Aramaic is ṭlīthā qūm. The word ṭlīthā is the feminine form of the word ṭlē, meaning "young". Qūm is the Aramaic verb 'to rise, stand, get up'. In the feminine singular imperative, it was originally qūmī. However, there is evidence that in speech, the final -ī was dropped so the imperative did not distinguish between masculine and feminine genders. The older manuscripts, therefore, used a Greek spelling that reflected pronunciation, whereas the addition of an 'ι' was perhaps due to a bookish copyist.
+In square script Aramaic, it could be טליתא קומי or טליתא קום.
+Ephphatha (Ἐφφαθά)
+Mark 7:34
+Once again, the Aramaic word is given with the transliteration, only this time, the word to be transliterated is more complicated. In Greek, the Aramaic is written ἐφφαθά. This could be from the Aramaic ethpthaḥ, the passive imperative of the verb pthaḥ, 'to open', since the th could assimilate in western Aramaic. The pharyngeal ḥ was often omitted in Greek transcriptions in the Septuagint (Greek Old Testament) and was also softened in Galilean speech.
+In Aramaic, it could be אתפתח or אפתח. This word was adopted as the official motto of Gallaudet University, the United States' most prominent school for the deaf.
+Abba (Ἀββά[ς])
+Mark 14:36
+Galatians 4:6
+Romans 8:15
+Abba, an originally Aramaic form borrowed into the Greek Old Testament as a name (2Chr 29:1) [standing for the Hebrew Abijah (אביה)], common in Mishnaic Hebrew and still used in Modern Hebrew (written Αββά[ς] in Greek, and ’abbā in Aramaic), is immediately followed by the Greek equivalent (Πατήρ) with no explicit mention of it being a translation. In Aramaic, it would be אבא.
+Note, the name Barabbas is a Hellenization of the Aramaic Bar Abba (בר אבא), literally "Son of the Father".
+Raca (Ρακά)
+Matthew 5:22
+(The bracketed text does not appear in all recensions and is absent in the Latin Vulgate.)
+Raca, or Raka, in the Aramaic and Hebrew of the Talmud, means empty one, fool, empty head.
+In Aramaic, it could be ריקא or ריקה.
+Mammon (Μαμωνάς)
+Gospel of Matthew 6:24
+Luke 16:9–13
+2 Clement 6
+In Aramaic, it could be ממון (or, in the typical Aramaic "emphatic" state suggested by the Greek ending, ממונא). This is usually considered to be an originally Aramaic word borrowed into Rabbinic Hebrew, but its occurrence in late Biblical Hebrew and, reportedly, in 4th century Punic may indicate that it had a more general "common Semitic background".
+In the New Testament,  the word Μαμωνᾶς Mamōnâs is declined like a Greek word, whereas many of the other Aramaic and Hebrew words are treated as indeclinable foreign words.
+Rabbuni (Ραββουνί)
+John 20:16
+Also in Mark 10:51. Hebrew form rabbi used as title of Jesus in Matthew 26:25,49; Mark 9:5, 11:21, 14:45; John 1:38, 1:49, 4:31, 6:25, 9:2, 11:8.
+In Aramaic, it would have been רבוני.
+Maranatha (Μαραναθά)
+Didache 10:6 (Prayer after Communion)
+1 Corinthians 16:22
+Depending on how one selects to split the single Greek expression of the early manuscripts into Aramaic, it could be either מרנא תא (marana tha, "Lord, come!") or מרן אתא (maran atha, "Our Lord has come").
+Eli, Eli, lema sabachthani (Ἠλί, Ἠλί, λεμὰ σαβαχθανί)
+Matthew 27:46
+Mark 15:34
+This phrase, among the Sayings of Jesus on the cross, is given in these two versions. The Matthean version of the phrase is transliterated in Greek as Ἠλί, Ἠλί, λεμὰ σαβαχθανί. The Markan version is Ἐλωΐ, Ἐλωΐ, λαμὰ σαβαχθανί (elōi rather than ēli and lama rather than lema).
+Overall, both versions appear to be Aramaic rather than Hebrew because of the verb שבק (šbq) "abandon", which is originally Aramaic. The "pure" Biblical Hebrew counterpart to this word, עזב (‘zb) is seen in the second line of Psalm 22, which the saying appears to quote. Thus, Jesus is not quoting the canonical Hebrew version (ēlī ēlī lāmā ‘azabtānī) attributed in some Jewish interpretations to King David cited as Jesus' ancestor in Matthew's Genealogy of Jesus if the Eli, Eli version of Jesus' outcry is taken; he may be quoting the version given in an Aramaic Targum (surviving Aramaic Targums do use šbq in their translations of the Psalm 22 ).
+The Markan word for "my god", Ἐλωΐ, definitely corresponds to the Aramaic form אלהי, elāhī. The Matthean one, Ἠλί, fits in better with the אלי of the original Hebrew Psalm, as has been pointed out in the literature; however, it may also be Aramaic because this form is attested abundantly in Aramaic as well.
+In the next verse, in both accounts, some who hear Jesus' cry imagine that he is calling for help from Elijah (Ēlīyā in Aramaic).
+Almost all ancient Greek manuscripts show signs of trying to normalize this text. For instance, the peculiar Codex Bezae renders both versions with ηλι ηλι λαμα ζαφθανι (ēli ēli lama zaphthani). The Alexandrian, Western and Caesarean textual families all reflect harmonization of the texts between Matthew and Mark. Only the Byzantine textual tradition preserves a distinction.
+The Aramaic word form šəḇaqtanī is based on the verb šəḇaq/šāḇaq, 'to allow, to permit, to forgive, and to forsake', with the perfect tense ending -t (2nd person singular: 'you'), and the object suffix -anī (1st person singular: 'me').
+In Hebrew, the saying would be "אֵלִי אֵלִי, לָמָה עֲזַבְתָּנִי", the Aramaic phrase would be "ܐܝܠܝ ܐܝܠܝ ܠܡܐ ܫܒܩܬܢܝ" or "ܐܠܗܝ ܐܠܗܝ ܠܡܐ ܫܒܩܬܢܝ".
+Jot and tittle (Ἰῶτα ἓν ἢ μία κεραία)
+Matthew 5:18
+The quotation uses them as an example of extremely minor details. In the Greek text translated as English jot and tittle is found iota and keraia. Iota is the smallest letter of the Greek alphabet (ι), but since only capitals were used at the time the Greek New Testament was written (Ι; still, it is the smallest of all the Greek majuscules) and because the Torah was written in Hebrew, it probably represents the Hebrew yodh (י) which is the smallest letter of the Hebrew alphabet. Keraia is a hook or serif.
+Korban (Κορβάν)
+Matthew 27:6
+In Aramaic (קרבנא) it refers to the treasury in the Temple in Jerusalem, derived from the Hebrew Korban (קרבן), found in Mark 7:11 and the Septuagint (in Greek transliteration), meaning religious gift or offering.
+The Greek κορβανᾶς is declined as a Greek noun, much like other examples.
+Sikera (Σίκερα)
+Luke 1:15
+Hosanna (Ὡσαννά)
+Mark 11:9
+This word is derived from הושע נא. It is generally considered to be a quote from Psalms 118:25 "O Lord, save (us)", but the original Biblical Hebrew form was הושיעה נא. The shortened form הושע could be either Aramaic or Hebrew.
+Aramaic personal names in the New Testament
+Personal names in the New Testament come from a number of languages; Hebrew and Greek are most common. However, there are a few Aramaic names as well. The most prominent feature in Aramaic names is bar (Greek transliteration βαρ, Aramaic bar), meaning 'son of', a common patronym prefix. Its Hebrew equivalent, ben, is conspicuous by its absence. Some examples are:
+Boanerges (Βοανηργές)
+Mark 3:17
+Jesus surnames the brothers James and John to reflect their impetuosity. The Greek rendition of their name is Βοανηργές (Boanērges).
+There has been much speculation about this name. Given the Greek translation that comes with it ('Sons of Thunder'), it seems that the first element of the name is bnē, 'sons of' (the plural of 'bar'), Aramaic (בני). This is represented by βοάνη (boanē), giving two vowels in the first syllable where one would be sufficient. It could be inferred from this that the Greek transliteration may not be a good one. The second part of the name is often reckoned to be rḡaš ('tumult') Aramaic (רגיש), or rḡaz ('anger') Aramaic (רגז). Maurice Casey, however, argues that it is a simple misreading of the word for thunder, r‘am (due to the similarity of s to the final m). This is supported by one Syriac translation of the name as bnay ra‘mâ. The Peshitta reads ܒܢܝ ܪܓܫܝ bnay rḡešy, which would fit with a later composition for it, based on a Byzantine reading of the original Greek.
+Cephas (Κηφᾶς)
+John 1:42
+1 Corinthians 1:12
+Galatians 1:18 NRSV
+In these passages, 'Cephas' is given as the nickname of the apostle better known as Simon Peter. The Greek word is transliterated Κηφᾶς (Kēphâs).
+The apostle's given name appears to be Simon, and he is given the Aramaic nickname, kēpā, meaning 'rock' or 'stone'. The final sigma (ς) is added in Greek to make the name masculine rather than feminine. That the meaning of the name was more important than the name itself is evidenced by the universal acceptance of the Greek translation, Πέτρος (Petros). It is not known why Paul uses the Aramaic name rather than the Greek name for Simon Peter when he writes to the churches in Galatia and Corinth. He may have been writing at a time before Cephas came to be popularly known as Peter.
+According to Clement of Alexandria, there were two people named Cephas: one was Apostle Simon Peter, and the other was one of Jesus' Seventy Apostles. Clement goes further to say it was Cephas of the Seventy who was condemned by Paul in Galatians 2 for not eating with the Gentiles, though this is perhaps Clement's way of deflecting the condemnation from Simon Peter. In 1708, a French Jesuit, Jean Hardouin, wrote a dissertation that argues "Peter" was actually "another Peter", thus the emphasis of using the name Cephas (Aramaic for Peter). In 1990 Bart D. Ehrman wrote an article on the Journal of Biblical Literature, similarly arguing that Peter and Cephas should be understood as different people, citing the writing of Clement of Alexandria and the Epistula Apostolorum and in support of his theory; Ehrman's article received a detailed critique by Dale Allison, who argued that Peter and Cephas are the same person. Ehrman later retracted his proposal, deeming it "highly unlikely".
+In Aramaic, it could be כיפא.
+Thomas (Θωμᾶς)
+John 11:16
+Thomas (Θωμᾶς) is listed among the disciples of Jesus in all four gospels and the Acts of the Apostles. However, it is only in John's Gospel that more information is given. In three places (John 11:16, 20:24 and 21:2), he is given the name Didymus (Δίδυμος), the Greek word for a twin. In fact, "the Twin" is not just a surname, it is a translation of "Thomas". The Greek Θωμᾶς—Thōmâs—comes from the Aramaic tōmā, "twin". Therefore, rather than two personal names, Thomas Didymus, there is a single nickname, the Twin. Christian tradition gives him the personal name Judas, and he was perhaps named Thomas to distinguish him from others of the same name.
+In Aramaic, it could be ܬܐܘܡܐ.
+Tabitha (Ταβιθά)
+Acts 9:36
+The disciple's name is given both in Aramaic (Ταβιθά) and Greek (Δορκάς). The Aramaic name is a transliteration of Ṭḇīthā, the female form of טביא (Ṭaḇyā). Both names mean 'gazelle'.
+It may be just coincidence that Peter's words to her in verse 40, "Tabitha, get up!" (Ταβιθᾶ ἀνάστηθι), are similar to the "talitha kum" phrase used by Jesus.
+In Aramaic, it could be טביתא.
+Aramaic place names in the New Testament
+Gethsemane (Γεθσημανῆ)
+Matthew 26:36
+Mark 14:32
+The place where Jesus takes his disciples to pray before his arrest is given the Greek transliteration Γεθσημανῆ (Gethsēmanē). It represents the Aramaic Gath-Šmānē, meaning 'the oil press' or 'oil vat' (referring to olive oil).
+In Aramaic, it could be ܓܕܣܡܢ. This place name is more properly an Aramaized version of an original Hebrew place name. Gath גת is a normal word for press in Hebrew, generally used for a wine press not an olive press though; and shemanei שמני is the Hebrew word shemanim שמנים meaning "oils", the plural form of the word shemen שמן, the primary Hebrew word for oil, just in a construct form (-ei instead of the ordinary plural suffix -im). The word in Aramaic for "oil" is more properly mišḥa (משחא), as also attested in Jewish writings in Aramaic from the Galilee (see Caspar Levias, A Grammar of Galilean Aramaic, Jewish Theological Seminary of America, 1986).
+Golgotha (Γολγοθᾶ)
+Mark 15:22
+John 19:17
+Gagūltā Aramaic, means 'skull'. The name appears in all of the gospels except Luke, which calls the place simply Kranion (Κρανίον)  'the Skull' in Greek, with no Semitic counterpart. The name 'Calvary' is taken from the Latin Vulgate translation, Calvaria.
+In Aramaic, it could be ܓܓܘܠܬܐ. Though this word has the Aramaic final form -ta / -tha, it is otherwise also closer to the Hebrew word for skull, gulgolet גולגולת, than to the Aramaic form.
+Gabbatha (Γαββαθᾶ)
+John 19:13
+The place name appears to be Aramaic.  According to Josephus, War, V.ii.1, #51, the word Gabath means high place, or elevated place, so perhaps a raised flat area near the temple.  The final "א" could then represent the emphatic state of the noun.
+In Aramaic, it could be גבהתא.
+Akeldama (Ἀκελδαμά)
+Acts 1:19
+The place of Judas Iscariot's death is clearly named Field of Blood in Greek. However, the manuscript tradition gives a number of different spellings of the Aramaic. The Majority Text reads Ἀκελδαμά (Akeldama); other manuscript versions give Ἀχελδαμάχ (Acheldamach), Ἁκελδαμά (Hakeldama), Ἁχελδαμά (Hacheldama) and Ἁκελδαμάχ (Hakeldamach). Despite these variant spellings the Aramaic is most probably ḥqēl dmā, 'field of blood'. While the seemingly gratuitous Greek sound of kh [x] at the end of the word is difficult to explain, the Septuagint similarly adds this sound to the end of the Semitic name Ben Sira to form the Greek name for the Book of Sirakh (Latin: Sirach). The sound may be a dialectic feature of either the Greek speakers or the original Semitic language speakers.
+In Aramaic, it could be חקל דמא.
+Pool of Bethesda (Βηθεσδά)
+John 5:2
+Bethesda was originally the name of a pool in Jerusalem, on the path of the Beth Zeta Valley, and is also known as the Sheep Pool. Its name in Aramaic means "House of Grace". It is associated with healing. In John 5, Jesus was reported healing a man at the pool.
+For other Aramaic place names in the New Testament beginning with beth ("house of"), see  Bethabara, Bethany, Bethphage and Bethsaida and Bethlehem.
+In Aramaic, "Bethesda" could be spelled בית חסדא.
+See also
+References
+Sources

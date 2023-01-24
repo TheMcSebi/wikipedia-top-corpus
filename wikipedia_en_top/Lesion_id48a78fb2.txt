@@ -1,0 +1,27 @@
+Lesion
+A lesion is any damage or abnormal change in the tissue of an organism, usually caused by disease or trauma. Lesion is derived from the Latin laesio "injury". Lesions may occur in plants as well as animals.
+Types
+There is no designated classification or naming convention for lesions. Since lesions can occur anywhere in the body and the definition of a lesion is so broad, the varieties of lesions are virtually endless. Generally, lesions may be classified by their patterns, their sizes, their locations, or their causes. They can also be named after the person who discovered them. For example, Ghon lesions, which are found in the lungs of those with tuberculosis, are named after the lesion's discoverer, Anton Ghon. The characteristic skin lesions of a varicella zoster virus infection are called chickenpox. Lesions of the teeth are usually called dental caries.
+Location
+Lesions are often classified by their tissue types or locations. For example, a "skin lesion" or a "brain lesion" are named for the tissue where they are found. If there is an added significance to regions within the tissue—such as in neural injuries where different locations correspond to different neurological deficits—they are further classified by location. For example, a lesion in the central nervous system is called a central lesion, and a lesion in the peripheral nervous system is called a peripheral lesion. A myocardial lesion results from damage to the heart muscle, and a coronary lesion is a subtype that describes a lesion in the coronary arteries. Coronary lesions are then further classified according to the side of the heart that is affected and the diameter of the artery in which they form.
+Cause and behavior
+If a lesion is caused by a tumor, it can be classified as malignant or benign after analysis of a biopsy. A benign lesion that is evolving into a malignant lesion is called "premalignant". Cancerous lesions are sometimes classified by their growth kinetics, such as the Lodwick classification, which characterizes classes of bone lesions. Another type is an excitotoxic lesion, which can be caused by excitatory amino acids like kainic acid that kill neurons through overstimulation.
+Size and shape
+Lesion size may be specified as gross, meaning it is visible to the unaided eye, or histologic, meaning a microscope is needed to see it. A space-occupying lesion, as the name suggests, has a recognizable volume and may impinge on nearby structures, whereas a non space-occupying lesion is simply a hole in the tissue, e.g. a small area of the brain that has turned to fluid following a stroke.
+Lesions may also be classified by the shape they form. This is the case with many ulcers, which can have a bullseye or 'target' appearance. A coin lesion as seen in an X-ray has the appearance of a coin sitting on the patient's chest.
+Research using lesions
+Brain lesions may help researchers understand brain function. Research involving lesions relies on two assumptions: that brain damage can affect different aspects of cognition independently, and that a locally damaged brain functions identically to a normal brain in its "undamaged" parts.
+Sham lesion is the name given to a control procedure during a lesion experiment. In a sham lesion, an animal may be placed in a stereotaxic apparatus and electrodes inserted as in the experimental condition, but no current is passed, and therefore damage to the tissue should be minimal.
+Research with humans
+Humans with brain lesions are often the subjects of research with the goal of establishing the function of the area where their lesion occurred.
+A drawback to the use of human subjects is the difficulty in finding subjects who have a lesion to the area the researcher wishes to study. As such, transcranial magnetic stimulation is often used in cognition and neuroscience-related tests to imitate the effect.
+Research with animals
+Using animal subjects gives researchers the ability to lesion specific areas in the subjects, allowing them to quickly acquire a large group of subjects. An example of such a study is the lesioning of rat hippocampi to establish the role of the hippocampus in object recognition and object recency.
+Notable lesions
+Diabetes-associated lesions
+Bone lesions
+Brain lesions
+Skin lesions
+Gastrointestinal lesions
+Endodermal lesions
+Misc. disease-associated lesions

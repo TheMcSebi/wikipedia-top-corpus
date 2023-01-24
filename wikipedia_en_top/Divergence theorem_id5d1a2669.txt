@@ -1,0 +1,108 @@
+Divergence theorem
+In vector calculus, the divergence theorem, also known as Gauss's theorem or Ostrogradsky's theorem, is a theorem which relates the flux of a vector field through a closed surface to the divergence of the field in the volume enclosed.
+More precisely, the divergence theorem states that the surface integral of a vector field over a closed surface, which is called the "flux" through the surface, is equal to the volume integral of the divergence over the region inside the surface. Intuitively, it states that "the sum of all sources of the field in a region (with sinks regarded as negative sources) gives the net flux out of the region".
+The divergence theorem is an important result for the mathematics of physics and engineering, particularly in electrostatics and fluid dynamics. In these fields, it is usually applied in three dimensions. However, it generalizes to any number of dimensions. In one dimension, it is equivalent to integration by parts. In two dimensions, it is equivalent to Green's theorem.
+Explanation using liquid flow
+Vector fields are often illustrated using the example of the velocity field of a fluid, such as a gas or liquid. A moving liquid has a velocity—a speed and a direction—at each point, which can be represented by a vector, so that the velocity of the liquid at any moment forms a vector field.  Consider an imaginary closed surface S inside a body of liquid, enclosing a volume of liquid.  The flux of liquid out of the volume is equal to the volume rate of fluid crossing this surface, i.e., the surface integral of the velocity over the surface.    
+Since liquids are incompressible, the amount of liquid inside a closed volume is constant; if there are no sources or sinks inside the volume then the flux of liquid out of S is zero.  If the liquid is moving, it may flow into the volume at some points on the surface S and out of the volume at other points, but the amounts flowing in and out at any moment are equal, so the net flux of liquid out of the volume is zero.
+However if a source of liquid is inside the closed surface, such as a pipe through which liquid is introduced, the additional liquid will exert pressure on the surrounding liquid, causing an outward flow in all directions.  This will cause a net outward flow through the surface S.  The flux outward through S equals the volume rate of flow of fluid into S from the pipe.  Similarly if there is a sink or drain inside S, such as a pipe which drains the liquid off, the external pressure of the liquid will cause a velocity throughout the liquid directed inward toward the location of the drain.  The volume rate of flow of liquid inward through the surface S equals the rate of liquid removed by the sink.  
+If there are multiple sources and sinks of liquid inside S, the flux through the surface can be calculated by adding up the volume rate of liquid added by the sources and subtracting the rate of liquid drained off by the sinks.  The volume rate of flow of liquid through a source or sink (with the flow through a sink given a negative sign) is equal to the divergence of the velocity field at the pipe mouth, so adding up (integrating) the divergence of the liquid throughout the volume enclosed by S equals the volume rate of flux through S.   This is the divergence theorem.
+The divergence theorem is employed in any conservation law which states that the total volume of all sinks and sources, that is the volume integral of the divergence, is equal to the net flow across the volume's boundary.
+Mathematical statement
+Suppose V is a subset of $MATH$ (in the case of n = 3, V represents a volume in three-dimensional space) which is compact and has a piecewise smooth boundary S (also indicated with $MATH$). If F is a continuously differentiable vector field defined on a neighborhood of V, then:
+The left side is a volume integral over the volume V, the right side is the surface integral over the boundary of the volume V. The closed manifold $MATH$ is oriented by outward-pointing normals, and $MATH$ is the outward pointing unit normal at each point on the boundary $MATH$. ($MATH$ may be used as a shorthand for $MATH$.)  In terms of the intuitive description above, the left-hand side of the equation represents the total of the sources in the volume V, and the right-hand side represents the total flow across the boundary S.
+Informal derivation
+The divergence theorem follows from the fact that if a volume V is partitioned into separate parts, the flux out of the original volume is equal to the sum of the flux out of each component volume.  This is true despite the fact that the new subvolumes have surfaces that were not part of the original volume's surface, because these surfaces are just partitions between two of the subvolumes and the flux through them just passes from one volume to the other and so cancels out when the flux out of the subvolumes is summed.
+See the diagram.  A closed, bounded volume V is divided into two volumes V1 and V2 by a surface S3 (green).  The flux Φ(Vi) out of each component region Vi is equal to the sum of the flux through its two faces, so the sum of the flux out of the two parts is
+where Φ1 and Φ2 are the flux out of surfaces S1 and S2,  Φ31 is the flux through S3 out of volume 1, and Φ32 is the flux through S3 out of volume 2.  The point is that surface S3 is part of the surface of both volumes.  The "outward" direction of the normal vector $MATH$ is opposite for each volume, so the flux out of one through S3 is equal to the negative of the flux out of the other
+so these two fluxes cancel in the sum.  Therefore
+Since the union of surfaces S1 and S2 is S
+This principle applies to a volume divided into any number of parts, as shown in the diagram.  Since the integral over each internal partition (green surfaces) appears with opposite signs in the flux of the two adjacent volumes they cancel out, and the only contribution to the flux is the integral over the external surfaces (grey).  Since the external surfaces of all the component volumes equal the original surface.
+The flux Φ out of each volume is the surface integral of the vector field F(x) over the surface
+The goal is to divide the original volume into infinitely many infinitesimal volumes.  As the volume is divided into smaller and smaller parts, the surface integral on the right, the flux out of each subvolume, approaches zero because the surface area S(Vi) approaches zero. However, from the definition of divergence, the ratio of flux to volume, $MATH$, the part in parentheses below, does not in general vanish but approaches the divergence div F as the volume approaches zero.
+As long as the vector field F(x) has continuous derivatives, the sum above holds even in the limit when the volume is divided into infinitely small increments
+As $MATH$ approaches zero volume, it becomes the infinitesimal dV, the part in parentheses becomes the divergence, and the sum becomes a volume integral over V
+$MATH$
+Since this derivation is coordinate free, it shows that the divergence does not depend on the coordinates used.
+Proofs
+For bounded open subsets of Euclidean space
+We are going to prove the following:
+Theorem — Let $MATH$ be open and bounded with $MATH$ boundary. If $MATH$ is $MATH$ on an open neighborhood $MATH$ of $MATH$, that is, $MATH$, then for each $MATH$,
+where $MATH$ :\partial \Omega \to \mathbb {R} ^{n}}
+  
+ is the outward pointing unit normal vector to $MATH$.
+Equivalently,
+Proof of Theorem.
+
+(1) The first step is to reduce to the case where $MATH$. Pick $MATH$ such that $MATH$ on $MATH$. Note that $MATH$ and $MATH$ on $MATH$. Hence it suffices to prove the theorem for $MATH$. Hence we may assume that $MATH$.
+(2) Let $MATH$ be arbitrary. The assumption that $MATH$ has $MATH$ boundary means that there is an open neighborhood $MATH$ of $MATH$ in $MATH$ such that $MATH$ is the graph of a $MATH$ function with $MATH$ lying on one side of this graph. More precisely, this means that after a translation and rotation of $MATH$, there are $MATH$ and $MATH$ and a $MATH$ function $MATH$, such that with the notation
+it holds that
+and for $MATH$,
+Since $MATH$ is compact, we can cover $MATH$ with finitely many neighborhoods $MATH$ of the above form. Note that $MATH$ is an open cover of $MATH$. By using a $MATH$ partition of unity subordinate to this cover, it suffices to prove the theorem in the case where either $MATH$ has compact support in $MATH$ or $MATH$ has compact support in some $MATH$. If $MATH$ has compact support in $MATH$, then for all $MATH$, $MATH$ by the fundamental theorem of calculus, and $MATH$ since $MATH$ vanishes on a neighborhood of $MATH$. Thus the theorem holds for $MATH$ with compact support in $MATH$. Thus we have reduced to the case where $MATH$ has compact support in some $MATH$.
+(3) So assume $MATH$ has compact support in some $MATH$. The last step now is to show that the theorem is true by direct computation. Change notation to $MATH$, and bring in the notation from (2) used to describe $MATH$. Note that this means that we have rotated and translated $MATH$. This is a valid reduction since the theorem is invariant under rotations and translations of coordinates.  Since $MATH$ for $MATH$ and for $MATH$, we have for each $MATH$ that
+For $MATH$ we have by the fundamental theorem of calculus that
+Now fix $MATH$. Note that
+Define $MATH$ by $MATH$. By the chain rule,
+But since $MATH$ has compact support, we can integrate out $MATH$ first to deduce that
+Thus
+In summary, with $MATH$ we have
+Recall that the outward unit normal to the graph $MATH$ of $MATH$ at a point $MATH$ is $MATH$ and that the surface element $MATH$ is given by $MATH$. Thus
+This completes the proof.
+For compact Riemannian manifolds with boundary
+We are going to prove the following:
+Theorem — Let $MATH$ be a $MATH$ compact manifold with boundary with $MATH$ metric tensor $MATH$. Let $MATH$ denote the manifold interior of $MATH$ and let $MATH$ denote the manifold boundary of $MATH$. Let $MATH$ denote $MATH$ inner products of functions and $MATH$ denote inner products of vectors. Suppose $MATH$ and $MATH$ is a $MATH$ vector field on $MATH$. Then
+where $MATH$ is the outward-pointing unit normal vector to $MATH$.
+Proof of Theorem.
+
+We use the Einstein summation convention. By using a partition of unity, we may assume that $MATH$ and $MATH$ have compact support in a coordinate patch $MATH$. First consider the case where the patch is disjoint from $MATH$. Then $MATH$ is identified with an open subset of $MATH$ and integration by parts produces no boundary terms:
+In the last equality we used the Voss-Weyl coordinate formula for the divergence, although the preceding identity could be used to define $MATH$ as the formal adjoint of $MATH$. Now suppose $MATH$ intersects $MATH$. Then $MATH$ is identified with an open set in $MATH$. We zero extend $MATH$ and $MATH$ to $MATH$ and perform integration by parts to obtain
+where $MATH$.
+By a variant of the straightening theorem for vector fields, we may choose $MATH$ so that $MATH$ is the inward unit normal $MATH$ at $MATH$. In this case $MATH$ is the volume element on $MATH$ and the above formula reads
+This completes the proof.
+Corollaries
+By replacing F in the divergence theorem with specific forms, other useful identities can be derived (cf. vector identities).
+Example
+Suppose we wish to evaluate
+where S is the unit sphere defined by
+and F is the vector field
+The direct computation of this integral is quite difficult, but we can simplify the derivation of the result using the divergence theorem, because the divergence theorem says that the integral is equal to:
+where W is the unit ball:
+Since the function y is positive in one hemisphere of W and negative in the other, in an equal and opposite way, its total integral over W is zero. The same is true for z:
+Therefore,
+because the unit ball W has volume 4π/3.
+Applications
+Differential and integral forms of physical laws
+As a result of the divergence theorem, a host of physical laws can be written in both a differential form (where one quantity is the divergence of another) and an integral form (where the flux of one quantity through a closed surface is equal to another quantity). Three examples are Gauss's law (in electrostatics), Gauss's law for magnetism, and Gauss's law for gravity.
+Continuity equations
+Continuity equations offer more examples of laws with both differential and integral forms, related to each other by the divergence theorem. In fluid dynamics, electromagnetism, quantum mechanics, relativity theory, and a number of other fields, there are continuity equations that describe the conservation of mass, momentum, energy, probability, or other quantities. Generically, these equations state that the divergence of the flow of the conserved quantity is equal to the distribution of sources or sinks of that quantity. The divergence theorem states that any such continuity equation can be written in a differential form (in terms of a divergence) and an integral form (in terms of a flux).
+Inverse-square laws
+Any inverse-square law can instead be written in a Gauss's law-type form (with a differential and integral form, as described above). Two examples are Gauss's law (in electrostatics), which follows from the inverse-square Coulomb's law, and Gauss's law for gravity, which follows from the inverse-square Newton's law of universal gravitation. The derivation of the Gauss's law-type equation from the inverse-square formulation or vice versa is exactly the same in both cases; see either of those articles for details.
+History
+Joseph-Louis Lagrange introduced the notion of surface integrals in 1760 and again in more general terms in 1811, in the second edition of his Mécanique Analytique. Lagrange employed surface integrals in his work on fluid mechanics. He discovered the divergence theorem in 1762.
+Carl Friedrich Gauss was also using surface integrals while working on the gravitational attraction of an elliptical spheroid in 1813, when he proved special cases of the divergence theorem. He proved additional special cases in 1833 and 1839. But it was Mikhail Ostrogradsky, who gave the first proof of the general theorem, in 1826, as part of his investigation of heat flow. Special cases were proven by George Green in 1828 in An Essay on the Application of Mathematical Analysis to the Theories of Electricity and Magnetism, Siméon Denis Poisson in 1824 in a paper on elasticity, and Frédéric Sarrus in 1828 in his work on floating bodies.
+Worked examples
+Example 1
+To verify the planar variant of the divergence theorem for a region $MATH$:
+and the vector field:
+The boundary of $MATH$ is the unit circle, $MATH$, that can be represented parametrically by:
+such that $MATH$ where $MATH$ units is the length arc from the point $MATH$ to the point $MATH$ on $MATH$. Then a vector equation of $MATH$ is
+At a point $MATH$ on $MATH$:
+Therefore,
+Because $MATH$, we can evaluate $MATH$, and because $MATH$, $MATH$. Thus
+Example 2
+Let's say we wanted to evaluate the flux of the following vector field defined by $MATH$ bounded by the following inequalities:
+By the divergence theorem,
+We now need to determine the divergence of $MATH$. If $MATH$ is a three-dimensional vector field, then the divergence of $MATH$ is given by $MATH$.
+Thus, we can set up the following flux integral $MATH$ $MATH$ $MATH$
+as follows:
+Now that we have set up the integral, we can evaluate it.
+Generalizations
+Multiple dimensions
+One can use the general Stokes' Theorem to equate the n-dimensional volume integral of the divergence of a vector field F over a region U to the (n − 1)-dimensional surface integral of F over the boundary of U:
+This equation is also known as the divergence theorem.
+When n = 2, this is equivalent to Green's theorem.
+When n = 1, it reduces to the fundamental theorem of calculus, part 2.
+Tensor fields
+Writing the theorem in Einstein notation:
+suggestively, replacing the vector field F with a rank-n tensor field T, this can be generalized to:
+where on each side, tensor contraction occurs for at least one index. This form of the theorem is still in 3d, each index takes values 1, 2, and 3. It can be generalized further still to higher (or lower) dimensions (for example to 4d spacetime in general relativity).

@@ -1,0 +1,60 @@
+Exponential growth
+Exponential growth is a process that increases quantity over time. It occurs when the instantaneous rate of change (that is, the derivative) of a quantity with respect to time is proportional to the quantity itself. Described as a function, a quantity undergoing exponential growth is an exponential function of time, that is, the variable representing time is the exponent (in contrast to other types of growth, such as quadratic growth).
+If the constant of proportionality is negative, then the quantity decreases over time, and is said to be undergoing exponential decay instead. In the case of a discrete domain of definition with equal intervals, it is also called geometric growth or geometric decay since the function values form a geometric progression.
+The formula for exponential growth of a variable x at the growth rate r, as time t goes on in discrete intervals (that is, at integer times 0, 1, 2, 3, ...), is
+where x0 is the value of x at time 0. The growth of a bacterial colony is often used to illustrate it. One bacterium splits itself into two, each of which splits itself resulting in four, then eight, 16, 32, and so on. The amount of increase keeps increasing because it is proportional to the ever-increasing number of bacteria. Growth like this is observed in real-life activity or phenomena, such as the spread of virus infection, the growth of debt due to compound interest, and the spread of viral videos. In real cases, initial exponential growth often does not last forever, instead slowing down eventually due to upper limits caused by external factors and turning into logistic growth.
+Terms like "exponential growth" are sometimes incorrectly interpreted as "rapid growth". Indeed, something that grows exponentially can in fact be growing slowly at first.
+Examples
+Biology
+Physics
+Economics
+Finance
+Computer science
+Internet phenomena
+Basic formula
+A quantity x depends exponentially on time t if
+
+where the constant a is the initial value of x, 
+ the constant b is a positive growth factor, and τ is the time constant—the time required for x to increase by one factor of b:
+If τ > 0 and b > 1, then x has exponential growth. If τ < 0 and b > 1, or τ > 0 and 0 < b < 1, then x has exponential decay.
+Example: If a species of bacteria doubles every ten minutes, starting out with only one bacterium, how many bacteria would be present after one hour?  The question implies a = 1, b = 2 and τ = 10 min.
+After one hour, or six ten-minute intervals, there would be sixty-four bacteria.
+Many pairs (b, τ) of a dimensionless non-negative number b and an amount of time τ (a physical quantity which can be expressed as the product of a number of units and a unit of time) represent the same growth rate, with τ proportional to log b. For any fixed b not equal to 1 (e.g. e or 2), the growth rate is given by the non-zero time τ. For any non-zero time τ the growth rate is given by the dimensionless positive number b.
+Thus the law of exponential growth can be written in different but mathematically equivalent forms, by using a different base. The most common forms are the following:
+where x0 expresses the initial quantity x(0).
+Parameters (negative in the case of exponential decay):
+The quantities k, τ, and T, and for a given p also r, have a one-to-one connection given by the following equation (which can be derived by taking the natural logarithm of the above):
+where k = 0 corresponds to r = 0 and to τ and T being infinite.
+If p is the unit of time the quotient t/p is simply the number of units of time. Using the notation t for the (dimensionless) number of units of time rather than the time itself, t/p can be replaced by t, but for uniformity this has been avoided here. In this case the division by p in the last formula is not a numerical division either, but converts a dimensionless number to the correct quantity including unit.
+A popular approximated method for calculating the doubling time from the growth rate is the rule of 70,
+that is, $MATH$.
+Reformulation as log-linear growth
+If a variable x exhibits exponential growth according to $MATH$, then the log (to any base) of x grows linearly over time, as can be seen by taking logarithms of both sides of the exponential growth equation:
+This allows an exponentially growing variable to be modeled with a log-linear model. For example, if one wishes to empirically estimate the growth rate from intertemporal data on x, one can linearly regress log x on t.
+Differential equation
+The exponential function $MATH$ satisfies the linear differential equation:
+saying that the change per instant of time of x at time t is proportional to the value of x(t), and x(t) has the initial value $MATH$.
+The differential equation is solved by direct integration:
+
+so that 
+In the above differential equation, if k < 0, then the quantity experiences exponential decay.
+For a nonlinear variation of this growth model see logistic function.
+Other growth rates
+In the long run, exponential growth of any kind will overtake linear growth of any kind (that is the basis of the Malthusian catastrophe) as well as any polynomial growth, that is, for all α:
+There is a whole hierarchy of conceivable growth rates that are slower than exponential and faster than linear (in the long run). See Degree of a polynomial § Computed from the function values.
+Growth rates may also be faster than exponential. In the most extreme case, when growth increases without bound in finite time, it is called hyperbolic growth. In between exponential and hyperbolic growth lie more classes of growth behavior, like the hyperoperations beginning at tetration, and $MATH$, the diagonal of the Ackermann function.
+Logistic growth
+In reality, initial exponential growth is often not sustained forever. After some period, it will be slowed by external or environmental factors. For example, population growth may reach an upper limit due to resource limitations. In 1845, the Belgian mathematician Pierre François Verhulst first proposed a mathematical model of growth like this, called the "logistic growth".
+Limitations of models
+Exponential growth models of physical phenomena only apply within limited regions, as unbounded growth is not physically realistic. Although growth may initially be exponential, the modelled phenomena will eventually enter a region in which previously ignored negative feedback factors become significant (leading to a logistic growth model) or other underlying assumptions of the exponential growth model, such as continuity or instantaneous feedback, break down.
+Exponential growth bias
+Studies show that human beings have difficulty understanding exponential growth. Exponential growth bias is the tendency to underestimate compound growth processes. This bias can have financial implications as well.
+Below are some stories that emphasize this bias.
+Rice on a chessboard
+According to an old legend, vizier Sissa Ben Dahir presented an Indian King Sharim with a beautiful handmade chessboard. The king asked what he would like in return for his gift and the courtier surprised the king by asking for one grain of rice on the first square, two grains on the second, four grains on the third, etc. The king readily agreed and asked for the rice to be brought. All went well at first, but the requirement for 2n−1 grains on the nth square demanded over a million grains on the 21st square, more than a million million (a.k.a. trillion) on the 41st and there simply was not enough rice in the whole world for the final squares. (From Swirski, 2006)
+The second half of the chessboard is the time when an exponentially growing influence is having a significant economic impact on an organization's overall business strategy.
+Water lily
+French children are offered a riddle, which appears to be an aspect of exponential growth: "the apparent suddenness with which an exponentially growing quantity approaches a fixed limit".  The riddle imagines a water lily plant growing in a pond.  The plant doubles in size every day and, if left alone, it would smother the pond in 30 days killing all the other living things in the water.  Day after day, the plant's growth is small, so it is decided that it won't be a concern until it covers half of the pond. Which day will that be? The 29th day, leaving only one day to save the pond.
+See also
+References
+Sources

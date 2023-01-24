@@ -1,0 +1,34 @@
+Birch reduction
+The Birch reduction is an organic reaction that is used to convert arenes to cyclohexadienes. The reaction is named after the Australian chemist Arthur Birch and involves the organic reduction of aromatic rings in an amine solvent (traditionally liquid ammonia) with an alkali metal (traditionally sodium) and a proton source (traditionally an alcohol).   Unlike catalytic hydrogenation, Birch reduction does not reduce the aromatic ring all the way to a cyclohexane.  
+
+
+An example is the reduction of naphthalene in ammonia and ethanol: 
+Reaction mechanism and regioselectivity
+A solution of sodium in liquid ammonia consists of the intensely blue electride salt [Na(NH3)x]+ e−. The solvated electrons add to the aromatic ring to give a radical anion, which then abstracts a proton from the alcohol.  The process then repeats at either the ortho or para position (depending on substituents) to give the final diene.  The residual double bonds do not stabilize further radical additions.
+The reaction is known to be third order – first order in the aromatic, first order in the alkali metal, and first order in the alcohol. This requires that the rate-limiting step be the conversion of radical anion B to the cyclohexadienyl radical C.
+That step also determines the structure of the product. Although Arthur Birch originally argued that the protonation occurred at the meta position, subsequent investigation has revealed that protonation occurs at either the ortho or para position.  Electron donors tend to induce ortho protonation, as shown in the reduction of anisole (1). Electron-withdrawing substituents tend to induce para protonation, as shown in the reduction of benzoic acid (2).
+Solvated electrons will preferentially reduce sufficiently electronegative functional groups, such as ketones or nitro groups, but do not attack alcohols, carboxylic acids, or ethers.
+Secondary protonation regioselectivity
+
+The second reduction and protonation also poses mechanistic questions. Thus there are three resonance structures for the carbanion (labeled B, C and D in the picture).  
+Simple Hückel computations lead to equal electron densities at the three atoms 1, 3 and 5, but asymmetric bond orders.  Modifying the exchange integrals to account for varying interatomic distances, produces maximum electron density at the central atom 1, a result confirmed by more modern RHF computations.
+The result is analogous to conjugated enolates.  When those anions (but not the enol tautomer) kinetically protonate, they do so at the center to afford the β,γ-unsaturated carbonyl.
+Modifications
+Traditional Birch reduction requires cryogenic temperatures to liquify ammonia and pyrophoric alkali-metal electron donors.  Variants have developed to reduce either inconvenience.
+Many amines serve as alternative solvents: for example, THF or mixed n-propylamine and ethylenediamine.
+To avoid direct alkali, there are chemical alternatives, such as M-SG reducing agent.  The reduction can also be powered by an external potential or sacrificial anode (magnesium or aluminum), but then alkali metal salts are necessary to colocate the reactants via complexation.
+Birch alkylation
+In Birch alkylation the anion formed in the Birch reduction is trapped by a suitable electrophile such as a haloalkane, for example:
+In substituted aromatics, an electron-withdrawing substituent, such as a carboxylic acid, will stabilize the carbanion to generate the least-substituted olefin; an electron-donating substituent has the opposite effect.
+Benkeser reduction
+The Benkeser reduction is the hydrogenation of polycyclic aromatic hydrocarbons, especially naphthalenes using lithium or calcium metal in low molecular weight alkyl amines solvents.  Unlike traditional Birch reduction, the reaction can be conducted at temperatures higher than the boiling point of ammonia (−33 °C).
+For the reduction of naphthalene with lithium in a mixed ethylamine-dimethylamine solution, the principal products are bicyclo[3.3.0]dec-(1,9)-ene, bicyclo[3.3.0]dec-(1,2)-ene and bicyclo[3.3.0]decane.
+The directing effects of naphthalene substituents remain relatively unstudied theoretically.  Substituents adjacent to the bridge appear to direct reduction to the unsubstituted ring; β substituents (one bond further) tend to direct reduction to the substituted ring.
+History
+Arthur Birch, building on earlier work by Wooster and Godfrey, developed the reaction while working in the Dyson Perrins Laboratory at the University of Oxford.  Birch's original procedure used sodium and ethanol; Alfred L. Wilds later discovered that lithium gives better yields.
+The reaction was difficult to understand mechanistically, with controversy lasting into the 1990s.  
+The case with electron-withdrawing groups is obvious, because the Birch alkylation serves as a trap for the penultimate dianion D.  This dianion appears even in alcohol-free reactions. Thus the initial protonation is para rather than ipso, as seen in the B-C transformation.
+For electron-donating substituents, Birch initially proposed meta attack, corresponding to the location of greatest electron density in a neutral benzene ring, a position endorsed by Krapcho and Bothner-By.   These conclusions were challenged by Zimmerman in 1961, who computed electron densities of the radical and diene anions, revealing that the ortho site which was most negative and thus most likely to protonate.  But the situation remained uncertain, because computations remained highly sensitive to transition geometry.  Worse, Hückel orbital and unrestricted Hartree-Fock computations gave conflicting answers.  Burnham, in 1969, concluded that the trustworthiest computations supported meta attack; Birch and Radom, in 1980, concluded that both ortho and meta substitutions would occur with a slight preference for ortho.
+In the earlier 1990s, Zimmerman and Wang developed an experiment technique to distinguish between ortho and meta protonation.  The method began with the premise that carbanions are much more basic than the corresponding radical anions and thus protonate less selectively.  Correspondingly, the two protonations in Birch reduction should exhibit an isotope effect: in a protium–deuterium medium, the radical anion should preferentially protonate and the carbanion deuterate.  Indeed, a variety of methoxylated aromatics exhibited less ortho deuterium than meta (a 1:7 ratio).  Moreover, modern electron density computations now firmly indicated ortho protonation; frontier orbital densities, most analogous to the traditional computations used in past studies, did not.
+Although Birch remained reluctant to concede that ortho protonation was preferred as late as 1996, Zimmerman and Wang had won the day: modern textbooks unequivocally agree that electron-donating substituents promote ortho attack.
+Additional reading

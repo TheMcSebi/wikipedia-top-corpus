@@ -1,0 +1,63 @@
+Buginese language
+Buginese or Bugis (Buginese: ᨅᨔ ᨕᨘᨁᨗ /basa.uɡi/) is a language spoken by about five million people mainly in the southern part of Sulawesi, Indonesia.
+History
+The word Buginese derives from the word Bahasa Bugis in Malay. In Buginese, it is called Basa Ugi while the Bugis people are called To Ugi. According to a Buginese myth, the term Ugi is derived from the name to the first king of Cina, an ancient Bugis kingdom, La Sattumpugi. To Ugi basically means 'the followers of La Sattumpugi'.
+Little is known about the early history of this language due to the lack of written records. The earliest written record of this language is Sureq Galigo, the epic creation myth of the Bugis people.
+Another written source of Buginese is Lontara, a term which refers to the traditional script and historical record as well. The earliest historical record of Lontara dates to around the 17th century. Lontara records have been described by historians of Indonesia as "sober" and "factual" when compared to their counterparts from other regions of Maritime Southeast Asia, such as the babad of Java. These records are usually written in a matter-of-fact tone with very few mythical elements, and the writers would usually put disclaimers before stating something that they cannot verify.
+Prior to the Dutch arrival in the 19th century, a missionary, B. F. Matthews, translated the Bible into Buginese, which made him the first European to acquire knowledge of the language. He was also one of the first Europeans to master Makassarese. The dictionaries and grammar books compiled by him, and the literature and folkfore texts he published, remain basic sources of information about both languages.
+Upon colonization by the Dutch, a number of Bugis fled from their home area of South Sulawesi seeking a better life. This led to the existence of small groups of Buginese speakers throughout Maritime Southeast Asia.
+Classification
+Buginese belongs to the South Sulawesi subgroup of the Austronesian language family. Within the South Sulawesi subgroup, it is most closely related to Campalagian.
+Geographical distribution
+Most of the native speakers (around 3 million) are concentrated in South Sulawesi, Indonesia but there are small groups of Buginese speakers on the island of Java, Samarinda and east Sumatra of Indonesia, east Sabah and Malay Peninsula, Malaysia and South Philippines. This Bugis diaspora is the result of migration since the 17th century that was mainly driven by continuous warfare situations. (Dutch direct colonization started in the early 20th century.)
+Phonology
+Buginese has six vowels: /a/, /e/, /i/, /o/, /u/, and the central vowel /ə/.
+The following table gives the consonant phonemes of Buginese together with their representation in Lontara script.
+When Buginese is written in Latin script, general Indonesian spelling conventions are applied: [ɲ] is represented by ⟨ny⟩, [ŋ] by ⟨ng⟩, [ɟ] by ⟨j⟩, [j] by ⟨y⟩. The glottal stop [ʔ] is usually represented by an apostrophe (e.g. ana' [anaʔ] 'child'), but occasionally ⟨q⟩ is also used. /e/ and /ə/ are usually uniformly spelled as ⟨e⟩, but /e/ is often written as ⟨é⟩ to avoid ambiguity.
+Grammar
+Pronouns
+Buginese has four sets of personal pronouns, one free set, and three bound sets:
+The enclitic set is used with subjects of intransitive verbs, and objects of transitive verbs. The proclitic set is with subjects of transitive verbs. The suffixed set is primarily used in possessive function.
+Aspects
+The following are grammatical aspects of the language:
+Examples
+ᨄᨘᨑᨊᨚ
+pura-no
+have [portmanteau of perfective na (ᨊ) + you]
+ᨆᨙᨋ?
+manre
+eat
+ᨄᨘᨑᨊᨚ ᨆᨙᨋ?
+pura-no manre
+{have [portmanteau of perfective na (ᨊ) + you]} eat
+'Have you already eaten?'
+ᨉᨙᨄ
+deq-pa
+not + [conditional (ᨄ)]
+ᨉᨙᨄ
+deq-pa
+{not + [conditional (ᨄ)]}
+'Not yet.'
+Note that ⟨q⟩ represents the glottal stop. It is not written in the Lontara script.
+Example of usage:
+ᨆᨙᨒᨚ ᨀ
+méloq-kaq
+want-I
+ᨌᨛᨆᨙ
+cemmé
+bathe
+{ᨆᨙᨒᨚ ᨀ} ᨌᨛᨆᨙ
+méloq-kaq cemmé
+want-I bathe
+I want to take a bath
+Writing system
+Buginese was traditionally written using the Lontara script, of the Brahmic family, which is also used for the Makassar language and the Mandar language. The name Lontara derives from the Malay word for the palmyra palm, lontar, the leaves of which are the traditional material for manuscripts in India, South East Asia and Indonesia. Today, however, it is often written using the Latin script.
+Buginese Lontara
+The Buginese lontara (locally known as Aksara Ugi) has a slightly different pronunciation from the other lontaras like the Makassarese. Like other Indic scripts, it also utilizes diacritics to distinguish the vowels [i], [u], [e], [o] and [ə] from the default inherent vowel /a/ (actually pronounced [ɔ]) implicitly represented in all base consonant letters (including the zero-consonant a).
+But unlike most other Brahmic scripts of India, the Buginese script traditionally does not have any virama sign (or alternate half-form for vowel-less consonants, or subjoined form for non-initial consonants in clusters) to suppress the inherent vowel, so it is normally impossible to write consonant clusters (a few ones were added later, derived from ligatures, to mark the prenasalization), geminated consonants or final consonants.
+Dialects and subdialects
+The Bugis still distinguish themselves according to their major precolony states (Bone, Wajo, Soppeng and Sidenreng) or groups of petty states (around Pare-Pare, Sinjai and Suppa.) The languages of these areas, with their relatively minor differences from one another, have been largely recognized by linguists as constituting dialects: recent linguistic research has identified eleven of them, most comprising two or more sub-dialects.
+The following Buginese dialects are listed in the Ethnologue: Bone (Palakka, Dua Boccoe, Mare), Pangkep (Pangkajane), Camba, Sidrap (Sidenreng, North Pinrang, Alitta), Pasangkayu (Ugi Riawa), Sinjai (Enna, Palattae, Bulukumba), Soppeng (Kessi), Wajo, Barru (Pare-Pare, Nepo, Soppeng Riaja, Tompo, Tanete), Sawitto (Pinrang), Luwu (Luwu, Bua Ponrang, Wara, Malangke-Ussu).
+Numbers
+The numbers are:
+Trivia

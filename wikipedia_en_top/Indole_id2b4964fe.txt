@@ -1,0 +1,45 @@
+Indole
+Indole is an aromatic heterocyclic organic compound with the formula C8H7N. It has a bicyclic structure, consisting of a six-membered benzene ring fused to a five-membered pyrrole ring. Indole is widely distributed in the natural environment and can be produced by a variety of bacteria. As an intercellular signal molecule, indole regulates various aspects of bacterial physiology, including spore formation, plasmid stability, resistance to drugs, biofilm formation, and virulence. The amino acid tryptophan is an indole derivative and the precursor of the neurotransmitter serotonin.
+General properties and occurrence
+Indole is a solid at room temperature. It occurs naturally in human feces and has an intense fecal odor. At very low concentrations, however, it has a flowery smell, and is a constituent of many perfumes. It also occurs in coal tar.
+The corresponding substituent is called indolyl.
+Indole undergoes electrophilic substitution, mainly at position 3 (see diagram in right margin). Substituted indoles are structural elements of (and for some compounds, the synthetic precursors for) the tryptophan-derived tryptamine alkaloids, which includes the neurotransmitter serotonin and the hormone melatonin, as well as the naturally occurring psychedelic drugs dimethyltryptamine and psilocybin. Other indolic compounds include the plant hormone auxin (indolyl-3-acetic acid, IAA), tryptophol, the anti-inflammatory drug indomethacin, and the betablocker pindolol.
+The name indole is a portmanteau of the words indigo and oleum, since indole was first isolated by treatment of the indigo dye with oleum.
+History
+Indole chemistry began to develop with the study of the dye indigo. Indigo can be converted to isatin and then to oxindole. Then, in 1866, Adolf von Baeyer reduced oxindole to indole using zinc dust. In 1869, he proposed a formula for indole.
+Certain indole derivatives were important dyestuffs until the end of the 19th century. In the 1930s, interest in indole intensified when it became known that the indole substituent is present in many important alkaloids, known as indole alkaloids (e.g., tryptophan and auxins), and it remains an active area of research today.
+Biosynthesis and function
+Indole is biosynthesized in the shikimate pathway via anthranilate. It is an intermediate in the biosynthesis of tryptophan, where it stays inside the tryptophan synthase molecule between the removal of 3-phospho-glyceraldehyde and the condensation with serine. When indole is needed in the cell, it is usually produced from tryptophan by tryptophanase.
+As an intercellular signal molecule, indole regulates various aspects of bacterial physiology, including spore formation, plasmid stability, resistance to drugs, biofilm formation, and virulence. A number of indole derivatives have important cellular functions, including neurotransmitters such as serotonin.
+Medical applications
+Indoles and their derivatives are promising against tuberculosis, malaria, diabetes, cancer, migraines, convulsions, hypertension, bacterial infections of methicillin-resistant Staphylococcus aureus (MRSA) and even viruses.
+Synthetic routes
+Indole and its derivatives can also be synthesized by a variety of methods.
+The main industrial routes start from aniline via vapor-phase reaction with ethylene glycol in the presence of catalysts:
+In general, reactions are conducted between 200 and 500 °C. Yields can be as high as 60%. Other precursors to indole include formyltoluidine, 2-ethylaniline, and 2-(2-nitrophenyl)ethanol, all of which undergo cyclizations.
+
+
+Leimgruber–Batcho indole synthesis
+The Leimgruber–Batcho indole synthesis is an efficient method of synthesizing indole and substituted indoles. Originally disclosed in a patent in 1976, this method is high-yielding and can generate substituted indoles. This method is especially popular in the pharmaceutical industry, where many pharmaceutical drugs are made up of specifically substituted indoles.
+Fischer indole synthesis
+One of the oldest and most reliable methods for synthesizing substituted indoles is the Fischer indole synthesis, developed in 1883 by Emil Fischer. Although the synthesis of indole itself is problematic using the Fischer indole synthesis, it is often used to generate indoles substituted in the 2- and/or 3-positions. Indole can still be synthesized, however, using the Fischer indole synthesis by reacting phenylhydrazine with pyruvic acid followed by decarboxylation of the formed indole-2-carboxylic acid. This has also been accomplished in a one-pot synthesis using microwave irradiation.
+Other indole-forming reactions
+Chemical reactions of indole
+Basicity
+Unlike most amines, indole is not basic: just like pyrrole, the aromatic character of the ring means that the lone pair of electrons on the nitrogen atom is not available for protonation. Strong acids such as hydrochloric acid can, however, protonate indole. Indole is primarily protonated at the C3, rather than N1, owing to the enamine-like reactivity of the portion of the molecule located outside of the benzene ring. The protonated form has a pKa of −3.6. The sensitivity of many indolic compounds (e.g., tryptamines) under acidic conditions is caused by this protonation.
+Electrophilic substitution
+The most reactive position on indole for electrophilic aromatic substitution is C3, which is 1013 times more reactive  than benzene.  For example, it is alkylated by phosphorylated serine in the biosynthesis of the amino acid tryptophan. Vilsmeier–Haack formylation of indole will take place at room temperature exclusively at C3.
+Since the pyrrolic ring is the most reactive portion of indole, electrophilic substitution of the carbocyclic (benzene) ring generally takes place only after N1, C2, and C3 are substituted. A noteworthy exception occurs when electrophilic substitution is carried out in conditions sufficiently acidic to exhaustively protonate C3.  In this case, C5 is the most common site of electrophilic attack.
+Gramine, a useful synthetic intermediate, is produced via a Mannich reaction of indole with dimethylamine and formaldehyde. It is the precursor to indole-3-acetic acid and synthetic tryptophan.
+N–H acidity and organometallic indole anion complexes
+The N–H center has a pKa of 21 in DMSO, so that very strong bases such as sodium hydride or n-butyl lithium and water-free conditions are required for complete deprotonation. The resulting organometalic derivatives can react in two ways. The more ionic salts such as the sodium or potassium compounds tend to react with electrophiles at nitrogen-1, whereas the more covalent magnesium compounds (indole Grignard reagents) and (especially) zinc complexes tend to react at carbon 3 (see figure below). In analogous fashion, polar aprotic solvents such as DMF and DMSO tend to favour attack at the nitrogen, whereas nonpolar solvents such as toluene favour C3 attack.
+Carbon acidity and C2 lithiation
+After the N–H proton, the hydrogen at C2 is the next most acidic proton on indole. Reaction of N-protected indoles with butyl lithium or lithium diisopropylamide results in lithiation exclusively at the C2 position. This strong nucleophile can then be used as such with other electrophiles.
+Bergman and Venemalm developed a technique for lithiating the 2-position of unsubstituted indole, as did Katritzky.
+Oxidation of indole
+Due to the electron-rich nature of indole, it is easily oxidized. Simple oxidants such as N-bromosuccinimide will selectively oxidize indole 1 to oxindole (4 and 5).
+Cycloadditions of indole
+Only the C2–C3 pi bond of indole is capable of cycloaddition reactions. Intramolecular variants are often higher-yielding than intermolecular cycloadditions. For example, Padwa et al. have developed this Diels-Alder reaction to form advanced strychnine intermediates. In this case, the 2-aminofuran is the diene, whereas the indole is the dienophile. Indoles also undergo intramolecular [2+3] and [2+2] cycloadditions.
+Despite mediocre yields, intermolecular cycloadditions of indole derivatives have been well documented. One example is the Pictet-Spengler reaction between tryptophan derivatives and aldehydes, which produces a mixture of diastereomers, leading to reduced yield of the desired product.
+Hydrogenation
+Indoles are susceptible to hydrogenation of the imine subunit.

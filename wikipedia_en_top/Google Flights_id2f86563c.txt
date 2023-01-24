@@ -1,0 +1,11 @@
+Google Flights
+Google Flights is an online flight booking search service that facilitates the purchase of airline tickets through third-party suppliers. It was launched by Google in 2011 following a buyout. It is now part of Google Travel.
+History
+In April 2011, the United States Department of Justice Antitrust Division approved Google's $700 million purchase of ITA Software.  On September 13, 2011, Google launched Google Flights, which used algorithms gained from this purchase.
+Features
+An innovation of Google Flights is that it allows open-ended searches based on criteria other than the destination; for example, a user may search for flights within a range of times and a budget and be offered various destination choices. Alternatively, a user can select a destination, and Google Flights will calculate every price for each day of the next 12 months, visualized in a graph or table. This allows users to easily spot the cheapest date to fly to the destination.
+Google Flights also enables its users to calculate the climate impact of their flight, but in July 2022, this tool changed the way of calculating the climate impact of flights. All the global warming impacts of flying except the CO2 emission were excluded from the calculation, halving the calculated climate impact of each flight. This move faced a backlash from environmental activists and the scientific community.
+Response
+The service was immediately compared to competitors such as Expedia, Orbitz, Kayak.com, and Bing.
+Shortly after the site launched, Expedia testified to the Senate Judiciary Antitrust Subcommittee that Google failed to keep a promise to rank Google Flight listings below the listings of competitors in a Google search.
+International availability

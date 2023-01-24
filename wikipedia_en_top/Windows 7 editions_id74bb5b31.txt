@@ -1,0 +1,25 @@
+Windows 7 editions
+Windows 7, a major release of the Microsoft Windows operating system, has been released in several editions since its original release in 2009. Only Home Premium, Professional, and Ultimate were widely available at retailers. The other editions focus on other markets, such as the software development world or enterprise use. All editions support 32-bit IA-32 CPUs and all editions except Starter support 64-bit x64 CPUs. 64-bit installation media are not included in Home-Basic edition packages, but can be obtained separately from windows.
+
+
+According to Microsoft, the features for all editions of Windows 7 are stored on the machine, regardless of which edition is in use. Users who wish to upgrade to an edition of Windows 7 with more features were able to use Windows Anytime Upgrade to purchase the upgrade and to unlock the features of those editions, until it was discontinued in 2015. Microsoft announced Windows 7 pricing information for some editions on June 25, 2009, and Windows Anytime Upgrade and Family Pack pricing on July 31, 2009.
+Main editions
+Mainstream support for all Windows 7 editions ended on January 13, 2015, and extended support ended on January 14, 2020. After that, the operating system ceased receiving further support. Professional and Enterprise volume licensed editions have paid Extended Security Updates (ESU) available until at most January 10, 2023. Since October 31, 2013, Windows 7 is no longer available in retail, except for remaining stocks of the preinstalled Professional edition, which was officially discontinued on October 31, 2016.
+Special-purpose editions
+The main editions also can take the form of one of the following special editions:
+Upgrade editions
+In-place upgrade from Windows Vista with Service Pack 1 to Windows 7 is supported if the processor architecture and the language are the same and their editions match (see below). In-place upgrade is not supported for earlier versions of Windows; moving to Windows 7 on these machines requires a clean installation, i.e. removal of the old operating system, installing Windows 7 and reinstalling all previously installed programs. Windows Easy Transfer can assist in this process.
+
+Microsoft made upgrade SKUs of Windows 7 for selected editions of Windows XP and Windows Vista. The difference between these SKUs and full SKUs of Windows 7 is their lower price and proof of license ownership of a qualifying previous version of Windows. Same restrictions on in-place upgrading applies to these SKUs as well. In addition, Windows 7 is available as a Family Pack upgrade edition in certain markets, to upgrade to Windows 7 Home Premium only. It gives licenses to upgrade three machines from Vista or Windows XP to the Windows 7 Home Premium edition. These are not full versions, so each machine to be upgraded must have one of these qualifying previous versions of Windows for them to work. In the United States, this offer expired in early December 2009. In October 2010, to commemorate the anniversary of Windows 7, Microsoft once again made Windows 7 Home Premium Family Pack available for a limited time, while supplies lasted.
+Upgrade compatibility
+There are two possible ways to upgrade to Windows 7 from an earlier version of Windows:
+The table below lists which upgrade paths allow for an in-place install. Note that in-place upgrades can only be performed when the previous version of Windows is of the same architecture. If upgrading from a 32-bit installation to a 64-bit installation or downgrading from 64-bit installation to 32-bit installation, a clean install is mandatory regardless of the editions being used.
+Anytime Upgrade editions
+Microsoft still supports in-place upgrades from a lower edition of Windows 7 to a higher one, using the Windows Anytime Upgrade tool. There are currently three retail options available (though it is currently unclear whether they can be used with previous installations of the N versions). There are no family pack versions of the Anytime Upgrade editions. It was possible to use the Product Key from a Standard upgrade edition to accomplish an in-place upgrade (e.g. Home Premium to Ultimate).
+1 Available in retail, and at the Microsoft Store
+Derivatives
+ Mainstream support for Windows Embedded 7 Standard ended on October 13, 2015 and extended support ended on October 13, 2020. Mainstream support for Windows Embedded POSReady 7 ended on October 11, 2016 and extended support ended on October 12, 2021. Extended Security Updates (ESU) last for Windows Embedded 7 Standard until October 10, 2023. ESU for Windows Embedded POSReady 7 last until October 8, 2024.
+See also
+Notes
+References
+Further reading

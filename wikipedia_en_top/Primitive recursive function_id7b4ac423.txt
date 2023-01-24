@@ -1,0 +1,99 @@
+Primitive recursive function
+In computability theory, a primitive recursive function is, roughly speaking, a function that can be computed by a computer program whose loops are all "for" loops (that is, an upper bound of the number of iterations of every loop can be determined before entering the loop). Primitive recursive functions form a strict subset of those general recursive functions that are also total functions. 
+The importance of primitive recursive functions lies in the fact that most computable functions that are studied in number theory (and more generally in mathematics) are primitive recursive. For example, addition and division, the factorial and exponential function, and the function which returns the nth prime are all primitive recursive. In fact, for showing that a computable function is primitive recursive, it suffices to show that its time complexity is bounded above by a primitive recursive function of the input size. It is hence not that easy to devise a computable function that is not primitive recursive; some examples are shown in section § Limitations below.
+The set of primitive recursive functions is known as PR in computational complexity theory.
+Definition
+A primitive recursive function takes a fixed number of arguments, each a natural number (nonnegative integer: {0, 1, 2, ...}), and returns a natural number. If it takes n arguments it is called n-ary.
+The basic primitive recursive functions are given by these axioms:
+More complex primitive recursive functions can be obtained by applying the operations given by these axioms:
+The primitive recursive functions are the basic functions and those obtained from the basic functions by applying these operations a finite number of times.
+Examples
+Addition
+A definition of the 2-ary function $MATH$, to compute the sum of its arguments, can be obtained using the primitive recursion operator $MATH$. To this end, the well-known equations 
+are "rephrased in primitive recursive function terminology": In the definition of $MATH$, the first equation suggests to choose $MATH$ to obtain $MATH$; the second equation suggests to choose $MATH$ to obtain $MATH$. Therefore, the addition function can be defined as $MATH$. As a computation example,
+Doubling
+Given $MATH$, the 1-ary function $MATH$ doubles its argument, $MATH$.
+Multiplication
+In a similar way as addition, multiplication can be defined by $MATH$. This reproduces the well-known multiplication equations: 
+and 
+Predecessor
+The predecessor function acts as the "opposite" of the successor function and is recursively defined by the rules $MATH$ and $MATH$. A primitive recursive definition is $MATH$. As a computation example,
+Truncated subtraction
+The limited subtraction function (also called "monus", and denoted "$MATH$") is definable from the predecessor function. It satisfies the equations 
+Since the recursion runs over the second argument, we begin with a primitive recursive definition of the reversed subtraction, $MATH$. Its recursion then runs over the first argument, so its primitive recursive definition can be obtained, similar to addition, as $MATH$. To get rid of the reversed argument order, then define $MATH$. As a computation example,
+Converting predicates to numeric functions
+In some settings it is natural to consider primitive recursive functions that take as inputs tuples that mix numbers with truth values (that is t for true and f for false), or that produce truth values as outputs. This can be accomplished by identifying the truth values with numbers in any fixed manner.  For example, it is common to identify the truth value t with the number 1 and the truth value f with the number 0.  Once this identification has been made, the characteristic function of a set A, which always returns 1 or 0, can be viewed as a predicate that tells whether a number is in the set A.  Such an identification of predicates with numeric functions will be assumed for the remainder of this article.
+Predicate "Is zero"
+As an example for a primitive recursive predicate, the 1-ary function $MATH$ shall be defined such that $MATH$ if $MATH$, and 
+$MATH$, otherwise. This can be achieved by defining $MATH$. Then, $MATH$ and e.g. $MATH$.
+Predicate "Less or equal"
+Using the property $MATH$, the 2-ary function $MATH$ can be defined by $MATH$. Then $MATH$ if $MATH$, and $MATH$, otherwise. As a computation example,
+Predicate "Greater or equal"
+Once a definition of $MATH$ is obtained, the converse predicate can be defined as $MATH$. Then, $MATH$ is true (more precisely: has value 1) if, and only if, $MATH$.
+If-then-else
+The 3-ary if-then-else operator known from programming languages can be defined by $MATH$. Then, for arbitrary $MATH$,
+and 
+That is, $MATH$ returns the then-part, $MATH$, if the if-part, $MATH$, is true, and the else-part, $MATH$, otherwise.
+Junctors
+Based on the $MATH$ function, it is easy to define logical junctors. For example, defining $MATH$, one obtains $MATH$, that is, $MATH$ is true if, and only if, both $MATH$ and $MATH$ are true (logical conjunction of $MATH$ and $MATH$).
+Similarly, $MATH$ and $MATH$ lead to appropriate definitions of disjunction and negation: $MATH$ and $MATH$.
+Equality predicate
+Using the above functions $MATH$, $MATH$ and $MATH$, the definition $MATH$ implements the equality predicate. In fact, $MATH$ is true if, and only if, $MATH$ equals $MATH$.
+Similarly, the definition $MATH$ implements the predicate "less-than", and $MATH$ implements "greater-than".
+Other operations on natural numbers
+Exponentiation and primality testing are primitive recursive. Given primitive recursive functions e, f, g, and h, a function that returns the value of g when e≤f and the value of h otherwise is primitive recursive.
+Operations on integers and rational numbers
+By using Gödel numberings, the primitive recursive functions can be extended to operate on other objects such as integers and rational numbers.  If integers are encoded by Gödel numbers in a standard way, the arithmetic operations including addition, subtraction, and multiplication are all primitive recursive.  Similarly, if the rationals are represented by Gödel numbers then the field operations are all primitive recursive.
+Some common primitive recursive functions
+In the following we observe that primitive recursive functions can be of four types:
+In the following the mark " ' ", e.g. a', is the primitive mark meaning "the successor of", usually thought of as " +1", e.g. a +1 =def a'. The functions 16-20 and #G are of particular interest with respect to converting primitive recursive predicates to, and extracting them from, their "arithmetical" form expressed as Gödel numbers.
+Use in first-order Peano arithmetic
+In first-order Peano arithmetic, there are infinitely many variables (0-ary symbols) but no k-ary non-logical symbols with k>0 other than S, +, *, and ≤. Thus in order to define primitive recursive functions one has to use the following trick by Gödel.
+By using a Gödel numbering for sequences, for example Gödel's β function, any finite sequence of numbers can be encoded by a single number. Such a number can therefore represent the primitive recursive function until a given n.
+Let h be a 1-ary primitive recursion function defined by:
+where C is a constant and g is an already defined function.
+Using Gödel's β function, for any sequence of natural numbers (k0, k1, ..., kn), there are natural numbers b and c such that, for every i ≤ n, β(b, c, i) = ki. We may thus use the following formula to define h; more precisely, m=h(n) is a shorthand for the following:
+and the equating to g, being already defined, is in fact shorthand for some other already defined formula (as is β, whose formula is given here).
+The generalization to any k-ary primitive recursion function is trivial.
+Relationship to recursive functions
+The broader class of partial recursive functions is defined by introducing an unbounded search operator.  The use of this operator may result in a partial function, that is, a relation with at most one value for each argument, but does not necessarily have any value for any argument (see domain).  An equivalent definition states that a partial recursive function is one that can be computed by a Turing machine.  A total recursive function is a partial recursive function that is defined for every input.
+Every primitive recursive function is total recursive, but not all total recursive functions are primitive recursive. The Ackermann function A(m,n) is a well-known example of a total recursive function (in fact, provable total), that is not primitive recursive. There is a characterization of the primitive recursive functions as a subset of the total recursive functions using the Ackermann function.  This characterization states that a function is primitive recursive if and only if there is a natural number m such that the function can be computed by a Turing machine that always halts within A(m,n) or fewer steps, where n is the sum of the arguments of the primitive recursive function.
+An important property of the primitive recursive functions is that they are a recursively enumerable subset of the set of all total recursive functions (which is not itself recursively enumerable). This means that there is a single computable function f(m,n) that enumerates the primitive recursive functions, namely:
+f can be explicitly constructed by iteratively repeating all possible ways of creating primitive recursive functions. Thus, it is provably total. One can use a diagonalization argument to show that f is not recursive primitive in itself: had it been such, so would be h(n) = f(n,n)+1. But if this equals some primitive recursive function, there is an m such that h(n) = f(m,n) for all n, and then h(m) = f(m,m), leading to contradiction.
+However, the set of primitive recursive functions is not the largest recursively enumerable subset of the set of all total recursive functions. For example, the set of provably total functions (in Peano arithmetic) is also recursively enumerable, as one can enumerate all the proofs of the theory. While all primitive recursive functions are provably total, the converse is not true.
+Limitations
+Primitive recursive functions tend to correspond very closely with our intuition of what a computable function must be. Certainly the initial functions are intuitively computable (in their very simplicity), and the two operations by which one can create new primitive recursive functions are also very straightforward. However, the set of primitive recursive functions does not include every possible total computable function—this can be seen with a variant of Cantor's diagonal argument. This argument provides a total computable function that is not primitive recursive. A sketch of the proof is as follows:
+Now define the "evaluator function" ev with two arguments, by ev(i,j) = fi(j). Clearly ev is total and computable, since one can effectively determine the definition of fi, and being a primitive recursive function fi is itself total and computable, so fi(j) is always defined and effectively computable. However a diagonal argument will show that the function ev of two arguments is not primitive recursive.
+This argument can be applied to any class of computable (total) functions that can be enumerated in this way, as explained in the article Machine that always halts. Note however that the partial computable functions (those that need not be defined for all arguments) can be explicitly enumerated, for instance by enumerating Turing machine encodings.
+Other examples of total recursive but not primitive recursive functions are known:
+Variants
+Constant functions
+Instead of $MATH$,
+alternative definitions use just one 0-ary zero function $MATH$ as a primitive function that always returns zero, and built the constant functions from the zero function, the successor function and the composition operator.
+Weak primitive recursion
+The 1-place predecessor function is primitive recursive, see section #Predecessor. Fischer, Fischer & Beigel  removed the implicit predecessor from the recursion rule, replacing it by the weaker rule
+They proved that the predecessor function still could be defined, and hence that "weak" primitive recursion also defines the primitive recursive functions.
+Iterative functions
+Weakening this even further by using functions $MATH$ of arity k+1, removing $MATH$ and $MATH$ from the arguments of $MATH$ completely, we get the iteration rule:
+$MATH$
+The class of iterative functions is defined the same way as the class of primitive recursive functions except with this weaker rule. These are conjectured to be a proper subset of the primitive recursive functions.
+Additional primitive recursive forms
+Some additional forms of recursion also define functions that are in fact
+primitive recursive.  Definitions in these forms may be easier to find or
+more natural for reading or writing. Course-of-values recursion defines primitive recursive functions. Some forms of mutual recursion also define primitive recursive functions.
+The functions that can be programmed in the LOOP programming language are exactly the primitive recursive functions. This gives a different characterization of the power of these functions. The main limitation of the LOOP language, compared to a Turing-complete language, is that in the LOOP language the number of times that each loop will run is specified before the loop begins to run.
+Computer language definition
+An example of a primitive recursive programming language is one that contains basic arithmetic operators (e.g. + and −, or ADD and SUBTRACT), conditionals and comparison (IF-THEN, EQUALS, LESS-THAN), and bounded loops, such as the basic for loop, where there is a known or calculable upper bound to all loops (FOR i FROM 1 TO n, with neither i nor n modifiable by the loop body). No control structures of greater generality, such as while loops or IF-THEN plus GOTO, are admitted in a primitive recursive language. 
+The LOOP language, introduced in a 1967 paper by Albert R. Meyer and Dennis M. Ritchie, is such a language. Its computing power coincides with the primitive recursive functions. A variant of the LOOP language is Douglas Hofstadter's BlooP in Gödel, Escher, Bach. Adding unbounded loops (WHILE, GOTO) makes the language general recursive and Turing-complete, as are all real-world computer programming languages.
+The definition of primitive recursive functions implies that their computation halts on every input (after a finite number of steps). On the other hand, the halting problem is undecidable for general recursive functions, even if they are total. That is, there are programs that halt on every input, but for which this can not be verified by an algorithm.
+Finitism and consistency results
+The primitive recursive functions are closely related to mathematical finitism, and are used in several contexts in mathematical logic where a particularly constructive system is desired. Primitive recursive arithmetic (PRA), a formal axiom system for the natural numbers and the primitive recursive functions on them, is often used for this purpose.
+PRA is much weaker than Peano arithmetic, which is not a finitistic system. Nevertheless, many results in number theory and in proof theory can be proved in PRA. For example, Gödel's incompleteness theorem can be formalized into PRA, giving the following theorem:
+Similarly, many of the syntactic results in proof theory can be proved in PRA, which implies that there are primitive recursive functions that carry out the corresponding syntactic transformations of proofs.
+In proof theory and set theory, there is an interest in finitistic consistency proofs, that is, consistency proofs that themselves are finitistically acceptable. Such a proof establishes that the consistency of a theory T implies the consistency of a theory S by producing a primitive recursive function that can transform any proof of an inconsistency from S into a proof of an inconsistency from T.  One sufficient condition for a consistency proof to be finitistic is the ability to formalize it in PRA. For example, many consistency results in set theory that are obtained by forcing can be recast as syntactic proofs that can be formalized in PRA.
+History
+Recursive definitions had been used more or less formally in mathematics before, but the construction of primitive recursion is traced back to Richard Dedekind's theorem 126 of his Was sind und was sollen die Zahlen? (1888). This work was the first to give a proof that a certain recursive construction defines a unique function.
+Primitive recursive arithmetic  was first proposed by Thoralf Skolem in 1923.
+The current terminology was coined by Rózsa Péter (1934) after Ackermann had proved in 1928 that the function which today is named after him was not primitive recursive, an event which prompted the need to rename what until then were simply called recursive functions.
+See also
+Notes

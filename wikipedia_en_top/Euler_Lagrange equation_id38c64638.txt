@@ -1,0 +1,70 @@
+Euler–Lagrange equation
+In the calculus of variations and classical mechanics, the Euler–Lagrange equations are a system of second-order ordinary differential equations whose solutions are stationary points of the given action functional. The equations were discovered in the 1750s by Swiss mathematician Leonhard Euler and Italian mathematician Joseph-Louis Lagrange.
+Because a differentiable functional is stationary at its local extrema, the Euler–Lagrange equation is useful for solving optimization problems in which, given some functional, one seeks the function minimizing or maximizing it. This is analogous to Fermat's theorem in calculus, stating that at any point where a differentiable function attains a local extremum its derivative is zero. 
+In Lagrangian mechanics, according to Hamilton's principle of stationary action, the evolution of a physical system is described by the solutions to the Euler equation for the action of the system. In this context Euler equations are usually called Lagrange equations. In classical mechanics, it is equivalent to Newton's laws of motion; indeed, the Euler-Lagrange equations will produce the same equations as Newton's Laws.  This is particularly useful when analyzing systems whose force vectors are particularly complicated. It has the advantage that it takes the same form in any system of generalized coordinates, and it is better suited to generalizations. In classical field theory there is an analogous equation to calculate the dynamics of a field.
+History
+The Euler–Lagrange equation was developed in the 1750s by Euler and Lagrange in connection with their studies of the  tautochrone problem. This is the problem of determining a curve on which a weighted particle will fall to a fixed point in a fixed amount of time, independent of the starting point.
+Lagrange solved this problem in 1755  and sent the solution to Euler. Both further developed Lagrange's method and applied it to mechanics, which led to the formulation of Lagrangian mechanics. Their correspondence ultimately led to the calculus of variations, a term coined by Euler himself in 1766.
+Statement
+Let $MATH$ be a mechanical system with $MATH$ degrees of freedom. Here $MATH$ is the configuration space and $MATH$ the Lagrangian, i.e. a smooth real-valued function such that $MATH$ and $MATH$ is an $MATH$-dimensional "vector of speed". (For those familiar with differential geometry, $MATH$ is a smooth manifold, and $MATH$ where $MATH$ is the tangent bundle of $MATH$
+Let $MATH$ be the set of smooth paths $MATH$ for which $MATH$ and $MATH$  The action functional $MATH$ is defined via
+A path $MATH$ is a stationary point of $MATH$ if and only if
+$MATH$
+Here, $MATH$ is the time derivative of $MATH$
+The derivation of the one-dimensional Euler–Lagrange equation is one of the classic proofs in mathematics. It relies on the fundamental lemma of calculus of variations.
+We wish to find a function $MATH$ which satisfies the boundary conditions $MATH$, $MATH$, and which extremizes the functional
+We assume that $MATH$ is twice continuously differentiable. A weaker assumption can be used, but the proof becomes more difficult.
+If $MATH$ extremizes the functional subject to the boundary conditions, then any slight perturbation of $MATH$ that preserves the boundary values must either increase $MATH$ (if $MATH$ is a minimizer) or decrease $MATH$ (if $MATH$ is a maximizer).
+Let $MATH$ be the result of such a perturbation $MATH$ of $MATH$, where $MATH$ is small and $MATH$ is a differentiable function satisfying $MATH$. Then define
+where $MATH$ .
+We now wish to calculate the total derivative of $MATH$ with respect to ε.
+It follows from the total derivative that
+The second line follows from the fact that $MATH$ does not depend on $MATH$, i.e. $MATH$.
+So
+When $MATH$ we have $MATH$, $MATH$ and $MATH$ has an extremum value, so that
+The next step is to use integration by parts on the second term of the integrand, yielding
+Using the boundary conditions $MATH$,
+Applying the fundamental lemma of calculus of variations now yields the Euler–Lagrange equation
+Given a functional
+on $MATH$ with the boundary conditions $MATH$ and $MATH$, we proceed by approximating the extremal curve by a polygonal line with $MATH$ segments and passing to the limit as the number of segments grows arbitrarily large.
+Divide the interval $MATH$ into $MATH$ equal segments with endpoints $MATH$ and let $MATH$. Rather than a smooth function $MATH$ we consider the polygonal line with vertices $MATH$, where $MATH$ and $MATH$. Accordingly, our functional becomes a real function of $MATH$ variables given by
+Extremals of this new functional defined on the discrete points $MATH$ correspond to points where
+Evaluating this partial derivative gives
+Dividing the above equation by $MATH$ gives
+and taking the limit as $MATH$ of the right-hand side of this expression yields
+The left hand side of the previous equation is the functional derivative $MATH$ of the functional $MATH$. A necessary condition for a differentiable functional to have an extremum on some function is that its functional derivative at that function vanishes, which is granted by the last equation.
+Example
+A standard example is finding the real-valued function y(x) on the interval [a, b], such that y(a) = c and y(b) = d, for which the  path  length along the curve traced by y is as short as possible. 
+the integrand function being L(x, y, y′) = √1 + y′ ² .
+The partial derivatives of L are:
+By substituting these into the Euler–Lagrange equation, we obtain
+that is, the function must have a constant first derivative, and thus its graph is a straight line.
+Generalizations
+Single function of single variable with higher derivatives
+The stationary values of the functional
+can be obtained from the Euler–Lagrange equation
+under fixed boundary conditions for the function itself as well as for the first $MATH$ derivatives (i.e. for all $MATH$). The endpoint values of the highest derivative $MATH$ remain flexible.
+Several functions of single variable with single derivative
+If the problem involves finding several functions ($MATH$) of a single independent variable ($MATH$) that define an extremum of the functional
+then the corresponding Euler–Lagrange equations are
+Single function of several variables with single derivative
+A multi-dimensional generalization comes from considering a function on n variables. If $MATH$ is some surface, then
+is extremized only if f satisfies the partial differential equation
+When n = 2 and functional $MATH$ is the energy functional, this leads to the soap-film minimal surface problem.
+Several functions of several variables with single derivative
+If there are several unknown functions to be determined and several variables such that
+the system of Euler–Lagrange equations is
+Single function of two variables with higher derivatives
+If there is a single unknown function f to be determined that is dependent on two variables x1 and x2 and if the functional depends on higher derivatives of f up to n-th order such that
+then the Euler–Lagrange equation is
+which can be represented shortly as:
+wherein $MATH$ are indices that span the number of variables, that is, here they go from 1 to 2. Here summation over the $MATH$ indices is only over $MATH$ in order to avoid counting the same partial derivative multiple times, for example $MATH$ appears only once in the previous equation.
+Several functions of several variables with higher derivatives
+If there are p unknown functions fi to be determined that are dependent on m variables x1 ... xm and if the functional depends on higher derivatives of the fi up to n-th order such that
+where $MATH$ are indices that span the number of variables, that is they go from 1 to m. Then the Euler–Lagrange equation is
+where the summation over the $MATH$ is avoiding counting the same derivative $MATH$ several times, just as in the previous subsection. This can be expressed more compactly as
+Generalization to manifolds
+Let $MATH$ be a smooth manifold, and let $MATH$ denote the space of smooth functions $MATH$. Then, for functionals $MATH$ of the form
+where $MATH$ is the Lagrangian, the statement $MATH$ is equivalent to the statement that, for all $MATH$, each coordinate frame trivialization $MATH$ of a neighborhood of $MATH$ yields the following $MATH$ equations:
+See also
+Notes

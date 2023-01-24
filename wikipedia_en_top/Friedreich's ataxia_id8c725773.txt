@@ -1,0 +1,68 @@
+Friedreich's ataxia
+Friedreich's ataxia (FRDA or FA) is an autosomal-recessive genetic disease that causes difficulty walking, a loss of sensation in the arms and legs, and impaired speech that worsens over time. Symptoms generally start between 5 and 20 years of age. Many develop hypertrophic cardiomyopathy and require a mobility aid such as a cane, walker, or wheelchair in their teens.   As the disease progresses, some affected people lose their sight and hearing. Other complications may include scoliosis and diabetes mellitus.
+
+
+The condition is caused by mutations in the FXN gene on chromosome 9, which makes a protein called frataxin. In FRDA, cells produce less frataxin. Degeneration of nerve tissue in the spinal cord causes the ataxia; particularly affected are the sensory neurons essential for directing muscle movement of the arms and legs through connections with the cerebellum. The spinal cord becomes thinner, and nerve cells lose some myelin sheath.
+No effective treatment is known, but several therapies are in trials. FRDA shortens life expectancy due to heart disease, but some people can live into their 60s or older.
+FRDA affects one in 50,000 people in the United States and is the most common inherited ataxia. Rates are highest in people of Western European descent. The condition is named after German physician Nikolaus Friedreich, who first described it in the 1860s.
+Symptoms
+Symptoms typically start between the ages of 5 and 15, but in late-onset FRDA, they may occur after age 25 years.  The symptoms are broad, but consistently involve gait and limb ataxia, dysarthria and loss of lower limb reflexes.
+Classical symptoms
+There is some variability in symptom frequency, onset and progression. All individuals with FRDA develop neurological symptoms, including dysarthria and loss of lower limb reflexes, and more than 90% present with ataxia. Cardiac issues are very common with early onset FRDA . Most individuals develop heart problems such as enlargement of the heart, symmetrical hypertrophy, heart murmurs, atrial fibrillation, tachycardia, hypertrophic cardiomyopathy, and conduction defects. Scoliosis is present in about 60%. 7% of people with FRDA also have diabetes and having diabetes has an adverse impact on people with FA, especially those that show symptoms when young.
+Other symptoms
+People who have been living with FRDA for a long time may develop other complications. 36.8% experience decreased visual acuity, which may be progressive and could lead to functional blindness.  Hearing loss is present in about 10.9% of cases.  Some patients report bladder and bowel symptoms. Advanced stages of disease are associated with supraventricular tachyarrhythmias, most commonly atrial fibrillation.
+Other later stage symptoms can include, cerebellar effects such as nystagmus, fast saccadic eye movements, dysmetria and loss of coordination (truncal ataxia, and stomping gait). Symptoms can involve the dorsal column such as the loss of vibratory sensation and proprioceptive sensation.
+The progressive loss of coordination and muscle strength leads to the full-time use of a wheelchair.  Most young people diagnosed with FRDA require mobility aids such as a cane, walker, or wheelchair by early 20s.
+The disease is progressive, with increasing staggering or stumbling gait and frequent falling.  By the third decade, affected people lose the ability to stand or walk without assistance and require a wheelchair for mobility.
+Early-onset cases
+Non-neurological symptoms such as scoliosis, pes cavus, cardiomyopathy and diabetes are more frequent amongst the early-onset cases.
+Genetics
+FRDA is an autosomal-recessive disorder that affects a gene (FXN) on chromosome 9, which produces an important protein called frataxin.
+In 96% of cases, the mutant FXN gene has 90–1,300 GAA trinucleotide repeat expansions in intron 1 of both alleles. This expansion causes epigenetic changes and formation of heterochromatin near the repeat. The length of the shorter GAA repeat is correlated with the age of onset and disease severity. The formation of heterochromatin results in reduced transcription of the gene and low levels of frataxin. People with FDRA might have 5-35% of the frataxin protein compared to healthy individuals. Heterozygous carriers of the mutant FXN gene have 50% lower frataxin levels, but this decrease is not enough to cause symptoms.
+In about 4% of cases, the disease is caused by a (missense, nonsense, or intronic) point mutation, with an expansion in one allele and a point mutation in the other. A missense point mutation can have milder symptoms. Depending on the point mutation, cells can produce no frataxin, nonfunctional frataxin, or frataxin that is not properly localized to the mitochondria.
+Pathophysiology
+FRDA affects the nervous system, heart, pancreas, and other systems.
+Degeneration of nerve tissue in the spinal cord causes ataxia. The sensory neurons essential for directing muscle movement of the arms and legs through connections with the cerebellum are particularly affected. The disease primarily affects the spinal cord and peripheral nerves.
+The spinal cord becomes thinner and nerve cells lose some myelin sheath. The diameter of the spinal cord is smaller than that of unaffected individuals mainly due to smaller dorsal root ganglia. The motor neurons of the spinal cord are affected to a lesser extent than sensory neurons. In peripheral nerves, a loss of large myelinated sensory fibers occurs.
+Structures in the brain are also affected by FRDA, notably the dentate nucleus of the cerebellum. The heart often develops some fibrosis, and over time, develops left-ventricle hypertrophy and dilatation of the left ventricle.
+Frataxin
+The exact role of frataxin remains unclear. Frataxin assists iron-sulfur protein synthesis in the electron transport chain to generate adenosine triphosphate, the energy molecule necessary to carry out metabolic functions in cells. It also regulates iron transfer in the mitochondria by providing a proper amount of reactive oxygen species (ROS) to maintain normal processes. One result of frataxin deficiency is mitochondrial iron overload, which damages many proteins due to effects on cellular metabolism.
+Without frataxin, the energy in the mitochondria falls, and excess iron creates extra ROS, leading to further cell damage. Low frataxin levels lead to insufficient biosynthesis of iron–sulfur clusters that are required for mitochondrial electron transport and assembly of functional aconitase and iron dysmetabolism of the entire cell.
+Diagnosis
+Balance difficulty, loss of proprioception, an absence of reflexes, and signs of other neurological problems are common signs from a physical examination. Diagnostic tests are made to confirm a physical examination such as electromyogram, nerve conduction studies, electrocardiogram, echocardiogram, blood tests for elevated glucose levels and vitamin E levels, and scans such as X-ray radiograph for scoliosis. MRI and CT scans of brain and spinal cord are done to rule out other neurological conditions. Finally, a genetic test is conducted to confirm.
+Other diagnoses might include Charcot-Marie-Tooth types 1 and 2, ataxia with vitamin E deficiency, ataxia-oculomotor apraxia types 1 and 2,  and other early-onset ataxias.
+Management
+Physical therapists play a critical role in educating on correct posture, muscle use, and the identification and avoidance of features that aggravate spasticities such as tight clothing, poorly adjusted wheelchairs, pain, and infection.
+Rehabilitation
+Physical therapy typically includes intensive motor coordination, balance, and stabilization training to preserve gains.  Low intensity strengthening exercises are incorporated to maintain functional use of the upper and lower extremities.  Stretching and muscle relaxation exercises can be prescribed to help manage spasticity and prevent deformities. Other physical therapy goals include increased transfer and locomotion independence, muscle strengthening, increased physical resilience, "safe fall" strategy, learning to use mobility aids, learning how to reduce the body's energy expenditure, and developing specific breathing patterns.  Speech therapy can improve voice quality.
+Devices
+Well-fitted orthoses can promote correct posture, support normal joint alignment, stabilize joints during walking, improve range of motion and gait, reduce spasticity, and prevent foot deformities and scoliosis.
+Functional electrical stimulation or transcutaneous nerve stimulation devices may alleviate symptoms.
+As progression of ataxia continues, assistive devices such as a cane, walker, or wheelchair may be required for mobility and independence. A standing frame can help reduce the secondary complications of prolonged use of a wheelchair.
+Medication and surgery
+Cardiac abnormalities can be controlled with ACE inhibitors such as enalapril, ramipril, lisinopril, or trandolapril, sometimes used in conjunction with beta blockers. Affected people who also have symptomatic congestive heart failure may be prescribed eplerenone or digoxin to keep cardiac abnormalities under control.
+Surgery may correct deformities caused by abnormal muscle tone. Titanium screws and rods inserted in the spine help prevent or slow the progression of scoliosis. Surgery to lengthen the Achilles tendon can improve independence and mobility to alleviate equinus deformity. An automated implantable cardioverter-defibrillator can be implanted after a severe heart failure.
+Prognosis
+The disease evolves differently in different people. In general, those diagnosed at a younger age or with longer GAA triplet expansions tend to have more severe symptoms.
+Congestive heart failure and abnormal heart rhythms are the leading causes of death, but people with fewer symptoms can live into their 60s or older.
+Epidemiology
+FRDA affects Indo-European populations. It is rare in East Asians, sub-Saharan Africans, and Native Americans.  FRDA is the most prevalent inherited ataxia, affecting approximately 1 in 40,000 with European descent. Males and females are affected equally. The estimated carrier prevalence is 1:100.  A 1990–1996 study of Europeans calculated the incidence rate was 2.8:100,000.   The prevalence rate of FRDA in Japan is 1:1,000,000.
+FRDA follows the same pattern as haplogroup R1b. Haplogroup R1b is the most frequently occurring paternal lineage in Western Europe. FRDA and Haplogroup R1b are more common in northern Spain, Ireland, and France, rare in Russia and Scandinavia, and follow a gradient through central and eastern Europe. A population carrying the disease went through a population bottleneck in the Franco-Cantabrian region during the last ice age.
+History
+The condition is named after the 1860s German pathologist and neurologist, Nikolaus Friedreich. Friedreich reported the disease in 1863 at the University of Heidelberg. Further observations appeared in a paper in 1876.
+Frantz Fanon wrote his medical thesis on FRDA, in 1951.
+A 1984 Canadian study traced 40 cases to one common ancestral couple arriving in New France in 1634.
+FRDA was first linked to a GAA repeat expansion on chromosome 9 in 1996.
+Research
+Active research is ongoing to find a treatment. Patients can enroll in a registry to make clinical trial recruiting easier. The Friedreich's Ataxia Global Patient Registry is the only worldwide registry of Friedreich's ataxia patients to characterize the symptoms and establish the rate of disease progression.  The Friedreich's Ataxia App is the only global community app which enables novel forms of research.
+As of May 2021, research continues along the following paths.
+Improve mitochondrial function and reduce oxidative stress
+Modulation of frataxin controlled metabolic pathways
+Frataxin replacements or stabilizers
+Increase frataxin gene expression
+Society and culture
+The Cake Eaters is a 2007 independent drama film that stars Kristen Stewart as a young woman with FRDA.
+The Ataxian is a documentary that tells the story of Kyle Bryant, an athlete with FRDA who completes a long-distance bike race in an adaptive "trike" to raise money for research.
+Dynah Haubert spoke at the 2016 Democratic National Convention about supporting Americans with disabilities.
+Geraint Williams in an athlete affected by FRDA who is known for scaling Mount Kilimanjaro in an adaptive wheelchair.
+Shobhika Kalra is an activist with FRDA who helped build over 1000 wheelchair ramps across the United Arab Emirates in 2018 to try to  make Dubai fully wheelchair-friendly by 2020.

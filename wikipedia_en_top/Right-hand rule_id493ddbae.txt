@@ -1,0 +1,32 @@
+Right-hand rule
+In mathematics and physics, the right-hand rule is a common mnemonic for understanding orientation of axes in three-dimensional space. It is also a convenient method for quickly finding the direction of a cross-product of 2 vectors.
+Most of the various left-hand and right-hand rules arise from the fact that the three axes of three-dimensional space have two possible orientations. One can see this by holding one's hands outward and together, palms up, with the thumbs out-stretched to the right and left, and the fingers making a curling motion from straight outward to pointing upward. (Note the picture to right is not an illustration of this.) The curling motion of the fingers represents a movement from the first (x axis) to the second (y axis); the third (z axis) can point along either thumb. Left-hand and right-hand rules arise when dealing with coordinate axes. The rule can be used to find the direction of the magnetic field, rotation, spirals, electromagnetic fields, mirror images, and enantiomers in mathematics and chemistry.
+The sequence is often: index finger, middle finger, thumb. Two other sequences also work because they preserve the cycle:
+
+
+Curve orientation and normal vectors
+
+In vector calculus, it is necessary to relate the normal vector to a surface to the curve bounding it. For a positively-oriented curve C bounding a surface S, the normal to the surface n̂ is defined such that the right thumb points in the direction of n̂, and the fingers curl along the orientation of the bounding curve C. 
+Coordinates
+Coordinates are usually right-handed.
+For right-handed coordinates the right thumb points along the z axis in the positive direction and the curling motion of the fingers of the right hand represents a motion from the first or x axis to the second or y axis. When viewed from the top or z axis the system is counter-clockwise.
+For left-handed coordinates the left thumb points along the z axis in the positive direction and the curling motion of the fingers of the left hand represent a motion from the first or x axis to the second or y axis. When viewed from the top or z axis the system is clockwise.
+Interchanging the labels of any two axes reverses the handedness. Reversing the direction of one axis (or of all three axes) also reverses the handedness. (If the axes do not have a positive or negative direction then handedness has no meaning.) Reversing two axes amounts to a 180° rotation around the remaining axis.
+Rotations
+A rotating body
+In mathematics, a rotating body is commonly represented by a pseudovector along the axis of rotation. The length of the vector gives the speed of rotation and the direction of the axis gives the direction of rotation according to the right-hand rule: right fingers curled in the direction of rotation and the right thumb pointing in the positive direction of the axis. This allows some easy calculations using the vector cross product. No part of the body is moving in the direction of the axis arrow. By coincidence, if the thumb is pointing north, Earth rotates in a prograde direction according to the right-hand rule. This causes the Sun, Moon, and stars to appear to revolve westward according to the left-hand rule.
+Helices and screws
+A helix is a curved line formed by a point rotating around a center while the center moves up or down the z axis. Helices are either right- or left-handed, curled fingers giving the direction of rotation and thumb giving the direction of advance along the z axis.
+The threads of a screw are a helix and therefore screws can be right- or left-handed. The rule is this: if a screw is right-handed (most screws are) point your right thumb in the direction you want the screw to go and turn the screw in the direction of your curled right fingers.
+Electromagnetism
+Ampère's right-hand grip rule
+Ampère's right-hand grip rule (also called right-hand screw rule, coffee-mug rule or the corkscrew-rule) is used either when a vector (such as the Euler vector) must be defined to represent the rotation of a body, a magnetic field, or a fluid, or vice versa, when it is necessary to define a rotation vector to understand how rotation occurs. It reveals a connection between the current and the magnetic field lines in the magnetic field that the current created.
+André-Marie Ampère, a French physicist and mathematician, for whom the rule was named, was inspired by Hans Christian Ørsted, another physicist who experimented with magnet needles. Ørsted observed that the needles swirled when in the proximity of an electric current-carrying wire, and concluded that electricity could create magnetic fields.
+Application
+This rule is used in two different applications of Ampère's circuital law:
+Cross products
+The cross product of two vectors is often taken in physics and engineering. For example, in statics and dynamics, torque is the cross product of lever length and force, while angular momentum is the cross product of distance and linear momentum. In electricity and magnetism, the force exerted on a moving charged particle when moving in a magnetic field B is given by:
+The direction of the cross product may be found by application of the right hand rule as follows: 
+For example, for a positively charged particle moving to the north, in a region where the magnetic field points west, the resultant force points up.
+Applications
+The right-hand rule has a widespread use in physics. A list of physical quantities whose directions are related by the right-hand rule is given below. (Some of these are related only indirectly to cross products, and use the second form.)

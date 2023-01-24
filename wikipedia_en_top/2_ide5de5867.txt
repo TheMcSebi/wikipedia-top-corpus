@@ -1,0 +1,37 @@
+2
+2 (two) is a number, numeral and digit. It is the natural number following 1 and preceding 3. It is the smallest and only even prime number. Because it forms the basis of a duality, it has religious and spiritual significance in many cultures.
+Evolution
+Arabic digit
+The digit used in the modern Western world to represent the number 2 traces its roots back to the Indic Brahmic script, where "2" was written as two horizontal lines. The modern Chinese and Japanese languages (and Korean Hanja) still use this method. The Gupta script rotated the two lines 45 degrees, making them diagonal. The top line was sometimes also shortened and had its bottom end curve towards the center of the bottom line. In the Nagari script, the top line was written more like a curve connecting to the bottom line. In the Arabic Ghubar writing, the bottom line was completely vertical, and the digit looked like a dotless closing question mark. Restoring the bottom line to its original horizontal position, but keeping the top line as a curve that connects to the bottom line leads to our modern digit.
+In fonts with text figures, digit 2 usually is of x-height, for example, .
+Etymology of two
+The word two is derived from the Old English words twā (feminine), tū (neuter), and twēġen (masculine, which survives today in the form twain).
+The pronunciation /tuː/, like that of who is due to the labialization of the vowel by the w (combare from womb), which then disappeared before the related sound. The successive stages of pronunciation for the Old English twā would thus be /twɑː/, /twɔː/, /twoː/, /twuː/, and finally /tuː/.
+In mathematics
+Two is the smallest prime number, and the only even prime number, and for this reason it is sometimes called "the oddest prime". As the smallest prime number, it is also the smallest non-zero pronic number, and the only pronic prime. The next prime is three, which makes two and three the only two consecutive prime numbers. Two is the first prime number that does not have a proper twin prime with a difference two, while three is the first such prime number to have a twin prime. In consequence, the first pair of twin primes, three and five, encase four in-between, which is the square of two, or $MATH$. Two is the first Sophie Germain prime, the first factorial prime, the first Lucas prime, and the first Ramanujan prime. It is also a Motzkin number,  a Bell number, an all-Harshad number, a meandric number, a semi-meandric number, an open meandric number, and the third (or fourth) Fibonacci number.
+An integer is called even if it is divisible by 2. For integers written in a numeral system based on an even number such as decimal, divisibility by 2 is easily tested by merely looking at the last digit. If it is even, then the whole number is even. In particular, when written in the decimal system, all multiples of 2 will end in 0, 2, 4, 6, or 8.
+Two is the base of the binary system, the numeral system with the fewest tokens that allows denoting a natural number substantially more concisely (with $MATH$ $MATH$ tokens) than a direct representation by the corresponding count of a single token (with $MATH$ tokens). This binary number system is used extensively in computing.
+The square root of 2 was the first known irrational number. Taking the square root of a number is such a common and essential mathematical operation, that the spot on the root sign where the index would normally be written for cubic and other roots, may simply be left blank for square roots, as it is tacitly understood.
+Powers of two are central to the concept of Mersenne primes, and important to computer science. Two is the first Mersenne prime exponent. They are also essential to Fermat primes and Pierpont primes, which have consequences in the constructability of regular polygons using basic tools.
+In a set-theoretical construction of the natural numbers, two is identified with the set $MATH$. This latter set is important in category theory: it is a subobject classifier in the category of sets. A set that is a field has a minimum of two elements.
+A Cantor space is a topological space $MATH$ homeomorphic to the Cantor set. The countably infinite product topology of the simplest discrete two-point space, $MATH$, is the traditional elementary example of a Cantor space.  
+An number is deficient when the sum of its divisors is less than twice the number, whereas an abundant number has a sum of its proper divisors that is larger than the number itself. Primitive abundant numbers are abundant numbers whose proper divisors are all deficient.
+An number is perfect if it is equal to its aliquot sum, or the sum of all of its positive divisors excluding the number itself. This is equivalent to describing a perfect number $MATH$ as having a sum of divisors $MATH$ equal to $MATH$.
+Two has the unique property that $MATH$ up through any level of hyperoperation, here denoted in Knuth's up-arrow notation, all equivalent to $MATH$
+Two consecutive twos (as in "22" for "two twos"), or equivalently "2-2", is the only fixed point of John Conway's look-and-say function.
+Two is the only number $MATH$ such that the sum of the reciprocals of the natural powers of $MATH$ equals itself. In symbols,
+Euler's number $MATH$ can be simplified to equal,
+The circumference of a circle of radius $MATH$ is $MATH$.
+The sum of the reciprocals of all non-zero triangular numbers converges to $MATH$.
+2 is the harmonic mean of the divisors of 6, the smallest Ore number greater than one.
+There are no $MATH$ magic squares, and as such they are the only null $MATH$ by $MATH$ magic square set.
+In a Euclidean space of any dimension greater than zero, two distinct points determine a line.
+In two dimensions, a digon is a polygon with two sides (or edges) and two vertices. On a circle, it is a tessellation with two antipodal points and 180° arc edges. 
+The simplest tessellation in two-dimensional space, though an improper tessellation, is that of two $MATH$-sided apeirogons joined along all their edges, coincident about a line that divides the plane in two. This order-2 apeirogonal tiling is the arithmetic limit of the family of dihedra $MATH$.
+For any polyhedron homeomorphic to a sphere, the Euler characteristic is $MATH$, where $MATH$ is the number of vertices, $MATH$ is the number of edges, and $MATH$ is the number of faces. A double torus has a Euler characteristic of $MATH$, on the other hand, and a non-orientable surface of like genus $MATH$ has a characteristic $MATH$.
+The long diagonal of a regular hexagon is of length two when its sides are of unit length. Whereas a square of unit side length has a diagonal equal to the square root of two, and a cube of unit side length has a space diagonal equal to the square root of three, a space diagonal inside a tesseract measures two when its side lengths are of length one. 
+There are two known sublime numbers, which are numbers with a perfect number of factors, whose sum itself yields a perfect number. 12 is one of the two sublime numbers, with the other being 76 digits long.
+In science
+In sports
+Other
+In pre-1972 Indonesian and Malay orthography, 2 was shorthand for the reduplication that forms plurals: orang (person), orang-orang or orang2 (people). In Astrology, Taurus is the second sign of the Zodiac. For Pythagorean numerology (a pseudoscience) the number 2 represents duality, the positive and negative poles that come into balance and seek harmony.

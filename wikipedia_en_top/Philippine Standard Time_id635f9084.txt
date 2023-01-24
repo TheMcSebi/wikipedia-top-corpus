@@ -1,0 +1,20 @@
+Philippine Standard Time
+Philippine Standard Time (PST or PhST; Filipino: Pamantayang Oras ng Pilipinas), also known as Philippine Time (PHT), is the official name for the time zone used in the Philippines. The country only uses one time zone, at an offset of UTC+08:00, but has used daylight saving time for brief periods in the 20th century.
+
+
+Geographic details
+Geographically, the Philippines lies within 116°53′ and 126°34′ east of the Prime Meridian, and is physically located within the UTC+08:00 time zone. Philippine Standard Time is maintained by the Philippine Atmospheric, Geophysical and Astronomical Services Administration (PAGASA). The Philippines shares the same time zone with China, Taiwan, Hong Kong, Macau, Malaysia, Singapore, Western Australia, Brunei, Irkutsk, Central Indonesia, and most of Mongolia.
+History
+ Philippine Standard Time was instituted through Batas Pambansa Blg. 8 (that defined the metric system), approved on December 2, 1978, and implemented on January 1, 1983. The Philippines is one of the few countries to officially and almost exclusively use the 12-hour clock in non-military situations.
+From March 16, 1521, to December 30, 1844, the Philippines had the same date as Mexico, because it had been a Spanish colony supplied and controlled via Mexico until Mexico's independence on September 27, 1821. On August 16, 1844, the Spanish Governor-General Narciso Claveria decreed that Tuesday, December 31, 1844, will be removed on the Philippine calendar. Monday, December 30, 1844, was immediately followed by Wednesday, January 1, 1845, which added 1 day or 24 hours to the local time. This meant that International Date Line moved from going west of the Philippines to go on the east side of the country.
+At the time, local mean time was used to set clocks, meaning that every place used its own local time based on its longitude, because the time was measured by locally observing the sun.
+Use of daylight saving time
+Since 1990, the Philippines has not observed daylight saving time, although it was in use for short periods during the presidency of Manuel L. Quezon in 1936–1937, Ramon Magsaysay in 1954, Ferdinand Marcos in 1978, and Corazon Aquino in 1990.
+Juan Time
+Television and radio stations in the Philippines display the time, but varied from a few seconds to minutes. In September 2011, the Department of Science and Technology proposed to synchronise time nationwide in an effort to discourage tardiness. PAGASA installed a rubidium atomic clock, a GPS receiver, a time interval counter, distribution amplifier and a computer to help calculate the time difference with every satellite within its antenna's field of view.
+On May 15, 2013, President Benigno Aquino III signed Republic Act No. 10535, better known as "The Philippine Standard Time (PST) Act" as the latest step of implementing the Juan Time. Since June 1, 2013, all government offices and media networks are required to synchronise their timepieces with PAGASA's rubidium atomic clock. In addition, the first week of January will be regularly observed as the National Time Consciousness Week.
+IANA time zone database
+The IANA time zone database contains one zone for the Philippines in the file zone.tab, named Asia/Manila
+Date and time format
+Date
+Time

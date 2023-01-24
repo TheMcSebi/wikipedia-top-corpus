@@ -1,0 +1,36 @@
+Cardinality of the continuum
+In set theory, the cardinality of the continuum is the cardinality or "size" of the set of real numbers $MATH$, sometimes called the continuum. It is an infinite cardinal number and is denoted by $MATH$ (lowercase fraktur "c") or $MATH$.
+The real numbers $MATH$ are more numerous than the natural numbers $MATH$. Moreover, $MATH$ has the same number of elements as the power set of $MATH$ Symbolically, if the cardinality of $MATH$ is denoted as $MATH$, the cardinality of the continuum is
+This was proven by Georg Cantor in his uncountability proof of 1874, part of his groundbreaking study of different infinities. The inequality was later stated more simply in his diagonal argument in 1891. Cantor defined cardinality in terms of bijective functions: two sets have the same cardinality if, and only if, there exists a bijective function between them.
+Between any two real numbers a < b, no matter how close they are to each other, there are always infinitely many other real numbers, and Cantor showed that they are as many as those contained in the whole set of real numbers. In other words, the open interval (a,b) is equinumerous with $MATH$ This is also true for several other infinite sets, such as any n-dimensional Euclidean space $MATH$ (see space filling curve). That is,
+The smallest infinite cardinal number is $MATH$ (aleph-null). The second smallest is $MATH$ (aleph-one). The continuum hypothesis, which asserts that there are no sets whose cardinality is strictly between $MATH$ and $MATH$, means that $MATH$. The truth or falsity of this hypothesis is undecidable and cannot be proven within the widely used Zermelo–Fraenkel set theory with axiom of choice (ZFC).
+Properties
+Uncountability
+Georg Cantor introduced the concept of cardinality to compare the sizes of infinite sets. He famously showed that the set of real numbers is uncountably infinite. That is, $MATH$ is strictly greater than the cardinality of the natural numbers, $MATH$:
+In practice, this means that there are strictly more real numbers than there are integers. Cantor proved this statement in several different ways. For more information on this topic, see Cantor's first uncountability proof and Cantor's diagonal argument.
+Cardinal equalities
+A variation of Cantor's diagonal argument can be used to prove Cantor's theorem, which states that the cardinality of any set is strictly less than that of its power set. That is, $MATH$ (and so that the power set $MATH$ of the natural numbers $MATH$ is uncountable). In fact, one can show that the cardinality of $MATH$ is equal to $MATH$ as follows:
+By the Cantor–Bernstein–Schroeder theorem we conclude that
+The cardinal equality $MATH$ can be demonstrated using cardinal arithmetic:
+By using the rules of cardinal arithmetic, one can also show that
+where n is any finite cardinal ≥ 2, and
+where $MATH$ is the cardinality of the power set of R, and $MATH$.
+Alternative explanation for 𝔠 = 2ℵ0
+Every real number has at least one infinite decimal expansion.  For example,
+(This is true even in the case the expansion repeats, as in the first two examples.)
+In any given case, the number of digits is countable since they can be put into a one-to-one correspondence with the set of natural numbers $MATH$. This makes it sensible to talk about, say, the first, the one-hundredth, or the millionth digit of π. Since the natural numbers have cardinality $MATH$ each real number has $MATH$ digits in its expansion.
+Since each real number can be broken into an integer part and a decimal fraction, we get:
+where we used the fact that
+On the other hand, if we map $MATH$ to $MATH$ and consider that decimal fractions containing only 3 or 7 are only a part of the real numbers, then we get
+and thus
+Beth numbers
+The sequence of beth numbers is defined by setting $MATH$ and $MATH$. So $MATH$ is the second beth number, beth-one:
+The third beth number, beth-two, is the cardinality of the power set of $MATH$ (i.e. the set of all subsets of the real line):
+The continuum hypothesis
+The famous continuum hypothesis asserts that $MATH$ is also the second aleph number, $MATH$. In other words, the continuum hypothesis states that there is no set $MATH$ whose cardinality lies strictly between $MATH$ and $MATH$
+This statement is now known to be independent of the axioms of Zermelo–Fraenkel set theory with the axiom of choice (ZFC), as shown by Kurt Gödel and Paul Cohen. That is, both the hypothesis and its negation are consistent with these axioms. In fact, for every nonzero natural number n, the equality $MATH$ = $MATH$ is independent of ZFC (case $MATH$ being the continuum hypothesis). The same is true for most other alephs, although in some cases, equality can be ruled out by König's theorem on the grounds of cofinality (e.g.,  $MATH$). In particular,  $MATH$ could be either $MATH$ or  $MATH$, where $MATH$ is the first uncountable ordinal, so it could be either a successor cardinal or a limit cardinal, and either a regular cardinal or a singular cardinal.
+Sets with cardinality of the continuum
+A great many sets studied in mathematics have cardinality equal to $MATH$. Some common examples are the following:
+Sets with greater cardinality
+Sets with cardinality greater than $MATH$ include:
+These all have cardinality $MATH$ (beth two).

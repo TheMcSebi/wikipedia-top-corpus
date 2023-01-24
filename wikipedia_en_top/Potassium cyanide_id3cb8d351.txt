@@ -1,0 +1,25 @@
+Potassium cyanide
+
+
+Potassium cyanide is a compound with the formula KCN. This colorless crystalline salt, similar in appearance to sugar, is highly soluble in water. Most KCN is used in gold mining, organic synthesis, and electroplating. Smaller applications include jewellery for chemical gilding and buffing.
+Potassium cyanide is highly toxic. The moist solid emits small amounts of hydrogen cyanide due to hydrolysis, which may smell like bitter almonds. Not everyone, however, can smell cyanide; the ability to do so is a genetic trait.
+The taste of potassium cyanide has been described as acrid and bitter, with a burning sensation similar to lye.
+Production
+KCN is produced by treating hydrogen cyanide with an aqueous solution of potassium hydroxide, followed by evaporation of the solution in a vacuum:
+About 50,000 tons of potassium cyanide are produced yearly.
+Historical production
+Before 1900 and the invention of the Castner process, potassium cyanide was the most important source of alkali metal cyanides. In this historical process, potassium cyanide was produced by decomposing potassium ferrocyanide:
+Structure
+In aqueous solution, KCN is dissociated into hydrated potassium (K+) ions and cyanide (CN−) ions. The common form of solid KCN, stable at ambient pressure and temperature, has the same cubic crystal structure as sodium chloride, with each potassium ion surrounded by six cyanide ions, and vice versa.  Despite the cyanide ions being diatomic, and thus less symmetric than chloride, they rotate so rapidly, their time-averaged shape is spherical.  At low temperature and high pressure, this free rotation is hindered, resulting in a less symmetric crystal structure with the cyanide ions arranged in sheets. 
+
+Applications
+KCN and sodium cyanide (NaCN) are widely used in organic synthesis for the preparation of nitriles and carboxylic acids, particularly in the von Richter reaction. It also finds use for the synthesis of hydantoins, which can be useful synthetic intermediates, when reacted with a carbonyl compound such as an aldehyde or ketone in the presence of ammonium carbonate.
+KCN is used as a photographic fixer in the wet plate collodion process. The KCN dissolves silver where it has not been made insoluble by the developer. This reveals and stabilizes the image, making it no longer sensitive to light. Modern wet plate photographers may prefer less toxic fixers, often opting for sodium thiosulfate, but KCN is still used.
+Potassium gold cyanide
+In gold mining, KCN forms the water-soluble salt potassium gold cyanide (or gold potassium cyanide) and potassium hydroxide from gold metal in the presence of oxygen (usually from the surrounding air) and water:
+A similar process uses NaCN to produce sodium gold cyanide (NaAu(CN2)).
+Toxicity
+Potassium cyanide is a potent inhibitor of cellular respiration, acting on mitochondrial cytochrome c oxidase, hence blocking oxidative phosphorylation. Lactic acidosis then occurs as a consequence of anaerobic metabolism. Initially, acute cyanide poisoning causes a red or ruddy complexion in the victim because the tissues are not able to use the oxygen in the blood. The effects of potassium cyanide and sodium cyanide are identical, and symptoms of poisoning typically occur within a few minutes of ingesting the substance: the person loses consciousness, and brain death eventually follows. During this period the victim may suffer convulsions. Death is caused by cerebral hypoxia. The expected LD100 dose (human) for potassium cyanide is 200–300 mg while the median lethal dose LD50 is estimated at 140 mg.
+People who died by suicide or were killed using potassium cyanide include:
+It is used by professional entomologists as a killing agent in collecting jars, as insects succumb within seconds to the HCN fumes it emits, thereby minimizing damage to even highly fragile specimens.
+KCN can be detoxified most efficiently with hydrogen peroxide or with a solution of sodium hypochlorite. Such solutions should be kept alkaline whenever possible so as to eliminate the possibility of generation of hydrogen cyanide:

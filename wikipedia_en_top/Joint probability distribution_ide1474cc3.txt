@@ -1,0 +1,73 @@
+Joint probability distribution
+Given two random variables that are defined on the same probability space, the joint probability distribution is the corresponding probability distribution on all possible pairs of outputs. The joint distribution can just as well be considered for any given number of random variables. The joint distribution encodes the marginal distributions, i.e. the distributions of each of the individual random variables. It also encodes the conditional probability distributions, which deal with how the outputs of one random variable are distributed when given information on the outputs of the other random variable(s).
+In the formal mathematical setup of measure theory, the joint distribution is given by the pushforward measure, by the map obtained by pairing together the given random variables, of the sample space's probability measure.
+In the case of real-valued random variables, the joint distribution, as a particular multivariate distribution, may be expressed by a multivariate cumulative distribution function, or by a multivariate probability density function together with a multivariate probability mass function. In the special case of continuous random variables, it is sufficient to consider probability density functions, and in the case of discrete random variables, it is sufficient to consider probability mass functions.
+Examples
+Draws from an urn
+Suppose each of two urns contains twice as many red balls as blue balls, and no others, and suppose one ball is randomly selected from each urn, with the two draws independent of each other. Let $MATH$ and $MATH$ be discrete random variables associated with the outcomes of the draw from the first urn and second urn respectively. The probability of drawing a red ball from either of the urns is 2/3, and the probability of drawing a blue ball is 1/3. The joint probability distribution is presented in the following table:
+Each of the four inner cells shows the probability of a particular combination of results from the two draws; these probabilities are the joint distribution. In any one cell the probability of a particular combination occurring is (since the draws are independent) the product of the probability of the specified result for A and the probability of the specified result for B. The probabilities in these four cells sum to 1, as it is always true for probability distributions.
+Moreover, the final row and the final column give the marginal probability distribution for A and the marginal probability distribution for B respectively. For example, for A the first of these cells gives the sum of the probabilities for A being red, regardless of which possibility for B in the column above the cell occurs, as 2/3. Thus the marginal probability distribution for $MATH$ gives $MATH$'s probabilities unconditional on $MATH$, in a margin of the table.
+Coin flips
+Consider the flip of two fair coins; let $MATH$ and $MATH$ be discrete random variables associated with the outcomes of the first and second coin flips respectively. Each coin flip is a Bernoulli trial and has a Bernoulli distribution. If a coin displays "heads" then the associated random variable takes the value 1, and it takes the value 0 otherwise. The probability of each of these outcomes is 1/2, so the marginal (unconditional) density functions are
+The joint probability mass function of $MATH$ and $MATH$ defines probabilities for each pair of outcomes. All possible outcomes are
+Since each outcome is equally likely the joint probability mass function becomes
+Since the coin flips are independent, the joint probability mass function is the product
+of the marginals:
+Rolling a die
+Consider the roll of a fair die and let $MATH$ if the number is even (i.e. 2, 4, or 6) and $MATH$ otherwise. Furthermore, let $MATH$ if the number is prime (i.e. 2, 3, or 5) and $MATH$ otherwise.
+Then, the joint distribution of $MATH$ and $MATH$, expressed as a probability mass function, is
+These probabilities necessarily sum to 1, since the probability of some combination of $MATH$ and $MATH$ occurring is 1.
+Marginal probability distribution
+If more than one random variable is defined in a random experiment, it is important to distinguish between the joint probability distribution of X and Y and the probability distribution of each variable individually. The individual probability distribution of a random variable is referred to as its marginal probability distribution. In general, the marginal probability distribution of X can be determined from the joint probability distribution of X and other random variables.
+If the joint probability density function of random variable X and Y is  $MATH$ , the marginal probability density function of X and Y, which defines the Marginal distribution, is given by:
+$MATH$
+
+$MATH$
+where the first integral is over all points in the range of (X,Y) for which X=x and the second integral is over all points in the range of (X,Y) for which Y=y.
+Joint cumulative distribution function
+For a pair of random variables $MATH$, the joint cumulative distribution function (CDF) $MATH$ is given by: p. 89 
+where the right-hand side represents the probability that the random variable $MATH$ takes on a value less than or equal to $MATH$ and that $MATH$ takes on a value less than or equal to $MATH$.
+For $MATH$ random variables $MATH$, the joint CDF $MATH$ is given by
+Interpreting the $MATH$ random variables as a random vector $MATH$ yields a shorter notation:
+Joint density function or mass function
+Discrete case
+The joint probability mass function of two discrete random variables $MATH$ is:
+or written in terms of conditional distributions
+where $MATH$ is the probability of $MATH$ given that $MATH$.
+The generalization of the preceding two-variable case is the joint probability distribution of $MATH$ discrete random variables $MATH$ which is:
+or equivalently
+This identity is known as the chain rule of probability.
+Since these are probabilities, in the two-variable case
+which generalizes for $MATH$ discrete random variables $MATH$ to
+Continuous case
+The joint probability density function $MATH$ for two continuous random variables is defined as the derivative of the joint cumulative distribution function (see Eq.1):
+This is equal to:
+where $MATH$ and $MATH$ are the conditional distributions of $MATH$ given $MATH$ and of $MATH$ given $MATH$ respectively, and $MATH$ and $MATH$ are the marginal distributions for $MATH$ and $MATH$ respectively.
+The definition extends naturally to more than two random variables:
+Again, since these are probability distributions, one has
+respectively
+Mixed case
+The "mixed joint density" may be defined where one or more random variables are continuous and the other random variables are discrete. With one variable of each type
+One example of a situation in which one may wish to find the cumulative distribution of one random variable which is continuous and another random variable which is discrete arises when one wishes to use a logistic regression in predicting the probability of a binary outcome Y conditional on the value of a continuously distributed outcome $MATH$. One must use the "mixed" joint density when finding the cumulative distribution of this binary outcome because the input variables $MATH$ were initially defined in such a way that one could not collectively assign it either a probability density function or a probability mass function.  Formally, $MATH$ is the probability density function of $MATH$ with respect to the product measure on the respective supports of $MATH$ and $MATH$. Either of these two decompositions can then be used to recover the joint cumulative distribution function:
+The definition generalizes to a mixture of arbitrary numbers of discrete and continuous random variables.
+Additional properties
+Joint distribution for independent variables
+In general two random variables $MATH$ and $MATH$ are independent if and only if the joint cumulative distribution function satisfies
+Two discrete random variables $MATH$ and $MATH$ are independent if and only if the joint probability mass function satisfies
+for all $MATH$ and $MATH$.
+While the number of independent random events grows, the related joint probability value decreases rapidly to zero, according to a negative exponential law.
+Similarly, two absolutely continuous random variables are independent if and only if
+for all $MATH$ and $MATH$. This means that acquiring any information about the value of one or more of the random variables leads to a conditional distribution of any other variable that is identical to its unconditional (marginal) distribution; thus no variable provides any information about any other variable.
+Joint distribution for conditionally dependent variables
+If a subset $MATH$ of the variables $MATH$ is conditionally dependent given another subset $MATH$ of these variables, then the probability mass function of the joint distribution is $MATH$.  $MATH$ is equal to $MATH$. Therefore, it can be efficiently represented by the lower-dimensional probability distributions $MATH$ and $MATH$. Such conditional independence relations can be represented with a Bayesian network or copula functions.
+Covariance
+When two or more random variables are defined on a probability space, it is useful to describe how they vary together; that is, it is useful to measure the relationship between the variables. A common measure of the relationship between two random variables is the covariance. Covariance is a measure of linear relationship between the random variables. If the relationship between the random variables is nonlinear, the covariance might not be sensitive to the relationship, which means, it does not relate the correlation between two variables.
+The covariance between the random variable X and Y, denoted as cov(X,Y), is :
+$MATH$
+Correlation
+There is another measure of the relationship between two random variables that is often easier to interpret than the covariance.
+The correlation just scales the covariance by the product of the standard deviation of each variable. Consequently, the correlation is a dimensionless quantity that can be used to compare the linear relationships between pairs of variables in different units. If the points in the joint probability distribution of X and Y that receive positive probability tend to fall along a line of positive (or negative) slope, ρXY is near +1 (or −1). If ρXY equals +1 or −1, it can be shown that the points in the joint probability distribution that receive positive probability fall exactly along a straight line. Two random variables with nonzero correlation are said to be correlated. Similar to covariance, the correlation is a measure of the linear relationship between random variables.
+The correlation between random variable X and Y, denoted as
+$MATH$
+Important named distributions
+Named joint distributions that arise frequently in statistics include the multivariate normal distribution, the multivariate stable distribution, the multinomial distribution, the negative multinomial distribution, the multivariate hypergeometric distribution, and the elliptical distribution.

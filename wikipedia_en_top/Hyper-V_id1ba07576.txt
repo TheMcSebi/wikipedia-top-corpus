@@ -1,0 +1,57 @@
+Hyper-V
+Microsoft Hyper-V, codenamed Viridian, and briefly known before its release as Windows Server Virtualization, is a native hypervisor; it can create virtual machines on x86-64 systems running Windows. Starting with Windows 8, Hyper-V superseded Windows Virtual PC as the hardware virtualization component of the client editions of Windows NT. A server computer running Hyper-V can be configured to expose individual virtual machines to one or more networks.
+Hyper-V was first released with Windows Server 2008, and has been available without additional charge since Windows Server 2012 and Windows 8.  A standalone Windows Hyper-V Server is free, but has a command-line interface only.  The last version of free Hyper-V Server is Hyper-V Server 2019, which is based on Windows Server 2019.
+History
+A beta version of Hyper-V was shipped with certain x86-64 editions of Windows Server 2008. The finalized version was released on June 26, 2008 and was delivered through Windows Update. Hyper-V has since been released with every version of Windows Server.
+Microsoft provides Hyper-V through two channels:
+Hyper-V Server
+Hyper-V Server 2008 was released on October 1, 2008. It consists of Windows Server 2008 Server Core and Hyper-V role; other Windows Server 2008 roles are disabled, and there are limited Windows services. Hyper-V Server 2008 is limited to a command-line interface used to configure the host OS, physical hardware, and software. A menu driven CLI interface and some freely downloadable script files simplify configuration. In addition, Hyper-V Server supports remote access via Remote Desktop Connection. However, administration and configuration of the host OS and the guest virtual machines is generally done over the network, using either Microsoft Management Consoles on another Windows computer or System Center Virtual Machine Manager. This allows much easier "point and click" configuration, and monitoring of the Hyper-V Server.
+Hyper-V Server 2008 R2 (an edition of Windows Server 2008 R2) was made available in September 2009 and includes Windows PowerShell v2 for greater CLI control. Remote access to Hyper-V Server requires CLI configuration of network interfaces and Windows Firewall. Also using a Windows Vista PC to administer Hyper-V Server 2008 R2 is not fully supported.
+Architecture
+Hyper-V implements isolation of virtual machines in terms of a partition. A partition is a logical unit of isolation, supported by the hypervisor, in which each guest operating system executes. There must be at least one parent partition in a hypervisor instance, running a supported version of Windows Server (2008 and later). The virtualization software runs in the parent partition and has direct access to the hardware devices. The parent partition creates child partitions which host the guest OSs. A parent partition creates child partitions using the hypercall API, which is the application programming interface exposed by Hyper-V.
+A child partition does not have access to the physical processor, nor does it handle its real interrupts. Instead, it has a virtual view of the processor and runs in Guest Virtual Address, which, depending on the configuration of the hypervisor, might not necessarily be the entire virtual address space. Depending on VM configuration, Hyper-V may expose only a subset of the processors to each partition. The hypervisor handles the interrupts to the processor, and redirects them to the respective partition using a logical Synthetic Interrupt Controller (SynIC).  Hyper-V can hardware accelerate the address translation of Guest Virtual Address-spaces by using second level address translation provided by the CPU, referred to as EPT on Intel and RVI (formerly NPT) on AMD.
+Child partitions do not have direct access to hardware resources, but instead have a virtual view of the resources, in terms of virtual devices. Any request to the virtual devices is redirected via the VMBus to the devices in the parent partition, which will manage the requests. The VMBus is a logical channel which enables inter-partition communication. The response is also redirected via the VMBus. If the devices in the parent partition are also virtual devices, it will be redirected further until it reaches the parent partition, where it will gain access to the physical devices. Parent partitions run a Virtualization Service Provider (VSP), which connects to the VMBus and handles device access requests from child partitions. Child partition virtual devices internally run a Virtualization Service Client (VSC), which redirect the request to VSPs in the parent partition via the VMBus. This entire process is transparent to the guest OS.
+Virtual devices can also take advantage of a Windows Server Virtualization feature, named Enlightened I/O, for storage, networking and graphics subsystems, among others. Enlightened I/O is a specialized virtualization-aware implementation of high level communication protocols, like SCSI, that allows bypassing any device emulation layer and takes advantage of VMBus directly. This makes the communication more efficient, but requires the guest OS to support Enlightened I/O.
+Currently only the following operating systems support Enlightened I/O, allowing them therefore to run faster as guest operating systems under Hyper-V than other operating systems that need to use slower emulated hardware:
+System requirements
+The Hyper-V role is only available in the x86-64 variants of Standard, Enterprise and Datacenter editions of Windows Server 2008 and later, as well as the Pro, Enterprise and Education editions of Windows 8 and later. On Windows Server, it can be installed regardless of whether the installation is a full or core installation. In addition, Hyper-V can be made available as part of the Hyper-V Server operating system, which is a freeware edition of Windows Server. Either way, the host computer needs the following.
+The amount of memory assigned to virtual machines depends on the operating system:
+The number of CPUs assigned to each virtual machine also depends on the OS:
+There is also a maximum for the number of concurrently active virtual machines.
+Supported guests
+Windows Server 2008 R2
+The following table lists supported guest operating systems on Windows Server 2008 R2 SP1.
+Fedora 8 or 9 are unsupported; however, they have been reported to run.
+Third-party support for FreeBSD 8.2 and later guests is provided by a partnership between NetApp and Citrix.  This includes both emulated and paravirtualized modes of operation, as well as several HyperV integration services.
+Desktop virtualization (VDI) products from third-party companies (such as Quest Software vWorkspace, Citrix XenDesktop, Systancia AppliDis Fusion and Ericom PowerTerm WebConnect) provide the ability to host and centrally manage desktop virtual machines in the data center while giving end users a full PC desktop experience.
+Guest operating systems with Enlightened I/O and a hypervisor-aware kernel such as Windows Server 2008 and later server versions, Windows Vista SP1 and later clients and offerings from Citrix XenServer and Novell will be able to use the host resources better since VSC drivers in these guests communicate with the VSPs directly over VMBus. Non-"enlightened" operating systems will run with emulated I/O; however, integration components (which include the VSC drivers) are available for Windows Server 2003 SP2, Windows Vista SP1 and Linux to achieve better performance.
+Linux support
+On July 20, 2009, Microsoft submitted Hyper-V drivers for inclusion in the Linux kernel under the terms of the GPL. Microsoft was required to submit the code when it was discovered that they had incorporated a Hyper-V network driver with GPL-licensed components statically linked to closed-source binaries. Kernels beginning with 2.6.32 may include inbuilt Hyper-V paravirtualization support which improves the performance of virtual Linux guest systems in a Windows host environment. Hyper-V provides basic virtualization support for Linux guests out of the box. Paravirtualization support requires installing the Linux Integration Components or Satori InputVSC drivers. Xen-enabled Linux guest distributions may also be paravirtualized in Hyper-V. As of 2013 Microsoft officially supported only SUSE Linux Enterprise Server 10 SP1/SP2 (x86 and x64) in this manner, though any Xen-enabled Linux should be able to run. In February 2008, Red Hat and Microsoft signed a virtualization pact for hypervisor interoperability with their respective server operating systems, to enable Red Hat Enterprise Linux 5 to be officially supported on Hyper-V.
+Windows Server 2012
+Hyper-V in Windows Server 2012 and Windows Server 2012 R2 changes the support list above as follows:
+Windows Server 2012 R2
+Hyper-V on Windows Server 2012 R2 added the Generation 2 VM.
+Backward compatibility
+Hyper-V, like Microsoft Virtual Server and Windows Virtual PC, saves each guest OS to a single virtual hard disk file. It supports the older .vhd format, as well as the newer .vhdx. Older .vhd files from Virtual Server 2005, Virtual PC 2004 and Virtual PC 2007 can be copied and used in Hyper-V, but any old virtual machine integration software (equivalents of Hyper-V Integration Services) must be removed from the virtual machine. After the migrated guest OS is configured and started using Hyper-V, the guest OS will detect changes to the (virtual) hardware. Installing "Hyper-V Integration Services" installs five services to improve performance, at the same time adding the new guest video and network card drivers.
+Limitations
+Audio
+Hyper-V does not virtualize audio hardware. Before Windows 8.1 and Windows Server 2012 R2, it was possible to work around this issue by connecting to the virtual machine with Remote Desktop Connection over a network connection and use its audio redirection feature. Windows 8.1 and Windows Server 2012 R2 add the enhanced session mode which provides redirection without a network connection.
+Optical drives pass-through
+Optical drives virtualized in the guest VM are read-only. Officially Hyper-V does not support the host/root operating system's optical drives to pass-through in guest VMs. As a result, burning to discs, audio CDs, video CD/DVD-Video playback are not supported; however, a workaround exists using the iSCSI protocol.  Setting up an iSCSI target on the host machine with the optical drive can then be talked to by the standard Microsoft iSCSI initiator.  Microsoft produces their own iSCSI Target software or alternative third party products can be used.
+VT-x/AMD-V handling
+Hyper-V uses the VT-x on Intel or AMD-V on AMD x86 virtualization. Since Hyper-V is a native hypervisor, as long as it is installed, third-party software cannot use VT-x or AMD-V. For instance, the Intel HAXM Android device emulator (used by Android Studio or Microsoft Visual Studio) cannot run while Hyper-V is installed.
+Client operating systems
+x64 SKUs of Windows 8, 8.1, 10 Pro, Enterprise, Education, come with a special version Hyper-V called Client Hyper-V.
+Features added per version
+Windows Server 2012
+Windows Server 2012 introduced many new features in Hyper-V.
+Windows Server 2012 R2
+With Windows Server 2012 R2 Microsoft introduced another set of new features.
+Windows Server 2016
+Hyper-V in Windows Server 2016 and Windows 10 1607 adds
+Windows Server 2019
+Hyper-V in Windows Server 2019 and Windows 10 1809 adds
+See also
+Web interface for Hyper-V
+References
+Further reading

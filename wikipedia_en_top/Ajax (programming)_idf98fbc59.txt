@@ -1,0 +1,24 @@
+Ajax (programming)
+Ajax (also AJAX /ˈeɪdʒæks/; short for "Asynchronous JavaScript and XML") is a set of web development techniques that uses various web technologies on the client-side to create asynchronous web applications. With Ajax, web applications can send and retrieve data from a server asynchronously (in the background) without interfering with the display and behaviour of the existing page. By decoupling the data interchange layer from the presentation layer, Ajax allows web pages and, by extension, web applications, to change content dynamically without the need to reload the entire page. In practice, modern implementations commonly utilize JSON instead of XML.
+Ajax is not a technology, but rather a programming concept. HTML and CSS can be used in combination to mark up and style information. The webpage can be modified by JavaScript to dynamically display—and allow the user to interact with the new information. The built-in XMLHttpRequest object is used to execute Ajax on webpages, allowing websites to load content onto the screen without refreshing the page. Ajax is not a new technology, nor is it a new language. Instead, it is existing technologies used in a new way.
+History
+In the early-to-mid 1990s, most Websites were based on complete HTML pages. Each user action required a complete new page to be loaded from the server. This process was inefficient, as reflected by the user experience: all page content disappeared, then the new page appeared. Each time the browser reloaded a page because of a partial change, all the content had to be re-sent, even though only some of the information had changed. This placed additional load on the server and made bandwidth a limiting factor in performance.
+In 1996, the iframe tag was introduced by Internet Explorer; like the object element, it can load or fetch content asynchronously. In 1998, the Microsoft Outlook Web Access team developed the concept behind the XMLHttpRequest scripting object. It appeared as XMLHTTP in the second version of the MSXML library, which shipped with Internet Explorer 5.0 in March 1999.
+The functionality of the Windows XMLHTTP ActiveX control in IE 5 was later implemented by Mozilla Firefox, Safari, Opera, Google Chrome, and other browsers as the XMLHttpRequest JavaScript object. Microsoft adopted the native XMLHttpRequest model as of Internet Explorer 7. The ActiveX version is still supported in Internet Explorer, but not in Microsoft Edge. The utility of these background HTTP requests and asynchronous Web technologies remained fairly obscure until it started appearing in large scale online applications such as Outlook Web Access (2000) and Oddpost (2002).
+Google made a wide deployment of standards-compliant, cross browser Ajax with Gmail (2004) and Google Maps (2005). In October 2004 Kayak.com's public beta release was among the first large-scale e-commerce uses of what their developers at that time called "the xml http thing". This increased interest in Ajax among web program developers.
+The term AJAX was publicly used on 18 February 2005 by Jesse James Garrett in an article titled Ajax: A New Approach to Web Applications, based on techniques used on Google pages.
+On 5 April 2006, the World Wide Web Consortium (W3C) released the first draft specification for the XMLHttpRequest object in an attempt to create an official Web standard.
+The latest draft of the XMLHttpRequest object was published on 6 October 2016, and the XMLHttpRequest specification is now a living standard.
+Technologies
+The term Ajax has come to represent a broad group of Web technologies that can be used to implement a Web application that communicates with a server in the background, without interfering with the current state of the page. In the article that coined the term Ajax, Jesse James Garrett explained that the following technologies are incorporated:
+Since then, however, there have been a number of developments in the technologies used in an Ajax application, and in the definition of the term Ajax itself. XML is no longer required for data interchange and, therefore, XSLT is no longer required for the manipulation of data. JavaScript Object Notation (JSON) is often used as an alternative format for data interchange, although other formats such as preformatted HTML or plain text can also be used. A variety of popular JavaScript libraries, including JQuery, include abstractions to assist in executing Ajax requests.
+Examples
+JavaScript example
+An example of a simple Ajax request using the GET method, written in JavaScript.
+get-ajax-data.js:
+send-ajax-data.php:
+Fetch example
+Fetch is a native JavaScript API. According to Google Developers Documentation, "Fetch makes it easier to make web requests and handle responses than with the older XMLHttpRequest."
+ES7 async/await example
+Fetch relies on JavaScript promises.
+The fetch specification differs from Ajax in the following significant ways:

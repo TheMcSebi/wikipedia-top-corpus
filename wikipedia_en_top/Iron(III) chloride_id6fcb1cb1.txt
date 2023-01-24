@@ -1,0 +1,52 @@
+Iron(III) chloride
+Iron(III) chloride is the inorganic compound with the formula FeCl3. Also called ferric chloride, it is a common compound of iron in the +3 oxidation state. The anhydrous compound is a crystalline solid with a melting point of 307.6 °C. The colour depends on the viewing angle: by reflected light the crystals appear dark green, but by transmitted light they appear purple-red.
+Structure and properties
+Anhydrous
+Anhydrous iron(III) chloride has the BiI3 structure, with octahedral Fe(III) centres interconnected by two-coordinate chloride ligands.
+Iron(III) chloride has a relatively low melting point and boils at around 315 °C. The vapor consists of the dimer Fe2Cl6 (like aluminium chloride) which increasingly dissociates into the monomeric FeCl3 (with D3h point group molecular symmetry) at higher temperature, in competition with its reversible decomposition to give iron(II) chloride and chlorine gas.
+Hydrates
+In addition to the anhydrous material, ferric chloride forms four hydrates. All forms of iron(III) chloride feature two or more chlorides as ligands, and three hydrates feature [FeCl4]−.
+Aqueous solution
+Aqueous solutions of ferric chloride are characteristically yellow, in contrast to the pale pink solutions of [Fe(H2O)6]3+. According to spectroscopic measurements, the main species in aqueous solutions of ferric chloride are the octahedral complex [FeCl2(H2O)4]+ (stereochemistry unspecified) and the tetrahedral [FeCl4]−.
+Preparation
+Anhydrous iron(III) chloride may be prepared by treating iron with chlorine:
+Solutions of iron(III) chloride are produced industrially both from iron and from ore, in a closed-loop process.
+Heating hydrated iron(III) chloride does not yield anhydrous ferric chloride. Instead, the solid decomposes into hydrochloric acid and iron oxychloride. Hydrated iron(III) chloride can be converted to the anhydrous form by treatment with thionyl chloride. Similarly, dehydration can be effected with trimethylsilyl chloride:
+Reactions
+When dissolved in water, iron(III) chloride give a strongly acidic solution.
+When heated with iron(III) oxide at 350 °C, iron(III) chloride gives iron oxychloride.
+The anhydrous salt is a moderately strong Lewis acid, forming adducts with Lewis bases such as triphenylphosphine oxide; e.g., FeCl3(OPPh3)2 where Ph is phenyl. It also reacts with other chloride salts to give the yellow tetrahedral [FeCl4]− ion. Salts of [FeCl4]− in hydrochloric acid can be extracted into diethyl ether.
+Redox reactions
+Iron(III) chloride is a mild oxidizing agent, for example, it oxidizes copper(I) chloride to copper(II) chloride.
+In a comproportionation reaction, it reacts with iron to form iron(II) chloride:
+A traditional synthesis of anhydrous ferrous chloride is the reduction of FeCl3 with chlorobenzene:
+With carboxylate anions
+Oxalates react rapidly with aqueous iron(III) chloride to give [Fe(C2O4)3]3−. Other carboxylate salts form complexes; e.g., citrate and tartrate.
+With alkali metal alkoxides
+Alkali metal alkoxides react to give the metal alkoxide complexes of varying complexity. The compounds can be dimeric or trimeric. In the solid phase a variety of multinuclear complexes have been described for the nominal stoichiometric reaction between FeCl3 and sodium ethoxide:
+With organometallic compounds
+Iron(III) chloride in ether solution oxidizes methyl lithium LiCH3 to give first light greenish yellow lithium tetrachloroferrate(III) Li[FeCl4] solution and then, with further addition of methyl lithium, lithium tetrachloroferrate(II) Li2[FeCl4]:
+The methyl radicals combine with themselves or react with other components to give mostly ethane C2H6 and some methane CH4.
+Uses
+Industrial
+Iron(III) chloride is used in sewage treatment and drinking water production as a coagulant and flocculant. In this application, FeCl3 in slightly basic water reacts with the hydroxide ion (OH−) to form a floc of iron(III) hydroxide (Fe(OH)3), also formulated as FeO(OH) (ferrihydrite), that can remove suspended materials.
+It is also used as a leaching agent in chloride hydrometallurgy, for example in the production of Si from FeSi (Silgrain process by Elkem).
+Another important application of iron(III) chloride is etching copper in two-step redox reaction to copper(I) chloride and then to copper(II) chloride in the production of printed circuit boards (PCB).
+Iron(III) chloride is used as catalyst for the reaction of ethylene with chlorine, forming ethylene dichloride (1,2-dichloroethane), an important commodity chemical, which is mainly used for the industrial production of vinyl chloride, the monomer for making PVC.
+Laboratory use
+In the laboratory iron(III) chloride is commonly employed as a Lewis acid for catalysing reactions such as chlorination of aromatic compounds and Friedel–Crafts reaction of aromatics. It is less powerful than aluminium chloride, but in some cases this mildness leads to higher yields, for example in the alkylation of benzene:
+The ferric chloride test is a traditional colorimetric test for phenols, which uses a 1% iron(III) chloride solution that has been neutralized with sodium hydroxide until a slight precipitate of FeO(OH) is formed. The mixture is filtered before use. The organic substance is dissolved in water, methanol or ethanol, then the neutralized iron(III) chloride solution is added—a transient or permanent coloration (usually purple, green or blue) indicates the presence of a phenol or enol.
+This reaction is exploited in the Trinder spot test, which is used to indicate the presence of salicylates, particularly salicylic acid, which contains a phenolic OH group.
+This test can be used to detect the presence of gamma-hydroxybutyric acid and gamma-butyrolactone, which cause it to turn red-brown.
+Other uses
+Safety
+Iron(III) chloride is harmful, highly corrosive and acidic. The anhydrous material is a powerful dehydrating agent.
+Although reports of poisoning in humans are rare, ingestion of ferric chloride can result in serious morbidity and mortality. Inappropriate labeling and storage lead to accidental swallowing or misdiagnosis. Early diagnosis is important, especially in seriously poisoned patients.
+Natural occurrence
+The natural counterpart of FeCl3 is the rare mineral molysite, usually related to volcanic and other-type fumaroles.
+FeCl3 is also produced as an atmospheric salt aerosol by reaction between iron-rich dust and hydrochloric acid from sea salt. This iron salt aerosol causes about 5% of naturally-occurring oxidization of methane and is thought to have a range of cooling effects.
+The atmosphere of the planet Venus is approximately 1% FeCl3.
+See also
+Notes
+References
+Further reading

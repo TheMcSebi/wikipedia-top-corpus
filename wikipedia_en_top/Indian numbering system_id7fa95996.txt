@@ -1,0 +1,27 @@
+Indian numbering system
+The Indian numbering system is used in all South Asian countries (Bangladesh, Bhutan, India, Maldives, Nepal, Pakistan, Sri Lanka and Afghanistan) to express large numbers. The terms lakh or 1,00,000 (one hundred thousand, written as 100,000 outside India) and crore or 1,00,00,000 (ten million written as 10,000,000 outside India) are the most commonly used terms in Indian English to express large numbers in the system, while Pakistani English groups the numbers in international format (10,000,000) but still using the same terms as India.
+The Indian system
+The Indian numbering system corresponds to the Western system for the zeroth through fourth powers of ten:  one (100), ten (101), one hundred (102), one thousand (103), and ten thousand (104). For higher powers of ten, the names no longer correspond. In the Indian system, the next powers of ten are called one lakh, ten lakh, one crore, ten crore, one arab (or one hundred crore), and so on; there are new words for every second power of ten (105 + 2n): lakh (105), crore (107), arab (109),
+kharab (1011), etc. In the Western system, the next powers of ten are called one hundred thousand, one million, ten million, one hundred million, one billion (short scale)/one thousand million (long scale), and so on; in the short scale, there are new words for every third power of ten (103n): million (106), billion (109), trillion (1012), etc.
+Written numbers differ in the placement of commas, grouping digits into powers of one hundred (102) in the Indian system (except for the first thousand), and into powers of one thousand (103) in the Western system. The Indian and most English systems both use the decimal point and the comma digit-separator, while some other languages and countries using the Western numbering system use the decimal comma and the thin space or point to group digits.
+There are terms for numbers larger than 1 crore as well, but these are not commonly used. These include 1 arab (equal to 100 crore or 1 billion (short scale)), 1 kharab (equal to 100 arab or 100 billion (short scale)), 1 nil (sometimes transliterated as neel; equal to 100 kharab or 10 trillion), 1 padma (equal to 100 nil or 1 quadrillion), 1 shankh (equal to 100 padma or 100 quadrillion), and 1 mahashankh (equal to 100 shankh or 10 quintillion). In common parlance, the thousand, lakh, and crore terminology (though inconsistent) repeats for larger numbers: thus 1,000,000,000,000 (one trillion) becomes 1 lakh crore, written as 10,00,00,00,00,000.
+Examples
+Use of separators
+The Indian numbering system uses separators differently from the international norm. Instead of grouping digits by threes as in the international system, the Indian numbering system groups the rightmost three digits together (until the hundreds place), and thereafter groups by sets of two digits. One trillion would thus be written as 10,00,00,00,00,000 or 10 kharab (or one lakh crore). This makes the number convenient to read using the system's terminology. For example:
+This accords with the Indian numbering system, which has units for thousands, hundreds of thousands, tens of millions, etc.
+Names of numbers
+The table below follows the short scale usage of one billion being one thousand million. In India, Bangladesh and Pakistan, following former British usage, the long scale was used, with one billion equivalent to one million million.
+Historic numbering systems
+
+
+Numbering systems in Hindu epics
+There are various systems of numeration found in various ancient epic literature of India (itihasas). The following table gives one such system used in the Valmiki Ramayana.
+Other numbering systems
+The denominations by which land was measured in the Kumaon Kingdom were based on arable lands and thus followed an approximate system with local variations. The most common of these was a vigesimal (base-20) numbering system with the main denomination called a bisi (see Hindustani number bīs), which corresponded to the land required to sow 20 nalis of seed. Consequently, its actual land measure varied based on the quality of the soil. This system became the established norm in Kumaon by 1891.
+Usage in different languages
+Formal written publications in English in India tend to use lakh/crore for Indian currency and International numbering for foreign currencies.
+Current usage
+The usage of this system is limited to the nations of India, Pakistan, Bangladesh, and Myanmar. It is universally employed within these countries, and is preferred to the English numbering system.
+Sri Lanka used this system in the past but has switched to the English numbering system in recent years. 
+In the Maldives, the term lakh is widely used in official documents and local speech. However, the English numbering system is preferred for higher denominations (i.e millions etc).  
+Most institutions and citizens in India use the Indian number system, although the Reserve Bank of India has been noted as a rare exception.

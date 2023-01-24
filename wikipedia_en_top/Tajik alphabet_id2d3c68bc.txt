@@ -1,0 +1,37 @@
+Tajik alphabet
+The Tajik language has been written in three alphabets over the course of its history: an adaptation of the Perso-Arabic script, an adaptation of the Latin script and an adaptation of the Cyrillic script. Any script used specifically for Tajik may be referred to as the Tajik alphabet, which is written as алифбои тоҷикӣ in Cyrillic characters, الفبای تاجیکی with Perso-Arabic script and alifboji toçikī in Latin script.
+The use of a specific alphabet generally corresponds with stages in history, with Arabic being used first, followed by Latin for a short period and then Cyrillic, which remains the most widely used alphabet in Tajikistan. The Bukhori dialect spoken by Bukharan Jews traditionally used the Hebrew alphabet but more often today is written using the Cyrillic variant.
+Political context
+As with many post-Soviet states, the change in writing system and the debates surrounding it is closely intertwined with political themes. Although not having been used since the adoption of Cyrillic, the Latin script is supported by those who wish to bring the country closer to Uzbekistan, which has adopted the Latin-based Uzbek alphabet. The Persian alphabet is supported by the devoutly religious, Islamists, and by those who wish to bring the country closer to Iran, Afghanistan, and their Persian heritage. As the de facto standard, the Cyrillic alphabet is generally supported by those who wish to maintain the status quo, and not distance the country from Russia.
+History
+As a result of the influence of Islam in the region, Tajik was written in the Persian alphabet up to the 1920s. Until this time, the language was not thought of as separate and simply considered a dialect of the Persian language. The Soviets began by simplifying the Persian alphabet in 1923, before moving to a Latin-based system in 1927. The Latin script was introduced by the Soviet Union as part of an effort to increase literacy and distance the, at that time, largely illiterate population, from the Islamic Central Asia. There were also practical considerations. The regular Persian alphabet, being an abjad, does not provide sufficient letters for representing the vowel system of Tajik. In addition, the abjad is more difficult to learn, each letter having different forms depending on the position in the word.
+The Decree on Romanisation made this law in April 1928. The Latin variant for Tajik was based on the work by Turcophone scholars who aimed to produce a unified Turkic alphabet, despite Tajik not being a Turkic language. The literacy campaign was successful, with near-universal literacy being achieved by the 1950s.
+As part of the "russification" of Central Asia, the Cyrillic script was introduced in the late 1930s. The alphabet remained Cyrillic until the end of the 1980s with the disintegration of the Soviet Union. In 1989, with the growth in Tajik nationalism, a law was enacted declaring Tajik the state language. In addition, the law officially equated Tajik with Persian, placing the word Farsi (the endonym for the Persian language) after Tajik. The law also called for a gradual reintroduction of the Perso-Arabic alphabet.
+The Persian alphabet was introduced into education and public life, although the banning of the Islamic Renaissance Party in 1993 slowed down the adoption. In 1999, the word Farsi was removed from the state-language law. As of 2004 the de facto standard in use was the Cyrillic alphabet and as of 1996, only a very small part of the population could read the Persian alphabet.
+Variants
+The letters of the major versions of the Tajik alphabet are presented below, along with their phonetic values. There is also a comparative table below.
+Persian alphabet
+A variant of the Persian alphabet (technically an abjad) is used to write Tajik. In the Tajik version, as with all other versions of the Arabic script, with the exception of ا (alef), vowels are not given unique letters, but rather optionally indicated with diacritic marks.
+Latin
+The Latin script was introduced after the Russian Revolution of 1917 in order to facilitate an increase in literacy and distance the language from Islamic influence. Only lowercase letters were found in the first versions of the Latin variant, between 1926 and 1929. A slightly different version used by Jews speaking the Bukhori dialect included three extra characters for phonemes not found in the other dialects: ů, ə̧, and ḩ. (Note that c and ç are switched relative to their usage in the Turkish alphabet, which has formed the basis for other Latin scripts in the former Soviet Union.)
+The unusual character Ƣ is called Gha and represents the phoneme /ɣ/. The character is found in Yañalif, the Common Turkic Alphabet in which most non-Slavic languages of the Soviet Union were written until the late 1930s. The Latin alphabet is not widely used today, although its adoption is advocated by certain groups.
+Cyrillic
+The Cyrillic script was introduced in Tajik Soviet Socialist Republic in the late 1930s, replacing the Latin script that had been used since the October Revolution. After 1939, materials published in Persian in the Persian alphabet were banned from the country. The alphabet below was supplemented by the letters Щ and Ы in 1952.
+In addition to these thirty-five letters, the letters ц, щ and ы can be found in loanwords, although they were officially dropped in the 1998 reform, along with the letter ь. Along with the deprecation of these letters, the 1998 reform also changed the order of the alphabet, which now has the characters with diacritics following their unaltered partners, e.g. г, ғ and к, қ, etc. leading to the present order: а б в г ғ д е ё ж з и ӣ й к қ л м н о п р с т у ӯ ф х ҳ ч ҷ ш ъ э ю я. In 2010, it was suggested that the letters е ё ю я might be dropped as well.  The letters е and э have the same function, except that э is used at the beginning of a word (ex. Эрон, "Iran").
+The alphabet includes a number of letters not found in the Russian alphabet:
+During the period when the Cyrillicization took place, Ӷ ӷ also appeared a few times in the table of the Tajik Cyrillic alphabet.
+Transliteration standards
+The transliteration standards for the Tajik alphabet in Cyrillic into the Latin alphabet are as follows:
+Notes to the table above:
+Hebrew
+The Hebrew alphabet (an abjad like the Persian alphabet) is used for the Jewish Bukhori dialect primarily in Samarkand and Bukhara. Additionally, since 1940, when Jewish schools were closed in Central Asia, the use of the Hebrew Alphabet outside Hebrew liturgy fell into disuse and Bukharian Jewish publications such as books and newspapers began to appear using the Tajik Cyrillic Alphabet. Today, many older Bukharian Jews who speak Bukharian and went to Tajik or Russian schools in Central Asia only know the Tajik Cyrillic Alphabet when reading and writing Bukharian and Tajik.
+Samples
+Tajik Cyrillic, Tajik Latin and Persian alphabet
+For reference, the Persian script variant transliterated letter-for-letter into the Latin script appears as follows:
+And the BGN/PCGN transliteration of the Cyrillic text:
+Tajik Cyrillic and Persian alphabet
+Vowel-pointed Persian includes the vowels that are not usually written.
+Comparative table
+A table comparing the different writing systems used for the Tajik alphabet. The Latin here is based on the 1929 standard, the Cyrillic on the revised 1998 standard, and Persian letters are given in their stand-alone forms.
+See also
+Notes

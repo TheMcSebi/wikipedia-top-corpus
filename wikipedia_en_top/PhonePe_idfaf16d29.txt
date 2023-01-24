@@ -1,0 +1,45 @@
+PhonePe
+PhonePe is an Indian digital payments and financial technology company headquartered in Bengaluru, Karnataka, India. PhonePe was founded in December 2015, by Sameer Nigam, Rahul Chari and Burzin Engineer. The PhonePe app, based on the Unified Payments Interface (UPI), went live in August 2016. It is owned by Flipkart, a subsidiary of Walmart. 
+
+
+The PhonePe app is available in 11 Indian languages. Using PhonePe, users can send and receive money, recharge mobile, DTH, data cards, make utility payments, pay at shops, invest in tax saving funds, liquid funds, buy insurance, mutual funds, gold and silver. PhonePe also allows users to book their Ola rides, pay for Redbus tickets, book flights and hotels on Goibibo through its Switch platform.
+PhonePe is accepted as a payment option by over 2.5 crore offline and online merchant outlets across 15,700 towns and villages. The app served more than 10 crore users as of June 2018, and processed 500 crore transactions by December 2019. It currently has over 35 crore registered users with over 15 crore monthly active users.
+PhonePe is licensed by the Reserve Bank of India for issuance and operation of a Semi Closed Prepaid Payment system with Authorisation Number: 75/2014 dated 22 August 2014.
+History
+PhonePe was incorporated in December 2015. In April 2016, the company was acquired by Flipkart and as part of the acquisition, the FxMart license was transferred to PhonePe and rebranded as the PhonePe wallet. PhonePe's founder Sameer Nigam was appointed as the CEO of the company.
+In August 2016, the company partnered with Yes Bank to launch a UPI-based mobile payment app, based on the government-backed UPI platform.
+Within three months of launch, the app was downloaded by over one crore users. In 2018, PhonePe became the fastest Indian payment app to get a five crore badge on the Google Play Store. The PhonePe app overtook BHIM to become the market leader in UPI transactions in August 2017.
+Innovation and partnerships
+PhonePe helps merchants to accept payments through all UPI-based apps, debit and credit cards, as well as wallet (Including third party wallets) on the app.
+2017
+In October, PhonePe launched a low-cost POS device built in India. The Bluetooth enabled POS device looks like a calculator and works with AA batteries. The hardware uses Bluetooth connectivity and enables payments through all the mobile devices that can access the PhonePe app.
+2018
+PhonePe partnered with Freecharge in January 2018. This partnership enabled PhonePe users to link their existing Freecharge wallets to the PhonePe app. PhonePe has also entered similar partnerships with Jio Money and Airtel Money.
+PhonePe has partnered with RedBus, Ola, eat.fit, Goibibo, Swiggy along with over 300 consumer brands for integrating their existing PWAs (progressive web apps) or mobile sites to its Switch platform. These partnerships enable businesses of all sizes to build and deploy apps on PhonePe Switch with a unified login and payments experience for users.
+2019
+PhonePe launched tax-saving funds to help customers minimise their tax burden by investing in equity-linked saving schemes. In the same year, PhonePe also became the first payment app to allow customers to make bids for initial public offerings through the UPI platform.
+2020
+In January, PhonePe became the first digital payment platform in India to launch international travel insurance. PhonePe also launched Liquid Fund in association with Aditya Birla Mutual Fund to provide the combined benefits of a fixed deposit and a mutual fund.
+In February, PhonePe launched the chat feature on its app to enable its users to have conversations with each other within the app while requesting money or confirming the receipt of payment.
+In May, PhonePe partnered with general insurers Bajaj Allianz and ICICI Lombard to launch two separate coronavirus-specific insurance products for covering hospitalisation costs during the COVID-19 pandemic. It also launched Super Funds in the same month to aid long-term wealth creation by helping customers invest in equity, debt, and gold funds of mutual fund companies.
+In June, the company launched domestic multi-trip insurance to cover all risks associated with all modes of travel within India at an affordable annual premium.
+In July, the company formed a partnership with ICICI Lombard to launch Hospital Daily Cash insurance that covers expenses incurred during hospitalisation due to injury or illnesses.
+In September, PhonePe became one of the largest insurance tech distributors in the country with over 5 lakh insurance policies sold on its platform. The company also expanded its Mutual Funds lineup in the same month by launching 7 new categories.
+In October, the company ventured into motor insurance with the launch of car and bike insurance policies. PhonePe emerged as the fastest-growing insurtech company in India.
+In November, PhonePe is the largest digital platform for buying gold with a 35% market share.
+In December, Flipkart partially hived off PhonePe into a separate entity in order to access dedicated capital. As a part of this hive-off, PhonePe secured US$700 million in primary capital at a post-money valuation of US$5.5 billion from existing investors of Flipkart led by Walmart.
+2021
+In September, PhonePe partnered with Indian Super League club Kerala Blasters FC as their official payments partner for the 2021–22 Indian Super League season.
+In March, PhonePe became the first digital payments platform to cross 100 crore monthly transactions on UPI, clocking almost 130 crore transactions across all of its payment offerings, including third-party debit and credit cards and its own digital wallet.
+PhonePe also emerged as the leader in terms of transactions processed on Bharat Bill Payment System. It reportedly registered over 10 lakh UPI-enabled AutoPay mandates since the launch of the AutoPay functionality feature. It had also processed over 200 crore monthly transactions on its platform by October.
+2022
+In May 2022, PhonePe announced the acquisition of India-based Wealth Management fund WealthDesk for $50 million and Smart Beta Wealth Management Platform, OpenQ for $25 million. The deals were worth $75 million and done with the aim of widening PhonePe's offerings in the payments market.
+Licenses received in 2021
+Awards and recognition
+Legal challenges
+On 14 January 2017, ICICI bank blocked PhonePe transactions, citing the reasons that it did not meet the NPCI guidelines. Initially, on 19 January 2017, NPCI instructed ICICI to allow UPI transactions via PhonePe. During this period, Airtel too blocked PhonePe transactions on its platforms. A day later, on 20 January 2017, NPCI renounced the previous instructions citing the reason that PhonePe indeed violated the UPI norms.
+After this, PhonePe closed its operations on Flipkart's website, to align itself with the terms stated in the updated verdict from NPCI. By February, 2017, PhonePe resolved the issues with ICICI and Airtel.
+Donations
+During COVID-19 pandemic in India, PhonePe decided to contribute ₹10 for every single user who pays to the PM CARES fund via their app with a aim to donate ₹100 crore.
+ESOP
+PhonePe allots employee stock options (ESOPs) to its full time employees. In November 2021, PhonePe was reported to have conducted a buyback of ESOPs worth ₹135 crore, covering 75% of its current workforce who have completed at least a year of service.

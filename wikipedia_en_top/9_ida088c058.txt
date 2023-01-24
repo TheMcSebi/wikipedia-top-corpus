@@ -1,0 +1,64 @@
+9
+9 (nine) is the natural number following 8 and preceding 10.
+Evolution of the Arabic digit
+In the beginning, various Indians wrote a digit 9 similar in shape to the modern closing question mark without the bottom dot. The Kshatrapa, Andhra and Gupta started curving the bottom vertical line coming up with a 3-look-alike. The Nagari continued the bottom stroke to make a circle and enclose the 3-look-alike, in much the same way that the sign @ encircles a lowercase a. As time went on, the enclosing circle became bigger and its line continued beyond the circle downwards, as the 3-look-alike became smaller. Soon, all that was left of the 3-look-alike was a squiggle. The Arabs simply connected that squiggle to the downward stroke at the middle and subsequent European change was purely cosmetic.
+While the shape of the glyph for the digit 9 has an ascender in most modern typefaces, in typefaces with text figures the character usually has a descender, as, for example, in .
+The modern digit resembles an inverted 6. To disambiguate the two on objects and documents that can be inverted, they are often underlined. Another distinction from the 6 is that it is sometimes handwritten with two strokes and a straight stem, resembling a raised lower-case letter q.
+In a seven-segment display, the number 9 can be constructed in two ways, either with a hook at the end of its stem or without one. Most LCD calculators use the former, but some VFD models use the latter.
+Mathematics
+Nine is the fourth composite number, and the first composite number that is odd. 9 is the highest single-digit number in the decimal system. It is the third square number (32), and the second non-unitary square prime of the form p2 and first that is odd, with all subsequent squares of this form odd as well.
+By Mihăilescu's theorem, 9 is the only positive perfect power that is one more than another positive perfect power, since the square of 3 is one more than the cube of 2.
+9 is the number of derangements of 4, or the number of permutations of four elements with no fixed points.
+A number that is 4 or 5 modulo 9 cannot be represented as the sum of three cubes.
+9 is an exponential factorial, since 9 = 321.
+Six recurring nines appear in the decimal places 762 through 767 of π. (See six nines in pi).
+The first non-trivial magic square is a $MATH$ x $MATH$ magic square made of nine cells, with a magic constant of 15.  Meanwhile, a $MATH$ x $MATH$ magic square has a magic constant of 369.
+9 is a Motzkin number, for the number of ways of drawing non-intersecting chords between four points on a circle.
+A polygon with nine sides is called a nonagon. Also an enneagon, it is able to fill a plane-vertex alongside an equilateral triangle and an regular octadecagon, or 18-sided polygon.
+There are nine distinct uniform colorings of the triangular tiling and the square tiling, which are the two simplest regular tilings; the hexagonal tiling, on the other hand, has three distinct uniform colorings.
+There are nine edge-transitive convex polyhedra in three dimensions:
+Nine distinct stellation's by Miller's rules are produced by the truncated tetrahedron. It is the simplest Archimedian solid, with a total of four equilateral triangular and four hexagonal faces.
+In four-dimensional space, there are nine paracompact hyperbolic honeycomb Coxeter groups, as well as nine regular compact hyperbolic honeycombs from regular convex and star polychora. There are also nine uniform demitesseractic ($MATH$) Euclidean honeycombs in the fourth dimension.
+There are only three types of Coxeter groups of uniform figures in dimensions nine and thereafter, aside from the many families of prisms and proprisms: the $MATH$ simplex groups, the $MATH$ hypercube groups, and the $MATH$ demihypercube groups. The ninth dimension is also the final dimension that contains Coxeter-Dynkin diagrams as uniform solutions in hyperbolic space. Inclusive of compact hyperbolic solutions, there are a total of 238 compact and paracompact Coxeter-Dynkin diagrams between dimensions two and nine, or equivalently between ranks three and ten. The most important of the last $MATH$ paracompact groups is the group $MATH$  with 1023 total honeycombs, the simplest of which is 621 whose vertex figure is the 521 honeycomb: the vertex arrangement of the densest-possible packing of spheres in 8 dimensions which forms the $MATH$ lattice. The 621 honeycomb is made of 9-simplexes and 9-orthoplexes, with 1023 total polytope elements making up each 9-simplex. It is the final honeycomb figure with infinite facets and vertex figures in the k21 family of semiregular polytopes, first defined by Thorold Gosset in 1900.
+There are nine Heegner numbers, or square-free positive integers $MATH$ that yield an imaginary quadratic field $MATH$ whose ring of integers has a unique factorization, or class number of 1.
+In decimal
+A positive number is divisible by nine if and only if its digital root is nine:
+That is, if any natural number is multiplied by 9, and the digits of the answer are repeatedly added until it is just one digit, the sum will be nine.
+In base-$MATH$, the divisors of $MATH$ have such a property, which makes 3 the only other number aside from 9 in decimal that shares this property. Another consequence of 9 being 10 − 1 is that it is a Kaprekar number.
+There are other interesting patterns involving multiples of nine:
+The difference between a base-10 positive integer and the sum of its digits is a whole multiple of nine. Examples:
+If dividing a number by the amount of 9s corresponding to its number of digits, the number is turned into a repeating decimal. (e.g. 274/999 = 0.274274274274...)
+Casting out nines is a quick way of testing the calculations of sums, differences, products, and quotients of integers known as long ago as the 12th century.
+Alphabets and codes
+Culture and mythology
+Indian culture
+Nine is a number that appears often in Indian culture and mythology. Some instances are enumerated below.
+Chinese culture
+Ancient Egypt
+European culture
+Greek mythology
+Mesoamerican mythology
+Aztec mythology
+Mayan mythology
+Anthropology
+Idioms
+Society
+Technique
+Pseudoscience
+Literature
+Organizations
+Places and thoroughfares
+Religion and philosophy
+Science
+Astronomy
+Chemistry
+Physiology
+A human pregnancy normally lasts nine months, the basis of Naegele's rule.
+Psychology
+Common terminal digit in psychological pricing.
+Sports
+Technology
+Music
+See also
+References
+Further reading

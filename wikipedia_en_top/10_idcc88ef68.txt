@@ -1,0 +1,40 @@
+10
+10 (ten) is the even natural number following 9 and preceding 11. Ten is the base of the decimal numeral system, by far the most common system of denoting numbers in both spoken and written language. It is the first double-digit number. The reason for the choice of ten is assumed to be that humans have ten fingers (digits). 
+Anthropology
+Usage and terms
+Other
+In mathematics
+Ten is the fifth composite number. Ten is the smallest noncototient, a number that cannot be expressed as the difference between any integer and the total number of coprimes below it. It is the second discrete semiprime ($MATH$) and the second member of the ($MATH$) discrete semiprime family. Ten has an aliquot sum σ(10) of 8 and is accordingly the first discrete semiprime to be in deficit, with all subsequent discrete semiprimes in deficit. In general, powers of 10 contain $MATH$ divisors, where $MATH$ is the number of digits: 10 has 22 = 4 divisors, 100 has 32 = 9 divisors, 1,000 has 42 = 16 divisors, 10,000 has 52 = 25 divisors, and so forth. Ten is the eighth Perrin number, preceded in the sequence by (5, 5, 7).
+According to conjecture, ten is the average sum of the proper divisors of the natural numbers $MATH$ if the size of the numbers approaches infinity.
+As important sums,
+Ten is the smallest semiprime that is the sum of all the distinct prime numbers from its lower factor through its higher factor: $MATH$. Three other small semiprimes (39, 155, and 371) share this attribute.
+Ten is also the smallest number whose fourth power can be written as a sum of two squares in two different ways: $MATH$ and $MATH$.
+In the sequence of triangular numbers, indexed powers of 10 in this sequence generate the following sequence of triangular numbers: 55 (10th), 5,050 (100th), 500,500 (1,000th), ...
+While 55 is the tenth triangular number, it is also the tenth Fibonacci number, and the largest such number to also be a triangular number.
+Ten is the first non-trivial decagonal number, the third centered triangular number and tetrahedral number, and the fifth semi-meandric number.
+A $MATH$ magic square has a magic constant of 505.
+The aliquot sequence for 10 comprises five members (10, 8, 7, 1, 0) with this number being the second composite member of the 7-aliquot tree.
+It is also the number of $MATH$-queens problem solutions for $MATH$.
+Ten is the smallest number whose status as a possible friendly number is unknown.
+There are ten small Pisot numbers that do not exceed the golden ratio.
+In geometry
+A polygon with ten sides is called a decagon. As a constructible polygon with a compass and straight-edge, it has an internal angle of $MATH$ degrees and a central angle of $MATH$ degrees. A decagon can fill a plane-vertex alongside two regular pentagons, and it is the largest face that an Archimedean solid can contain, as with the truncated icosidodecahedron. 
+The decagon is the Petrie polygon of the regular dodecahedron and icosahedron. It is the hemi-face of the icosidodecahedron, such that a plane dissection yields two mirrored pentagonal rotundae. A regular ten-pointed {10/3} decagram star is the hemi-face of the great icosidodecahedron, and the Petrie polygon of two Kepler-Poinsot polyhedra: the great icosahedron and the great stellated dodecahedron.
+There are ten regular star polychora in the fourth dimension. All of these polychora have orthographic projections in the $MATH$ Coxeter plane that contain various decagrammic symmetries, including the regular {10/3} form as well as the three compound forms {10/2}, {10/4} and {10/5}.  
+$MATH$ is a multiply transitive permutation group on 10 points. It is an almost simple group, of order 720 = 24·32·5 = 2·3·4·5·6 = 8·9·10. It functions as a point stabilizer of degree 11 inside the smallest sporadic group $MATH$, a Mathieu group which has an irreducible faithful complex representation in 10 dimensions. 
+$MATH$ is an infinite-dimensional Kac–Moody algebra which has the even Lorentzian unimodular lattice II9,1 of dimension 10 as its root lattice. It is the first $MATH$ Lie algebra with a negative Cartan matrix determinant, of −1.
+There are precisely ten affine Coxeter groups that admit a formal description of reflections across $MATH$ dimensions in Euclidean space. These contain infinite facets whose quotient group of their normal abelian subgroups is finite. They include the one-dimensional Coxeter group $MATH$ [∞], which represents the apeirogonal tiling, as well as the five affine Coxeter groups $MATH$, $MATH$, $MATH$, $MATH$, and $MATH$ that are associated with the five exceptional Lie algebras. They also include the four general affine Coxeter groups $MATH$, $MATH$, $MATH$, and $MATH$ that are associated with simplex, cubic and demihypercubic honeycombs, or tessellations. Regarding Coxeter groups in hyperbolic space, there are infinitely many such groups; however, ten is the highest rank for paracompact hyperbolic solutions, with a representation in nine dimensions. There also exist hyperbolic Lorentzian cocompact groups where removing any permutation of two nodes in its Coxeter-Dynkin diagram leaves a finite or Euclidean graph. The tenth dimension is the highest dimensional representation for such solutions, which share a root symmetry in eleven dimensions. These are of particular interest in M-theory of string theory.
+In science
+The SI prefix for 10 is "deca-".
+The meaning "10" is part of the following terms:
+Also, the number 10 plays a role in the following: 
+The metric system is based on the number 10, so converting units is done by adding or removing zeros (e.g. 1 centimeter = 10 millimeters, 1 decimeter = 10 centimeters, 1 meter = 100 centimeters, 1 dekameter = 10 meters, 1 kilometer = 1,000 meters).
+Astronomy
+In religion and philosophy
+In money
+Most countries issue coins and bills with a denomination of 10 (See e.g. 10 dollar note). Of these, the U.S. dime, with the value of ten cents, or one tenth of a dollar, derives its name from the meaning "one-tenth" − see Dime (United States coin)#Denomination history and etymology.
+In music
+In sports and games
+In technology
+Age 10
+In other fields

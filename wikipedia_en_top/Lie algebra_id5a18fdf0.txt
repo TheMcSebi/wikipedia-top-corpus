@@ -1,0 +1,124 @@
+Lie algebra
+In mathematics, a Lie algebra (pronounced /liː/ LEE) is a vector space $MATH$ together with an operation called the Lie bracket, an alternating bilinear map $MATH$, that satisfies the Jacobi identity. The Lie bracket of two vectors $MATH$ and $MATH$ is denoted $MATH$. The vector space $MATH$ together with this operation is a non-associative algebra, meaning that the Lie bracket is not necessarily associative. 
+Lie algebras are closely related to Lie groups, which are groups that are also smooth manifolds: any Lie group gives rise to a Lie algebra, which is its tangent space at the identity. Conversely, to any finite-dimensional Lie algebra over real or complex numbers, there is a corresponding connected Lie group unique up to finite coverings (Lie's third theorem). This correspondence allows one to study the structure and classification of Lie groups in terms of Lie algebras.
+In physics, Lie groups appear as symmetry groups of physical systems, and their Lie algebras (tangent vectors near the identity) may be thought of as infinitesimal symmetry motions. Thus Lie algebras and their representations are used extensively in physics, notably in quantum mechanics and particle physics.
+An elementary example is the space of three dimensional vectors $MATH$ with the bracket operation defined by the cross product $MATH$ This is skew-symmetric since $MATH$, and instead of associativity it satisfies the Jacobi identity:
+This is the Lie algebra of the Lie group of rotations of space, and each vector $MATH$ may be pictured as an infinitesimal rotation around the axis $MATH$, with velocity equal to the magnitude of $MATH$. The Lie bracket is a measure of the non-commutativity between two rotations: since a rotation commutes with itself, we have the alternating property $MATH$.
+History
+Lie algebras were introduced to study the concept of infinitesimal transformations by Marius Sophus Lie in the 1870s, and independently discovered by Wilhelm Killing in the 1880s. The name Lie algebra was given by Hermann Weyl in the 1930s; in older texts, the term infinitesimal group is used.
+Definitions
+Definition of a Lie algebra
+A Lie algebra is a vector space $MATH$ over some field $MATH$ together with a binary operation $MATH$ called the Lie bracket satisfying the following axioms:
+Using bilinearity to expand the Lie bracket $MATH$ and using alternativity shows that $MATH$ for all elements  $MATH$, $MATH$ in $MATH$, showing that bilinearity and alternativity together imply 
+It is customary to denote a Lie algebra by a lower-case fraktur letter such as $MATH$. If a Lie algebra is associated with a Lie group, then the algebra is denoted by the fraktur version of the group: for example the Lie algebra of SU(n) is $MATH$.
+Generators and dimension
+Elements of a Lie algebra $MATH$ are said to generate it if the smallest subalgebra containing these elements is $MATH$ itself. The dimension of a Lie algebra is its dimension as a vector space over $MATH$. The cardinality of a minimal generating set of a Lie algebra is always less than or equal to its dimension.
+See the classification of low-dimensional real Lie algebras for other small examples.
+Subalgebras, ideals and homomorphisms
+The Lie bracket is not required to be associative, meaning that $MATH$ need not equal $MATH$. However, it is flexible. Nonetheless, much of the terminology of associative rings and algebras is commonly applied to Lie algebras. A Lie subalgebra  is a subspace $MATH$ which is closed under the Lie bracket.  An ideal $MATH$ is a subalgebra satisfying the stronger condition:
+A Lie algebra homomorphism is a linear map compatible with the respective Lie brackets:
+As for associative rings, ideals are precisely the kernels of homomorphisms; given a Lie algebra $MATH$ and an ideal $MATH$ in it, one constructs the factor algebra or quotient algebra $MATH$, and the first isomorphism theorem holds for Lie algebras.
+Since the Lie bracket is a kind of infinitesimal commutator of the corresponding Lie group, we say that two elements $MATH$ commute if their bracket vanishes: $MATH$. 
+The centralizer subalgebra of a subset $MATH$ is the set of elements commuting with $MATH$: that is, $MATH$. The centralizer of $MATH$ itself is the center $MATH$. Similarly, for a subspace S, the normalizer subalgebra of $MATH$ is $MATH$. Equivalently, if $MATH$ is a Lie subalgebra, $MATH$ is the largest subalgebra such that $MATH$ is an ideal of $MATH$.
+Examples
+
+For $MATH$, the commutator of two elements $MATH$ and $MATH$:
+shows $MATH$ is a subalgebra, but not an ideal. In fact, every one-dimensional linear subspace of a Lie algebra has an induced abelian Lie algebra structure, which is generally not an ideal. For any simple Lie algebra, all abelian Lie algebras can never be ideals.
+Direct sum and semidirect product
+For two Lie algebras $MATH$ and $MATH$, their direct sum Lie algebra is the vector space $MATH$consisting of all pairs $MATH$, with the operation
+so that the copies of $MATH$ commute with each other: $MATH$
+Let $MATH$ be a Lie algebra and $MATH$ an ideal of $MATH$. If the canonical map $MATH$ splits (i.e., admits a section), then $MATH$ is said to be a semidirect product of $MATH$ and $MATH$, $MATH$. See also semidirect sum of Lie algebras.
+Levi's theorem says that a finite-dimensional Lie algebra is a semidirect product of its radical and the complementary subalgebra (Levi subalgebra).
+Derivations
+A derivation on the Lie algebra $MATH$ (or on any non-associative algebra) is a linear map $MATH$ that obeys the Leibniz law, that is,
+for all $MATH$. The inner derivation associated to any $MATH$ is the adjoint mapping $MATH$ defined by $MATH$. (This is a derivation as a consequence of the Jacobi identity.) The outer derivations are derivations which do not come from the adjoint representation of the Lie algebra. If $MATH$ is semisimple, every derivation is inner.
+The derivations form a vector space $MATH$, which is a Lie subalgebra of $MATH$; the bracket is commutator. The inner derivations form a Lie subalgebra of $MATH$.
+Examples
+
+For example, given a Lie algebra ideal $MATH$ the adjoint representation $MATH$ of $MATH$ acts as outer derivations on $MATH$ since $MATH$ for any $MATH$ and $MATH$. For the Lie algebra $MATH$ of upper triangular matrices in $MATH$, it has an ideal $MATH$ of strictly upper triangular matrices (where the only non-zero elements are above the diagonal of the matrix). For instance, the commutator of elements in $MATH$ and $MATH$ gives
+shows there exist outer derivations from $MATH$ in $MATH$.
+Split Lie algebra
+Let V be a finite-dimensional vector space over a field F, $MATH$ the Lie algebra of linear transformations and $MATH$ a Lie subalgebra. Then $MATH$ is said to be split if the roots of the characteristic polynomials of all linear transformations in $MATH$ are in the base field F. More generally, a finite-dimensional Lie algebra $MATH$ is said to be split if it has a Cartan subalgebra whose image under the adjoint representation $MATH$ :{\mathfrak {g}}\to {\mathfrak {gl}}({\mathfrak {g}})}
+  
+ is a split Lie algebra. A split real form of a complex semisimple Lie algebra (cf. #Real form and complexification) is an example of a split real Lie algebra. See also split Lie algebra for further information.
+Vector space basis
+For practical calculations, it is often convenient to choose an explicit vector space basis for the algebra.  A common construction for this basis is sketched in the article structure constants.
+Definition using category-theoretic notation
+Although the definitions above are sufficient for a conventional understanding of Lie algebras, once this is understood, additional insight can be gained by using notation common to category theory, that is, by defining a Lie algebra in terms of linear maps—that is, morphisms of the category of vector spaces—without considering individual elements. (In this section, the field over which the algebra is defined is supposed to be of characteristic different from two.) 
+For the category-theoretic definition of Lie algebras, two braiding isomorphisms are needed. If A is a vector space, the interchange isomorphism $MATH$ is defined by 
+The cyclic-permutation braiding $MATH$ is defined as
+where $MATH$ is the identity morphism.
+Equivalently, $MATH$ is defined by
+With this notation, a Lie algebra can be defined as an object $MATH$ in the category of vector spaces together with a morphism
+that satisfies the two morphism equalities
+and
+Examples
+Vector spaces
+Any vector space $MATH$ endowed with the identically zero Lie bracket becomes a Lie algebra. Such Lie algebras are called abelian, cf. below. Any one-dimensional Lie algebra over a field is abelian, by the alternating property of the Lie bracket.
+Associative algebra with commutator bracket
+Special matrices
+Two important subalgebras of $MATH$ are:
+Matrix Lie algebras
+
+
+A complex matrix group is a Lie group consisting of matrices, $MATH$, where the multiplication of G is matrix multiplication. The corresponding Lie algebra $MATH$ is the space of matrices which are tangent vectors to G inside the linear space $MATH$: this consists of derivatives of smooth curves in G at the identity: 
+The Lie bracket of $MATH$ is given by the commutator of matrices, $MATH$. Given the Lie algebra, one can recover the Lie group as the image of the matrix exponential mapping $MATH$ defined by $MATH$, which converges for every matrix $MATH$: that is, $MATH$. 
+The following are examples of Lie algebras of matrix Lie groups:
+Two dimensions
+Since
+for any natural number $MATH$ and any $MATH$, one sees that the resulting Lie group elements are upper triangular 2×2 matrices with unit lower diagonal:
+Three dimensions
+Infinite dimensions
+Representations
+Definitions
+Given a vector space V, let $MATH$ denote the Lie algebra consisting of all linear endomorphisms of V, with bracket given by $MATH$. A representation of a Lie algebra $MATH$ on V is a Lie algebra homomorphism
+A representation is said to be faithful if its kernel is zero. Ado's theorem states that every finite-dimensional Lie algebra has a faithful representation on a finite-dimensional vector space.
+Adjoint representation
+For any Lie algebra $MATH$, we can define a representation
+given by $MATH$; it is a representation on the vector space $MATH$ called the adjoint representation.
+Goals of representation theory
+One important aspect of the study of Lie algebras (especially semisimple Lie algebras) is the study of their representations. (Indeed, most of the books listed in the references section devote a substantial fraction of their pages to representation theory.) Although Ado's theorem is an important result, the primary goal of representation theory is not to find a faithful representation of a given Lie algebra $MATH$. Indeed, in the semisimple case, the adjoint representation is already faithful. Rather the goal is to understand all possible representation of $MATH$, up to the natural notion of equivalence. In the semisimple case over a field of characteristic zero, Weyl's theorem says that every finite-dimensional representation is a direct sum of irreducible representations (those with no nontrivial invariant subspaces). The irreducible representations, in turn, are classified by a theorem of the highest weight.
+Representation theory in physics
+The representation theory of Lie algebras plays an important role in various parts of theoretical physics. There, one considers operators on the space of states that satisfy certain natural commutation relations. These commutation relations typically come from a symmetry of the problem—specifically, they are the relations of the Lie algebra of the relevant symmetry group. An example would be the angular momentum operators, whose commutation relations are those of the Lie algebra $MATH$ of the rotation group SO(3). Typically, the space of states is very far from being irreducible under the pertinent operators, but one can attempt to decompose it into irreducible pieces. In doing so, one needs to know the irreducible representations of the given Lie algebra. In the study of the quantum hydrogen atom, for example, quantum mechanics textbooks give (without calling it that) a classification of the irreducible representations of the Lie algebra $MATH$.
+Structure theory and classification
+Lie algebras can be classified to some extent. In particular, this has an application to the classification of Lie groups.
+Abelian, nilpotent, and solvable
+Analogously to abelian, nilpotent, and solvable groups, defined in terms of the derived subgroups, one can define abelian, nilpotent, and solvable Lie algebras.
+A Lie algebra $MATH$ is abelian if the Lie bracket vanishes, i.e. [x,y] = 0, for all x and y in $MATH$. Abelian Lie algebras correspond to commutative (or abelian) connected Lie groups such as vector spaces $MATH$ or tori $MATH$, and are all of the form $MATH$ meaning an n-dimensional vector space with the trivial Lie bracket.
+A more general class of Lie algebras is defined by the vanishing of all commutators of given length. A Lie algebra $MATH$ is nilpotent if the lower central series
+becomes zero eventually. By Engel's theorem, a Lie algebra is nilpotent if and only if for every u in $MATH$ the adjoint endomorphism
+is nilpotent.
+More generally still, a Lie algebra $MATH$ is said to be solvable if the derived series:
+becomes zero eventually.
+Every finite-dimensional Lie algebra has a unique maximal solvable ideal, called its radical. Under the Lie correspondence, nilpotent (respectively, solvable) connected Lie groups correspond to nilpotent (respectively, solvable) Lie algebras.
+Simple and semisimple
+A Lie algebra is "simple" if it has no non-trivial ideals and is not abelian. (This implies that a one-dimensional—necessarily abelian—Lie algebra is by definition not simple, even though it has no nontrivial ideals.) A Lie algebra $MATH$ is called semisimple if it is isomorphic to a direct sum of simple algebras. There are several equivalent characterizations of semisimple algebras, such as having no nonzero solvable ideals.
+The concept of semisimplicity for Lie algebras is closely related with the complete reducibility (semisimplicity) of their representations. When the ground field F has characteristic zero, any finite-dimensional representation of a semisimple Lie algebra is semisimple (i.e., direct sum of irreducible representations). In general, a Lie algebra is called reductive if the adjoint representation is semisimple. Thus, a semisimple Lie algebra is reductive.
+Cartan's criterion
+Cartan's criterion gives conditions for a Lie algebra to be nilpotent, solvable, or semisimple. It is based on the notion of the Killing form, a symmetric bilinear form on $MATH$ defined by the formula
+where tr denotes the trace of a linear operator. A Lie algebra $MATH$ is semisimple if and only if the Killing form is nondegenerate. A Lie algebra $MATH$ is solvable if and only if $MATH$
+Classification
+The Levi decomposition expresses an arbitrary Lie algebra as a semidirect sum of its solvable radical and a semisimple Lie algebra, almost in a canonical way. (Such a decomposition exists for a finite-dimensional Lie algebra over a field of characteristic zero.) Furthermore, semisimple Lie algebras over an algebraically closed field have been completely classified through their root systems.
+Relation to Lie groups
+Although Lie algebras are often studied in their own right, historically they arose as a means to study Lie groups.
+We now briefly outline the relationship between Lie groups and Lie algebras. Any Lie group gives rise to a canonically determined Lie algebra (concretely, the tangent space at the identity). Conversely, for any finite-dimensional Lie algebra $MATH$, there exists a corresponding connected Lie group $MATH$ with Lie algebra $MATH$. This is Lie's third theorem; see the Baker–Campbell–Hausdorff formula. This Lie group is not determined uniquely; however, any two Lie groups with the same Lie algebra are locally isomorphic, and in particular, have the same universal cover. For instance, the special orthogonal group SO(3) and the special unitary group SU(2) give rise to the same Lie algebra, which is isomorphic to $MATH$ with the cross-product, but SU(2) is a simply-connected twofold cover of SO(3).
+If we consider simply connected Lie groups, however, we have a one-to-one correspondence: For each (finite-dimensional real) Lie algebra $MATH$, there is a unique simply connected Lie group $MATH$ with Lie algebra $MATH$.
+The correspondence between Lie algebras and Lie groups is used in several ways, including in the classification of Lie groups and the related matter of the representation theory of Lie groups.  Every representation of a Lie algebra lifts uniquely to a representation of the corresponding connected, simply connected Lie group, and conversely every representation of any Lie group induces a representation of the group's Lie algebra; the representations are in one-to-one correspondence.  Therefore, knowing the representations of a Lie algebra settles the question of representations of the group.
+As for classification, it can be shown that any connected Lie group with a given Lie algebra is isomorphic to the universal cover mod a discrete central subgroup.  So classifying Lie groups becomes simply a matter of counting the discrete subgroups of the center, once the classification of Lie algebras is known (solved by Cartan et al. in the semisimple case).
+If the Lie algebra is infinite-dimensional, the issue is more subtle.  In many instances, the exponential map is not even locally a homeomorphism (for example, in Diff(S1), one may find diffeomorphisms arbitrarily close to the identity that are not in the image of exp).  Furthermore, some infinite-dimensional Lie algebras are not the Lie algebra of any group.
+Real form and complexification
+Given a complex Lie algebra $MATH$, a real Lie algebra $MATH$ is said to be a real form of $MATH$ if the complexification $MATH$ is isomorphic to $MATH$. A real form need not be unique; for example, $MATH$ has two real forms $MATH$ and $MATH$.
+Given a semisimple finite-dimensional complex Lie algebra $MATH$, a split form of it is a real form that splits; i.e., it has a Cartan subalgebra which acts via an adjoint representation with real eigenvalues. A split form exists and is unique (up to isomorphisms). A compact form is a real form that is the Lie algebra of a compact Lie group. A compact form exists and is also unique.
+Lie algebra with additional structures
+A Lie algebra can be equipped with some additional structures that are assumed to be compatible with the bracket. For example, a graded Lie algebra is a Lie algebra with a graded vector space structure. If it also comes with differential (so that the underlying graded vector space is a chain complex), then it is called a differential graded Lie algebra.
+A simplicial Lie algebra is a simplicial object in the category of Lie algebras; in other words, it is obtained by replacing the underlying set with a simplicial set (so it might be better thought of as a family of Lie algebras).
+Lie ring
+A Lie ring arises as a generalisation of Lie algebras, or through the study of the lower central series of groups. A Lie ring is defined as a nonassociative ring with multiplication that is anticommutative and satisfies the Jacobi identity. More specifically we can define a Lie ring $MATH$ to be an abelian group with an operation $MATH$ that has the following properties:
+Lie rings need not be Lie groups under addition.  Any Lie algebra is an example of a Lie ring.  Any associative ring can be made into a Lie ring by defining a bracket operator $MATH$.  Conversely to any Lie algebra there is a corresponding ring, called the universal enveloping algebra.
+Lie rings are used in the study of finite p-groups through the Lazard correspondence.  The lower central factors of a p-group are finite abelian p-groups, so modules over Z/pZ.  The direct sum of the lower central factors is given the structure of a Lie ring by defining the bracket to be the commutator of two coset representatives.  The Lie ring structure is enriched with another module homomorphism, the pth power map, making the associated Lie ring a so-called restricted Lie ring.
+Lie rings are also useful in the definition of a p-adic analytic groups and their endomorphisms by studying Lie algebras over rings of integers such as the p-adic integers.  The definition of finite groups of Lie type due to Chevalley involves restricting from a Lie algebra over the complex numbers to a Lie algebra over the integers, and then reducing modulo p to get a Lie algebra over a finite field.
+Examples
+See also
+Remarks
+References
+Sources

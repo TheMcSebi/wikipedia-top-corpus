@@ -1,0 +1,20 @@
+Drug class
+A drug class is a set of medications and other compounds that have a similar chemical structures, the same mechanism of action (i.e. binding to the same biological target), a related mode of action, and/or are used to treat the same disease.
+In several dominant drug classification systems, these four types of classifications form a hierarchy. For example, the fibrates are a chemical class of drugs (amphipathic carboxylic acids) that share the same mechanism of action (PPAR agonist) and mode of action (reducing blood triglycerides), and that are used to prevent and treat the same disease (atherosclerosis). Conversely, not all PPAR agonists are fibrates, not all triglyceride lowering agents are PPAR agonists, and not all drugs used to treat atherosclerosis are triglyceride-lowering agents.
+A drug class is typically defined by a prototype drug, the most important, and typically the first developed drug within the class, used as a reference for comparison.
+List of drugs classes: 
+Comprehensive Systems
+Chemical class
+This type of categorisation of drugs is from a chemical perspective and categorises them by their chemical structure. Examples of drug classes that are based on chemical structures include:
+Mechanism of action
+This type of categorisation is from a pharmacological perspective and categorises them by their biological target. Drug classes that share a common molecular mechanism of action modulate the activity of a specific biological target. The definition of a mechanism of action also includes the type of activity at that biological target.  For receptors, these activities include agonist, antagonist, inverse agonist, or modulator.  Enzyme target mechanisms include activator or inhibitor. Ion channel modulators include opener or blocker.  The following are specific examples of drug classes whose definition is based on a specific mechanism of action:
+Mode of action
+
+This type of categorisation of drugs is from a biological perspective and categorises them by the anatomical or functional change they induce. Drug classes that are defined by common modes of action (i.e. the functional or anatomical change they induce) include:
+Therapeutic class
+This type of categorisation of drugs is from a medical perspective and categorises them by the pathology they are used to treat. Drug classes that are defined by their therapeutic use (the pathology they are intended to treat) include:
+Amalgamated classes
+Some drug classes have been amalgamated from these three principles to meet practical needs. The class of nonsteroidal anti-inflammatory drugs (NSAIDs) is one such example. Strictly speaking, and also historically, the wider class of anti-inflammatory drugs also comprises steroidal anti-inflammatory drugs. These drugs were in fact the predominant anti-inflammatories during the decade leading up to the introduction of the term "nonsteroidal anti-inflammatory drugs." Because of the disastrous reputation that the corticosteroids had got in the 1950s, the new term, which offered to signal that an anti-inflammatory drug was not a steroid, rapidly gained currency. The drug class of "nonsteroidal anti-inflammatory drugs" (NSAIDs) is thus composed by one element ("anti-inflammatory") that designates the mechanism of action, and one element ("nonsteroidal") that separates it from other drugs with that same mechanism of action. Similarly, one might argue that the class of disease-modifying anti-rheumatic drugs (DMARD) is composed by one element ("disease-modifying") that albeit vaguely designates a mechanism of action, and one element ("anti-rheumatic drug") that indicates its therapeutic use.
+Other systems of classification
+Other systems of drug classification exist, for example the Biopharmaceutics Classification System which determines a drugs' attributes by solubility and intestinal permeability.
+Legal classification

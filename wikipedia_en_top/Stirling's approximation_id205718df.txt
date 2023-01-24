@@ -1,0 +1,71 @@
+Stirling's approximation
+In mathematics, Stirling's approximation (or Stirling's formula) is an approximation for factorials. It is a good approximation, leading to accurate results even for small values of $MATH$. It is named after James Stirling, though a related but less precise result was first stated by Abraham de Moivre.
+One way of stating the approximation involves the logarithm of the factorial:
+where the big O notation means that, for all sufficiently large values of $MATH$, the difference between $MATH$ and $MATH$ will be at most proportional to the logarithm. In computer science applications such as the worst-case lower bound for comparison sorting, it is convenient to use instead the binary logarithm, giving the equivalent form
+ The error term in either base can be expressed more precisely as $MATH$, corresponding to an approximate formula for the factorial itself,
+Here the sign $MATH$ means that the two quantities are asymptotic, that is, that their ratio tends to 1 as $MATH$ tends to infinity. The following version of the bound holds for all $MATH$, rather than only asymptotically:
+Derivation
+Roughly speaking, the simplest version of Stirling's formula can be quickly obtained by approximating the sum
+with an integral:
+The full formula, together with precise estimates of its error, can be derived as follows. Instead of approximating $MATH$, one considers its natural logarithm, as this is a slowly varying function:
+The right-hand side of this equation minus
+is the approximation by the trapezoid rule of the integral
+and the error in this approximation is given by the Euler–Maclaurin formula:
+where $MATH$ is a Bernoulli number, and Rm,n is the remainder term in the Euler–Maclaurin formula. Take limits to find that
+Denote this limit as $MATH$.  Because the remainder Rm,n in the Euler–Maclaurin formula satisfies
+where big-O notation is used, combining the equations above yields the approximation formula in its logarithmic form:
+Taking the exponential of both sides and choosing any positive integer $MATH$, one obtains a formula involving an unknown quantity $MATH$. For m = 1, the formula is
+The quantity $MATH$ can be found by taking the limit on both sides as $MATH$ tends to infinity and using Wallis' product, which shows that $MATH$. Therefore, one obtains Stirling's formula:
+Alternative derivation
+An alternative formula for $MATH$ using the gamma function is
+(as can be seen by repeated integration by parts). Rewriting and changing variables x = ny, one obtains
+Applying Laplace's method one has
+which recovers Stirling's formula:
+In fact, further corrections can also be obtained using Laplace's method. For example, computing two-order expansion using Laplace's method yields (using little-o notation)
+and gives Stirling's formula to two orders:
+A complex-analysis version of this method is to consider $MATH$ as a Taylor coefficient of the exponential function $MATH$, computed by Cauchy's integral formula as
+This line integral can then be approximated using the saddle-point method with an appropriate choice of countour radius $MATH$. The dominant portion of the integral near the saddle point is then approximated by a real integral and Laplace's method, while the remaining portion of the integral can be bounded above to give an error term.
+Speed of convergence and error estimates
+Stirling's formula is in fact the first approximation to the following series (now called the Stirling series):
+An explicit formula for the coefficients in this series was given by G. Nemes. Further terms are listed in the On-Line Encyclopedia of Integer Sequences as A001163 and A001164. The first graph in this section shows the relative error vs. $MATH$, for 1 through all 5 terms listed above.
+As n → ∞, the error in the truncated series is asymptotically equal to the first omitted term. This is an example of an asymptotic expansion. It is not a convergent series; for any particular value of $MATH$ there are only so many terms of the series that improve accuracy, after which accuracy worsens.  This is shown in the next graph, which shows the relative error versus the number of terms in the series, for larger numbers of terms. More precisely, let S(n, t) be the Stirling series to $MATH$ terms evaluated at $MATH$.  The graphs show 
+which, when small, is essentially the relative error.
+Writing Stirling's series in the form
+it is known that the error in truncating the series is always of the opposite sign and at most the same magnitude as the first omitted term.
+More precise bounds, due to Robbins, valid for all positive integers $MATH$ are
+A looser version of this bound is that $MATH$ for all $MATH$.
+Stirling's formula for the gamma function
+For all positive integers,
+where Γ denotes the gamma function.
+However, the gamma function, unlike the factorial, is more broadly defined for all complex numbers other than non-positive integers; nevertheless, Stirling's formula may still be applied. If Re(z) > 0, then
+Repeated integration by parts gives
+where $MATH$ is the $MATH$th Bernoulli number (note that the limit of the sum as $MATH$ is not convergent, so this formula is just an asymptotic expansion). The formula is valid for $MATH$ large enough in absolute value, when |arg(z)| < π − ε, where ε is positive, with an error term of O(z−2N+ 1). The corresponding approximation may now be written:
+where the expansion is identical to that of Stirling's series above for $MATH$, except that $MATH$ is replaced with z − 1.
+A further application of this asymptotic expansion is for complex argument z with constant Re(z). See for example the Stirling formula applied in Im(z) = t of the Riemann–Siegel theta function on the straight line 1/4 + it.
+Error bounds
+For any positive integer $MATH$, the following notation is introduced:
+and
+Then
+For further information and other error bounds, see the cited papers.
+A convergent version of Stirling's formula
+Thomas Bayes showed, in a letter to John Canton published by the Royal Society in 1763, that Stirling's formula did not give a convergent series.  Obtaining a convergent version of Stirling's formula entails evaluating Binet's formula:
+One way to do this is by means of a convergent series of inverted rising exponentials. If
+then
+where
+where s(n, k) denotes the Stirling numbers of the first kind. From this one obtains a version of Stirling's series
+which converges when Re(x) > 0.
+Versions suitable for calculators
+The approximation
+and its equivalent form
+can be obtained by rearranging Stirling's extended formula and observing a coincidence between the resultant power series and the Taylor series expansion of the hyperbolic sine function. This approximation is good to more than 8 decimal digits for z with a real part greater than 8. Robert H. Windschitl suggested it in 2002 for computing the gamma function with fair accuracy on calculators with limited program or register memory.
+Gergő Nemes proposed in 2007 an approximation which gives the same number of exact digits as the Windschitl approximation but is much simpler:
+or equivalently,
+An alternative approximation for the gamma function stated by Srinivasa Ramanujan (Ramanujan 1988) is
+for x ≥ 0. The equivalent approximation for ln n! has an asymptotic error of 1/1400n3 and is given by
+The approximation may be made precise by giving paired upper and lower bounds; one such inequality is
+History
+The formula was first discovered by Abraham de Moivre in the form
+De Moivre gave an approximate rational-number expression for the natural logarithm of the constant. Stirling's contribution consisted of showing that the constant is precisely $MATH$.
+See also
+References
+Further reading

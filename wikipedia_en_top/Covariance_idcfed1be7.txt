@@ -1,0 +1,76 @@
+Covariance
+In probability theory and statistics, covariance is a measure of the joint variability of two random variables. If the greater values of one variable mainly correspond with the greater values of the other variable, and the same holds for the lesser values (that is, the variables tend to show similar behavior), the covariance is positive. In the opposite case, when the greater values of one variable mainly correspond to the lesser values of the other, (that is, the variables tend to show opposite behavior), the covariance is negative. The sign of the covariance therefore shows the tendency in the linear relationship between the variables. The magnitude of the covariance is not easy to interpret because it is not normalized and hence depends on the magnitudes of the variables. The normalized version of the covariance, the correlation coefficient, however, shows by its magnitude the strength of the linear relation.
+A distinction must be made between (1) the covariance of two random variables, which is a population parameter that can be seen as a property of the joint probability distribution, and (2) the sample covariance, which in addition to serving as a descriptor of the sample, also serves as an estimated value of the population parameter.
+Definition
+For two jointly distributed real-valued random variables $MATH$ and $MATH$ with finite second moments, the covariance is defined as the expected value (or mean) of the product of their deviations from their individual expected values:: p. 119 
+where $MATH$ is the expected value of $MATH$, also known as the mean of $MATH$. The covariance is also sometimes denoted $MATH$ or $MATH$, in analogy to variance.  By using the linearity property of expectations, this can be simplified to the expected value of their product minus the product of their expected values:
+but this equation is susceptible to catastrophic cancellation (see the section on numerical computation below).
+The units of measurement of the covariance $MATH$ are those of $MATH$ times those of $MATH$. By contrast, correlation coefficients, which depend on the covariance, are a dimensionless measure of linear dependence. (In fact, correlation coefficients can simply be understood as a normalized version of covariance.)
+Definition for complex random variables
+The covariance between two complex random variables $MATH$ is defined as: p. 119 
+Notice the complex conjugation of the second factor in the definition.
+A related pseudo-covariance can also be defined.
+Discrete random variables
+If the (real) random variable pair $MATH$ can take on the values $MATH$ for $MATH$, with equal probabilities $MATH$, then the covariance can be equivalently written in terms of the means $MATH$ and $MATH$ as
+It can also be equivalently expressed, without directly referring to the means, as
+More generally, if there are $MATH$ possible realizations of $MATH$, namely $MATH$ but with possibly unequal probabilities $MATH$ for $MATH$, then the covariance is
+Example
+Suppose that $MATH$ and $MATH$ have the following joint probability mass function, in which the six central cells give the discrete joint probabilities $MATH$ of the six hypothetical realizations $MATH$:
+$MATH$ can take on three values (5, 6 and 7) while $MATH$ can take on two (8 and 9). Their means are $MATH$ and $MATH$. Then,
+Properties
+Covariance with itself
+The variance is a special case of the covariance in which the two variables are identical (that is, in which one variable always takes the same value as the other):: 121 
+Covariance of linear combinations
+If $MATH$, $MATH$, $MATH$, and $MATH$ are real-valued random variables and $MATH$ are real-valued constants, then the following facts are a consequence of the definition of covariance:
+For a sequence $MATH$ of random variables in real-valued, and constants $MATH$, we have
+Hoeffding's covariance identity
+A useful identity to compute the covariance between two random variables $MATH$  is the Hoeffding's covariance identity:
+where $MATH$ is the joint cumulative distribution function of the random vector $MATH$ and $MATH$ are the marginals.
+Uncorrelatedness and independence
+Random variables whose covariance is zero are called uncorrelated.: p. 121  Similarly, the components of random vectors whose covariance matrix is zero in every entry outside the main diagonal are also called uncorrelated.
+If $MATH$ and $MATH$ are independent random variables, then their covariance is zero.: p. 123  This follows because under independence,
+The converse, however, is not generally true. For example, let $MATH$ be uniformly distributed in $MATH$ and let $MATH$. Clearly, $MATH$ and $MATH$ are not independent, but
+In this case, the relationship between $MATH$ and $MATH$ is non-linear, while correlation and covariance are measures of linear dependence between two random variables. This example shows that if two random variables are uncorrelated, that does not in general imply that they are independent. However, if two variables are jointly normally distributed (but not if they are merely individually normally distributed), uncorrelatedness does imply independence.
+Relationship to inner products
+Many of the properties of covariance can be extracted elegantly by observing that it satisfies similar properties to those of an inner product:
+In fact these properties imply that the covariance defines an inner product over the quotient vector space obtained by taking the subspace of random variables with finite second moment and identifying any two that differ by a constant. (This identification turns the positive semi-definiteness above into positive definiteness.) That quotient vector space is isomorphic to the subspace of random variables with finite second moment and mean zero; on that subspace, the covariance is exactly the L2 inner product of real-valued functions on the sample space.
+As a result, for random variables with finite variance, the inequality
+holds via the Cauchy–Schwarz inequality.
+Proof: If $MATH$, then it holds trivially. Otherwise, let random variable
+Then we have
+Calculating the sample covariance
+The sample covariances among $MATH$ variables based on $MATH$ observations of each, drawn from an otherwise unobserved population, are given by the $MATH$ matrix $MATH$ with the entries
+which is an estimate of the covariance between variable $MATH$ and variable $MATH$.
+The sample mean and the sample covariance matrix are unbiased estimates of the mean and the covariance matrix of the random vector $MATH$, a vector whose jth element $MATH$ is one of the random variables. The reason the sample covariance matrix has $MATH$ in the denominator rather than $MATH$ is essentially that the population mean $MATH$ is not known and is replaced by the sample mean $MATH$. If the population mean $MATH$ is known, the analogous unbiased estimate is given by
+Generalizations
+Auto-covariance matrix of real random vectors
+For a vector $MATH$ of $MATH$ jointly distributed random variables with finite second moments, its auto-covariance matrix (also known as the variance–covariance matrix or simply the covariance matrix) $MATH$ (also denoted by $MATH$ or $MATH$) is defined as: p.335 
+Let $MATH$ be a random vector with covariance matrix Σ, and let A be a matrix that can act on $MATH$ on the left. The covariance matrix of the matrix-vector product A X is:
+This is a direct result of the linearity of expectation and is useful
+when applying a linear transformation, such as a whitening transformation, to a vector.
+Cross-covariance matrix of real random vectors
+For real random vectors $MATH$ and $MATH$, the $MATH$ cross-covariance matrix is equal to: p.336 
+where $MATH$ is the transpose of the vector (or matrix) $MATH$.
+The $MATH$-th element of this matrix is equal to the covariance $MATH$ between the i-th scalar component of $MATH$ and the j-th scalar component of $MATH$. In particular, $MATH$ is the transpose  of $MATH$.
+Cross-covariance sesquilinear form of random vectors in a real or complex Hilbert space
+More generally let $MATH$ and $MATH$, be Hilbert spaces over $MATH$ or $MATH$ with $MATH$ anti linear in the first variable, and let $MATH$ be $MATH$ resp. $MATH$ valued random variables. 
+Then the covariance of $MATH$ and $MATH$ is the sesquilinear form on $MATH$ 
+(anti linear in the first variable) given by
+Numerical computation
+When $MATH$, the equation $MATH$ is prone to catastrophic cancellation if $MATH$ and $MATH$ are not computed exactly and thus should be avoided in computer programs when the data has not been centered before. Numerically stable algorithms should be preferred in this case.
+Comments
+The covariance is sometimes called a measure of "linear dependence" between the two random variables. That does not mean the same thing as in the context of linear algebra (see linear dependence). When the covariance is normalized, one obtains the Pearson correlation coefficient, which gives the goodness of the fit for the best possible linear function describing the relation between the variables. In this sense covariance is a linear gauge of dependence.
+Applications
+In genetics and molecular biology
+Covariance is an important measure in biology. Certain sequences of DNA are conserved more than others among species, and thus to study secondary and tertiary structures of proteins, or of RNA structures, sequences are compared in closely related species. If sequence changes are found or no changes at all are found in noncoding RNA (such as microRNA), sequences are found to be necessary for common structural motifs, such as an RNA loop. In genetics, covariance serves a basis for computation of Genetic Relationship Matrix (GRM) (aka kinship matrix), enabling inference on population structure from sample with no known close relatives as well as inference on estimation of heritability of complex traits.
+In the theory of evolution and natural selection, the Price equation describes how a genetic trait changes in frequency over time. The equation uses a covariance between a trait and fitness, to give a mathematical description of evolution and natural selection. It provides a way to understand the effects that gene transmission and natural selection have on the proportion of genes within each new generation of a population.  The Price equation was derived by George R. Price, to re-derive W.D. Hamilton's work on kin selection. Examples of the Price equation have been constructed for various evolutionary cases.
+In financial economics
+Covariances play a key role in financial economics, especially in modern portfolio theory and in the capital asset pricing model. Covariances among various assets' returns are used to determine, under certain assumptions, the relative amounts of different assets that investors should (in a normative analysis) or are predicted to (in a positive analysis) choose to hold in a context of diversification.
+In meteorological and oceanographic data assimilation
+The covariance matrix is important in estimating the initial conditions required for running weather forecast models, a procedure known as data assimilation. The 'forecast error covariance matrix' is typically constructed between perturbations around a mean state (either a climatological or ensemble mean). The 'observation error covariance matrix' is constructed to represent the magnitude of combined observational errors (on the diagonal) and the correlated errors between measurements (off the diagonal).  This is an example of its widespread application to Kalman filtering and more general state estimation for time-varying systems.
+In micrometeorology
+The eddy covariance technique is a key atmospherics measurement technique where the covariance between instantaneous deviation in vertical wind speed from the mean value and instantaneous deviation in gas concentration is the basis for calculating the vertical turbulent fluxes.
+In signal processing
+The covariance matrix is used to capture the spectral variability of a signal.
+In statistics and image processing
+The covariance matrix is used in principal component analysis to reduce feature dimensionality in data preprocessing.

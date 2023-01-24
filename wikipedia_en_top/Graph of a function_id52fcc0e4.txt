@@ -1,0 +1,25 @@
+Graph of a function
+In mathematics, the graph of a function $MATH$ is the set of ordered pairs $MATH$, where $MATH$ In the common case where $MATH$ and $MATH$ are real numbers, these pairs are Cartesian coordinates of points in two-dimensional space and thus form a subset of this plane. 
+In the case of functions of two variables, that is functions whose domain consists of pairs $MATH$ the graph usually refers to the set of ordered triples $MATH$ where $MATH$ instead of the pairs $MATH$ as in the definition above. This set is a subset of three-dimensional space; for a continuous real-valued function of two real variables, it is a surface.
+In science, engineering, technology, finance, and other areas, graphs are tools used for many purposes. In the simplest case one variable is plotted as a function of another, typically using rectangular axes; see Plot (graphics) for details.
+A graph of a function is a special case of a relation. 
+In the modern foundations of mathematics, and, typically, in set theory, a function is actually equal to its graph. However, it is often useful to see functions as mappings, which consist not only of the relation between input and output, but also which set is the domain, and which set is the codomain. For example, to say that a function is onto (surjective) or not the codomain should be taken into account. The graph of a function on its own doesn't determine the codomain. It is common to use both terms function and graph of a function since even if considered the same object, they indicate viewing it from a different perspective.
+Definition
+Given a mapping $MATH$ in other words a function $MATH$ together with its domain $MATH$ and codomain $MATH$ the graph of the mapping is the set 
+which is a subset of $MATH$. In the abstract definition of a function, $MATH$ is actually equal to $MATH$
+One can observe that, if, $MATH$ then the graph $MATH$ is a subset of $MATH$ (strictly speaking it is $MATH$ but one can embed it with the natural isomorphism).
+Examples
+Functions of one variable
+The graph of the function $MATH$ defined by
+is the subset of the set $MATH$
+From the graph, the domain $MATH$ is recovered as the set of first component of each pair in the graph $MATH$.
+Similarly, the range can be recovered as $MATH$.
+The codomain $MATH$, however, cannot be determined from the graph alone.
+The graph of the cubic polynomial on the real line
+is
+If this set is plotted on a Cartesian plane, the result is a curve (see figure).
+Functions of two variables
+The graph of the trigonometric function
+is
+If this set is plotted on a three dimensional Cartesian coordinate system, the result is a surface (see figure).
+Oftentimes it is helpful to show with the graph, the gradient of the function and several level curves. The level curves can be mapped on the function surface or can be projected on the bottom plane.  The second figure shows such a drawing of the graph of the function:

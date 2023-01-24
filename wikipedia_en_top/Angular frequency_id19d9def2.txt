@@ -1,0 +1,27 @@
+Angular frequency
+In physics, angular frequency "ω" (also referred to by the terms angular speed, circular frequency, orbital frequency, radian frequency, and pulsatance) is a scalar measure of rotation rate. It refers to the angular displacement per unit time (for example, in rotation) or the rate of change of the phase of a sinusoidal waveform (for example, in oscillations and waves), or as the rate of change of the argument of the sine function.
+Angular frequency (or angular speed) is the magnitude of the pseudovector quantity angular velocity.
+One turn is equal to 2π radians, hence
+where:
+Units
+In SI units, angular frequency is normally presented in radians per second, even when it does not express a rotational value. The unit hertz (Hz) is dimensionally equivalent, but by convention it is only used for frequency f, never for angular frequency ω. This convention is used to help avoid the confusion that arises when dealing with quantities such as frequency and angular quantities because the units of measure (such as cycle or radian) are considered to be one and hence omitted in SI.
+In digital signal processing, the frequency may be normalized by the sampling rate, yielding the normalized frequency.
+Examples
+Circular motion
+In a rotating or orbiting object, there is a relation between distance from the axis, $MATH$, tangential speed, $MATH$, and the angular frequency of the rotation. During one period, $MATH$, a body in circular motion travels a distance $MATH$. This distance is also equal to the circumference of the path traced out by the body, $MATH$. Setting these two quantities equal, and recalling the link between period and angular frequency we obtain:
+
+Oscillations of a spring
+An object attached to a spring can oscillate. If the spring is assumed to be ideal and massless with no damping, then the motion is simple and harmonic with an angular frequency given by
+where
+ω is referred to as the natural frequency (which can sometimes be denoted as ω0).
+As the object oscillates, its acceleration can be calculated by
+where x is displacement from an equilibrium position.
+Using "ordinary" revolutions-per-second frequency, this equation would be
+LC circuits
+The resonant angular frequency in a series LC circuit equals the square root of the reciprocal of the product of the capacitance (C measured in farads) and the inductance of the circuit (L, with SI unit henry):
+Adding series resistance (for example, due to the resistance of the wire in a coil) does not change the resonant frequency of the series LC circuit. For a parallel tuned circuit, the above equation is often a useful approximation, but the resonant frequency does depend on the losses of parallel elements.
+Terminology
+Angular frequency is often loosely referred to as frequency, although in a strict sense these two quantities differ by a factor of 2π.
+See also
+References and notes
+Related Reading:

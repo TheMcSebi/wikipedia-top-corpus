@@ -1,0 +1,100 @@
+Conditional expectation
+In probability theory, the conditional expectation, conditional expected value, or conditional mean of a random variable is its expected value – the value it would take “on average” over an arbitrarily large number of occurrences – given that a certain set of "conditions" is known to occur. If the random variable can take on only a finite number of values, the “conditions” are that the variable can only take on a subset of those values. More formally, in the case when the random variable is defined over a discrete probability space, the "conditions" are a partition of this probability space.
+Depending on the context, the conditional expectation can be either a random variable or a function. The random variable is denoted $MATH$ analogously to conditional probability. The function form is either denoted $MATH$ or a separate function symbol such as $MATH$ is introduced with the meaning $MATH$.
+Examples
+Example 1: Dice rolling
+Consider the roll of a fair die and let A = 1 if the number is even (i.e., 2, 4, or 6) and A = 0 otherwise. Furthermore, let B = 1 if the number is prime (i.e., 2, 3, or 5) and B = 0 otherwise.
+The unconditional expectation of A is $MATH$, but the expectation of A conditional on B = 1 (i.e., conditional on the die roll being 2, 3, or 5) is $MATH$, and the expectation of A conditional on B = 0 (i.e., conditional on the die roll being 1, 4, or 6) is $MATH$. Likewise, the expectation of B conditional on A = 1 is $MATH$, and the expectation of B conditional on A = 0 is $MATH$.
+Example 2: Rainfall data
+Suppose we have daily rainfall data (mm of rain each day) collected by a weather station on every day of the ten–year (3652–day) period from January 1, 1990 to December 31, 1999.  The unconditional expectation of rainfall for an unspecified day is the average of the rainfall amounts for those 3652 days. The conditional expectation of rainfall for an otherwise unspecified day known to be (conditional on being) in the month of March, is the average of daily rainfall over all 310 days of the ten–year period that falls in March. And the conditional expectation of rainfall conditional on days dated March 2 is the average of the rainfall amounts that occurred on the ten days with that specific date.
+History
+The related concept of conditional probability dates back at least to Laplace, who calculated conditional distributions.  It was Andrey Kolmogorov who, in 1933, formalized it using the Radon–Nikodym theorem.  In works of Paul Halmos and Joseph L. Doob from 1953, conditional expectation was generalized to its modern definition using sub-σ-algebras.
+Definitions
+Conditioning on an event
+If A is an event in $MATH$ with nonzero probability,
+and X is a discrete random variable, the conditional expectation
+of X given A is
+where the sum is taken over all possible outcomes of X.
+Note that if $MATH$, the conditional expectation is undefined due to the division by zero.
+Discrete random variables
+If X and Y are discrete random variables,
+the conditional expectation of X given Y is
+where $MATH$ is the joint probability mass function of X and Y. The sum is taken over all possible outcomes of X.
+Note that conditioning on a discrete random variable is the same as conditioning on the corresponding event:
+where A is the set $MATH$.
+Continuous random variables
+Let $MATH$ and $MATH$ be continuous random variables with joint density
+$MATH$
+$MATH$'s density
+$MATH$
+and conditional density $MATH$ of $MATH$ given the event $MATH$
+The conditional expectation of $MATH$ given $MATH$ is
+When the denominator is zero, the expression is undefined.
+Note that conditioning on a continuous random variable is not the same as conditioning on the event $MATH$ as it was in the discrete case. For a discussion, see Conditioning on an event of probability zero. Not respecting this distinction can lead to contradictory conclusions as illustrated by the Borel-Kolmogorov paradox.
+L2 random variables
+All random variables in this section are assumed to be in $MATH$, that is square integrable.
+In its full generality, conditional expectation is developed without this assumption, see below under Conditional expectation with respect to a sub-σ-algebra. The $MATH$ theory is, however, considered more intuitive and admits important generalizations.
+In the context of $MATH$ random variables, conditional expectation is also called regression.
+In what follows let $MATH$ be a probability space, and $MATH$ in 
+$MATH$ with mean $MATH$ and variance $MATH$.
+The expectation $MATH$ minimizes the mean squared error:
+The conditional expectation of X is defined analogously, except instead of a single number 
+$MATH$, the result will be a function $MATH$. Let $MATH$ be a random vector. The conditional expectation $MATH$ is a measurable function such that
+Note that unlike $MATH$, the conditional expectation $MATH$ is not generally unique: there may be multiple minimizers of the mean squared error.
+Uniqueness
+Example 1: Consider the case where Y is the constant random variable that's always 1.
+Then the mean squared error is minimized by any function of the form
+Example 2: Consider the case where Y is the 2-dimensional random vector $MATH$. Then clearly
+but in terms of functions it can be expressed as $MATH$ or $MATH$ or infinitely many other ways. In the context of linear regression, this lack of uniqueness is called multicollinearity.
+Conditional expectation is unique up to a set of measure zero in $MATH$. The measure used is the pushforward measure induced by Y.
+In the first example, the pushforward measure is a Dirac distribution at 1. In the second it is concentrated on the "diagonal" $MATH$, so that any set not intersecting it has measure 0.
+Existence
+The existence of a minimizer for $MATH$ is non-trivial. It can be shown that
+is a closed subspace of the Hilbert space $MATH$.
+By the Hilbert projection theorem, the necessary and sufficient condition for
+$MATH$ to be a minimizer is that for all $MATH$ in M we have
+In words, this equation says that the residual $MATH$ is orthogonal to the space M of all functions of Y.
+This orthogonality condition, applied to the indicator functions $MATH$,
+is used below to extend conditional expectation to the case that X and Y are not necessarily in $MATH$.
+Connections to regression
+The conditional expectation is often approximated in applied mathematics and statistics due to the difficulties in analytically calculating it, and for interpolation.
+The Hilbert subspace
+defined above is replaced with subsets thereof by restricting the functional form of g, rather than allowing any measureable function. Examples of this are decision tree regression when g is required to be a simple function, linear regression when g is required to be affine, etc.
+These generalizations of conditional expectation come at the cost of many of its properties no longer holding.
+For example, let M
+be the space  of all linear functions of Y and let $MATH$ denote this generalized conditional expectation/$MATH$ projection. If $MATH$ does not contain the constant functions, the tower property 
+$MATH$
+will not hold.
+An important special case is when X and Y are jointly normally distributed. In this case
+it can be shown that the conditional expectation is equivalent to linear regression:
+for coefficients $MATH$ described in Multivariate normal distribution#Conditional distributions.
+Conditional expectation with respect to a sub-σ-algebra
+Consider the following:
+Since $MATH$ is a sub $MATH$-algebra of $MATH$, the function $MATH$ is usually not $MATH$-measurable, thus the existence of the integrals of the form $MATH$, where $MATH$ and $MATH$ is the restriction of $MATH$ to $MATH$, cannot be stated in general. However, the local averages $MATH$ can be recovered in $MATH$ with the help of the conditional expectation. 
+A conditional expectation of X given $MATH$, denoted as $MATH$, is any $MATH$-measurable function $MATH$ which satisfies:
+for each $MATH$.
+As noted in the $MATH$ discussion, this condition is equivalent to saying that the residual $MATH$ is orthogonal to the indicator functions $MATH$:
+Existence
+The existence of $MATH$ can be established by noting that $MATH$ for $MATH$ is a finite measure on $MATH$ that is absolutely continuous with respect to  $MATH$.  If $MATH$ is the natural injection from $MATH$ to $MATH$, then $MATH$ is the restriction of $MATH$ to $MATH$ and $MATH$ is the restriction of $MATH$ to $MATH$.  Furthermore, $MATH$ is absolutely continuous with respect to $MATH$, because the condition
+implies
+Thus, we have 
+where the derivatives are Radon–Nikodym derivatives of measures.
+Conditional expectation with respect to a random variable
+Consider, in addition to the above,
+The conditional expectation of X given Y is defined by applying the above construction on the σ-algebra generated by Y:
+By the Doob-Dynkin lemma, there exists a function $MATH$ such that
+Discussion
+Conditional probability
+For a Borel subset B in $MATH$, one can consider the collection of random variables
+It can be shown that they form a Markov kernel, that is, for almost all $MATH$,
+$MATH$ is a probability measure.
+The Law of the unconscious statistician is then
+This shows that conditional expectations are, like their unconditional counterparts, integrations,
+against a conditional measure.
+Basic properties
+All the following formulas are to be understood in an almost sure sense.  The σ-algebra $MATH$ could be replaced by a random variable $MATH$, i.e. $MATH$.
+Let $MATH$. Then $MATH$ is independent of $MATH$, so we get that
+Thus the definition of conditional expectation is satisfied by the constant random variable $MATH$, as desired.
+See also
+Probability laws
+Notes

@@ -1,0 +1,17 @@
+Adrenal cortex
+The adrenal cortex is the outer region and also the largest part of an adrenal gland. It is divided into three separate zones: zona glomerulosa, zona fasciculata and zona reticularis. Each zone is responsible for producing specific hormones. It is also a secondary site of androgen synthesis.
+Layers
+The adrenal cortex comprises three main zones, or layers that are regulated by distinct hormones as noted below.  This anatomic zonation can be appreciated at the microscopic level, where each zone can be recognized and distinguished from one another based on structural and anatomic characteristics.
+Hormone synthesis
+The precursor of steroids synthesized in the adrenal cortex is cholesterol that is stored in vesicles. Cholesterol can be synthesized de novo in the adrenal cortex. Yet, the major source of cholesterol appears to be cholesterol that is taken up with circulating lipoproteins.
+
+The steps up to this point occur in many steroid-producing tissues. Subsequent steps to generate aldosterone and cortisol, however, primarily occur in the adrenal cortex:
+Production
+The adrenal cortex produces a number of different corticosteroid hormones.
+Mineralocorticoids
+The primary mineralocorticoid, aldosterone, is produced in the adrenocortical zona glomerulosa by the action of the enzyme aldosterone synthase (also known as CYP11B2). Aldosterone is largely responsible for the long-term regulation of blood pressure. Aldosterone effects on the distal convoluted tubule and collecting duct of the kidney where it causes increased reabsorption of sodium and increased excretion of both potassium (by principal cells) and hydrogen ions (by intercalated cells of the collecting duct). Sodium retention is also a response of the distal colon, and sweat glands to aldosterone receptor stimulation. Although sustained production of aldosterone requires persistent calcium entry through low-voltage activated Ca2+ channels, isolated zona glomerulosa cells are considered nonexcitable, with recorded membrane voltages that are too hyperpolarized to permit Ca2+ channels entry.
+Glucocorticoids
+Glucocorticoids are produced in the zona fasciculata. The primary glucocorticoid released by the adrenal gland is cortisol in humans and corticosterone in many other animals. Its secretion is regulated by the hormone ACTH from the anterior pituitary.
+Androgens
+They are produced in the zona reticularis. The most important androgens include:
+Pathology

@@ -1,0 +1,16 @@
+Displacement (ship)
+The displacement or displacement tonnage of a ship is its weight. As the term indicates, it is measured indirectly, using Archimedes' principle, by first calculating the volume of water  displaced by the ship, then converting that value into weight. Traditionally, various measurement rules have been in use, giving various measures in long tons. Today, tonnes are more commonly used.
+Ship displacement varies by a vessel's degree of load, from its empty weight as designed (known as "lightweight tonnage")  to its maximum load. Numerous specific terms are used to describe varying levels of load and trim, detailed below.
+Ship displacement should not be confused with measurements of volume or capacity typically used for commercial vessels and measured by tonnage: net tonnage and gross tonnage.
+Calculation
+The process of determining a vessel's displacement begins with measuring its draft. This is accomplished by means of its "draft marks" (or "load lines").  A merchant vessel has three matching sets:  one mark each on the port and starboard sides forward, midships, and astern. These marks allow a ship's displacement to be determined to an accuracy of 0.5%.
+The draft observed at each set of marks is averaged to find a mean draft. The ship's hydrostatic tables show the corresponding volume displaced.
+To calculate the weight of the displaced water, it is necessary to know its density. Seawater (1,025 kg/m3) is more dense than fresh water (1,000 kg/m3); so a ship will ride higher in salt water than in fresh. The density of water also varies with temperature.
+Devices akin to slide rules have been available since the 1950s to aid in these calculations. Presently, it is done with computers.
+Displacement is usually measured in units of tonnes or long tons.
+Definitions
+There are terms for the displacement of a vessel under specified conditions:
+Loaded displacement
+Light displacement
+Normal displacement
+Standard displacement

@@ -1,0 +1,61 @@
+Bopomofo
+Bopomofo (Chinese: 注音符號; pinyin: zhùyīn fúhào; Wade–Giles: chu⁴yin¹ fu²hao⁴), or Mandarin Phonetic Symbols, also named Zhuyin (Chinese: 注音; pinyin: zhùyīn), is a Chinese transliteration system for Mandarin Chinese and other related languages and dialects. More commonly used in Taiwanese Mandarin, it may also be used to transcribe other varieties of Chinese, particularly other varieties of Mandarin Chinese dialects, as well as Taiwanese Hokkien. Consisting of 37 characters and five tone marks, it transcribes all possible sounds in Mandarin. 
+Bopomofo was first introduced in China by the Republican government in the 1910s and was used alongside the Wade–Giles system for romanization purposes, which used a modified Latin alphabet. Today, Bopomofo is now more common in Taiwan than on the Chinese mainland, and is after Hanyu Pinyin used as a secondary electronic input method for writing Mandarin Chinese in Taiwan as well as in dictionaries or other non-official documents.
+Etymology
+Bopomofo is the name used by the ISO and Unicode. Zhuyin (注音) literally means phonetic notation. The original formal name of the system was 國音字母; Guóyīn Zìmǔ; 'National Language Phonetic Alphabet' and 註音字母; Zhùyīn Zìmǔ; 'Phonetic Alphabet or Annotated Phonetic Letters'. It was later renamed 注音符號; Zhùyīn Fúhào; 'phonetic symbols'. In official documents, Bopomofo is occasionally called "Mandarin Phonetic Symbols I" (國語注音符號第一式), abbreviated as "MPS I" (注音一式). The system is often also called either Chu-in or the Mandarin Phonetic Symbols. A romanized phonetic system was released in 1984 as Mandarin Phonetic Symbols II (MPS II).
+The name Bopomofo comes from the first four letters of the system: ㄅ, ㄆ, ㄇ and ㄈ. Similar to the way that the word "alphabet" is ultimately derived from the names of the first two letters of the alphabet (alpha and beta), the name "Bopomofo" is derived from the first four syllables in the conventional ordering of available syllables in Mandarin Chinese. The four Bopomofo characters (ㄅㄆㄇㄈ) that correspond to these syllables are usually placed first in a list of these characters. The same sequence is sometimes used by other speakers of Chinese to refer to other phonetic systems.
+History
+Origins
+The Commission on the Unification of Pronunciation, led by Wu Zhihui from 1912 to 1913, created a system called Zhuyin Zimu, which was based on Zhang Binglin's shorthand. It was used as the official
+phonetic script to annotate the sounds of the characters in accordance with the pronunciation system called "Old National Pronunciation" (Laoguoyin). A draft was released on July 11, 1913, by the Republic of China National Ministry of Education, but it was not officially proclaimed until November 23, 1928. It was later renamed first Guoyin Zimu and then, in April 1930, Zhuyin Fuhao. The last renaming addressed fears that the alphabetic system might independently replace Chinese characters.
+Modern use
+Bopomofo is the predominant phonetic system in teaching, reading and writing in elementary school in Taiwan. It is also the most popular way for Taiwanese to enter Chinese characters into computers and smartphones and to look up characters in a dictionary.
+In elementary school, particularly in the lower years, Chinese characters in textbooks are often annotated with Bopomofo as ruby characters as an aid to learning. Additionally, one children's newspaper in Taiwan, the Mandarin Daily News, annotates all articles with Bopomofo ruby characters.
+In teaching Mandarin, Taiwan institutions and some overseas communities such as Filipino Chinese use Bopomofo.
+Bopomofo is shown in a secondary position to Hanyu Pinyin in all editions of Xiandai Hanyu Cidian from the 1960 edition to the current 2016 edition (7th edition).
+Symbols
+The Bopomofo characters were created by Zhang Binglin, taken mainly from "regularized" forms of ancient Chinese characters, the modern readings of which contain the sound that each letter represents. The consonants are listed in order of place of articulation, from the front of the mouth to the back, /b/, /p/, /m/, /f/, /d/, /t/, /n/, /l/ etc.
+Writing
+Stroke order
+Bopomofo is written in the same stroke order rule as Chinese characters. Note that ㄖ is written with three strokes, unlike the character from which it is derived (Chinese: 日; pinyin: rì), which has four strokes.
+ㄧ can be written as a vertical line () or a horizontal line (); both are accepted forms. Traditionally, it should be written as a horizontal line in vertical writing, and a vertical line in horizontal writing. The People's Republic of China almost exclusively uses horizontal writing, so the vertical form (in the rare occasion that Bopomofo is used) has become the standard form there. Language education in Taiwan generally uses vertical writing, so most people learn it as a horizontal line, and use a horizontal form even in horizontal writing. In 2008, the Taiwanese Ministry of Education decided that the primary form should always be the horizontal form, but that the vertical form is accepted alternative. Unicode 8.0.0 published an errata in 2014 that updates the representative glyph to be the horizontal form. Computer fonts may only display one form or the other, or may be able to display both if the font is aware of changes needed for vertical writing.
+Tonal marks
+As shown in the following table, tone marks for the second, third, and fourth tones are shared between bopomofo and pinyin. In bopomofo, the mark for first tone is usually omitted but can be included, while a dot above indicates the fifth tone (also known as the neutral tone). In pinyin, a macron (overbar) indicates the first tone, and the lack of a marker usually indicates the fifth (light) tone.
+Unlike Hanyu Pinyin, Bopomofo aligns well with the Chinese characters in books whose texts are printed vertically, making Bopomofo better suited for annotating the pronunciation of vertically oriented Chinese text.
+When used in conjunction with Chinese characters, Bopomofo is typically placed to the right of the Chinese character vertically in both vertical print and horizontal print or to the top of the Chinese character in a horizontal print (see Ruby characters).
+Example
+Below is an example for the word "bottle" (pinyin: píngzi):
+Erhua transcription
+Words rhotacized as a result of erhua are spelled with ㄦ attached to the syllable (like 歌兒（ㄍㄜㄦ） gēr). In case the syllable uses other tones than the 1st tone, the tone mark is attached to the penultimate letter standing for syllable nucleus, but not to ㄦ (e.g. 哪兒（ㄋㄚˇㄦ） nǎr; 一（ㄧ）點兒（ㄉㄧㄢˇㄦ） yīdiǎnr; 好（ㄏㄠˇ）玩兒（ㄨㄢˊㄦ） hǎowánr).
+Comparison
+Pinyin
+Bopomofo and pinyin are based on the same Mandarin pronunciations; hence there is a one-to-one correspondence between the two systems:
+1 Not written.
+2 ⟨ü⟩ is written as ⟨u⟩ after ⟨j⟩, ⟨q⟩, ⟨x⟩, or ⟨y⟩.
+3 ⟨ㄨㄛ⟩/⟨-uo⟩ is written as ⟨ㄛ⟩/⟨-o⟩ after ⟨ㄅ⟩/⟨b-⟩, ⟨ㄆ⟩/⟨p-⟩, ⟨ㄇ⟩/⟨m-⟩, ⟨ㄈ⟩/⟨f-⟩.
+4 ⟨weng⟩ is pronounced [ʊŋ] (written as ⟨-ong⟩) when it follows an initial.
+Use outside Standard Mandarin
+Bopomofo symbols for non-Mandarin Chinese varieties are added to Unicode in the Bopomofo Extended block.
+Taiwanese Hokkien
+In Taiwan, Bopomofo is used to teach Taiwanese Hokkien, and is also used to transcribe it phonetically in contexts such as on storefront signs, karaoke lyrics, and film subtitles.
+Three letters no longer used for Mandarin are carried over from the 1913 standard:
+23 more letters were added specifically for Taiwanese Hokkien:
+Two tone marks were added for the additional tones: ˪, ˫
+Cantonese
+The following letters are used in Cantonese.
+If a syllable ends with a consonant other than -an or -aan, the consonant's letter is added, then followed by a final middle dot.
+-ㄞ is used for [aːi] (aai) (e.g. 敗, ㄅㄞ baai6)
+-ㄣ is used for [ɐn] (an) (e.g. 跟, ㄍㄣ gan1), and -ㄢ is used for [aːn] (aan) (e.g. 間, ㄍㄢ gaan1). Other vowels that end with -n use -ㄋ· for the final ㄋ. (e.g. 見, ㄍㄧㄋ· gin3)
+-ㄡ is used for [ɐu] (au). (e.g. 牛, ㄫㄡ, ngau4) To transcribe [ou] (ou), it is written as ㄛㄨ (e.g. 路, ㄌㄛㄨ lou6)
+ㄫ is used for both initial ng- (as in 牛, ㄫㄡ, ngau "cow") and final -ng (as in 用, ㄧㄛㄫ·, yong "use").
+ㄐ is used for [t͡s] (z) (e.g. 煑, ㄐㄩ zyu2) and ㄑ is used for [t͡sʰ] (c) (e.g. 全, ㄑㄩㄋ· cyun4).
+During the time when Bopomofo was proposed for Cantonese, tones were not marked.
+Computer uses
+Input method
+Bopomofo can be used as an input method for Chinese characters. It is one of the few input methods that can be found on most modern personal computers without having to download or install any additional software. It is also one of the few input methods that can be used for inputting Chinese characters on certain cell phones.. On the QWERTY keyboard, the symbols are ordered columwise top-down (e.g. 1+Q+A+Z)
+Unicode
+Bopomofo was added to the Unicode Standard in October 1991 with the release of version 1.0.
+The Unicode block for Bopomofo is U+3100–U+312F:
+Additional characters were added in September 1999 with the release of version 3.0.
+The Unicode block for these additional characters, called Bopomofo Extended, is U+31A0–U+31BF:
+Unicode 3.0 also added the characters U+02EA ˪ MODIFIER LETTER YIN DEPARTING TONE MARK and U+02EB ˫ MODIFIER LETTER YANG DEPARTING TONE MARK, in the Spacing Modifier Letters block. These two characters are now (since Unicode 6.0) classified as Bopomofo characters.

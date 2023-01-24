@@ -1,0 +1,20 @@
+Nippon Telegraph and Telephone
+The Nippon Telegraph and Telephone Corporation, commonly known as NTT, is a Japanese telecommunications company headquartered in Tokyo, Japan. Ranked 55th in Fortune Global 500, NTT is the fourth largest telecommunications company in the world in terms of revenue, as well as the third largest publicly traded company in Japan after Toyota and Sony, as of June 2022.
+The company is incorporated pursuant to the NTT Law (Law Concerning Nippon Telegraph and Telephone Corporation, Etc.). The purpose of the company defined by the law is to own all the shares issued by Nippon Telegraph and Telephone East Corporation (NTT East) and Nippon Telegraph and Telephone West Corporation (NTT West) and to ensure proper and stable provision of telecommunications services all over Japan including remote rural areas by these companies as well as to conduct research relating to the telecommunications technologies that will form the foundation for telecommunications.
+On 1 July 2019, NTT Corporation launched NTT Ltd., an $11 billion de facto holding company business consisting of 28 brands from across NTT Security, NTT Communications and Dimension Data.
+While NTT is listed on the Tokyo Stock Exchange and the OTC Markets Group's Pink (and formerly in the New York Stock Exchange under the ticker code "NTT" and in the London Stock Exchange under the ticker code "NPN"), the Japanese government still owns roughly one-third of NTT's shares, regulated by the NTT Law.
+History
+Established as a state monopoly in August 1952 to take over the Japanese telecommunications system operated by AT&T during the Occupation of Japan, Nippon Telegraph and Telephone Public Corporation (日本電信電話公社, Nippon Denshin Denwa Kōsha, shortened into Den-Den Kōsha (電電公社)) was privatized in 1985 to encourage competition in the country's telecom market. In 1987, NTT made the largest stock offering to date, at US$36.8 billion.
+Because NTT owns most of Japan's last mile infrastructure (incl. FTTC or FTTB/FTTH), it enjoys oligopolistic control over land lines in Japan. In order to weaken NTT, the company was divided into a holding company (NTT) and three telecom companies (NTT East, NTT West, and NTT Communications) in 1999. The NTT Law regulating NTT East and West requires them to serve only short-distance communications and obligates them to maintain telephone service all over the country. They are also obligated to lease their unused optical fiber (dark fiber) to other carriers at regulated rates. NTT Communications is not regulated by the NTT Law.
+In July 2010, NTT and South African IT company Dimension Data Holdings announced an agreement of a cash offer from NTT for Dimension Data's entire issued share capital, in £2.12bn ($3.24bn) deal.
+In late 2010, NTT's Japan-to-US transpacific network reached 400 Gbit/s. In August 2011, its network capacity was expanded to 500 Gbit/s.
+Corporate history timeline
+Subsidiaries
+NTT Group consists of the following major companies, divided into five segments. NTT East, NTT West, NTT Communications, NTT Docomo, and NTT Data are most major subsidiaries. NTT Docomo and NTT Data are listed on the stock markets. NTT Urban Development is a subsidiary involved in real estate. NTT Communications' business outside of Japan became part of NTT Ltd. on 1 July 2019.
+Regional
+Long distance and international
+Mobile
+Data (system integration)
+Information security
+R&D laboratories
+Sponsorship

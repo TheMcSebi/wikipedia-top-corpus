@@ -1,0 +1,30 @@
+Tin(IV) oxide
+Tin(IV) oxide, also known as stannic oxide, is the inorganic compound with the formula SnO2. The mineral form of SnO2 is called cassiterite, and this is the main ore of tin. With many other names, this oxide of tin is an important material in tin chemistry. It is a colourless, diamagnetic, amphoteric solid.
+Structure
+Tin(IV) oxide crystallises with the rutile structure.  As such the tin atoms are six coordinate and the oxygen atoms three coordinate. SnO2 is usually regarded as an oxygen-deficient n-type semiconductor.
+Hydrous forms of SnO2 have been described as stannic acid. Such materials appear to be hydrated particles of SnO2 where the composition reflects the particle size.
+Preparation
+Tin(IV) oxide occurs naturally. Synthetic tin(IV) oxide is produced by burning tin metal in air. Annual production is in the range of 10 kilotons. SnO2 is reduced industrially to the metal with carbon in a reverberatory furnace at 1200–1300 °C.
+Amphoterism
+Although SnO2 is insoluble in water, it is amphoteric, dissolving in base and acid. "Stannic acid" refers to hydrated tin (IV) oxide, SnO2, which is also called "stannic oxide."
+Tin oxides dissolve in acids. Halogen acids attack SnO2 to give hexahalostannates, such as [SnI6]2−. One report describes reacting a sample in refluxing HI for many hours.
+Similarly, SnO2 dissolves in sulfuric acid to give the sulfate:
+SnO2 dissolves in strong bases to give "stannates," with the nominal formula Na2SnO3. Dissolving the solidified SnO2/NaOH melt in water gives Na2[Sn(OH)6], "preparing salt," which is used in the dye industry.
+Uses
+In conjunction with vanadium oxide, it is used as a catalyst for the oxidation of aromatic compounds in the synthesis of carboxylic acids and acid anhydrides.
+Ceramic glazes
+Tin(IV) oxide has long been used as an opacifier and as a white colorant in ceramic glazes.’The Glazer’s Book’ – 2nd edition. A.B.Searle.The Technical Press Limited. London. 1935. This has probably led to the discovery of the pigment lead-tin-yellow, which was produced using tin(IV) oxide as a compound. The use of tin(IV) oxide has been particularly common in glazes for earthenware, sanitaryware and wall tiles; see the articles tin-glazing and Tin-glazed pottery. Tin oxide remains in suspension in vitreous matrix of the fired glazes, and, with its high refractive index being sufficiently different from the matrix, light is scattered, and hence increases the opacity of the glaze. The degree of dissolution increases with the firing temperature, and hence the extent of opacity diminishes. Although dependent on the other constituents the solubility of tin oxide in glaze melts is generally low. Its solubility is increased by Na2O, K2O and B2O3, and reduced by CaO, BaO, ZnO, Al2O3, and to a limited extent PbO.
+SnO2 has been used as pigment in the manufacture of glasses, enamels and ceramic glazes. Pure SnO2 gives a milky white colour; other colours are achieved when mixed with other metallic oxides e.g. V2O5 yellow; Cr2O3 pink; and Sb2O5 grey blue.
+Dyes
+This oxide of tin has been utilized as a mordant in the dyeing process since ancient Egypt. A German by the name of Kuster first introduced its use to London in 1533 and by means of it alone, the color scarlet was produced there.
+Polishing
+Tin(IV) oxide can be used as a polishing powder, sometimes in mixtures also with lead oxide, for polishing glass, jewelry, marble and silver. Tin(IV) oxide for this use is sometimes called as "putty powder" or "jeweler's putty".
+Glass coatings
+SnO2 coatings can be applied using chemical vapor deposition, vapour deposition techniques that employ SnCl4 or organotin trihalides e.g. butyltin trichloride as the volatile agent. This technique is used to coat glass bottles with a thin (<0.1 μm) layer of SnO2, which helps to adhere a subsequent, protective polymer coating such as polyethylene to the glass.
+Thicker layers doped with Sb or F ions are electrically conducting and used in electroluminescent devices and photovoltaics.
+Gas sensing
+SnO2 is used in sensors of combustible gases including carbon monoxide detectors. In these the sensor area is heated to a constant temperature (few hundred °C) and in the presence of a combustible gas the electrical resistivity drops.
+Room temperature gas sensors are also being developed using reduced graphene oxide-SnO2 composites(e.g. for ethanol detection).
+Doping with various compounds has been investigated (e.g. with CuO). Doping with cobalt and manganese, gives a material that can be used in e.g. high voltage varistors. Tin(IV) oxide can be doped with the oxides of iron or manganese.
+References
+Further reading

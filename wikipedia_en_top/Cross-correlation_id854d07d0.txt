@@ -1,0 +1,92 @@
+Cross-correlation
+In signal processing, cross-correlation is a measure of similarity of two series as a function of the displacement of one relative to the other. This is also known as a sliding dot product or sliding inner-product. It is commonly used for searching a long signal for a shorter, known feature. It has applications in pattern recognition, single particle analysis, electron tomography, averaging, cryptanalysis, and neurophysiology. The cross-correlation is similar in nature to the convolution of two functions.  In an autocorrelation, which is the cross-correlation of a signal with itself, there will always be a peak at a lag of zero, and its size will be the signal energy.
+In probability and statistics, the term cross-correlations refers to the correlations between the entries of two random vectors $MATH$ and $MATH$, while the correlations of a random vector $MATH$ are the correlations between the entries of $MATH$ itself, those forming the correlation matrix of $MATH$. If each of $MATH$ and $MATH$ is a scalar random variable which is realized repeatedly in a time series, then the correlations of the various temporal instances of $MATH$ are known as autocorrelations of $MATH$, and the cross-correlations of $MATH$ with $MATH$ across time are temporal cross-correlations. In probability and statistics, the definition of correlation always includes a standardising factor in such a way that correlations have values between −1 and +1.
+If $MATH$ and $MATH$ are two independent random variables with probability density functions $MATH$ and $MATH$, respectively, then the probability density of the difference $MATH$ is formally given by the cross-correlation (in the signal-processing sense) $MATH$; however, this terminology is not used in probability and statistics. In contrast, the convolution $MATH$ (equivalent to the cross-correlation of $MATH$ and $MATH$) gives the probability density function of the sum $MATH$.
+Cross-correlation of deterministic signals
+
+For continuous functions $MATH$ and $MATH$, the cross-correlation is defined as:
+which is equivalent to
+where $MATH$ denotes the complex conjugate of $MATH$, and $MATH$ is called displacement or lag. For highly-correlated $MATH$ and $MATH$ which have a maximum cross-correlation at a particular $MATH$, a feature in $MATH$ at $MATH$ also occurs later in $MATH$ at $MATH$, hence $MATH$ could be described to lag $MATH$ by $MATH$.
+
+If $MATH$ and $MATH$ are both continuous periodic functions of period $MATH$, the integration from $MATH$ to $MATH$ is replaced by integration over any interval $MATH$ of length $MATH$:
+which is equivalent to
+Similarly, for discrete functions, the cross-correlation is defined as:
+which is equivalent to:
+For finite discrete functions $MATH$, the (circular) cross-correlation is defined as:
+which is equivalent to:
+For finite discrete functions $MATH$, $MATH$, the kernel cross-correlation is defined as:
+where $MATH$ is a vector of kernel functions $MATH$ and $MATH$ is an affine transform.
+Specifically, $MATH$ can be circular translation transform, rotation transform, or scale transform, etc. The kernel cross-correlation extends cross-correlation from linear space to kernel space. Cross-correlation is equivariant to translation; kernel cross-correlation is equivariant to any affine transforms, including translation, rotation, and scale, etc.
+Explanation
+As an example, consider two real valued functions $MATH$ and $MATH$ differing only by an unknown shift along the x-axis. One can use the cross-correlation to find how much $MATH$  must be shifted along the x-axis to make it identical to $MATH$. The formula essentially slides the $MATH$ function along the x-axis, calculating the integral of their product at each position. When the functions match, the value of $MATH$ is maximized. This is because when peaks (positive areas) are aligned, they make a large contribution to the integral. Similarly, when troughs (negative areas) align, they also make a positive contribution to the integral because the product of two negative numbers is positive.
+With complex-valued functions $MATH$ and $MATH$, taking the conjugate of $MATH$ ensures that aligned peaks (or aligned troughs) with imaginary components will contribute positively to the integral.
+In econometrics, lagged cross-correlation is sometimes referred to as cross-autocorrelation.: p. 74 
+Properties
+Cross-correlation of random vectors
+Definition
+
+For random vectors $MATH$ and $MATH$, each containing random elements whose expected value and variance exist, the cross-correlation matrix of $MATH$ and $MATH$ is defined by: p.337 
+and has dimensions $MATH$. Written component-wise:
+The random vectors $MATH$ and $MATH$ need not have the same dimension, and either might be a scalar value.
+Example
+For example, if $MATH$ and $MATH$ are random vectors, then $MATH$ is a $MATH$ matrix whose $MATH$-th entry is $MATH$.
+Definition for complex random vectors
+
+If $MATH$ and $MATH$ are complex random vectors, each containing random variables whose expected value and variance exist, the cross-correlation matrix of $MATH$ and $MATH$ is defined by
+where $MATH$ denotes Hermitian transposition.
+Cross-correlation of stochastic processes
+In time series analysis and statistics, the cross-correlation of a pair of random process is the correlation between values of the processes at different times, as a function of the two times. Let $MATH$ be a pair of random processes, and $MATH$ be any point in time ($MATH$ may be an integer for a discrete-time process or a real number for a continuous-time process). Then $MATH$ is the value (or realization) produced by a given run of the process at time $MATH$.
+Cross-correlation function
+
+Suppose that the process has means $MATH$ and $MATH$ and variances $MATH$ and $MATH$ at time $MATH$, for each $MATH$. Then the definition of the cross-correlation between times $MATH$ and $MATH$ is: p.392 
+where $MATH$ is the expected value operator. Note that this expression may be not defined.
+Cross-covariance function
+
+Subtracting the mean before multiplication yields the cross-covariance between times $MATH$ and $MATH$:: p.392 
+Note that this expression is not well-defined for all time series or processes, because the mean or variance may not exist.
+Definition for wide-sense stationary stochastic process
+Let $MATH$ represent a pair of stochastic processes that are jointly wide-sense stationary. Then the cross-covariance function and the cross-correlation function are given as follows.
+Cross-correlation function
+ or equivalently 
+Cross-covariance function
+ or equivalently 
+where $MATH$ and $MATH$ are the mean and standard deviation of the process $MATH$, which are constant over time due to stationarity; and similarly for $MATH$, respectively. $MATH$ indicates the expected value. That the cross-covariance and cross-correlation are independent of $MATH$ is precisely the additional information (beyond being individually wide-sense stationary) conveyed by the requirement that $MATH$ are jointly wide-sense stationary.
+The cross-correlation of a pair of jointly wide sense stationary stochastic processes can be estimated by averaging the product of samples measured from one process and samples measured from the other (and its time shifts). The samples included in the average can be an arbitrary subset of all the samples in the signal (e.g., samples within a finite time window or a sub-sampling of one of the signals). For a large number of samples, the average converges to the true cross-correlation.
+Normalization
+It is common practice in some disciplines (e.g. statistics and time series analysis) to normalize the cross-correlation function to get a time-dependent Pearson correlation coefficient. However, in other disciplines (e.g. engineering) the normalization is usually dropped and the terms "cross-correlation" and "cross-covariance" are used interchangeably.
+
+
+The definition of the normalized cross-correlation of a stochastic process is
+If the function $MATH$ is well-defined, its value must lie in the range $MATH$, with 1 indicating perfect correlation and −1 indicating perfect anti-correlation.
+
+For jointly wide-sense stationary stochastic processes, the definition is
+The normalization is important both because the interpretation of the autocorrelation as a correlation provides a scale-free measure of the strength of statistical dependence, and because the normalization has an effect on the statistical properties of the estimated autocorrelations.
+Symmetry property
+
+For jointly wide-sense stationary stochastic processes, the cross-correlation function has the following symmetry property:: p.173 
+Respectively for jointly WSS processes:
+Time delay analysis
+Cross-correlations are useful for determining the time delay between two signals, e.g., for determining time delays for the propagation of acoustic signals across a microphone array.  After calculating the cross-correlation between the two signals, the maximum (or minimum if the signals are negatively correlated) of the cross-correlation function indicates the point in time where the signals are best aligned; i.e., the time delay between the two signals is determined by the argument of the maximum, or arg max of the cross-correlation, as in
+Terminology in image processing
+Zero-normalized cross-correlation (ZNCC)
+
+
+For image-processing applications in which the brightness of the image and template can vary due to lighting and exposure conditions, the images can be first normalized. This is typically done at every step by subtracting the mean and dividing by the standard deviation. That is, the cross-correlation of a template  $MATH$ with a subimage $MATH$ is
+where $MATH$ is the number of pixels in $MATH$ and $MATH$,
+$MATH$ is the average of $MATH$ and $MATH$ is standard deviation of $MATH$.
+
+
+In functional analysis terms, this can be thought of as the dot product of two normalized vectors. That is, if
+and
+then the above sum is equal to
+where $MATH$ is the inner product and $MATH$ is the L² norm. Cauchy–Schwarz then implies that ZNCC has a range of $MATH$.
+Thus, if $MATH$ and $MATH$ are real matrices, their normalized cross-correlation equals the cosine of the angle between the unit vectors $MATH$ and $MATH$, being thus $MATH$ if and only if $MATH$ equals $MATH$ multiplied by a positive scalar.
+Normalized correlation is one of the methods used for template matching, a process used for finding instances of a pattern or object within an image. It is also the 2-dimensional version of Pearson product-moment correlation coefficient.
+Normalized cross-correlation (NCC)
+
+NCC is similar to ZNCC with the only difference of not subtracting the local mean value of intensities:
+Nonlinear systems
+Caution must be applied when using cross correlation for nonlinear systems. In certain circumstances, which depend on the properties of the input, cross correlation between the input and output of a system with nonlinear dynamics can be completely blind to certain nonlinear effects. This problem arises because some quadratic moments can equal zero and this can incorrectly suggest that there is little "correlation" (in the sense of statistical dependence) between two signals, when in fact the two signals are strongly related by nonlinear dynamics.
+See also
+References
+Further reading

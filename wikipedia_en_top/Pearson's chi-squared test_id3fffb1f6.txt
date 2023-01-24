@@ -1,0 +1,58 @@
+Pearson's chi-squared test
+Pearson's chi-squared test ($MATH$) is a statistical test applied to sets of categorical data to evaluate how likely it is that any observed difference between the sets arose by chance. It is the most widely used of many chi-squared tests (e.g., Yates, likelihood ratio, portmanteau test in time series, etc.) – statistical procedures whose results are evaluated by reference to the chi-squared distribution. Its properties were first investigated by Karl Pearson in 1900. In contexts where it is important to improve a distinction between the test statistic and its distribution, names similar to Pearson χ-squared test or statistic are used.
+It tests a null hypothesis stating that the frequency distribution of certain events observed in a sample is consistent with a particular theoretical distribution. The events considered must be mutually exclusive and have total probability 1. A common case for this is where the events each cover an outcome of a categorical variable. 
+A simple example is the hypothesis that an ordinary six-sided die is "fair" (i. e., all six outcomes are equally likely to occur.)
+Definition
+Pearson's chi-squared test is used to assess three types of comparison: goodness of fit, homogeneity, and independence.
+For all three tests, the computational procedure includes the following steps:
+Test for fit of a distribution
+Discrete uniform distribution
+In this case $MATH$ observations are divided among $MATH$ cells. A simple application is to test the hypothesis that, in the general population, values would occur in each cell with equal frequency. The "theoretical frequency" for any cell (under the null hypothesis of a discrete uniform distribution) is thus calculated as
+and the reduction in the degrees of freedom is $MATH$, notionally because the observed frequencies $MATH$ are constrained to sum to $MATH$.
+One specific example of its application would be its application for log-rank test.
+Other distributions
+When testing whether observations are random variables whose distribution belongs to a given family of distributions, the "theoretical frequencies" are calculated using a distribution from that family fitted in some standard way. The reduction in the degrees of freedom is calculated as $MATH$, where $MATH$ is the number of parameters used in fitting the distribution. For instance, when checking a three-parameter Generalized gamma distribution, $MATH$, and when checking a normal distribution (where the parameters are mean and standard deviation), $MATH$, and when checking a Poisson distribution (where the parameter is the expected value), $MATH$. Thus, there will be $MATH$ degrees of freedom, where $MATH$ is the number of categories.
+The degrees of freedom are not based on the number of observations as with a Student's t or F-distribution. For example, if testing for a fair, six-sided die, there would be five degrees of freedom because there are six categories or parameters (each number); the number of times the die is rolled does not influence the number of degrees of freedom.
+Calculating the test-statistic
+The value of the test-statistic is
+where
+The chi-squared statistic can then be used to calculate a p-value by comparing the value of the statistic to a chi-squared distribution. The number of degrees of freedom is equal to the number of cells $MATH$, minus the reduction in degrees of freedom, $MATH$.
+The result about the numbers of degrees of freedom is valid when the original data are multinomial and hence the estimated parameters are efficient for minimizing the chi-squared statistic. More generally however, when maximum likelihood estimation does not coincide with minimum chi-squared estimation, the distribution will lie somewhere between a chi-squared distribution with $MATH$ and $MATH$ degrees of freedom (See for instance Chernoff and Lehmann, 1954).
+Bayesian method
+In Bayesian statistics, one would instead use a Dirichlet distribution as conjugate prior. If one took a uniform prior, then the maximum likelihood estimate for the population probability is the observed probability, and one may compute a credible region around this or another estimate.
+Testing for statistical independence
+In this case, an "observation" consists of the values of two outcomes and the null hypothesis is that the occurrence of these outcomes is statistically independent. Each observation is allocated to one cell of a two-dimensional array of cells (called a contingency table) according to the values of the two outcomes. If there are r rows and c columns in the table, the "theoretical frequency" for a cell, given the hypothesis of independence, is
+where $MATH$ is the total sample size (the sum of all cells in the table), and
+is the fraction of observations of type i ignoring the column attribute (fraction of row totals), and
+is the fraction of observations of type j ignoring the row attribute (fraction of column totals).  The term "frequencies" refers to absolute numbers rather than already normalized values.
+The value of the test-statistic is
+Note that $MATH$ is 0 if and only if $MATH$, i.e. only if the expected and true number of observations are equal in all cells.
+Fitting the model of "independence" reduces the number of degrees of freedom by p = r + c − 1.  The number of degrees of freedom is equal to the number of cells rc, minus the reduction in degrees of freedom, p, which reduces to (r − 1)(c − 1).
+For the test of independence, also known as the test of homogeneity, a chi-squared probability of less than or equal to 0.05 (or the chi-squared statistic being at or larger than the 0.05 critical point) is commonly interpreted by applied workers as justification for rejecting the null hypothesis that the row variable is independent of the column variable.
+The alternative hypothesis corresponds to the variables having an association or relationship where the structure of this relationship is not specified.
+Assumptions
+The chi-squared test, when used with the standard approximation that a chi-squared distribution is applicable, has the following assumptions:
+A test that relies on different assumptions is Fisher's exact test; if its assumption of fixed marginal distributions is met it is substantially more accurate in obtaining a significance level, especially with few observations. In the vast majority of applications this assumption will not be met, and Fisher's exact test will be over conservative and not have correct coverage.
+Derivation
+The null distribution of the Pearson statistic with j rows and k columns is approximated by the chi-squared distribution with
+(k − 1)(j − 1) degrees of freedom.
+This approximation arises as the true distribution, under the null hypothesis, if the expected value is given by a multinomial distribution. For large sample sizes, the central limit theorem says this distribution tends toward a certain multivariate normal distribution.
+Examples
+Fairness of dice
+A 6-sided die is thrown 60 times. The number of times it lands with 1, 2, 3, 4, 5 and 6 face up is 5, 8, 9, 8, 10 and 20, respectively. Is the die biased, according to the Pearson's chi-squared test at a significance level of 95% and/or 99%?
+The null hypothesis is that the die is unbiased, hence each number is expected to occur the same number of times, in this case, 60/n = 10. The outcomes can be tabulated as follows:
+We then consult an Upper-tail critical values of chi-square distribution table, the tabular value refers to the sum of the squared variables each divided by the expected outcomes. For the present example, this means
+$MATH$
+This is the experimental result whose unlikeliness (with a fair die) we wish to estimate. 
+The experimental sum of 13.4 is between the critical values of 97.5% and 99% significance or confidence (p-value). Specifically, getting 20 rolls of 6, when the expectation is only 10 such values, is unlikely with a fair die.
+Goodness of fit
+In this context, the frequencies of both theoretical and empirical distributions are unnormalised counts, and for a chi-squared test the total sample sizes $MATH$ of both these distributions (sums of all cells of the corresponding contingency tables) have to be the same.
+For example, to test the hypothesis that a random sample of 100 people has been drawn from a population in which men and women are equal in frequency, the observed number of men and women would be compared to the theoretical frequencies of 50 men and 50 women. If there were 44 men in the sample and 56 women, then
+If the null hypothesis is true (i.e., men and women are chosen with equal probability), the test statistic will be drawn from a chi-squared distribution with one degree of freedom (because if the male frequency is known, then the female frequency is determined).
+Consultation of the chi-squared distribution for 1 degree of freedom shows that the probability of observing this difference (or a more extreme difference than this) if men and women are equally numerous in the population is approximately 0.23. This probability is higher than conventional criteria for statistical significance (0.01 or 0.05), so normally we would not reject the null hypothesis that the number of men in the population is the same as the number of women (i.e., we would consider our sample within the range of what we would expect for a 50/50 male/female ratio.)
+Problems
+The approximation to the chi-squared distribution breaks down if expected frequencies are too low. It will normally be acceptable so long as no more than 20% of the events have expected frequencies below 5. Where there is only 1 degree of freedom, the approximation is not reliable if expected frequencies are below 10. In this case, a better approximation can be obtained by reducing the absolute value of each difference between observed and expected frequencies by 0.5 before squaring; this is called Yates's correction for continuity.
+In cases where the expected value, E, is found to be small (indicating a small underlying population probability, and/or a small number of observations), the normal approximation of the multinomial distribution can fail, and in such cases it is found to be more appropriate to use the G-test, a likelihood ratio-based test statistic.  When the total sample size is small, it is necessary to use an appropriate exact test, typically either the binomial test or, for contingency tables, Fisher's exact test. This test uses the conditional distribution of the test statistic given the marginal totals, and thus assumes that the margins were determined before the study; alternatives such as Boschloo's test which do not make this assumption are uniformly more powerful.
+It can be shown that the $MATH$ test is a low order approximation of the $MATH$ test. The above reasons for the above issues become apparent when the higher order terms are investigated.
+See also
+Notes

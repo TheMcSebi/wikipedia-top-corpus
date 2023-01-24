@@ -1,0 +1,24 @@
+Acetylacetone
+Acetylacetone is an organic compound with the chemical formula CH3COCH2COCH3.  It is a colorless liquid, classified as a 1,3-diketone.  It exists in equilibrium with a tautomer CH3C(O)CH=(OH)CH3.  These tautomers interconvert so rapidly under most conditions that they are treated as a single compound in most applications.  It is a colorless liquid that is a precursor to acetylacetonate anion (commonly abbreviated acac−), a bidentate ligand. It is also a building block for the synthesis of heterocyclic compounds.
+Properties
+Tautomerism
+The keto and enol tautomers of acetylacetone coexist in solution. The enol form has C2v symmetry, meaning the hydrogen atom is shared equally between the two oxygen atoms. In the gas phase, the equilibrium constant, Kketo→enol, is 11.7, favoring the enol form. The two tautomeric forms can be distinguished by NMR spectroscopy, IR spectroscopy and other methods.
+
+
+The equilibrium constant tends to be high in nonpolar solvents; when k = >1, the enol form is favoured. The keto form becomes more favourable in polar, hydrogen-bonding solvents, such as water. The enol form is a vinylogous analogue of a carboxylic acid.
+Acid–base properties
+Acetylacetone is a weak acid:
+IUPAC recommended pKa values for this equilibrium in aqueous solution at 25 °C are 8.99 ± 0.04 (I = 0), 8.83 ± 0.02 (I = 0.1 M NaClO4) and 9.00 ± 0.03 (I = 1.0 M NaClO4; I = Ionic strength). Values for mixed solvents are available. Very strong bases, such as organolithium compounds, will deprotonate acetylacetone twice. The resulting dilithium species can then be alkylated at C-1.
+Preparation
+Acetylacetone is prepared industrially by the thermal rearrangement of isopropenyl acetate.
+Laboratory routes to acetylacetone also begin with acetone. Acetone and acetic anhydride upon the addition of boron trifluoride (BF3) catalyst:
+A second synthesis involves the base-catalyzed condensation of acetone and ethyl acetate, followed by acidification:
+Because of the ease of these syntheses, many analogues of acetylacetonates are known. Some examples include benzoylacetone, dibenzoylmethane (dbaH) and tert-butyl analogue tetramethyl-3,5-heptanedione. Trifluoroacetylacetone and hexafluoroacetylacetonate are also used to generate volatile metal complexes.
+Reactions
+Condensations
+Acetylacetone is a versatile bifunctional precursor to heterocycles because both keto groups undergo condensation. Hydrazine reacts to produce pyrazoles. Urea gives pyrimidines. Condensation with two aryl- and alkylamines to gives NacNacs, wherein the oxygen atoms in acetylacetone are replaced by NR (R = aryl, alkyl).
+Coordination chemistry
+Sodium acetylacetonate, Na(acac), is the precursor to many acetylacetonate complexes. A general method of synthesis is to treat a metal salt with acetylacetone in the presence of a base:
+Both oxygen atoms bind to the metal to form a six-membered chelate ring. In some cases the chelate effect is so strong that no added base is needed to form the complex.
+Biodegradation
+The enzyme acetylacetone dioxygenase cleaves the carbon-carbon bond of acetylacetone, producing acetate and 2-oxopropanal. The enzyme is iron(II)-dependent, but it has been proven to bind to zinc as well. Acetylacetone degradation has been characterized in the bacterium Acinetobacter johnsonii.

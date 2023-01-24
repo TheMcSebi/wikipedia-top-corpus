@@ -1,0 +1,22 @@
+Isoflurane
+Isoflurane, sold under the brand name Forane among others, is a general anesthetic. It can be used to start or maintain anesthesia; however, other medications are often used to start anesthesia rather than isoflurane, due to airway irritation with isoflurane. Isoflurane is given via inhalation.
+Side effects of isoflurane include a decreased ability to breathe (respiratory depression), low blood pressure, and an irregular heartbeat. Serious side effects can include malignant hyperthermia or high blood potassium. It should not be used in patients with a history of malignant hyperthermia in either themselves or their family members. It is unknown if its use during pregnancy is safe for the fetus, but use during a cesarean section appears to be safe. Isoflurane is a halogenated ether.
+Isoflurane was approved for medical use in the United States in 1979. It is on the World Health Organization's List of Essential Medicines.
+Medical uses
+Isoflurane is always administered in conjunction with air or pure oxygen. Often, nitrous oxide is also used. Although its physical properties imply that anaesthesia can be induced more rapidly than with halothane, its pungency can irritate the respiratory system, negating any possible advantage conferred by its physical properties. Thus, it is mostly used in general anesthesia as a maintenance agent after induction of general anesthesia with an intravenous agent such as thiopentone or propofol.
+Adverse effects
+Isoflurane can cause a sudden decrease in blood pressure due to dose-dependent peripheral vasodilation. This may be specially marked in hypovolemic patients.
+Animal studies have raised safety concerns of certain general anesthetics, in particular ketamine and isoflurane, in young children. The risk of neurodegeneration was increased in combination of these agents with nitrous oxide and benzodiazepines such as midazolam. Whether these concerns occur in humans is unclear.
+Elderly
+Biophysical studies using NMR spectroscopy has provided molecular details of how inhaled anesthetics interact with three amino acid residues (G29, A30 and I31) of amyloid beta peptide and induce aggregation. This area is important as "some of the commonly used inhaled anesthetics may cause brain damage that accelerates the onset of Alzheimer's disease".
+Physical properties
+It is administered as a racemic mixture of (R)- and (S)-optical isomers. Isoflurane has a melting point of 48 - 48.5°Celsius (118 - 119°Fahrenheit) and a boiling point of 48.5 - 49 °C (119 - 120 °F). It is non-combustible but can give off irritable and toxic fumes when exposed to flame.
+Mechanism of action
+Similar to many general anesthetics, the exact mechanism of the action has not been clearly delineated. Isoflurane reduces pain sensitivity (analgesia) and relaxes muscles. Isoflurane likely binds to GABA, glutamate and glycine receptors, but has different effects on each receptor. Isoflurane acts as a positive allosteric modulator of the GABAA receptor in electrophysiology studies of neurons and recombinant receptors. It potentiates glycine receptor activity, which decreases motor function. It inhibits receptor activity in the NMDA glutamate receptor subtypes. Isoflurane inhibits conduction in activated potassium channels. Isoflurane also affects intracellular molecules. It inhibits plasma membrane calcium ATPases (PMCAs) which affects membrane fluidity by hindering the flow of Ca2+ (calcium ions) out across the membrane, this in turn affects neuron depolarization. It binds to the D subunit of ATP synthase and NADH dehydrogenase.
+General anaesthesia with isoflurane reduces plasma endocannabinoid AEA concentrations, and this could be a consequence of stress reduction after loss of consciousness.
+History
+Together with enflurane and halothane, Isoflurane began to replace the flammable ethers used in the pioneer days of surgery; this shift began in the 1940s to the 1950s. Its name comes from being a structural isomer of enflurane, hence they have the same empirical formula.
+Environment
+The average lifetime of isoflurane in the atmosphere is 3.2 years, its global warming potential is 510 and the yearly emissions add up to 880 tons.
+Veterinary use
+Isoflurane is frequently used for veterinary anaesthesia.

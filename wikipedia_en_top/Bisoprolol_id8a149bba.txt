@@ -1,0 +1,32 @@
+Bisoprolol
+Bisoprolol, sold under the brand name Zebeta among others, is a beta blocker medication used for heart diseases. This includes tachyarrhythmias, high blood pressure, chest pain from not enough blood flow to the heart, and heart failure. It is taken by mouth.
+Common side effects include headache, feeling tired, diarrhea, and swelling in the legs. More severe side effects include worsening asthma, blocking the ability to recognize low blood sugar, and worsening heart failure. There are concerns that use during pregnancy may be harmful to the baby. Bisoprolol is in the beta blocker family of medications and is of the β1 selective type.
+Bisoprolol is on the World Health Organization's List of Essential Medicines. Bisoprolol is available as a generic medication. In 2020, it was the 267th most commonly prescribed medication in the United States, with more than 1 million prescriptions.
+Medical uses
+Bisoprolol is currently used for prevention of cardiovascular events following a heart attack in patients with risk factors for disease progression, in the management of congestive heart failure with reduced ejection fraction, and as a second-line agent for hypertension.
+Bisoprolol may be beneficial in the treatment of high blood pressure, but it is not recommended as a first-line anti-hypertensive agent without an accompanying comorbid condition, for example, congestive heart failure.
+In cardiac ischemia, the drug is used to reduce the activity of the heart muscle, thereby reducing its oxygen and nutrient demands and allowing its reduced blood supply to still transport sufficient amounts of oxygen and nutrients to meet its needs.
+Side effects
+An overdose of bisoprolol can lead to fatigue, hypotension, hypoglycemia, bronchospasms, and bradycardia. Bronchospasms and hypoglycemia occur because at high doses, the drug can be an antagonist for β2 adrenergic receptors located in the lungs and liver. Bronchospasm occurs due to the blockage of β2 receptors in the lungs. Hypoglycemia occurs due to decreased stimulation of glycogenolysis and gluconeogenesis in the liver via β2 receptors.
+Cautions
+Non-selective beta-blockers should be avoided in people with asthma or bronchospasm as they may cause exacerbations and worsening of symptoms. A β1 selective beta-blocker like bisoprolol may be cautiously tried in those with controlled, mild-to-moderate asthma with cardiac comorbidities. A 2014 meta-analysis found that cardioselective beta-blockers may cause detrimental changes in lung function and partially blunts β2-agonist response. However, a 2017 control study found no significant association with asthma exacerbations by dose and exposure duration while a 2020 clinical trial found bisoprolol being non-inferior to placebo in bronchodilator response to salbutamol.
+Pharmacology
+Mechanism of action
+Bisoprolol is cardioprotective because it selectively and competitively blocks catecholamine (adrenaline) stimulation of β1 adrenergic receptors (adrenoreceptors), which are mainly found in the heart muscle cells and heart conduction tissue (cardiospecific), but also found in juxtaglomerular cells in the kidney. Normally, adrenaline and noradrenaline stimulation of the β1 adrenoreceptor activates a signalling cascade (Gs protein and cAMP) which ultimately leads to increased myocardial contractility and increased heart rate of the heart muscle and heart pacemaker, respectively. Bisoprolol competitively blocks the activation of this cascade, so decreases the adrenergic tone/stimulation of the heart muscle and pacemaker cells. Decreased adrenergic tone shows less contractility of heart muscle and lowered heart rate of pacemakers.
+β1-selectivity
+Bisoprolol β1-selectivity is especially important in comparison to other nonselective beta blockers. The effects of the drug are limited to areas containing β1 adrenoreceptors, which is mainly the heart and part of the kidney. Bisoprolol, whilst β1 adrenoceptor selective can help patients to avoid certain side-effects associated with non-selective beta-blocker activity at additional adrenoceptors (α1 and β2), it does not signify its superiority in treating beta-blocker indicated cardiac conditions such as heart failure but could prove beneficial to patients with specific comorbidities.
+Bisoprolol has a higher degree of β1-selectivity compared to atenolol, metoprolol and betaxolol. With a selectivity ranging from being 11-15 times more selective for β1over β2  However nebivolol is approximately 3.5 times more β1-selective.
+Renin-angiotensin system
+Bisoprolol inhibits renin secretion by about 65% and tachycardia by about 30%.
+Pharmacokinetics
+After ingestion, bisoprolol is absorbed and has a high bioavailability of approximately 90% with plasma half-life of 10-12 hours. When being eliminated, the body evenly distributes it (50–50) between kidney excretion and liver biotransformation (then excreted).
+Bisoprolol has both lipid- and water-soluble properties.
+The plasma protein binding of bisoprolol is approximately 35%, the volume of distribution is 3.5 L/kg and the total clearance is approximately 15 L/h. Bisoprolol is eliminated from the body in two ways - 50% of the substance is converted in the liver to inactive metabolites, which are then excreted in the kidneys. The remaining 50% is eliminated unchanged via the kidneys. Since elimination is equal in liver and kidney, no dose adjustment is required in patients with hepatic or renal impairment.
+The pharmacokinetics of bisoprolol are linear and independent of age.
+In patients with chronic heart failure (NYHA stage III), the plasma level of bisoprolol is higher and the half-life is longer than in healthy subjects. At a daily dose of 10 mg, the steady-state peak plasma concentration is 64±21 ng/mL and the half-life is 17±5 hours.
+History
+Bisoprolol was patented in 1976 and approved for medical use in 1986. It was approved for medical use in the United States in 1992.
+Brand names
+In India, it is sold under trade name Bisotab and is available in 2 strengths of 2.5 mg and 5 mg.
+In Italy, it is sold under trade name Congescor and is available in 6 strengths of 1.25 mg, 2.5 mg, 3.75 mg, 5 mg, 7.5 mg and 10 mg.
+In Germany and Eastern Europe bisoprolol is marketed as Bisoprolol-ratiopharm by Ratiopharm (Teva).

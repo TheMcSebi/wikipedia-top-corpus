@@ -1,0 +1,53 @@
+Shellshock (software bug)
+Shellshock, also known as Bashdoor, is a family of security bugs in the Unix Bash shell, the first of which was disclosed on 24 September 2014. Shellshock could enable an attacker to cause Bash to execute arbitrary commands and gain unauthorized access to many Internet-facing services, such as web servers, that use Bash to process requests.
+On 12 September 2014, Stéphane Chazelas informed Bash's maintainer Chet Ramey of his discovery of the original bug, which he called "Bashdoor". Working with security experts, Mr. Chazelas developed a patch (fix) for the issue, which by then had been assigned the vulnerability identifier CVE-2014-6271. The existence of the bug was announced to the public on 2014-09-24, when Bash updates with the fix were ready for distribution.
+The bug Chazelas discovered caused Bash to unintentionally execute commands when the commands are concatenated to the end of function definitions stored in the values of environment variables. Within days of its publication, a variety of related vulnerabilities were discovered (CVE-2014-6277, CVE-2014-6278, CVE-2014-7169, CVE-2014-7186 and CVE-2014-7187). Ramey addressed these with a series of further patches.
+Attackers exploited Shellshock within hours of the initial disclosure by creating botnets of compromised computers to perform distributed denial-of-service attacks and vulnerability scanning. Security companies recorded millions of attacks and probes related to the bug in the days following the disclosure.
+Because of the potential to compromise millions of unpatched systems, Shellshock was compared to the Heartbleed bug in its severity.
+Background
+The Shellshock bug affects Bash, a program that various Unix-based systems use to execute command lines and command scripts. It is often installed as the system's default command-line interface. Analysis of the source code history of Bash shows the bug was introduced on 5 August 1989, and released in Bash version 1.03 on 1 September 1989.
+Shellshock is an arbitrary code execution vulnerability that offers a way for users of a system to execute commands that should be unavailable to them. This happens through Bash's "function export" feature, whereby one Bash process can share command scripts with other Bash processes that it executes. This feature is implemented by encoding the scripts in a table that is shared between the processes, known as the environment variable list. Each new Bash process scans this table for encoded scripts, assembles each one into a command that defines that script in the new process, and executes that command. The new process assumes that the scripts found in the list come from another Bash process, but it cannot verify this, nor can it verify that the command that it has built is a properly formed script definition. Therefore, an attacker can execute arbitrary commands on the system or exploit other bugs that may exist in Bash's command interpreter, if the attacker has a way to manipulate the environment variable list and then cause Bash to run. At the time the bug was discovered, Bash was installed on macOS and many Linux operating systems as the main command interpreter, so that any program that used the system function to run any other program would use Bash to do so.
+The presence of the bug was announced to the public on 2014-09-24, when Bash updates with the fix were ready for distribution, though it took some time for computers to be updated to close the potential security issue.
+Reports of attacks
+Within an hour of the announcement of the Bash vulnerability, there were reports of machines being compromised by the bug. By 25 September 2014, botnets based on computers compromised with exploits based on the bug were being used by attackers for distributed denial-of-service (DDoS) attacks and vulnerability scanning. Kaspersky Labs reported that machines compromised in an attack, dubbed "Thanks-Rob", were conducting DDoS attacks against three targets, which they did not identify. On 26 September 2014, a Shellshock-related botnet dubbed "wopbot" was reported, which was being used for a DDoS attack against Akamai Technologies and to scan the United States Department of Defense.
+On 26 September, the security firm Incapsula noted 17,400 attacks on more than 1,800 web domains, originating from 400 unique IP addresses, in the previous 24 hours; 55% of the attacks were coming from China and the United States. By 30 September, the website performance firm CloudFlare said it was tracking approximately 1.5 million attacks and probes per day related to the bug.
+On 6 October, it was widely reported that Yahoo! servers had been compromised in an attack related to the Shellshock issue.
+Yet the next day, it was denied that it had been Shellshock that specifically had allowed these attacks.
+Specific exploitation vectors
+Reported vulnerabilities
+Overview
+The maintainer of Bash was warned about the first discovery of the bug on 2014-09-12; a fix followed soon. A few companies and distributors were informed before the matter was publicly disclosed on 2014-09-24 with CVE identifier CVE-2014-6271. However, after the release of the patch there were subsequent reports of different, yet related vulnerabilities.
+On 26 September 2014, two open-source contributors, David A. Wheeler and Norihiro Tanaka, noted that there were additional issues, even after patching systems using the most recently available patches.  In an email addressed to the oss-sec and bash-bug mailing lists, Wheeler wrote: "This patch just continues the 'whack-a-mole' job of fixing parsing errors that began with the first patch. Bash's parser is certain [to] have many many many other vulnerabilities".
+On 27 September 2014, Michał Zalewski from Google Inc. announced his discovery of other Bash vulnerabilities, one based upon the fact that Bash is typically compiled without address space layout randomization. On 1 October, Zalewski released details of the final bugs and confirmed that a patch by Florian Weimer from Red Hat posted on 25 September does indeed prevent them. He has done that using a fuzzing technique with the aid of software utility known as american fuzzy lop.
+Initial report (CVE-2014-6271)
+This original form of the vulnerability (CVE-2014-6271) involves a specially crafted environment variable containing an exported function definition, followed by arbitrary commands. Bash incorrectly executes the trailing commands when it imports the function. The vulnerability can be tested with the following command:
+In systems affected by the vulnerability, the above commands will display the word "vulnerable" as a result of Bash executing the command "echo vulnerable", which was embedded into the specially crafted environment variable named "x".
+CVE-2014-6277
+Discovered by Michał Zalewski, the vulnerability CVE-2014-6277, which relates to the parsing of function definitions in environment variables by Bash, can cause a segfault.
+CVE-2014-6278
+Also discovered by Michał Zalewski, this bug (CVE-2014-6278) relates to the parsing of function definitions in environment variables by Bash.
+CVE-2014-7169
+On the same day the original vulnerability was published, Tavis Ormandy discovered this related bug (CVE-2014-7169), which is
+demonstrated in the following code:
+On a vulnerable system, this would execute the command "date" unintentionally.
+Here is an example of a system that has a patch for CVE-2014-6271 but not CVE-2014-7169:
+The system displays syntax errors, notifying the user that CVE-2014-6271 has been prevented, but still writes a file named 'echo', into the working directory, containing the result of the 'date' call.
+A system patched for both CVE-2014-6271 and CVE-2014-7169 will simply echo the word "date" and the file "echo" will not be created, as shown below:
+CVE-2014-7186
+Florian Weimer and Todd Sabin found this bug (CVE-2014-7186), which relates to an out-of-bounds memory access error in the Bash parser code.
+An example of the vulnerability, which leverages the use of multiple "<<EOF" declarations (nested "here documents"):
+A vulnerable system will echo the text "CVE-2014-7186 vulnerable, redir_stack".
+CVE-2014-7187
+Also found by Florian Weimer, CVE-2014-7187 is an off-by-one error in the Bash parser code, allowing out-of-bounds memory access.
+An example of the vulnerability, which leverages the use of multiple "done" declarations:
+A vulnerable system will echo the text "CVE-2014-7187 vulnerable, word_lineno".  This test requires a shell that supports brace expansion.
+Patches
+Until 24 September 2014, Bash maintainer Chet Ramey provided a patch version bash43-025 of Bash 4.3 addressing CVE-2014-6271, which was already packaged by distribution maintainers. On 24 September, bash43-026 followed, addressing CVE-2014-7169.
+Then CVE-2014-7186 was discovered. Florian Weimer from Red Hat posted some patch code for this "unofficially" on 25 September,
+which Ramey incorporated into Bash as bash43-027.—These patches provided source code only, helpful only for those who know how to compile ("rebuild") a new Bash binary executable file from the patch file and remaining source code files. The patches added a variable name prefix when functions are exported; this prevented arbitrary variables from triggering the vulnerability and enabled other programs to remove Bash functions from the environment.
+The next day, Red Hat officially presented according updates for Red Hat Enterprise Linux, after another day for Fedora 21.
+Canonical Ltd. presented updates for its Ubuntu Long Term Support versions on Saturday, 27 September;
+on Sunday, there were updates for SUSE Linux Enterprise.
+The following Monday and Tuesday at the end of the month, Mac OS X updates appeared.
+On 1 October 2014, Michał Zalewski from Google Inc. finally stated that Weimer's code and bash43-027 had fixed not only the first three bugs but even the remaining three that were published after bash43-027, including his own two discoveries. This means that after the earlier distribution updates, no other updates have been required to cover all the six issues.
+All of them have also been covered for the IBM Hardware Management Console.

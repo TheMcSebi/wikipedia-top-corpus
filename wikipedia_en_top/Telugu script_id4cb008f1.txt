@@ -1,0 +1,29 @@
+Telugu script
+Telugu script (Telugu: తెలుగు లిపి, romanized: Telugu lipi), an abugida from the Brahmic family of scripts, is used to write the Telugu language, a Dravidian language spoken in the Indian states of Andhra Pradesh and Telangana as well as several other neighbouring states. The Telugu script is also widely used for writing Sanskrit texts and to some extent the Gondi language. It gained prominence during the Eastern Chalukyas also known as Vengi Chalukya era. It shares extensive similarities with the Kannada script, as they both evolved from the Kadamba and Bhattiprolu scripts of the Brahmi family. In 2008, the Telugu language was given the status of a Classical Language of India, in recognition of its rich history and heritage.
+History
+The Brahmi script used by Mauryan kings eventually reached the Krishna River delta and would give rise to the Bhattiprolu script found on an urn purported to contain Lord Buddha's relics. Buddhism spread to East Asia from the nearby ports of Ghantasala and Masulipatnam (ancient Maisolos of Ptolemy and Masalia of Periplus). The Bhattiprolu Brahmi script evolved into the Kadamba script by the 5th century, which in turn developed into the Kannada-Telugu script (or old Kannada script) after the 7th century. The Kannada and Telugu scripts then separated by around 1300 C.E.
+The Muslim historian and scholar Al-Biruni referred to both the Telugu language as well as its script as "Andhri".
+Vowels
+Telugu uses eighteen vowels, each of which has both an independent form and a diacritic form used with consonants to create syllables. The language makes a distinction between short and long vowels.
+The independent form is used when the vowel occurs at the beginning of a word or syllable, or is a complete syllable in itself (example: a, u, o). The diacritic form is added to consonants (represented by the dotted circle) to form a consonant-vowel syllable (example: ka, kr̥, mo). అ does not have a diacritic form, because this vowel is already inherent in all of the consonants. The other diacritic vowels are added to consonants to change their pronunciation to that of the vowel.
+Examples:
+Consonants
+Other diacritics
+There are also several other diacritics used in the Telugu script. ్ mutes the vowel of a consonant, so that only the consonant is pronounced. ం and ఁ nasalize the vowels or syllables to which they are attached. ః adds a voiceless breath after the vowel or syllable it is attached to.
+Examples:
+Places of articulation
+There are five classifications of passive articulations:
+Apart from that, other places are combinations of the above five: 
+There are three places of active articulation:
+The attempt of articulation of consonants (Uccāraṇa Prayatnam) is of two types,
+Articulation of consonants
+Articulation of consonants is the logical combination of components in the two prayatnams. The below table gives a view upon articulation of consonants.
+The Telugu script has generally regular conjuncts, with trailing consonants taking a subjoined form, often losing the tallakattu (the v-shaped headstroke). The following table shows all two-consonant conjuncts and one three-consonant conjunct, but individual conjuncts may differ between fonts.
+Numerals
+NOTE: ౹, ౺, and ౻ are used also for 1⁄64, 2⁄64, 3⁄64, 1⁄1024, etc. and ౼, ౽, and ౾ are also used for 1⁄256, 2⁄256, 3⁄256, 1⁄4096, etc.
+Unicode
+Telugu script was added to the Unicode Standard in October, 1991 with the release of version 1.0.
+The Unicode block for Telugu is U+0C00–U+0C7F:
+In contrast to a syllabic script such as katakana, where one Unicode code point represents the glyph for one syllable, Telugu combines multiple code points to generate the glyph for one syllable, using complex font rendering rules.
+iOS character crash bug
+On February 12, 2018 a bug in the iOS operating system was reported that caused iOS devices to crash if a particular Telugu character was displayed. The character is a combination of the characters "జ", "్", "ఞ", "ా" and The Zero-Width Non-Joiner character which looks combined like this "జ్ఞా". Apple confirmed a fix for iOS 11.3 and macOS 10.13.4.

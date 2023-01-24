@@ -1,0 +1,109 @@
+Meitei language
+Meitei (/ˈmeɪteɪ/), also known as Manipuri (/ˌmænɪˈpʊəri/, /mʌ-/), is a Tibeto-Burman language of north-eastern India. It is spoken by around 1.8 million people, predominantly in the state of Manipur, but also by smaller communities in the rest of the country and in parts of neighbouring Myanmar and Bangladesh. It is native to the Meitei people, and within Manipur it serves as an official language and a lingua franca. It was used as a court language in the historic Manipur Kingdom and is presently included among the 22 scheduled languages of India.
+
+
+Meitei is a tonal language whose exact classification within Sino-Tibetan remains unclear. It has lexical resemblances to Kuki and Tangkhul.
+Meitei is the most widely spoken Indian Sino-Tibetan language and the most spoken language in northeast India after Bengali and Assamese.
+There are 1.76 million Meitei speakers in India according to the 2011 census. The majority of these, or 1.52 million, are found in the state of Manipur, where they represent just over half of its population. There are smaller communities in neighbouring Indian states, such as Assam (168,000), Tripura (24,000), Nagaland (9,500), and elsewhere in the country (37,500). Additionally, there are around 200,000 L2 speakers. The language is also spoken by smaller groups in neighbouring Myanmar and Bangladesh. Meitei is not endangered: its status has been assessed as safe in Ethnologue (where it is assigned to EGIDS level 2 "provincial language"), but is considered vulnerable in UNESCO's Atlas of the World's Languages in Danger.
+Name
+The name Meitei or its alternate spelling Meithei is preferred by many native speakers of Meitei over Manipuri. The term is derived from the Meitei word for the language Meitheirón (Meithei + -lon 'language', pronounced /mə́i.təi.lón/). Meithei may be a compound from mí 'man' + they 'separate'. This term is used by most Western linguistic scholarship. Meitei scholars use the term Meit(h)ei when writing in English and the term Meitheirón when writing in Meitei. Chelliah (2015: 89) notes that the Meitei spelling has replaced the earlier Meithei spelling.
+The language (and people) is also referred to by the loconym Manipuri. The term is derived from name of the state of Manipur. Manipuri is the official name of the language for the Indian government and is used by government institutions and non-Meitei authors. The term Manipuri is also used to refer to the different languages of Manipur and people. Additionally, Manipuri, being a loconym, can refer to anything pertaining to Manipur state.
+The term Meetei is used by Meitei speakers who want political autonomy from India, so-called "revivalists".
+Speakers of Meitei language are known as "Kathe" by the Burmese people, "Moglie" or "Mekhlee" by the people of Cachar, Assam (Kacharis and Assamese) and "Cassay" by the Shan people and the other people living in the east of the Ningthee River (or Khyendwen River). "Ponna" is the Burmese term used to refer to the Meiteis living inside Burma.
+Dialects
+The Meitei language exhibits a degree of regional variation; however, in recent years the broadening of communication, as well as intermarriage, has caused the dialectal differences to become relatively insignificant. The only exceptions to this occurrence are the speech differences of the dialects found in Tripura, Bangladesh and Myanmar. The exact number of dialects of Meitei is unknown.
+The three main dialects of Meitei are: Meitei proper, Loi and Pangal. Differences between these dialects are primarily characterised by the extensions of new sounds and tonal shifts. Meitei proper is considered to be the standard variety—and is viewed as more dynamic than the other two dialects. The brief table below compares some words in these three dialects:
+Devi (2002) compares the Imphal, Andro, Koutruk, and Kakching dialects of Meitei.
+Status
+Meitei is the sole official language of the Government of Manipur. It is used for all official purposes, except for some interstate cases. Meitei is included among the languages that stand apart of the Eighth Schedule to the Constitution of India, thus granting it the status of a "scheduled language".
+It was the court language of the historic Manipur Kingdom (Meeteileipak), and was declared as such in the kingdom's 1947 Constitution, before it merged into the Indian Republic.
+Meitei was recognised by the National Sahitya Akademi as one of the major Indian languages in 1972.
+The Meitei language has been recognised (under the name Manipuri) by the Indian Union and was included in the list of scheduled languages (included in the 8th schedule by the 71st amendment of the constitution in 1992). It has been recognised by the National Sahitya Academy for its rich literary traditions. Besides being a medium of instructions in the educational institutions in Manipur,  it is taught as a subject up to the post-graduate level (Ph.D.) in major universities of India, including Jawaharlal Nehru University, Delhi University, Gauhati University, and University of North Bengal.
+In the modern era, several Meitei language movements have been in existence, including the linguistic purism movement, scheduled language movement, classical language movement, associate official language movement. There is a proposal for the language to be granted the elite status of "Classical Languages of India". Besides, it is also proposed to be recognised as an "associate official language" of the Government of Assam. According to Leishemba Sanajaoba, the present titular king of Manipur and a Member of Parliament, Rajya Sabha from Manipur state, by recognising Meitei as an associate official language of Assam, the identity, history, culture and tradition of Manipuris residing in Assam could be able to get protected and preserved.
+Phonology
+Tone
+The Meitei language is a tonal language. There is a controversy over whether there are two or three tones.
+Segments
+Meitei distinguishes the following phonemes:
+Consonants
+Vowels
+Note: the central vowel /ɐ/ is transcribed as <ə> in recent linguistic work on Meitei. However, phonetically it is never [ə], but more usually [ɐ]. It is assimilated to a following approximant: /ɐw/ = /ow/, /ɐj/ = [ej].
+Phonological processes
+A velar deletion is noted to occur on the suffix -lək when following a syllable ending with a /k/ phoneme.
+Meitei has a dissimilatory process similar to Grassmann's law found in Ancient Greek and Sanskrit, though occurring on the second aspirate. Here, an aspirated consonant is deaspirated if preceded by an aspirated consonant (including /h/, /s/) in the previous syllable. The deaspirated consonants are then voiced between sonorants.
+/tʰin-/
+pierce
++
+ 
+/-kʰət/
+upward
+→
+ 
+/tʰinɡət/
+pierce upwards
+/tʰin-/ + /-kʰət/ → /tʰinɡət/
+pierce {} upward {} {pierce upwards}
+/səŋ/
+cow
++
+ 
+/kʰom/
+udder
+→
+ 
+/səŋɡom/
+milk
+/səŋ/ + /kʰom/ → /səŋɡom/
+cow {} udder {} milk
+/hi-/
+trim
++
+ 
+/-tʰok/
+outward
+→
+ 
+/hidok/
+trim outwards
+/hi-/ + /-tʰok/ → /hidok/
+trim {} outward {} {trim outwards}
+Writing systems
+Meitei script
+Meitei has its own script, which was used until the 18th century. Its earliest use is not known. Pamheiba, the ruler of the Manipur Kingdom who introduced Hinduism, banned the use of the Meitei script and adopted the Bengali script. Now in schools and colleges, the Bengali script is gradually being replaced by the Meitei script. The local organisations have played a major role in spreading awareness about their own script.
+Many Meitei documents were destroyed at the beginning of the 18th century during the reign of Hindu converted King Pamheiba, under the instigation of the Bengali Hindu missionary, Shantidas Gosai.
+Between 1709 and the middle of the 20th century, the Meitei language was written using the Bengali script. During the 1940s and 1950s, Meitei scholars began campaigning to bring back the Old Meitei (Old Manipuri) alphabet. In 1976 at a writers conference, all the scholars finally agreed on a new version of the alphabet containing a number of additional letters to represent sounds not present in Meitei when the script was first developed. The current Meitei alphabet is a reconstruction of the ancient Meitei script.
+Since the early 1980s, the Meitei alphabet has been taught in schools in Manipur
+It is a syllabic alphabet in which consonants all have an inherent vowel /a/. Other vowels are written as independent letters or by using diacritical marks that are written above, below, before or after the consonant they belong to. Each letter is named after a part of the human body.
+Latin script
+There exists an informal, but fairly consistent practical spelling of Meitei in Latin script. This spelling is used in the transcription of personal names and place names, and it is extensively used on the internet (Facebook, blogspots, etc.). It is also found in academic publications, for the spelling of Meitei book titles and the like (examples can be seen in the References, below). This spelling, on the whole, offers a transparent, unambiguous representation of the Meitei sound system, although the tones are usually not marked. It is practical in the sense that it does not use extra-alphabetical symbols, and can, therefore, be produced easily on any standard keyboard. The only point of ambiguity is found in the spelling of the vowels /ɐ/ and /a/, which are usually both written "a", except when they occur before an approximant (see table below). The vowel /a/ is sometimes written as "aa" to distinguish it from /ɐ/.
+Bengali script
+Meitei language in Bangladesh and India currently use the Bengali script, alongside the Meitei script.
+Grammar
+Sentences in the Meitei language use the format Subject + Object + Verb (SOV). For example, in the sentence Ei chak chai (ꯑꯩ ꯆꯥꯛ ꯆꯥꯢ), which translates to I eat rice, the gloss is "ei" (I), "chak" (rice), "chai" (eat).
+Number agreement
+Agreement in nouns and pronouns is expressed to clarify singular and plural cases through the addition of the suffixes -khoi (for personal pronouns and human proper nouns) and -sing (for all other nouns). Verbs associated with the pluralised nouns are unaffected. Examples are demonstrated below:
+When adjectives are used to be more clear, Meitei utilises separate words and does not add a suffix to the noun. Examples are show in the chart below:
+Compound verbs
+Compound verbs are created by combining root verbs each ending with aspect markers. While the variety of suffixes is high, all compound verbs utilise one of two:
+Aspect markers appear as suffixes that clarify verb tense and appear at the end of the compound verb. Overall, the formula to construct a compound verb becomes [root verb] + [suffix] + [aspect marker]:
+Compound verbs can also be formed utilising both compound suffixes as well, allowing utterances such as pithokningle meaning "want to give out".
+Literature
+Linguistic tradition
+The culture involved with the Meitei language is rooted deeply with pride and tradition based on having respect to the community elders. Young children who do not know about the tales that have been passed on from generation to generation are very rare. Regarding the history behind the ancient use of proverbs that defines the way conversation is held with the Meitei language, it is a way of expressing and telling stories and even using modern slang with old proverbs to communicate between one another.
+The Meitei language had its own script. The history behind the Meitei language itself comes primarily from the ancient period of northeastern India.
+Media
+All the Meitei newspapers will be using the Meitei script instead of the Bengali script from 15 January 2023 (2023-01-15), according to a joint meeting consensus of the "Meetei Erol Eyek Loinasillol Apunba Lup" (MEELAL), "All Manipur Working Journalists’ Union" (AMWJU) and "Editors' Guild Manipur" (EGM) in Imphal.
+Language Day
+The Meitei Language Day (Meitei Longi Numit; /mei-tei lon-gee noo-meet/), also known as the Manipuri Language Day (Manipuri Longi Numit; /ma-nee-poo-ree lon-gee noo-meet/), is observed on 20 August every year, in memory of the day on which the language was included in the Eighth Schedule to the Constitution of India and made one of the languages with official status in India on 20 August 1992.
+Software
+In 2021, Rudali Huidrom, a Manipuri researcher of the EBMT/NLP laboratory, Waseda University, Japan, created a text corpus named "EM Corpus" (shortened form of "Emalon Manipuri Corpus"). It is the first comparable text to text corpus built for Meitei language (mni) and English language (eng) pair from sentences. The writing system used for Meitei language in this corpus is Bengali script. It was crawled and collected from thesangaiexpress.com - the news website of "The Sangai Express", a daily newspaper of Manipur from August 2020 to 2021. In version 1, she created the monolingual data, having 1,034,715 Meitei language sentences and 846,796 English language sentences. In version 2, she created the monolingual data, having 1,880,035 Meitei language sentences and 1,450,053 English language sentences.
+EM-ALBERT is the first ALBERT model available for Meitei language. EM-FT is also FastText word embedding available for Meitei language. These resources were created by Rudali Huidrom and are now available at free of cost at the European Language Resources Association catalogue (ELRA catalogue) under CC-BY-NC-4.0 license.
+On 11 May 2022, Google Translate added Meitei-language (under the name "Meiteilon (Manipuri)") during its addition of 24 new languages to the translation tool. The writing system used for Meitei language in this tool is Meitei script.
+Sample text
+The following is a sample text in Modern Meitei of the Article 1 of the Universal Declaration of Human Rights (by the United Nations):
+See also
+Footnotes
+References
+Further reading
+Culture
+Language

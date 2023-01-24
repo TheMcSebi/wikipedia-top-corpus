@@ -1,0 +1,120 @@
+Log-normal distribution
+In probability theory, a log-normal (or lognormal) distribution is a continuous probability distribution of a random variable whose logarithm is normally distributed. Thus, if the random variable X is log-normally distributed, then Y = ln(X) has a normal distribution. Equivalently, if Y has a normal distribution, then the exponential function of Y, X = exp(Y), has a log-normal distribution. A random variable which is log-normally distributed takes only positive real values. It is a convenient and useful model for measurements in exact and engineering sciences, as well as medicine, economics and other topics (e.g., energies, concentrations, lengths, prices of financial instruments, and other metrics).
+The distribution is occasionally referred to as the Galton distribution or Galton's distribution, after Francis Galton. The log-normal distribution has also been associated with other names, such as McAlister, Gibrat and Cobb–Douglas.
+A log-normal process is the statistical realization of the multiplicative product of many independent random variables, each of which is positive. This is justified by considering the central limit theorem in the log domain (sometimes called Gibrat's law). The log-normal distribution is the maximum entropy probability distribution for a random variate X—for which the mean and variance of ln(X) are specified.
+Definitions
+Generation and parameters
+Let $MATH$ be a standard normal variable, and let $MATH$ and $MATH$ be two real numbers. Then, the distribution of the random variable
+is called the log-normal distribution with parameters $MATH$ and $MATH$. These are the expected value (or mean) and standard deviation of the variable's natural logarithm, not the expectation and standard deviation of $MATH$ itself.
+This relationship is true regardless of the base of the logarithmic or exponential function: if $MATH$ is normally distributed, then so is $MATH$ for any two positive numbers $MATH$. Likewise, if $MATH$ is log-normally distributed, then so is $MATH$, where $MATH$.
+In order to produce a distribution with desired mean $MATH$ and variance $MATH$, one uses
+$MATH$ and $MATH$
+Alternatively, the "multiplicative" or "geometric" parameters $MATH$ and $MATH$ can be used. They have a more direct interpretation: $MATH$ is the median of the distribution, and $MATH$ is useful for determining "scatter" intervals, see below.
+Probability density function
+A positive random variable X is log-normally distributed (i.e., $MATH$), if the natural logarithm of X is normally distributed with mean $MATH$ and variance $MATH$:
+Let $MATH$ and $MATH$ be respectively the cumulative probability distribution function and the probability density function of the N(0,1) distribution, then we have that
+Cumulative distribution function
+The cumulative distribution function is
+where $MATH$ is the cumulative distribution function of the standard normal distribution (i.e., N(0,1)).
+This may also be expressed as follows:
+where erfc is the complementary error function.
+Multivariate log-normal
+If $MATH$ is a multivariate normal distribution, then $MATH$ has a multivariate log-normal distribution. The exponential is applied elementwise to the random vector $MATH$. The mean of $MATH$ is
+and its covariance matrix is
+Since the multivariate log-normal distribution is not widely used, the rest of this entry only deals with the univariate distribution.
+Characteristic function and moment generating function
+All moments of the log-normal distribution exist and
+This can be derived by letting $MATH$ within the integral. However, the log-normal distribution is not determined by its moments. This implies that it cannot have a defined moment generating function in a neighborhood of zero. Indeed, the expected value $MATH$ is not defined for any positive value of the argument $MATH$, since the defining integral diverges.
+The characteristic function $MATH$ is defined for real values of t, but is not defined for any complex value of t that has a negative imaginary part, and hence the characteristic function is not analytic at the origin. Consequently, the characteristic function of the log-normal distribution cannot be represented as an infinite convergent series. In particular, its Taylor formal series diverges:
+However, a number of alternative divergent series representations have been obtained.
+A closed-form formula for the characteristic function $MATH$ with $MATH$ in the domain of convergence is not known. A relatively simple approximating formula is available in closed form, and is given by
+where $MATH$ is the Lambert W function.  This approximation is derived via an asymptotic method, but it stays sharp all over the domain of convergence of $MATH$.
+Properties
+Probability in different domains
+The probability content of a log-normal distribution in any arbitrary domain can be computed to desired precision by first transforming the variable to normal, then numerically integrating using the ray-trace method. (Matlab code)
+Probabilities of functions of a log-normal variable
+Since the probability of a log-normal can be computed in any domain, this means that the cdf (and consequently pdf and inverse cdf) of any function of a log-normal variable can also be computed. (Matlab code)
+Geometric or multiplicative moments
+The geometric or multiplicative mean of the log-normal distribution is $MATH$. It equals the median. The geometric or multiplicative standard deviation is $MATH$.
+By analogy with the arithmetic statistics, one can define a geometric variance, $MATH$, and a geometric coefficient of variation, $MATH$, has been proposed. This term was intended to be analogous to the coefficient of variation, for describing multiplicative variation in log-normal data, but this definition of GCV has no theoretical basis as an estimate of $MATH$ itself (see also Coefficient of variation).
+Note that the geometric mean is smaller than the arithmetic mean. This is due to the AM–GM inequality and is a consequence of the logarithm being a concave function. In fact,
+In finance, the term $MATH$ is sometimes interpreted as a convexity correction. From the point of view of stochastic calculus, this is the same correction term as in Itō's lemma for geometric Brownian motion.
+Arithmetic moments
+For any real or complex number n, the n-th moment of a log-normally distributed variable X is given by
+Specifically, the arithmetic mean, expected square, arithmetic variance, and arithmetic standard deviation of a log-normally distributed variable X are respectively given by:
+The arithmetic coefficient of variation $MATH$ is the ratio $MATH$. For a log-normal distribution it is equal to
+This estimate is sometimes referred to as the "geometric CV" (GCV), due to its use of the geometric variance. Contrary to the arithmetic standard deviation, the arithmetic coefficient of variation is independent of the arithmetic mean.
+The parameters μ and σ can be obtained, if the arithmetic mean and the arithmetic variance are known:
+A probability distribution is not uniquely determined by the moments E[Xn] = enμ + 1/2n2σ2 for n ≥ 1.  That is, there exist other distributions with the same set of moments. In fact, there is a whole family of distributions with the same moments as the log-normal distribution.
+Mode, median, quantiles
+The mode is the point of global maximum of the probability density function.  In particular, by solving the equation $MATH$, we get that:
+Since the log-transformed variable $MATH$ has a normal distribution, and quantiles are preserved under monotonic transformations, the quantiles of $MATH$ are
+where $MATH$ is the quantile of the standard normal distribution.
+Specifically, the median of a log-normal distribution is equal to its multiplicative mean,
+Partial expectation
+The partial expectation of a random variable $MATH$ with respect to a threshold $MATH$ is defined as
+Alternatively, by using the definition of conditional expectation, it can be written as $MATH$. For a log-normal random variable, the partial expectation is given by:
+where $MATH$ is the normal cumulative distribution function. The derivation of the formula is provided in the Talk page. The partial expectation formula has applications in insurance and economics, it is used in solving the partial differential equation leading to the Black–Scholes formula.
+Conditional expectation
+The conditional expectation of a log-normal random variable $MATH$—with respect to a threshold $MATH$—is its partial expectation divided by the cumulative probability of being in that range:
+Alternative parameterizations
+
+In addition to the characterization by $MATH$ or $MATH$, here are multiple ways how the log-normal distribution can be parameterized. ProbOnto, the knowledge base and ontology of probability distributions lists seven such forms: 
+Examples for re-parameterization
+Consider the situation when one would like to run a model using two different optimal design tools, for example PFIM and PopED. The former supports the LN2, the latter LN7 parameterization, respectively. Therefore, the re-parameterization is required, otherwise the two tools would produce different results.
+For the transition $MATH$ following formulas hold $MATH$ and $MATH$.
+For the transition $MATH$ following formulas hold $MATH$ and $MATH$.
+All remaining re-parameterisation formulas can be found in the specification document on the project website.
+Multiple, reciprocal, power
+Multiplication and division of independent, log-normal random variables
+If two independent, log-normal variables $MATH$ and  $MATH$ are multiplied [divided], the product [ratio] is again log-normal, with parameters $MATH$ [$MATH$] and $MATH$, where $MATH$. This is easily generalized to the product of $MATH$ such variables.
+More generally, if $MATH$ are $MATH$ independent, log-normally distributed variables, then $MATH$
+Multiplicative central limit theorem
+The geometric or multiplicative mean of $MATH$ independent, identically distributed, positive random variables $MATH$ shows, for $MATH$ approximately a log-normal distribution with parameters $MATH$ and $MATH$, assuming $MATH$ is finite.
+In fact, the random variables do not have to be identically distributed.  It is enough for the distributions of $MATH$ to all have finite variance and satisfy the other conditions of any of the many variants of the central limit theorem.
+This is commonly known as Gibrat's law.
+Other
+A set of data that arises from the log-normal distribution has a symmetric Lorenz curve (see also Lorenz asymmetry coefficient).
+The harmonic $MATH$, geometric $MATH$ and arithmetic $MATH$ means of this distribution are related; such relation is given by
+Log-normal distributions are infinitely divisible, but they are not stable distributions, which can be easily drawn from.
+Related distributions
+For a more accurate approximation, one can use the Monte Carlo method to estimate the cumulative distribution function, the pdf and the right tail.
+
+
+The sum of correlated log-normally distributed random variables can also be approximated by a log-normal distribution
+Statistical inference
+Estimation of parameters
+For determining the maximum likelihood estimators of the log-normal distribution parameters μ and σ, we can use the same procedure as for the normal distribution. Note that
+where $MATH$ is the density function of the normal distribution $MATH$.  Therefore, the log-likelihood function is
+Since the first term is constant with regard to μ and σ, both logarithmic likelihood functions, $MATH$ and $MATH$, reach their maximum with the same $MATH$ and $MATH$.  Hence, the maximum likelihood estimators are identical to those for a normal distribution for the observations $MATH$,
+For finite n, these estimators are biased. Whereas the bias for $MATH$ is negligible, a less biased estimator for $MATH$ is obtained as for the normal distribution by replacing the denominator n by n−1 in the equation for $MATH$.
+When the individual values $MATH$ are not available, but the sample's mean $MATH$ and standard deviation s is, then the corresponding parameters are determined by the following formulas, obtained from solving the equations for the expectation $MATH$ and variance $MATH$ for $MATH$ and $MATH$:
+Statistics
+The most efficient way to analyze log-normally distributed data consists of applying the well-known methods based on the normal distribution to logarithmically transformed data and then to back-transform results if appropriate.
+Scatter intervals
+A basic example is given by scatter intervals: For the normal distribution, the interval $MATH$ contains approximately two thirds (68%) of the probability (or of a large sample), and $MATH$ contain 95%. Therefore, for a log-normal distribution,
+ contains 2/3, and
+ contains 95% of the probability. Using estimated parameters, then approximately the same percentages of the data should be contained in these intervals.
+Confidence interval for μ*
+Using the principle, note that a confidence interval for $MATH$ is $MATH$, where $MATH$ is the standard error and q is the 97.5% quantile of a t distribution with n-1 degrees of freedom. Back-transformation leads to a confidence interval for $MATH$,
+ with $MATH$
+Extremal principle of entropy to fix the free parameter σ
+In applications, $MATH$ is a parameter to be determined.  For growing processes balanced by production and dissipation, the use of an extremal principle of Shannon entropy shows that
+This value can then be used to give some scaling relation between the inflexion point and maximum point of the log-normal distribution. This relationship is determined by the base of natural logarithm, $MATH$, and exhibits some geometrical similarity to the minimal surface energy principle.
+These scaling relations are useful for predicting a number of growth processes  (epidemic spreading, droplet splashing, population growth, swirling rate of the bathtub vortex, distribution of language characters, velocity profile of turbulences, etc.).
+For example, the log-normal function with such $MATH$ fits well with the size of secondarily produced droplets during droplet impact  and the spreading of an epidemic disease.
+The value $MATH$ is used to provide a probabilistic solution for the Drake equation.
+Occurrence and applications
+The log-normal distribution is important in the description of natural phenomena.  Many natural growth processes are driven by the accumulation of many small percentage changes which become additive on a log scale.  Under appropriate regularity conditions, the distribution of the resulting accumulated changes will be increasingly well approximated by a log-normal, as noted in the section above on "Multiplicative Central Limit Theorem".  This is also known as  Gibrat's law, after Robert Gibrat (1904–1980)  who formulated it for companies. If the rate of accumulation of these small changes does not vary over time, growth becomes independent of size.  Even if that's not true, the size distributions at any age of things that grow over time tends to be log-normal.
+A second justification is based on the observation that fundamental natural laws imply multiplications and divisions of positive variables. Examples are the simple gravitation law connecting masses and distance with the resulting force, or the formula for equilibrium concentrations  of chemicals in a solution that connects concentrations of educts and products. Assuming log-normal distributions of the variables involved leads to consistent models in these cases.
+Even if none of these justifications apply, the log-normal distribution is often a plausible and empirically adequate model. Examples include the following:
+Human behaviors
+In biology and medicine
+In colloidal chemistry and polymer chemistry
+Consequently, reference ranges for measurements in healthy individuals are more accurately estimated by assuming a log-normal distribution than by assuming a symmetric distribution about the mean.
+Hydrology
+Social sciences and demographics
+Technology
+See also
+Notes
+Further reading

@@ -1,0 +1,49 @@
+Normal (geometry)
+In geometry, a normal is an object such as a line, ray, or vector that is perpendicular to a given object. For example, the normal line to a plane curve at a given point is the (infinite) line perpendicular to the tangent line to the curve at the point.
+A normal vector may have length one (a unit vector) or its length may represent the curvature of the object (a curvature vector); its algebraic sign may indicate sides (interior or exterior).
+In three dimensions, a surface normal, or simply normal, to a surface at point $MATH$ is a vector perpendicular to the tangent plane of the surface at P. The word "normal" is also used as an adjective: a line normal to a plane, the normal component of a force, the normal vector, etc. The concept of normality generalizes to orthogonality (right angles).
+The concept has been generalized to differentiable manifolds of arbitrary dimension embedded in a Euclidean space. The normal vector space or normal space of a manifold at point $MATH$ is the set of vectors which are orthogonal to the tangent space at $MATH$
+Normal vectors are of special interest in the case of smooth curves and smooth surfaces.
+The normal is often used in 3D computer graphics (notice the singular, as only one normal will be defined) to determine a surface's orientation toward a light source for flat shading, or the orientation of each of the surface's corners (vertices) to mimic a curved surface with Phong shading.
+The foot of a normal at a point of interest Q (analogous to the foot of a perpendicular) can be defined at the point P on the surface where the normal vector contains Q.
+The normal distance of a point Q to a curve or to a surface is the Euclidean distance between Q and its foot P.
+Normal to surfaces in 3D space
+Calculating a surface normal
+For a convex polygon (such as a triangle), a surface normal can be calculated as the vector cross product of two (non-parallel) edges of the polygon.
+For a plane given by the equation $MATH$ the vector $MATH$ is a normal.
+For a plane whose equation is given in parametric form 
+where $MATH$ is a point on the plane and $MATH$ are non-parallel vectors pointing along the plane, a normal to the plane is a vector normal to both $MATH$ and $MATH$ which can be found as the cross product $MATH$
+If a (possibly non-flat) surface $MATH$ in 3D space $MATH$ is parameterized by a system of curvilinear coordinates $MATH$ with $MATH$ and $MATH$ real variables, then a normal to S is by definition a normal to a tangent plane, given by the cross product of the partial derivatives
+If a surface $MATH$ is given implicitly as the set of points $MATH$ satisfying  $MATH$ then a normal at a point $MATH$ on the surface is given by the gradient
+since the gradient at any point is perpendicular to the level set $MATH$
+For a surface $MATH$ in $MATH$ given as the graph of a function $MATH$ an upward-pointing normal can be found either from the parametrization $MATH$ giving
+or more simply from its implicit form $MATH$ giving $MATH$ 
+Since a surface does not have a tangent plane at a singular point, it has no well-defined normal at that point: for example, the vertex of a cone. In general, it is possible to define a normal almost everywhere for a surface that is Lipschitz continuous.
+Choice of normal
+The normal to a (hyper)surface is usually scaled to have unit length, but it does not have a unique direction, since its opposite is also a unit normal. For a surface which is the topological boundary of a set in three dimensions, one can distinguish between the inward-pointing normal and outer-pointing normal. For an oriented surface, the normal is usually determined by the right-hand rule or its analog in higher dimensions.
+If the normal is constructed as the cross product of tangent vectors (as described in the text above), it is a pseudovector.
+Transforming normals
+When applying a transform to a surface it is often useful to derive normals for the resulting surface from the original normals.
+Specifically, given a 3×3 transformation matrix $MATH$ we can determine the matrix $MATH$ that transforms a vector $MATH$ perpendicular to the tangent plane $MATH$ into a vector $MATH$ perpendicular to the transformed tangent plane $MATH$ by the following logic:
+Write n′ as $MATH$ We must find $MATH$
+Choosing $MATH$ such that  $MATH$ or $MATH$ will satisfy the above equation, giving a $MATH$ perpendicular to $MATH$ or an $MATH$ perpendicular to $MATH$ as required.
+Therefore, one should use the inverse transpose of the linear transformation when transforming surface normals. The inverse transpose is equal to the original matrix if the matrix is orthonormal, that is, purely rotational with no scaling or shearing.
+Hypersurfaces in n-dimensional space
+For an $MATH$-dimensional hyperplane in $MATH$-dimensional space $MATH$ given by its parametric representation
+where $MATH$ is a point on the hyperplane and $MATH$ for $MATH$ are linearly independent vectors pointing along the hyperplane, a normal to the hyperplane is any vector $MATH$ in the null space of  the matrix $MATH$ meaning $MATH$ That is, any vector orthogonal to all in-plane vectors is by definition a surface normal. Alternatively, if the hyperplane is defined as the solution set of a single linear equation $MATH$ then the vector $MATH$ is a normal.
+The definition of a normal to a surface in three-dimensional space can be extended to $MATH$-dimensional hypersurfaces in $MATH$ A hypersurface may be locally defined implicitly as the set of points $MATH$ satisfying an equation $MATH$ where $MATH$ is a given scalar function. If $MATH$ is continuously differentiable then the hypersurface is a differentiable manifold in the neighbourhood of the points where the gradient is not zero. At these points a normal vector is given by the gradient:
+The normal line is the one-dimensional subspace with basis $MATH$
+Varieties defined by implicit equations in n-dimensional space
+A differential variety defined by implicit equations in the $MATH$-dimensional space $MATH$ is the set of the common zeros of a finite set of differentiable functions in $MATH$ variables
+The Jacobian matrix of the variety is the $MATH$ matrix whose $MATH$-th row is the gradient of $MATH$ By the implicit function theorem, the variety is a manifold in the neighborhood of a point where the Jacobian matrix has rank $MATH$ At such a point $MATH$ the normal vector space is the vector space generated by the values at $MATH$ of the gradient vectors of the $MATH$
+In other words, a variety is defined as the intersection of $MATH$ hypersurfaces, and the normal vector space at a point is the vector space generated by the normal vectors of the hypersurfaces at the point.
+The normal (affine) space at a point $MATH$ of the variety is the affine subspace passing through $MATH$ and generated by the normal vector space at $MATH$
+These definitions may be extended verbatim to the points where the variety is not a manifold.
+Example
+Let V be the variety defined in the 3-dimensional space by the equations 
+This variety is the union of the $MATH$-axis and the $MATH$-axis.
+At a point $MATH$ where $MATH$ the rows of the Jacobian matrix are $MATH$ and $MATH$ Thus the normal affine space is the plane of equation $MATH$ Similarly, if $MATH$ the normal plane at $MATH$ is the plane of equation $MATH$
+At the point $MATH$ the rows of the Jacobian matrix are $MATH$ and $MATH$ Thus the normal vector space and the normal affine space have dimension 1 and the normal affine space is the $MATH$-axis.
+Uses
+Normal in geometric optics
+The normal ray is the outward-pointing ray perpendicular to the surface of an optical medium at a given point. In reflection of light, the angle of incidence and the angle of reflection are respectively the angle between the normal and the incident ray (on the plane of incidence) and the angle between the normal and the reflected ray.

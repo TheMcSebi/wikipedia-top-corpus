@@ -1,0 +1,130 @@
+Electric bus
+An electric bus is a bus that is propelled using electric motors as opposed to an internal combustion engine. Electric buses can store the needed electricity on-board, or be fed continuously from an external source. The majority of buses storing electricity are battery electric buses (which this article mostly deals with), where the electric motor obtains energy from an onboard battery pack, although examples of other storage modes do exist, such as the gyrobus which uses flywheel energy storage. When electricity is not stored on board, it is supplied by contact with outside power sources. For example, overhead wires as in the trolleybus, or with a ground-level power supply, or through inductive charging.
+As of 2019, 99% of all battery electric buses in the world have been deployed in Mainland China, with more than 421,000 buses on the road, which is 17% of China's total bus fleet. For comparison, the United States had 300, and Europe had 2,250.
+By 2021, Europe had reached 8,500 electric buses, and China's share of electric buses remained at 98%.
+Principles
+Battery
+One of the most popular types of electric buses nowadays are battery electric buses. Battery electric buses have the electricity stored on board the vehicle in a battery. As of 2018, battery electric buses could have a range of over 280 km with just one charge, although extreme temperatures and hills can reduce range. The buses are usually used in cities due to their limited range.
+City driving involves a great deal of accelerating and braking. Due to that, the battery electric bus is superior to diesel bus as it can recharge most of the kinetic energy back into batteries during braking, which reduces brake wear. The use of electric over diesel propulsion reduces noise and pollution in cities.
+When operating within a city, it is important to minimize the unloaded and rolling weight of the bus. This can be accomplished by using aluminium as the main construction material. Composite paneling and other lightweight materials can also be used. According to Finnish bus manufacturer Linkker, its fully aluminium bus construction is about 3000 kg lighter than comparably sized modern steel buses, which have a curb weight of 9500 kg. Reducing weight allows for a greater payload and reduces wear to components such as brakes, tires, and joints, achieving cost savings for the operator.
+Charging
+Buses may be charged at plug in stations, or on special wireless charging pads.
+Sweden is studying four different dynamic charging technologies that allow buses and other vehicles to charge while driving on roads and highways. The four tested technologies are overhead wires, in-road rail, on-road rail, and in-road inductive coils.
+The first solar powered microgrid for charging electric buses in the US is under construction in Montgomery County, MD, and scheduled for completion in fall of 2022.
+Capacitors
+Buses can use capacitors instead of batteries to store their energy.
+Ultracapacitors can only store about 5 percent of the energy that lithium-ion batteries hold for the same weight, limiting them to a short distance per charge.
+However ultracapacitors can charge and discharge much more rapidly than conventional batteries.
+In vehicles that have to stop frequently and predictably as part of normal operation, energy storage based exclusively on ultracapacitors can be a solution.
+China is experimenting with a new form of electric bus, known as Capabus, which runs without continuous overhead lines by using power stored in large on-board electric double-layer capacitors, which are quickly recharged whenever the vehicle stops at any bus stop (under so-called electric umbrellas), and fully charged in the terminus.
+A few prototypes were being tested in Shanghai in early 2005.  In 2006, two commercial bus routes began to use electric double-layer capacitor buses; one of them is route 11 in Shanghai.  In 2009, Sinautec Automobile Technologies, based in Arlington, VA, and its Chinese partner, Shanghai Aowei Technology Development Company are testing with 17 forty-one seat Ultracap Buses serving the Greater Shanghai area since 2006 without any major technical problems.  Another 60 buses will be delivered early next year with ultracapacitors that supply 10 watt-hours per kilogram.
+The buses have very predictable routes and need to stop regularly, every 5 kilometres (3 mi), allowing opportunities for quick recharging.
+The trick is to turn some bus stops along the route into charging stations.  At these stations, a collector on the top of the bus rises and touches an overhead charging line.  Within a couple of minutes, the ultracapacitor banks stored under the bus seats are fully charged.  The buses can also capture energy from braking, and the company says that recharging stations can be equipped with solar panels.  A third generation of the product, will give 32 kilometres (20 mi) of range per charge or better.
+ Such a bus was delivered by Chariot Motors in Sofia, Bulgaria in May 2014 for 9 months' test. It covers 23 km in 2 charges.
+Sinautec estimates that one of its buses has one-tenth the energy cost of a diesel bus and can achieve lifetime fuel savings of $200,000.  Also, the buses use 40 percent less electricity compared to an electric trolley bus, mainly because they are lighter and have the regenerative braking benefits.  The ultracapacitors are made of activated carbon, and have an energy density of six watt-hours per kilogram (for comparison, a high-performance lithium-ion battery can achieve 200 watt-hours per kilogram), but the ultracapacitor bus is also cheaper than lithium-ion battery buses, about 40 percent less expensive, with a far superior reliability rating.
+There is also a plug-in hybrid version, which also uses ultracaps.
+Future developments
+Sinautec is in discussions with MIT's Schindall about developing ultracapacitors of higher energy density using vertically aligned carbon nanotube structures that give the devices more surface area for holding a charge.  So far, they are able to get twice the energy density of an existing ultracapacitor, but they are trying to get about five times.  This would create an ultracapacitor with one-quarter of the energy density of a lithium-ion battery.
+Future developments includes the use of inductive charging under the street, to avoid overhead wiring.  A pad under each bus stop and at each stop light along the way would be used.
+Drawbacks
+As with other electric vehicles, climate control and extremely cold weather will weaken the performance of electric buses. In addition, terrain may pose a challenge to the adoption of electric vehicles that carry stored energy compared to trolleybuses, which draw power from overhead lines. Even when conditions are favorable, internal combustion engine buses are frequently diesel powered, and diesel is relatively inexpensive per mile. High local utility rates (especially during periods of peak demand) and proprietary charging systems pose barriers to adoption.
+School use
+North America
+In 2014, the first production-model all-electric school bus was delivered to the Kings Canyon Unified School District in California's San Joaquin Valley. The Class-A school bus was built by Trans Tech Bus, using an electric powertrain control system developed by Motiv Power Systems, of Foster City, California. The bus was one of four the district ordered. The first round of SST-e buses (as they are called) is partly funded by the AB 118 Air Quality Improvement Program administered by the California Air Resources Board.
+The Trans Tech/Motiv vehicle has passed all KCUSD and California Highway Patrol inspections and certifications. Although some diesel hybrids are in use, this is the first modern electric school bus approved for student transportation by any state.
+Since 2015, the Canadian manufacturer Lion Bus offers a full size school bus, eLion, with a body made out of composites. It is a regular production version that is built and shipped in volume since early 2016, with around 50 units sold until 2017.
+In February 2021, there were about 300 electric schoolbuses in operation in the United States. That month, Montgomery County, Maryland approved a contract to transition its 1,400 vehicle schoolbus fleet to electric buses by 2035, with the first 25 buses arriving in fall 2021.
+The 2021 Infrastructure Investment and Jobs Act included $2.5 billion in funding for electric school buses, to be distributed over five years.
+By June 2022, 38 US states were using electric schoolbuses.
+In September 2022, EPA funding for electric schoolbuses was doubled, from $500 million to almost $1 billion, due to high demand. The improvement in air quality over diesel powered school buses is expected to be helpful for children with asthma. In addition, the BIDIRECTIONAL Act was introduced in the US Senate, to "create a program dedicated to deploying electric school buses with bidirectional vehicle-to-grid (V2G) flow capability.”
+Transit use
+Transit authorities that use battery buses or other types of all-electric buses, other than trolleybuses:
+UAE
+The UAE has recently introduced electric buses. The busses are public buses which serve Dubai.
+Malaysia
+Indonesia
+India
+Highlights:
+Cities using electric buses include:
+Iran
+China
+As of 2016, 156,000 buses are being put into service per year in China. As of the end of 2020, 378,700 electric buses were in operation, accounting for 53.8% of the total amount of buses.
+Japan
+Singapore
+South Korea
+Thailand
+Qatar
+741 electric buses are operated by Mowasalat (Karwa) the country’s public transit system. 
+Europe
+The largest European electric bus fleet is concentrated in Moscow which has 500 electric buses as of October 2020.
+Belarus
+Belgium
+The electrification of Belgium's buses is on a strong upward trend:
+As for fully electric buses, Belgium only had 4 in operation in 2019.
+Bulgaria
+Turkey
+Finland
+France
+Germany
+Great Britain
+Italy
+Israel
+Lithuania
+Netherlands
+The Netherlands has the most electric buses of any European country. At the end of 2019 the number had reached 770, or 15% of the entire Dutch fleet of 5,236 buses. This is expected to grow to 1,388 by the end of 2020. In the provinces of Groningen and Drenthe 47% of buses are electric, in Limburg 37% and in North Holland 31%. The main manufacturers are VDL (486 of the existing 770) Ebusco (110), Heuliez (49) and BYD (44). In 2015, the Dutch public transport authorities agreed to buy only emission-free buses from 2025 onwards, and to make the entire fleet emission-free by 2030.
+Amsterdam
+In December 2018 GVB ordered 31 electric buses from VDL, with an option for 69 more buses. They entered service on 2 April 2020 on routes 15, 22 and 36, and are
+The buses recharge through a pantograph from 31 8 MW Heliox fast chargers at the Garage West depot on Jan Tooropstraat and seven 45 kW chargers at Sloterdijk station.
+EBS (Egged Bus Systems), which primarily serves Waterland to the north of Amsterdam, has also ordered 10 electric buses from VDL.
+Arnhem
+Arnhem has the Netherlands's only trolleybus network, which opened in 1949 and operates 46 articulated buses on six routes.
+Eindhoven
+On 11 December 2016 Hermes introduced 43 fully electric VDL 18-metre buses in Eindhoven, driving a daily distance of 400 km each. In 2017 this was the biggest all-electric bus operation of Europe.
+Haaglanden
+For use on its Haaglanden network EBS is using 116 electric buses:
+Rotterdam
+In 2018 Rotterdam ordered 55 electric buses from VDL and in 2019 obtained a European Investment Bank loan to buy a further 105 electric and 103 hybrids.
+Schiphol
+Since March 2018, 100 VDL Citea articulated electric buses operated by Connexxion have served Schiphol airport. The buses have a battery capacity of 170 kWh and a range of 80 kilometres. They are charged during the day by Heliox 450 kW fast chargers, taking between 15 and 25 minutes. Overnight, 30 kW slow charges take 4–5 hours. They are powered by 100% renewable energy, from wind power and solar panels at the depots. The buses serve two different networks:
+Since 2016 a fleet of 35 BYD 12-metre battery buses has provided airfield services.
+Utrecht
+In Utrecht, Qbuzz has operated electric buses since 2017.
+Waddeneilanden
+In April 2013 six all-electric BYD buses operated on the island of Schiermonnikoog. Arriva started running 16 electric buses on Vlieland, Ameland and Schiermonnikoog.
+Poland
+As of 2022, around 700 electric buses—not counting trolleybuses—from different manufacturers are operated in Poland, and there are plans to obtain another few hundred. The largest fleets are located in Warsaw (162 buses), Kraków (78 buses), Poznań (59 buses), Jaworzno (44 buses) and Zielona Góra (43 buses).  Trolleybuses operate in Gdynia, Lublin and Tychy, with around 250–300 in service.
+Romania
+Russia
+Serbia
+Spain
+Sweden
+Switzerland
+British Columbia
+Ontario
+Québec
+United States
+About 650 electric buses were on the road in the US in 2019, about double the 300 estimated to be in use the previous year. In November 2019, orders for new electric buses had outpaced manufacturing capacity.
+The 2021 Infrastructure Investment and Jobs Act included $2.5 billion in funding for electric school buses, to be distributed over five years. By June 2022, there were commitments to 12,275 electric school buses in 38 states.
+A 2022 study by National Grid and Hitachi Energy indicates that installing charging infrastructure for fleet electrification will require location-specific upgrades to the US electrical grid.
+
+
+Cities using electric buses include:
+California
+Since 2000, the California Air Resources Board has had a Fleet Rule for Transit Agencies, which requires transit agencies to reduce emissions. In 2018 it issued the Innovative Clean Transit rule, which requires all new transit buses purchased after 2029 to be zero-emissions buses.
+Long Beach, California and the Antelope Valley Transit Authority charge some of their buses on special wireless charging pads located along bus routes.
+By 2019, more than 200 e-buses were in service in California. Several hundred more e-buses for California were in backlogged orders.
+Total operating cost per mile
+NREL publishes zero-emission bus evaluation results from various commercial operators. NREL published following total operating cost per mile: with County Connection, for June 2017 through May 2018, for an 8-vehicle diesel bus fleet, the total operating cost per mile was $0.84; for a 4-vehicle electric bus fleet, $1.11; with Long Beach Transit, for 2018, for a 10-vehicle electric bus fleet, $0.85; and with Foothill Transit, for 2018, for a 12-vehicle electric bus fleet, $0.84.
+States without plans for e-buses
+In 2019, "only five states, Arkansas, New Hampshire, North Dakota, South Dakota and West Virginia, ... [had] no transit agencies planning to operate electric buses or hydrogen fuel cell buses."
+Australian Capital Territory
+New South Wales
+Queensland
+Western Australia
+Victoria
+New Zealand
+Aruba
+Brazil
+Chile
+Colombia
+Uruguay

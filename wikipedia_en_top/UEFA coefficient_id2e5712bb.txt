@@ -1,0 +1,101 @@
+UEFA coefficient
+In European football, the UEFA coefficients are statistics based in weighted arithmetic means used for ranking and seeding teams in club and international competitions. Introduced in 1979 for men's football tournaments, and after applied in women's football and futsal, the coefficients are calculated by UEFA, who administer football within Europe, as well as Armenia, Israel and the Asian parts of some transcontinental countries.
+
+
+The confederation publishes three types of rankings: one analysing a single season, one analysing a five-year span and another analysing a ten-year span. For men's competitions (discussed in this article), three sets of coefficients are calculated:
+Men's national team coefficient
+The UEFA national team coefficient was first introduced in November 1997, and for the first time used for seeding the UEFA Euro 2000 qualification groups and UEFA Euro 2000 final tournament. The ranking system derived from the results of each European national football team, and was only calculated by UEFA every second year in November; defined as being the point of time when all UEFA nations had completed the qualification stage of the upcoming World Cup or European Championship tournament.
+The purpose of calculating the coefficients was to compile an official UEFA rank, to be used as seeding criteria for the European nations, when drawing up qualification groups and the final tournament groups of the European Championship. Similar to how the FIFA World Rankings previously had been created and used as a seeding tool, when drawing up qualification groups and final tournament groups for the FIFA World Cup. The FIFA World Ranking has always been used for the seeded draw of UEFA qualification groups for the FIFA World Cup, since the 1998 qualification draw took place in December 1995; except for the qualifiers for 2002 and 2006, where UEFA instead opted to use the UEFA national team coefficient also as the ranking system for the seeded draw of FIFA World Cup qualification groups.
+Old ranking and calculation method (1997–2007)
+Until the end of the Euro 2008 tournament, the UEFA national team coefficient was calculated by dividing the number of all points scored (three points for a win, one for a draw) by the number of all matches played, combined during the last two qualification rounds for the World Cup and European Championship. Results from the final tournaments, play-off matches and friendly games were all ignored. In those cases where a nation did not take part at one of the two latest qualifying rounds, due to being directly qualified as a host, only one qualifying round would be taken into account.
+If two or more nations ended up with exactly the same coefficient, the following ranking criteria were applied:
+New ranking and calculation method (2007–2017)
+On 20 May 2008, UEFA announced changes to the coefficient ranking system. The ranking will continue to be calculated every second year in November, but under the new system, teams now gain ranking points for each game played in the most recently completed full cycle (defined as all qualifying games and final tournament games) of both the World Cup and European Championship, with addition of ranking points for each game played at the latest completed half cycle (defined as all games played in the latest qualifying round). Ranking points for all games played inside those two and a half cycles, will be awarded according to the rules listed below.
+The amount of awarded match points and bonus points (rule 1-4), later was slightly revised into the total amount of points available per match, as per the table below:
+*No additional points are awarded for the team winning the deciding penalty shootout in playoff matches, so ranking points are here calculated only as per the result of the ordinary/extended play time. Goals scored in penalty shootout, will never count as per the rule of additional 501 points per scored goals and -500 points per conceded goals.
+2017 ranking
+The coefficients from 2017 used for the seeding and pot placements in the draw for 2018–19 UEFA Nations League, were calculated for each country based on their achieved results from UEFA or FIFA matches played in the period from 7 September 2012 to 10 October 2017, by applying the eight rules listed above and averaging:
+The UEFA coefficients determined on 11 October 2017, were as follows:
+History
+After the recalculation of the coefficient rankings for the 2007 cycle, Italy were ranked top following their FIFA World Cup victory in 2006. Runners-up France lay behind them in second place, followed by the Czech Republic. Spain overtook Italy to gain first place following their UEFA Euro 2008 win, with beaten finalists Germany moving into second; the Netherlands were third.
+Spain consolidated their top spot by winning the 2010 FIFA World Cup, with the Netherlands jumping above Germany by finishing second in the tournament. In the 2013 rankings, Spain maintained top spot by winning their third major competition in a row - UEFA Euro 2012. Germany regained second, with the Dutch falling back to third place after failing to make it out of their group.
+Germany climbed to the top of the 2015 rankings as a result of their 2014 FIFA World Cup success; Spain dropped behind them. England reached their highest position in the rankings - placed third. Germany held on to top spot in 2017, with new European champions Portugal in second; Belgium were third.
+UEFA decided after 2017, no longer to use the UEFA National Team Coefficient ranking system for seeding in UEFA competitions. The seeding of national teams will in the future instead be based on the overall ranking of the biennial UEFA Nations League for the draw of groups in the UEFA Euro qualification stage, the next edition of the Nations League, and the latter will subsequently be used for the seeded draw of groups in the UEFA Euro final tournament.
+Women's national team coefficient
+Old ranking and calculation method
+See same category in men's.
+Current ranking and calculation method
+See same category in men's.
+2017 ranking
+2019 ranking
+2021 ranking
+Men's association coefficient
+The association coefficient is used to rank the football associations of Europe, and thus determine the number of clubs from an association that will participate in the UEFA Champions League, the UEFA Europa League and the UEFA Europa Conference League.
+The UEFA ranking determines the number of teams competing in the season after the next, not in the first season after the publication of the ranking. Thus, the rankings at the end of the 2021–22 season determine the team allocation by association in the 2023–24 (not 2022–23) UEFA season. This is unrelated to the selection of teams which will fill each allocation through the individual association leagues and national cups (which is decided in the preceding season).
+This coefficient is determined by the results of the clubs of the associations in the UEFA Champions League, UEFA Europa League and the UEFA Europa Conference League games over the past five seasons. Two points are awarded for each win by a club, and one for a draw (points are halved in the qualifying rounds). Results determined by extra time do count in determining the allocation of points, but results determined by penalty-shootouts do not affect the allocation of points, other than for bonus points given for qualification into the latter rounds. The number of points awarded each season is divided by the number of teams that participated for that association in that season. This number is then rounded down to three decimal places (e.g. 2+2⁄3 would be rounded to 2.666).
+To determine an association's coefficient for a particular season, the coefficients for the last five seasons are added. Bonus points are added to the number of points scored in a season. Bonus points are allocated for:
+UEFA uses this coefficient system to decide which teams gain automatic entry to the group stage and which teams must go through qualifying. For instance, the teams who occupy the top four league places in the associations ranked 1 to 4 in UEFA competition, the top two teams of the association ranked 5 and 6, and the champions in the associations ranked 7 to 10 gain automatic entry into the group stages for the following season's Champions League competition.
+Current ranking
+The ranking below takes into account of each association's performance in European competitions from 2018–19 to 2022–23, with the 2022–23 season currently taking place.
+The final ranking at the end of the 2022–23 season will be used to determine the minimum number of places for each association in the 2024–25 UEFA club competitions.
+As of 26 December 2022 the coefficients are as follows:
+Notes
+Further information on Liechtenstein's status and similar cases
+According to the UEFA regulations a National League needs to consist of at least eight clubs to be considered valid, otherwise no participants of such a league will be allowed to enter European competitions.
+Impact of COVID-19 pandemic
+Due to the COVID-19 pandemic, two-legged ties in the knockout stages of the 2019–20 UEFA Champions League and 2019–20 UEFA Europa League, and in the qualifying stages of the 2020–21 UEFA Champions League and 2020–21 UEFA Europa League, were changed to single-leg matches. In those cases where there was such a change in format, the following points were be awarded instead:
+This translates to the original system (2 points for a win, 1 point for a draw, 0 points for a loss) by considering the "unplayed leg" as a draw.
+Distribution of team competition quotas
+The following is the default access list since the 2021–22 season. Rankings in table exclude Liechtenstein.
+History
+Following the introduction of the UEFA Cup in 1971, the competition began to grow in complexity having more clubs than the European Champions Cup and the Cup Winners' Cup, reaching up to four from a single country. UEFA began to publish rankings in 1979, to identify the number of participants for each association in the UEFA Cup.
+Subsequently, for statistical purposes, various rankings were introduced to portray the history of the associations. According to the prorated (extended) calculation system, only four associations have succeeded in being ranked as the top European association.
+Following the Heysel Stadium disaster, all English teams were banned from UEFA competitions in 1985. The ban was only lifted after five seasons, with the knock-on effects continuing to impact on English football for a total of nine years from 1986 to 1994. Having been top in 1985, England were un-ranked in 1990 and would not regain the top position until 2008.
+Top associations by period
+The following data indicates the three top-ranked associations in each five-year period. Data prior to 1975–1979 period has been calculated, but precedes the first published by the Confederation and has merely informative value. Note that the table take into account the results from the Inter-Cities Fairs Cup, which was a non-UEFA competition that took place until 1971, whose teams in the first editions were representing cities instead of clubs.
+Women's association coefficient
+Current ranking
+The ranking below takes into account of each association's performance in European competitions from 2018–19 to 2022–23, with the 2022–23 season to start on 18 August 2022.
+The final ranking at the end of the 2022–23 season will be used to determine the number of places for each association in the 2024–25 UEFA Women's Champions League.
+As of 23 December 2022 the coefficients are as follows:
+Notes
+Top associations by period
+The following data indicates the three top-ranked women's associations in each five-year period.
+The table shows the ranking of nations with respect to the total number of years in the top three of the rankings:
+Men's club coefficient
+The club coefficient is either the sum of the points earned by the club in the UEFA Champions League, UEFA Europa League and UEFA Europa Conference League over the previous five seasons or 20% of the club's association coefficient over the same period, whichever coefficient is higher. This ranking is used by UEFA to determine a club's seeding in club competition draws, including the qualifying and group stages of the UEFA Champions League, UEFA Europa League and the UEFA Europa Conference League.
+The clubs receive two points for a win, one point for a draw, and no points for a defeat in games of the main stages of the Champions League, Europa League and Europa Conference League. Results determined after extra-time are included in this method, however results determined after penalty shoot-outs are not (the result is considered a draw). Bonus points for entering the Europa League group stage or Europa Conference League group stage are not additional to win/draw points; they provide a minimum points allowance for participating clubs, whereas bonus points for entering the Champions League group stage (and those for qualifying to the knockout stage) are additional to win/draw points.
+Qualifying round results are only taken into account if the club is eliminated in one of the rounds (see table below). Otherwise, the qualifying round results are taken into account only for the calculation of the association's coefficient and are halved. The clubs do not receive any points for elimination in the Champions League or Europa League qualifying because those clubs move to the Europa League and/or Europa Conference League and receive points from participation in that competition.
+Current club ranking
+The ranking below takes into account of each club's performance in European competitions from 2018–19 to 2022–23, with the 2022–23 season currently taking place.
+The top 25 clubs as of 3 November 2022 are as follows.
+Club point allocations: prior to 2021–22 season
+Prior to the 2018 club rankings, teams received the sum of their points earned over the last five seasons plus 20% of the club's association coefficient.
+Before 1999 a number of strong teams in the UEFA Cup were seeded such that those teams did not meet in the first two rounds. To determine these teams, the sum of the ratio of the number of points achieved to the number of games played by each team, was calculated for the past five seasons.
+Top club by period
+The following data indicate the top-ranked clubs in each 5-year period. Data prior to 1975–1979 period has been calculated, but precedes the first published by the Confederation and has merely informative value.
+Top-rated clubs listed by number of times they were top-ranked over a 5-year period since the first period officially analysed (1975–1979):
+Women's club coefficient
+The season coefficient of a club is calculated by adding the total number of points it obtains in a given season and 20% of its association's coefficient for that same season. A club's five-season coefficient is the cumulative total of its five season coefficients from the reference period and 20% of its association's five-season association's coefficient. This ranking is used by UEFA to determine a club's seeding in club competition draws, including the qualifying and group stages of the UEFA Women's Champions League.
+The distribution of points is symmetrical to the distribution of points in association ranking.
+Current team ranking
+The ranking below takes into account of each team's performance in European competitions from 2018–19 to 2022–23, with the 2022–23 season starting 18 August 2022.
+The top 25 clubs as of 23 December 2022 are as follows:
+Top club by period
+The following data indicate the top-ranked women's clubs in each 5-year period.
+Top-rated women's clubs listed by number of times they were top-ranked over a 5-year period since the first period officially analysed (2001–2005):
+Men's amateur coefficient
+UEFA calculates coefficients for each association that takes part in the UEFA Regions' Cup. These coefficients are calculated to compile ranking lists that are used to determine the round in which each team enters the competition and to seed the teams for the draws. The coefficient ranking list is established for the preliminary and intermediate round draws on the basis of the associations’ results in the three most recent completed seasons at the time of the draws. For the 2022–23 competition, the coefficient ranking list is therefore based on the associations' results in the seasons 2014–15, 2016–17 and 2018–19.
+As of 8 December 2021 the coefficients are as follows:
+Points are awarded for each match played in the qualifying competition. Match points are awarded in accordance with the final scores as ratified by UEFA. Final tournament matches and penalty shoot-outs are not taken into consideration. In addition to the match points, the bonus points are awarded for each season.The points are given as follows:
+Futsal tournaments' coefficient
+Men's national team
+Since 2020 FIFA Futsal World Cup qualification, coefficients are based on the Elo rating system and are constantly updated to all non-friendly matches. This ranking is used to seed national teams on UEFA competitions and to decide the number of clubs from an association that will participate in the UEFA Futsal Champions League.
+The rating below is the situation after the UEFA Futsal Euro 2022 qualifications have been played:
+2020 ranking
+The coefficients from 2020 used for the seeding and pot placements in the draw for UEFA Women's Futsal Euro 2022, were based on results on 2019 edition.
+Men's futsal club coefficient
+The club coefficient, used to determine seeds and entrance round on the UEFA Futsal Champions League, is the sum of the points earned by the club in that competition on the previous three seasons and 50% of the club's association coefficient over the same period. The association coefficient is the sum of the points earned by all the clubs of the association. Even though all calculation procedures are public for association and club coefficients, UEFA only publishes the coefficients of the clubs competing in the next season of UEFA Futsal Champions League.
+The coefficients for the top 16 teams competing on 2022–23 UEFA Futsal Champions League are as follows:
+Criticisms
+The UEFA coefficient system has been criticised for being likely to preserve the status quo for rankings and seedings, as well as for favouring teams from stronger leagues.

@@ -1,0 +1,96 @@
+Basel problem
+The Basel problem is a problem in mathematical analysis with relevance to number theory, concerning an infinite sum of inverse squares. It was first posed by Pietro Mengoli in 1650 and solved by Leonhard Euler in 1734, and read on 5 December 1735 in The Saint Petersburg Academy of Sciences. Since the problem had withstood the attacks of the leading mathematicians of the day, Euler's solution brought him immediate fame when he was twenty-eight. Euler generalised the problem considerably, and his ideas were taken up years later by Bernhard Riemann in his seminal 1859 paper "On the Number of Primes Less Than a Given Magnitude", in which he defined his zeta function and proved its basic properties. The problem is named after Basel, hometown of Euler as well as of the Bernoulli family who unsuccessfully attacked the problem.
+The Basel problem asks for the precise summation of the reciprocals of the squares of the natural numbers, i.e. the precise sum of the infinite series:
+The sum of the series is approximately equal to 1.644934. The Basel problem asks for the exact sum of this series (in closed form), as well as a proof that this sum is correct. Euler found the exact sum to be $MATH$ and announced this discovery in 1735. His arguments were based on manipulations that were not justified at the time, although he was later proven correct. He produced a truly rigorous proof in 1741.
+The solution to this problem can be used to estimate the probability that two large random numbers are coprime. Two random integers in the range from 1 to $MATH$, in the limit as $MATH$ goes to infinity, are relatively prime with a probability that approaches $MATH$, the reciprocal of the solution to the Basel problem.
+Euler's approach
+Euler's original derivation of the value $MATH$ essentially extended observations about finite polynomials and assumed that these same properties hold true for infinite series.
+Of course, Euler's original reasoning requires justification (100 years later, Karl Weierstrass proved that Euler's representation of the sine function as an infinite product is valid, by the Weierstrass factorization theorem), but even without justification, by simply obtaining the correct value, he was able to verify it numerically against partial sums of the series. The agreement he observed gave him sufficient confidence to announce his result to the mathematical community.
+To follow Euler's argument, recall the Taylor series expansion of the sine function
+Dividing through by $MATH$ gives
+The Weierstrass factorization theorem shows that the left-hand side is the product of linear factors given by its roots, just as for finite polynomials. Euler assumed this as a heuristic for expanding an infinite degree polynomial in terms of its roots, but in fact is not always true for general $MATH$. This factorization expands the equation into:
+If we formally multiply out this product and collect all the x2 terms (we are allowed to do so because of Newton's identities), we see by induction that the x2 coefficient of sin x/x is 
+But from the original infinite series expansion of sin x/x, the coefficient of x2 is −1/3! = −1/6. These two coefficients must be equal; thus,
+Multiplying both sides of this equation by −π2 gives the sum of the reciprocals of the positive square integers.
+This method of calculating $MATH$ is detailed in expository fashion most notably in Havil's Gamma book which details many zeta function and logarithm-related series and integrals, as well as a historical perspective, related to the Euler gamma constant.
+Generalizations of Euler's method using elementary symmetric polynomials
+Using formulae obtained from elementary symmetric polynomials, this same approach can be used to enumerate formulae for the even-indexed even zeta constants which have the following known formula expanded by the Bernoulli numbers:
+For example, let the partial product for $MATH$ expanded as above be defined by $MATH$. Then using known formulas for elementary symmetric polynomials (a.k.a., Newton's formulas expanded in terms of power sum identities), we can see (for example) that
+and so on for subsequent coefficients of $MATH$. There are other forms of Newton's identities expressing the (finite) power sums $MATH$ in terms of the elementary symmetric polynomials, $MATH$ but we can go a more direct route to expressing non-recursive formulas for $MATH$ using the method of elementary symmetric polynomials. Namely, we have a recurrence relation between the elementary symmetric polynomials and the power sum polynomials given as on this page by
+which in our situation equates to the limiting recurrence relation (or generating function convolution, or product) expanded as
+Then by differentiation and rearrangement of the terms in the previous equation, we obtain that
+Consequences of Euler's proof
+By the above results, we can conclude that $MATH$ is always a rational multiple of $MATH$. In particular, since $MATH$ and integer powers of it are transcendental, we can conclude at this point that $MATH$ is irrational, and more precisely, transcendental for all $MATH$. By contrast, the properties of the odd-indexed zeta constants, including Apéry's constant $MATH$, are almost completely unknown.
+The Riemann zeta function
+The Riemann zeta function ζ(s) is one of the most significant functions in mathematics because of its relationship to the distribution of the prime numbers. The zeta function is defined for any complex number s with real part greater than 1 by the following formula:
+Taking s = 2, we see that ζ(2) is equal to the sum of the reciprocals of the squares of all positive integers:
+Convergence can be proven by the integral test, or by the following inequality:
+This gives us the upper bound 2, and because the infinite sum contains no negative terms, it must converge to a value strictly between 0 and 2. It can be shown that ζ(s) has a simple expression in terms of the Bernoulli numbers whenever s is a positive even integer. With s = 2n:
+A proof using Euler's formula and L'Hôpital's rule
+The normalized sinc function $MATH$ has a Weierstrass factorization representation as an infinite product:
+The infinite product is analytic, so taking the natural logarithm of both sides and differentiating yields
+(by uniform convergence, the interchange of the derivative and infinite series is permissible). After dividing the equation by $MATH$ and regrouping one gets
+We make a change of variables ($MATH$):
+Euler's formula can be used to deduce that
+or using hyperbolic function:
+Then
+Now we take the limit as $MATH$ approaches zero and use L'Hôpital's rule thrice. By Tannery's theorem applied to $MATH$, we can interchange the limit and infinite series so that $MATH$ and by L'Hôpital's rule
+A proof using Fourier series
+Use Parseval's identity (applied to the function f(x) = x) to obtain
+where
+for n ≠ 0, and c0 = 0. Thus,
+and
+Therefore,
+as required.
+Another proof using Parseval's identity
+Given a complete orthonormal basis in the space $MATH$ of L2 periodic functions over $MATH$ (i.e., the subspace of square-integrable functions which are also periodic), denoted by $MATH$, Parseval's identity tells us that
+where $MATH$ is defined in terms of the inner product on this Hilbert space given by
+We can consider the orthonormal basis on this space defined by $MATH$ such that $MATH$. Then if we take $MATH$, we can compute both that
+by elementary calculus and integration by parts, respectively. Finally, by Parseval's identity stated in the form above, we obtain that
+Generalizations and recurrence relations
+Note that by considering higher-order powers of $MATH$ we can use integration by parts to extend this method to enumerating formulas for $MATH$ when $MATH$. In particular, suppose we let
+so that integration by parts yields the recurrence relation that
+Then by applying Parseval's identity as we did for the first case above along with the linearity of the inner product yields that
+Cauchy's proof
+While most proofs use results from advanced mathematics, such as Fourier analysis, complex analysis, and multivariable calculus, the following does not even require single-variable calculus (until a single limit is taken at the end).
+For a proof using the residue theorem, see the linked article.
+History of this proof
+The proof goes back to Augustin Louis Cauchy (Cours d'Analyse, 1821, Note VIII). In 1954, this proof appeared in the book of Akiva and Isaak Yaglom "Nonelementary Problems in an Elementary Exposition". Later, in 1982, it appeared in the journal Eureka, attributed to John Scholes, but Scholes claims he learned the proof from Peter Swinnerton-Dyer, and in any case he maintains the proof was "common knowledge at Cambridge in the late 1960s".
+The proof
+The main idea behind the proof is to bound the partial (finite) sums
+between two expressions, each of which will tend to π2/6 as m approaches infinity. The two expressions are derived from identities involving the cotangent and cosecant functions. These identities are in turn derived from de Moivre's formula, and we now turn to establishing these identities.
+Let x be a real number with 0 < x < π/2, and let n be a positive odd integer. Then from de Moivre's formula and the definition of the cotangent function, we have
+From the binomial theorem, we have
+Combining the two equations and equating imaginary parts gives the identity
+We take this identity, fix a positive integer m, set n = 2m + 1, and consider xr = rπ/2m + 1 for r = 1, 2, ..., m. Then nxr is a multiple of π and therefore sin(nxr) = 0. So,
+for every r = 1, 2, ..., m. The values xr = x1, x2, ..., xm are distinct numbers in the interval 0 < xr < π/2. Since the function cot2 x is one-to-one on this interval, the numbers tr = cot2 xr are distinct for r = 1, 2, ..., m. By the above equation, these m numbers are the roots of the mth degree polynomial
+By Vieta's formulas we can calculate the sum of the roots directly by examining the first two coefficients of the polynomial, and this comparison shows that
+Substituting the identity csc2 x = cot2 x + 1, we have
+Now consider the inequality cot2 x < 1/x2 < csc2 x (illustrated geometrically above). If we add up all these inequalities for each of the numbers xr = rπ/2m + 1, and if we use the two identities above, we get
+Multiplying through by (π/2m + 1)2, this becomes
+As m approaches infinity, the left and right hand expressions each approach π2/6, so by the squeeze theorem,
+and this completes the proof.
+Proof assuming Weil's conjecture on Tamagawa numbers
+A proof is also possible assuming Weil's conjecture on Tamagawa numbers.  The conjecture asserts for the case of the algebraic group SL2(R) that the Tamagawa number of the group is one.  That is, the quotient of the special linear group over the rational adeles by the special linear group of the rationals (a compact set, because $MATH$ is a lattice in the adeles) has Tamagawa measure 1:
+To determine a Tamagawa measure, the group $MATH$ consists of matrices
+with $MATH$.  An invariant volume form on the group is
+The measure of the quotient is the product of the measures of $MATH$ corresponding to the infinite place, and the measures of $MATH$ in each finite place, where $MATH$ is the p-adic integers.  
+For the local factors,
+where $MATH$ is the field with $MATH$ elements, and $MATH$ is the congruence subgroup modulo $MATH$.  Since each of the coordinates $MATH$ map the latter group onto $MATH$ and $MATH$, the measure of $MATH$ is $MATH$, where $MATH$ is the normalized Haar measure on $MATH$.  Also, a standard computation shows that $MATH$.  Putting these together gives $MATH$.
+At the infinite place, an integral computation over the fundamental domain of $MATH$ shows that $MATH$, and therefore the Weil conjecture finally gives
+On the right-hand side, we recognize the Euler product for $MATH$, and so this gives the solution to the Basel problem.
+This approach shows the connection between (hyperbolic) geometry and arithmetic, and can be inverted to give a proof of the Weil conjecture for the special case of $MATH$, contingent on an independent proof that $MATH$.
+Other identities
+See the special cases of the identities for the Riemann zeta function when $MATH$ Other notably special identities and representations of this constant appear in the sections below.
+Series representations
+The following are series representations of the constant:
+There are also BBP-type series expansions for ζ(2).
+Integral representations
+The following are integral representations of $MATH$
+Continued fractions
+In van der Poorten's classic article chronicling Apéry's proof of the irrationality of $MATH$, the author notes several parallels in proving the irrationality of $MATH$ to Apéry's proof. In particular, he documents recurrence relations for almost integer sequences converging to the constant and continued fractions for the constant. Other continued fractions for this constant include
+and
+where $MATH$ and $MATH$.
+See also
+References
+Notes

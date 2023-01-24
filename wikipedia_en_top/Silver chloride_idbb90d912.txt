@@ -1,0 +1,15 @@
+Silver chloride
+Silver chloride is a chemical compound with the chemical formula AgCl. This white crystalline solid is well known for its low solubility in water (this behavior being reminiscent of the chlorides of Tl+ and Pb2+). Upon illumination or heating, silver chloride converts to silver (and chlorine), which is signaled by grey to black or purplish coloration to some samples. AgCl occurs naturally as a mineral chlorargyrite.
+Preparation
+Silver chloride is unusual in that, unlike most chloride salts, it has very low solubility. It is easily synthesized by metathesis: combining an aqueous solution of silver nitrate (which is soluble) with a soluble chloride salt, such as sodium chloride or cobalt(II) chloride. The silver chloride that forms will precipitate immediately.
+Structure and reactions
+The solid adopts the fcc NaCl structure, in which each Ag+ ion is surrounded by an octahedron of six chloride ligands. AgF and AgBr crystallize similarly. However, the crystallography depends on the condition of crystallization, primarily free silver ion concentration, as is shown on the pictures left (greyish tint and metallic lustre are due to partly reduced silver). AgCl dissolves in solutions containing ligands such as chloride, cyanide, triphenylphosphine, thiosulfate, thiocyanate and ammonia. Silver chloride reacts with these ligands according to the following illustrative equations:
+Silver chloride does not react with nitric acid.
+Most complexes derived from AgCl are two-, three-, and, in rare cases, four-coordinate, adopting linear, trigonal planar, and tetrahedral coordination geometries, respectively.
+Above 2 reactions are particularly important in qualitative analysis of AgCl in labs as AgCl is white in colour, which changes to $MATH$ (silver arsenite) which is yellow in colour or $MATH$(Silver arsenate) which is reddish brown in colour.
+Chemistry
+In one of the most famous reactions in chemistry, addition of colorless aqueous silver nitrate to an equally colorless solution of sodium chloride produces an opaque white precipitate of AgCl:
+This conversion is a common test for the presence of chloride in solution. Due to its conspicuousness it is easily used in titration, which gives the typical case of argentometry.
+The solubility product, Ksp, for AgCl in water is 1.77×10−10 at room temperature, which indicates that only 1.9 mg (that is, $MATH$) of AgCl will dissolve per liter of water. The chloride content of an aqueous solution can be determined quantitatively by weighing the precipitated AgCl, which conveniently is non-hygroscopic, since AgCl is one of the few transition metal chlorides that is unreactive toward water. Interfering ions for this test are bromide and iodide, as well as a variety of ligands (see silver halide). For AgBr and AgI, the Ksp values are 5.2 x 10−13 and 8.3 x 10−17, respectively. Silver bromide (slightly yellowish white) and silver iodide (bright yellow) are also significantly more photosensitive than is AgCl.
+AgCl quickly darkens on exposure to light by disintegrating into elemental chlorine and metallic silver. This reaction is used in photography and film.
+Uses

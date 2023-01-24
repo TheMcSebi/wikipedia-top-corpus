@@ -1,0 +1,26 @@
+C. R. Rao
+Calyampudi Radhakrishna Rao FRS (born 10 September 1920), commonly known as C. R. Rao, is an Indian-American mathematician and statistician. He is currently professor emeritus at Pennsylvania State University and Research Professor at the University at Buffalo. Rao has  been honoured by numerous colloquia, honorary degrees, and festschrifts and was awarded the US National Medal of Science in 2002. The American Statistical Association has described him as "a living legend whose work has influenced not just statistics, but has had far reaching implications for fields as varied as economics, genetics, anthropology, geology, national planning, demography, biometry, and medicine." The Times of India listed Rao as one of the top 10 Indian scientists of all time. Rao is also a Senior Policy and Statistics advisor for the Indian Heart Association non-profit focused on raising South Asian cardiovascular disease awareness.
+
+
+Early life
+C. R. Rao was the eighth of the ten children born to a Telugu family in Hadagali, Bellary, Madras Presidency (now in Karnataka), India. His schooling was completed in Gudur, Nuzvid, Nandigama, and Visakhapatnam, all in the present state of Andhra Pradesh. He received an MSc in mathematics from Andhra University and an MA in statistics from Calcutta University in 1943. He obtained a PhD degree at King's College in Cambridge University under R. A. Fisher in 1948, to which he added a DSc degree, also from Cambridge, in 1965.
+Rao first worked at the Indian Statistical Institute and the Anthropological Museum in Cambridge. Later he held several important positions, as the Director of the Indian Statistical Institute, Jawaharlal Nehru Professor and National Professor in India, University Professor at the University of Pittsburgh and Eberly Professor and Chair of Statistics and Director of the Center for Multivariate Analysis at Pennsylvania State University.
+As Head and later Director of the Research and Training School at the Indian Statistical Institute for a period of over 40 years, Rao developed research and training programs and produced several leaders in the field of Mathematics. On the basis of Rao's recommendation, the ASI (The Asian Statistical Institute) now known as Statistical Institute for Asia and Pacific was established in Tokyo to provide training to statisticians working in government and industrial organizations.
+Among his best-known discoveries are the Cramér–Rao bound and the Rao–Blackwell theorem both related to the quality of estimators. Other areas he worked in include multivariate analysis, estimation theory, and differential geometry. His other contributions include the Fisher–Rao theorem, Rao distance, and orthogonal arrays. He is the author of 14 books and has published over 400 journal publications.
+Rao has received 38 honorary doctoral degrees from universities in 19 countries around the world and numerous awards and medals for his contributions to statistics and science. He is a member of eight National Academies in India, the United Kingdom, the United States, and Italy. Rao was awarded the United States National Medal of Science, that nation's highest award for lifetime achievement in fields of scientific research, in June 2002. He was given the India Science Award in 2010, the highest honor conferred by the government of India in a scientific domain. In 2013, he was nominated for the Nobel Peace Prize, along with Miodrag Lovric (Editor) and Shlomo Sawilowsky, for their contribution to the International Encyclopedia of Statistical Science. He was most recently honoured with his 38th honorary doctorate by the Indian Institute of Technology, Kharagpur, on 26 July 2014 for "his contributions to the foundations of modern statistics through the introduction of concepts such as Cramér–Rao inequality, Rao–Blackwellization, Rao distance, Rao measure, and for introducing the idea of orthogonal arrays for the industry to design high-quality products."
+He was the President of the International Statistical Institute, Institute of Mathematical Statistics (USA), and the International Biometric Society. He was inducted into the Hall of Fame of India's National Institution for Quality and Reliability (Chennai Branch) for his contribution to industrial statistics and the promotion of quality control programs in industries.
+The Journal of Quantitative Economics published a special issue in Rao's honor in 1991. "Dr. Rao is a very distinguished scientist and a highly eminent statistician of our time. His contributions to statistical theory and
+applications are well known, and many of his results, which bear his name, are included in the curriculum of courses in statistics at bachelor's and master's level all over the world. He is an inspiring teacher and has guided the
+research work of numerous students in all areas of statistics. His early work had greatly influenced the course of statistical research during the last four decades. One of the purposes of this special issue is to recognize Dr. Rao's own contributions to econometrics and acknowledge his major role in the
+development of econometric research in India."
+Areas of research contributions
+Awards and medals
+In his honour
+Selected publications
+Books
+Edited Volumes
+Textbooks
+Collected Works
+References
+Further reading
+Sources

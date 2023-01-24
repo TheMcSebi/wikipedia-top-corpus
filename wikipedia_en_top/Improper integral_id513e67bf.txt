@@ -1,0 +1,74 @@
+Improper integral
+In mathematical analysis, an improper integral is the limit of a definite integral as an endpoint of the interval(s) of integration approaches either a specified real number or positive or negative infinity; or in some instances as both endpoints approach limits. Such an integral is often written symbolically just like a standard definite integral, in some cases with infinity as a limit of integration.
+Specifically, an improper integral is a limit of the form:
+or
+in which one takes a limit in one or the other (or sometimes both) endpoints (Apostol 1967, §10.23).
+By abuse of notation, improper integrals are often written symbolically just like standard definite integrals, perhaps with infinity among the limits of integration. When the definite integral exists (in the sense of either the Riemann integral or the more powerful Lebesgue integral), this ambiguity is resolved as both the proper and improper integral will coincide in value.
+Often one is able to compute values for improper integrals, even when the function is not integrable in the conventional sense (as a Riemann integral, for instance) because of a singularity in the function or because one of the bounds of integration is infinite.
+Examples
+The original definition of the Riemann integral does not apply to a function such as $MATH$ on the interval [1, ∞), because in this case the domain of integration is unbounded. However, the Riemann integral can often be extended by continuity, by defining the improper integral instead as a limit
+The narrow definition of the Riemann integral also does not cover the function $MATH$ on the interval [0, 1]. The problem here is that the integrand is unbounded in the domain of integration (the definition requires that both the domain of integration and the integrand be bounded). However, the improper integral does exist if understood as the limit
+Sometimes integrals may have two singularities where they are improper. Consider, for example, the function 1/((x + 1)√x) integrated from 0 to ∞ (shown right). At the lower bound, as x goes to 0 the function goes to ∞, and the upper bound is itself ∞, though the function goes to 0. Thus this is a doubly improper integral. Integrated, say, from 1 to 3, an ordinary Riemann sum suffices to produce a result of π/6. To integrate from 1 to ∞, a Riemann sum is not possible. However, any finite upper bound, say t (with t > 1), gives a well-defined result, 2 arctan(√t) − π/2. This has a finite limit as t goes to infinity, namely π/2. Similarly, the integral from 1/3 to 1 allows a Riemann sum as well, coincidentally again producing π/6. Replacing 1/3 by an arbitrary positive value s (with s < 1) is equally safe, giving π/2 − 2 arctan(√s). This, too, has a finite limit as s goes to zero, namely π/2. Combining the limits of the two fragments, the result of this improper integral is
+This process does not guarantee success; a limit might fail to exist, or might be infinite. For example, over the bounded interval from 0 to 1 the integral of 1/x does not converge; and over the unbounded interval from 1 to ∞ the integral of 1/√x does not converge.
+It might also happen that an integrand is unbounded near an interior point, in which case the integral must be split at that point. For the integral as a whole to converge, the limit integrals on both sides must exist and must be bounded. For example:
+But the similar integral
+cannot be assigned a value in this way, as the integrals above and below zero do not independently converge. (However, see Cauchy principal value.)
+Convergence of the integral
+An improper integral converges if the limit defining it exists.  Thus for example one says that the improper integral
+exists and is equal to L if the integrals under the limit exist for all sufficiently large t, and the value of the limit is equal to L.
+It is also possible for an improper integral to diverge to infinity.  In that case, one may assign the value of ∞ (or −∞) to the integral. For instance 
+However, other improper integrals may simply diverge in no particular direction, such as
+which does not exist, even as an extended real number. This is called divergence by oscillation.
+A limitation of the technique of improper integration is that the limit must be taken with respect to one endpoint at a time.  Thus, for instance, an improper integral of the form
+can be defined by taking two separate limits; to wit
+provided the double limit is finite. It can also be defined as a pair of distinct improper integrals of the first kind:
+where c is any convenient point at which to start the integration. This definition also applies when one of these integrals is infinite, or both if they have the same sign.
+An example of an improper integral where both endpoints are infinite is the Gaussian integral $MATH$. An example which evaluates to infinity is $MATH$. But one cannot even define other integrals of this kind unambiguously, such as $MATH$, since the double limit is infinite and the two-integral method
+yields $MATH$. In this case, one can however define an improper integral in the sense of Cauchy principal value:
+The questions one must address in determining an improper integral are:
+The first question is an issue of mathematical analysis. The second one can be addressed by calculus techniques, but also in some cases by contour integration, Fourier transforms and other more advanced methods.
+Types of integrals
+There is more than one theory of integration. From the point of view of calculus, the Riemann integral theory is usually assumed as the default theory. In using improper integrals, it can matter which integration theory is in play.
+Improper Riemann integrals and Lebesgue integrals
+In some cases, the integral
+can be defined as an integral (a Lebesgue integral, for instance) without reference to the limit
+but cannot otherwise be conveniently computed.  This often happens when the function f being integrated from a to c has a vertical asymptote at c, or if c = ∞ (see Figures 1 and 2).  In such cases, the improper Riemann integral allows one to calculate the Lebesgue integral of the function.  Specifically, the following theorem holds  (Apostol 1974, Theorem 10.33):
+For example, the integral
+can be interpreted alternatively as the improper integral
+or it may be interpreted instead as a Lebesgue integral over the set (0, ∞).  Since both of these kinds of integral agree, one is free to choose the first method to calculate the value of the integral, even if one ultimately wishes to regard it as a Lebesgue integral.  Thus improper integrals are clearly useful tools for obtaining the actual values of integrals.
+In other cases, however, a Lebesgue integral between finite endpoints may not even be defined, because the integrals of the positive and negative parts of f are both infinite, but the improper Riemann integral may still exist.  Such cases are "properly improper" integrals, i.e. their values cannot be defined except as such limits.  For example,
+cannot be interpreted as a Lebesgue integral, since
+But $MATH$ is nevertheless integrable between any two finite endpoints, and its integral between 0 and ∞ is usually understood as the limit of the integral:
+Singularities
+One can speak of the singularities of an improper integral, meaning those points of the extended real number line at which limits are used.
+Cauchy principal value
+Consider the difference in values of two limits:
+The former is the Cauchy principal value of the otherwise ill-defined expression
+Similarly, we have
+but
+The former is the principal value of the otherwise ill-defined expression
+All of the above limits are cases of the indeterminate form ∞ − ∞.
+These pathologies do not affect "Lebesgue-integrable" functions, that is, functions the integrals of whose absolute values are finite.
+Summability
+An improper integral may diverge in the sense that the limit defining it may not exist.  In this case, there are more sophisticated definitions of the limit which can produce a convergent value for the improper integral.  These are called summability methods.
+One summability method, popular in Fourier analysis, is that of Cesàro summation.  The integral
+is Cesàro summable (C, α) if
+exists and is finite (Titchmarsh 1948, §1.15).  The value of this limit, should it exist, is the (C, α) sum of the integral.
+An integral is (C, 0) summable precisely when it exists as an improper integral.  However, there are integrals which are (C, α) summable for α > 0 which fail to converge as improper integrals (in the sense of Riemann or Lebesgue). One example is the integral
+which fails to exist as an improper integral, but is (C,α) summable for every α > 0.  This is an integral version of Grandi's series.
+Multivariable improper integrals
+The improper integral can also be defined for functions of several variables. The definition is slightly different, depending on whether one requires integrating over an unbounded domain, such as $MATH$, or is integrating a function with singularities, like $MATH$.
+Improper integrals over arbitrary domains
+If $MATH$ is a non-negative function that is Riemann integrable over every compact cube of the form $MATH$, for $MATH$, then the improper integral of f over $MATH$ is defined to be the limit
+provided it exists.
+A function on an arbitrary domain A in $MATH$ is extended to a function $MATH$ on $MATH$ by zero outside of A:
+The Riemann integral of a function over a bounded domain A is then defined as the integral of the extended function $MATH$ over a cube $MATH$ containing A:  
+More generally, if A is unbounded, then the improper Riemann integral over an arbitrary domain in $MATH$ is defined as the limit:
+Improper integrals with singularities
+If f is a non-negative function which is unbounded in a domain A, then the improper integral of f is defined by truncating f at some cutoff M, integrating the resulting function, and then taking the limit as M tends to infinity.  That is for $MATH$, set $MATH$.  Then define
+provided this limit exists.
+Functions with both positive and negative values
+These definitions apply for functions that are non-negative.  A more general function f can be decomposed as a difference of its positive part $MATH$ and negative part $MATH$, so
+with $MATH$ and $MATH$ both non-negative functions.  The function f has an improper Riemann integral if each of $MATH$ and $MATH$ has one, in which case the value of that improper integral is defined by
+In order to exist in this sense, the improper integral necessarily converges absolutely, since
+Notes

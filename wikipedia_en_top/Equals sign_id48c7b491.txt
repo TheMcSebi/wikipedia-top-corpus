@@ -1,0 +1,62 @@
+Equals sign
+The equals sign (British English, Unicode) or equal sign (American English), also known as the equality sign, is the mathematical symbol =, which is used to indicate equality in some well-defined sense. In an equation, it is placed between two expressions that have the same value, or for which one studies the conditions under which they have the same value.
+In Unicode and ASCII, it has the code point U+003D. It was invented in 1557 by Robert Recorde.
+History
+The etymology of the word "equal" is from the Latin word "æqualis", as meaning "uniform", "identical", or "equal", from aequus ("level", "even", or "just").
+The = symbol, now universally accepted in mathematics for equality, was first recorded by Welsh mathematician Robert Recorde in The Whetstone of Witte (1557). The original form of the symbol was much wider than the present form. In his book Recorde explains his design of the "Gemowe lines" (meaning twin lines, from the Latin gemellus)
+"The symbol = was not immediately popular. The symbol || was used by some and æ (or œ), from the Latin word aequalis meaning equal, was widely used into the 1700s" (History of Mathematics, University of St Andrews).
+Usage in mathematics and computer programming
+In mathematics, the equal sign can be used as a simple statement of fact in a specific case (x = 2), or to create definitions (let x = 2), conditional statements (if x = 2, then ...), or to express a universal equivalence ((x + 1)² = x² + 2x + 1).
+The first important computer programming language to use the equal sign was the original version of Fortran, FORTRAN I, designed in 1954 and implemented in 1957. In Fortran, = serves as an assignment operator: X = 2 sets the value of X to 2. This somewhat resembles the use of = in a mathematical definition, but with different semantics: the expression following = is evaluated first, and may refer to a previous value of X. For example, the assignment X = X + 2 increases the value of X by 2.
+A rival programming-language usage was pioneered by the original version of ALGOL, which was designed in 1958 and implemented in 1960. ALGOL included a relational operator that tested for equality, allowing constructions like if x = 2 with essentially the same meaning of = as the conditional usage in mathematics. The equal sign was reserved for this usage.
+Both usages have remained common in different programming languages into the early 21st century. As well as Fortran, = is used for assignment in such languages as C, Perl, Python, awk, and their descendants. But = is used for equality and not assignment in the Pascal family, Ada, Eiffel, APL, and other languages.
+A few languages, such as BASIC and PL/I, have used the equal sign to mean both assignment and equality, distinguished by context. However, in most languages where = has one of these meanings, a different character or, more often, a sequence of characters is used for the other meaning. Following ALGOL, most languages that use = for equality use := for assignment, although APL, with its special character set, uses a left-pointing arrow.
+Fortran did not have an equality operator (it was only possible to compare an expression to zero, using the arithmetic IF statement) until FORTRAN IV was released in 1962, since when it has used the four characters .EQ. to test for equality. The language B introduced the use of == with this meaning, which has been copied by its descendant C and most later languages where = means assignment.
+The equal sign is also used in defining attribute–value pairs, in which an attribute is assigned a value.
+Several equal signs
+In PHP, the triple equal sign, ===, denotes value and type equality, meaning that not only do the two expressions evaluate to equal values, but they are also of the same data type. For instance, the expression 0 == false is true, but 0 === false is not, because the number 0 is an integer value whereas false is a Boolean value.
+JavaScript has the same semantics for ===, referred to as "equality without type coercion". However, in JavaScript the behavior of == cannot be described by any simple consistent rules. The expression 0 == false is true, but 0 == undefined is false, even though both sides of the == act the same in Boolean context. For this reason it is sometimes recommended to avoid the == operator in JavaScript in favor of ===.
+In Ruby, equality under == requires both operands to be of identical type, e.g. 0 ==  false is false. The === operator is flexible and may be defined arbitrarily for any given type. For example, a value of type Range is a range of integers, such as 1800..1899. (1800..1899) ==  1844 is false, since the types are different (Range vs. Integer); however (1800..1899) === 1844 is true, since === on Range values means "inclusion in the range". Under these semantics, === is non-symmetric; e.g. 1844 === (1800..1899) is false, since it is interpreted to mean Integer#=== rather than Range#===.
+In most programming languages, == is used to check equality, so 1844 == 1844 will return true.
+Other uses
+Tone letter
+The equal sign is also used as a grammatical tone letter in the orthographies of Budu in the Congo-Kinshasa, in Krumen, Mwan and Dan in the Ivory Coast. The Unicode character used for the tone letter (U+A78A) is different from the mathematical symbol (U+003D).
+Personal names
+A possibly unique case of the equal sign of European usage in a person's name, specifically in a double-barreled name, was by pioneer aviator Alberto Santos-Dumont, as he is also known not only to have often used a double hyphen ⹀ resembling an equal sign = between his two surnames in place of a hyphen, but also seems to have personally preferred that practice, to display equal respect for his father's French ethnicity and the Brazilian ethnicity of his mother.
+Instead of a double hyphen, the equal sign is sometimes used in Japanese as a separator between names. In Ojibwe, the readily available equal sign on a keyboard is used as a substitute for a double hyphen.
+Linguistics
+In linguistic interlinear glosses, an equal sign is conventionally used to mark clitic boundaries: the equal sign is placed between the clitic and the word that the clitic is attached to.
+Chemistry
+In chemical formulas, the two parallel lines denoting a double bond are commonly rendered using an equal sign.
+LGBT symbol
+In recent years, the equal sign has been used to symbolize LGBT rights. The symbol has been used since 1995 by the Human Rights Campaign, which lobbies for marriage equality, and subsequently by the United Nations Free & Equal, which promotes LGBT rights at the United Nations.
+Hate speech
+The not equal (≠) symbol has been adopted by some white supremacist and other racist groups.
+Telegrams and Telex
+In Morse code, the equal sign is encoded by the letters B (-...) and T (-) run together (-...-). The letters BT stand for Break Text, and are put between paragraphs, or groups of paragraphs in messages sent via Telex, a standardised tele-typewriter. The sign, used to mean Break Text, is given at the end of a telegram to separate the text of the message from the signature.
+Related symbols
+Approximately equal
+Symbols used to denote items that are approximately equal include the following:
+In some areas of East Asia such as Japan, "≒" is used to mean "the two terms are almost equal", but in other areas and specialized literature such as mathematics, "≃" is often used. In addition to its mathematical meaning, it is sometimes used in Japanese sentences with the intention of "almost the same."
+Not equal
+The symbol used to denote inequation (when items are not equal) is a slashed equal sign ≠ (U+2260). In LaTeX, this is done with the "\neq" command.
+Most programming languages, limiting themselves to the 7-bit ASCII character set and typeable characters, use ~=, !=, /=, or <> to represent their Boolean inequality operator.
+Identity
+The triple bar symbol ≡ (U+2261, LaTeX \equiv) is often used to indicate an identity, a definition (which can also be represented by U+225D ≝ EQUAL TO BY DEFINITION  or U+2254 ≔ COLON EQUALS), or a congruence relation in modular arithmetic.
+Isomorphism
+The symbol ≅ is often used to indicate isomorphic algebraic structures or congruent geometric figures.
+In logic
+Equality of truth values (through bi-implication or logical equivalence), may be denoted by various symbols including =, ~, and ⇔.
+Other related symbols
+Additional precomposed symbols with code points in Unicode for notations related to the equal sign include:
+Incorrect usage
+The equal sign is sometimes used incorrectly within a mathematical argument to connect math steps in a non-standard way, rather than to show equality (especially by early mathematics students).
+For example, if one were finding the sum, step by step, of the numbers 1, 2, 3, 4, and 5, one might incorrectly write
+Structurally, this is shorthand for
+but the notation is incorrect, because each part of the equality has a different value. If interpreted strictly as it says, it would imply that
+A correct version of the argument would be
+This difficulty results from subtly different uses of the sign in education. In early, arithmetic-focused grades, the equal sign may be operational; like the equal button on an electronic calculator, it demands the result of a calculation. Starting in algebra courses, the sign takes on a relational meaning of equality between two calculations. Confusion between the two uses of the sign sometimes persists at the university level.
+Encodings
+Related:
+See also
+Notes

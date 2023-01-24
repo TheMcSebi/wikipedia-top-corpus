@@ -1,0 +1,82 @@
+Umpire (cricket)
+
+
+In cricket, an umpire (from the Old French nompere meaning not a peer, i.e. not a  member of one of the teams, impartial) is a person who has the authority to make decisions about events on the cricket field according to the Laws of Cricket. Besides making decisions about legality of delivery, appeals for wickets and general conduct of the Game in a legal manner, the umpire also keeps a record of the deliveries and announces the completion of an over.
+A cricket umpire is not to be confused with the referee who usually presides only over international matches and makes no decisions affecting the outcome of the game.
+Overview
+Traditionally, cricket matches have two umpires on the field, one standing at the end where the bowler delivers the ball (bowler's end), and one directly opposite the facing batsman (usually, but not always, at square leg). However, in the modern game, there may be more than two umpires; for example Test Matches have four: two on-field umpires, a third umpire who has access to video replays, and a fourth umpire who looks after the match balls and takes out the drinks for the on-field umpires.
+The International Cricket Council (ICC) has three panels of umpires: namely the Elite Panel of Umpires, the larger International Panel of Umpires and the Development Panel of ICC Umpires. Most Test matches are controlled by neutral members of the Elite Panel, with local members of the International Panel providing, usually in the third or fourth umpire roles. Members of the International Panel will occasionally officiate as neutral on-field umpires in Tests. Members of the three panels officiate in One Day International (ODI) and Twenty20 International (T20I) matches.
+Professional matches also have a match referee, who complements the role of the umpires. The match referee makes no decisions relevant to the outcome of the game, but instead enforces the ICC Cricket Code of Conduct, ensuring the game is played in a reputable manner. The ICC appoints a match referee from its Elite Panel of Referees to adjudicate Test matches and ODIs.
+Minor cricket matches will often have trained umpires. The independent Association of Cricket Umpires and Scorers (ACU&S), formed in 1955, used to conduct umpire training within the UK. It however merged to form the ECB Association of Cricket Officials (ECB ACO) on 1 January 2008. A new structure of cricket umpiring and scoring qualifications has now been put into place and the ACO provides training and examinations for these. Cricket Australia has introduced a two-tier accreditation scheme and eventually all umpires will be required to achieve the appropriate level of accreditation.  The ages of umpires can vary enormously as some are former players, while others enter the cricketing world as umpires.
+In accordance with the tradition of cricket, most ordinary, local games will have two umpires, one supplied by each side, who will fairly enforce the accepted rules.
+Positions
+When a ball is being bowled, one umpire (the bowler's end umpire) stands behind the stumps at the non-striker's end (that is, the end from which the ball is being bowled), which gives them a view straight down the pitch.
+The second (the striker's end umpire) takes the position that they feel gives them the best view of the play.  Through long tradition, this is usually square leg – in line with the popping crease and a few yards to the batsman's leg side – hence they are sometimes known as the square leg umpire.
+However, if a fielder takes up position at square leg or somewhere so as to block their view, or if there is an injured batsman with a runner, then the umpire must move somewhere else – typically either a short distance or to point on the opposite side of the batsman. If the square-leg umpire elects to stand at point, they are required to inform both the batsmen, the captain of the fielding team, and their colleague. They may also move to the point position later in the afternoon if the setting sun prevents a clear view of the popping crease at their end.
+It is up to the umpires to keep out of the way of both the ball and the players. In particular, if the ball is hit and the players attempt a run, then the umpire behind the stumps will generally retreat to the side, in case the fielding side attempts a run out at that end.
+At the end of each over, the two umpires will exchange roles. Because the bowler's end alternates between overs, this means they only move a short distance.
+Decisions and signals
+During play, the umpire at the bowler's end makes the decisions, which they mainly indicate using arm signals. Some decisions must be instantaneous, whereas for others they may pause to think or discuss it with the square leg umpire, especially if the latter may have had a better view.
+At the end of an over
+The umpire keeps a record of the deliveries and announces the completion of an over. Occasionally an umpire may miscount, leading to one too many or too few balls being bowled in the over, however in most grades the scorers may communicate with the umpires to determine the correct count.
+When the ball is in play
+These decisions have an important effect on the play and are signalled straight away.
+Out
+An umpire will not give a batsman out unless an appeal is made by the fielding side, though a batsman may walk if they know themself to be out. This is nowadays rare, especially in Tests and first-class matches for contentious decisions; however, it is the norm for a batsman to walk when they are bowled or obviously caught. If the fielding side believes a batsman is out, the fielding side must appeal, by asking the umpire to provide a ruling.
+The umpire's response is either to raise their index finger above their head to indicate that the batsman is out, or to clearly say "not out", which is usually accompanied with a shake of the head. The 'out' signal is the only signal that, if indicated by the striker's end umpire, does not require confirmation by the bowler's end umpire.
+No-ball
+Either umpire may call, and signal, no-ball, for an illegal delivery, although each umpire has unique jurisdictions. The most usual causes for no-balls are foot faults or a ball passing above a batsman's waist without bouncing, each of these being under the jurisdiction of the umpire at the bowler's end. The square-leg umpire will rarely have to call a no-ball, as their jurisdiction is limited to infringements that occur less frequently such as short pitched deliveries which pass the batting crease above the batsman's shoulders. The signal is to hold one arm out horizontally and shout "no-ball"; the idea being that the batsman is aware of the no-ball being bowled. In matches under the auspices of the ICC, it may also be a no-ball if the umpire feels that the bowler's arm is bent more than 15 degrees (throwing rather than bowling). The ICC have chosen to amend Law 21.2 (Fair Delivery – the arm) as a result of controversy concerning the legality or otherwise of bowling actions of certain prominent bowlers.
+Free hit
+In certain forms of limited overs cricket, such as T20s and ODIs, a no-ball that is the result of the bowler overstepping  the crease or bowling above a batsman's waist will be penalised by the next delivery being a free hit. The umpire will signal this by circling a finger horizontally over their head, usually following a no-ball signal (and any other signals associated with the no-ball such as a boundary). During a free hit delivery, batters cannot be dismissed caught, bowled, leg before wicket or stumped.
+Wide
+A wide is an illegal delivery, due to it being "wide of the striker where they are standing and would also have passed wide of them standing in a normal guard position" (Law 22).
+A wide is signalled by extending both arms out horizontally and is accompanied by a call of Wide Ball.
+If a delivery satisfies the criteria for both a No Ball and a Wide, the call and penalty of No Ball takes precedence.
+Umpires are not to signal a wide until the ball has passed the batsman. If a batsman chooses to pursue a wide delivery, once contact with the bat takes place it cannot be called wide.
+Dead ball
+If the ball is no longer considered in play it is a dead ball. An umpire will signal this by crossing and uncrossing their wrists below their waist with the call Dead Ball, if they are required to do so under certain Laws, and also may do it if they think it is necessary to inform the players.
+A similar signal is also used to indicate a "not out" from the Decision Review System. This is signalled by an umpire crossing their hands in a horizontal position in front and above their waist three times.
+Signals to scorers
+It is important that the scorers note down the play accurately and therefore the appropriate signals will be made by the umpire when the ball is dead (see Law 2.13). In addition to the following, the umpire repeats signals of dead ball, wide, and no-ball to the scorers. Scorers are required to acknowledge the signals from umpires; and umpires are required to get an acknowledgement before allowing the match to proceed.
+Four
+If a batsman scores four when they hit the ball across the boundary (not by actually running them), the umpire signals this by waving their arm back and forth in front of the chest. This signal varies a lot between umpires, from two short, restrained, waves finishing with the arm across the chest, to elaborate signals that resemble those of a conductor of an orchestra.
+Whichever way the umpire signals a four they must, by law, finish with their arm across the chest (so as to avoid confusion about whether a No Ball was delivered as well).
+Six
+A six scored by hitting the ball over the boundary is signalled by the umpire raising both hands above their head.
+For a six to be scored, the ball must come off the bat, so it is impossible to have six byes for a ball crossing the boundary (without there being overthrows).
+Bye
+If runs are to be scored as byes, the umpire will hold up one open palm above the head.
+Leg bye
+Leg byes are signalled by the umpire touching a raised knee.
+Short run
+If one of the batsmen turns to complete runs after the first without grounding their person or equipment behind the popping crease, then a short run is signalled by the umpire tapping their near shoulder with their fingers and the short runs are not scored. If more than one run is short, the umpire will inform the scorers as to the number of runs scored.
+There is also a case of deliberate short running, where the umpire will disallow all runs, although this is a rather rare occurrence.
+Decision Review System
+If the umpire is unsure of a "line decision" (that is, a run out or stumped decision) or if the umpire is unsure whether the ball is a four, a six, or neither, they may refer the matter to the Third Umpire. The umpires may additionally refer decisions to the Third Umpire regarding Bump Balls and catches being taken cleanly (but only after the on-field umpires have consulted and both were unsighted). Additionally the players may decide to refer a dismissal decision to the Third Umpire. The on-field umpire signals a referral using both hands to mime a TV screen by making a box shape.
+If the Third Umpire decides that the on-field umpire made an incorrect decision then they will inform the on-field umpire, via headsets, of what they have seen and tell them to either change their decision or to stay with their original decision. The on-field umpire may then have to signal the 'revoke last signal' sign (below).
+The Third Umpire is not used except in international or important domestic matches.
+Penalty runs
+For extreme misconduct by one team, the umpire may award five penalty runs to the other team. Placing one arm on the opposite shoulder indicates that the penalty runs are awarded to the fielding team, but if the umpire taps that shoulder, the penalties are awarded to the batting team.
+Five penalty runs are more commonly awarded when the ball strikes a foreign object on the field, usually a helmet of the fielding side.
+Last hour
+In Test cricket and first-class cricket, the last hour of the last day of play has special significance. First, there is a minimum number of overs (20 in the Laws of Cricket, fifteen in Tests) that must be bowled in the last hour. Second, and more importantly, a result must be reached before the time elapses and the umpire calls "stumps" for the match to have a winner; otherwise, the match ends with a draw and no winner. The umpire signals the last hour by pointing to their wrist (and the watch on it), which is raised above their head.
+Revoke last signal
+If the umpire makes an incorrect signal, they may revoke it. To do so, they cross their arms across their chest, then makes the corrected signal. A revocation may be made if the umpire discovers an incorrect application of the laws, such as, signalling "out" before realising that the other umpire signalled a no-ball. Also, an umpire may revoke if they accidentally signal a four though they intended to signal six.
+With the implementation of the Decision Review System, a signal may also be revoked if the Third Umpire reports that their review supports reversing the call.
+New Ball
+In matches lasting more than two days the captain usually has the option of taking another new ball after a set number of overs (usually 80) have taken place since a new ball was introduced (an innings always begins with a new ball). The umpire at the bowler's end signals to the scorers that a new ball has been taken by holding the ball above their head. The scorers note the time that the new ball has been taken.
+If the ball is damaged to the extent that it gives either team a disadvantage, it is replaced with a used undamaged ball in similar condition. A similar-condition used ball is also used if the ball is ever lost in the course of play (for example, if a ball hit for six becomes irretrievable).
+In 2007 the International Cricket Council (ICC) brought in a new law stipulating that, in ODIs, after 35 overs have been bowled the ball must be replaced with a clean used ball. In 2011 this rule was changed so that a different ball is used at each end, thus each ball getting used for 25 overs. The balls used in ODIs are white and become discoloured very easily, especially on dusty or abrasive pitches, and thus the ball change is deemed necessary to ensure that the ball is easily visible.
+Power Play
+ICC introduced a system of Powerplays in limited-over cricket which restricts the number of fielders outside the 30-yard circle, among other things. When a Powerplay is beginning, the umpire moves their hand in circular fashion above their head.
+Records
+The Golden Bails Award is given by the International Cricket Council (ICC) to umpires who have stood (officiated) in 100 Test matches. Three umpires have reached this milestone: Aleem Dar, Steve Bucknor and Rudi Koertzen.
+Most Test matches as an umpire:
+The Silver Bails Award is given by the ICC to umpires who have stood in 200 One Day Internationals. Three umpires have reached this milestone: Aleem Dar, Rudi Koertzen and Billy Bowden.
+Most ODI matches as an umpire:
+The Bronze Bails Award is given by the ICC to umpires who have stood in 100 One Day Internationals.  Seventeen umpires have reached this milestone.
+Most T20I matches as an umpire:
+Etymology
+The predecessor of umpire came from the Old French nonper (from non, "not" and per, "equal"), meaning "one who is requested to act as arbiter of a dispute between two people", or that the arbiter is not paired with anyone in the dispute.
+In Middle English, the earliest form of this shows up as noumper around 1350, and the earliest version without the n shows up as owmpere, a variant spelling in Middle English, circa 1440. The n was lost after it was written (in 1426–1427) as a noounpier with the a being the indefinite article. The leading n became attached to the article, changing it to an Oumper around 1475; this sort of linguistic shift is called false splitting. Thus today one says "an umpire" instead of "a numpire".
+The word was applied to the officials of many sports, including association football (where it has been superseded by referee) and baseball (which still uses it).

@@ -1,0 +1,34 @@
+Unix philosophy
+The Unix philosophy, originated by Ken Thompson, is a set of cultural norms and philosophical approaches to minimalist, modular software development. It is based on the experience of leading developers of the Unix operating system. Early Unix developers were important in bringing the concepts of modularity and reusability into software engineering practice, spawning a "software tools" movement. Over time, the leading developers of Unix (and programs that ran on it) established a set of cultural norms for developing software; these norms became as important and influential as the technology of Unix itself, and have been termed the "Unix philosophy."
+The Unix philosophy emphasizes building simple, compact, clear, modular, and extensible code that can be easily maintained and repurposed by developers other than its creators. The Unix philosophy favors composability as opposed to monolithic design.
+Origin
+The Unix philosophy is documented by Doug McIlroy in the Bell System Technical Journal from 1978:
+It was later summarized by Peter H. Salus in A Quarter-Century of Unix (1994):
+In their award-winning Unix paper of 1974, Ritchie and Thompson quote the following design considerations:
+The UNIX Programming Environment
+In their preface to the 1984 book, The UNIX Programming Environment, Brian Kernighan and Rob Pike, both from Bell Labs, give a brief description of the Unix design and the Unix philosophy:
+The authors further write that their goal for this book is "to communicate the UNIX programming philosophy."
+Program Design in the UNIX Environment
+In October 1984, Brian Kernighan and Rob Pike published a paper called Program Design in the UNIX Environment. In this paper, they criticize the accretion of program options and features found in some newer Unix systems such as 4.2BSD and System V, and explain the Unix philosophy of software tools, each performing one general function:
+The authors contrast Unix tools such as cat with larger program suites used by other systems.
+Doug McIlroy on Unix programming
+McIlroy, then head of the Bell Labs Computing Sciences Research Center, and inventor of the Unix pipe, summarized the Unix philosophy as follows:
+Beyond these statements, he has also emphasized simplicity and minimalism in Unix programming:
+Conversely, McIlroy has criticized modern Linux as having software bloat, remarking that, "adoring admirers have fed Linux goodies to a disheartening state of obesity." He contrasts this with the earlier approach taken at Bell Labs when developing and revising Research Unix:
+Do One Thing and Do It Well
+As stated by McIlroy, and generally accepted throughout the Unix community, Unix programs have always been expected to follow the concept of DOTADIW, or "Do One Thing And Do It Well." There are limited sources for the acronym DOTADIW on the Internet, but it is discussed at length during the development and packaging of new operating systems, especially in the Linux community.
+Patrick Volkerding, the project lead of Slackware Linux, invoked this design principle in a criticism of the systemd architecture, stating that, "attempting to control services, sockets, devices, mounts, etc., all within one daemon flies in the face of the Unix concept of doing one thing and doing it well."
+Eric Raymond's 17 Unix Rules
+In his book The Art of Unix Programming that was first published in 2003, Eric S. Raymond (open source advocate and programmer) summarizes the Unix philosophy as KISS Principle of "Keep it Simple, Stupid."  He provides a series of design rules:
+Mike Gancarz: The UNIX Philosophy
+In 1994, Mike Gancarz, a member of Digital Equipment Corporation's Unix Engineering Group (UEG), published The UNIX Philosophy based on his own Unix (Ultrix) port development at DEC in the 1980s and discussions with colleagues. He is also a member of the X Window System development team and author of Ultrix Window Manager (uwm). 
+The book focuses on porting UNIX to different computers during the UNIX wars of the 1980s and describes his philosophy that portability should be more important than the efficiency of using non-standard interfaces for hardware and graphics devices.
+The nine basic "tenets" he claims to be important are
+"Worse is better"
+Richard P. Gabriel suggests that a key advantage of Unix was that it embodied a design philosophy he termed "worse is better", in which simplicity of both the interface and the implementation are more important than any other attributes of the system—including correctness, consistency, and completeness. Gabriel argues that this design style has key evolutionary advantages, though he questions the quality of some results.
+For example, in the early days Unix used a monolithic kernel (which means that user processes carried out kernel system calls all on the user stack). If a signal was delivered to a process while it was blocked on a long-term I/O in the kernel, then what should be done? Should the signal be delayed, possibly for a long time (maybe indefinitely) while the I/O completed? The signal handler could not be executed when the process was in kernel mode, with sensitive kernel data on the stack. Should the kernel back-out the system call, and store it, for replay and restart later, assuming that the signal handler completes successfully?
+In these cases Ken Thompson and Dennis Ritchie favored simplicity over perfection. The Unix system would occasionally return early from a system call with an error stating that it had done nothing—the "Interrupted System Call", or an error number 4 (EINTR) in today's systems.  Of course the call had been aborted in order to call the signal handler. This could only happen for a handful of long-running system calls such as read(), write(), open(), and select(). On the plus side, this made the I/O system many times simpler to design and understand. The vast majority of user programs were never affected because they did not handle or experience signals other than SIGINT and would die right away if one was raised.  For the few other programs—things like shells or text editors that respond to job control key presses—small wrappers could be added to system calls so as to retry the call right away if this EINTR error was raised.  Thus, the problem was solved in a simple manner.
+Criticism
+In a 1981 article entitled "The truth about Unix: The user interface is horrid" published in Datamation, Don Norman criticized the design philosophy of Unix for its lack of concern for the user interface. Writing from his background in cognitive science and from the perspective of the then-current philosophy of cognitive engineering, he focused on how end-users comprehend and form a personal cognitive model of systems—or, in the case of Unix, fail to understand, with the result that disastrous mistakes (such as losing an hour's worth of work) are all too easy.
+See also
+Notes

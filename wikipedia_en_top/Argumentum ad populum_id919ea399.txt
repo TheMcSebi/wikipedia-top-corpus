@@ -1,0 +1,25 @@
+Argumentum ad populum
+
+
+In argumentation theory, an argumentum ad populum (Latin for "appeal to the people") is a fallacious argument which is based on claiming a truth or affirming something is good because the majority thinks so.
+Alternative names
+Other names for the fallacy include: 
+Description
+Argumentum ad populum is a type of informal fallacy, specifically a fallacy of relevance, and is similar to an argument from authority (argumentum ad verecundiam). It uses an appeal to the beliefs, tastes, or values of a group of people, stating that because a certain opinion or attitude is held by a majority, it is therefore correct.
+Appeals to popularity are common in commercial advertising that portrays products as desirable because they are used by many people or associated with popular sentiments instead of communicating the merits of the products themselves.
+The inverse argument, that something that is unpopular must be flawed, is also a form of this fallacy.
+The fallacy is similar in structure to certain other fallacies that involve a confusion between the 'justification' of a belief and its 'widespread acceptance' by a given group of people. When an argument uses the appeal to the beliefs of a group of experts, it takes on the form of an appeal to authority; if the appeal relates to the beliefs of a group of respected elders or the members of one's community over a long time, then it takes on the form of an appeal to tradition. It is also the basis of a number of social phenomena, including communal reinforcement and the bandwagon effect. The Chinese proverb "three men make a tiger" concerns the same idea.
+One who commits this fallacy may assume that individuals commonly analyze and edit their beliefs and behaviors based on majority opinion. This is often not the case. (See conformity.)
+Scholarship
+The philosopher Irving Copi defined argumentum ad populum differently from an appeal to popular opinion itself, as an attempt to rouse the "emotions and enthusiasms of the multitude".
+Douglas N. Walton argues that appeals to popular opinion can be logically valid in some cases, such as in political dialogue within a democracy.
+Reversals
+In some circumstances, a person may argue that the fact that Y people believe X to be true implies that X is false. This line of thought is closely related to the appeal to spite fallacy given that it invokes a person's contempt for the general populace or something about the general populace to persuade them that most are wrong about X. This ad populum reversal commits the same logical flaw as the original fallacy given that the idea "X is true" is inherently separate from the idea that "Y people believe X": "Y people believe in X as true, purely because Y people believe in it, and not because of any further considerations. Therefore X must be false." While Y people can believe X to be true for fallacious reasons, X might still be true. Their motivations for believing X do not affect whether X is true or false.
+Y=most people, a given quantity of people, people of a particular demographic.
+X=a statement that can be true or false.
+Examples:
+In general, the reversal usually goes: Most people believe A and B are both true. B is false. Thus, A is false. The similar fallacy of chronological snobbery is not to be confused with the ad populum reversal. Chronological snobbery is the claim that if belief in both X and Y was popularly held in the past and if Y was recently proved to be untrue then X must also be untrue. That line of argument is based on a belief in historical progress and not—like the ad populum reversal is—on whether or not X and/or Y is currently popular.
+See also
+Notes
+References
+Further reading

@@ -1,0 +1,35 @@
+Primary nutritional groups
+Primary nutritional groups are groups of organisms, divided in relation to the nutrition mode according to the sources of energy and carbon, needed for living, growth and reproduction. The sources of energy can be light or chemical compounds; the sources of carbon can be of organic or inorganic origin.
+The terms aerobic respiration, anaerobic respiration and fermentation (substrate-level phosphorylation) do not refer to primary nutritional groups, but simply reflect the different use of possible electron acceptors in particular organisms, such as O2 in aerobic respiration, or nitrate (NO−3), sulfate (SO2−4) or fumarate in anaerobic respiration, or various metabolic intermediates in fermentation.
+Primary sources of energy
+Phototrophs absorb light in photoreceptors and transform it into chemical energy.
+Chemotrophs release chemical energy.
+The freed energy is stored as potential energy in ATP, carbohydrates, or proteins. Eventually, the energy is used for life processes such as moving, growth and reproduction.
+Plants and some bacteria can alternate between phototrophy and chemotrophy, depending on the availability of light.
+Primary sources of reducing equivalents
+Organotrophs use organic compounds as electron/hydrogen donors.
+Lithotrophs use inorganic compounds as electron/hydrogen donors.
+The electrons or hydrogen atoms from reducing equivalents (electron donors) are needed by both phototrophs and chemotrophs in reduction-oxidation reactions that transfer energy in the anabolic processes of ATP synthesis (in heterotrophs) or biosynthesis (in autotrophs). The electron or hydrogen donors are taken up from the environment.
+Organotrophic organisms are often also heterotrophic, using organic compounds as sources of both electrons and carbon. Similarly, lithotrophic organisms are often also autotrophic, using inorganic sources of electrons and CO2 as their inorganic carbon source.
+Some lithotrophic bacteria can utilize diverse sources of electrons, depending on the availability of possible donors.
+The organic or inorganic substances (e.g., oxygen) used as electron acceptors needed in the catabolic processes of aerobic or anaerobic respiration and fermentation are not taken into account here.
+For example, plants are lithotrophs because they use water as their electron donor for biosynthesis. Animals are organotrophs because they use organic compounds as electron donors to synthesize ATP (plants also do this, but this is not taken into account). Both use oxygen in respiration as electron acceptor, but this character is not used to define them as lithotrophs.
+Primary sources of carbon
+Heterotrophs metabolize organic compounds to obtain carbon for growth and development.
+Autotrophs use carbon dioxide (CO2) as their source of carbon.
+Energy and carbon
+A chemoorganoheterotrophic organism is one that requires organic substrates to get its carbon for growth and development, and that obtains its energy from the decomposition of an organic compound. This group of organisms may be further subdivided according to what kind of organic substrate and compound they use. Decomposers are examples of chemoorganoheterotrophs which obtain carbon and electrons or hydrogen from dead organic matter. Herbivores and carnivores are examples of organisms that obtain carbon and electrons or hydrogen from living organic matter.
+Chemoorganotrophs are organisms which use the chemical energy in organic compounds as their energy source and obtain electrons or hydrogen from the organic compounds, including sugars (i.e. glucose), fats and proteins. Chemoheterotrophs also obtain the carbon atoms that they need for cellular function from these organic compounds.
+All animals are chemoheterotrophs (meaning they oxidize chemical compounds as a source of energy and carbon), as are fungi, protozoa, and some bacteria. The important differentiation amongst this group is that chemoorganotrophs oxidize only organic compounds while chemolithotrophs instead use oxidation of inorganic compounds as a source of energy.
+Primary metabolism table
+The following table gives some examples for each nutritional group:
+The common final part -troph is from Ancient Greek τροφή trophḗ "nutrition".
+Mixotrophs
+Some, usually unicellular, organisms can switch between different metabolic modes, for example between photoautotrophy, photoheterotrophy, and chemoheterotrophy in Chroococcales. Rhodopseudomonas palustris - another example - can grow with or without oxygen, use either light, inorganic or organic compounds for energy. Such mixotrophic organisms may dominate their habitat, due to their capability to use more resources than either photoautotrophic or organoheterotrophic organisms.
+Examples
+All sorts of combinations may exist in nature, but some are more common than others. For example, most plants are photolithoautotrophic, since they use light as an energy source, water as electron donor, and CO2 as a carbon source. All animals and fungi are chemoorganoheterotrophic, since they use organic substances both as chemical energy sources and as electron/hydrogen donors and carbon sources. Some eukaryotic microorganisms, however, are not limited to just one nutritional mode. For example, some algae live photoautotrophically in the light, but shift to chemoorganoheterotrophy in the dark. Even higher plants retained their ability to respire heterotrophically on starch at night which had been synthesised phototrophically during the day.
+Prokaryotes show a great diversity of nutritional categories. For example, cyanobacteria and many purple sulfur bacteria can be photolithoautotrophic, using light for energy, H2O or sulfide as electron/hydrogen donors, and CO2 as carbon source, whereas green non-sulfur bacteria can be photoorganoheterotrophic, using organic molecules as both electron/hydrogen donors and carbon sources. Many bacteria are chemoorganoheterotrophic, using organic molecules as energy, electron/hydrogen and carbon sources. Some bacteria are limited to only one nutritional group, whereas others are facultative and switch from one mode to the other, depending on the nutrient sources available. Sulfur-oxidizing, iron, and anammox bacteria as well as methanogens are chemolithoautotrophs, using inorganic energy, electron, and carbon sources. Chemolithoheterotrophs are rare because heterotrophy implies the availability of organic substrates, which can also serve as easy electron sources, making lithotrophy unnecessary. Photoorganoautotrophs are uncommon since their organic source of electrons/hydrogens would provide an easy carbon source, resulting in heterotrophy.
+Synthetic biology efforts enabled the transformation of the trophic mode of two model microorganisms from heterotrophy to chemoorganoautotrophy:
+See also
+Notes and references
+

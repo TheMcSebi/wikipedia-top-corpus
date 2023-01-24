@@ -1,0 +1,43 @@
+Image (mathematics)
+In mathematics, the image of a function is the set of all output values it may produce.
+More generally, evaluating a given function $MATH$ at each element of a given subset $MATH$ of its domain produces a set, called the "image of $MATH$ under (or through) $MATH$". Similarly, the inverse image (or preimage) of a given subset $MATH$ of the codomain of $MATH$ is the set of all elements of the domain that map to the members of $MATH$
+Image and inverse image may also be defined for general binary relations, not just functions.
+Definition
+The word "image" is used in three related ways. In these definitions, $MATH$ is a function from the set $MATH$ to the set $MATH$
+Image of an element
+If $MATH$ is a member of $MATH$ then the image of $MATH$ under $MATH$ denoted $MATH$ is the value of $MATH$ when applied to $MATH$ $MATH$ is alternatively known as the output of $MATH$ for argument $MATH$
+Given $MATH$ the function $MATH$ is said to "take the value $MATH$" or "take $MATH$ as a value" if there exists some $MATH$ in the function's domain such that $MATH$ 
+Similarly, given a set $MATH$ $MATH$ is said to "take a value in $MATH$" if there exists some $MATH$ in the function's domain such that $MATH$ 
+However, "$MATH$ takes [all] values in $MATH$" and "$MATH$ is valued in $MATH$" means that $MATH$ for every point $MATH$ in $MATH$'s domain.
+Image of a subset
+Throughout, let $MATH$ be a function. 
+The image under $MATH$ of a subset $MATH$ of $MATH$ is the set of all $MATH$ for $MATH$ It is denoted by $MATH$ or by $MATH$ when there is no risk of confusion. Using set-builder notation, this definition can be written as
+This induces a function $MATH$ where $MATH$ denotes the power set of a set $MATH$ that is the set of all subsets of $MATH$ See § Notation below for more.
+Image of a function
+The image of a function is the image of its entire domain, also known as the range of the function. This last usage should be avoided because the word "range" is also commonly used to mean the codomain of $MATH$
+Generalization to binary relations
+If $MATH$ is an arbitrary binary relation on $MATH$ then the set $MATH$ is called the image, or the range, of $MATH$ Dually, the set $MATH$ is called the domain of $MATH$
+Inverse image
+Let $MATH$ be a function from $MATH$ to $MATH$ The preimage or inverse image of a set $MATH$ under $MATH$ denoted by $MATH$ is the subset of $MATH$ defined by
+Other notations include $MATH$ and $MATH$ 
+The inverse image of a singleton set, denoted by $MATH$ or by $MATH$ is also called the fiber or fiber over $MATH$ or the level set of $MATH$ The set of all the fibers over the elements of $MATH$ is a family of sets indexed by $MATH$
+For example, for the function $MATH$ the inverse image of $MATH$ would be $MATH$ Again, if there is no risk of confusion, $MATH$ can be denoted by $MATH$ and $MATH$ can also be thought of as a function from the power set of $MATH$ to the power set of $MATH$ The notation $MATH$ should not be confused with that for inverse function, although it coincides with the usual one for bijections in that the inverse image of $MATH$ under $MATH$ is the image of $MATH$ under $MATH$
+Notation for image and inverse image
+The traditional notations used in the previous section do not distinguish the original function $MATH$ from the image-of-sets function $MATH$; likewise they do not distinguish the inverse function (assuming one exists) from the inverse image function (which again relates the powersets).  Given the right context, this keeps the notation light and usually does not cause confusion.  But if needed, an alternative is to give explicit names for the image and preimage as functions between power sets:
+Arrow notation
+Star notation
+Other terminology
+Examples
+Properties
+General
+For every function $MATH$ and all subsets $MATH$ and $MATH$ the following properties hold:
+Also:
+Multiple functions
+For functions $MATH$ and $MATH$ with subsets $MATH$ and $MATH$ the following properties hold:
+Multiple subsets of domain or codomain
+For function $MATH$ and subsets $MATH$ and $MATH$ the following properties hold:
+The results relating images and preimages to the (Boolean) algebra of intersection and union work for any collection of subsets, not just for pairs of subsets:
+(Here, $MATH$ can be infinite, even uncountably infinite.)
+With respect to the algebra of subsets described above, the inverse image function is a lattice homomorphism, while the image function is only a semilattice homomorphism (that is, it does not always preserve intersections).
+See also
+Notes

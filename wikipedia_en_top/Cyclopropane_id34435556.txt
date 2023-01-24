@@ -1,0 +1,25 @@
+Cyclopropane
+Cyclopropane is the cycloalkane with the molecular formula (CH2)3, consisting of three methylene groups (CH2) linked to each other to form a ring. The small size of the ring creates substantial ring strain in the structure. Cyclopropane itself is mainly of theoretical interest but many of its derivatives are of commercial or biological significance.
+History
+Cyclopropane was discovered in 1881 by August Freund, who also proposed the correct structure for the substance in his first paper. Freund treated 1,3-dibromopropane with sodium, causing an intramolecular Wurtz reaction leading directly to cyclopropane. The yield of the reaction was improved by Gustavson in 1887 with the use of zinc instead of sodium. Cyclopropane had no commercial application until Henderson and Lucas discovered its anaesthetic properties in 1929; industrial production had begun by 1936. In modern anaesthetic practice, it has been superseded by other agents.
+Anaesthesia
+Cyclopropane was introduced into clinical use by the American anaesthetist Ralph Waters who used a closed system with carbon dioxide absorption to conserve this then-costly agent.
+Cyclopropane is a relatively potent, non-irritating and sweet smelling agent with a minimum alveolar concentration of 17.5% and a blood/gas partition coefficient of 0.55. This meant induction of anaesthesia by inhalation of cyclopropane and oxygen was rapid and not unpleasant. However at the conclusion of prolonged anaesthesia patients could suffer a sudden decrease in blood pressure, potentially leading to cardiac dysrhythmia: a reaction known as "cyclopropane shock". For this reason, as well as its high cost and its explosive nature, it was latterly used only for the induction of anaesthesia, and has not been available for clinical use since the mid 1980s.
+Cylinders and flow meters were coloured orange.
+Pharmacology
+Cyclopropane is inactive at the GABAA and glycine receptors, and instead acts as an NMDA receptor antagonist. It also inhibits the AMPA receptor and nicotinic acetylcholine receptors, and activates certain K2P channels.
+Structure and bonding
+The triangular structure of cyclopropane requires the bond angles  between carbon-carbon covalent bonds to be 60°. The molecule has D3h molecular symmetry. The C-C distances are 151 pm versus 153-155 pm.
+Despite their shortness, the C-C bonds in cyclopropane are weakened by 34 kcal/mol vs ordinary C-C bonds.  In addition to ring strain, the molecule also has torsional strain due to the eclipsed conformation of its hydrogen atoms. The C-H bonds in cyclopropane are stronger than ordinary C-H bonds as reflected by NMR coupling constants.
+Bonding between the carbon centres is generally described in terms of bent bonds. In this model the carbon-carbon bonds are bent outwards so that the inter-orbital angle is 104°. 
+The unusual structural properties of cyclopropane have spawned many theoretical discussions.  One theory invokes σ-aromaticity: the stabilization afforded by delocalization of the six electrons of cyclopropane's three C-C σ bonds to explain why the strain of cyclopropane is "only" 27.6 kcal/mol as compared to cyclobutane (26.2 kcal/mol) with cyclohexane as reference with Estr=0 kcal/mol,  in contrast to the usual π aromaticity, that, for example, has a highly stabilizing effect in benzene. Other studies do not support the role of σ-aromaticity in cyclopropane and the existence of an induced ring current; such studies provide an alternative explanation for the energetic stabilization and abnormal magnetic behaviour of cyclopropane.
+Synthesis
+Cyclopropane was first produced via a Wurtz coupling, in which  1,3-dibromopropane was cyclised using sodium. The yield of this reaction can be improved by the use of zinc as the dehalogenating agent and sodium iodide as a catalyst.
+The preparation of cyclopropane rings is referred to as cyclopropanation.
+Derivatives
+Cyclopropane derivatives are numerous. Many biomolecules and pharmaceutical drugs feature the cyclopropane ring.  Famous example is aminocyclopropane carboxylic acid, which is the precursor to ethylene, a plant hormone.  The pyrethroids are the basis of many insecticides. Several cyclopropane fatty acids are known.
+Reactions
+Owing to the increased π-character of its C-C bonds, cyclopropane can react like an alkene in certain cases. For instance it undergoes hydrohalogenation with mineral acids to give linear alkyl halides. Substituted cyclopropanes also react, following Markovnikov's rule. Substituted cyclopropanes can oxidatively add to transition metals, in a process referred to as C–C activation.
+Cyclopropyl groups adjacent to vinyl groups can undergo ring expansion reactions. Examples include the vinylcyclopropane rearrangement and the divinylcyclopropane-cycloheptadiene rearrangement. This reactivity can be exploited to generate unusual cyclic compounds, such as cyclobutenes, or bicyclic species such as the cycloheptene shown below.
+Safety
+Cyclopropane is highly flammable. However, despite its strain energy it is not substantially more explosive than other alkanes.

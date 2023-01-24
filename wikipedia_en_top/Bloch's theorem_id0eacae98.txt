@@ -1,0 +1,145 @@
+Bloch's theorem
+In condensed matter physics, Bloch's theorem states that solutions to the Schrödinger equation in a periodic potential take the form of a plane wave modulated by a periodic function. The theorem is named after the physicist Felix Bloch, who discovered the theorem in 1929. Mathematically, they are written
+$MATH$
+where $MATH$ is position, $MATH$ is the wave function, $MATH$ is a periodic function with the same periodicity as the crystal, the wave vector $MATH$ is the crystal momentum vector, $MATH$ is Euler's number, and $MATH$ is the imaginary unit.
+Functions of this form are known as Bloch functions or Bloch states, and serve as a suitable basis for the wave functions or states of electrons in crystalline solids.
+Named after Swiss physicist Felix Bloch, the description of electrons in terms of Bloch functions, termed Bloch electrons (or less often Bloch Waves),  underlies the concept of electronic band structures.
+These eigenstates are written with subscripts as $MATH$, where $MATH$ is a discrete index, called the band index, which is present because there are many different wave functions with the same $MATH$ (each has a different periodic component $MATH$). Within a band (i.e., for fixed $MATH$), $MATH$ varies continuously with $MATH$, as does its energy. Also, $MATH$ is unique only up to a constant reciprocal lattice vector $MATH$, or, $MATH$. Therefore, the wave vector $MATH$ can be restricted to the first Brillouin zone of the reciprocal lattice without loss of generality.
+Applications and consequences
+Applicability
+The most common example of Bloch's theorem is describing electrons in a crystal, especially in characterizing the crystal's electronic properties, such as electronic band structure. However, a Bloch-wave description applies more generally to any wave-like phenomenon in a periodic medium. For example, a periodic dielectric structure in electromagnetism leads to photonic crystals, and a periodic acoustic medium leads to phononic crystals. It is generally treated in the various forms of the dynamical theory of diffraction.
+Wave vector
+Suppose an electron is in a Bloch state
+where u is periodic with the same periodicity as the crystal lattice. The actual quantum state of the electron is entirely determined by $MATH$, not k or u directly. This is important because k and u are not unique. Specifically, if $MATH$ can be written as above using k, it can also be written using (k + K), where K is any reciprocal lattice vector (see figure at right). Therefore, wave vectors that differ by a reciprocal lattice vector are equivalent, in the sense that they characterize the same set of Bloch states.
+The first Brillouin zone is a restricted set of values of k with the property that no two of them are equivalent, yet every possible k is equivalent to one (and only one) vector in the first Brillouin zone. Therefore, if we restrict k to the first Brillouin zone, then every Bloch state has a unique k. Therefore, the first Brillouin zone is often used to depict all of the Bloch states without redundancy, for example in a band structure, and it is used for the same reason in many calculations.
+When k is multiplied by the reduced Planck's constant, it equals the electron's crystal momentum. Related to this, the group velocity of an electron can be calculated based on how the energy of a Bloch state varies with k; for more details see crystal momentum.
+Detailed example
+For a detailed example in which the consequences of Bloch's theorem are worked out in a specific situation, see the article Particle in a one-dimensional lattice (periodic potential).
+Bloch's theorem
+Bloch's theorem is as follows:
+Preliminaries: Crystal symmetries, lattice, and reciprocal lattice
+The defining property of a crystal is translational symmetry, which means that if the crystal is shifted an appropriate amount, it winds up with all its atoms in the same places. (A finite-size crystal cannot have perfect translational symmetry, but it is a useful approximation.)
+A three-dimensional crystal has three primitive lattice vectors a1, a2, a3. If the crystal is shifted by any of these three vectors, or a combination of them of the form
+where ni are three integers, then the atoms end up in the same set of locations as they started.
+Another helpful ingredient in the proof is the reciprocal lattice vectors. These are three vectors b1, b2, b3 (with units of inverse length), with the property that ai · bi = 2π, but ai · bj = 0 when i ≠ j. (For the formula for bi, see reciprocal lattice vector.)
+Lemma about translation operators
+Let $MATH$ denote a translation operator that shifts every wave function by the amount n1a1 + n2a2 + n3a3 (as above, nj are integers). The following fact is helpful for the proof of Bloch's theorem:
+Lemma — If a wave function $MATH$ is an eigenstate of all of the translation operators (simultaneously), then $MATH$ is a Bloch state.
+Assume that we have a wave function $MATH$ which is an eigenstate of all the translation operators. As a special case of this, 
+for j = 1, 2, 3, where Cj are three numbers (the eigenvalues) which do not depend on r. It is helpful to write the numbers Cj in a different form, by choosing three numbers θ1, θ2, θ3 with e2πiθj = Cj:
+Again, the θj are three numbers which do not depend on r. Define k = θ1b1 + θ2b2 + θ3b3, where bj are the reciprocal lattice vectors (see above). Finally, define 
+Then
+This proves that u has the periodicity of the lattice. Since $MATH$, that proves that the state is a Bloch state.
+Proof
+Finally, we are ready for the main proof of Bloch's theorem which is as follows.
+As above, let $MATH$ denote a translation operator that shifts every wave function by the amount n1a1 + n2a2 + n3a3, where ni are integers. Because the crystal has translational symmetry, this operator commutes with the Hamiltonian operator. Moreover, every such translation operator commutes with every other. Therefore, there is a simultaneous eigenbasis of the Hamiltonian operator and every possible $MATH$ operator. This basis is what we are looking for. The wave functions in this basis are energy eigenstates (because they are eigenstates of the Hamiltonian), and they are also Bloch states (because they are eigenstates of the translation operators; see Lemma above).
+Proof with operators
+We define the translation operator
+with
+We use the hypothesis of a mean periodic potential
+and the independent electron approximation with an hamiltonian
+Given the Hamiltonian is invariant for translations it shall commute with the translation operator
+and the two operators shall have a common set of eigenfunctions.
+Therefore we start to look at the eigen-functions of the translation operator:
+Given $MATH$ is an additive operator 
+If we substitute here the eigenvalue equation and dividing both sides for $MATH$ we have
+This is true for 
+where $MATH$
+if we use the normalization condition over a single primitive cell of volume V
+and therefore
+ and 
+ where $MATH$
+Finally
+Which is true for a Bloch wave i.e. for 
+$MATH$
+with 
+$MATH$
+Group theory proof
+All Translations are unitary and Abelian.
+Translations can be written in terms of unit vectors
+We can think of these as commuting operators
+The commutativity of the $MATH$ operators gives three commuting cyclic subgroups (given they can be generated by only one element) which are infinite, 1-dimensional and abelian. All irreducible representations of Abelian groups are one dimensional.
+Given they are one dimensional the matrix representation and the character are the same. The character is the representation over the complex numbers of the group or also the trace of the representation which in this case is a one dimensional matrix. 
+All these subgroups, given they are cyclic, they have characters which are appropriate roots of unity. In fact they have one generator $MATH$ which shall obey to $MATH$, and therefore the character $MATH$. Note that this is straightforward in the finite cyclic group case but in the countable infinite case of the infinite cyclic group (i.e. the translation group here) there is a limit for $MATH$ where the character remains finite.
+Given the character is a root of unity, for each subgroup the character can be then written as
+If we introduce the Born–von Karman boundary condition on the potential:
+where L is a macroscopic periodicity in the direction $MATH$ that can also be seen as a multiple of $MATH$ where $MATH$
+This substituting in the time independent Schrödinger equation with a simple effective Hamiltonian
+induces a periodicity with the wave function:
+And for each dimension a translation operator with a period L
+From here we can see that also the character shall be invariant by a translation of $MATH$:
+and from the last equation we get for each dimension a periodic condition:
+where $MATH$ is an integer and $MATH$
+The wave vector $MATH$ identify the irreducible representation in the same manner as $MATH$, and $MATH$ is a macroscopic periodic length of the crystal in direction $MATH$. In this context, the wave vector serves as a quantum number for the translation operator.
+We can generalize this for 3 dimensions
+$MATH$
+and the generic formula for the wave function becomes:
+i.e. specializing it for a translation
+and we have proven Bloch’s theorem.
+Apart from the group theory technicalities this proof is interesting because it becomes clear how to generalize the Bloch theorem for groups that are not only translations.
+This is typically done for Space groups which are a combination of a translation and a point group and it is used for computing the band structure, spectrum and specific heats of crystals given a specific crystal group symmetry like FCC or BCC and eventually an extra basis.
+In this proof it is also possible to notice how is key that the extra point group is driven by a symmetry in the effective potential but it shall commute with the Hamiltonian.
+In the generalized version of the Bloch theorem, the Fourier transform, i.e. the wave function expansion, gets generalized from a discrete Fourier transform which is applicable only for cyclic groups and therefore translations into a character expansion of the wave function where the characters are given from the specific finite point group.
+Also here is possible to see how the characters (as the invariants of the irreducible representations) can be treated as the fundamental building blocks instead of the irreducible representations themselves.
+Velocity and effective mass of Bloch electrons
+If we apply the time-independent Schrödinger equation to the Bloch wave function we obtain
+with boundary conditions
+Given this is defined in a finite volume we expect an infinite family of eigenvalues; here 
+$MATH$ is a parameter of the Hamiltonian and therefore we arrive at a "continuous family" of eigenvalues $MATH$ dependent on the continuous parameter $MATH$ and thus at the basic concept of an electronic band structure.
+We remain with
+This shows how the effective momentum can be seen as composed of two parts,
+a standard momentum $MATH$ and a crystal momentum $MATH$. More precisely the crystal momentum is not a momentum but it stands for the momentum in the same way as the electromagnetic momentum in the minimal coupling, and as part of a canonical transformation of the momentum.
+For the effective velocity we can derive
+$MATH$
+We evaluate the derivatives $MATH$ and $MATH$
+given they are the coefficients of the following expansion in q where q is considered small with respect to k
+Given $MATH$ are eigenvalues of $MATH$
+We can consider the following perturbation problem in q:
+Perturbation theory of the second order states that
+To compute to linear order in q
+where the integrations are over a primitive cell or the entire crystal, given if the integral 
+is normalized across the cell or the crystal.
+We can simplify over q to obtain
+and we can reinsert the complete wave functions
+For the effective mass
+$MATH$
+The second order term
+Again with $MATH$
+Eliminating $MATH$ and $MATH$ we have the theorem
+The quantity on the right multiplied by a factor$MATH$ is called 
+effective mass tensor $MATH$ and we can use it to write a semi-classical equation for a charge carrier in a band
+$MATH$
+where $MATH$ is an acceleration. This equation is analogous to the De Broglie wave type of approximation
+$MATH$
+As an intuitive interpretation, both of the previous two equations resemble formally and are in a semi-classical analogy with the newton equation in an external Lorentz force.
+History and related equations
+The concept of the Bloch state was developed by Felix Bloch in 1928 to describe the conduction of electrons in crystalline solids. The same underlying mathematics, however, was also discovered independently several times: by George William Hill (1877), Gaston Floquet (1883), and Alexander Lyapunov (1892). As a result, a variety of nomenclatures are common: applied to ordinary differential equations, it is called Floquet theory (or occasionally the Lyapunov–Floquet theorem). The general form of a one-dimensional periodic potential equation is Hill's equation:
+where f(t) is a periodic potential. Specific periodic one-dimensional equations include the Kronig–Penney model and Mathieu's equation.
+Mathematically Bloch's theorem is interpreted in terms of unitary characters of a lattice group, and is applied to spectral geometry.
+A relevant new theory
+Based on Bloch's theorem, the conventional theory of electronic states in crystals could not correctly explain genuine crystals' boundary and size effects. However, about half a century ago, the mathematical theory of periodic differential equations had some significant progress. 
+Based on those new mathematical understandings, a recent new theory of electronic states in low dimensional systems
+
+
+
+aims to understand such effects. The new theory found that the size and boundary effects of electronic states in each specific dimension in the low-dimensional system are separated in some simple but essential cases. 
+That is, the energies and properties of some electronic states (including but not limited to the surface states) depend only on the system boundary in that dimension. In contrast, the numbers, energies, and properties 
+of other electronic states (they are stationary Bloch states, usually many times more) depend only on the system size in that dimension, 
+see "A more general model: particle in a box with a period potential in Particle in a box."
+There is a significant difference between the band structures of Bloch waves in one-dimensional and multi-dimensional space. The Schrödinger differential equation for a one-dimensional periodic potential 
+is an ordinary differential equation that cannot have more than two linearly independent solutions; this leads to each permitted band and each band gap existing alternatively as the energy increases. 
+Correspondingly, a theorem in the theory of ordinary periodic differential equations
+ 
+limits that a boundary-dependent state is either in a band gap or at a band edge. On the other hand, the Schrödinger differential equation for a multi-dimensional periodic potential is a partial differential equation 
+with no limitation to the number of independent solutions. As a result, the permitted bands in a multi-dimensional crystal are often overlapped. The number of band gaps in a multi-dimensional crystal is always finite. Furthermore, there are no band gaps if the potential is minimal. Correspondingly, a theorem in the theory of partial periodic differential equations
+ 
+limits that the energy of a boundary-dependent state in a multi-dimensional crystal must be higher or equal to the upper band edge of the relevant permitted band without giving an upper limit. Therefore, a boundary-dependent state decaying in a specific direction can have energy in the range of a permitted band of the bulk. Theoretically, such cases are rather general in multi-dimensional crystals.
+The very existence of the boundary-dependent states or sub-bands leads to the properties of electronic states in a simple low-dimensional system being substantially different from the properties of electronic states based on Bloch's theorem as in conventional solid-state physics. And also significantly different from what is widely believed in the solid-state physics community regarding the properties of electronic states in a low-dimensional system or finite crystal, such as ideas based on effective mass concepts. Since the energy of each boundary-dependent state is always higher than the energies of its relevant Bloch stationary states 
+(see Particle in a box), 
+the energy gap between occupied and vacant states in an ideal low-dimensional system of a cubic semiconductor is smaller than the band gap of the bulk semiconductor. An essential difference between a bulk metal and a bulk semiconductor would not be so clear when the size of the crystal becomes small enough, so the effects of the boundary-dependent electronic states become more significant. A low-dimensional system of a cubic semiconductor crystal could even have the electrical conductivity properties of metal.
+As a one-electron and non-spin theory, this new theory is more general than the conventional theory of electronic states in crystals based on Bloch's theorem and the well-known  "Particle in a box" model in quantum mechanics:
+The new theory contains the physics cores that the each of the two classical theories has separately: That is, the
+former's potential periodicity and the latter's boundary and finite size.
+See also
+References
+Further reading

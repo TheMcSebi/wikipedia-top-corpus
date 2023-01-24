@@ -1,0 +1,98 @@
+Projection (linear algebra)
+In linear algebra and functional analysis, a projection is a linear transformation $MATH$ from a vector space to itself (an endomorphism) such that $MATH$. That is, whenever $MATH$ is applied twice to any vector, it gives the same result as if it were applied once (i.e. $MATH$ is idempotent). It leaves its image unchanged. This definition of "projection" formalizes and generalizes the idea of graphical projection.  One can also consider the effect of a projection on a geometrical object by examining the effect of the projection on points in the object.
+Definitions
+A projection on a vector space $MATH$ is a linear operator $MATH$ such that $MATH$.
+When $MATH$ has an inner product and is complete (i.e. when $MATH$ is a Hilbert space) the concept of orthogonality can be used. A projection $MATH$ on a Hilbert space $MATH$ is called an orthogonal projection if it satisfies $MATH$ for all $MATH$. A projection on a Hilbert space that is not orthogonal is called an oblique projection.
+Projection matrix
+The eigenvalues of a projection matrix must be 0 or 1.
+Examples
+Orthogonal projection
+For example, the function which maps the point $MATH$ in three-dimensional space $MATH$ to the point $MATH$ is an orthogonal projection onto the xy-plane. This function is represented by the matrix
+The action of this matrix on an arbitrary vector is
+To see that $MATH$ is indeed a projection, i.e., $MATH$, we compute
+Observing that $MATH$ shows that the projection is an orthogonal projection.
+Oblique projection
+A simple example of a non-orthogonal (oblique) projection is
+Via matrix multiplication, one sees that
+showing that $MATH$ is indeed a projection.
+The projection $MATH$ is orthogonal if and only if $MATH$ because only then $MATH$
+Properties and classification
+Idempotence
+By definition, a projection $MATH$ is idempotent (i.e. $MATH$).
+Open map
+Every projection is an open map, meaning that it maps each open set in the domain to an open set in the subspace topology of the image.  That is, for any vector $MATH$ and any ball $MATH$ (with positive radius) centered on $MATH$, there exists a ball $MATH$ (with positive radius) centered on $MATH$ that is wholly contained in the image $MATH$.
+Complementarity of image and kernel
+Let $MATH$ be a finite-dimensional vector space and $MATH$ be a projection on $MATH$. Suppose the subspaces $MATH$ and $MATH$ are the image and kernel of $MATH$ respectively. Then $MATH$ has the following properties:
+The image and kernel of a projection are complementary, as are $MATH$ and $MATH$. The operator $MATH$ is also a projection as the image and kernel of $MATH$ become the kernel and image of $MATH$ and vice versa. We say $MATH$ is a projection along $MATH$ onto $MATH$ (kernel/image) and $MATH$ is a projection along $MATH$ onto $MATH$.
+Spectrum
+In infinite-dimensional vector spaces, the spectrum of a projection is contained in $MATH$ as
+Only 0 or 1 can be an eigenvalue of a projection. This implies that an orthogonal projection $MATH$ is always a positive semi-definite matrix. In general, the corresponding eigenspaces are (respectively) the kernel and range of the projection. Decomposition of a vector space into direct sums is not unique. Therefore, given a subspace $MATH$, there may be many projections whose range (or kernel) is $MATH$.
+If a projection is nontrivial it has minimal polynomial $MATH$, which factors into distinct linear factors, and thus $MATH$ is diagonalizable.
+Product of projections
+The product of projections is not in general a projection, even if they are orthogonal. If two projections commute then their product is a projection, but the converse is false: the product of two non-commuting projections may be a projection. 
+If two orthogonal projections commute then their product is an orthogonal projection. If the product of two orthogonal projections is an orthogonal projection, then the two orthogonal projections commute (more generally: two self-adjoint endomorphisms commute if and only if their product is self-adjoint).
+Orthogonal projections
+When the vector space $MATH$ has an inner product and is complete (is a Hilbert space) the concept of orthogonality can be used. An orthogonal projection is a projection for which the range $MATH$ and the null space $MATH$ are orthogonal subspaces. Thus, for every $MATH$ and $MATH$ in $MATH$, $MATH$. Equivalently:
+A projection is orthogonal if and only if it is self-adjoint. Using the self-adjoint and idempotent properties of $MATH$, for any $MATH$ and $MATH$ in $MATH$ we have $MATH$, $MATH$, and
+where $MATH$ is the inner product associated with $MATH$. Therefore, $MATH$ and $MATH$ are orthogonal projections. The other direction, namely that if $MATH$ is orthogonal then it is self-adjoint, follows from
+for every $MATH$ and $MATH$ in $MATH$; thus $MATH$.
+Let $MATH$ be a complete metric space with an inner product, and let $MATH$ be a closed linear subspace of $MATH$ (and hence complete as well).
+For every $MATH$ the following set of non-negative norm-values $MATH$ has an infimum, and due to the completeness of $MATH$ it is a minimum. We define $MATH$ as the point in $MATH$ where this minimum is obtained.
+Obviously $MATH$ is in $MATH$. It remains to show that $MATH$ satisfies $MATH$ and that it is linear.
+Let us define $MATH$. For every non-zero $MATH$ in $MATH$, the following holds:
+By defining $MATH$ we see that $MATH$ unless $MATH$ vanishes. Since $MATH$ was chosen as the minimum of the aforementioned set, it follows that $MATH$ indeed vanishes. In particular, (for $MATH$): $MATH$.
+Linearity follows from the vanishing of $MATH$ for every $MATH$:
+By taking the difference between the equations we have 
+But since we may choose $MATH$ (as it is itself in $MATH$) it follows that $MATH$. Similarly we have $MATH$ for every scalar $MATH$.
+Properties and special cases
+An orthogonal projection is a bounded operator. This is because for every $MATH$ in the vector space we have, by the Cauchy–Schwarz inequality:
+Thus $MATH$.
+For finite-dimensional complex or real vector spaces, the standard inner product can be substituted for $MATH$.
+Formulas
+A simple case occurs when the orthogonal projection is onto a line. If $MATH$ is a unit vector on the line, then the projection is given by the outer product
+(If $MATH$ is complex-valued, the transpose in the above equation is replaced by a Hermitian transpose). This operator leaves u invariant, and it annihilates all vectors orthogonal to $MATH$, proving that it is indeed the orthogonal projection onto the line containing u. A simple way to see this is to consider an arbitrary vector $MATH$ as the sum of a component on the line (i.e. the projected vector we seek) and another perpendicular to it, $MATH$. Applying projection, we get
+by the properties of the dot product of parallel and perpendicular vectors.
+This formula can be generalized to orthogonal projections on a subspace of arbitrary dimension. Let $MATH$ be an orthonormal basis of the subspace $MATH$, with the assumption that the integer $MATH$, and let $MATH$ denote the $MATH$ matrix whose columns are $MATH$, i.e., $MATH$. Then the projection is given by:
+which can be rewritten as
+The matrix $MATH$ is the partial isometry that vanishes on the orthogonal complement of $MATH$ and $MATH$ is the isometry that embeds $MATH$ into the underlying vector space. The range of $MATH$ is therefore the final space of $MATH$. It is also clear that $MATH$ is the identity operator on $MATH$.
+The orthonormality condition can also be dropped. If $MATH$ is a (not necessarily orthonormal) basis with $MATH$, and $MATH$ is the matrix with these vectors as columns, then the projection is:
+The matrix $MATH$ still embeds $MATH$ into the underlying vector space but is no longer an isometry in general. The matrix $MATH$ is a "normalizing factor" that recovers the norm. For example, the rank-1 operator $MATH$ is not a projection if $MATH$ After dividing by $MATH$ we obtain the projection $MATH$ onto the subspace spanned by $MATH$.
+In the general case, we can have an arbitrary positive definite matrix $MATH$ defining an inner product $MATH$, and the projection $MATH$ is given by $MATH$. Then
+When the range space of the projection is generated by a frame (i.e. the number of generators is greater than its dimension), the formula for the projection takes the form: $MATH$. Here $MATH$ stands for the Moore–Penrose pseudoinverse. This is just one of many ways to construct the projection operator.
+If $MATH$ is a non-singular matrix and $MATH$ (i.e., $MATH$ is the null space matrix of $MATH$), the following holds: 
+If the orthogonal condition is enhanced to $MATH$ with $MATH$ non-singular, the following holds:
+All these formulas also hold for complex inner product spaces, provided that the conjugate transpose is used instead of the transpose. Further details on sums of projectors can be found in Banerjee and Roy (2014). Also see Banerjee (2004) for application of sums of projectors in basic spherical trigonometry.
+Oblique projections
+The term oblique projections is sometimes used to refer to non-orthogonal projections. These projections are also used to represent spatial figures in two-dimensional drawings (see oblique projection), though not as frequently as orthogonal projections. Whereas calculating the fitted value of an ordinary least squares regression requires an orthogonal projection, calculating the fitted value of an instrumental variables regression requires an oblique projection.
+Projections are defined by their null space and the basis vectors used to characterize their range (which is the complement of the null space). When these basis vectors are orthogonal to the null space, then the projection is an orthogonal projection. When these basis vectors are not orthogonal to the null space, the projection is an oblique projection, or just a general projection. 
+A matrix representation formula for a nonzero projection operator
+Let  $MATH$ be a linear operator $MATH$ such that $MATH$ and assume that  $MATH$ is not the zero operator. Let the vectors $MATH$ form a basis for the range of the projection, and assemble these vectors in the $MATH$ matrix $MATH$. Therefore the integer $MATH$, otherwise $MATH$ and $MATH$ is the zero operator. The range and the null space are complementary spaces, so the null space has dimension $MATH$. It follows that the orthogonal complement of the null space has dimension $MATH$. Let $MATH$ form a basis for the orthogonal complement of the null space of the projection, and assemble these vectors in the matrix $MATH$. Then the projection $MATH$ (with the condition $MATH$) is given by
+This expression generalizes the formula for orthogonal projections given above. A standard proof of this expression is the following. For any vector $MATH$ in the vector space $MATH$, we can decompose $MATH$, where vector $MATH$ is in the image of $MATH$, and vector $MATH$. So $MATH$, and then $MATH$ is in the null space of $MATH$. In other words, the vector $MATH$ is in the column space of $MATH$, so $MATH$ for some $MATH$ dimension vector $MATH$ and the vector $MATH$ satisfies $MATH$ by the construction of $MATH$. Put these conditions together, and we find a vector $MATH$ so that  $MATH$. Since matrices $MATH$ and $MATH$ are of full rank $MATH$ by their construction, the $MATH$-matrix $MATH$ is invertible. So the equation  $MATH$ gives the vector $MATH$ In this way, $MATH$ for any vector $MATH$ and hence $MATH$.
+In the case that $MATH$ is an orthogonal projection, we can take $MATH$, and it follows that $MATH$.  By using this formula, one can easily check that   $MATH$. In general, if the vector space is over complex number field, one then uses the Hermitian transpose $MATH$ and has the formula  $MATH$. Recall that one can define the Moore–Penrose inverse of the matrix $MATH$ by  $MATH$ since $MATH$ has full column rank, so  $MATH$.
+Singular Values
+Note that $MATH$ is also an oblique projection. The singular values of $MATH$ and $MATH$ can be computed by an orthonormal basis of $MATH$. Let 
+$MATH$ be an orthonormal basis of $MATH$ and let $MATH$ be the orthogonal complement of $MATH$. Denote the singular values of the matrix
+$MATH$ by the positive values $MATH$. With this, the singular values for $MATH$ are:
+and the singular values for $MATH$ are
+This implies that the largest singular values of $MATH$ and $MATH$ are equal, and thus that the matrix norm of the oblique projections are the same.
+However, the condition number satisfies the relation $MATH$, and is therefore not necessarily equal.
+Finding projection with an inner product
+Let $MATH$ be a vector space (in this case a plane) spanned by orthogonal vectors $MATH$. Let $MATH$ be a vector. One can define a projection of $MATH$ onto $MATH$ as
+where repeated indices are summed over (Einstein sum notation). The vector $MATH$ can be written as an orthogonal sum such that $MATH$. $MATH$ is sometimes denoted as $MATH$. There is a theorem in linear algebra that states that this $MATH$ is the smallest distance (the orthogonal distance) from $MATH$ to $MATH$ and is commonly used in areas such as machine learning.
+Canonical forms
+Any projection $MATH$ on a vector space of dimension $MATH$ over a field is a diagonalizable matrix, since its minimal polynomial divides $MATH$, which splits into distinct linear factors. Thus there exists a basis in which $MATH$ has the form
+where $MATH$ is the rank of $MATH$.  Here $MATH$ is the identity matrix of size $MATH$, and $MATH$ is the zero matrix of size $MATH$.  If the vector space is complex and equipped with an inner product, then there is an orthonormal basis in which the matrix of P is
+where $MATH$. The integers $MATH$ and the real numbers $MATH$ are uniquely determined.  Note that $MATH$. The factor $MATH$ corresponds to the maximal invariant subspace on which $MATH$ acts as an orthogonal projection (so that P itself is orthogonal if and only if $MATH$) and the $MATH$-blocks correspond to the oblique components.
+Projections on normed vector spaces
+When the underlying vector space $MATH$ is a (not necessarily finite-dimensional) normed vector space, analytic questions, irrelevant in the finite-dimensional case, need to be considered. Assume now $MATH$ is a Banach space.
+Many of the algebraic results discussed above survive the passage to this context. A given direct sum decomposition of $MATH$ into complementary subspaces still specifies a projection, and vice versa. If $MATH$ is the direct sum $MATH$, then the operator defined by $MATH$ is still a projection with range $MATH$ and kernel $MATH$. It is also clear that $MATH$. Conversely, if $MATH$ is projection on $MATH$, i.e. $MATH$, then it is easily verified that $MATH$. In other words, $MATH$ is also a projection. The relation $MATH$ implies $MATH$ and $MATH$ is the direct sum $MATH$.
+However, in contrast to the finite-dimensional case, projections need not be continuous in general. If a subspace $MATH$ of $MATH$ is not closed in the norm topology, then the projection onto $MATH$ is not continuous. In other words, the range of a continuous projection $MATH$ must be a closed subspace. Furthermore, the kernel of a continuous projection (in fact, a continuous linear operator in general) is closed. Thus a continuous projection $MATH$ gives a decomposition of $MATH$ into two complementary closed subspaces: $MATH$.
+The converse holds also, with an additional assumption. Suppose $MATH$ is a closed subspace of $MATH$. If there exists a closed subspace $MATH$ such that X = U ⊕ V, then the projection $MATH$ with range $MATH$ and kernel $MATH$ is continuous. This follows from the closed graph theorem. Suppose xn → x and Pxn → y. One needs to show that $MATH$. Since $MATH$ is closed and {Pxn} ⊂ U, y lies in $MATH$, i.e. Py = y. Also, xn − Pxn = (I − P)xn → x − y. Because $MATH$ is closed and {(I − P)xn} ⊂ V, we have $MATH$, i.e. $MATH$, which proves the claim.
+The above argument makes use of the assumption that both $MATH$ and $MATH$ are closed. In general, given a closed subspace $MATH$, there need not exist a complementary closed subspace $MATH$, although for Hilbert spaces this can always be done by taking the orthogonal complement. For Banach spaces, a one-dimensional subspace always has a closed complementary subspace. This is an immediate consequence of Hahn–Banach theorem. Let $MATH$ be the linear span of $MATH$. By Hahn–Banach, there exists a bounded linear functional $MATH$ such that φ(u) = 1. The operator $MATH$ satisfies $MATH$, i.e. it is a projection. Boundedness of $MATH$ implies continuity of $MATH$ and therefore $MATH$ is a closed complementary subspace of $MATH$.
+Applications and further considerations
+Projections (orthogonal and otherwise) play a major role in algorithms for certain linear algebra problems:
+As stated above, projections are a special case of idempotents. Analytically, orthogonal projections are non-commutative generalizations of characteristic functions. Idempotents are used in classifying, for instance, semisimple algebras, while measure theory begins with considering characteristic functions of measurable sets. Therefore, as one can imagine, projections are very often encountered in the context of operator algebras. In particular, a von Neumann algebra is generated by its complete lattice of projections.
+Generalizations
+More generally, given a map between normed vector spaces $MATH$ one can analogously ask for this map to be an isometry on the orthogonal complement of the kernel: that $MATH$ be an isometry (compare Partial isometry); in particular it must be onto. The case of an orthogonal projection is when W is a subspace of V. In Riemannian geometry, this is used in the definition of a Riemannian submersion.
+See also
+Notes

@@ -1,0 +1,9 @@
+Photo Booth
+Photo Booth is a software application for taking photos and videos with an iSight camera. It is published by Apple Inc. as part of macOS and iPadOS  (on the iPad and iPad Mini available starting with the iPad 2).
+Photo Booth was released in October 2005 and was originally available only on Macintosh computers that had a built-in iSight camera running Mac OS X Tiger (version 10.4).
+Photo Booth displays a preview showing the camera's view in real time. Thumbnails of saved photos and videos are displayed along the bottom of this window, obscuring the bottom of the video preview. These can be shown or played by clicking on the thumbnails.
+By default, Photo Booth's live preview and captured images are reversed horizontally, to simulate the user looking into a mirror; an option provides unreversed images.
+Post-processing
+After the picture is taken effects can be applied by clicking on the "Effects" button. Photo Booth has two sets of image effects that can be applied when taking a picture. The first set contains photographic filters similar to those in Adobe Photoshop; additional effects may be downloaded from websites. Another set allows replacing the background with a custom backdrop.
+Backgrounds
+From Mac OS X 10.5 Leopard till macOS 10.15 Catalina, the user could apply backdrops to provide an effect similar to a green screen. When a backdrop was selected, a message appeared telling the user to step away from the camera. Once the background was analyzed, the user stepped back in front of the camera and was shown in front of the chosen backdrop.

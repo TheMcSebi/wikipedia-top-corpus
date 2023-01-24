@@ -1,0 +1,18 @@
+Pacific Time Zone
+The Pacific Time Zone (PT) is a time zone encompassing parts of western Canada, the western United States, and western Mexico. Places in this zone observe standard time by subtracting eight hours from Coordinated Universal Time (UTC−08:00). During daylight saving time, a time offset of UTC−07:00 is used.
+In the United States and Canada, this time zone is generically called the Pacific Time Zone. Specifically, time in this zone is referred to as Pacific Standard Time (PST) when standard time is being observed (early November to mid-March), and Pacific Daylight Time (PDT) when daylight saving time (mid-March to early November) is being observed. In Mexico, the corresponding time zone is known as the Zona Noroeste (Northwest Zone) and observes the same daylight saving schedule as the U.S. and Canada. The largest city in the Pacific Time Zone is Los Angeles, whose metropolitan area is also the largest in the time zone.
+The zone is two hours ahead of the Hawaii–Aleutian Time Zone, one hour ahead of the Alaska Time Zone, one hour behind the Mountain Time Zone, two hours behind the Central Time Zone, three hours behind the Eastern Time Zone, and four hours behind the Atlantic Time Zone.
+Canada
+One Canadian province is split between the Pacific Time Zone and the Mountain Time Zone:
+As of September 24, 2020, Yukon officially switched from the Pacific Time Zone to a time zone "to be reckoned as seven hours behind Coordinated Universal Time (UTC−7)" after deciding to no longer observe daylight saving time.
+Mexico
+In Mexico, the Zona Noroeste, which corresponds to Pacific Time in the United States and Canada, includes:
+United States
+Two states are fully contained in the Pacific Time Zone:
+Three states are split between the Pacific Time Zone and the Mountain Time Zone:
+One state is split between the Pacific Time Zone (unofficially), the Alaska Time Zone, and the Hawaii–Aleutian Time Zone:
+Daylight time
+Through 2006, the local time (PST, UTC−08:00) changed to daylight time (PDT, UTC−07:00) at 02:00 LST (local standard time) to 03:00 LDT (local daylight time) on the first Sunday in April, and returned at 02:00 LDT to 01:00 LST on the last Sunday in October.
+Effective in the U.S. in 2007 as a result of the Energy Policy Act of 2005, the local time changes from PST to PDT at 02:00 LST to 03:00 LDT on the second Sunday in March and the time returns at 02:00 LDT to 01:00 LST on the first Sunday in November. The Canadian provinces and territories that use daylight time each adopted these dates between October 2005 and February 2007. In Mexico, beginning in 2010, the portion of the country in this time zone uses the extended dates, as do some other parts. The vast majority of Mexico, however, still uses the old dates.
+See also
+Notes

@@ -1,0 +1,25 @@
+Ethyl acetate
+Ethyl acetate (systematically ethyl ethanoate, commonly abbreviated EtOAc, ETAC or EA) is the organic compound with the formula CH3CO2CH2CH3, simplified to C4H8O2. This colorless liquid has a characteristic sweet smell (similar to pear drops) and is used in glues, nail polish removers, and in the decaffeination process of tea and coffee. Ethyl acetate is the ester of ethanol and acetic acid; it is manufactured on a large scale for use as a solvent.
+Production and synthesis
+Ethyl acetate was first synthesized by the Count de Lauraguais in 1759 by distilling a mixture of ethanol and acetic acid.
+In 2004, an estimated 1.3 million tonnes were produced worldwide.  The combined annual production in 1985 of Japan, North America, and Europe was about 400,000 tonnes.  The global ethyl acetate market was valued at $3.3 billion in 2018.
+Ethyl acetate is synthesized in industry mainly via the classic Fischer esterification reaction of ethanol and acetic acid.  This mixture converts to the ester in about 65% yield at room temperature:
+The reaction can be accelerated by acid catalysis and the equilibrium can be shifted to the right by removal of water.
+It is also prepared in industry using the Tishchenko reaction, by combining two equivalents of acetaldehyde in the presence of an alkoxide catalyst:
+Silicotungstic acid is used to manufacture ethyl acetate by the alkylation of acetic acid by ethylene:
+
+
+Uses
+Ethyl acetate is used primarily as a solvent and diluent, being favored because of its low cost, low toxicity, and agreeable odor. For example, it is commonly used to clean circuit boards and in some nail varnish removers (acetone is also used). Coffee beans and tea leaves are decaffeinated with this solvent. It is also used in paints as an activator or hardener. Ethyl acetate is present in confectionery, perfumes, and fruits. In perfumes it evaporates quickly, leaving the scent of the perfume on the skin.
+Ethyl acetate is an asphyxiant for use in insect collecting and study. In a killing jar charged with ethyl acetate, the vapors will kill the collected insect quickly without destroying it. Because it is not hygroscopic, ethyl acetate also keeps the insect soft enough to allow proper mounting suitable for a collection.
+Laboratory uses
+In the laboratory, mixtures containing ethyl acetate are commonly used in column chromatography and extractions. Ethyl acetate is rarely selected as a reaction solvent because it is prone to hydrolysis, transesterification, and condensations.
+Occurrence in wines
+Ethyl acetate is the most common ester in wine, being the product of the most common volatile organic acid – acetic acid, and the ethyl alcohol generated during the fermentation. The aroma of ethyl acetate is most vivid in younger wines and contributes towards the general perception of "fruitiness" in the wine. Sensitivity varies, with most people having a perception threshold around 120 mg/L. Excessive amounts of ethyl acetate are considered a wine fault.
+Reactions
+Ethyl acetate is only weakly Lewis basic, like a typical carboxylic acid ester.
+Ethyl acetate hydrolyses to give acetic acid and ethanol. Bases accelerate the hydrolysis, which is subject to the Fischer equilibrium mentioned above.  In the laboratory, and usually for illustrative purposes only, ethyl esters are typically hydrolyzed in a two-step process starting with a stoichiometric amount of a strong base, such as sodium hydroxide. This reaction gives ethanol and sodium acetate, which is unreactive toward ethanol:
+In the Claisen condensation, anhydrous ethyl acetate and strong bases react to give ethyl acetoacetate:
+Safety
+The LD50 for rats is 5620 mg/kg, indicating low acute toxicity. Given that the chemical is naturally present in many organisms, there is little risk of toxicity.
+Overexposure to ethyl acetate may cause irritation of the eyes, nose, and throat. Severe overexposure may cause weakness, drowsiness, and unconsciousness. Humans exposed to a concentration of 400 ppm in 1.4 mg/L ethyl acetate for a short time were affected by nose and throat irritation. Ethyl acetate is an irritant of the conjunctiva and mucous membrane of the respiratory tract. Animal experiments have shown that, at very high concentrations, the ester has central nervous system depressant and lethal effects; at concentrations of 20,000 to 43,000 ppm (2.0–4.3%), there may be pulmonary edema with hemorrhages, symptoms of central nervous system depression, secondary anemia and liver damage. In humans, concentrations of 400 ppm cause irritation of the nose and pharynx; cases have also been known of irritation of the conjunctiva with temporary opacity of the cornea. In rare cases exposure may cause sensitization of the mucous membrane and eruptions of the skin. The irritant effect of ethyl acetate is weaker than that of propyl acetate or butyl acetate.

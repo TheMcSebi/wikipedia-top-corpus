@@ -1,0 +1,8 @@
+Aerobic organism
+An aerobic organism or aerobe is an organism that can survive and grow in an oxygenated environment. In contrast, an anaerobic organism (anaerobe) is any organism that does not require oxygen for growth. Some anaerobes react negatively or even die if oxygen is present.  The ability to exhibit aerobic respiration may yield benefits to the aerobic organism, as aerobic respiration yields more energy than anaerobic respiration. In July 2020, marine biologists reported that aerobic microorganisms (mainly), in "quasi-suspended animation", were found in organically-poor sediments, up to 101.5 million years old, 250 feet below the seafloor in the South Pacific Gyre (SPG) ("the deadest spot in the ocean"), and could be the longest-living life forms ever found.
+Types
+When an organism is able to survive in both oxygen and anaerobic environments, the use of the Pasteur effect can distinguish between facultative anaerobes and aerotolerant organisms. If the organism is using fermentation in an anaerobic environment, the addition of oxygen will cause facultative anaerobes to suspend fermentation and begin using oxygen for respiration. Aerotolerant organisms must continue fermentation in the presence of oxygen.
+Facultative organisms grow in both oxygen rich media and oxygen free media.
+Glucose
+A good example is the oxidation of glucose (a monosaccharide) in aerobic respiration:
+This equation is a summary of what happens in three series of biochemical reactions: glycolysis, the Krebs cycle, and oxidative phosphorylation.

@@ -1,0 +1,59 @@
+Stationary process
+In mathematics and statistics, a stationary process (or a strict/strictly stationary process or strong/strongly stationary process) is a stochastic process whose unconditional joint probability distribution does not change when shifted in time. Consequently, parameters such as mean and variance also do not change over time. If you draw a line through the middle of a stationary process then it should be flat; it may have 'seasonal' cycles, but overall it does not trend up nor down.
+Since stationarity is an assumption underlying many statistical procedures used in time series analysis, non-stationary data are often transformed to become stationary. The most common cause of violation of stationarity is a trend in the mean, which can be due either to the presence of a unit root or of a deterministic trend. In the former case of a unit root, stochastic shocks have permanent effects, and the process is not mean-reverting. In the latter case of a deterministic trend, the process is called a trend-stationary process, and stochastic shocks have only transitory effects after which the variable tends toward a deterministically evolving (non-constant) mean.
+A trend stationary process is not strictly stationary, but can easily be transformed into a stationary process by removing the underlying trend, which is solely a function of time. Similarly, processes with one or more unit roots can be made stationary through differencing. An important type of non-stationary process that does not include a trend-like behavior is a cyclostationary process, which is a stochastic process that varies cyclically with time.
+For many applications strict-sense stationarity is too restrictive. Other forms of stationarity such as wide-sense stationarity or N-th-order stationarity are then employed. The definitions for different kinds of stationarity are not consistent among different authors (see Other terminology).
+Strict-sense stationarity
+Definition
+Formally, let $MATH$ be a stochastic process and let $MATH$ represent the cumulative distribution function of the unconditional (i.e., with no reference to any particular starting value) joint distribution of $MATH$ at times $MATH$. Then, $MATH$ is said to be strictly stationary, strongly stationary or strict-sense stationary if: p. 155 
+Since $MATH$ does not affect $MATH$, $MATH$ is not a function of time.
+Examples
+White noise is the simplest example of a stationary process.
+An example of a discrete-time stationary process where the sample space is also discrete (so that the random variable may take one of N possible values) is a Bernoulli scheme. Other examples of a discrete-time stationary process with continuous sample space include some autoregressive and moving average processes which are both subsets of the autoregressive moving average model. Models with a non-trivial autoregressive component may be either stationary or non-stationary, depending on the parameter values, and important non-stationary special cases are where unit roots exist in the model.
+Example 1
+Let $MATH$ be any scalar random variable, and define a time-series $MATH$, by
+Then $MATH$ is a stationary time series, for which realisations consist of a series of constant values, with a different constant value for each realisation. A law of large numbers does not apply on this case, as the limiting value of an average from a single realisation takes the random value determined by $MATH$, rather than taking the expected value of $MATH$.
+The time average of $MATH$ does not converge since the process is not ergodic.
+Example 2
+As a further example of a stationary process for which any single realisation has an apparently noise-free structure, let $MATH$ have a uniform distribution on $MATH$ and define the time series $MATH$ by
+Then $MATH$ is strictly stationary since ($MATH$   modulo $MATH$) follows the same uniform distribution as $MATH$ for any $MATH$.
+Example 3
+Keep in mind that a white noise is not necessarily strictly stationary. Let $MATH$ be a random variable uniformly distributed in the interval $MATH$ and define the time series $MATH$
+$MATH$
+Then 
+So $MATH$ is a white noise, however it is not strictly stationary.
+Nth-order stationarity
+In Eq.1, the distribution of $MATH$ samples of the stochastic process must be equal to the distribution of the samples shifted in time for all $MATH$. N-th-order stationarity is a weaker form of stationarity  where this is only requested for all $MATH$ up to a certain order $MATH$. A random process $MATH$ is said to be N-th-order stationary if:: p. 152 
+Weak or wide-sense stationarity
+Definition
+A weaker form of stationarity commonly employed in signal processing is known as weak-sense stationarity, wide-sense stationarity (WSS), or covariance stationarity. WSS random processes only require that 1st moment (i.e. the mean) and autocovariance do not vary with respect to time and that the 2nd moment is finite for all times. Any strictly stationary process which has a finite mean and a covariance is also WSS.: p. 299 
+So, a continuous time random process $MATH$ which is WSS has the following restrictions on its mean function $MATH$ and autocovariance function $MATH$:
+The first property implies that the mean function $MATH$ must be constant. The second property implies that the autocovariance function depends only on the difference between $MATH$ and $MATH$ and only needs to be indexed by one variable rather than two variables.: p. 159  Thus, instead of writing,
+the notation is often abbreviated by the substitution $MATH$:
+This also implies that the autocorrelation depends only on $MATH$, that is
+The third property says that the second moments must be finite for any time $MATH$.
+Motivation
+The main advantage of wide-sense stationarity is that it places the time-series in the context of Hilbert spaces. Let H be the Hilbert space generated by {x(t)} (that is, the closure of the set of all linear combinations of these random variables in the Hilbert space of all square-integrable random variables on the given probability space). By the positive definiteness of the autocovariance function, it follows from Bochner's theorem that there exists a positive measure $MATH$ on the real line such that H is isomorphic to the Hilbert subspace of L2(μ) generated by {e−2πiξ⋅t}. This then gives the following Fourier-type decomposition for a continuous time stationary stochastic process: there exists a stochastic process $MATH$ with orthogonal increments such that, for all $MATH$
+where the integral on the right-hand side is interpreted in a suitable (Riemann) sense. The same result holds for a discrete-time stationary process, with the spectral measure now defined on the unit circle.
+When processing WSS random signals with linear, time-invariant (LTI) filters, it is helpful to think of the correlation function as a linear operator. Since it is a circulant operator (depends only on the difference between the two arguments), its eigenfunctions are the Fourier complex exponentials. Additionally, since the eigenfunctions of LTI operators are also complex exponentials, LTI processing of WSS random signals is highly tractable—all computations can be performed in the frequency domain. Thus, the WSS assumption is widely employed in signal processing algorithms.
+Definition for complex stochastic process
+In the case where $MATH$ is a complex stochastic process the autocovariance function is defined as $MATH$ and, in addition to the requirements in Eq.3, it is required that the pseudo-autocovariance function $MATH$ depends only on the time lag. In formulas, $MATH$ is WSS, if
+Joint stationarity
+The concept of stationarity may be extended to two stochastic processes.
+Joint strict-sense stationarity
+Two stochastic processes $MATH$ and $MATH$ are called jointly  strict-sense stationary if their joint cumulative distribution $MATH$ remains unchanged under time shifts, i.e. if
+Joint (M + N)th-order stationarity
+Two random processes $MATH$ and $MATH$ is said to be jointly (M + N)-th-order stationary if:: p. 159 
+Joint weak or wide-sense stationarity
+Two stochastic processes $MATH$ and $MATH$ are called jointly  wide-sense stationary if they are both wide-sense stationary and their cross-covariance function $MATH$ depends only on the time difference $MATH$. This may be summarized as follows:
+Relation between types of stationarity
+Other terminology
+The terminology used for types of stationarity other than strict stationarity can be rather mixed. Some examples follow.
+Differencing
+One way to make some time series stationary is to compute the differences between consecutive observations. This is known as differencing. Differencing can help stabilize the mean of a time series by removing changes in the level of a time series, and so eliminating trends. This can also remove seasonality, if differences are taken appropriately (e.g. differencing observations 1 year apart to remove year-lo).
+Transformations such as logarithms can help to stabilize the variance of a time series.
+One of the ways for identifying non-stationary times series is the ACF plot. Sometimes, seasonal patterns will be more visible in the ACF plot than in the original time series; however, this is not always the case. Nonstationary time series can look stationary 
+Another approach to identifying non-stationarity is to look at the Laplace transform of a series, which will identify both exponential trends and sinusoidal seasonality (complex exponential trends). Related techniques from signal analysis such as the wavelet transform and Fourier transform may also be helpful.
+See also
+References
+Further reading

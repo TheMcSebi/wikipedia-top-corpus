@@ -1,0 +1,31 @@
+Polish alphabet
+The Polish alphabet (Polish: alfabet polski, abecadło) is the script of the Polish language, the basis for the Polish system of orthography. It is based on the Latin alphabet but includes certain letters with diacritics: the kreska, or acute accent (ć, ń, ó, ś, ź); the overdot, or kropka (ż); the tail, or ogonek (ą, ę); and the stroke (ł). The letters q, v, and x, which are used only in foreign words, are usually absent from the Polish alphabet. However, prior to the standardization of the Polish language, the letter "x" was sometimes used in place of "ks".
+Modified variations of the Polish alphabet are used for writing Silesian and Kashubian, whereas the Sorbian languages use a mixture of the Polish and Czech orthographies.
+Letters
+There are 32 letters in the Polish alphabet: 9 vowels and 23 consonants.
+The letters q, v, and x are not used in any native Polish words and are mostly found in foreign words (such as place names) and commercial names. In loanwords they are usually replaced by k, w, and ks, respectively (as in nikab 'niqab', kwark 'quark', weranda 'veranda', sawanna 'savanna', ekstra 'extra', oksymoron 'oxymoron'), although some loanwords retain their original spelling (e.g., quiz, virga), and in a few cases both spellings are accepted (such as veto or weto, volt or wolt). In addition, they can occasionally be found in common abbreviations (e.g., ksiądz 'priest' can be abbreviated as either ks. or x.). As a result, they are sometimes included in the Polish alphabet (bringing the total number of letters in the alphabet to 35); when included, they take their usual positions from the Latin alphabet (q after p; v and x either side of w).
+The following table lists the letters of the alphabet, their Polish names (see also Names of letters below), the Polish phonemes which they usually represent, rough English (or other) equivalents to the sounds of those phonemes, and other possible pronunciations. Diacritics are shown for the sake of clarity. For more information about the sounds, see Polish phonology.
+É is a historical letter for native words prior to the 1891 spelling reform by the Academy of Learning, e.g., cztéry, papiéż (now cztery 'four', papież 'pope'). Now it is used in some loanwords, e.g., attaché, exposé, chargé d’affaires.
+For digraphs and other rules about spelling and the corresponding pronunciations, see Polish orthography.
+Names of letters
+The spoken Polish names of the letters are given in the table under Letters above.
+The names of the letters are not normally written out in the way shown above, except as part of certain lexicalized abbreviations, such as Pekao (or PeKaO), the name of a bank, which represents the spoken form of the abbreviation P.K.O. (for Polska Kasa Opieki).
+Some letters may be referred to in alternative ways, often consisting of just the sound of the letter. For example, y may be called y rather than igrek (from 'Greek i').
+When giving the spelling of words, certain letters may be said in more emphatic ways to distinguish them from other identically pronounced characters. For example, the letter h may be referred to as samo ha ('h alone') to distinguish it from ch (ce ha). The letter ż may be called żet z kropką or zet z kropką ('z with an overdot') to distinguish it from rz (er zet). The letter u may be called u otwarte ('open u', a reference to its graphical form) or u zwykłe ('normal u') to distinguish it from ó, which is sometimes called u zamknięte ('closed u') or ó kreskowane/o kreskowane/o z kreską ('dashed ó', 'dashed o', 'o with a dash').
+Alphabetical order
+Polish alphabetical ordering uses the order of letters as in the table under Letters above.
+Note that (unlike in languages such as French, Spanish, and German) Polish letters with diacritics are treated as fully independent letters in alphabetical ordering. For example, być comes after bycie. The diacritic letters also have their own sections in dictionaries (words beginning with ć are not usually listed under c).
+Digraphs are not given any special treatment in alphabetical ordering. For example, ch is treated simply as c followed by h and not as a single letter as in Czech.
+Letters frequency
+Polish letters frequency is identified basing on the Corp IPI PAN, 2d edition. This Polish language corpus includes ca 25 mln orthographic words. Frequencies are presented here in descending order. 
+Computer encoding
+There are several systems for encoding the Polish alphabet for computers. All letters of the Polish alphabet are included in Unicode, and thus Unicode-based encodings such as UTF-8 and UTF-16 can be used. The Polish alphabet is completely included in the Basic Multilingual Plane of Unicode. The standard 8-bit character encoding for the Polish alphabet is ISO 8859-2 (Latin-2), although both ISO 8859-13 (Latin-7) and ISO 8859-16 (Latin-10) encodings include glyphs of the Polish alphabet. Microsoft's format for encoding the Polish alphabet is Windows-1250.
+The Polish letters which are not present in the English alphabet have the following HTML codes and Unicode codepoints:
+For other encodings, see Polish code pages, but also Combining Diacritical Marks Unicode block.
+A common test sentence containing all the Polish diacritic letters is the nonsensical Zażółć gęślą jaźń ('Yellow the ego with/of a gusle').
+Polish spelling alphabet
+This is the Polish spelling alphabet as defined by the Polish Border Guard law.
+See also
+Notes
+References
+Further reading

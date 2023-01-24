@@ -1,0 +1,46 @@
+Convex function
+In mathematics, a real-valued function is called convex if the line segment between any two points on the graph of the function lies above the graph between the two points. Equivalently, a function is convex if its epigraph (the set of points on or above the graph of the function) is a convex set. A twice-differentiable function of a single variable is convex if and only if its second derivative is nonnegative on its entire domain. Well-known examples of convex functions of a single variable include the quadratic function $MATH$ and the exponential function $MATH$.   In simple terms, a convex function refers to a function whose graph is shaped like a cup $MATH$, while a concave function's graph is shaped like a cap $MATH$.
+Convex functions play an important role in many areas of mathematics. They are especially important in the study of optimization problems where they are distinguished by a number of convenient properties. For instance, a strictly convex function on an open set has no more than one minimum. Even in infinite-dimensional spaces, under suitable additional hypotheses, convex functions continue to satisfy such properties and as a result, they are the most well-understood functionals in the calculus of variations. In probability theory, a convex function applied to the expected value of a random variable is always bounded above by the expected value of the convex function of the random variable.  This result, known as Jensen's inequality, can be used to deduce inequalities such as the arithmetic–geometric mean inequality and Hölder's inequality.
+Definition
+Let $MATH$ be a convex subset of a real vector space and let $MATH$ be a function.
+Then $MATH$ is called convex if and only if any of the following equivalent conditions hold:
+The second statement characterizing convex functions that are valued in the real line $MATH$ is also the statement used to define convex functions that are valued in the extended real number line $MATH$ where such a function $MATH$ is allowed to take $MATH$ as a value. The first statement is not used because it permits $MATH$ to take $MATH$ or $MATH$ as a value, in which case, if $MATH$ or $MATH$ respectively, then $MATH$ would be undefined (because the multiplications $MATH$ and $MATH$ are undefined). The sum $MATH$ is also undefined so a convex extended real-valued function is typically only allowed to take exactly one of $MATH$ and $MATH$ as a value. 
+The second statement can also be modified to get the definition of strict convexity, where the latter is obtained by replacing $MATH$ with the strict inequality $MATH$ 
+Explicitly, the map $MATH$ is called strictly convex if and only if for all real $MATH$ and all $MATH$ such that $MATH$:
+A strictly convex function $MATH$ is a function that the straight line between any pair of points on the curve $MATH$ is above the curve $MATH$ except for the intersection points between the straight line and the curve.
+The function $MATH$ is said to be concave (resp. strictly concave) if $MATH$ ($MATH$ multiplied by −1) is convex (resp. strictly convex).
+Alternative naming
+The term convex is often referred to as convex down or concave upward, and the term concave is often referred as concave down or convex upward. If the term "convex" is used without an "up" or "down" keyword,  then it refers strictly to a cup shaped graph $MATH$.  As an example, Jensen's inequality refers to an inequality involving a convex or convex-(up), function.
+Properties
+Many properties of convex functions have the same simple formulation for functions of many variables as for functions of one variable. See below the properties for the case of many variables, as some of them are not listed for functions of one variable. 
+Functions of one variable
+Functions of several variables
+Operations that preserve convexity
+Strongly convex functions
+The concept of strong convexity extends and parametrizes the notion of strict convexity. A strongly convex function is also strictly convex, but not vice versa.
+A differentiable function $MATH$ is called strongly convex with parameter $MATH$ if the following inequality holds for all points $MATH$ in its domain:
+or, more generally,
+where $MATH$ is any inner product, and $MATH$ is the corresponding norm. Some authors, such as  refer to functions satisfying this inequality as elliptic functions.
+An equivalent condition is the following:
+It is not necessary for a function to be differentiable in order to be strongly convex. A third definition for a strongly convex function, with parameter $MATH$ is that, for all $MATH$ in the domain and $MATH$
+Notice that this definition approaches the definition for strict convexity as $MATH$ and is identical to the definition of a convex function when $MATH$ Despite this, functions exist that are strictly convex but are not strongly convex for any $MATH$ (see example below).
+If the function $MATH$ is twice continuously differentiable, then it is strongly convex with parameter $MATH$ if and only if $MATH$ for all $MATH$ in the domain, where $MATH$ is the identity and $MATH$ is the Hessian matrix, and the inequality $MATH$ means that $MATH$ is positive semi-definite. This is equivalent to requiring that the minimum eigenvalue of $MATH$ be at least $MATH$ for all $MATH$ If the domain is just the real line, then $MATH$ is just the second derivative $MATH$ so the condition becomes $MATH$. If $MATH$ then this means the Hessian is positive semidefinite (or if the domain is the real line, it means that $MATH$), which implies the function is convex, and perhaps strictly convex, but not strongly convex.
+Assuming still that the function is twice continuously differentiable, one can show that the lower bound of $MATH$ implies that it is strongly convex. Using Taylor's Theorem there exists
+such that
+Then
+by the assumption about the eigenvalues, and hence we recover the second strong convexity equation above.
+A function $MATH$ is strongly convex with parameter m if and only if the function
+is convex.
+The distinction between convex, strictly convex, and strongly convex can be subtle at first glance. If $MATH$ is twice continuously differentiable and the domain is the real line, then we can characterize it as follows:
+For example, let $MATH$ be strictly convex, and suppose there is a sequence of points $MATH$ such that $MATH$. Even though $MATH$, the function is not strongly convex because $MATH$ will become arbitrarily small.
+A twice continuously differentiable function $MATH$ on a compact domain $MATH$ that satisfies $MATH$ for all $MATH$ is strongly convex. The proof of this statement follows from the extreme value theorem, which states that a continuous function on a compact set has a maximum and minimum.
+Strongly convex functions are in general easier to work with than convex or strictly convex functions, since they are a smaller class. Like strictly convex functions, strongly convex functions have unique minima on compact sets.
+Uniformly convex functions
+A uniformly convex function, with modulus $MATH$, is a function $MATH$ that, for all $MATH$ in the domain and $MATH$ satisfies
+where $MATH$ is a function that is non-negative and vanishes only at 0. This is a generalization of the concept of strongly convex function; by taking $MATH$ we recover the definition of strong convexity.
+It is worth noting that some authors require the modulus $MATH$ to be an increasing function, but this condition is not required by all authors.
+Examples
+Functions of one variable
+Functions of n variables
+See also
+Notes

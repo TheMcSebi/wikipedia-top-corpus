@@ -1,0 +1,86 @@
+Square root of 2
+The square root of 2 (approximately 1.4142) is a positive real number that, when multiplied by itself, equals the number 2. It may be written in mathematics as $MATH$ or $MATH$, and is an algebraic number. Technically, it should be called the principal square root of 2, to distinguish it from the negative number with the same property.
+Geometrically, the square root of 2 is the length of a diagonal across a square with sides of one unit of length; this follows from the Pythagorean theorem. It was probably the first number known to be irrational. The fraction 99/70 (≈ 1.4142857) is sometimes used as a good rational approximation with a reasonably small denominator.
+Sequence A002193 in the On-Line Encyclopedia of Integer Sequences consists of the digits in the decimal expansion of the square root of 2, here truncated to 65 decimal places:
+History
+The Babylonian clay tablet YBC 7289 (c. 1800–1600 BC) gives an approximation of √2 in four sexagesimal figures, 1 24 51 10, which is accurate to about six decimal digits, and is the closest possible three-place sexagesimal representation of √2:
+Another early approximation is given in ancient Indian mathematical texts, the Sulbasutras (c. 800–200 BC), as follows: Increase the length [of the side] by its third and this third by its own fourth less the thirty-fourth part of that fourth. That is,
+This approximation is the seventh in a sequence of increasingly accurate approximations based on the sequence of Pell numbers, which can be derived from the continued fraction expansion of √2. Despite having a smaller denominator, it is only slightly less accurate than the Babylonian approximation.
+Pythagoreans discovered that the diagonal of a square is incommensurable with its side, or in modern language, that the square root of two is irrational. Little is known with certainty about the time or circumstances of this discovery, but the name of Hippasus of Metapontum is often mentioned. For a while, the Pythagoreans treated as an official secret the discovery that the square root of two is irrational, and, according to legend, Hippasus was murdered for divulging it. The square root of two is occasionally called Pythagoras's number or Pythagoras's constant, for example by Conway & Guy (1996).
+Ancient Roman architecture
+In ancient Roman architecture, Vitruvius describes the use of the square root of 2 progression or ad quadratum technique. It consists basically in a geometric, rather than arithmetic, method to double a square, in which the diagonal of the original square is equal to the side of the resulting square. Vitruvius attributes the idea to Plato. The system was employed to build pavements by creating a square tangent to the corners of the original square at 45 degrees of it. The proportion was also used to design atria by giving them a length equal to a diagonal taken from a square, whose sides are equivalent to the intended atrium's width.
+Decimal value
+Computation algorithms
+There are a number of algorithms for approximating √2 as a ratio of integers or as a decimal. The most common algorithm for this, which is used as a basis in many computers and calculators, is the Babylonian method for computing square roots. It goes as follows:
+First, pick a guess, a0 > 0; the value of the guess affects only how many iterations are required to reach an approximation of a certain accuracy. Then, using that guess, iterate through the following recursive computation:
+The more iterations through the algorithm (that is, the more computations performed and the greater "n"), the better the approximation. Each iteration roughly doubles the number of correct digits. Starting with a0 = 1, the results of the algorithm are as follows:
+Rational approximations
+A simple rational approximation 99/70 (≈ 1.4142857) is sometimes used. Despite having a denominator of only 70, it differs from the correct value by less than 1/10,000 (approx. +0.72×10−4). 
+The next two better rational approximations are 140/99 (≈ 1.4141414...) with a marginally smaller error (approx. −0.72×10−4), and 239/169 (≈ 1.4142012) with an error of approx −0.12×10−4.
+The rational approximation of the square root of two derived from four iterations of the Babylonian method after starting with a0 = 1 (665,857/470,832) is too large by about 1.6×10−12; its square is ≈ 2.0000000000045.
+Records in computation
+In 1997 the value of √2 was calculated to 137,438,953,444 decimal places by Yasumasa Kanada's team. In February 2006 the record for the calculation of √2 was eclipsed with the use of a home computer. Shigeru Kondo calculated 1 trillion decimal places in 2010. Among mathematical constants with computationally challenging decimal expansions, only π, e, and the golden ratio have been calculated more precisely as of March 2022. Such computations aim to check empirically whether such numbers are normal.
+This is a table of recent records in calculating the digits of √2.
+Proofs of irrationality
+A short proof of the irrationality of √2 can be obtained from the rational root theorem, that is, if p(x) is a monic polynomial with integer coefficients, then any rational root of p(x) is necessarily an integer. Applying this to the polynomial p(x) = x2 − 2, it follows that √2 is either an integer or irrational. Because √2 is not an integer (2 is not a perfect square), √2 must therefore be irrational. This proof can be generalized to show that any square root of any natural number that is not a perfect square is irrational.
+For other proofs that the square root of any non-square natural number is irrational, see Quadratic irrational number or Infinite descent.
+Proof by infinite descent
+One proof of the number's irrationality is the following proof by infinite descent. It is also a proof of a negation by refutation: it proves the statement "√2 is not rational" by assuming that it is rational and then deriving a falsehood.
+Since we have derived a falsehood, the assumption (1) that √2 is a rational number must be false. This means that √2 is not a rational number; that is to say, √2 is irrational.
+This proof was hinted at by Aristotle, in his Analytica Priora, §I.23. It appeared first as a full proof in Euclid's Elements, as proposition 117 of Book X. However, since the early 19th century, historians have agreed that this proof is an interpolation and not attributable to Euclid.
+Proof by unique factorization
+As with the proof by infinite descent, we obtain $MATH$. Being the same quantity, each side has the same prime factorization by the fundamental theorem of arithmetic, and in particular, would have to have the factor 2 occur the same number of times. However, the factor 2 appears an odd number of times on the right, but an even number of times on the left—a contradiction.
+Geometric proof
+A simple proof is attributed by John Horton Conway to Stanley Tennenbaum when the latter was a student in the early 1950s and whose most recent appearance is in an article by Noson Yanofsky in the May–June 2016 issue of American Scientist. Given two squares with integer sides respectively a and b, one of which has twice the area of the other, place two copies of the smaller square in the larger as shown in Figure 1. The square overlap region in the middle ((2b − a)2) must equal the sum of the two uncovered squares (2(a − b)2). However, these squares on the diagonal have positive integer sides that are smaller than the original squares. Repeating this process, there are arbitrarily small squares one twice the area of the other, yet both having positive integer sides, which is impossible since positive integers cannot be less than 1.
+Another geometric reductio ad absurdum argument showing that √2 is irrational appeared in 2000 in the American Mathematical Monthly. It is also an example of proof by infinite descent. It makes use of classic compass and straightedge construction, proving the theorem by a method similar to that employed by ancient Greek geometers. It is essentially the same algebraic proof as in the previous paragraph, viewed geometrically in  another way.
+Let △ ABC be a right isosceles triangle with hypotenuse length m and legs n as shown in Figure 2. By the Pythagorean theorem, m/n = √2. Suppose m and n are integers. Let m:n be a ratio given in its lowest terms.
+Draw the arcs BD and CE with centre A. Join DE. It follows that AB = AD, AC = AE and ∠BAC and ∠DAE coincide. Therefore, the triangles ABC and ADE are congruent by SAS.
+Because ∠EBF is a right angle and ∠BEF is half a right angle, △ BEF is also a right isosceles triangle. Hence BE = m − n implies BF = m − n. By symmetry, DF = m − n, and △ FDC is also a right isosceles triangle. It also follows that FC = n − (m − n) = 2n − m.
+Hence, there is an even smaller right isosceles triangle, with hypotenuse length 2n − m and legs m − n. These values are integers even smaller than m and n and in the same ratio, contradicting the hypothesis that m:n is in lowest terms. Therefore, m and n cannot be both integers, hence √2 is irrational.
+Constructive proof
+While the proofs by infinite descent are constructively valid when "irrational" is defined to mean "not rational", we can obtain a constructively stronger statement by using a positive definition of "irrational" as "quantifiably apart from every rational". Let  a and b be positive integers such that 1<a/b< 3/2 (as 1<2< 9/4 satisfies these bounds). Now 2b2  and a2  cannot be equal, since the first has an odd number of factors 2 whereas the second has an even number of factors 2. Thus |2b2 − a2| ≥ 1. Multiplying the absolute difference |√2 − a/b| by  b2(√2 + a/b) in the numerator and denominator, we get
+the latter inequality being true because it is assumed that 1<a/b< 3/2, giving a/b + √2 ≤ 3  (otherwise the quantitative apartness can be trivially established). This gives a lower bound of 1/3b2 for the difference |√2 − a/b|, yielding a direct proof of irrationality in its constructively stronger form, not relying on the law of excluded middle; see Errett Bishop (1985, p. 18). This proof constructively exhibits an explicit discrepancy between √2 and any rational.
+Proof by Pythagorean triples
+This proof uses the following property of primitive Pythagorean triples:
+This lemma can be used to show that two identical perfect squares can never be added to produce another perfect square.
+Suppose the contrary that $MATH$ is rational. Therefore,
+Here, (b, b, a) is a primitive Pythagorean triple, and from the lemma a is never even. However, this contradicts the equation 2b2 = a2 which implies that a must be even.
+Multiplicative inverse
+The multiplicative inverse (reciprocal) of the square root of two (i.e., the square root of 1/2) is a widely used constant.
+One-half of √2, also the reciprocal of √2, is a common quantity in geometry and trigonometry because the unit vector that makes a 45° angle with the axes in a plane has the coordinates
+This number satisfies
+Properties
+One interesting property of √2 is
+since
+This is related to the property of silver ratios.
+√2 can also be expressed in terms of copies of the imaginary unit i using only the square root and arithmetic operations, if the square root symbol is interpreted suitably for the complex numbers i and −i:
+√2 is also the only real number other than 1 whose infinite tetrate (i.e., infinite exponential tower) is equal to its square. In other words: if for c > 1, x1 = c and xn+1 = cxn for n > 1, the limit of xn as n → ∞ will be called (if this limit exists) f(c). Then √2 is the only number c > 1 for which f(c) = c2. Or symbolically:
+√2 appears in Viète's formula for π:
+for m square roots and only one minus sign.
+Similar in appearance but with a finite number of terms, √2 appears in various trigonometric constants:
+It is not known whether √2 is a normal number, which is a stronger property than irrationality, but statistical analyses of its binary expansion are consistent with the hypothesis that it is normal to base two.
+Representations
+Series and product
+The identity cos π/4 = sin π/4 = 1/√2, along with the infinite product representations for the sine and cosine, leads to products such as
+and
+or equivalently,
+The number can also be expressed by taking the Taylor series of a trigonometric function. For example, the series for cos π/4 gives
+The Taylor series of √1 + x with x = 1 and using the double factorial n!! gives
+The convergence of this series can be accelerated with an Euler transform, producing
+It is not known whether √2 can be represented with a BBP-type formula. BBP-type formulas are known for π√2 and √2 ln(1+√2), however.
+The number can be represented by an infinite series of Egyptian fractions, with denominators defined by 2n th terms of a Fibonacci-like recurrence relation a(n) = 34a(n−1) − a(n−2), a(0) = 0, a(1) = 6.
+Continued fraction
+The square root of two has the following continued fraction representation:
+The convergents p/q formed by truncating this representation form a sequence of fractions that approximate the square root of two to increasing accuracy, and that are described by the Pell numbers (i.e., p2 − 2q2 = ±1). The first convergents are: 1/1, 3/2, 7/5, 17/12, 41/29, 99/70, 239/169, 577/408 and the convergent following p/q is p + 2q/p + q. The convergent p/q differs from √2 by almost exactly 1/2√2q2, which follows from:
+Nested square
+The following nested square expressions converge to √2:
+Applications
+Paper size
+In 1786, German physics professor Georg Christoph Lichtenberg found that any sheet of paper whose long edge is √2 times longer than its short edge could be folded in half and aligned with its shorter side to produce a sheet with exactly the same proportions as the original. This ratio of lengths of the longer over the shorter side guarantees that cutting a sheet in half along a line results in the smaller sheets having the same (approximate) ratio as the original sheet. When Germany standardised paper sizes at the beginning of the 20th century, they used Lichtenberg's ratio to create the "A" series of paper sizes. Today, the (approximate) aspect ratio of paper sizes under ISO 216 (A4, A0, etc.) is 1:√2.
+Proof:
+Let $MATH$ shorter length and $MATH$ longer length of the sides of a sheet of paper, with
+Let $MATH$ be the analogous ratio of the halved sheet, then
+Physical sciences
+There are some interesting properties involving the square root of 2 in the physical sciences:
+See also
+Notes

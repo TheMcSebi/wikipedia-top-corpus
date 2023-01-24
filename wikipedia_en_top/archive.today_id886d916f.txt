@@ -1,0 +1,32 @@
+archive.today
+archive.today (or archive.ph or archive.is) is a web archiving site, founded in 2012, that saves snapshots on demand, and has support for JavaScript-heavy sites such as Google Maps and progressive web apps such as Twitter. archive.today records two snapshots: one replicates the original webpage including any functional live links; the other is a screenshot of the page.
+Features
+Functionality
+archive.today can capture individual pages in response to explicit user requests. Since its beginning, archive.today has supported crawling pages with URLs containing the now-deprecated hash-bang fragment (#!).
+archive.today records only text and images, excluding XML, RTF, spreadsheet (xls or ods) and other non-static content. However, videos for certain sites, like Twitter, are saved. It keeps track of the history of snapshots saved, requesting confirmation before adding a new snapshot of an already saved page.
+Pages are captured at a browser width of 1,024 pixels. CSS is converted to inline CSS, removing responsive web design and selectors such as :hover and :active. Content generated using JavaScript during the crawling process appears in a frozen state.
+HTML class names are preserved inside the old-class attribute.
+When text is selected, a JavaScript applet generates a URL fragment seen in the browser's address bar that automatically highlights that portion of the text when visited again.
+Web pages cannot be duplicated from archive.today to web.archive.org as second-level backup, as archive.today places an exclusion for Wayback Machine and does not save its snapshots in WARC format. The reverse—from web.archive.org to archive.today—is possible, but the copy usually takes more time than a direct capture. Some web sites get deleted from Internet Archive's listings retroactively or blocked from being saved due to their robots.txt file, but archive.today does not use this.
+The research toolbar enables advanced keywords operators, using * as the wildcard character. A couple of quotation marks address the search to an exact sequence of keywords present in the title or in the body of the webpage, whereas the insite operator restricts it to a specific Internet domain.
+Once a web page is archived, it cannot be deleted directly by any Internet user.
+Removing advertisements, popups or expanding links from archived pages is possible by asking the owner to do it on his blog.
+While saving a dynamic list, archive.today searchbox shows only a result that links the previous and the following section of the list (e.g. 20 links for page). The other web pages saved are filtered, and sometimes may be found by one of their occurrences.
+The search feature is backed by Google CustomSearch. If it delivers no results, archive.today attempts to utilize Yandex Search.
+While saving a page, a list of URLs for individual page elements and their content sizes, HTTP statuses and MIME types is shown. This list can only be viewed during the crawling process.
+One can download archived pages as a ZIP file, except pages archived since 29 November 2019, when archive.today changed their browser engine from PhantomJS to Chromium.
+Since July 2013, archive.today supports the API of the Memento Project.
+History
+archive.today was founded in 2012. The site originally branded itself as archive.today, but in May 2015, changed the primary mirror to archive.is.
+In January 2019, it began to deprecate the archive.is domain in favor of the archive.today mirror.
+Worldwide availability
+Australia
+In March 2019, the site was blocked for six months by several Australian internet providers in the aftermath of the Christchurch mosque shootings in an attempt to limit distribution of the footage of the attack. It has since been unblocked. 
+China
+According to GreatFire.org, archive.today has been blocked in China since March 2016, archive.li since September 2017, archive.fo since July 2018, as well as archive.ph since December 2019.
+Finland
+On 21 July 2015, the operators blocked access to the service from all Finnish IP addresses, stating on Twitter that they did this in order to avoid escalating a dispute they allegedly had with the Finnish government. It has since been unblocked.
+Russia
+In Russia, only HTTP access is possible; HTTPS connections are blocked.
+Cloudflare DNS availability
+As of May 2018, it has not been possible to reach the site when using Cloudflare's 1.1.1.1 DNS service. Cloudflare staff have stated that the problem is on the end of archive.today, as its authoritative nameservers return invalid records when queried from within Cloudflare's network because archive.today returns invalid data to DNS requests coming via Cloudflare's DNS servers. archive.today's reasoning for this is the fact Cloudflare does not send EDNS Client Subnet information in its DNS requests.

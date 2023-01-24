@@ -1,0 +1,32 @@
+ReFS
+Resilient File System (ReFS), codenamed "Protogon", is a Microsoft proprietary file system introduced with Windows Server 2012 with the intent of becoming the "next generation" file system after NTFS.
+ReFS was designed to overcome problems that had become significant over the years since NTFS was conceived, which are related to how data storage requirements had changed. These requirements arose from two major changes in storage systems and usage – the size of storage in use (large or massive arrays of multi-terabyte drives now being fairly common), and the need for continual reliability. As a result, the file system needs to be self-repairing (to prevent disk checking from being impractically slow or disruptive), along with abstraction or virtualization between physical disks and logical volumes.  
+The key design advantages of ReFS include automatic integrity checking and data scrubbing, elimination of the need for running chkdsk, protection against data degradation, built-in handling of hard disk drive failure and redundancy, integration of RAID functionality, a switch to copy/allocate on write for data and metadata updates, handling of very long paths and filenames, and storage virtualization and pooling, including almost arbitrarily sized logical volumes (unrelated to the physical sizes of the used drives).
+Feature changes compared to NTFS
+Major new features
+Microsoft Windows and Windows Server include ReFSUtil, a command-line utility that can be used to diagnose heavily damaged ReFS volumes, identify remaining files, and copy those files to another volume.
+Removed features
+Some NTFS features are not implemented in ReFS. These include object IDs, 8.3 filename, NTFS compression, Encrypting File System (EFS), transactional NTFS, extended attributes, and disk quotas. Dynamic disks with mirrored or striped volumes are replaced with mirrored or striped storage pools provided by Storage Spaces; however, automated error-correction is only supported on mirrored spaces. Data deduplication was missing in early versions of ReFS. It was implemented in v3.2, debuting in Windows Server v1709.
+Support for alternate data streams and hard links was initially not implemented in ReFS.  In Windows 8.1 64-bit and Server 2012 R2 the file system reacquired support for alternate data streams only, with lengths of up to 128K, and automatic correction of corruption when integrity streams are used on parity spaces. ReFS had initially been unsuitable for Microsoft SQL Server instance allocation due to the absence of alternate data streams.
+Implementations
+ReFS was initially added to Windows Server 2012 only, with the aim of gradual migration to consumer systems in future versions; this was achieved as of Windows 8.1. The initial versions removed some NTFS features, such as disk quotas, alternate data streams, and extended attributes. Some of these were re-implemented in later versions of ReFS.
+In early versions (2012–2013), ReFS was similar to or slightly faster than NTFS in most tests, but far slower when full integrity checking was enabled, a result attributed to the relative newness of ReFS.
+The ability to create ReFS volumes was removed in Windows 10's 2017 Fall Creators Update for all editions except Enterprise and Pro for Workstations.
+Starting with Windows Server 2022 and Windows 11 v21H2, its bootx64.efi natively supports the ReFS boot feature, and allows the system to be installed and run in a special way on a volume formatted with ReFS v3. If it is a volume formatted with ReFS v1, it cannot be booted with ReFS.
+The cluster size of a ReFS volume is either 4 KB or 64 KB.
+Version history and compatibility
+ReFS has some different versions, with various degrees of compatibility between operating system versions. Aside for development versions of the filesystem, usually, later operating system versions can mount filesystems created with earlier OS versions (backwards compatibility). Some features may not be compatible with the feature set of the OS. The version, cluster size and other features of the filesystem can be queried with the command fsutil fsinfo refsinfo volumename.
+Stability and known problems
+Issues identified or suggested for ReFS, when running on Storage Spaces, include:
+Server 2016 updates
+At the Storage Developer Conference 2015, a Microsoft developer presented enhancements of ReFS expected to be released with Windows Server 2016 and included in Technical Preview 4, titled "ReFS v2". It highlighted that ReFS now included capabilities for very high speed moving, reordering, and cloning of blocks between files (which can be done for all blocks of a file). This is particularly needed for virtualization, and is stated to allow fast provisioning, diff merging, and tiering. Other enhancements cover the redo log (for synchronous disk writes), parallelization, efficient tracking of uninitialized sparse data and files, and efficient 4k I/O.
+Server 2022 updates
+Windows Server 2022 (using ReFS version 3.7) supports file-level snapshots.
+Windows Insider Preview 22H2 and 23H2 (builds 226** and 25***) support ReFS volume compression using LZ4 and zstd algorithms.
+Performance and competitor comparisons
+Other operating systems have competing file systems to ReFS, of which the best known are ZFS and Btrfs, in the sense that all three are designed to integrate data protection, snapshots, and silent high-speed background healing of corruption and data errors.
+In 2012, Phoronix wrote an analysis of ReFS vs Btrfs, a copy-on-write file system for Linux. Their features are similar, with both supporting checksums, RAID-like use of multiple disks, and error detection/correction. However, ReFS lacks copy-on-write snapshots and compression, both found in Btrfs and ZFS.
+In 2014, a review of ReFS and assessment of its readiness for production use concluded that ReFS had at least some advantages over two of its main file system competitors.
+Reverse engineering and internals
+As of November 2019, Microsoft has not published any specifications for ReFS, nor have any working open-source drivers been made. A third-party open-source project to document ReFS is on GitHub.
+Paragon Software Group provides a closed-source driver for Windows and Linux.

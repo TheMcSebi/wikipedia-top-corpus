@@ -1,0 +1,8 @@
+Grignard reaction
+
+
+The Grignard reaction (French: [ɡʁiɲaʁ]) is an organometallic chemical reaction in which alkyl, allyl, vinyl, or aryl-magnesium halides (Grignard reagent) is added to a carbonyl group in an aldehyde or ketone.  This reaction is important for the formation of carbon–carbon bonds. The reaction of an organic halide with magnesium is not a Grignard reaction, but provides a Grignard reagent.
+Grignard reactions and reagents were discovered by and are named after the French chemist François Auguste Victor Grignard (University of Nancy, France), who published it in 1900 and was awarded the 1912 Nobel Prize in Chemistry for this work.
+Reaction mechanism
+Because carbon is more electronegative than magnesium, the carbon attached to magnesium functions as a nucleophile and attacks the electrophilic carbon atom that is present within the polar bond of a carbonyl group. The addition of the Grignard reagent to the carbonyl typically proceeds through a six-membered ring transition state.
+Based on detection of radical coupling side products, an alternative single electron transfer (SET) mechanism that involves the initial formation of a ketyl radical intermediate has also been proposed.  A recent computational study suggests that the operative mechanism (polar vs. radical) is substrate dependent, with the reduction potential of the carbonyl compound serving as a key parameter.

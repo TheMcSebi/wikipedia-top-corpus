@@ -1,0 +1,30 @@
+Kali Linux
+Kali Linux is a Debian-derived Linux distribution designed for digital forensics and penetration testing. It is maintained and funded by Offensive Security.
+Kali Linux has approximately 600 penetration-testing programs (tools), including Armitage (a graphical cyber attack management tool), Nmap (a port scanner), Wireshark (a packet analyzer), metasploit (penetration testing framework), John the Ripper (a password cracker), sqlmap (automatic SQL injection and database takeover tool), Aircrack-ng (a software suite for penetration-testing wireless LANs), Burp suite and OWASP ZAP web application security scanners, etc.
+It was developed by Mati Aharoni and Devon Kearns of Offensive Security through the rewrite of BackTrack, their previous information security testing Linux distribution based on Knoppix. The name was inspired by the Hindu goddess Kali.
+Kali Linux is based on the Debian Testing branch. Most packages Kali uses are imported from the Debian repositories.
+Kali Linux's popularity grew when it was featured in multiple episodes of the TV series Mr. Robot. Tools highlighted in the show and provided by Kali Linux include Bluesniff, Bluetooth Scanner (btscanner), John the Ripper, Metasploit Framework, Nmap, Shellshock, and Wget.
+The tagline of Kali Linux and BackTrack is "the quieter you become, the more you are able to hear", which is displayed on some backgrounds.
+Version history
+The first version, 1.0.0 "moto", was released in March 2013.
+With version 2019.4 in November 2019, the default user interface was switched from GNOME to Xfce, with a GNOME version still available.
+With version 2020.3 in August 2020, the default shell was switched from Bash to ZSH, with Bash remaining as an option.
+Requirements
+Kali Linux requires:
+The recommended hardware specification for a smooth experience are:
+Supported platforms
+Kali Linux is distributed in 32-bit and 64-bit images for use on hosts based on the x86 instruction set and as an image for the ARM architecture for use on the Beagle Board computer and Samsung's ARM Chromebook.
+The developers of Kali Linux aim to make Kali Linux available for even more ARM devices.
+Kali Linux is already available for Asus Chromebook Flip C100P, BeagleBone Black, HP Chromebook, CubieBoard 2, CuBox, CuBox-i, Raspberry Pi, EfikaMX, Odroid U2, Odroid XU, Odroid XU3, Samsung Chromebook, Utilite Pro, Galaxy Note 10.1, and SS808.
+With the arrival of Kali NetHunter, Kali Linux is also officially available on Android devices such as the Nexus 5, Nexus 6, Nexus 7, Nexus 9, Nexus 10, OnePlus One, and some Samsung Galaxy models. It has also been made available for more Android devices through unofficial community builds.
+Kali Linux is available on Windows 10, on top of Windows Subsystem for Linux (WSL). The official Kali distribution for Windows can be downloaded from the Microsoft Store.
+Features
+Kali Linux has a dedicated project set aside for compatibility and porting to specific Android devices, called Kali NetHunter.
+It is the first open source Android penetration testing platform for Nexus devices, created as a joint effort between the Kali community member "BinkyBear" and Offensive Security. It supports Wireless 802.11 frame injection, one-click MANA Evil Access Point setups, HID keyboard (Teensy like attacks), as well as Bad USB MITM attacks.
+BackTrack (Kali's predecessor) contained a mode known as forensic mode, which was carried over to Kali via live boot. This mode is very popular for many reasons, partly because many Kali users already have a bootable Kali USB drive or CD, and this option makes it easy to apply Kali to a forensic job. When booted in forensic mode, the system doesn't touch the internal hard drive or swap space and auto mounting is disabled. However, the developers recommend that users test these features extensively before using Kali for real world forensics.
+Comparison with other Linux distributions
+Kali Linux is developed with a focus towards cyber security experts, penetration testers, and white-hat hackers. There are a few other distributions dedicated to penetration testing, such as Parrot OS, BlackArch, and Wifislax . Kali Linux has stood out against these other distributions for cyber security and penetration testing, as well as having features such as the default user being the superuser in the Kali Live Environment.
+Tools
+Kali Linux includes security tools, such as:
+These tools can be used for a number of purposes, most of which involve exploiting a victim network or application, performing network discovery, or scanning a target IP address. Many tools from the previous version (BackTrack) were eliminated to focus on the most popular and effective penetration testing applications.
+Offensive Security provides a book, Kali Linux Revealed, and makes it available for free download.

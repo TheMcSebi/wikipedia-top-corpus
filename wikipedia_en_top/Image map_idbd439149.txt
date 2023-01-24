@@ -1,0 +1,22 @@
+Image map
+In HTML and XHTML, an image map is a list of coordinates relating to a specific image, created in order to hyperlink areas of the image to different destinations (as opposed to a normal image link, in which the entire area of the image links to a single destination). For example, a map of the world may have each country hyperlinked to further information about that country. The intention of an image map is to provide an easy way of linking various parts of an image without dividing the image into separate image files.
+Server-side
+Server-side image maps were first supported in Mosaic (web browser) version 1.1. Server-side image maps enable the web browser to send positional information to the server about where the user clicks within an image.  This allows the server to make pixel-by-pixel decisions about what content to return in response (possible methods are to use image mask layers, database queries, or configuration files on the server).
+The HTML code for this type of server-side image map requires the <img> tag to be inside an anchor tag <a>...</a> and the <img> must include the ismap attribute.
+When the user clicks inside the image the browser will append the X and Y coordinates (relative to the upper-left corner of the image) to the anchor URL as a query string and will access the resulting URL (for example, /imagemapper?3,9).
+If the browser does not support ismap then the query string must not be added to the anchor URL and the server should respond appropriately (for example, by returning a text-only navigation page).
+Client-side
+Client-side image maps were introduced in HTML 3.2, and do not require any special logic to be executed on the server (they are fully client-side). They also do not require any JavaScript.
+Pure HTML
+A client-side imagemap in HTML consists of two parts:
+The <area> elements can be rectangles (shape="rect"), polygons (shape="poly") or circles (shape="circle").
+Shape-Values are coordinate-pairs. Every pair has an X and a Y value (from left/top of an image) and is separated with a comma.
+The following example defines a rectangular area ("9,372,66,397"). When a user clicks anywhere inside this area, they are taken to the English Wikipedia's home page.
+CSS
+A more modern approach is to overlay links on an image using CSS absolute positioning; however, this only supports rectangular clickable areas. This CSS technique may be suitable for making an image map work properly on iPhones, which can fail to rescale pure HTML image maps correctly.
+Creation and use
+It is possible to create client-side image maps by hand using a text editor, but doing so requires web designers to know how to code HTML as well as how to enumerate the coordinates of the areas they wish to place over the image. As a result, most image maps coded by hand are simple polygons.
+Because creating image maps in a text editor requires much time and effort, many applications have been designed to allow web designers to create image maps quickly and easily, much as they would create shapes in a vector graphics editor. Examples of these applications are Adobe's Dreamweaver or KImageMapEditor (for KDE), and the imagemap plugin found in GIMP.
+Image maps which do not make their clickable areas obvious risk subjecting the user to mystery meat navigation. Even when they do, where they lead may not be obvious. This can be partially remedied with rollover effects.
+SVG images
+Because the Scalable Vector Graphics (SVG) image format provides its own mechanisms for adding hyperlinks and other, more sophisticated forms of interactivity to images, traditional image map techniques are generally not necessary when working with vector images in the SVG format.

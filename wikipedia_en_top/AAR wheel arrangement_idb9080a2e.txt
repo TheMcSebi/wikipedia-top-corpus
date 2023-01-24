@@ -1,0 +1,90 @@
+AAR wheel arrangement
+The AAR wheel arrangement system is a method of classifying locomotive (or unit) wheel arrangements that was developed by the Association of American Railroads. Essentially a simplification of the European UIC classification, it is widely used in North America to describe diesel and electric locomotives (including third-rail electric locomotives). It is not used for steam locomotives, which use the Whyte notation instead.
+The AAR system counts axles instead of wheels. Letters refer to powered axles, and numbers to unpowered (or idler) axles. "A" refers to one powered axle, "B" to two powered axles in a row, "C" to three powered axles in a row, and "D" to four powered axles in a row. "1" refers to one idler axle, and "2" to two idler axles in a row. A dash ("–") separates trucks or wheel assemblies. A plus sign ("+") refers to articulation, either by connecting bogies with span bolsters or by connecting individual locomotives via solid drawbars instead of couplers.
+1A-A1
+"1A-A1" means there are two trucks (or wheel assemblies) under the unit. Each truck has one powered axle and one idler axle, with the idler axles to the outside. Examples include Budd RDC Diesel MU (DMU) cars.
+1B-1B
+"1B-1B" means there are two trucks with a leading idler axle in front of two powered axles.  This arrangement was used to upgrade the B-B arrangement of two EMC 1800 hp B-B locomotives owned by the Santa Fe Railroad in 1938, for greater stability at speed.
+1-D
+"1-D" means there are two trucks or groups of axles; the "1" truck is under the front of the unit, and has one idler axle. The remaining 4 axles are rigidly mounted to the frame behind this lead truck (or grouped in a second truck). This is roughly the equivalent of a 2-8-0 Consolidation in the Whyte notation, particularly when built as a 1-truck/4 rigid axle locomotive. The only known examples are a series of diesel boxcab locomotives built and owned by the Texas Mexican Railway.
+2-A1A
+"2-A1A" means there are two trucks or wheel assemblies. The "2" truck is under the front of the unit, and has two idler axles in a row.  The "A1A" truck is under the rear of the unit, and has one powered axle, one idler axle, and one more powered axle. An example is the FM OP800 800 hp (600 kW) railcar, six of which were built by the St. Louis Car Company exclusively for the Southern Railway in 1939.
+2-B
+"2-B" means there are two trucks or wheel assemblies. The "2" truck is under the front of the unit, and has two idler axles in a row. The "B" truck is under the rear of the unit, and has two powered axles. Examples include the three lightweight power cars built by ALCO/ACF in 1935 and 1937 for use with the Rebel streamliners.
+3-A1A
+"3-A1A" means there are two trucks or wheel assemblies. The "3" truck is under the front of the unit, and has three idler axles in a row.  The "A1A" truck is under the rear of the unit, and has one powered axle, one idler axle, and one more powered axle. An example is the later built FM OP800 800 hp (600 kW) railcar, six of which were built by the St. Louis Car Company exclusively for the Southern Railway in 1939.
+A1-1A
+"A1-1A" means there are two trucks or wheel assemblies under the unit. Each truck has one powered axle and one idler axle, with the powered axles to the outside.
+A1A-2
+"A1A-2" means there are two trucks. The "A1A" truck is under the front of the unit, and has one powered axle, one idler axle, and one more powered axle. The "2" truck is under the back of the unit, and has two idler axles in a row. An example is the Silver Charger power car for the General Pershing Zephyr.
+A1A-3
+"A1A-3" means there are two trucks. The "A1A" truck is under the front of the unit, and has one powered axle, one idler axle, and one more powered axle. The "3" truck is under the back of the unit, and has three idler axles in a row. An example is the Baldwin DR-6-2-10 1,000 hp (750 kW) cab unit, only one of which was built for the Chicago and North Western Railway in 1948.
+A1A-A1A
+"A1A-A1A" means there are two trucks under the locomotive. Each truck has two powered axles, with an idler axle between them. This spreads the weight of the locomotive more evenly over the track and counteracts the tendency of trucks to oscillate at high speeds, which is a problem with two axle trucks. The idler wheels may be smaller than the powered wheels.
+Examples of locomotives with this wheel arrangement include the EMD E-units and ALCO PAs, which were high speed passenger locomotives, and the dual service FM Erie-built. BNSF took delivery of ES44C4 locomotives with this type of truck in 2009. In the UK, the Class 31 uses this wheel arrangement.
+A1A-B+B
+"A1A-B+B" means there are three trucks. The first truck has three axles, with the center one unpowered. A pair of two-axle trucks, each with both axles powered, are connected by a span bolster under the rear of the unit. The only example to date of this arrangement was a single experimental EMD SDP45.
+B
+"B" means there are two powered axles under the unit. These axles are not articulated relative to other parts of the locomotive. This arrangement is only used on very small locomotives, such as the EMD Model 40. This arrangement is sometimes referred to as 0-4-0, the Whyte notation equivalent.
+B-1
+"B-1" means there are two trucks. The "B" truck is under the front of the unit, and has two powered axles. The "1" truck is under the back of the unit, and has one idler axle. Examples include the three EMD LWT12 locomotives built by EMD in 1956.
+B-2
+"B-2" means there are two trucks. The "B" truck is under the front of the unit, and has two powered axles. The "2" truck is under the back of the unit, and has two idler axles in a row. Examples include the three lightweight RP-210 locomotives built by Baldwin in 1956 and 1957 for use with Pullman-Standard Train-X equipment.
+B-A1A
+"B-A1A" means there are two trucks. The "B" truck is under the front of the unit, and has two powered axles. The "A1A" truck is under the back of the unit, and has one powered axle, one idler axle, and one more powered axle. Examples include some of the FM C-liners (most passenger units) built from 1950 to 1955, and the EMD FL9.
+B-B
+"B-B" means there are two identical trucks. Each truck has two powered axles, a currently popular configuration used in high-speed, low-weight applications such as intermodal trains and high-speed rail, as well as in switching. Examples include the EMD GP (General Purpose), EMD F-units, EMD SW1500, Acela Express Power Cars, Siemens Charger, Siemens ACS-64 and GE Genesis units. High speed ("time") freight trains, with guaranteed schedules often use B-B locomotives of 3,800 HP (950 HP per axle), but this application, too, has largely been replaced by higher-powered, 4,500 HP C-C locomotives (750 HP per axle). An American Colloquialism of "B-B" is "Four axle".
+B-2-B
+"B-2-B" means there are three trucks. The center truck has two unpowered axles and the truck at each end has two powered axles. The locomotive frame must either articulate or allow for significant side play to be provided to the center truck.
+B-B-B
+"B-B-B" means there are three trucks. Each truck has two powered axles. The locomotive frame must either articulate or allow for significant side play to be provided to the center truck. The Russian VL 85 and US-American EMD GM10B was a notable example. See also Bo-Bo-Bo.
+B+B+B
+"B+B+B" means there are three articulated sets of two powered axles each under the unit. The locomotive frame must allow for significant side play to be provided to the center axle set, as well as allowing for end play for the end sets. The ten Mexican Railway GE boxcab electrics of 1923 are examples of this wheel arrangement.
+2-B+B-2
+"2-B+B-2" means there are two sets of articulated axles under the unit. Within each of these sets, there is a truck with two idler axles, and inboard of it are two powered axles. Two of these articulated sets are placed back to back and connected by a hinge. The PRR DD1 and DD2 electric locomotives used this arrangement.
+2-B+B+B+B-2
+"2-B+B+B+B-2" means there are two sets of articulated axles under the unit. Within each of these sets, there is a truck with two idler axles, and inboard of it are two powered axles, hinged to yet another set of two powered axles. Two of these articulated sets are placed back to back and connected by a hinge. Examples include the Milwaukee Road EF-1 "Boxcab" electrics.
+B+B-B+B
+"B+B-B+B" means there are four trucks under the unit. Within each truck, there are two powered axles, and pairs of them are connected by span bolsters. One example would be the General Electric U50, built from 1963 to 1965. The 4500 horsepower (3.4 MW) turbine locomotives built by GE for Union Pacific also used this arrangement. The EFVM railway of Brazil uses narrow gauge GE "BB" locomotives with this arrangement, both with "standard" and wide cabs. A GE Dash 9-40BBW, for instance, is a wide cab GE Dash 9-40CW series 4,000 hp (3,000 kW) locomotive with a B+B-B+B wheel arrangement.
+B-B+B-B
+"B-B+B-B" means that the locomotive has four trucks. Each truck contains two powered axles. The middle pair of trucks are connected by a span bolster. In most cases, the locomotive is articulated over the span bolster. The Union Pacific's M-10002 diesel streamliner and New York Central's T-Motor third rail electric locomotives are examples of this type. This arrangement also includes locomotives made of two permanently coupled B-B units, such as some EMD FT units which had a solid drawbar connecting two units instead of the typical couplers.
+B-B-B-B
+"B-B-B-B" means there are four trucks. Each truck has two powered axles. The locomotive frame must allow for significant side play to be provided to the center trucks.
+B-B+B-B+B-B
+"B-B+B-B+B-B" means that the locomotive has six trucks. Each truck contains two powered axles. The only known locomotives to have this configuration were the two EMD TR3 locomotives made of three permanently coupled B-B units, which had solid drawbars connecting the units instead of the typical couplers.
+C
+"C" means there are three powered axles under the unit. They are not articulated relative to other parts of the locomotive. This arrangement is only used on very small locomotives (e.g. the PRR B1). This arrangement is sometimes referred to as 0-6-0, the Whyte notation equivalent.
+C-B
+"C-B" means there are two trucks. The "C" truck is under the front of the unit, and has three powered axles. The "B" truck is under the rear of the unit, and has two powered axles. The Japanese DE10 and DE11 locomotives use this wheel arrangement.
+C-C
+"C-C" means there are two identical trucks. Each truck has three powered axles. Examples include the EMD SD (Special Duty), GMD GF6C, EMD GM6C, PRR E44, GE E60, Virginian EL-C and GE Evolution Series units, except the ES44C4 and ET44C4 which use the A1A-A1A wheel arrangement. This is a currently popular configuration used in low-speed, high-weight applications, such as unit coal trains. General ("manifest") freight trains also use C-C locomotives. See also Co-Co. An American colloquialism of "C-C" is "Six axle".
+1-C+C-1
+"1-C+C-1" means there are two sets of articulated axles under the unit. Within each of these sets, there is a truck with one idler axle, and inboard of it are three powered axles. Two of these articulated sets are placed back to back and connected by a hinge. The PRR FF1 and FF2 electric locomotives used this arrangement.
+2-C+C-2
+"2-C+C-2" means there are two sets of articulated axles under the unit. Within each of these sets, there is a truck with two idler axles, and inboard of it are three powered axles. Two of these articulated sets are placed back to back and connected by a hinge. The Pennsylvania Railroad's GG1 electric locomotives were notable examples of this arrangement.
+2+C-C+2
+"2+C-C+2" means there are two sets of axles under the unit. Within each of these sets, there is a guiding truck with two idler axles, and inboard of this, and hinged to it, is a truck with three powered axles. The GE steam turbine-electric locomotives of 1939 were notable examples of this arrangement.
+2-C1+2-C1-B
+"2-C1+2-C1-B" means there are five trucks. Only the first three axles on the four-axle trucks were powered, as were both axles in the last truck; the first and middle trucks had two unpowered axles each. The only examples of this arrangement were three unique coal-fired steam-turbine locomotives built by the Baldwin Locomotive Works for the Chesapeake and Ohio Railway between 1947 and 1948. This locomotive is sometimes called the M-1.
+C-C+C-C
+"C-C+C-C" means there are four trucks under the unit. Each truck has three powered axles. The only examples of this type were the 8500 horsepower (6.3 MW) turbine locomotives built by General Electric for Union Pacific. These locomotives consisted of two permanently coupled C-C units.
+C+C-C+C
+"C+C-C+C" means there are four trucks. Each truck has three powered axles and pairs of them are connected by span bolsters. This arrangement was used on the Jawn Henry coal-fired steam-turbine locomotive built by the Baldwin Locomotive Works for the Norfolk & Western Railway in May, 1954.
+1-D-1
+"1-D-1" means there are three trucks under the unit. At either end are trucks with one idler axle; the center truck has four powered axles. The original 1904–1909 New York Central S-Motor third-rail electric locomotives (for the Grand Central Terminal electrification) and the Great Northern Z-1 electric locomotives (for the Cascade Tunnel electrification) used this arrangement.
+2-D-2
+"2-D-2" means there are three trucks. At either end are trucks with two idler axles; the center truck has four powered axles. The PRR R1 electric locomotive used this arrangement.
+D-D
+"D-D" means there are two trucks. Each truck has four powered axles. Examples include the EMD DD units.
+D-D locomotives so far have fallen out of favor as nearly all of these have been twin-engined locomotives, which placed too much horsepower in too few axles, thereby making these consists rather inflexible (each locomotive featured two prime movers, making each unit essentially a pair of high-powered B-B locomotives on a common frame as far as traction and power was concerned).
+In fact, a usual consist of a D-D unit included a leading C-C unit and a trailing C-C unit, for a total of about 12,600 HP (with four total prime-movers).
+With today's higher horsepower C-C units (about 4,300 HP apiece), three such C-C units exceeds the total power of the usual D-D consist by 300 HP (with one fewer prime-mover than a usual D-D consist, thereby significantly improving reliability and dramatically reducing maintenance).
+Although at this time the term D-D is associated with twin-prime-mover locomotives of high power, this does not preclude the possibility of a D-D with a single prime mover of high power some time in the future, nor of the term being used to describe a two-truck, eight-axle electric locomotive. The EMD DDM45 is a narrow-gauge adaptation of the SD45, which required additional axles due to the use of smaller traction motors.
+2-D+D-2
+"2-D+D-2" means there are two sets of articulated axles under the unit. Within each of these sets, there is a truck with two idler axles, and inboard of it are four powered axles. Two of these articulated sets are placed back to back and connected by a hinge. Examples include the Baldwin DR-12-8-1500/2 "Centipede" diesel locomotives and the GE "Little Joe" electric locomotives.
+B-D+D-B
+"B-D+D-B" means there are two sets of articulated axles under the unit. Within each of these sets, there is a truck with two powered axles, and inboard of it are four powered axles. Two of these articulated sets are placed back to back and connected by a hinge. The W-1 class of electric locomotives built by General Electric for the Great Northern Railway used this arrangement.
+1B+D+D+B1
+"1B+D+D+B1" means there are four sets of articulated axles under the unit. At each end, there is one unpowered axle and two powered axles, hinged to a set of four powered axles. Two of these articulated sets are placed back to back and connected by a hinge. The "Bi-Polar" electric locomotives used by the Milwaukee Road used this arrangement.
+(B+B-B+B)+(B+B-B+B)
+"(B+B-B+B)+(B+B-B+B)" means there are 2 units, each with 4 trucks in a B+B-B+B wheel arrangement. An example was the Virginian Railway's EL-2B electric locomotives.

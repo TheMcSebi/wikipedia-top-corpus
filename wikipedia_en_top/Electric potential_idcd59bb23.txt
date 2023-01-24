@@ -1,0 +1,49 @@
+Electric potential
+The electric potential (also called the electric field potential, potential drop, the electrostatic potential) is defined as the amount of work energy needed to move a unit of electric charge from a reference point to the specific point in an electric field. More precisely, it is the energy per unit charge for a test charge that is so small that the disturbance of the field under consideration is negligible. Furthermore, the motion across the field is supposed to proceed with negligible acceleration, so as to avoid the test charge acquiring kinetic energy or producing radiation. By definition, the electric potential at the reference point is zero units. Typically, the reference point is earth or a point at infinity, although any point can be used. 
+In classical electrostatics, the electrostatic field is a vector quantity expressed as the gradient of the electrostatic potential, which is a scalar quantity denoted by V or occasionally φ, equal to the electric potential energy of any charged particle at any location (measured in joules) divided by the charge of that particle (measured in coulombs). By dividing out the charge on the particle a quotient is obtained that is a property of the electric field itself. In short, an electric potential is the electric potential energy per unit charge.
+This value can be calculated in either a static (time-invariant) or a dynamic (time-varying) electric field at a specific time with the unit joules per coulomb (J⋅C−1) or volt (V). The electric potential at infinity is assumed to be zero.
+In electrodynamics, when time-varying fields are present, the electric field cannot be expressed only in terms of a scalar potential. Instead, the electric field can be expressed in terms of both the scalar electric potential and the magnetic vector potential. The electric potential and the magnetic vector potential together form a four-vector, so that the two kinds of potential are mixed under Lorentz transformations.
+Practically, the electric potential is a continuous function in all space, because a spatial derivative of a discontinuous electric potential yields an electric field of impossibly infinite magnitude. Notably, the electric potential due to an idealized point charge (proportional to 1 ⁄ r, with r the distance from the point charge) is continuous in all space except at the location of the point charge. Though electric field is not continuous across an idealized surface charge, it is not infinite at any point. Therefore, the electric potential is continuous across an idealized surface charge. Additionally, an idealized line of charge has electric potential (proportional to ln(r), with r the radial distance from the line of charge) is continuous everywhere except on the line of charge.
+Introduction
+Classical mechanics explores concepts such as force, energy, and potential. Force and potential energy are directly related. A net force acting on any object will cause it to accelerate. As an object moves in the direction of a force acting on it, its potential energy decreases. For example, the gravitational potential energy of a cannonball at the top of a hill is greater than at the base of the hill. As it rolls downhill, its potential energy decreases and is being translated to motion – kinetic energy.
+It is possible to define the potential of certain force fields so that the potential energy of an object in that field depends only on the position of the object with respect to the field. Two such force fields are a gravitational field and an electric field (in the absence of time-varying magnetic fields). Such fields affect objects because of the intrinsic properties  (e.g., mass or charge) and positions of the objects.
+An object may possess a property known as electric charge. Since an electric field exerts force on a charged object, if the object has a positive charge, the force will be in the direction of the electric field vector at the location of the charge; if the charge is negative, the force will be in the opposite direction. 
+The magnitude of force is given by the quantity of the charge multiplied by the magnitude of the electric field vector,
+Electrostatics
+The electric potential at a point r in a static electric field E is given by the line integral
+$MATH$
+where C is an arbitrary path from some fixed reference point to r. In electrostatics, the Maxwell-Faraday equation reveals that the curl $MATH$ is zero, making the electric field conservative. Thus, the line integral above does not depend on the specific path C chosen but only on its endpoints, making $MATH$ well-defined everywhere. The gradient theorem then allows us to write:
+$MATH$
+This states that the electric field points "downhill" towards lower voltages. By Gauss's law, the potential can also be found to satisfy Poisson's equation:
+where ρ is the total charge density and $MATH$ denotes the divergence.
+The concept of electric potential is closely linked with potential energy. A test charge, q, has an electric potential energy, UE, given by
+The potential energy and hence, also the electric potential, is only defined up to an additive constant: one must arbitrarily choose a position where the potential energy and the electric potential are zero.
+These equations cannot be used if $MATH$, i.e., in the case of a non-conservative electric field (caused by a changing magnetic field; see Maxwell's equations). The generalization of electric potential to this case is described in the section § Generalization to electrodynamics.
+Electric potential due to a point charge
+The electric potential arising from a point charge, Q, at a distance, r, from the location of Q is observed to be
+where ε0 is the permittivity of vacuum, VE is known as the Coulomb potential, and the ratio,
+is known as the Coulomb constant.
+The electric potential at any location, $MATH$, in a system of point charges is equal to the sum of the individual electric potentials due to every point charge in the system. This fact simplifies calculations significantly, because addition of potential (scalar) fields is much easier than addition of the electric (vector) fields. Specifically, the potential of a set of discrete point charges qi at points ri becomes
+where
+and the potential of a continuous charge distribution ρ(r) becomes
+Where
+The equations given above for the electric potential (and all the equations used here) are in the forms required by SI units. In some other (less common) systems of units, such as CGS-Gaussian, many of these equations would be altered.
+Generalization to electrodynamics
+When time-varying magnetic fields are present (which is true whenever there are time-varying electric fields and vice versa), it is not possible to describe the electric field simply in terms of a scalar potential V because the electric field is no longer conservative: $MATH$ is path-dependent because $MATH$ (due to the Maxwell-Faraday equation).
+Instead, one can still define a scalar potential by also including the magnetic vector potential A. In particular, A is defined to satisfy:
+where B is the magnetic field. By the fundamental theorem of vector calculus, such an A can always be found, since the divergence of the magnetic field is always zero due to the absence of magnetic monopoles. Now, the quantity
+is a conservative field, since the curl of $MATH$ is canceled by the curl of $MATH$ according to the Maxwell–Faraday equation. One can therefore write
+where V is the scalar potential defined by the conservative field F.
+The electrostatic potential is simply the special case of this definition where A is time-invariant.  On the other hand, for time-varying fields,
+unlike electrostatics.
+Gauge freedom
+The electrostatic potential could have any constant added to it without affecting the electric field. In electrodynamics, the electric potential has infinitely many degrees of freedom. For any (possibly time-varying or space-varying) scalar field, $MATH$, we can perform the following gauge transformation to find a new set of potentials that produce exactly the same electric and magnetic fields:
+Given different choices of gauge, the electric potential could have quite different properties. In the Coulomb gauge, the electric potential is given by Poisson's equation
+just like in electrostatics. However, in the Lorenz gauge, the electric potential is a retarded potential that propagates at the speed of light and is the solution to an inhomogeneous wave equation:
+Units
+The SI derived unit of electric potential is the volt (in honor of Alessandro Volta), denoted as V, which is why the electric potential difference between two points in space is known as a voltage. Older units are rarely used today.  Variants of the centimetre–gram–second system of units included a number of different units for electric potential, including the abvolt and the statvolt.
+Galvani potential versus electrochemical potential
+Inside metals (and other solids and liquids), the energy of an electron is affected not only by the electric potential, but also by the specific atomic environment that it is in. When a voltmeter is connected between two different types of metal, it measures the potential difference corrected for the different atomic environments. The quantity measured by a voltmeter is called electrochemical potential or fermi level, while the pure unadjusted electric potential, V, is sometimes called the Galvani potential, $MATH$. The terms "voltage" and "electric potential" are a bit ambiguous but one may refer to either of these in different contexts.
+See also
+References
+Further reading

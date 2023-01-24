@@ -1,0 +1,118 @@
+Japanese verb conjugation
+Japanese verbs, like the verbs of many other languages, can be phonetically modified to change their purpose, nuance or meaning – a process known as conjugation. In Japanese, the beginning of a word (the stem) is preserved during conjugation, whilst the ending of the word is altered in some way to change the meaning (this is the inflectional suffix). Japanese verb conjugations are independent of person, number and gender (they do not depend on whether the subject is I, you, he, she, we, etc.); the conjugated forms can express meanings such as negation, present and past tense, volition, passive voice, causation, imperative and conditional mood, and ability. There are also special forms for conjunction with other verbs, and for combination with particles for additional meanings.
+Japanese verbs have agglutinating properties: some of the conjugated forms are themselves conjugable verbs (or i-adjectives), which can result in several suffixes being strung together in a single verb form to express a combination of meanings.
+Verb groups
+For Japanese verbs, the verb stem remains invariant among all conjugations. However, conjugation patterns vary according to a verb's category. For example, 知る (shiru) and 着る (kiru) belong to different verb categories (godan and ichidan, respectively) and therefore follow different conjugation patterns. As such, knowing a verb's category is essential for conjugating Japanese verbs.
+Japanese verbs can be allocated into three categories:
+Verbs are conjugated from their "dictionary form", where the final kana is either removed or changed in some way. From a technical standpoint, verbs usually require a specific conjugational stem (see § Verb bases, below) for any given inflection or suffix. With godan verbs, the conjugational stem can span all five rows of the gojūon kana table (hence, the classification as a class‑5 verb). Ichidan verbs are simpler to conjugate: the final kana, which is always る (ru), is simply removed or replaced with the appropriate inflectional suffix. This means ichidan verb stems, in themselves, are valid conjugational stems which always end with the same kana (hence, the classification as a class‑1 verb).
+This phenomenon can be observed by comparing conjugations of the two verb types, within the context of the gojūon table.
+As visible above, the godan verb yomu (読む, to read) has a static verb stem, yo- (読〜), and a dynamic conjugational stem which changes depending on the purpose: yoma- (読ま〜, row 1), yomi- (読み〜, row 2), yomu (読む, row 3), yome- (読め〜, row 4) and yomo- (読も〜, row 5). Unlike godan verb stems, ichidan verb stems are also functional conjugational stems, with the final kana of the stem remaining static in all conjugations.
+Verb bases
+Conjugable words (verbs, i‑adjectives, and na‑adjectives) are traditionally considered to have six possible conjugational stems or bases (活用形, katsuyōkei, literally "conjugation forms") . However, as a result of the language evolving, historical sound shifts, and the post‑WWII spelling reforms, three additional sub‑bases have emerged for verbs (seen in the table below as the Potential, Volitional, and Euphonic bases). Meanwhile, verbs no longer differentiate between the terminal form (終止形, shūshikei, used to terminate a predicate) and the attributive form (連体形, rentaikei, used to modify a noun or noun phrase) bases (these bases are only distinguished for na‑adjectives in the modern language, see Japanese adjectives). Verb bases function as the necessary stem forms to which inflectional suffixes attach.
+Verbs are named and listed in dictionaries according to their "dictionary form" (辞書形, jishokei).  This is also called the "plain form" (since this is the plain, non‑polite, non‑past conjugation), and it is the same as the modern "terminal form" (終止形, shūshikei), and the "attributive form" (連体形, rentaikei). The verb group (godan, ichidan, or irregular) determines how to derive any given conjugation base for the verb. With godan verbs, the base is derived by shifting the final kana along the respective vowel row of the gojūon kana table. With ichidan verbs, the base is derived by removing or replacing the final る (ru) kana.
+The table below illustrates the various verb bases across the verb groups, with the patterns starting from the dictionary form.
+Of the nine verb bases, the shūshikei/rentaikei, meireikei, and ren'yōkei bases can be considered fully conjugated forms without needing to append inflectional suffixes. In particular, the shūshikei/rentaikei and meireikei bases do not conjugate with any inflectional suffixes. By contrast, a verb cannot be considered fully conjugated in its kateikei, mizenkei, izenkei, kanōkei, or onbinkei base alone; a compatible inflectional suffix is required for that verb construction to be grammatical.
+Certain inflectional suffixes, in themselves, take on the form of verbs or i‑adjectives. These suffixes can then be further conjugated by adopting one of the verb bases, followed by the attachment of the appropriate suffix. The agglutinative nature of Japanese verb conjugation can thus make the final form of a given verb conjugation quite long. For example, the word 食べさせられたくなかった (tabesaseraretakunakatta) is broken down into its component morphemes below:
+Derivative verb bases
+There are three modern verb base forms that are considered to be derived from older forms.  These are the potential, volitional, and euphonic sub‑bases, as shown in the Verb base formation table above.
+As with all languages, the Japanese language has evolved to fulfil the contemporary needs of communication. The potential form of verbs is one such example. In Old Japanese and Early Middle Japanese, potential was expressed with the verb ending ゆ (yu), which was also used to express the passive voice ("to be done") and the spontaneous voice ("something happens on its own").  This evolved into the modern passive ending （ら）れる (-(ra)reru), which can similarly express potential and spontaneous senses.  As usage patterns changed over time, different kinds of potential constructions emerged, such as the grammatical pattern of the rentaikei base + -koto ga dekiru (〜ことができる), and also via the kanōkei base. The historical development of the kanōkei base is disputed, however the consensus is that it stemmed from a shift wherein transitive verbs developed an intransitive sense similar to the spontaneous, passive, and potential, and these intransitive forms conjugated in the 下二段活用 (shimo nidan katsuyō, lower bigrade conjugation pattern) of the Classical Japanese of the time.  The lower bigrade conjugation pattern evolved into the modern ichidan pattern in modern Japanese, and these stems for godan verbs have the same form as the hypothetical stems in the table above.
+The mizenkei base that ends with -a was also used to express the volitional mood for yodan verbs (四段動詞, yodan-dōshi, "Class‑4 verbs") in Old Japanese and Middle Japanese, in combination with volitional suffix む (-mu).  Sound changes caused the resulting -amu ending to change: /-amu/ → /-ãu/ → /-au/ (like English "ow") → /-ɔː/ (like English "aw") → /-oː/. The post‑WWII spelling reforms updated spellings to reflect this and other sound changes, resulting in the addition of the ishikei or volitional base, ending with -o, for the volitional mood of yodan verbs. This also resulted in a reclassification of "yodan verbs" to "godan verbs" (五段動詞, godan-dōshi, "Class‑5 verbs").
+The ren'yōkei base also underwent various euphonic changes specific to the perfective and conjunctive (te) forms for certain verb stems, giving rise to the onbinkei or euphonic base. In the onbinkei base, the inflectional suffixes for godan verbs vary according to the last kana of the verb's ren'yōkei base.
+Copula: da and desu
+The copula or "to be" verb in Japanese is a special case.  This comes in two basic forms, だ (da) in the plain form and です (desu) in the polite form. These are generally used to predicate sentences, equate one thing with another (i.e. "A is B."), or express a self‑directed thought (e.g. a sudden emotion or realization).
+Copula: Conjugation table
+The Japanese copula is not a standard 'verb' and conjugations are limited to a smaller subset of functions. Furthermore, this conjugates according to its own specific patterns:
+Copula: Grammatical compatibility
+The だ negative forms, じゃない (ja nai) and ではない (de wa nai), are compatible with all negative valence conjugations (such as the negative past tense or the negative -te form). However, the です negative forms, じゃありません (ja arimasen) and ではありません (de wa arimasen), are conjugated into the past tense by appending でした (deshita) as a suffix (and are therefore incompatible with subsequent 〜ない (-nai) conjugations). Furthermore, the perfective forms, だった (datta) and でした (deshita), are compatible with the ~tara conditional.
+Imperfective
+The imperfective form (also known as the "non‑past", "plain form", "short form", "dictionary form" and the "attributive form") is broadly equivalent to the present and future tenses of English. In Japanese, the imperfective form is used as the headword or lemma. It is used to express actions that are assumed to continue into the future, habits or future intentions.
+The imperfective form cannot be used to make a progressive continuous statement, such as in the English sentence "I am shopping". To do so, the verb must first be conjugated into its te form and attached to the いる (iru) auxiliary verb (see § te form: Grammatical compatibility, below).
+Imperfective: Conjugation table
+The imperfective form uses the shūshikei/rentaikei base, and is thus equivalent to the dictionary form.
+Imperfective: Grammatical compatibility
+The imperfective form can be used to issue prohibitive commands by attaching 〜な (-na). For example, 入るな！ (hairu na!, "Do not enter!").
+Additionally, the imperfective form is compatible with the nominalizers 〜の (-no) and 〜こと (-koto), which repurpose the verb as a noun. For example, カラオケで歌うのは楽しい！ (karaoke de utau no wa tanoshii!, Singing at karaoke is fun!).
+Negative
+The negative form is broadly equivalent to the English word "not".
+Negative: Conjugation table
+The negative form is created by using the mizenkei base, followed by the ない (nai) suffix.
+Negative: Grammatical compatibility
+The negative form is compatible with the ～で (-de) particle for additional functions, such as requesting someone to cease/desist or joining a subordinate clause.
+It is also compatible with i‑adjectives inflections, since the ～ない (-nai) suffix ends with ～い (-i).
+Negative continuous
+The negative continuous form is created by using the mizenkei base, followed by the 〜ず (zu) suffix; equivalent to replacing 〜ない (-nai) with 〜ず (-zu) in the table above. An exception is する (suru, to do), which instead conjugates as せず (sezu, not doing). In this form, the negative continuous cannot terminate a sentence. The verb has the "negative continuous tense" unless followed by the に (ni) particle, where its meaning changes to "without". The -zuni form (〜ずに, without doing) is semantically interchangeable with -naide (〜ないで, without doing), however -zuni is only used in written Japanese or formal speech.
+Perfective
+The perfective form (過去形・完了形, kakokei / kanryōkei, also known as the "ta form", "past tense" and the "perfect tense") is equivalent to the English "past tense".
+Perfective: Conjugation table
+The perfective form is created by using the onbinkei base, followed by the た・だ (ta/da) suffix. This conjugation pattern is more complex compared to other conjugations because the exact realization of the inflectional suffix—particularly in godan verbs—is based on the euphony (音便, onbin) of the verb stem. (See also: Euphonic changes)
+Perfective: Grammatical compatibility
+The perfective form is compatible with:
+te form
+The te form (て形, tekei) allows verbs to function like conjunctions. Similar to the word "and" in English, the te form connects clauses to make longer sentences. Conversely, as a sentence terminal, it functions as a casual instruction (like a gentle imperative command). Finally, the te form attaches to a myriad of auxiliary verbs for various purposes.
+There are limitations where the te form cannot be used to conjugate between pairs of verbs (such as when two verbs are unrelated) and the conjunctive form is used instead. (see § Conjunctive form vs te form, below)
+te form: Conjugation table
+The te form is created by using the onbinkei base, followed by the て・で (te/de) suffix. Just like the perfective form, this conjugation pattern is more complex compared to other conjugations because the exact realization of the inflectional suffix—particularly in godan verbs—is based on the euphony (音便, onbin) of the verb stem. (See also: Euphonic changes)
+te form: Grammatical compatibility
+The te form is compatible with particles for additional functions, such as giving permission or expressing prohibition.
+
+The te form is also compatible with an extensive list of auxiliary verbs. These auxiliary verbs are attached after the 〜て.
+
+Finally, the te form is necessary for making polite requests with 下さる (kudasaru) and くれる (kureru). These honorific words are attached with their imperative forms 〜下さい (-kudasai) and 〜くれ (-kure), which is more socially proper than using the true imperative.
+te form: Advanced usage
+During speech, the speaker may terminate a sentence in the te form but slightly lengthen the vowel sound as a natural pause: てぇ (te…). Similar to when a sentence ends with "so…" in English, this serves as a social cue that can:
+Another usage of the te form is, just as with English, the order of clauses may be reversed to create emphasis. However, unlike in English, the sentence will terminate on the te form (rather than between clauses).
+Conjunctive
+The conjunctive form (also known as the "stem form", "masu form", "i form" and the "continuative form") functions like an intermediate conjugation; it requires an auxiliary verb to be attached since the conjunctive form is rarely used in isolation. It can also function to link separate clauses (hence the name "conjunctive") in a similar way to the te form above; however usage of the conjunctive form as a conjunction has restrictions. The conjunctive form can function as a gerund (a verb functioning as a noun) without the need for nominalizers, although permissible use cases are limited.
+Conjunctive: Conjugation table
+The conjunctive form uses the ren'yōkei base. It is one of the simplest conjugation patterns due to its lack of irregular conjugations. It does have an additional case for certain honorific verbs, but even those follow a consistent conjugation pattern.
+Conjunctive: Grammatical compatibility
+
+The conjunctive form is compatible with particles for additional functions, such as expressing purpose or a firm avoidance.
+
+The conjunctive form is also compatible with an extensive list of auxiliary verbs. One of which, ます (masu), has highly irregular inflections.
+Conjunctive: Advanced usage
+
+The conjunctive form, like the te form, connects clauses in a similar way to how "and" does in English. However, the conjunctive and te forms are not usually interchangeable, and each form fulfills specific grammatical purposes. When a pair of verbs have a strong connection in context, only the te form can bridge them. When a pair of verbs are not directly related but happen during a shared period of time, only the conjunctive form can bridge them. Furthermore, if a pair of verbs are both controllable or uncontrollable in nature, the te form must bridge them; otherwise, when a verb is controllable whilst the other verb is uncontrollable, the conjunctive form must bridge them. Finally, the te and conjunctive forms are interchangeable if additional information is included between the verbs.
+In the case where the conjunctive form is interchangeable with the te form, there is a stylistic means where the conjunctive form is preferred. This avoids 「て…て…て…」 (te…te…te…) repetition, much like how English users might avoid saying "and…and…and…". In practice however, such a strategy is more readily accustomed to writing and more difficult to control in spoken conversation (where the te form is usually elected for every verb).
+
+Another common usage is to form compound words, specifically compound nouns and compound verbs. As for compound nouns, the conjunctive form attaches as a prefix to another noun. Compound verbs are formed in the same way, except the conjunctive form attaches to the imperfective form. This pattern can be used to express mutuality if a transitive verb attaches to 〜合う (-au, to unite).
+The conjunctive form is also used in formal honorifics, such as お使い下さい (o tsukai kudasai, "Please use this.").
+Volitional
+The volitional form (also known as the "conjectural form", "tentative form", "presumptive form" and the "hortative form") is used to express speaker's will or intention (volitional), make an inclusive command or invitation (hortative or persuasive) or to make a guess or supposition (presumptive).
+Volitional: Conjugation table
+The volitional form is created by using the ishikei base, followed by the う・よう (u/yō) suffix. Phonetically, う is surfaced as お (o) in volitional form, unlike う in dictionary/imperfective form; for example, 問う (tou, to ask) and 問おう (toō, let's ask).
+Volitional: Grammatical compatibility
+The volitional form is also used to describe intention 〜と思う (-to omou) an attempt 〜とする (-to suru) or an imminent action 〜としている (-to shite iru).
+Passive
+The passive form (受身形, ukemikei) refocuses the verb as the target objective of a sentence; it emphasizes the action as the detail of importance. Although a sentence can include a specific subject enacting the passive verb, the subject is not required. The passive voice can nuance neutrality, a regrettable action (suffering passive) or a means of being respectful.
+Passive: Conjugation table
+The passive form is created by using the mizenkei base, followed by the れる・られる (reru/rareru) suffix. For ichidan verbs and 来る (kuru), the passive form and the potential form have an identical conjugation pattern with the same られる (rareru) suffix. This makes it impossible to distinguish whether an ichidan verb adopts a passive or potential function without contextual information.
+Passive: Grammatical compatibility
+After conjugating into the passive form, the verbs become ichidan verbs. They can therefore be further conjugated according to any ichidan pattern. For instance, a passive verb (e.g. 言われる (iwareru, be said)) can conjugate using the ichidan pattern for the te form (て形, te kei) to join sequential statements (言われて (iwarete)), or the conjunctive form to append the polite -masu (〜ます) auxiliary verb (言われます (iwaremasu)).
+Causative
+The causative form (使役形, shiekikei) is used to express that a subject was forced or allowed to do something.
+Causative: Conjugation table
+The causative form is created by using the mizenkei base, followed by the せる・させる (seru/saseru) suffix.
+Causative: Grammatical compatibility
+After conjugating into the causative form, the verbs become ichidan verbs. They can therefore be further conjugated according to any ichidan pattern. For instance, a causative verb (e.g. 言わせる (iwaseru, caused to say)) can conjugate using the ichidan pattern for the te form (て形, te kei) to join sequential statements (言わせて (iwasete)), or the conjunctive form to append the polite -masu (〜ます) auxiliary verb (言わせます (iwasemasu)).
+Causative passive
+The causative passive form expresses that a reluctant subject was positioned (or forced) into doing something they would rather avoid. The causative passive form is obtained by conjugating a verb into its causative form and further conjugating it into the passive form. However, because words such as 待たせられる (mataserareru) are considered difficult to pronounce, the conjugational suffix is often contracted in colloquial speech. Specific to godan verbs only, the せら〜 (sera-, from せられる) contracts into さ〜 (sa-).
+Imperative
+The imperative form functions as firm instructions do in English. It is used to give orders to subordinates (such as within military ranks, or towards pet animals) and to give direct instructions within intimate relationships (for example, within family or close friends). When directed towards a collective rather than an individual, the imperative form is used for mandatory action or motivational speech. The imperative form is also used in reported speech.
+However, the imperative form is perceived as confrontational or aggressive when used for commands; instead, it is more common to use the te form (with or without the 〜下さい (-kudasai, please do) suffix), or the conjunctive form's polite imperative suffix, 〜なさい (-nasai).
+Imperative: Conjugation table
+The imperative form uses the meireikei base.
+Non‑volitional verbs, such as 分かる (wakaru, to understand) and できる (dekiru, to be able), have imperative forms (for these two verbs, 分かれ (wakare) and できろ (dekiro)), but these appear to be relatively recent innovations, and usage may be limited to informal contexts.
+Potential
+The potential form describes the capability of doing something. It is also used to ask favors from others, just as "Can you…?" does in English. However, unlike in English, the potential form does not request permission; the phrase この林檎が食べられる？ (kono ringo ga taberareru?, "Can I eat this apple?" ) is always understood to mean "Do I have the ability to eat this apple?" or "Is this apple edible?" (but never "May I eat this apple?" ).
+For transitive verbs, the potential form uses the が (ga) particle to mark direct objects, instead of the を (o) particle.
+Potential: Conjugation table
+The potential form is created by using the kanōkei base, followed by the る・られる (ru/rareru) suffix. する (suru, to do) has its own suppletive potential form 出来る (dekiru, can do). For ichidan verbs and 来る (kuru), the potential form and the passive form have an identical conjugation pattern with the same られる (rareru) suffix. This makes it impossible to distinguish whether an ichidan verb adopts a passive or potential function without contextual information.
+Potential: Grammatical compatibility
+After conjugating into the potential form, the verbs become ichidan verbs. They can therefore be further conjugated according to any ichidan pattern. For instance, a potential verb (e.g. 言える (ieru, can say)) can conjugate using the ichidan pattern for the te form (て形, te kei) to join sequential statements (言えて (iete)), or the conjunctive form to append the polite -masu (〜ます) auxiliary verb (言えます (iemasu)).
+Conditional
+The conditional form (also known as the "hypothetical form", "provisional form" and the "provisional conditional eba form") is broadly equivalent to the English conditionals "if…" or "when…". It describes a condition that provides a specific result, with emphasis on the condition. The conditional form is used to describe hypothetical scenarios or general truths.
+Conditional: Conjugation table
+The conditional form is created by using the kateikei base, followed by the ば (ba) suffix.
+Conditional: Advanced usage
+In its negative conjugation (〜なければ, -nakereba), the conditional form can express obligation or insistence by attaching to 〜ならない (-naranai, to not happen) or 〜なりません (-narimasen, to not happen (polite) ). This pattern of grammar is a double negative which loosely translates to "to avoid that action, will not happen". Semantically cancelling out the negation becomes "to do that action, will happen" ; however the true meaning is "I must do that action".

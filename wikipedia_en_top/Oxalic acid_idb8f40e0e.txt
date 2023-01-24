@@ -1,0 +1,70 @@
+Oxalic acid
+Oxalic acid is an organic acid with the systematic name ethanedioic acid and formula HO2C−CO2H. It is the simplest dicarboxylic acid. It is a white crystalline solid that forms a colorless solution in water. Its name comes from the fact that early investigators isolated oxalic acid from flowering plants of the genus Oxalis, commonly known as wood-sorrels. It occurs naturally in many foods. Excessive ingestion of oxalic acid or prolonged skin contact can be dangerous.
+Oxalic acid has much greater acid strength than acetic acid. It is a reducing agent and its conjugate base, known as oxalate (C2O2−4), is a chelating agent for metal cations. Typically, oxalic acid occurs as the dihydrate with the formula C2H2O4·2H2O.
+History
+The preparation of salts of oxalic acid (crab acid) from plants had been known, at least since 1745, when the Dutch botanist and physician Herman Boerhaave isolated a salt from wood sorrel. By 1773, François Pierre Savary of Fribourg, Switzerland had isolated oxalic acid from its salt in sorrel.
+In 1776, Swedish chemists Carl Wilhelm Scheele and Torbern Olof Bergman produced oxalic acid by reacting sugar with concentrated nitric acid; Scheele called the acid that resulted socker-syra or såcker-syra (sugar acid). By 1784, Scheele had shown that "sugar acid" and oxalic acid from natural sources were identical.
+In 1824, the German chemist Friedrich Wöhler obtained oxalic acid by reacting cyanogen with ammonia in aqueous solution. This experiment may represent the first synthesis of a natural product.
+Preparation
+Oxalic acid is mainly manufactured by the oxidation of carbohydrates or glucose using nitric acid or air in the presence of vanadium pentoxide. A variety of precursors can be used including glycolic acid and ethylene glycol. A newer method entails oxidative carbonylation of alcohols to give the diesters of oxalic acid:
+These diesters are subsequently hydrolyzed to oxalic acid. Approximately 120,000 tonnes are produced annually.
+Historically oxalic acid was obtained exclusively by using caustics, such as sodium or potassium hydroxide, on sawdust, followed by acidification of the oxalate by mineral acids, such as sulfuric acid. Oxalic acid can also be formed by the heating of sodium formate in the presence of an alkaline catalyst.
+Laboratory methods
+Although it can be readily purchased, oxalic acid can be prepared in the laboratory by oxidizing sucrose using nitric acid in the presence of a small amount of vanadium pentoxide as a catalyst.
+The hydrated solid can be dehydrated with heat or by azeotropic distillation.
+Developed in the Netherlands, an electrocatalysis by a copper complex helps reduce carbon dioxide to oxalic acid; this conversion uses carbon dioxide as a feedstock to generate oxalic acid.
+Structure
+Anhydrous
+Anhydrous oxalic acid exists as two polymorphs; in one the hydrogen-bonding results in a chain-like structure, whereas the hydrogen bonding pattern in the other form defines a sheet-like structure. Because the anhydrous material is both acidic and hydrophilic (water seeking), it is used in esterifications.
+Dihydrate
+The dihydrate H2C2O4.2H2O has space group C52h–P21/n, with lattice parameters a = 611.9 pm, b = 360.7 pm, c = 1205.7 pm, β = 106°19', Z = 2.  The main inter-atomic distances are: C−C 153 pm, C−O1 129 pm, C−O2 119 pm.
+Theoretical studies indicate that oxalic acid dihydrate is one of very few crystalline substances that exhibit negative area compressibility. Namely, when subjected to isotropic tension stress (negative pressure), the a and c lattice parameters increase as the stress decreases from −1.17 GPa to −0.12 GPa and from −1.17 GPa to −0.51 GPa, respectively.
+Reactions
+Acid-base properties
+Oxalic acid's pKa values vary in the literature from 1.25–1.46 and 3.81–4.40. The 100th ed of the CRC, released in 2019, has values of 1.25 and 3.81.
+Oxalic acid is relatively strong compared to other carboxylic acids:
+Oxalic acid undergoes many of the reactions characteristic of other carboxylic acids. It forms esters such as dimethyl oxalate (m.p. 52.5 to 53.5 °C, 126.5 to 128.3 °F). It forms an acid chloride called oxalyl chloride.
+Metal-binding properties
+Transition metal oxalate complexes are numerous, e.g. the drug oxaliplatin.  Oxalic acid has shown to reduce manganese dioxide MnO2 in manganese ores to allow the leaching of the metal by sulfuric acid.
+Oxalic acid is an important reagent in lanthanide chemistry. Hydrated lanthanide oxalates form readily in very strongly acidic solutions as a densely crystalline, easily filtered form, largely free of contamination by nonlanthanide elements:
+Thermal decomposition of these oxalates gives the oxides, which is the most commonly marketed form of these elements.
+Other
+Oxalic acid and oxalates can be oxidized by permanganate in an autocatalytic reaction.
+Oxalic acid vapor decomposes at 125–175 °C into carbon dioxide CO2 and formic acid HCOOH.  Photolysis with 237–313 nm UV light also produces carbon monoxide CO and water.
+Evaporation of a solution of urea and oxalic acid in 2:1 molar ratio yields a solid crystalline compound H2C2O4.[CO(NH2)2]2, consisting of stacked two-dimensional networks of the neutral molecules held together by hydrogen bonds with the oxygen atoms.
+Occurrence
+Biosynthesis
+At least two pathways exist for the enzyme-mediated formation of oxalate. In one pathway, oxaloacetate, a component of the Krebs citric acid cycle, is hydrolyzed to oxalate and acetic acid by the enzyme oxaloacetase:
+It also arises from the dehydrogenation of glycolic acid, which is produced by the metabolism of ethylene glycol.
+Occurrence in foods and plants
+Early investigators isolated oxalic acid from wood-sorrel (Oxalis). Members of the spinach family and the brassicas (cabbage, broccoli, brussels sprouts) are high in oxalates, as are sorrel and umbellifers like parsley. The leaves and stems of all species of the genus Chenopodium and related genera of the family Amaranthaceae, which includes quinoa, contain high levels of oxalic acid,. Rhubarb leaves contain about 0.5% oxalic acid, and jack-in-the-pulpit (Arisaema triphyllum) contains calcium oxalate crystals. Similarly, the Virginia creeper, a common decorative vine, produces oxalic acid in its berries as well as oxalate crystals in the sap, in the form of raphides. Bacteria produce oxalates from oxidation of carbohydrates.
+Plants of the genus Fenestraria produce optical fibers made from crystalline oxalic acid to transmit light to subterranean photosynthetic sites.
+Carambola, also known as starfruit, also contains oxalic acid along with caramboxin. Citrus juice contains small amounts of oxalic acid. Citrus fruits produced in organic agriculture contain less oxalic acid than those produced in conventional agriculture.
+The formation of naturally occurring calcium oxalate patinas on certain limestone and marble statues and monuments has been proposed to be caused by the chemical reaction of the carbonate stone with oxalic acid secreted by lichen or other microorganisms.
+Production by fungi
+Many soil fungus species secrete oxalic acid, resulting in greater solubility of metal cations, increased availability of certain soil nutrients, and can lead to the formation of calcium oxalate crystals. Some fungi such as Aspergillus niger have been extensively studied for the industrial production of oxalic acid; however, those processes are not yet economically competitive with production from oil and gas.
+Biochemistry
+The conjugate base of oxalic acid is the hydrogenoxalate anion, and its conjugate base (oxalate) is a competitive inhibitor of the lactate dehydrogenase (LDH) enzyme. LDH catalyses the conversion of pyruvate to lactic acid (end product of the fermentation (anaerobic) process) oxidising the coenzyme NADH to NAD+ and H+ concurrently. Restoring NAD+ levels is essential to the continuation of anaerobic energy metabolism through glycolysis. As cancer cells preferentially use anaerobic metabolism (see Warburg effect) inhibition of LDH has been shown to inhibit tumor formation and growth, thus is an interesting potential course of cancer treatment.
+Oxalic acid plays an key role in the interaction between pathogenic fungi and plants.  Small amounts of oxalic acid enhances plant resistance to fungi, but higher amounts cause widespread programmed cell death of the plant and help with fungi infection. Plants normally produce it in small amounts, but some pathogenic fungi such as Sclerotinia sclerotiorum cause a toxic accumulation.
+Oxalate, besides being biosynthesised, may also be biodegraded. Oxalobacter formigenes is an important gut bacteria that helps animals (including humans) degrade oxalate.
+Applications
+Oxalic acid's main applications include cleaning or bleaching, especially for the removal of rust (iron complexing agent). Its utility in rust removal agents is due to its forming a stable, water-soluble salt with ferric iron, ferrioxalate ion. The cleaning product Zud contains oxalic acid. Oxalic acid is an ingredient in some tooth whitening products.  About 25% of produced oxalic acid will be used as a mordant in dyeing processes. It is also used in bleaches, especially for pulpwood, and for rust removal and other cleaning, in baking powder, and as a third reagent in silica analysis instruments.
+Niche uses
+Oxalic acid is used by some beekeepers as a miticide against the parasitic varroa mite. Thymovar combined with an oxalic acid treatment has proved effective against the varroa mite.
+Dilute solutions (0.05–0.15 M) of oxalic acid can be used to remove iron from clays such as kaolinite to produce light-colored ceramics.
+Oxalic acid is used to clean minerals.
+Oxalic acid is sometimes used in the aluminum anodizing process, with or without sulfuric acid. Compared to sulfuric acid anodizing, the coatings obtained are thinner and exhibit lower surface roughness.
+Oxalic acid is also widely used as a wood bleach, most often in its crystalline form to be mixed with water to its proper dilution for use.
+Semiconductor industry
+Oxalic acid is also used in electronic and semiconductor industries. In 2006 it was reported being used in electrochemical–mechanical planarization of copper layers in the semiconductor devices fabrication process.
+Toxicity
+Oxalic acid has an oral LDLo (lowest published lethal dose) of 600 mg/kg. It has been reported that the lethal oral dose is 15 to 30 grams. The toxicity of oxalic acid is due to kidney failure caused by precipitation of solid calcium oxalate.
+Oxalate is known to cause mitochondrial dysfunction.
+Ingestion of ethylene glycol results in oxalic acid as a metabolite which can also cause acute kidney failure.
+Kidney stones
+Most kidney stones, 76%, are composed of calcium oxalate.
+Other effects
+Oxalic acid can cause joint pain by formation of precipitates in the joints.
+Calcium hydroxide decreases urinary oxalate in both humans and rats.
+Notes
+^a Unless otherwise cited, all measurements are based on raw vegetable weights with original moisture content.

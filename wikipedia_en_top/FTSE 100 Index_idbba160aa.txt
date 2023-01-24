@@ -1,0 +1,30 @@
+FTSE 100 Index
+The Financial Times Stock Exchange 100 Index, also called the FTSE 100 Index, FTSE 100, FTSE, or, informally, the "Footsie" /ˈfʊtsi/, is a share index of the 100 companies listed on the London Stock Exchange with (in principle) the highest market capitalisation. The index is maintained by the FTSE Group, a subsidiary of the London Stock Exchange Group.
+
+
+Overview
+The index is maintained by the FTSE Group, now a wholly owned subsidiary of the London Stock Exchange, which originated as a joint venture between the Financial Times and the London Stock Exchange. It is calculated in real time and published every second when the market is open.
+The FTSE 100 Index was launched on 3 January 1984. The market capitalisation weighted FTSE 100 index replaced the price-weighted FT30 Index as the performance benchmark for most investors.
+The FTSE 100 broadly consists of the largest 100 qualifying UK companies by full market value. The total market value of a company is calculated by multiplying the share price of the company by the total number of shares they have issued. However, many of these are internationally focused companies: therefore the index's movements are a fairly weak indicator of how the UK economy is faring and are significantly affected by the exchange rates of the pound sterling. A better indication of the UK economy is the FTSE 250 Index, as it contains a smaller proportion of international companies.
+Even though the FTSE All-Share Index is more comprehensive, the FTSE 100 is by far the most widely used UK stock market indicator. Other related indices are the FTSE 250 Index (which includes the next largest 250 companies after the FTSE 100), the FTSE 350 Index (which is the aggregation of the FTSE 100 and 250), FTSE SmallCap Index and the FTSE Fledgling Index. The FTSE All-Share aggregates the FTSE 100, FTSE 250 and FTSE SmallCap.
+To be included in the index, a company must meet a number of requirements set out by the FTSE Group, including having a full listing on the London Stock Exchange with a sterling or Euro denominated price on the Stock Exchange Electronic Trading Service, and meeting certain tests on nationality, free float, and liquidity.
+Continuous trading on the London Stock Exchange starts at 08:00 and ends at 16:30 (when the closing auction starts), and closing values are taken at 16:35.
+Weighting
+In the FTSE indices, share prices are weighted by free-float capitalisation, so that the larger companies, with more of their stock "floating", make more of a difference to the index than smaller companies. The basic formula for these indices is:
+The free float adjustment factor represents the percentage of all issued shares that are readily available for trading, rounded up to the nearest multiple of 5%. The free-float capitalisation of a company is its market capitalisation multiplied by its free float adjustment factor. It therefore does not include restricted stocks, such as those held by company insiders.
+Futures contracts
+FTSE futures contracts are traded on the Euronext Equities & Index Derivatives (EUREID) exchange. The value of each contract is 10 GBP x Index Points and is specified as:
+Record values
+The index has reached the following record values:
+The index began on 3 January 1984 at the base level of 1000. The highest closing value of 7,877.45 was reached on 22 May 2018. The highest intra-day value of 7,903.50 was reached on 22 May 2018.
+Annual returns
+The following table shows the annual development of the calculation of the FT 30 Index from 1969 to 1983, and the FTSE 100 since 1984.
+Constituents in January 2023
+The following table lists the FTSE 100 companies after the changes on 4 January 2023.
+Past constituents
+All changes are due to market capitalisation unless noted otherwise.
+ 
+Source: "FTSE: FTSE 100 Constituent Changes" (PDF; 57.9 KB)
+FT 30
+The oldest continuous index in the UK is the FT 30, also known as the Financial Times Index or the FT Ordinary Index (FTOI). It was established in 1935 and nowadays is largely obsolete due to its redundancy. It is similar to the Dow Jones Industrial Average, and companies listed are from the industrial and commercial sectors. Financial sector companies and government stocks are excluded.
+Of the original constituents, three are currently in the FTSE 100: Tate & Lyle, Imperial Tobacco and Rolls-Royce, although Rolls-Royce has not been continuously listed and Imperial Tobacco was a subsidiary of Hanson for a number of years, and is now renamed as Imperial Brands. Only one of the original FT 30 companies is still in that index: Tate & Lyle (membership is not strictly based on market capitalisation, so this does not mean they are necessarily among the top thirty companies in the FTSE 100). The best performer from the original lineup has been Imperial Tobacco.

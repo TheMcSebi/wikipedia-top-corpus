@@ -1,0 +1,30 @@
+Mammal classification
+Mammalia is a class of animal within the phylum Chordata. Mammal classification has been through several iterations since Carl Linnaeus initially defined the class. No classification system is universally accepted; McKenna & Bell (1997) and Wilson & Reader (2005) provide useful recent compendiums. Many earlier ideas from Linnaeus et al. have been completely abandoned by modern taxonomists, among these are the idea that bats are related to birds or that humans represent a group outside of other living things. Competing ideas about the relationships of mammal orders do persist and are currently in development. Most significantly in recent years, cladistic thinking has led to an effort to ensure that all taxonomic designations represent monophyletic groups. The field has also seen a recent surge in interest and modification due to the results of molecular phylogenetics.
+George Gaylord Simpson's classic "Principles of Classification and a Classification of Mammals" (Simpson, 1945) taxonomy text laid out a systematics of mammal origins and relationships that was universally taught until the end of the 20th century.
+Since Simpson's 1945 classification, the paleontological record has been recalibrated, and the intervening years have seen much debate and progress concerning the theoretical underpinnings of systematization itself, partly through the new concept of cladistics. Though field work gradually made Simpson's classification outdated, it remained the closest thing to an official classification of mammals. See List of placental mammals and List of monotremes and marsupials for more detailed information on mammal genera and species.
+Molecular classification of placentals
+Molecular studies by molecular systematists, based on DNA analysis, in the early 21st century have revealed new relationships among mammal families. Classification systems based on molecular studies reveal three major groups or lineages of placental mammals, Afrotheria, Xenarthra, and Boreotheria. which diverged from early common ancestors in the Cretaceous.
+The relationships between these three lineages is contentious, and all three have been proposed as basal in different hypotheses.
+The following taxonomy only includes living placentals (infraclass Eutheria):
+Afrotheria
+Xenarthra
+Euarchontoglires
+Laurasiatheria
+Standardized textbook classification
+A somewhat standardized classification system has been adopted by most current mammalogy classroom textbooks. The following taxonomy of extant and recently extinct mammals is taken from the 6th edition of Vaughan's Mammalogy. This approach emphasizes an initial split between egg-laying prototherians and live-bearing therians. The therians are further divided into the marsupial Metatheria and the "placental" Eutheria. No attempt is made in this classification to further distinguish among the orders within these subclasses and infraclasses. This system also makes no note of the position of entirely fossil groups.
+In this and later taxonomies, families are merely listed under the order to which they belong. More detailed relationships among families is presented in the article of each order.
+Subclass Prototheria
+Subclass Theria
+McKenna/Bell classification
+In 1997, the classification of mammals was revised by Malcolm C. McKenna and Susan K. Bell. The Classification of Mammals Above the species level, here referred to as the "McKenna/Bell classification", is a comprehensive work on the systematics, relationships, and occurrences of all mammal taxa, living and extinct, down through the rank of genus. The authors worked together as paleontologists at the American Museum of Natural History, New York. McKenna inherited the project from Simpson and, with Bell, constructed a completely updated hierarchical system, covering living and extinct taxa that reflects the historical genealogy of Mammalia.
+The McKenna/Bell hierarchical listing of all of the terms used for mammal groups above the species includes extinct mammals as well as modern groups, and introduces some fine distinctions such as legions and sublegions and ranks which fall between classes and orders that are likely to be glossed over by the layman.
+Click on the highlighted link for a table comparing the traditional and the new McKenna/Bell classifications of mammals.
+Extinct groups are represented by †.
+Subclass Prototheria
+(monotremes)
+Subclass Theriiformes
+Luo, Kielan-Jaworowska, and Cifelli classification
+Several important fossil mammal discoveries have been made that have led researchers to question many of the relationships proposed by McKenna and Bell (1997). Additionally, researchers are subjecting taxonomic hypotheses to more rigorous cladistic analyses of early mammal fossils. Luo et al. (2002) summarized existing ideas and proposed new ideas of relationships among mammals at the most basal level. They argued that the term mammal should be defined based on characters (especially the dentary-squamosal jaw articulation) instead of a crown-based definition (the group that contains most recent common ancestor of monotremes and therians and all of its descendants). Their definition of Mammalia is roughly equal to the Mammaliaformes as defined by McKenna and Bell (1997) and other authors. They also define their taxonomic levels as clades and do not apply Linnean hierarchies.
+Mammalia
+Simplified classification for non-specialists
+The following classification is a simplified version based on current understanding suitable for non-specialists who want to understand how living genera are related to each other. The classification ignores differences in levels and thus cannot be used to estimate the respective distances between taxa. It also ignores taxa that became extinct in pre-historic times. Finally, English names are preferred whenever they exist. This makes it especially suited for non-specialists who wish to gain an easy overview. For the full picture, the non-simplified versions above should be consulted.

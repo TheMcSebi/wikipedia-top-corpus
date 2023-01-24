@@ -1,0 +1,149 @@
+JEL classification codes
+Articles in economics journals are usually classified according to JEL classification codes, which derive from the Journal of Economic Literature.  The JEL is published quarterly by the American Economic Association (AEA) and contains survey articles and information on recently published books and dissertations. The AEA maintains EconLit, a searchable data base of citations for articles, books, reviews, dissertations, and working papers classified by JEL codes for the years from 1969. A recent addition to EconLit is indexing of economics journal articles from 1886 to 1968 parallel to the print series Index of Economic Articles.
+Structure
+There are 26 primary JEL categories:
+Each JEL primary category has secondary and tertiary subcategories, for example, under JEL: D – Microeconomics:
+JEL code (sub)categories, including periodic updates, are referenced at Journal of Economic Literature (JEL) Classification System.  Links to definitions of (sub)categories are at JEL Classification Codes Guide with corresponding examples of article titles linked to publication information, such as abstracts.
+Purpose
+Articles in economics journals also list JEL codes (for example JEL: B12), facilitating their use across search engines. Comprehensive uses of JEL (sub)classifications include:
+JEL categories
+A. General Economics and Teaching
+A1     General Economics
+A2     Economic Education and Teaching of Economics
+A3     Collective Works
+B. History of Economic Thought, Methodology, and Heterodox Approaches
+B1     History of Economic Thought through 1925
+B2     History of Economic Thought since 1925
+B3     History of Economic Thought: Individuals
+B4     Economic Methodology
+B5     Current Heterodox Approaches
+C. Mathematical and Quantitative Methods
+C1     Econometric and Statistical Methods and Methodology: General
+C2     Single Equation Models • Single Variables
+C3     Multiple or Simultaneous Equation Models • Multiple Variables
+C4     Econometric and Statistical Methods: Special Topics
+C5     Econometric Modeling
+C6     Mathematical Methods • Programming Models • Mathematical and Simulation Modeling
+C7     Game Theory and Bargaining Theory
+C8     Data Collection and Data Estimation Methodology • Computer Programs
+C9     Design of Experiments
+D. Microeconomics
+D1     Household Behavior and Family Economics
+D2     Production and Organizations
+D3     Distribution
+D4     Market Structure, Pricing, and Design
+D5     General Equilibrium and Disequilibrium
+D6     Welfare Economics
+D7     Analysis of Collective Decision-Making
+D8     Information, Knowledge, and Uncertainty
+D9     Micro-Based Behavioral Economics
+E. Macroeconomics and Monetary Economics
+E1     General Aggregative Models
+E2     Consumption, Saving, Production, Investment, Labor Markets, and Informal Economy
+E3     Prices, Business Fluctuations, and Cycles
+E4     Money and Interest Rates
+E5     Monetary Policy, Central Banking, and the Supply of Money and Credit
+E6     Macroeconomic Policy, Macroeconomic Aspects of Public Finance, and General Outlook
+F. International Economics
+F1     Trade
+F2     International Factor Movements and International Business
+F3     International Finance
+F4     Macroeconomic Aspects of International Trade and Finance
+F5     International Relations, National Security, and International Political Economy
+F6     Economic Impacts of Globalization
+G. Financial Economics
+G1     General Financial Markets
+G2     Financial Institutions and Services
+G3     Corporate Finance and Governance
+H. Public Economics
+H1     Structure and Scope of Government
+H2     Taxation, Subsidies, and Revenue
+H3     Fiscal Policies and Behavior of Economic Agents
+H4     Publicly Provided Goods
+H5     National Government Expenditures and Related Policies
+H6     National Budget, Deficit, and Debt
+H7     State and Local Government • Intergovernmental Relations
+H8     Miscellaneous Issues
+I. Health, Education, and Welfare
+I1     Health
+I2     Education and Research Institutions
+I3     Welfare, Well-Being, and Poverty
+J.  Labor and  Demographic Economics
+J1     Demographic Economics
+J2     Demand and Supply of Labor
+J3     Wages, Compensation, and Labor Costs
+J4     Particular Labor Markets
+J5     Labor–Management Relations, Trade Unions, and Collective Bargaining
+J6     Mobility, Unemployment, Vacancies, and Immigrant Workers
+J7     Labor Discrimination
+J8     Labor Standards: National and International
+K. Law and Economics
+K1     Basic Areas of Law
+K2     Regulation and Business Law
+K3     Other Substantive Areas of Law
+K4     Legal Procedure, the Legal System, and Illegal Behavior
+L. Industrial Organization
+L1     Market Structure, Firm Strategy, and Market Performance
+L2     Firm Objectives, Organization, and Behavior
+L3     Nonprofit Organizations and Public Enterprise
+L4     Antitrust Issues and Policies
+L5     Regulation and Industrial Policy
+L6     Industry Studies: Manufacturing
+L7     Industry Studies: Primary Products and Construction
+L8     Industry Studies: Services
+L9     Industry Studies: Transportation and Utilities
+M. Business Administration and Business Economics • Marketing • Accounting • Personnel Economics
+M1     Business Administration
+M2     Business Economics
+M3     Marketing and Advertising
+M4     Accounting and Auditing
+M5     Personnel Economics
+N. Economic History
+N1     Macroeconomics and Monetary Economics • Industrial Structure • Growth • Fluctuations
+N2     Financial Markets and Institutions
+N3     Labor and Consumers, Demography, Education, Health, Welfare, Income, Wealth, Religion, and Philanthropy
+N4     Government, War, Law, International Relations, and Regulation
+N5     Agriculture, Natural Resources, Environment, and Extractive Industries
+N6     Manufacturing and Construction
+N7     Transport, Trade, Energy, Technology, and Other Services
+N8     Micro-Business History
+N9     Regional and Urban History
+O. Economic Development, Innovation, Technological Change, and Growth
+O1     Economic Development
+O2     Development Planning and Policy
+O3     Innovation • Research and Development • Technological Change • Intellectual Property Rights
+O4     Economic Growth and Aggregate Productivity
+O5     Economywide Country Studies
+P. Economic Systems
+P1     Capitalist Systems
+P2     Socialist Systems and Transitional Economies
+P3     Socialist Institutions and Their Transitions
+P4     Other Economic Systems
+P5      Comparative Economic Systems
+Q. Agricultural and Natural Resource Economics • Environmental and Ecological Economics
+Q1     Agriculture
+Q2     Renewable Resources and Conservation
+Q3     Nonrenewable Resources and Conservation
+Q4     Energy
+Q5     Environmental Economics
+R. Urban, Rural, Regional, Real Estate, and Transportation Economics
+R1     General Regional Economics
+R2     Household Analysis
+R3     Real Estate Markets, Spatial Production Analysis, and Firm Location
+R4     Transportation Economics
+R5     Regional Government Analysis
+Y. Miscellaneous Categories
+Y1     Data: Tables and Charts
+Y2     Introductory Material
+Y3     Book Reviews (unclassified)
+Y4     Dissertations (unclassified)
+Y5     Further Reading (unclassified)
+Y6     Excerpts
+Y7     No Author General Discussions
+Y8     Related Disciplines
+Y9     Other
+Z. Other Special Topics
+Z1     Cultural Economics • Economic Sociology • Economic Anthropology
+Z2     Sports Economics
+Z3     Tourism Economics
+Notes

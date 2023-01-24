@@ -1,0 +1,32 @@
+Praziquantel
+Praziquantel (PZQ), sold under the brandname Biltricide among others, is a medication used to treat a number of types of parasitic worm infections in mammals, birds, amphibians, reptiles, and fish. In humans specifically, it is used to treat schistosomiasis, clonorchiasis, opisthorchiasis, tapeworm infections, cysticercosis, echinococcosis, paragonimiasis, fasciolopsiasis, and fasciolosis. It should not be used for worm infections of the eye. It is taken by mouth.
+Side effects in humans may include poor coordination, abdominal pain, vomiting, headache, and allergic reactions. While it may be used during pregnancy, it is not recommended for use during breastfeeding. Praziquantel is in the anthelmintic class of medications. It works partly by affecting the function of the worm's sucker.
+Praziquantel was approved for medical use in the United States in 1982. It is on the World Health Organization's List of Essential Medicines.
+Medical uses
+Praziquantel is used to treat diseases caused by infection with several types of internal/gastrointestinal, and external parasites, including:
+Side effects
+The majority of side effects develop due to the release of the contents of the parasites as they are killed and the consequent host immune reaction. The heavier the parasite burden, the heavier and more frequent the side effects normally are.
+Pregnancy
+The WHO states praziquantel is safe during pregnancy. Animal studies have failed to reveal evidence of fetal harm. Praziquantel is effective in reducing schistosomiasis during pregnancy. Another trial found that treatment with praziquantel did not increase the rates of low birthweight, fetal death, or congenital anomalies.
+Drug interactions
+The antibiotic rifampicin decreases plasma concentrations of praziquantel.
+Carbamazepine and phenytoin are reported to reduce the bioavailability of praziquantel. Chloroquine also reduces its bioavailability.
+The drug cimetidine heightens praziquantel bioavailability.
+Mechanism of action
+The drug's mode of action is not exactly known at present, but experimental evidence indicates praziquantel increases the permeability of the membranes of schistosome cells towards calcium ions. The drug thereby induces contraction of the parasites' muscle, resulting in paralysis in the contracted state. The dying parasites are dislodged from their site of action in the host organism and may enter systemic circulation or may be destroyed by host immune reaction (phagocytosis). Additional mechanisms including focal disintegrations and disturbances of oviposition (laying of eggs) are seen in other types of sensitive parasites.
+Another hypothesis regarding the mechanism of action is that it interferes with adenosine uptake in worms. This effect may have therapeutical relevance given that the schistosome, as the Taenia and the Echinococcus (other praziquantel-sensitive parasites), is unable to synthesize purines, such as adenosine, de novo.
+Bayer's Animal Health Division website states, "Praziquantel is active against cestodes (tapeworms). Praziquantel is absorbed, metabolized in the liver, and excreted in the bile. Upon entering the digestive tract from the bile, cestocidal activity is exhibited. Following exposure to praziquantel, the tapeworm loses its ability to resist digestion by the mammalian host. Because of this, whole tapeworms, including the scolices (plural of "scolex"), are very rarely passed after administration of praziquantel. In many instances, only disintegrated and partially digested pieces of tapeworms will be seen in the stool. The majority of tapeworms are digested and are not found in the feces."
+Praziquantel is administered as a racemate, but only the (R)-enantiomer is biologically active; the enantiomers may be separated using a resolution of an amine obtained from praziquantel.
+Pharmacokinetics
+Praziquantel is well absorbed (about 80%) from the gastrointestinal tract. However, due to extensive first-pass metabolism, only a relatively small amount enters systemic circulation. Praziquantel has a serum half-life of 0.8 to 1.5 hours in adults with normal renal and liver function. Metabolites have a half-life of 4 to 5 hours. In patients with significantly impaired liver function (Child-Pugh score B and C), the serum half-life is increased to 3 to 8 hours. Praziquantel and its metabolites are mainly excreted renally; within 24 h after a single oral dose, 70 to 80% is found in urine, but less than 0.1% as the unchanged drug. Praziquantel is metabolized through the cytochrome P450 pathway via CYP3A4.  Agents that induce or inhibit CYP3A4 such as phenytoin, rifampin, and azole antifungals will affect the metabolism of praziquantel.
+Praziquantel has a particularly dramatic effect on patients with schistosomiasis. Studies of those treated have shown that within six months of receiving a dose of praziquantel, up to 90% of the damage done to internal organs due to schistosomiasis infection can be reversed.
+History
+Praziquantel was developed in the laboratories for parasitological research of Bayer AG and Merck KGaA in Germany (Elberfeld and Darmstadt) in the mid-1970s.
+Society and culture
+Brand names
+Regulatory approval
+Praziquantel is on the World Health Organization's List of Essential Medicines.
+Praziquantel is not licensed for use in humans in the UK, but it can be imported when necessary on a named-patient basis.  It is available in the UK as a veterinary anthelmintic.
+Praziquantel is FDA approved in the US for the treatment of schistosomiasis and liver flukes, although it is effective in other infections.
+Veterinary medicine
+It may cause problems in dogs with MDR1 mutations.

@@ -1,0 +1,24 @@
+Svan language
+Svan (ლუშნუ ნინ lušnu nin; Georgian: სვანური ენა, romanized: svanuri ena) is a Kartvelian language spoken in the western Georgian region of Svaneti primarily by the Svan people. With its speakers variously estimated to be between 30,000 and 80,000, the UNESCO designates Svan as a "definitely endangered language". It is of particular interest because it has retained many archaic features that have been lost in the other Kartvelian languages.
+Features
+Familial features
+Like all languages of the Caucasian language family, Svan has a large number of consonants. It has agreement between subject and object, and a split-ergative morphosyntactic system. Verbs are marked for aspect, evidentiality and "version".
+Distinguishing features
+Svan retains the voiceless aspirated uvular plosive, /qʰ/, and the glides /w/ and /j/. It has a larger vowel inventory than Georgian; the Upper Bal dialect of Svan has the most vowels of any South-Caucasian language, having both long and short versions of /a ɛ i ɔ u æ ø y/ plus /ə eː/, a total of 18 vowels (Georgian, by contrast, has just five).
+Its morphology is less regular than that of the other three sister languages, and there are notable differences in conjugation.
+Distribution
+Svan is the native language of fewer than 30,000 Svans (15,000 of whom are Upper Svan dialect speakers and 12,000 are Lower Svan), living in the mountains of Svaneti, i.e. in the districts of Mestia and Lentekhi of Georgia, along the Enguri, Tskhenistsqali and Kodori rivers. Some Svan speakers live in the Kodori Valley of the de facto independent republic of Abkhazia. Although conditions there make it difficult to reliably establish their numbers, there are only an estimated 2,500 Svan individuals living there.
+The language is used in familiar and casual social communication. It has no written standard or official status. Most speakers also speak Georgian. The language is regarded as being endangered, as proficiency in it among young people is limited.
+History
+Svan is the most differentiated member of the four South-Caucasian languages and is believed to have split off in the 2nd millennium BC or earlier, about one thousand years before Georgian and Mingrelian split from each other.
+Dialects
+The Svan language is divided into the following dialects and subdialects:
+Phonology
+Consonants
+The consonant inventory of Svan is more or less the same as that of Old Georgian. That is, compared to Modern Georgian, it also has /j/, /q/ and /w/, but the labiodental fricative only appears as an allophone of /w/ in the Ln dialect. Furthermore, the uvular consonants /q/ and /q’/ are realized as affricates, i.e. [q͡χ] and [q͡χʼ].
+Vowels
+The vowel inventory of Svan varies between different dialects. For instance, Proto-Svan phonemic long vowels occur in the Upper Bal, Cholur and Lashx dialects, but have been lost in the Lent’ex and Lower Bal dialects. Compared to Georgian, Svan also have a central or back unrounded high vowel /ə/ (realized as [ɯ]~[ɨ], the low front /æ/ (except for Lashx) and the front rounded vowels /œ/ and /y/ (also except for Lashx). The front rounded vowels are often realized as diphthongs [we] and [wi] and are therefore sometimes not treated as separate phonemes.
+Alphabet
+The alphabet, illustrated above, is similar to the Mingrelian alphabet, with a few additional letters otherwise obsolete in the Georgian script:
+These are supplemented by diacritics on the vowels (the umlaut for front vowels and macron for length), though those are not normally written.  The digraphs 
+are used in the Lower Bal and Lentekh dialects, and occasionally in Upper Bal; these sounds do not occur in Lashkh dialect.

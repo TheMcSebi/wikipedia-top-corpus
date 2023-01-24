@@ -1,0 +1,13 @@
+Orographic lift
+Orographic lift occurs when an air mass is forced from a low elevation to a higher elevation as it moves over rising terrain.: 162  As the air mass gains altitude it quickly cools down adiabatically, which can raise the relative humidity to 100% and create clouds and, under the right conditions, precipitation.: 472 
+Orographic lifting can have a number of effects, including precipitation, rain shadowing, leeward winds, and associated clouds.
+Precipitation
+Precipitation induced by orographic lift occurs in many places throughout the world. Examples include:
+Rain shadowing
+The highest precipitation amounts are found slightly upwind from the prevailing winds at the crests of mountain ranges, where they relieve and therefore the upward lifting is greatest. As the air descends the lee side of the mountain, it warms and dries, creating a rain shadow. On the lee side of the mountains, sometimes as little as 15 miles (25 km) away from high precipitation zones, annual precipitation can be as low as 8 inches (200 mm) per year.
+Areas where this effect is observed include:
+Leeward winds
+Downslope winds occur on the leeward side of mountain barriers when a stable air mass is carried over the mountain by strong winds that increase in strength with height. Moisture is removed and latent heat released as the air mass is orographically lifted. As the air mass descends, it is compression heated. The warm foehn wind, locally known as the Chinook wind, Bergwind or Diablo wind or Nor'wester depending on the region, provide examples of this type of wind, and are driven in part by latent heat released by orographic-lifting-induced precipitation.
+A similar class of winds, the Sirocco, the Bora and Santa Ana winds, are examples where orographic lifting has limited effect since there is limited moisture to remove in the Saharan or other air masses; the Sirocco, Bora and Santa Ana are driven primarily by (adiabatic) compression heating.
+Associated clouds
+As air flows over mountain barriers, orographic lift can create a variety of cloud effects.

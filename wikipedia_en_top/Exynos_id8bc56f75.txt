@@ -1,0 +1,35 @@
+Exynos
+Exynos, formerly Hummingbird (Korean: 엑시노스), is a series of ARM-based system-on-chips developed by Samsung Electronics' System LSI division and manufactured by Samsung Foundry. It is a continuation of Samsung's earlier S3C, S5L and S5P line of SoCs.
+Exynos is mostly based on the ARM Cortex cores with the exception of some high end SoCs which featured Samsung's proprietary "M" series core design; though from 2021 onwards even the flagship high-end SoC's will be featuring ARM Cortex cores.
+History
+In 2010, Samsung launched the Hummingbird S5PC110 (now Exynos 3 Single) in its Samsung Galaxy S smartphone, which featured a licensed ARM Cortex-A8 CPU. This ARM Cortex-A8 was code-named Hummingbird. It was developed in partnership with Intrinsity using their FastCore and Fast14 technology.
+In early 2011, Samsung first launched the Exynos 4210 SoC in its Samsung Galaxy S II mobile smartphone. The driver code for the Exynos 4210 was made available in the Linux kernel and support was added in version 3.2 in November 2011.
+On 29 September 2011, Samsung introduced Exynos 4212 as a successor to the 4210; it features a higher clock frequency and "50 percent higher 3D graphics performance over the previous processor generation". Built with a 32 nm high-κ metal gate (HKMG) low-power process; it promises a "30 percent lower power-level over the previous process generation".
+On 30 November 2011, Samsung released information about their upcoming SoC with a dual-core ARM Cortex-A15 CPU, which was initially named "Exynos 5250" and was later renamed to Exynos 5 Dual. This SoC has a memory interface providing 12.8 GB/s of memory bandwidth, support for USB 3.0 and SATA 3, can decode full 1080p video at 60 fps along with simultaneously displaying WQXGA-resolution (2560 × 1600) on a mobile display as well as 1080p over HDMI. This SoC was used in some Chromebooks from 2013. Samsung Exynos 5 Dual has been used in a 2015 prototype supercomputer, while the end-product will use a chip meant for servers from another vendor.
+On 26 April 2012, Samsung released the Exynos 4 Quad, which powers the Samsung Galaxy S III and Samsung Galaxy Note II. The Exynos 4 Quad SoC uses 20% less power than the SoC in Samsung Galaxy S II. Samsung also changed the name of several SoCs, Exynos 3110 to Exynos 3 Single, Exynos 4210 and 4212 to Exynos 4 Dual 45 nm, and Exynos 4 Dual 32 nm and Exynos 5250 to Exynos 5 Dual.
+On 2010 Samsung founded a design center in Austin called Samsung's Austin R&D Center (SARC). Samsung has hired many ex-AMD, ex-Intel, ex-ARM and various other industry veterans. The SARC develop high-performance, low-power, complex CPU and System IP (Coherent Interconnect and memory controller) architectures and designs. In 2012, Samsung began development of GPU IP called "S-GPU". After a three-year design cycle, SARC's first custom CPU core called the M1 was released in the Exynos 8890 in 2016. In 2017 the San Jose Advanced Computing Lab (ACL) was opened to continue custom GPU IP development. Samsung's custom CPU cores were named Mongoose for four generations, named M1 through M4, and Exynos SoCs with such cores were never on par in power efficiency or performance with their Qualcomm Snapdragon equivalents.
+On 3 June 2019, AMD and Samsung announced a multi-year strategic partnership in mobile graphics IP based on AMD Radeon GPU IP. NotebookCheck reported that Samsung are targeting 2021 for their first SoC with AMD Radeon GPU IP. However, AnandTech reported 2022. In August 2019, during AMD's Q2 2019 earnings call, AMD stated that Samsung plans to launch SoCs with AMD graphics IP in roughly two years. The first SoC to use Radeon GPU were Exynos 2200, introduced in January 2022, with a custom Xclipse 920 based on AMD's RDNA 2 microarchitecture.
+On 1 October 2019, rumors emerged that Samsung had laid off their custom CPU core teams at SARC. On 1 November 2019, Samsung filed a WARN letter with the Texas Workforce Commission, notifying of upcoming layoffs of their SARC CPU team and termination of their custom CPU core development. SARC and ACL will still continue development of custom SoC, AI, and GPU.
+In June 2021, Samsung hire engineers from AMD and Apple to form a new custom architecture team.
+In October 2021, Google released their Pixel 6 series of phones based on Google's Tensor SoC, which was made in collaboration with Samsung.
+Current Exynos SoCs (2020-present)
+Starting in 2020 Samsung introduced a new series of Exynos SoCs with lower numbers than in the past. This indicates a cut between the past Exynos SoCs at least in naming.
+Exynos 1000 series
+Exynos 1080
+Exynos 1280
+Exynos 2000 series
+Exynos 2100
+Exynos 2200
+List of Exynos modems
+Exynos Modem 303
+Exynos Modem 333
+Exynos Modem 5100
+Exynos Modem 5123
+List of Exynos IoT SoCs
+Exynos i T200
+Exynos i S111
+List of Exynos Auto SoCs
+Exynos Auto series
+The Exynos Auto V9 comes with additional features such as:-
+See also
+Similar platforms

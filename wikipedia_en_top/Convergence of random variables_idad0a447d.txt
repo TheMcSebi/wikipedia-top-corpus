@@ -1,0 +1,63 @@
+Convergence of random variables
+In probability theory, there exist several different notions of convergence of random variables.  The convergence of sequences of random variables to some limit random variable is an important concept in probability theory, and its applications to statistics and stochastic processes. The same concepts are known in more general mathematics as stochastic convergence and they formalize the idea that a sequence of essentially random or unpredictable events can sometimes be expected to settle down into a behavior that is essentially unchanging when items far enough into the sequence are studied. The different possible notions of convergence relate to how such a behavior can be characterized: two readily understood behaviors are that the sequence eventually takes a constant value, and that values in the sequence continue to change but can be described by an unchanging probability distribution.
+Background
+"Stochastic convergence" formalizes the idea that a sequence of essentially random or unpredictable events can sometimes be expected to settle into a pattern. The pattern may for instance be
+Some less obvious, more theoretical patterns could be
+These other types of patterns that may arise are reflected in the different types of stochastic convergence that have been studied.
+While the above discussion has related to the convergence of a single series to a limiting value, the notion of the convergence of two series towards each other is also important, but this is easily handled by studying the sequence defined as either the difference or the ratio of the two series.
+For example, if the average of n independent random variables Yi, i = 1, ..., n, all having the same finite mean and variance, is given by
+then as n tends to infinity, Xn converges in probability (see below) to the common mean, μ, of the random variables Yi.  This result is known as the weak law of large numbers.  Other forms of convergence are important in other useful theorems, including the central limit theorem.
+Throughout the following, we assume that (Xn) is a sequence of random variables, and X is a random variable, and all of them are defined on the same probability space $MATH$.
+Convergence in distribution
+With this mode of convergence,  we increasingly expect to see the next outcome in a sequence of random experiments becoming better and better modeled by a given probability distribution.
+Convergence in distribution is the weakest form of convergence typically discussed, since it is implied by all other types of convergence mentioned in this article. However, convergence in distribution is very frequently used in practice; most often it arises from application of the central limit theorem.
+Definition
+A sequence $MATH$ of real-valued random variables, with cumulative distribution functions $MATH$, is said to converge in distribution, or converge weakly, or converge in law to a random variable X with cumulative distribution function F if
+for every number $MATH$ at which F is continuous. 
+The requirement that only the continuity points of F should be considered is essential. For example, if Xn are distributed uniformly on intervals (0, 1/n), then this sequence converges in distribution to the degenerate random variable X = 0. Indeed, Fn(x) = 0 for all n when x ≤ 0, and Fn(x) = 1 for all  x ≥ 1/n when n > 0. However, for this limiting random variable F(0) = 1, even though Fn(0) = 0 for all n. Thus the convergence of cdfs fails at the point x = 0 where F is discontinuous.
+Convergence in distribution may be denoted as
+where $MATH$ is the law (probability distribution) of X. For example, if X is standard normal we can write $MATH$.
+For random vectors {X1, X2, ...} ⊂ Rk the convergence in distribution is defined similarly. We say that this sequence converges in distribution to a random k-vector X if
+for every A ⊂ Rk which is a continuity set of X.
+The definition of convergence in distribution may be extended from random vectors to more general random elements in arbitrary metric spaces, and even to the “random variables” which are not measurable — a situation which occurs for example in the study of empirical processes. This is the “weak convergence of laws without laws being defined” — except asymptotically.
+In this case the term weak convergence is preferable (see weak convergence of measures), and we say that a sequence of random elements {Xn}  converges weakly to X (denoted as Xn ⇒ X) if
+for all continuous bounded functions h. Here E* denotes the outer expectation, that is the expectation of a “smallest measurable function g that dominates h(Xn)”.
+Properties
+Convergence in probability
+The basic idea behind this type of convergence is that the probability of an “unusual” outcome becomes smaller and smaller as the sequence progresses.
+The concept of convergence in probability is used very often in statistics. For example, an estimator is called consistent if it converges in probability to the quantity being estimated. Convergence in probability is also the type of convergence established by the weak law of large numbers.
+Definition
+A sequence {Xn} of random variables converges in probability towards the random variable X if for all ε > 0
+More explicitly, let Pn(ε) be the probability that Xn is outside the ball of radius ε centered at X. Then Xn is said to converge in probability to X if for any ε > 0 and any δ > 0 there exists a number N (which may depend on ε and δ) such that for all n ≥ N, Pn(ε) < δ (the definition of limit).
+Notice that for the condition to be satisfied, it is not possible that for each n the random variables X and Xn are independent (and thus convergence in probability is a condition on the joint cdf's, as opposed to convergence in distribution, which is a condition on the individual cdf's), unless X is deterministic like for the weak law of large numbers. At the same time, the case of a deterministic X cannot, whenever the deterministic value is a discontinuity point (not isolated), be handled by convergence in distribution, where discontinuity points have to be explicitly excluded.
+Convergence in probability is denoted by adding the letter p over an arrow indicating convergence, or using the "plim" probability limit operator:
+For random elements {Xn} on a separable metric space (S, d), convergence in probability is defined similarly by
+Properties
+Almost sure convergence
+This is the type of stochastic convergence that is most similar to pointwise convergence known from elementary real analysis.
+Definition
+To say that the sequence Xn converges almost surely or almost everywhere or with probability 1 or strongly towards X means that
+This means that the values of Xn approach the value of X, in the sense (see almost surely) that events for which Xn does not converge to X have probability 0.  Using the probability space $MATH$ and the concept of the random variable as a function from Ω to R, this is equivalent to the statement
+Using the notion of the limit superior of a sequence of sets, almost sure convergence can also be defined as follows:
+Almost sure convergence is often denoted by adding the letters a.s. over an arrow indicating convergence:
+For generic random elements {Xn} on a metric space $MATH$, convergence almost surely is defined similarly:
+Properties
+Sure convergence or pointwise convergence
+To say that the sequence of random variables (Xn) defined over the same probability space (i.e., a random process) converges surely or everywhere or pointwise  towards X means
+where Ω is the sample space of the underlying probability space over which the random variables are defined.
+This is the notion of pointwise convergence of a sequence of functions extended to a sequence of random variables. (Note that random variables themselves are functions).
+Sure convergence of a random variable implies all the other kinds of convergence stated above, but there is no payoff in probability theory by using sure convergence compared to using almost sure convergence. The difference between the two only exists on sets with probability zero. This is why the concept of sure convergence of random variables is very rarely used.
+Convergence in mean
+Given a real number r ≥ 1, we say that the sequence Xn converges in the r-th mean (or in the Lr-norm) towards the random variable X, if the r-th absolute moments E(|Xn|r ) and E(|X|r ) of Xn and X exist, and
+where the operator E denotes the expected value. Convergence in r-th mean tells us that the expectation of the r-th power of the difference between $MATH$ and $MATH$ converges to zero.
+This type of convergence is often denoted by adding the letter Lr over an arrow indicating convergence:
+The most important cases of convergence in r-th mean are:
+Convergence in the r-th mean, for r ≥ 1, implies convergence in probability (by Markov's inequality). Furthermore, if r > s ≥ 1, convergence in r-th mean implies convergence in s-th mean.  Hence, convergence in mean square implies convergence in mean.
+It is also worth noticing that if 
+then
+Properties
+Provided the probability space is complete:
+The chain of implications between the various notions of convergence are noted in their respective sections. They are, using the arrow notation:
+These properties, together with a number of other special cases, are summarized in the following list:
+See also
+Notes

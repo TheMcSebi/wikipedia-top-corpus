@@ -1,0 +1,23 @@
+Darknet
+
+A dark net or darknet is an overlay network within the Internet that can only be accessed with specific software, configurations, or authorization, and often uses a unique customized communication protocol. Two typical darknet types are social networks (usually used for file hosting with a peer-to-peer connection), and anonymity proxy networks such as Tor via an anonymized series of connections.
+The term "darknet" was popularized by major news outlets to associate with Tor Onion services, when the infamous drug bazaar Silk Road used it, despite the terminology being unofficial. Technology such as Tor, I2P, and Freenet was intended to defend digital rights by providing security, anonymity, or censorship resistance and is used for both illegal and legitimate reasons. Anonymous communication between whistle-blowers, activists, journalists and news organisations is also facilitated by darknets through use of applications such as SecureDrop.
+Terminology
+The term originally described computers on ARPANET that were hidden, programmed to receive messages but not respond to or acknowledge anything, thus remaining invisible, in the dark.
+Since ARPANET, the usage of dark net has expanded to include friend-to-friend networks (usually used for file sharing with a peer-to-peer connection) and privacy networks such as Tor. The reciprocal term for a darknet is a clearnet or the surface web when referring to content indexable by search engines.
+The term "darknet" is often used interchangeably with "dark web" because of the quantity of hidden services on Tor's darknet. Additionally, the term is often inaccurately used interchangeably with the deep web because of Tor's history as a platform that could not be search-indexed. Mixing uses of both these terms has been described as inaccurate, with some commentators recommending the terms be used in distinct fashions.
+Origins
+"Darknet" was coined in the 1970s to designate networks isolated from ARPANET (the government-founded military/academical network which evolved into the Internet), for security purposes. Darknet addresses could receive data from ARPANET but did not appear in the network lists and would not answer pings or other inquiries.
+The term gained public acceptance following publication of "The Darknet and the Future of Content Distribution", a 2002 paper by Peter Biddle, Paul England, Marcus Peinado, and Bryan Willman, four employees of Microsoft who argued the presence of the darknet was the primary hindrance to the development of workable digital rights management (DRM) technologies and made copyright infringement inevitable. This paper described "darknet" more generally as any type of parallel network that is encrypted or requires a specific protocol to allow a user to connect to it.
+Sub-cultures
+Journalist J. D. Lasica, in his 2005 book Darknet: Hollywood's War Against the Digital Generation, described the darknet's reach encompassing file sharing networks. Subsequently, in 2014, journalist Jamie Bartlett in his book The Dark Net used the term to describe a range of underground and emergent subcultures, including camgirls, cryptoanarchists, darknet drug markets, self harm communities, social media racists, and transhumanists.
+Uses
+Darknets in general may be used for various reasons, such as:
+Software
+All darknets require specific software installed or network configurations made to access them, such as Tor, which can be accessed via a customized browser from Vidalia (aka the Tor browser bundle), or alternatively via a proxy configured to perform the same function.
+Active
+
+Tor is the most popular instance of a darknet, often mistakenly equated with darknet in general. 
+Alphabetical list:
+No longer supported
+Defunct

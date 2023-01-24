@@ -1,0 +1,34 @@
+Genus (mathematics)
+In mathematics, genus (plural genera) has a few different, but closely related, meanings. Intuitively, the genus is the number of "holes" of a surface. A sphere has genus 0, while a torus has genus 1.
+Topology
+Orientable surfaces
+The genus of a connected, orientable surface is an integer representing the maximum number of cuttings along non-intersecting closed simple curves without rendering the resultant manifold disconnected. It is equal to the number of handles on it. Alternatively, it can be defined in terms of the Euler characteristic χ, via the relationship χ = 2 − 2g for closed surfaces, where g is the genus. For surfaces with b boundary components, the equation reads χ = 2 − 2g − b. In layman's terms, it's the number of "holes" an object has ("holes" interpreted in the sense of doughnut holes; a hollow sphere would be considered as having zero holes in this sense). A torus has 1 such hole, while a sphere has 0. The green surface pictured above has 2 holes of the relevant sort.
+For instance:
+Explicit construction of surfaces of the genus g is given in the article on the fundamental polygon.
+In simpler terms, the value of an orientable surface's genus is equal to the number of "holes" it has.
+Non-orientable surfaces
+The non-orientable genus, demigenus, or Euler genus of a connected, non-orientable closed surface is a positive integer representing the number of cross-caps attached to a sphere. Alternatively, it can be defined for a closed surface in terms of the Euler characteristic χ, via the relationship χ = 2 − k, where k is the non-orientable genus.
+For instance:
+Knot
+The genus of a knot K is defined as the minimal genus of all Seifert surfaces for K. A Seifert surface of a knot is however a manifold with boundary, the boundary being the knot, i.e.
+homeomorphic to the unit circle. The genus of such a surface is defined to be the genus of the two-manifold, which is obtained by gluing the unit disk along the boundary.
+Handlebody
+The genus of a 3-dimensional handlebody is an integer representing the maximum number of cuttings along embedded disks without rendering the resultant manifold disconnected. It is equal to the number of handles on it.
+For instance:
+Graph theory
+The genus of a graph is the minimal integer n such that the graph can be drawn without crossing itself on a sphere with n handles (i.e. an oriented surface of the genus n). Thus, a planar graph has genus 0, because it can be drawn on a sphere without self-crossing.
+The non-orientable genus of a graph is the minimal integer n such that the graph can be drawn without crossing itself on a sphere with n cross-caps (i.e. a non-orientable surface of (non-orientable) genus n).  (This number is also called the demigenus.)
+The Euler genus is the minimal integer n such that the graph can be drawn without crossing itself on a sphere with n cross-caps or on a sphere with n/2 handles.
+In topological graph theory there are several definitions of the genus of a group. Arthur T. White introduced the following concept. The genus of a group G is the minimum genus of a (connected, undirected) Cayley graph for G.
+The graph genus problem is NP-complete.
+Algebraic geometry
+There are two related definitions of genus of any projective algebraic scheme X: the arithmetic genus and the geometric genus.  When X is an algebraic curve with field of definition the complex numbers, and if X has no singular points, then these definitions agree and coincide with the topological definition applied to the Riemann surface of X (its manifold of complex points). For example, the definition of elliptic curve from algebraic geometry is connected non-singular projective curve of genus 1 with a given rational point on it.
+By the Riemann–Roch theorem, an irreducible plane curve of degree $MATH$ given by the vanishing locus of a section $MATH$ has geometric genus
+where s is the number of singularities when properly counted.
+Differential geometry
+In differential geometry, a genus of an oriented manifold $MATH$ may be defined as a complex number $MATH$ subject to the conditions
+In other words, $MATH$ is a ring homomorphism $MATH$, where $MATH$ is Thom's oriented cobordism ring.
+The genus $MATH$ is multiplicative for all bundles on spinor manifolds with a connected compact structure if $MATH$ is an elliptic integral such as $MATH$ for some $MATH$ This genus is called an elliptic genus. 
+The Euler characteristic $MATH$ is not a genus in this sense since it is not invariant concerning cobordisms.
+Biology
+Genus can be also calculated for the graph spanned by the net of chemical interactions in nucleic acids or proteins. In particular, one may study the growth of the genus along the chain. Such a function (called the genus trace) shows the topological complexity and domain structure of biomolecules.

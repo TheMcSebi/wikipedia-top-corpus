@@ -1,0 +1,16 @@
+Google Duo
+Google Duo is a proprietary voice over IP (VoIP) and videotelephony service developed by Google, available for Android, iOS and web browsers. It lets users make and receive one-to-one and group audio and video calls with other Duo users in high definition, using end-to-end encryption by default. Duo can be used either with a phone number or a Google account, allowing users to call someone from their contact list.
+Google Duo was announced at Google's developer conference on May 18, 2016, and began its worldwide release on August 16, 2016.
+As of December 2022, the service is being discontinued and slated for closure by the end of 2022, with features gradually merged into Google Meet. The Google Duo mobile app has been renamed Meet and the original Meet app is scheduled to be phased out.
+History
+In December 2016, Google Duo replaced Hangouts within the suite of Google apps device manufacturers must install in order to gain access to the Google Play Store, with Hangouts instead becoming optional.
+In August 2020, it was reported that Google was planning to eventually merge Google Duo with the business-oriented Google Meet. In December 2021 this objective had been dropped, but Duo continued to be available and updated. In June 2022, Google reversed course and announced that Duo and Meet would, in fact, be merged. The merger began in August, with the Duo mobile app being renamed to Meet, while the original Meet is called Meet Original and will be phased out. The Google Duo web app will also be redirected to the Google Meet web app.
+Technologies
+Google Duo is optimized for low-bandwidth mobile networks through WebRTC and uses QUIC over UDP. Optimization is further achieved through the degradation of video quality through monitoring network quality. For packet loss concealment Duo uses WaveNetEQ.
+In February 2021, Google announced a new very low-bitrate codec for speech compression called "Lyra" that can operate with network speeds as low as 3kbps that avoids robotic voice audio and that was to be rolled out to Duo.
+According to a technical study commissioned by Google from Signals Research Group in 2017 that compared degradation time over 3G, LTE, and Wi-Fi, Duo provided the highest voice and video quality of any service or app.
+Features
+"Knock Knock" shows a live preview of the caller before the recipient picks up, which Google says is to "make calls feel more like an invitation rather than an interruption".
+In March 2017, it was announced that Google Duo would let users make audio-only calls. The feature was first launched in Brazil, with a global rollout in April.
+A year later in March 2018, video and voice messages were added to Duo. Users can leave messages up to 30 seconds long for contacts who are unavailable.
+Support for eight-person video calls in both the iOS and Android versions of the app was added in May 2019. In line with similar group calling offerings from FaceTime, WhatsApp, Skype and Facebook Messenger, participants can join or leave the conversation at any time. Google Duo increased maximum group size to twelve at the end of March 2020, and to 32 by May 2022.

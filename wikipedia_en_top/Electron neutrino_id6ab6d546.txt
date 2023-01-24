@@ -1,0 +1,19 @@
+Electron neutrino
+The electron neutrino (νe) is an elementary particle which has zero electric charge and a spin of 1⁄2. Together with the electron, it forms the first generation of leptons, hence the name electron neutrino. It was first hypothesized by Wolfgang Pauli in 1930, to account for missing momentum and missing energy in beta decay, and was discovered in 1956 by a team led by Clyde Cowan and Frederick Reines (see Cowan–Reines neutrino experiment).
+Proposal
+In the early 1900s, theories predicted that the electrons resulting from beta decay should have been emitted at a specific energy. However, in 1914, James Chadwick showed that electrons were instead emitted in a continuous spectrum.
+In 1930, Wolfgang Pauli theorized that an undetected particle was carrying away the observed difference between the energy, momentum, and angular momentum of the initial and final particles.
+Pauli's letter
+On 4 December 1930, Pauli wrote a letter to the Physical Institute of the Federal Institute of Technology, Zürich, in which he proposed the electron "neutron" [neutrino] as a potential solution to solve the problem of the continuous beta decay spectrum. A translated excerpt of his letter reads:
+A translated reprint of the full letter can be found in the September 1978 issue of Physics Today.
+Discovery
+The electron neutrino was discovered by Clyde Cowan and Frederick Reines in 1956.Electron neutrino can have three types of mass. Mass 1 : Electron neutrino having 66.7% mass of neutrino and others having 16.7% mass, mass 2 : each particle having 33.3% , mass 3 : Muon and tau neutrino having 49% mass and electron neutrino having 2% mass.
+Name
+Pauli originally named his proposed light particle a neutron. When James Chadwick discovered a much more massive nuclear particle in 1932 and also named it a neutron, this left the two particles with the same name. Enrico Fermi, who developed the theory of beta decay, introduced the term neutrino in 1934 (it was jokingly coined by Edoardo Amaldi during a conversation with Fermi at the Institute of physics of via Panisperna in Rome, in order to distinguish this light neutral particle from Chadwick's neutron) to resolve the confusion. It was a pun on neutrone, the Italian equivalent of neutron: the -one ending can be an augmentative in Italian, so neutrone could be read as the "large neutral thing"; -ino replaces the augmentative suffix with a diminutive one.
+Upon the prediction and discovery of a second neutrino, it became important to distinguish between different types of neutrinos. Pauli's neutrino is now identified as the electron neutrino, while the second neutrino is identified as the muon neutrino.
+Electron antineutrino
+The electron neutrino has a corresponding antiparticle, the electron antineutrino (νe),  which differs only in that some of its properties have equal magnitude but opposite sign. One major open question in particle physics is whether or not neutrinos and anti-neutrinos are the same particle, in which case it would be a Majorana fermion, or whether they are different particles, in which case they would be Dirac fermions. They are produced in beta decay and other types of weak interactions.
+Notes
+See also
+References
+Further reading

@@ -1,0 +1,18 @@
+Holocene calendar
+The Holocene calendar, also known as the Holocene Era or Human Era (HE), is a year numbering system that adds exactly 10,000 years to the currently dominant (AD/BC or CE/BCE) numbering scheme, placing its first year near the beginning of the Holocene geological epoch and the Neolithic Revolution, when humans shifted from a hunter-gatherer lifestyle to agriculture and fixed settlements. The current year by the Gregorian calendar, AD 2023, is 12023 HE in the Holocene calendar. The HE scheme was first proposed by Cesare Emiliani in 1993 (11993 HE), though similar proposals to start a new calendar at the same date have been put forward decades earlier.
+Overview
+Cesare Emiliani's proposal for a calendar reform sought to solve a number of alleged problems with the current Anno Domini era, which number the years of the commonly accepted world calendar. These issues include:
+Instead, HE uses the "beginning of human era" as its epoch, arbitrarily defined as 10,000 BC and denoted year 1 HE, so that AD 1 matches 10,001 HE.
+This is a rough approximation of the start of the current geologic epoch, the Holocene (the name means entirely recent). The motivation for this is that human civilization (e.g. the first settlements, agriculture, etc.) is believed to have arisen within this time. Emiliani later proposed that the start of the Holocene should be fixed at the same date as the beginning of his proposed era.
+Benefits
+Human Era proponents claim that it makes for easier geological, archaeological, dendrochronological, anthropological and historical dating, as well as that it bases its epoch on an event more universally relevant than the birth of Jesus. All key dates in human history can then be listed using a simple increasing date scale with smaller dates always occurring before larger dates. Another gain is that the Holocene Era starts before the other calendar eras, so it could be useful for the comparison and conversion of dates from different calendars.
+Accuracy
+When Emiliani discussed the calendar in a follow-up article in 1994, he mentioned that there was no agreement on the date of the start of the Holocene epoch, with estimates at the time ranging between 12,700 and 10,970 years BP. Since then, scientists have improved their understanding of the Holocene on the evidence of ice cores and can now more accurately date its beginning. A consensus view was formally adopted by the IUGS in 2013, placing its start at 11,700 years before 2000 (9701 BC), about 300 years more recent than the epoch of the Holocene calendar.
+Equivalent proposals
+In 1924 Gabriel Deville proposed the use of Calendrier nouveau de chronologie ancienne (CNCA), which would start 10,000 years before AD 1, which is identical to Emiliani's much later proposal.
+In 1963 E.R. Hope proposed the use of Anterior Epoch (AE), which also begins at the same point.
+Conversion
+Conversion from Julian or Gregorian calendar years to the Human Era can be achieved by adding 10,000 to the AD/CE year. The present year, 2023, can be transformed into a Holocene year by adding the digit "1" before it, making it 12,023 HE. Years BC/BCE are converted by subtracting the BC/BCE year number from 10,001.
+See also
+References
+Further reading

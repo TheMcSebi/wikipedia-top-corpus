@@ -1,0 +1,64 @@
+Jacobian matrix and determinant
+In vector calculus, the Jacobian matrix (/dʒəˈkoʊbiən/, /dʒɪ-, jɪ-/) of a vector-valued function of several variables is the matrix of all its first-order partial derivatives. When this matrix is square, that is, when the function takes the same number of variables as input as the number of vector components of its output, its determinant is referred to as the Jacobian determinant. Both the matrix and (if applicable) the determinant are often referred to simply as the Jacobian in literature.
+Suppose f : Rn → Rm is a function such that each of its first-order partial derivatives exist on Rn. This function takes a point x ∈ Rn as input and produces the vector f(x) ∈ Rm as output. Then the Jacobian matrix of f is defined to be an m×n matrix, denoted by J, whose (i,j)th entry is $MATH$, or explicitly 
+where $MATH$ is the transpose (row vector) of the gradient of the $MATH$ component.
+The Jacobian matrix, whose entries are functions of x, is denoted in various ways; common notations include Df, Jf, $MATH$, and $MATH$. Some authors define the Jacobian as the transpose of the form given above.
+The Jacobian matrix represents the differential of f at every point where f is differentiable. In detail, if h is a displacement vector represented by a column matrix, the matrix product J(x) ⋅ h is another displacement vector, that is the best linear approximation of the change of f in a neighborhood of x, if f(x) is differentiable at x. This means that the function that maps y to f(x) + J(x) ⋅ (y – x) is the best linear approximation of f(y) for all points y close to x. This linear function is known as the derivative or the differential of f at x.
+When m = n, the Jacobian matrix is square, so its determinant is a well-defined function of x, known as the Jacobian determinant of f. It carries important information about the local behavior of f. In particular, the function f has a differentiable inverse function in a neighborhood of a point x if and only if the Jacobian determinant is nonzero at x (see Jacobian conjecture for a related problem of global invertibility). The Jacobian determinant also appears when changing the variables in multiple integrals (see substitution rule for multiple variables).
+When m = 1, that is when f : Rn → R is a scalar-valued function, the Jacobian matrix reduces to the row vector $MATH$; this row vector of all first-order partial derivatives of f is the transpose of the gradient of f, i.e.
+$MATH$.  Specializing further, when m = n = 1, that is when f : R → R is a scalar-valued function of a single variable, the Jacobian matrix has a single entry; this entry is the derivative of the function f.
+These concepts are named after the mathematician Carl Gustav Jacob Jacobi (1804–1851).
+Jacobian matrix
+The Jacobian of a vector-valued function in several variables generalizes the gradient of a scalar-valued function in several variables, which in turn generalizes the derivative of a scalar-valued function of a single variable. In other words, the Jacobian matrix of a scalar-valued function in several variables is (the transpose of) its gradient and the gradient of a scalar-valued function of a single variable is its derivative. 
+At each point where a function is differentiable, its Jacobian matrix can also be thought of as describing the amount of "stretching", "rotating" or "transforming" that the function imposes locally near that point. For example, if (x′, y′) = f(x, y) is used to smoothly transform an image, the Jacobian matrix Jf(x, y), describes how the image in the neighborhood of (x, y) is transformed.
+If a function is differentiable at a point, its differential is given in coordinates by the Jacobian matrix. However a function does not need to be differentiable for its Jacobian matrix to be defined, since only its first-order partial derivatives are required to exist.
+If f is differentiable at a point p in Rn, then its differential is represented by Jf(p). In this case, the linear transformation represented by Jf(p) is the best linear approximation of f near the point p, in the sense that
+where o(‖x − p‖) is a quantity that approaches zero much faster than the distance between x and p does as x approaches p. This approximation specializes to the approximation of a scalar function of a single variable by its Taylor polynomial of degree one, namely
+In this sense, the Jacobian may be regarded as a kind of "first-order derivative" of a vector-valued function of several variables. In particular, this means that the gradient of a scalar-valued function of several variables may too be regarded as its "first-order derivative".
+Composable differentiable functions f : Rn → Rm and g : Rm → Rk satisfy the chain rule, namely $MATH$ for x  in Rn.
+The Jacobian of the gradient of a scalar function of several variables has a special name: the Hessian matrix, which in a sense is the "second derivative" of the function in question.
+Jacobian determinant
+If m = n, then f is a function from Rn to itself and the Jacobian matrix is a square matrix. We can then form its determinant, known as the Jacobian determinant. The Jacobian determinant is sometimes simply referred to as "the Jacobian".
+The Jacobian determinant at a given point gives important information about the behavior of f near that point. For instance, the continuously differentiable function f is invertible near a point p ∈ Rn if the Jacobian determinant at p is non-zero. This is the inverse function theorem. Furthermore, if the Jacobian determinant at p is positive, then f preserves orientation near p; if it is negative, f reverses orientation. The absolute value of the Jacobian determinant at p gives us the factor by which the function f expands or shrinks volumes near p; this is why it occurs in the general substitution rule.
+The Jacobian determinant is used when making a change of variables when evaluating a multiple integral of a function over a region within its domain. To accommodate for the change of coordinates the magnitude of the Jacobian determinant arises as a multiplicative factor within the integral. This is because the n-dimensional dV element is in general a parallelepiped in the new coordinate system, and the n-volume of a parallelepiped is the determinant of its edge vectors.
+The Jacobian can also be used to determine the stability of equilibria for systems of differential equations by approximating behavior near an equilibrium point. Its applications include determining the stability of the disease-free equilibrium in disease modelling.
+Inverse
+According to the inverse function theorem, the matrix inverse of the Jacobian matrix of an invertible function is the Jacobian matrix of the inverse function.  That is, if the Jacobian of the function f : Rn → Rn is continuous and nonsingular at the point p in Rn, then f is invertible when restricted to some neighborhood of p and
+In other words, if the Jacobian determinant is not zero at a point, then the function is locally invertible near this point, that is, there is a neighbourhood of this point in which the function is invertible.
+The (unproved) Jacobian conjecture is related to global invertibility in the case of a polynomial function, that is a function defined by n polynomials in n variables. It asserts that, if the Jacobian determinant is a non-zero constant (or, equivalently, that it does not have any complex zero), then the function is invertible and its inverse is a polynomial function.
+Critical points
+If f : Rn → Rm is a differentiable function, a critical point of f is a point where the rank of the Jacobian matrix is not maximal. This means that the rank at the critical point is lower than the rank at some neighbour point. In other words, let k be the maximal dimension of the open balls contained in the image of f; then a point is critical if all minors of rank k of f are zero.
+In the case where m = n = k, a point is critical if the Jacobian determinant is zero.
+Examples
+Example 1
+Consider the function f : R2 → R2, with  (x, y) ↦ (f1(x, y), f2(x, y)), given by
+Then we have
+and
+and the Jacobian matrix of f is
+and the Jacobian determinant is
+Example 2: polar-Cartesian transformation
+The transformation from polar coordinates (r, φ) to Cartesian coordinates (x, y), is given by the function F: R+ × [0, 2π) → R2 with components:
+The Jacobian determinant is equal to r.  This can be used to transform integrals between the two coordinate systems:
+Example 3: spherical-Cartesian transformation
+The transformation from spherical coordinates (ρ, φ, θ) to Cartesian coordinates (x, y, z), is given by the function F: R+ × [0, π) × [0, 2π) → R3 with components:
+The Jacobian matrix for this coordinate change is
+The determinant is ρ2 sin φ. Since dV = dx dy dz is the volume for a rectangular differential volume element (because the volume of a rectangular prism is the product of its sides), we can interpret dV = ρ2 sin φ dρ dφ dθ as the volume of the spherical differential volume element. Unlike rectangular differential volume element's volume, this differential volume element's volume is not a constant, and varies with coordinates (ρ and φ). It can be used to transform integrals between the two coordinate systems:
+Example 4
+The Jacobian matrix of the function F : R3 → R4 with components
+is
+This example shows that the Jacobian matrix need not be a square matrix.
+Example 5
+The Jacobian determinant of the function F : R3 → R3 with components
+is
+From this we see that F reverses orientation near those points where x1 and x2 have the same sign; the function is locally invertible everywhere except near points where x1 = 0 or x2 = 0. Intuitively, if one starts with a tiny object around the point (1, 2, 3) and apply F to that object, one will get a resulting object with approximately 40 × 1 × 2 = 80 times the volume of the original one, with orientation reversed.
+Other uses
+Regression and least squares fitting
+The Jacobian serves as a linearized design matrix in statistical regression and curve fitting; see non-linear least squares.
+Dynamical systems
+Consider a dynamical system of the form $MATH$, where $MATH$ is the (component-wise) derivative of $MATH$ with respect to the evolution parameter $MATH$ (time), and $MATH$ is differentiable.  If $MATH$, then $MATH$ is a stationary point (also called a steady state). By the Hartman–Grobman theorem, the behavior of the system near a stationary point is related to the eigenvalues of $MATH$, the Jacobian of $MATH$ at the stationary point. Specifically, if the eigenvalues all have real parts that are negative, then the system is stable near the stationary point, if any eigenvalue has a real part that is positive, then the point is unstable. If the largest real part of the eigenvalues is zero, the Jacobian matrix does not allow for an evaluation of the stability.
+Newton's method
+A square system of coupled nonlinear equations can be solved iteratively by Newton's method.  This method uses the Jacobian matrix of the system of equations.
+See also
+Notes
+References
+Further reading

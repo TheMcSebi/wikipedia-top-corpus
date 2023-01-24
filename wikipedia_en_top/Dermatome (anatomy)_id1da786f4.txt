@@ -1,0 +1,19 @@
+Dermatome (anatomy)
+A dermatome is an area of skin that is mainly supplied by afferent nerve fibres from the dorsal root of any given spinal nerve.
+There are 8 cervical nerves (C1 being an exception with no dermatome),
+12 thoracic nerves,
+5 lumbar nerves and 5 sacral nerves.
+Each of these nerves relays sensation (including pain) from a particular region of skin to the brain.
+The term is also used to refer to a part of an embryonic somite.
+Along the thorax and abdomen the dermatomes are like a stack of discs forming a human, each supplied by a different spinal nerve. Along the arms and the legs, the pattern is different: the dermatomes run longitudinally along the limbs. Although the general pattern is similar in all people, the precise areas of innervation are as unique to an individual as fingerprints.
+An area of skin innervated by a single nerve is called a peripheral nerve field.
+The word dermatome is formed from Ancient Greek δέρμα 'skin, hide' and τέμνω 'cut'.
+Clinical significance
+A dermatome is an area of skin supplied by sensory neurons that arise from a spinal nerve ganglion. Symptoms that follow a dermatome (e.g. like pain or a rash) may indicate a pathology that involves the related nerve root.  Examples include somatic dysfunction of the spine or viral infection. Certain skin problems tend to orient the lesions in the dermatomal direction.
+In referred pain, sensory nerve fibers such as that from dermatomes may come together at the same spinal cord level as the general visceral afferent fibers such as that from the heart.
+When the general visceral sensory fiber is simulated, the central nervous system does not clearly discern whether the pain is coming from the body wall or from the viscera, so it perceives the pain as coming from somewhere on the body wall, e.g. left arm/hand pain, jaw pain.
+So the pain is "referred to" the related dermatomes of the same spinal segment.
+Viruses that lie dormant in nerve ganglia (e.g. varicella zoster virus, which causes both chickenpox and herpes zoster commonly shingles), often cause either pain, rash or both in a pattern defined by a dermatome (a zosteriform pattern).  However, the symptoms may not appear across the entire dermatome.
+Important dermatomes and anatomical landmarks
+Following is a list of spinal nerves and points that are characteristically belonging to the dermatome of each nerve:
+Following is a list cranial nerves responsible for sensation from the face:

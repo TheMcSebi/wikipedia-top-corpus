@@ -1,0 +1,37 @@
+Friedel–Crafts reaction
+
+
+The Friedel–Crafts reactions are a set of reactions developed by Charles Friedel and James Crafts in 1877 to attach substituents to an aromatic ring. Friedel–Crafts reactions are of two main types: alkylation reactions and acylation reactions. Both proceed by electrophilic aromatic substitution.
+Alkylation
+With alkyl halides
+Friedel–Crafts alkylation involves the alkylation of an aromatic ring.  Traditionally, the alkylating agents are alkyl halides. Many alkylating agents can be used instead of alkyl halides.  For example, enones and epoxides can be used in presence of protons. Traditionally also, the reaction employs a strong Lewis acid, such as aluminium chloride as catalyst.
+This reaction suffers from the disadvantage that the product is more nucleophilic than the reactant because alkyl groups are activators for the Friedel–Crafts reaction. Consequently, overalkylation can occur. Steric hindrance can be exploited to limit the number of alkylations, as in the t-butylation of 1,4-dimethoxybenzene.
+Furthermore, the reaction is only useful for primary alkyl halides in an intramolecular sense when a 5- or 6-membered ring is formed.  For the intermolecular case, the reaction is limited to tertiary alkylating agents, some secondary alkylating agents (ones for which carbocation rearrangement is degenerate), or alkylating agents that yield stabilized carbocations (e.g., benzylic or allylic ones).  In the case of primary alkyl halides, the carbocation-like complex (R(+)---X---Al(-)Cl3) will undergo a carbocation rearrangement reaction to give almost exclusively the rearranged product derived from a secondary or tertiary carbocation.
+Mechanism
+The general mechanism for primary alkyl halides is shown below.
+For primary (and possibly secondary) alkyl halides, a carbocation-like complex with the Lewis acid, [R(+)---(X---MXn)(–)] is more likely to be involved, rather than a free carbocation.
+With Alkenes
+In commercial applications, the alkylating agents are generally alkenes. Protonation of alkenes generates carbocations, the electrophiles.  A laboratory-scale example by the synthesis of neophyl chloride from benzene and methallyl chloride using sulfuric acid catalyst.
+Such alkylations are of major industrial importance, e.g. for the production of ethylbenzene, the precursor to polystyrene, from benzene and ethylene and for the production of cumene from benzene and propene in cumene process:
+Industrial production typically uses solid acids derived from a zeolite as the catalyst.
+Friedel–Crafts dealkylation
+Friedel–Crafts alkylations can be reversible as illustrated by many transalkylation reactions.
+Acylation
+Friedel–Crafts acylation involves the acylation of aromatic rings. Typical acylating agents are acyl chlorides.  Acid anhydrides as well as carboxylic acids are also viable. A typical Lewis acid catalyst is aluminium trichloride.  Because, however, the product ketone forms a rather stable complex with Lewis acids such as AlCl3, a stoichiometric amount or more of the "catalyst" must generally be employed, unlike the case of the Friedel–Crafts alkylation, in which the catalyst is constantly regenerated. Reaction conditions are similar to the Friedel–Crafts alkylation. This reaction has several advantages over the alkylation reaction. Due to the electron-withdrawing effect of the carbonyl group, the ketone product is always less reactive than the original molecule, so multiple acylations do not occur. Also, there are no carbocation rearrangements, as the acylium ion is stabilized by a resonance structure in which the positive charge is on the oxygen.
+The viability of the Friedel–Crafts acylation depends on the stability of the acyl chloride reagent. Formyl chloride, for example, is too unstable to be isolated. Thus, synthesis of benzaldehyde through the Friedel–Crafts pathway requires that formyl chloride be synthesized in situ. This is accomplished by the Gattermann-Koch reaction, accomplished by treating benzene with carbon monoxide and hydrogen chloride under high pressure, catalyzed by a mixture of aluminium chloride and cuprous chloride. Simple ketones that could be obtained by Friedel–Crafts acylation are produced by alternative methods, e.g., oxidation, in industry.
+Reaction mechanism
+The reaction proceeds through generation of an acylium center.  The reaction is completed by deprotonation of the arenium ion by AlCl4−, regenerating the AlCl3 catalyst.  However, in contrast to the truly catalytic alkylation reaction, the formed ketone is a moderate Lewis base, which forms a complex with the strong Lewis acid aluminum trichloride.  The formation of this complex is typically irreversible under reaction conditions.  Thus, a stochiometric quantity of AlCl3 is needed.  The complex is destroyed upon aqueous workup to give the desired ketone.  For example, the classical synthesis of deoxybenzoin calls for 1.1 equivalents of AlCl3 with respect to the limiting reagent, phenylacetyl chloride. In certain cases, generally when the benzene ring is activated, Friedel–Crafts acylation can also be carried out with catalytic amounts of a milder Lewis acid (e.g. Zn(II) salts) or a Brønsted acid catalyst using the anhydride or even the carboxylic acid itself as the acylation agent.
+If desired, the resulting ketone can be subsequently reduced to the corresponding alkane substituent by either Wolff–Kishner reduction or Clemmensen reduction. The net result is the same as the Friedel–Crafts alkylation except that rearrangement is not possible.
+Hydroxyalkylation
+Arenes react with certain aldehydes and ketones to form the hydroxyalkylated products, for example in the reaction of the mesityl derivative of glyoxal with benzene:
+As usual, the aldehyde group is more reactive electrophile than the phenone.
+Scope and variations
+This reaction is related to several classic named reactions:
+Dyes
+Friedel–Crafts reactions have been used in the synthesis of several triarylmethane and xanthene dyes. Examples are the synthesis of thymolphthalein (a pH indicator) from two equivalents of thymol and phthalic anhydride:
+A reaction of phthalic anhydride with resorcinol in the presence of zinc chloride gives the fluorophore fluorescein. Replacing resorcinol by N,N-diethylaminophenol in this reaction gives rhodamine B:
+Haworth reactions
+The Haworth reaction is a classic method for the synthesis of 1-tetralone. In this reaction, benzene is reacted with succinic anhydride, the intermediate product is reduced and a second FC acylation takes place with addition of acid.
+In a related reaction, phenanthrene is synthesized from naphthalene and succinic anhydride in a series of steps which begin with FC acylation.
+Friedel–Crafts test for aromatic hydrocarbons
+Reaction of chloroform with aromatic compounds using an aluminium chloride catalyst gives triarylmethanes, which are often brightly colored, as is the case in triarylmethane dyes. This is a bench test for aromatic compounds.

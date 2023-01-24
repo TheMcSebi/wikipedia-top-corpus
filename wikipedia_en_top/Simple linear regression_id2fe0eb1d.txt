@@ -1,0 +1,65 @@
+Simple linear regression
+In statistics, simple linear regression is a linear regression model with a single explanatory variable. That is, it concerns two-dimensional sample points with one independent variable and one dependent variable (conventionally, the x and y coordinates in a Cartesian coordinate system) and finds a linear function (a non-vertical straight line) that, as accurately as possible, predicts the dependent variable values as a function of the independent variable.
+The adjective simple refers to the fact that the outcome variable is related to a single predictor.
+It is common to make the additional stipulation that the ordinary least squares (OLS) method should be used: the accuracy of each predicted value is measured by its squared residual (vertical distance between the point of the data set and the fitted line), and the goal is to make the sum of these squared deviations as small as possible. Other regression methods that can be used in place of ordinary least squares include least absolute deviations (minimizing the sum of absolute values of residuals) and the Theil–Sen estimator (which chooses a line whose slope is the median of the slopes determined by pairs of sample points).  Deming regression (total least squares) also finds a line that fits a set of two-dimensional sample points, but (unlike ordinary least squares, least absolute deviations, and median slope regression) it is not really an instance of simple linear regression, because it does not separate the coordinates into one dependent and one independent variable and could potentially return a vertical line as its fit.
+The remainder of the article assumes an ordinary least squares regression.
+In this case, the slope of the fitted line is equal to the correlation between y and x corrected by the ratio of standard deviations of these variables. The intercept of the fitted line is such that the line passes through the center of mass (x, y) of the data points.
+Fitting the regression line
+Consider the model function
+which describes a line with slope β and y-intercept α. In general such a relationship may not hold exactly for the largely unobserved population of values of the independent and dependent variables; we call the unobserved deviations from the above equation the errors.   Suppose we observe n data pairs and call them {(xi, yi), i = 1, ..., n}. We can describe the underlying relationship between yi and xi involving this error term εi by
+This relationship between the true (but unobserved) underlying parameters α and β and the data points is called a linear regression model.
+The goal is to find estimated values $MATH$ and $MATH$ for the parameters α and β which would provide the "best" fit in some sense for the data points. As mentioned in the introduction, in this article the "best" fit will be understood as in the least-squares approach: a line that minimizes the sum of squared residuals (see also Errors and residuals) $MATH$ (differences between actual and predicted values of the dependent variable y), each of which is given by, for any candidate parameter values $MATH$ and $MATH$,
+In other words, $MATH$ and $MATH$ solve the following minimization problem:
+By expanding to get a quadratic expression in $MATH$ and $MATH$ we can derive values of $MATH$ and $MATH$ that minimize the objective function Q (these minimizing values are denoted $MATH$ and $MATH$):
+Here we have introduced
+Substituting the above expressions for $MATH$ and $MATH$ into
+yields
+This shows that rxy is the slope of the regression line of the standardized data points (and that this line passes through the origin). Since $MATH$ then we get that if x is some measurement and y is a followup measurement from the same item, then we expect that y (on average) will be closer to the mean measurement than it was to the original value of x. This phenomenon is known as regressions toward the mean.
+Generalizing the $MATH$ notation, we can write a horizontal bar over an expression to indicate the average value of that expression over the set of samples. For example:
+This notation allows us a concise formula for rxy:
+The coefficient of determination ("R squared") is equal to $MATH$ when the model is linear with a single independent variable. See sample correlation coefficient for additional details.
+Intuition about the slope
+By multiplying all members of the summation in the numerator by : $MATH$ (thereby not changing it):
+We can see that the slope (tangent of angle) of the regression line is the weighted average of $MATH$ that is the slope (tangent of angle) of the line that connects the i-th point to the average of all points, weighted by $MATH$ because the further the point is the more "important" it is, since small errors in its position will affect the slope connecting it to the center point more.
+Intuition about the intercept
+Given $MATH$ with $MATH$ the angle the line makes with the positive x axis, 
+we have $MATH$
+Intuition about the correlation
+In the above formulation, notice that each $MATH$ is a constant ("known upfront") value, while the $MATH$ are random variables that depend on the linear function of $MATH$ and the random term $MATH$. This assumption is used when deriving the standard error of the slope and showing that it is unbiased.
+In this framing, when $MATH$ is not actually a random variable, what type of parameter does the empirical correlation $MATH$ estimate? The issue is that for each value i we'll have: $MATH$ and $MATH$. A possible interpretation of $MATH$ is to imagine that $MATH$ defines a random variable drawn from the empirical distribution of the x values in our sample. For example, if x had 10 values from the natural numbers: [1,2,3...,10], then we can imagine x to be a Discrete uniform distribution. Under this interpretation all $MATH$ have the same expectation and some positive variance. With this interpretation we can think of $MATH$ as the estimator of the Pearson's correlation between the random variable y and the random variable x (as we just defined it).
+Simple linear regression without the intercept term (single regressor)
+Sometimes it is appropriate to force the regression line to pass through the origin, because x and y are assumed to be proportional. For the model without the intercept term, y = βx, the OLS estimator for β simplifies to
+Substituting (x − h, y − k) in place of (x, y) gives the regression through (h, k):
+where Cov and Var refer to the covariance and variance of the sample data (uncorrected for bias).
+The last form above demonstrates how moving the line away from the center of mass of the data points affects the slope.
+Numerical properties
+Model-based properties
+Description of the statistical properties of estimators from the simple linear regression estimates requires the use of a statistical model. The following is based on assuming the validity of a model under which the estimates are optimal. It is also possible to evaluate the properties under other assumptions, such as inhomogeneity, but this is discussed elsewhere.
+Unbiasedness
+The estimators $MATH$ and $MATH$ are unbiased.
+To formalize this assertion we must define a framework in which these estimators are random variables. We consider the residuals εi as random variables drawn independently from some distribution with mean zero. In other words, for each value of x, the corresponding value of y is generated as a mean response  α + βx plus an additional random variable ε called the error term, equal to zero on average. Under such interpretation, the least-squares estimators $MATH$ and $MATH$ will themselves be random variables whose means will equal the "true values" α and β. This is the definition of an unbiased estimator.
+Confidence intervals
+The formulas given in the previous section allow one to calculate the point estimates of α and β — that is, the coefficients of the regression line for the given set of data. However, those formulas don't tell us how precise the estimates are, i.e., how much the estimators $MATH$ and $MATH$ vary from sample to sample for the specified sample size. Confidence intervals were devised to give a plausible set of values to the estimates one might have if one repeated the experiment a very large number of times.
+The standard method of constructing confidence intervals for linear regression coefficients relies on the normality assumption, which is justified if either:
+The latter case is justified by the central limit theorem.
+Normality assumption
+Under the first assumption above, that of the normality of the error terms, the estimator of the slope coefficient will itself be normally distributed with mean β and variance $MATH$ where σ2 is the variance of the error terms (see Proofs involving ordinary least squares).  At the same time the sum of squared residuals Q is distributed proportionally to χ2 with n − 2 degrees of freedom, and independently from $MATH$. This allows us to construct a t-value
+where
+is the standard error of the estimator $MATH$.
+This t-value has a Student's t-distribution with n − 2 degrees of freedom. Using it we can construct a confidence interval for β:
+at confidence level (1 − γ), where $MATH$ is the $MATH$ quantile of the tn−2 distribution. For example, if γ = 0.05 then the confidence level is 95%.
+Similarly, the confidence interval for the intercept coefficient α is given by
+at confidence level (1 − γ), where
+The confidence intervals for α and β give us the general idea where these regression coefficients are most likely to be. For example, in the Okun's law regression shown here the point estimates are
+The 95% confidence intervals for these estimates are
+In order to represent this information graphically, in the form of the confidence bands around the regression line, one has to proceed carefully and account for the joint distribution of the estimators. It can be shown that at confidence level (1 − γ) the confidence band has hyperbolic form given by the equation
+When the model assumed the intercept is fixed and equal to 0 ($MATH$), the standard error of the slope turns into:
+With: $MATH$
+Asymptotic assumption
+The alternative second assumption states that when the number of points in the dataset is "large enough", the law of large numbers and the central limit theorem become applicable, and then the distribution of the estimators is approximately normal. Under this assumption all formulas derived in the previous section remain valid, with the only exception that the quantile t*n−2 of Student's t distribution is replaced with the quantile q* of the standard normal distribution. Occasionally the fraction 1/n−2 is replaced with 1/n. When n is large such a change does not alter the results appreciably.
+Numerical example
+This data set gives average masses for women as a function of their height in a sample of American women of age 30–39. Although the OLS article argues that it would be more appropriate to run a quadratic regression for this data, the simple linear regression model is applied here instead.
+There are n = 15 points in this data set. Hand calculations would be started by finding the following five sums:
+These quantities would be used to calculate the estimates of the regression coefficients, and their standard errors.
+The 0.975 quantile of Student's t-distribution with 13 degrees of freedom is t*13 = 2.1604, and thus the 95% confidence intervals for α and β are
+The product-moment correlation coefficient might also be calculated:

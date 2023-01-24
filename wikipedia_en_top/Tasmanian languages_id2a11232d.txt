@@ -1,0 +1,48 @@
+Tasmanian languages
+The Tasmanian languages were the languages indigenous to the island of Tasmania, used by Aboriginal Tasmanians. The languages were last used for daily communication in the 1830s, although the terminal speaker, Fanny Cochrane Smith, survived until 1905.
+
+
+History of research
+Tasmanian languages are attested by three dozen word lists, the most extensive being those of Joseph Milligan and George Augustus Robinson. All these show a poor grasp of the sounds of Tasmanian, which appear to have been fairly typical of Australian languages in this parameter. Plomley (1976) presents all the lexical data available to him in 1976. Crowley and Dixon (1981) summarise what little is known of Tasmanian phonology and grammar. Bowern (2012) organises 35 different word lists and attempts to classify them into language families.
+Fanny Cochrane Smith recorded a series of wax cylinder recordings of Aboriginal songs, the only existing audio recording of a Tasmanian language, though they are of extremely poor quality. In 1972, her granddaughters still remembered some words and a song. Robert M. W. Dixon, who interviewed them as part of his research with Terry Crowley, concluded that "there is virtually no data on the grammar and no running text so that it is impossible to say very much of linguistic interest about the Tasmanian languages". However, from the scant sources that are available, Tasmanian people are seeking to recover their lost languages and traditions. The largest language revival project to date is the Palawa kani project.
+External classification
+Little is known of the languages and no relationship to other languages is demonstrable. It appears that there were several language families on Tasmania, which would be in keeping with the long period of human habitation on the island. In the 1970s Joseph Greenberg proposed an Indo-Pacific superfamily which includes Tasmanian along with Andamanese and Papuan (but not Australian). However, this superfamily proposal is rejected by the vast majority of historical linguists.
+Languages and language families
+Based on short wordlists, it appears that there were anywhere from five to sixteen languages on Tasmania, related to one another in perhaps four language families. There are historical records as well that indicate the languages were not mutually intelligible and that a lingua franca was necessary for communication after resettlement on Flinders' Island. J.B. Walker, who visited the island in 1832 and 1834, reported:
+Reports from the subsequent settlement at Oyster Cove were similar:
+Schmidt (1952) distinguished five languages in the word lists:
+The Eastern languages seem to share a common vocabulary, and use the nominal particle na. The Western languages use leā instead of na.
+Dixon & Crowley (1981)
+Dixon and Crowley (1981) reviewed the data. They evaluate 13 local varieties, and find 6 to 8 languages, with no conclusion on two additional varieties (those of the west coast) due to lack of data. Listed here (clockwise from the northwest) with their Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS) codes, they are:
+The two western varieties are South-western (T10*) and Macquarie Harbour (T6) [southern and northern ends of SW region on map]
+Bowern (2012)
+One of the difficulties in interpreting Tasmanian data is the fact that some of the 35 word lists mix data from various locations, and even for the rest, in some cases the location is not recorded. Bowern (2012) used a clustering algorithm to identify language admixture, and further techniques to conclude that the 26 unmixed lists with more than 100 words record twelve Tasmanian varieties (at p < 0.15) that may be assumed to be distinct languages. Due to the poor attestation, these varieties have no names apart from the names of the wordlists they are recorded in. They fall into five clusters; Bayesian phylogenetic methods demonstrate that two of these are clearly related, but that the others cannot be related to each other (that is, they are separate language families) based on existing evidence. Given the length of human habitation on Tasmania, it should not be expected for the languages to be demonstrably related to each other. The families, and the number of attested languages, are:
+Bowern identifies several of the wordlists of unknown providence: The Norman list is northeastern, for example, while the Lhotsky and Blackhouse lists attest to an additional language in the northeastern family; the Fisher list is western, as are the Plomley lists, though with admixture. Two of the lists reported to be from Oyster Bay contain substantial northeastern admixture, which Bowern believes to be responsible for classifications linking the languages of the east coast.
+Only 24 words, out of 3,412, are found in all five branches, and most of these are words for recently introduced items, such as guns and cattle, or cultural or mythological terms which could easily be borrowed. Thus there is no good evidence for a Tasmanian language family. There is, however, slight evidence that the northern and western families may be distantly related (the western varieties are especially poorly attested). The only words found in all regions that are not obvious candidates for borrowing and which do not have serious problems with attestation are *pene- 'laugh', *taway 'go', *liya 'water', *wii 'wood', and perhaps *tina 'belly'. However, there are other local words for 'laugh', 'water', and 'belly', and the reflexes of *taway are so similar as to be suspicious. *Wii is therefore the most promising; it is found as wiya, wina, wikina (-na is a common ending) and wii, glossed as wood, tree, brush, or timber. Although there is no evidence that the Tasmanian languages were related to the languages of mainland Australia (and if they were, they would presumably be related to languages which had been lost to the wave of Pama–Nyungan expansion), the fact that there is no established Tasmanian family should be kept in mind when attempting to establish such connections.
+Lingua franca
+It is unknown if the Tasmanian lingua franca was a koine, creole, pidgin, or mixed language. However, its vocabulary was evidently predominantly that of the eastern and the northeastern languages because of the dominance of those peoples on the settlements.
+Bass Strait Pidgin
+The unattested Bass Strait Pidgin of Flinders Island consisted primarily of English vocabulary, but is reported to have had a mixture of words from Tasmanian languages, introduced by the women that the sealers of the island had abducted from Tasmania.
+Palawa kani
+Palawa kani is an in-progress constructed language, built from a composite of surviving words from various Tasmanian Aboriginal languages.
+Phonology
+The phonology is uncertain, due to the poor nature of the transcriptions. Schmidt (1952) reconstructed the following for East-central and South-east Tasmanian, as well as parts from Blake; Dixon (1981):
+There may have also been a lamino-dental nasal [n̪], as well as a glottal stop.
+Vowels included five short /a e i o u/, and five long vowels /aː eː iː oː uː/, and nasal vowels such as "[ʌ̃]" in French pronunciations. Stress appears to have been on the penultimate syllable.
+Tasmanian languages differ from most of those on the mainland in having words that begin with l or r, as well as with consonant clusters such as br and gr. However, many of the languages of Victoria, across the Bass Strait, also allow initial l, and the language of Gippsland nearest Tasmania, Gunai, also had words beginning with trilled r and the clusters br and gr.
+Grammar
+East-central Tasmanian is used for illustration, unless otherwise indicated.
+There is no evidence of plurality or gender. The nominal particle may have marked the end of a noun phrase. 
+Possession was indicated by the possessor (noun) dropping the nominal particle: 
+Postpositions, or perhaps case endings, include le/li 'behind', ra 'without', to/ta (change in direction):
+There is also an adverbial suffix -re in lene-re 'backwards'.
+Adjectives follow the noun, and some end in -ne (pāwine 'small') or -ak (mawbak 'black', tunak 'cold').
+Only singular personal pronouns are known: mī-na 'I', nī-na 'you', nara 's/he'. (In Northeast Tas, these are mi-na, ni-na, nara.) These form possessive suffixes: loa-mi 'my woman'. Pronouns might be incorporated in the verb: tiena-mia-pe 'give me!'.
+Demonstrative pronouns are wa/we 'this' and ni/ne 'that': Riena narra wa 'this is my hand'.
+marra(wa) 'one', pʲa(wa) 'two'.
+The negative particle is noia
+In Southeast Tas., suffixes -gara/-gera and -gana/-gena appear on verbs. Their meaning is unknown:
+Vocabulary
+Some basic words:
+The difficulty in analyzing the records is apparent in the conflicting recorded forms for the words for "two" ("Fr" means a French transcription):
+Given the possibility that suffixes are responsible for some of the differences, there are still clearly several distinct words, though it is difficult to say how many or what their forms were.

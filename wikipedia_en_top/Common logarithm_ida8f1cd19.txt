@@ -1,0 +1,29 @@
+Common logarithm
+In mathematics, the common logarithm is the logarithm with base 10. It is also known as the decadic logarithm and as the decimal logarithm, named after its base, or Briggsian logarithm, after Henry Briggs, an English mathematician who pioneered its use, as well as standard logarithm. Historically, it was known as logarithmus decimalis or logarithmus decadis. It is indicated by log(x), log10 (x), or sometimes Log(x) with a capital L (however, this notation is ambiguous, since it can also mean the complex natural logarithmic multi-valued function). On calculators, it is printed as "log", but mathematicians usually mean natural logarithm (logarithm with base e ≈ 2.71828) rather than common logarithm when they write "log". To mitigate this ambiguity, the ISO 80000 specification recommends that log10 (x) should be written lg(x), and loge (x) should be ln(x).
+Before the early 1970s, handheld electronic calculators were not available, and mechanical calculators capable of multiplication were bulky, expensive and not widely available. Instead, tables of base-10 logarithms were used in science, engineering and navigation—when calculations required greater accuracy than could be achieved with a slide rule. By turning multiplication and division to addition and subtraction, use of logarithms avoided laborious and error-prone paper-and-pencil multiplications and divisions. Because logarithms were so useful, tables of base-10 logarithms were given in appendices of many textbooks. Mathematical and navigation handbooks included tables of the logarithms of trigonometric functions as well. For the history of such tables, see log table.
+Mantissa and characteristic
+An important property of base-10 logarithms, which makes them so useful in calculations, is that the logarithm of numbers greater than 1 that differ by a factor of a power of 10 all have the same fractional part. The fractional part is known as the mantissa. Thus, log tables need only show the fractional part. Tables of common logarithms typically listed the mantissa, to four or five decimal places or more, of each number in a range, e.g. 1000 to 9999.
+The integer part, called the characteristic, can be computed by simply counting how many places the decimal point must be moved, so that it is just to the right of the first significant digit. For example, the logarithm of 120 is given by the following calculation:
+The last number (0.07918)—the fractional part or the mantissa of the common logarithm of 120—can be found in the table shown. The location of the decimal point in 120 tells us that the integer part of the common logarithm of 120, the characteristic, is 2.
+Negative logarithms
+Positive numbers less than 1 have negative logarithms. For example,
+To avoid the need for separate tables to convert positive and negative logarithms back to their original numbers, one can express a negative logarithm as a negative integer characteristic plus a positive mantissa. To facilitate this, a special notation, called bar notation, is used:
+The bar over the characteristic indicates that it is negative, while the mantissa remains positive. When reading a number in bar notation out loud, the symbol $MATH$ is read as "bar n", so that $MATH$ is read as "bar 2 point 07918…".  An alternative convention is to express the logarithm modulo 10, in which case
+with the actual value of the result of a calculation determined by knowledge of the reasonable range of the result.
+The following example uses the bar notation to calculate 0.012 × 0.85 = 0.0102:
+* This step makes the mantissa between 0 and 1, so that its antilog (10mantissa) can be looked up.
+The following table shows how the same mantissa can be used for a range of numbers differing by powers of ten:
+Note that the mantissa is common to all of the 5  ×  10i. This holds for any positive real number $MATH$ because
+Since i is a constant, the mantissa comes from $MATH$, which is constant for given $MATH$. This allows a table of logarithms to include only one entry for each mantissa. In the example of 5  ×  10i, 0.698 970 (004 336 018 ...) will be listed once indexed by 5 (or 0.5, or 500, etc.).
+History
+Common logarithms are sometimes also called "Briggsian logarithms" after Henry Briggs, a 17th century British mathematician. In 1616 and 1617, Briggs visited John Napier at Edinburgh, the inventor of what are now called natural (base-e) logarithms, in order to suggest a change to Napier's logarithms. During these conferences, the alteration proposed by Briggs was agreed upon; and after his return from his second visit, he published the first chiliad of his logarithms.
+Because base-10 logarithms were most useful for computations, engineers generally simply wrote "log(x)" when they meant log10 (x). Mathematicians, on the other hand, wrote "log(x)" when they meant loge (x) for the natural logarithm. Today, both notations are found. Since hand-held electronic calculators are designed by engineers rather than mathematicians, it became customary that they follow engineers' notation. So the notation, according to which one writes "ln(x)" when the natural logarithm is intended, may have been further popularized by the very invention that made the use of "common logarithms" far less common, electronic calculators.
+Numeric value
+The numerical value for logarithm to the base 10 can be calculated with the following identities:
+using logarithms of any available base $MATH$
+as procedures exist for determining the numerical value for logarithm base e (see Natural logarithm § Efficient computation) and logarithm base 2 (see Algorithms for computing binary logarithms).
+Derivative
+The derivative of a logarithm with a base b is such that 
+$MATH$, so $MATH$.
+See also
+Notes

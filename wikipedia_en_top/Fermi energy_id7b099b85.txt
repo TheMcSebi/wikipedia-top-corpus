@@ -1,0 +1,34 @@
+Fermi energy
+The Fermi energy is a concept in quantum mechanics usually referring to the energy difference between the highest and lowest occupied single-particle states in a quantum system of non-interacting fermions at absolute zero temperature.
+In a Fermi gas, the lowest occupied state is taken to have zero kinetic energy, whereas in a metal, the lowest occupied state is typically taken to mean the bottom of the conduction band.
+The term "Fermi energy" is often used to refer to a different yet closely related concept, the Fermi level (also called electrochemical potential).
+There are a few key differences between the Fermi level and Fermi energy, at least as they are used in this article:
+Since the Fermi level in a metal at absolute zero is the energy of the highest occupied single particle state,
+then the Fermi energy in a metal is the energy difference between the Fermi level and lowest occupied single-particle state, at zero-temperature.
+Context
+In quantum mechanics, a group of particles known as fermions (for example, electrons, protons and neutrons) obey the Pauli exclusion principle. This states that two fermions cannot occupy the same quantum state. Since an idealized non-interacting Fermi gas can be analyzed in terms of single-particle stationary states, we can thus say that two fermions cannot occupy the same stationary state. These stationary states will typically be distinct in energy. To find the ground state of the whole system, we start with an empty system, and add particles one at a time, consecutively filling up the unoccupied stationary states with the lowest energy. When all the particles have been put in, the Fermi energy is the kinetic energy of the highest occupied state.
+As a consequence, even if we have extracted all possible energy from a Fermi gas by cooling it to near absolute zero temperature, the fermions are still moving around at a high speed. The fastest ones are moving at a velocity corresponding to a kinetic energy equal to the Fermi energy. This speed is known as the Fermi velocity. Only when the temperature exceeds the related Fermi temperature, do the particles begin to move significantly faster than at absolute zero.
+The Fermi energy is an important concept in the solid state physics of metals and superconductors. It is also a very important quantity in the physics of quantum liquids like low temperature helium (both normal and superfluid 3He), and it is quite important to nuclear physics and to understanding the stability of white dwarf stars against gravitational collapse.
+Formula and typical values
+The Fermi energy for a non-interacting ensemble of identical spin-1⁄2 fermions in a three-dimensional (non-relativistic) system is given by
+where N is the number of particles, m0 the rest mass of each fermion, V the volume of the system, and $MATH$ the reduced Planck constant.
+Metals
+Under the free electron model, the electrons in a metal can be considered to form a Fermi gas. The number density $MATH$ of conduction electrons in metals ranges between approximately 1028 and 1029 electrons/m3, which is also the typical density of atoms in ordinary solid matter. This number density produces a Fermi energy of the order of 2 to 10 electronvolts.
+White dwarfs
+Stars known as white dwarfs have mass comparable to our Sun, but have about a hundredth of its radius.  The high densities mean that the electrons are no longer bound to single nuclei and instead form a degenerate electron gas. Their Fermi energy is about 0.3 MeV.
+Nucleus
+Another typical example is that of the nucleons in the nucleus of an atom. The radius of the nucleus admits deviations, so a typical value for the Fermi energy is usually given as 38 MeV.
+Related quantities
+Using this definition of above for the Fermi energy, various related quantities can be useful.
+The Fermi temperature is defined as
+where $MATH$ is the Boltzmann constant, and $MATH$ the Fermi energy. The Fermi temperature can be thought of as the temperature at which thermal effects are comparable to quantum effects associated with Fermi statistics. The Fermi temperature for a metal is a couple of orders of magnitude above room temperature.
+Other quantities defined in this context are Fermi momentum
+and Fermi velocity
+These quantities are respectively the momentum and group velocity of a fermion at the Fermi surface.
+The Fermi momentum can also be described as
+where $MATH$, called the Fermi wavevector, is the radius of the Fermi sphere.
+These quantities may not be well-defined in cases where the Fermi surface is non-spherical.
+See also
+Notes
+References
+Further reading

@@ -1,0 +1,91 @@
+Elliptic integral
+In integral calculus, an elliptic integral is one of a number of related functions defined as the value of certain integrals, which were first studied by Giulio Fagnano and Leonhard Euler (c. 1750). Their name originates from their originally arising in connection with the problem of finding the arc length of an ellipse. 
+Modern mathematics defines an "elliptic integral" as any function f which can be expressed in the form
+where R is a rational function of its two arguments, P is a polynomial of degree 3 or 4 with no repeated roots, and c is a constant.
+In general, integrals in this form cannot be expressed in terms of elementary functions. Exceptions to this general rule are when P has repeated roots, or when R(x, y) contains no odd powers of y or if the integral is pseudo-elliptic. However, with the appropriate reduction formula, every elliptic integral can be brought into a form that involves integrals over rational functions and the three Legendre canonical forms (i.e. the elliptic integrals of the first, second and third kind).
+Besides the Legendre form given below, the elliptic integrals may also be expressed in Carlson symmetric form. Additional insight into the theory of the elliptic integral may be gained through the study of the Schwarz–Christoffel mapping. Historically, elliptic functions were discovered as inverse functions of elliptic integrals.
+Argument notation
+Incomplete elliptic integrals are functions of two arguments; complete elliptic integrals are functions of a single argument. These arguments are expressed in a variety of different but equivalent ways (they give the same elliptic integral). Most texts adhere to a canonical naming scheme, using the following naming conventions.
+For expressing one argument:
+Each of the above three quantities is completely determined by any of the others (given that they are non-negative). Thus, they can be used interchangeably.
+The other argument can likewise be expressed as φ, the amplitude, or as x or u, where x = sin φ = sn u and sn is one of the Jacobian elliptic functions.
+Specifying the value of any one of these quantities determines the others. Note that u also depends on m. Some additional relationships involving u include
+The latter is sometimes called the delta amplitude and written as Δ(φ) = dn u. Sometimes the literature also refers to the complementary parameter, the complementary modulus, or the complementary modular angle. These are further defined in the article on quarter periods.
+In this notation, the use of a vertical bar as delimiter indicates that the argument following it is the "parameter" (as defined above), while the backslash indicates that it is the modular angle. The use of a semicolon implies that the argument preceding it is the sine of the amplitude:
+This potentially confusing use of different argument delimiters is traditional in elliptic integrals and much of the notation is compatible with that used in the reference book by Abramowitz and Stegun and that used in the integral tables by Gradshteyn and Ryzhik.
+There are still other conventions for the notation of elliptic integrals employed in the literature. The notation with interchanged arguments, F(k, φ), is often encountered; and similarly E(k, φ) for the integral of the second kind. Abramowitz and Stegun substitute the integral of the first kind, F(φ, k), for the argument φ in their definition of the integrals of the second and third kinds, unless this argument is followed by a vertical bar: i.e. E(F(φ, k) | k2) for E(φ | k2). Moreover, their complete integrals employ the parameter k2 as argument in place of the modulus k, i.e. K(k2) rather than K(k). And the integral of the third kind defined by Gradshteyn and Ryzhik, Π(φ, n, k), puts the amplitude φ first and not the "characteristic" n.
+Thus one must be careful with the notation when using these functions, because various reputable references and software packages use different conventions in the definitions of the elliptic functions. For example, Wolfram's Mathematica software and Wolfram Alpha define the complete elliptic integral of the first kind in terms of the parameter m, instead of the elliptic modulus k.
+Incomplete elliptic integral of the first kind
+The incomplete elliptic integral of the first kind F is defined as
+This is the trigonometric form of the integral; substituting t = sin θ and x = sin φ, one obtains the Legendre normal form:
+Equivalently, in terms of the amplitude and modular angle one has:
+With x = sn(u, k) one has:
+demonstrating that this Jacobian elliptic function is a simple inverse of the incomplete elliptic integral of the first kind.
+The incomplete elliptic integral of the first kind has following addition theorem:
+The elliptic modulus can be transformed that way:
+Incomplete elliptic integral of the second kind
+The incomplete elliptic integral of the second kind E in trigonometric form is
+Substituting t = sin θ and x = sin φ, one obtains the Legendre normal form:
+Equivalently, in terms of the amplitude and modular angle:
+Relations with the Jacobi elliptic functions include
+The meridian arc length from the equator to latitude φ is written in terms of E:
+where a is the semi-major axis, and e is the eccentricity.
+The incomplete elliptic integral of the second kind has following addition theorem:
+The elliptic modulus can be transformed that way:
+Incomplete elliptic integral of the third kind
+The incomplete elliptic integral of the third kind Π is 
+or
+The number n is called the characteristic and can take on any value, independently of the other arguments. Note though that the value Π(1; π/2 | m) is infinite, for any m.
+A relation with the Jacobian elliptic functions is
+The meridian arc length from the equator to latitude φ is also related to a special case of Π:
+Complete elliptic integral of the first kind
+Elliptic Integrals are said to be 'complete' when the amplitude φ = π/2 and therefore x = 1. The complete elliptic integral of the first kind K may thus be defined as
+or more compactly in terms of the incomplete integral of the first kind as
+It can be expressed as a power series
+where Pn is the Legendre polynomials, which is equivalent to
+where n!! denotes the double factorial. In terms of the Gauss hypergeometric function, the complete elliptic integral of the first kind can be expressed as
+The complete elliptic integral of the first kind is sometimes called the quarter period. It can be computed very efficiently in terms of the arithmetic–geometric mean:
+Therefore the modulus can be transformed that way:
+This expression is valid for all $MATH$ and 0 ≤ k ≤ 1:
+Relation to the gamma function
+If k2 = λ(i√r) and $MATH$ (where λ is the modular lambda function), then K(k) is expressible in closed form in terms of the gamma function. For example, r = 2 and r = 7 give, respectively,
+and
+More generally, the condition that
+be in an imaginary quadratic field is sufficient. For instance, if k = e5πi/6, then iK′/K = e2πi/3 and
+Relation to Jacobi theta function
+The relation to Jacobi's theta function is given by 
+where the nome q is
+Asymptotic expressions
+This approximation has a relative precision better than 3×10−4 for k < 1/2. Keeping only the first two terms is correct to 0.01 precision for k < 1/2.
+Differential equation
+The differential equation for the elliptic integral of the first kind is
+A second solution to this equation is K(√1 − k2). This solution satisfies the relation
+Continued fraction
+A continued fraction expansion is:
+where the nome is q = q(k).
+Complete elliptic integral of the second kind
+The complete elliptic integral of the second kind E is defined as
+or more compactly in terms of the incomplete integral of the second kind E(φ,k) as
+For an ellipse with semi-major axis a and semi-minor axis b and eccentricity e = √1 − b2/a2, the complete elliptic integral of the second kind E(e) is equal to one quarter of the circumference C of the ellipse measured in units of the semi-major axis a. In other words:
+The complete elliptic integral of the second kind can be expressed as a power series
+which is equivalent to
+In terms of the Gauss hypergeometric function, the complete elliptic integral of the second kind can be expressed as
+The modulus can be transformed that way:
+Computation
+Like the integral of the first kind, the complete elliptic integral of the second kind can be computed very efficiently using the arithmetic–geometric mean.
+Define sequences an and gn, where a0 = 1, g0 = √1 − k2 = k′ and the recurrence relations an + 1 = an + gn/2, gn + 1 = √an gn hold. Furthermore, define
+By definition,
+Also
+Then
+In practice, the arithmetic-geometric mean would simply be computed up to some limit. This formula converges quadratically for all |k| ≤ 1. To speed up computation further, the relation cn + 1 = cn2/4an + 1 can be used.
+Furthermore, if k2 = λ(i√r) and $MATH$ (where λ is the modular lambda function), then E(k) is expressible in closed form in terms of
+and hence can be computed without the need for the infinite summation term. For example, r = 1 and r = 7 give, respectively,
+and
+Derivative and differential equation
+A second solution to this equation is E(√1 − k2) − K(√1 − k2).
+Complete elliptic integral of the third kind
+The complete elliptic integral of the third kind Π can be defined as
+Note that sometimes the elliptic integral of the third kind is defined with an inverse sign for the characteristic n,
+Just like the complete elliptic integrals of the first and second kind, the complete elliptic integral of the third kind can be computed very efficiently using the arithmetic-geometric mean.
+Functional relations
+Legendre's relation:

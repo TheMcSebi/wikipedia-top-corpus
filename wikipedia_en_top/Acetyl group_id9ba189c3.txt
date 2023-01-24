@@ -1,0 +1,13 @@
+Acetyl group
+In organic chemistry, acetyl is a functional group with the chemical formula −COCH3  and the structure −C(=O)−CH3. It is sometimes represented by the symbol Ac (not to be confused with the element actinium). In IUPAC nomenclature, acetyl is called ethanoyl, although this term is barely heard.
+The acetyl group contains a methyl group (−CH3) single-bonded to a carbonyl (C=O). The carbonyl center of an acyl radical has one nonbonded electron with which it forms a chemical bond to the remainder R of the molecule. 
+The acetyl moiety is a component of many organic compounds, including acetic acid, the neurotransmitter acetylcholine, acetyl-CoA, acetylcysteine, acetaminophen (also known as paracetamol), and acetylsalicylic acid (also known as aspirin).
+Acetylation
+In nature
+The introduction of an acetyl group into a molecule is called acetylation. In biological organisms, acetyl groups are commonly transferred from acetyl-CoA to other organic molecules. Acetyl-CoA is an intermediate both in the biological synthetase and in the breakdown of many organic molecules. Acetyl-CoA is also created during the second stage of cellular respiration, pyruvate decarboxylation, by the action of pyruvate dehydrogenase on pyruvic acid.
+Histones and other proteins are often modified by acetylation. For example, on the DNA level, histone acetylation by acetyltransferases (HATs) causes an expansion of chromatin architecture, allowing for genetic transcription to occur. However, removal of the acetyl group by histone deacetylases (HDACs) condenses DNA structure, thereby preventing transcription.
+Synthetic organic and pharmaceutical chemistry
+Acetylation can be achieved using a variety of methods, the most common one being via the use of acetic anhydride or acetyl chloride, often in the presence of a tertiary or aromatic amine base.  A typical acetylation is the conversion of glycine to N-acetylglycine:
+Pharmacology
+Acetylated organic molecules exhibit increased ability to cross the selectively permeable blood–brain barrier. Acetylation helps a given drug reach the brain more quickly, making the drug's effects more intense and increasing the effectiveness of a given dose. The acetyl group in acetylsalicylic acid (aspirin) enhances its effectiveness relative to the natural anti-inflammatant salicylic acid. In similar manner, acetylation converts the natural painkiller morphine into the far more potent heroin (diacetylmorphine).
+There is some evidence that acetyl-L-carnitine may be more effective for some applications than L-carnitine. Acetylation of resveratrol holds promise as one of the first anti-radiation medicines for human populations.

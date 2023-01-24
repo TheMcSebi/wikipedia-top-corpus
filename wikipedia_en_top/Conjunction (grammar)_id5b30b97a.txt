@@ -1,0 +1,46 @@
+Conjunction (grammar)
+In grammar, a conjunction (abbreviated CONJ or CNJ) is a part of speech that connects words, phrases, or clauses that are called the conjuncts of the conjunctions. That definition may overlap with that of other parts of speech and so what constitutes a "conjunction" must be defined for each language. In English, a given word may have several senses and be either a preposition or a conjunction, depending on the syntax of the sentence. For example, after is a preposition in "he left after the fight" but is a conjunction in "he left after they fought". In general, a conjunction is an invariable (non-inflected) grammatical particle that may or may not stand between the items conjoined.
+The definition of conjunction may also be extended to idiomatic phrases that behave as a unit with the same function, e.g. "as well as", "provided that".
+A simple literary example of a conjunction is "the truth of nature, and the power of giving interest" (Samuel Taylor Coleridge's Biographia Literaria).
+A conjunction may be placed at the beginning of a sentence: "But some superstition about the practice persists."
+Separation of clauses
+Commas are often used to separate clauses. In English, a comma is used to separate a dependent clause from the independent clause, if the dependent clause comes first: After I fed the cat, I brushed my clothes. (Compare this with I brushed my clothes after I fed the cat.) A relative clause takes commas if it is non-restrictive, as in I cut down all the trees, which were over six feet tall. (Without the comma, this would mean that only the trees more than six feet tall were cut down.) Some style guides prescribe that two independent clauses joined by a coordinating conjunction (for, and, nor, but, or, yet, so) must be separated by a comma placed before the conjunction. In the following sentences, where the second clause is independent (because it can stand alone as a sentence), the comma is considered by those guides to be necessary:
+In the following sentences, where the second half of the sentence is not an independent clause (because it does not contain an explicit subject), those guides prescribe that the comma be omitted:
+However, such guides permit the comma to be omitted if the second independent clause is very short, typically when the second independent clause is an imperative, as in:
+The above guidance is not universally accepted or applied. Long coordinate clauses are nonetheless usually separated by commas:
+A comma between clauses may change the connotation, reducing or eliminating
+ambiguity. In the following examples, the thing in the first sentence that
+is relaxing is the cool day, whereas in the second sentence it is the walk,
+since the introduction of commas makes "on a cool day" parenthetical:
+As more clauses are introduced, ambiguity accumulates, but when commas separate
+each clause, the clauses clearly become modifiers of just one thing. In the
+second sentence below, that thing is the walk:
+In some languages, such as German and Polish, stricter rules apply on comma use between clauses, with dependent clauses always being set off with commas, and commas being generally proscribed before certain coordinating conjunctions.
+The joining of two independent sentences with a comma and no conjunction (as in "It is nearly half past five, we cannot reach town before dark.") is known as a comma splice and is sometimes considered an error in English; in most cases a semicolon should be used instead. A comma splice should not be confused, though, with the literary device called asyndeton, in which coordinating conjunctions are purposely omitted for a specific stylistic effect.
+Etymology
+Beginning in the 17th century, an element of a conjunction was known as a conjunct. A conjunction itself was then called a connective. That archaic term, however, diminished in usage during the early 20th century. In its place, the terms coordinating conjunction (coined in the mid-19th century) and correlative conjunction (coined in the early 19th century) became more commonly used.
+Coordinating conjunctions
+Coordinating conjunctions, also called coordinators, are conjunctions that join, or coordinate, two or more items (such as words, main clauses, or sentences) of equal syntactic importance. In English, the mnemonic acronym FANBOYS can be used to remember the coordinators for, and, nor, but, or, yet, and so. These are not the only coordinating conjunctions; various others are used, including: ch. 9 : p. 171  "and nor" (British), "but nor" (British), "neither" ("They don't gamble, neither do they smoke"), "no more" ("They don't gamble, no more do they smoke"), and "only" ("I would go, only I don't have time"). Types of coordinating conjunctions include cumulative conjunctions, adversative conjunctions, alternative conjunctions, and illative conjunctions.
+Here are some examples of coordinating conjunctions in English and what they do:
+Only and, or, nor are actual coordinating logical operators connecting atomic propositions or syntactic multiple units of the same type (subject, objects, predicative, attributive expressions, etc.) within a sentence. The cause and consequence (illative) conjunctions are pseudocoordinators, being expressible as antecedent or consequent to logical implications or grammatically as subordinate conditional clauses.
+Correlative conjunctions
+Correlative conjunctions work in pairs to join words and groups of words of equal weight in a sentence. There are many different pairs of correlative conjunctions:
+Examples:
+Conjunctions of time
+Examples:
+Subordinating conjunctions
+Subordinating conjunctions, also called subordinators, are conjunctions that join an independent clause and a dependent clause, and also introduce adverb clauses. The most common subordinating conjunctions in the English language include after, although, as, as far as, as if, as long as, as soon as, as though, because, before, even if, even though, every time, if, in order that, since, so, so that, than, that, though, unless, until, when, whenever, where, whereas, wherever, and while.
+Complementizers can be considered to be special subordinating conjunctions that introduce complement clauses: e.g. "I wonder whether he'll be late. I hope that he'll be on time". Some subordinating conjunctions, when used to introduce a phrase instead of a full clause, become prepositions with identical meanings.
+The subordinating conjunction performs two important functions within a sentence: illustrating the importance of the independent clause and providing a transition between two ideas in the same sentence by indicating a time, place, or cause and therefore affecting the relationship between the clauses.
+In many verb-final languages, subordinate clauses must precede the main clause on which they depend. The equivalents to the subordinating conjunctions of non-verb-final languages such as English are either
+Such languages often lack conjunctions as a part of speech, because:
+In other West Germanic languages like German and Dutch, the word order after a subordinating conjunction is different from that in an independent clause, e.g. in Dutch want ('for') is coordinating, but omdat ('because') is subordinating. The clause after the coordinating conjunction has normal word order, but the clause after the subordinating conjunction has verb-final word order. Compare:
+Similarly, in German, denn ('for') is coordinating, but weil ('because') is subordinating:
+Starting a sentence
+It is now generally agreed that a sentence may begin with a coordinating conjunction like and, but, or yet. While some people consider this usage improper, Follett's Modern American Usage labels its prohibition a "supposed rule without foundation" and a "prejudice [that] lingers from a bygone time."
+Some associate this belief with their early school days. One conjecture is that it results from young children's being taught to avoid simple sentences starting with and and are encouraged to use more complex structures with subordinating conjunctions. In the words of Bryan A. Garner, the "widespread belief ... that it is an error to begin a sentence with a conjunction such as and, but, or so has no historical or grammatical foundation", and good writers have frequently started sentences with conjunctions.
+There is also a misleading guideline that a sentence should never begin with because. Because is a subordinating conjunction and introduces a dependent clause. It may start a sentence when the main clause follows the dependent clause.
+Examples
+In other languages
+Warlpiri
+In Warlpiri, a Pama-Nyungan language spoken in Australia, conjunctions function differently from English or other Germanic languages. In unembedded contexts, Warlpiri uses the coordinator manu, such that P manu Q translates to "P and Q": Cecilia manu Gloriapala yanu tawunu kurra means "Cecilia and Gloria went to town", but in the negative contexts, P manu Q translates to "neither P nor Q", such that kularnangku yinyi rampaku manu loli means "I won't give you cookies or lollipops", as kularnanagku is a form of the Warlpiri negative marker.

@@ -1,0 +1,29 @@
+Unit vector
+In mathematics, a unit vector in a normed vector space is a vector (often a spatial vector) of length 1. A unit vector is often denoted by a lowercase letter with a circumflex, or "hat", as in $MATH$ (pronounced "v-hat").
+The term direction vector, commonly denoted as d, is used to describe a unit vector being used to represent spatial direction and relative direction. 2D spatial directions are numerically equivalent to points on the unit circle 
+and spatial directions in 3D are equivalent to a point on the unit sphere.
+The normalized vector û of a non-zero vector u is the unit vector in the direction of u, i.e.,
+where |u| is the norm (or length) of u. The term normalized vector is sometimes used as a synonym for unit vector.
+Unit vectors are often chosen to form the basis of a vector space, and every vector in the space may be written as a linear combination of unit vectors.
+Orthogonal coordinates
+Cartesian coordinates
+Unit vectors may be used to represent the axes of a Cartesian coordinate system. For instance, the standard unit vectors in the direction of the x, y, and z axes of a three dimensional Cartesian coordinate system are
+They form a set of mutually orthogonal unit vectors, typically referred to as a standard basis in linear algebra.
+They are often denoted using common vector notation (e.g., i or $MATH$) rather than standard unit vector notation (e.g., $MATH$). In most contexts it can be assumed that i, j, and k, (or $MATH$ $MATH$ and $MATH$) are versors of a 3-D Cartesian coordinate system. The notations $MATH$, $MATH$, $MATH$, or $MATH$, with or without hat, are also used, particularly in contexts where i, j, k might lead to confusion with another quantity (for instance with index symbols such as i, j, k, which are used to identify an element of a set or array or sequence of variables).
+When a unit vector in space is expressed in Cartesian notation as a linear combination of i, j, k, its three scalar components can be referred to as direction cosines. The value of each component is equal to the cosine of the angle formed by the unit vector with the respective basis vector. This is one of the methods used to describe the orientation (angular position) of a straight line, segment of straight line, oriented axis, or segment of oriented axis (vector).
+Cylindrical coordinates
+The three orthogonal unit vectors appropriate to cylindrical symmetry are: 
+They are related to the Cartesian basis $MATH$, $MATH$, $MATH$ by:
+The vectors $MATH$ and $MATH$ are functions of $MATH$ and are not constant in direction. When differentiating or integrating in cylindrical coordinates, these unit vectors themselves must also be operated on. The derivatives with respect to $MATH$ are:
+Spherical coordinates
+The unit vectors appropriate to spherical symmetry are: $MATH$, the direction in which the radial distance from the origin increases; $MATH$, the direction in which the angle in the x-y plane counterclockwise from the positive x-axis is increasing; and $MATH$, the direction in which the angle from the positive z axis is increasing. To minimize redundancy of representations, the polar angle $MATH$ is usually taken to lie between zero and 180 degrees. It is especially important to note the context of any ordered triplet written in spherical coordinates, as the roles of $MATH$ and $MATH$ are often reversed. Here, the American "physics" convention is used. This leaves the azimuthal angle $MATH$ defined the same as in cylindrical coordinates. The Cartesian relations are:
+The spherical unit vectors depend on both $MATH$ and $MATH$, and hence there are 5 possible non-zero derivatives. For a more complete description, see Jacobian matrix and determinant. The non-zero derivatives are:
+General unit vectors
+Common themes of unit vectors occur throughout physics and geometry:
+Curvilinear coordinates
+In general, a coordinate system may be uniquely specified using a number of linearly independent unit vectors $MATH$ (the actual number being equal to the degrees of freedom of the space). For ordinary 3-space, these vectors may be denoted $MATH$. It is nearly always convenient to define the system to be orthonormal and right-handed:
+where $MATH$ is the Kronecker delta (which is 1 for i = j, and 0 otherwise) and  $MATH$ is the Levi-Civita symbol (which is 1 for permutations ordered as ijk, and −1 for permutations ordered as kji).
+Right versor
+A unit vector in $MATH$ was called a right versor by W. R. Hamilton, as he developed his quaternions $MATH$. In fact, he was the originator of the term vector, as every quaternion $MATH$ has a scalar part s and a vector part v. If v is a unit vector in $MATH$, then the square of v in quaternions is –1. Thus by Euler's formula, $MATH$ is a versor in the 3-sphere. When θ is a right angle, the versor is a right versor: its scalar part is zero and its vector part v is a unit vector in $MATH$.
+See also
+Notes

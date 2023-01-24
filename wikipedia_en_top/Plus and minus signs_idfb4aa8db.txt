@@ -1,0 +1,59 @@
+Plus and minus signs
+The plus and minus signs, + and −, are mathematical symbols used to represent the notions of positive and negative, respectively. In addition, + represents the operation of addition, which results in a sum, while − represents subtraction, resulting in a difference. Their use has been extended to many other meanings, more or less analogous. Plus and minus are Latin terms meaning "more" and "less", respectively.
+History
+Though the signs now seem as familiar as the alphabet or the Hindu-Arabic numerals, they are not of great antiquity. The Egyptian hieroglyphic sign for addition, for example, resembled a pair of legs walking in the direction in which the text was written (Egyptian could be written either from right to left or left to right), with the reverse sign indicating subtraction:
+Nicole Oresme's manuscripts from the 14th century show what may be one of the earliest uses of + as a sign for plus.
+In early 15th century Europe, the letters "P" and "M" were generally used.
+The symbols (P with overline, p̄, for più (more), i.e., plus, and M with overline, m̄, for meno (less), i.e., minus) appeared for the first time in Luca Pacioli's mathematics compendium, Summa de arithmetica, geometria, proportioni et proportionalità, first printed and published in Venice in 1494.
+The + sign is a simplification of the Latin: et (comparable to the evolution of the ampersand &). The − may be derived from a tilde written over ⟨m⟩ when used to indicate subtraction; or it may come from a shorthand version of the letter ⟨m⟩ itself.
+In his 1489 treatise, Johannes Widmann referred to the symbols − and + as minus and mer (Modern German mehr; "more"): "[...] was − ist das ist minus [...] und das + das ist mer das zu addirst" They weren't used for addition and subtraction in the treatise, but were used to indicate surplus and deficit; usage in the modern sense is attested in a 1518 book by Henricus Grammateus.
+Robert Recorde, the designer of the equals sign, introduced plus and minus to Britain in 1557 in The Whetstone of Witte: "There be other 2 signes in often use of which the first is made thus + and betokeneth more: the other is thus made − and betokeneth lesse."
+Plus sign
+The plus sign, +, is a binary operator that indicates addition, as in 2 + 3 = 5. It can also serve as a unary operator that leaves its operand unchanged (+x means the same as x). This notation may be used when it is desired to emphasize the positiveness of a number, especially in contrast with the negative numbers (+5 versus −5).
+The plus sign can also indicate many other operations, depending on the mathematical system under consideration. Many algebraic structures, such as vector spaces and matrix rings, have some operation which is called, or is equivalent to, addition. It is though conventional to use the plus sign to only denote commutative operations.
+The symbol is also used in chemistry and physics. For more, see § Other uses.
+Minus sign
+The minus sign, −, has three main uses in mathematics:
+In many contexts, it does not matter whether the second or the third of these usages is intended: −5 is the same number.  When it is important to distinguish them, a raised minus sign ¯ is sometimes used for negative constants, as in elementary education, the programming language APL, and some early  graphing calculators.
+All three uses can be referred to as "minus" in everyday speech, though the binary operator is sometimes read as "take away". In American English nowadays, −5 (for example) is generally referred to as "negative five" though speakers born before 1950 often refer to it as "minus five". (Temperatures tend to follow the older usage; −5° is generally called "minus five degrees".) Further, a few textbooks in the United States encourage −x to be read as "the opposite of x" or "the additive inverse of x"—to avoid giving the impression that −x is necessarily negative (since x itself may already be negative).
+In mathematics and most programming languages, the rules for the order of operations mean that −52 is equal to −25: Exponentiation binds more strongly than the unary minus, which binds more strongly than multiplication or division. However, in some programming languages (Microsoft Excel in particular), unary operators bind strongest, so in those cases −5^2 is 25, but 0−5^2 is −25.
+Similar to the plus sign, the minus sign is also used in chemistry and physics. For more, see § Other uses below.
+Use in elementary education
+Some elementary teachers use raised plus and minus signs before numbers to show they are positive or negative numbers. For example, subtracting −5 from 3 might be read as "positive three take away negative 5", and be shown as
+or even as
+Use as a qualifier
+In grading systems (such as examination marks), the plus sign indicates a grade one level higher and the minus sign a grade lower. For example, B− ("B minus") is one grade lower than B. In some occasions, this is extended to two plus or minus signs (e.g., A++ being two grades higher than A).
+Positive and negative are sometimes abbreviated as +ve and −ve.
+Mathematics
+In mathematics the one-sided limit x → a+ means x approaches a from the right (i.e., right-sided limit), and x → a− means x approaches a from the left (i.e., left-sided limit). For example, 1/x → +$MATH$ as x → 0+ but 1/x → −$MATH$ as x → 0−.
+Blood
+Blood types are often qualified with a plus or minus to indicate the presence or absence of the Rh factor. For example, A+ means type A blood with the Rh factor present, while B− means type B blood with the Rh factor absent.
+Music
+In music, augmented chords are symbolized with a plus sign, although this practice is not universal (as there are other methods for spelling those chords). For example, "C+" is read "C augmented chord". Sometimes the plus is written as a superscript.
+Uses in computing
+As well as the normal mathematical usage, plus and minus signs may be used for a number of other purposes in computing.
+Plus and minus signs are often used in tree view on a computer screen—to show if a folder is collapsed or not.
+In some programming languages, concatenation of strings is written "a" + "b", and results in "ab".
+In most programming languages, subtraction and negation are indicated with the ASCII hyphen-minus character, -. In APL a raised minus sign (Unicode U+00AF) is used to denote a negative number, as in ¯3. While in J a negative number is denoted by an underscore, as in _5.
+In C and some other computer programming languages, two plus signs indicate the increment operator and two minus signs a decrement; the position of the operator before or after the variable indicates whether the new or old value is read from it. For example, if x equals 6, then y = x++ increments x to 7 but sets y to 6, whereas y = ++x would set both x and y to 7. By extension, ++ is sometimes used in computing terminology to signify an improvement, as in the name of the language C++.
+In regular expressions, + is often used to indicate "1 or more" in a pattern to be matched. For example, x+ means "one or more of the letter x".
+There is no concept of negative zero in mathematics, but in computing −0 may have a separate representation from zero. In the IEEE floating-point standard, 1 / −0 is negative infinity ($MATH$) whereas 1 / 0 is positive infinity ($MATH$).
+Other uses
+In physics, the use of plus and minus signs for different electrical charges was introduced by Georg Christoph Lichtenberg.
+In chemistry, superscripted plus and minus signs are used to indicate an ion with a positive or negative charge of 1 (e.g., NH+4 ). If the charge is greater than 1, a number indicating the charge is written before the sign (as in SO2−4 ). The minus sign is also used, in place of an en dash, for a single covalent bond between two atoms as in the skeletal formula.
+In the International Phonetic Alphabet, subscripted plus and minus signs are used as diacritics to indicate advanced or retracted articulations of speech sounds.
+The minus sign is also used as tone letter in the orthographies of Dan, Krumen, Karaboro, Mwan, Wan, Yaouré, Wè, Nyabwa and Godié. The Unicode character used for the tone letter (U+02D7) is different from the mathematical minus sign.
+The plus sign sometimes represents /ɨ/ in the orthography of Huichol.
+In the algebraic notation used to record games of chess, the plus sign + is used to denote a move that puts the opponent into check, while a double plus ++ is sometimes used to denote double check. Combinations of the plus and minus signs are used to evaluate a move (+/−, +/=, =/+, −/+).
+In linguistics, a superscript plus + sometimes replaces the asterisk, which denotes unattested linguistic reconstruction.
+In botanical names, a plus sign denotes graft-chimaera.
+A plus sign written at the beginning of an international phone number is the "international prefix symbol" that "serves to remind the subscriber to dial the international prefix which differs from country to country and also serves to identify the number following as the international telephone number."
+Character codes
+The hyphen-minus sign, -, is the original ASCII version of the minus sign, which doubles as a hyphen. It is usually shorter in length than the plus sign and often at a different height to the plus-sign's cross bar. It can be used as a substitute for the true minus sign when the character set is limited to ASCII. Most programming languages and other computer readable languages do this, since ASCII is generally available as a subset of most character encodings, while U+2212 is a Unicode feature only. Also several other software programs usable for calculations don't accept the U+2212 minus. For example, pasting =3−2 into Excel or 3−2= into the Windows calculator won't work.
+As the true minus is not available on most keyboard layouts, typographers sometimes use the very similar en dash, U+2013, to represent the minus sign although it is "not preferred" in mathematical typesetting. Ways of producing the en dash are available on most computers; see Dash § Typing the characters.
+Alternative minus signs
+There is a commercial minus sign, ⁒, which is used in Germany and Scandinavia. The symbol ÷ is used to denote subtraction in Scandinavia.
+Alternative plus sign
+A Jewish tradition that dates from at least the 19th century is to write plus using the symbol ﬩. This practice was adopted into Israeli schools and is still commonplace today in elementary schools (including secular schools) but in fewer secondary schools. It is also used occasionally in books by religious authors, but most books for adults use the international symbol +. The reason for this practice is that it avoids the writing of a symbol + that looks like a Christian cross. Unicode has this symbol at position U+FB29 ﬩ HEBREW LETTER ALTERNATIVE PLUS SIGN.
+See also
+References and footnotes

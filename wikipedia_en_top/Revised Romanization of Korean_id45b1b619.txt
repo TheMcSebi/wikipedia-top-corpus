@@ -1,0 +1,25 @@
+Revised Romanization of Korean
+Revised Romanization of Korean (국어의 로마자 표기법; Gug-eoui Romaja Pyogibeop; lit. "Roman-letter notation of the national language") is the official Korean language romanization system in South Korea. It was developed by the National Academy of the Korean Language from 1995 and was released to the public on 7 July 2000 by South Korea's Ministry of Culture and Tourism in Proclamation No. 2000-8.
+The new system addressed problems in the implementation of the McCune–Reischauer system, such as the phenomena where different consonants and vowels became indistinguishable in the absence of special symbols. To be specific, under the McCune–Reischauer system, Korean consonants ㄱ (k), ㄷ (t), ㅂ (p) and ㅈ (ch) and ㅋ (kʼ), ㅌ (tʼ), ㅍ (pʼ) and ㅊ (chʼ) became indistinguishable when the apostrophe was removed. In addition, Korean vowels 어 (ŏ) and 오 (o), as well as 으 (ŭ) and 우 (u), became indistinguishable when the breve was removed. Especially in internet use, where omission of apostrophes and breves is common, this caused many Koreans as well as foreigners confusion. Hence, the revision was made with the belief that if McCune–Reischauer was left unrevised, it would continue to confuse people, both Koreans and foreigners.
+Features
+These are notable features of the Revised Romanization system:
+In addition, special provisions are for regular phonological rules in exceptions to transliteration (see Korean phonology).
+Other rules and recommendations include the following:
+Usage
+In South Korea
+Almost all road signs, names of railway and subway stations on line maps and signs, etc. have been changed according to Revised Romanization of Korean (RR, also called South Korean or Ministry of Culture (MC) 2000). It is estimated to have cost at least 500 billion won to 600 billion won (US$500~600 million) to carry out this procedure. All Korean textbooks, maps and signs to do with cultural heritage were required to comply with the new system by 28 February 2002. Romanization of surnames and existing companies' names has been left untouched because of the reasons explained below. However, the Korean government encourages using the revised romanization of Korean for the new names.
+Exceptions
+Like several European languages that have undergone spelling reforms (such as Portuguese, German or Swedish), the Revised Romanization is not expected to be adopted as the official romanization of Korean family names. This is because the conditions for allowing changes in romanization of surnames in passport is very strict. The reasons are outlined below.
+1. Countries around the world manage information about foreigners who are harmful to the public safety of their countries, including international criminals and illegal immigrants by the Roman name and date of birth of the passport they have used in the past. If a passport holder is free to change their listed Roman name, it would pose a serious risk to border management due to difficulty in determining identities.
+2. The people of a country where it is free to change the official Roman name will be subject to strict immigration checks, which will inevitably cause inconvenience to the people of that country.
+3. Arbitrary changes in the romanization of passports can lead to a fall in the credibility of the passports and national credit, which can have a negative impact on new visa waiver agreements, etc.
+With very few exceptions, it is impossible for a person who has ever left the country under their romanized name to change their family name again. However, South Korea's Ministry of Culture, Sports and Tourism encourages those who “newly” register their romanized names to follow the Revised Romanization of Korean. In addition, North Korea continues to use a version of the McCune–Reischauer system of romanization, a different version of which was in official use in South Korea from 1984 to 2000.
+Outside Korea
+Textbooks and dictionaries intended for students of the Korean language tend to include this Romanization. However, some publishers have acknowledged the difficulties or confusion it can cause for non-native Korean speakers who are unused to the conventions of this style of Romanization.
+Transcription rules
+Consonant letters
+ㄱ, ㄷ, ㅂ and ㄹ are transcribed as g, d, b and r when placed at the initial of a word or before a vowel, and as k, t, p and l when followed by another consonant or when appearing at the end of a word.
+Special provisions
+The revised romanization transcribes certain phonetic changes that occur with combinations of the ending consonant of a character and the initial consonant of the next like Hanguk → Hangugeo. These significant changes occur (highlighted in yellow):
+Phonetic changes between syllables in given names are not transcribed: 정석민 → Jeong Seokmin or Jeong Seok-min, 최빛나 → Choe Bitna or Choe Bit-na.
+Phonological changes are reflected where ㄱ, ㄷ, ㅂ and ㅈ are adjacent to ㅎ: 좋고 → joko, 놓다 → nota, 잡혀 → japyeo, 낳지 → nachi. However, aspirated sounds are not reflected in case of nouns where ㅎ follows ㄱ, ㄷ and ㅂ: 묵호 → Mukho, 집현전 → Jiphyeonjeon.

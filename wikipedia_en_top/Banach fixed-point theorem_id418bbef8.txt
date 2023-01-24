@@ -1,0 +1,29 @@
+Banach fixed-point theorem
+In mathematics, the Banach fixed-point theorem (also known as the contraction mapping theorem or contractive mapping theorem) is an important tool in the theory of metric spaces; it guarantees the existence and uniqueness of fixed points of certain self-maps of metric spaces, and provides a constructive method to find those fixed points. It can be understood as an abstract formulation of Picard's method of successive approximations. The theorem is named after Stefan Banach (1892–1945) who first stated it in 1922.
+Statement
+Definition. Let $MATH$ be a complete metric space. Then a map $MATH$ is called a contraction mapping on X if there exists $MATH$ such that
+for all $MATH$
+Remark 1. The following inequalities are equivalent and describe the speed of convergence:
+Any such value of q is called a Lipschitz constant for $MATH$, and the smallest one is sometimes called "the best Lipschitz constant" of $MATH$.
+Remark 2. $MATH$ for all $MATH$ is in general not enough to ensure the existence of a fixed point, as is shown by the map
+which lacks a fixed point. However, if $MATH$ is compact, then this weaker assumption does imply the existence and uniqueness of a fixed point, that can be easily found as a minimizer of $MATH$, indeed, a minimizer exists by compactness, and has to be a fixed point of $MATH$. It then easily follows that the fixed point is the limit of any sequence of iterations of $MATH$.
+Remark 3. When using the theorem in practice, the most difficult part is typically to define $MATH$ properly so that $MATH$
+Proof
+Let $MATH$ be arbitrary and define a sequence $MATH$ by setting xn = T(xn−1). We first note that for all $MATH$ we have the inequality
+This follows by induction on n, using the fact that T is a contraction mapping. Then we can show that $MATH$ is a Cauchy sequence. In particular, let $MATH$ such that m > n:
+Let ε > 0 be arbitrary. Since q ∈ [0, 1), we can find a large $MATH$ so that
+Therefore, by choosing m and n greater than N we may write:
+This proves that the sequence $MATH$ is Cauchy. By completeness of (X,d), the sequence has a limit $MATH$ Furthermore, $MATH$ must be a fixed point of T:
+As a contraction mapping, T is continuous, so bringing the limit inside T was justified. Lastly, T cannot have more than one fixed point in (X,d), since any pair of distinct fixed points p1 and p2 would contradict the contraction of T:
+Applications
+Converses
+Several converses of the Banach contraction principle exist. The following is due to Czesław Bessaga, from 1959:
+Let f : X → X be a map of an abstract set such that each iterate fn has a unique fixed point. Let $MATH$ then there exists a complete metric on X such that f is contractive, and q is the contraction constant.
+Indeed, very weak assumptions suffice to obtain such a kind of converse. For example if $MATH$ is a map on a T1 topological space with a unique fixed point a, such that for each $MATH$ we have fn(x) → a, then there already exists a metric on X with respect to which f satisfies the conditions of the Banach contraction principle with contraction constant 1/2. In this case the metric is in fact an ultrametric.
+Generalizations
+There are a number of generalizations (some of which are immediate corollaries).
+Let T : X → X be a map on a complete non-empty metric space. Then, for example, some generalizations of the Banach fixed-point theorem are:
+In applications, the existence and uniqueness of a fixed point often can be shown directly with the standard Banach fixed point theorem, by a suitable choice of the metric that makes the map T a contraction. Indeed, the above result by Bessaga strongly suggests to look for such a metric. See also the article on fixed point theorems in infinite-dimensional spaces for generalizations.
+A different class of generalizations arise from suitable generalizations of the notion of metric space, e.g. by weakening the defining axioms for the notion of metric. Some of these have applications, e.g., in the theory of programming semantics in theoretical computer science.
+See also
+Notes

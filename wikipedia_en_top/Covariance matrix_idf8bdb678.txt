@@ -1,0 +1,93 @@
+Covariance matrix
+In probability theory and statistics, a covariance matrix (also known as auto-covariance matrix, dispersion matrix, variance matrix, or variance–covariance matrix) is a square matrix giving the covariance between each pair of elements of a given random vector. Any covariance matrix is symmetric and positive semi-definite and its main diagonal contains variances (i.e., the covariance of each element with itself).
+Intuitively, the covariance matrix generalizes the notion of variance to multiple dimensions. As an example, the variation in a collection of random points in two-dimensional space cannot be characterized fully by a single number, nor would the variances in the $MATH$ and $MATH$ directions contain all of the necessary information; a $MATH$ matrix would be necessary to fully characterize the two-dimensional variation.
+The covariance matrix of a random vector $MATH$ is typically denoted by $MATH$ or $MATH$.
+Definition
+Throughout this article, boldfaced unsubscripted $MATH$ and $MATH$ are used to refer to random vectors, and unboldfaced subscripted $MATH$ and $MATH$ are used to refer to scalar random variables.
+If the entries in the column vector
+are random variables, each with finite variance and expected value, then the covariance matrix $MATH$ is the matrix whose $MATH$ entry is the covariance: p. 177 
+where the operator $MATH$ denotes the expected value (mean) of its argument.
+Conflicting nomenclatures and notations
+Nomenclatures differ. Some statisticians, following the probabilist William Feller in his two-volume book An Introduction to Probability Theory and Its Applications,  call the matrix $MATH$ the variance of the random vector $MATH$, because it is the natural generalization to higher dimensions of the 1-dimensional variance. Others call it the covariance matrix, because it is the matrix of covariances between the scalar components of the vector $MATH$.
+Both forms are quite standard, and there is no ambiguity between them. The matrix $MATH$ is also often called the variance-covariance matrix, since the diagonal terms are in fact variances.
+By comparison, the notation for the cross-covariance matrix between two vectors is 
+Properties
+Relation to the autocorrelation matrix
+The auto-covariance matrix $MATH$ is related to the autocorrelation matrix $MATH$ by
+where the autocorrelation matrix is defined as $MATH$.
+Relation to the correlation matrix
+An entity closely related to the covariance matrix is the matrix of Pearson product-moment correlation coefficients between each of the random variables in the random vector $MATH$, which can be written as
+where  $MATH$ is the matrix of the diagonal elements of $MATH$ (i.e., a diagonal matrix of the variances of $MATH$  for $MATH$).
+Equivalently, the correlation matrix can be seen as the covariance matrix of the standardized random variables $MATH$ for $MATH$.
+Each element on the principal diagonal of a correlation matrix is the correlation of a random variable with itself, which always equals 1. Each off-diagonal element is between −1 and +1 inclusive.
+Inverse of the covariance matrix
+The inverse of this matrix, $MATH$, if it exists, is the inverse covariance matrix (or inverse concentration matrix), also known as the precision matrix (or concentration matrix).
+Just as the covariance matrix can be written as the rescaling of a correlation matrix by the marginal variances: 
+$MATH$
+So, using the idea of partial correlation, and partial variance, the inverse covariance matrix can be expressed analogously:
+$MATH$
+This duality motivates a number of other dualities between marginalizing and conditioning for gaussian random variables.
+Basic properties
+For $MATH$ and $MATH$, where $MATH$ is a $MATH$-dimensional random variable, the following basic properties apply:
+Block matrices
+The joint mean $MATH$ and joint covariance matrix $MATH$ of $MATH$ and $MATH$ can be written in block form
+where $MATH$, $MATH$ and $MATH$.
+$MATH$ and $MATH$ can be identified as the variance matrices of the marginal distributions for $MATH$ and $MATH$ respectively.
+If $MATH$ and $MATH$ are jointly normally distributed,
+then the conditional distribution for $MATH$ given $MATH$ is given by
+defined by conditional mean
+and conditional variance
+The matrix $MATH$ is known as the matrix of regression coefficients, while in linear algebra $MATH$ is the Schur complement of $MATH$ in $MATH$.
+The matrix of regression coefficients may often be given in transpose form, $MATH$, suitable for post-multiplying a row vector of explanatory variables $MATH$ rather than pre-multiplying a column vector $MATH$. In this form they correspond to the coefficients obtained by inverting the matrix of the normal equations of ordinary least squares (OLS).
+Partial covariance matrix
+A covariance matrix with all non-zero elements tells us that all the individual random variables are interrelated. This means that the variables are not only directly correlated, but also correlated via other variables indirectly. Often such indirect, common-mode correlations are trivial and uninteresting. They can be suppressed by calculating the partial covariance matrix, that is the part of covariance matrix that shows only the interesting part of correlations.
+If two vectors of random variables $MATH$ and $MATH$ are correlated via another vector $MATH$, the latter correlations are suppressed in a matrix
+The partial covariance matrix $MATH$ is effectively the simple covariance matrix $MATH$ as if the uninteresting random variables $MATH$ were held constant.
+Covariance matrix as a parameter of a distribution
+If a column vector $MATH$ of $MATH$ possibly correlated random variables is jointly normally distributed, or more generally elliptically distributed, then its probability density function $MATH$ can be expressed in terms of the covariance matrix $MATH$ as follows
+where $MATH$ and $MATH$ is the determinant of $MATH$.
+Covariance matrix as a linear operator
+Applied to one vector, the covariance matrix maps a linear combination c of the random variables X onto a vector of covariances with those variables: $MATH$. Treated as a bilinear form, it yields the covariance between the two linear combinations: $MATH$. The variance of a linear combination is then $MATH$, its covariance with itself.
+Similarly, the (pseudo-)inverse covariance matrix provides an inner product $MATH$, which induces the Mahalanobis distance, a measure of the "unlikelihood" of c.
+Which matrices are covariance matrices?
+From the identity just above, let $MATH$ be a $MATH$ real-valued vector, then
+which must always be nonnegative, since it is the variance of a real-valued random variable, so a covariance matrix is always a positive-semidefinite matrix.
+
+
+The above argument can be expanded as follows:
+where the last inequality follows from the observation that $MATH$ is a scalar.
+Conversely, every symmetric positive semi-definite matrix is a covariance matrix. To see this, suppose $MATH$ is a $MATH$ symmetric positive-semidefinite matrix. From the finite-dimensional case of the spectral theorem, it follows that $MATH$ has a nonnegative symmetric square root, which can be denoted by M1/2. Let $MATH$ be any $MATH$ column vector-valued random variable whose covariance matrix is the $MATH$ identity matrix. Then
+Complex random vectors
+The variance of a complex scalar-valued random variable with expected value $MATH$ is conventionally defined using complex conjugation:
+where the complex conjugate of a complex number $MATH$ is denoted $MATH$; thus the variance of a complex random variable is a real number.
+If $MATH$ is a column vector of complex-valued random variables, then the conjugate transpose $MATH$ is formed by both transposing and conjugating. In the following expression, the product of a vector with its conjugate transpose results in a square matrix called the covariance matrix, as its expectation:: p. 293 
+The matrix so obtained will be Hermitian positive-semidefinite, with real numbers in the main diagonal and complex numbers off-diagonal.
+Pseudo-covariance matrix
+For complex random vectors, another kind of second central moment, the pseudo-covariance matrix (also called relation matrix) is defined as follows:
+In contrast to the covariance matrix defined above, Hermitian transposition gets replaced by transposition in the definition.
+Its diagonal elements may be complex valued; it is a complex symmetric matrix.
+Estimation
+If $MATH$ and $MATH$ are centred data matrices of dimension $MATH$ and $MATH$ respectively, i.e. with n columns of observations of p and q rows of variables, from which the row means have been subtracted, then, if the row means were estimated from the data, sample covariance matrices $MATH$ and $MATH$ can be defined to be
+or, if the row means were known a priori,
+These empirical sample covariance matrices are the most straightforward and most often used estimators for the covariance matrices, but other estimators also exist, including regularised or shrinkage estimators, which may have better properties.
+Applications
+The covariance matrix is a useful tool in many different areas. From it a transformation matrix can be derived, called a whitening transformation, that allows one to completely decorrelate the data or, from a different point of view, to find an optimal basis for representing the data in a compact way (see Rayleigh quotient for a formal proof and additional properties of covariance matrices).
+This is called principal component analysis (PCA) and the Karhunen–Loève transform (KL-transform).
+The covariance matrix plays a key role in financial economics, especially in portfolio theory and its mutual fund separation theorem and in the capital asset pricing model. The matrix of covariances among various assets' returns is used to determine, under certain assumptions, the relative amounts of different assets that investors should (in a normative analysis) or are predicted to (in a positive analysis) choose to hold in a context of diversification.
+Use in optimization
+The evolution strategy, a particular family of Randomized Search Heuristics, fundamentally relies on a covariance matrix in its mechanism. The characteristic mutation operator draws the update step from a multivariate normal distribution using an evolving covariance matrix. There is a formal proof that the evolution strategy's covariance matrix adapts to the inverse of the Hessian matrix of the search landscape, up to a scalar factor and small random fluctuations (proven for a single-parent strategy and a static model, as the population size increases, relying on the quadratic approximation). 
+Intuitively, this result is supported by the rationale that the optimal covariance distribution can offer mutation steps whose equidensity probability contours match the level sets of the landscape, and so they maximize the progress rate.
+Covariance mapping
+In covariance mapping the values of the $MATH$ or $MATH$ matrix are plotted as a 2-dimensional map. When vectors $MATH$ and $MATH$ are discrete random functions, the map shows statistical relations between different regions of the random functions. Statistically independent regions of the functions show up on the map as zero-level flatland, while positive or negative correlations show up, respectively, as hills or valleys.
+In practice the column vectors $MATH$, and $MATH$ are acquired experimentally as rows of $MATH$ samples, e.g.
+where $MATH$ is the i-th discrete value in sample j of the random function $MATH$. The expected values needed in the covariance formula are estimated using the sample mean, e.g.
+and the covariance matrix is estimated by the sample covariance matrix
+where the angular brackets denote sample averaging as before except that the Bessel's correction should be made to avoid bias. Using this estimation the partial covariance matrix can be calculated as
+where the backslash denotes the left matrix division operator, which bypasses the requirement to invert a matrix and is available in some computational packages such as Matlab.
+Fig. 1 illustrates how a partial covariance map is constructed on an example of an experiment performed at the FLASH free-electron laser in Hamburg. The random function $MATH$ is the time-of-flight spectrum of ions from a Coulomb explosion of nitrogen molecules multiply ionised by a laser pulse. Since only a few hundreds of molecules are ionised at each laser pulse, the single-shot spectra are highly fluctuating. However, collecting typically $MATH$ such spectra, $MATH$, and averaging them over $MATH$ produces a smooth spectrum $MATH$, which is shown in red at the bottom of Fig. 1. The average spectrum $MATH$ reveals several nitrogen ions in a form of peaks broadened by their kinetic energy, but to find the correlations between the ionisation stages and the ion momenta requires calculating a covariance map.
+In the example of Fig. 1 spectra $MATH$ and $MATH$ are the same, except that the range of the time-of-flight $MATH$ differs. Panel a shows $MATH$, panel b shows $MATH$ and panel c shows their difference, which is $MATH$ (note a change in the colour scale). Unfortunately, this map is overwhelmed by uninteresting, common-mode correlations induced by laser intensity fluctuating from shot to shot. To suppress such correlations the laser intensity $MATH$ is recorded at every shot, put into $MATH$ and $MATH$ is calculated as panels d and e show. The suppression of the uninteresting correlations is, however, imperfect because there are other sources of common-mode fluctuations than the laser intensity and in principle all these sources should be monitored in vector $MATH$. Yet in practice it is often sufficient to overcompensate the partial covariance correction as panel f shows, where interesting correlations of ion momenta are now clearly visible as straight lines centred on ionisation stages of atomic nitrogen.
+Two-dimensional infrared spectroscopy
+Two-dimensional infrared spectroscopy employs correlation analysis to obtain 2D spectra of the condensed phase. There are two versions of this analysis: synchronous and asynchronous. Mathematically, the former is expressed in terms of the sample covariance matrix and the technique is equivalent to covariance mapping.
+See also
+References
+Further reading

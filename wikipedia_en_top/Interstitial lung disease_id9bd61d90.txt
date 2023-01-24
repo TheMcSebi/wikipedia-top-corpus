@@ -1,0 +1,62 @@
+Interstitial lung disease
+Interstitial lung disease (ILD), or diffuse parenchymal lung disease (DPLD), is a group of respiratory diseases affecting the interstitium (the tissue and space around the alveoli (air sacs)) of the lungs. It concerns alveolar epithelium, pulmonary capillary endothelium, basement membrane, and perivascular and perilymphatic tissues. It may occur when an injury to the lungs triggers an abnormal healing response. Ordinarily, the body generates just the right amount of tissue to repair damage, but in interstitial lung disease, the repair process is disrupted, and the tissue around the air sacs (alveoli) becomes scarred and thickened. This makes it more difficult for oxygen to pass into the bloodstream. The disease presents itself with the following symptoms: shortness of breath, nonproductive coughing, fatigue, and weight loss, which tend to develop slowly, over several months. The average rate of survival for someone with this disease is between three and five years. The term ILD is used to distinguish these diseases from obstructive airways diseases.
+There are specific types in children, known as children's interstitial lung diseases. The acronym ChILD is sometimes used for this group of diseases.
+Prolonged ILD may result in pulmonary fibrosis, but this is not always the case. Idiopathic pulmonary fibrosis is interstitial lung disease for which no obvious cause can be identified (idiopathic) and is associated with typical findings both radiographic (basal and pleural-based fibrosis with honeycombing) and pathologic (temporally and spatially heterogeneous fibrosis, histopathologic honeycombing, and fibroblastic foci).
+In 2015, interstitial lung disease, together with pulmonary sarcoidosis, affected 1.9 million people. They resulted in 122,000 deaths.
+Causes
+An ILD may be classified as to whether its cause is not known (idiopathic) or known (secondary).
+Idiopathic
+Idiopathic interstitial pneumonia is the term given to ILDs with an unknown cause. They represent the majority of cases of interstitial lung diseases (up to two-thirds of cases). They were subclassified by the American Thoracic Society in 2002 into 7 subgroups:
+Secondary
+Secondary ILDs are those diseases with a known etiology, including:
+Diagnosis
+Investigation is tailored towards the symptoms and signs. A proper and detailed history looking for the occupational exposures, and for signs of conditions listed above is the first and probably the most important part of the workup in patients with interstitial lung disease. Pulmonary function tests usually show a restrictive defect with decreased diffusion capacity (DLCO).
+A lung biopsy is required if the clinical history and imaging are not clearly suggestive of a specific diagnosis or malignancy cannot otherwise be ruled out. In cases where a lung biopsy is indicated, a trans-bronchial biopsy is usually unhelpful, and a surgical lung biopsy is often required.
+X-rays
+Chest radiography is usually the first test to detect interstitial lung diseases, but the chest radiograph can be normal in up to 10% of patients, especially early in the disease process.
+High resolution CT of the chest is the preferred modality, and differs from routine CT of the chest. Conventional (regular) CT chest examines 7–10 mm slices obtained
+at 10 mm intervals; high resolution CT examines 1–1.5 mm slices at 10 mm
+intervals using a high spatial frequency reconstruction algorithm. The HRCT therefore provides approximately 10 times more resolution than the conventional CT chest,  allowing the HRCT to elicit details that cannot otherwise be visualized.
+Radiologic appearance alone however is not adequate and should be interpreted in the clinical context, keeping in mind the temporal profile of the disease process.
+Interstitial lung diseases can be classified according to radiologic patterns.
+Pattern of opacities
+Acute: Alveolar hemorrhage syndromes, acute eosinophilic pneumonia, acute interstitial pneumonia, cryptogenic organizing pneumonia
+Chronic: Chronic eosinophilic pneumonia, cryptogenic organizing pneumonia, lymphoproliferative disorders, pulmonary alveolar proteinosis, sarcoidosis
+Acute: Pulmonary edema
+Chronic: Idiopathic pulmonary fibrosis, connective tissue-associated interstitial lung diseases, asbestosis, sarcoidosis, hypersensitivity pneumonitis, drug-induced lung disease
+Acute: Hypersensitivity pneumonitis
+Chronic: Hypersensitivity pneumonitis, sarcoidosis, silicosis, coal workers pneumoconiosis, respiratory bronchiolitis, alveolar microlithiasis
+Chronic: Pulmonary langerhans cell histiocytosis, pulmonary lymphangioleiomyomatosis, honeycomb lung caused by IPF or other diseases
+Ground glass opacities
+Acute: Alveolar hemorrhage syndromes, pulmonary edema, hypersensitivity pneumonitis, acute inhalational exposures, drug-induced lung diseases, acute interstitial pneumonia
+Chronic:  Nonspecific interstitial pneumonia, respiratory bronchiolitis associated interstitial lung disease, desquamative interstitial pneumonia, drug-induced lung diseases, pulmonary alveolar proteinosis
+Acute: Pulmonary edema
+Chronic: Lymphangitic carcinomatosis, pulmonary alveolar proteinosis, sarcoidosis, pulmonary veno occlusive disease
+Distribution
+Pulmonary Langerhans cell histiocytosis, silicosis, coal workers pneumoconiosis, carmustine related pulmonary fibrosis,  respiratory broncholitis associated with interstitial lung disease.
+Idiopathic pulmonary fibrosis, pulmonary fibrosis associated with connective tissue diseases, asbestosis, chronic aspiration
+Sarcoidosis, berylliosis
+Idiopathic pulmonary fibrosis, chronic eosinophilic pneumonia, cryptogenic organizing pneumonia
+Associated findings
+Pulmonary edema, connective tissue diseases, asbestosis, lymphangitic carcinomatosis, lymphoma, lymphangioleiomyomatosis, drug-induced lung diseases
+Sarcoidosis, silicosis, berylliosis, lymphangitic carcinomatosis, lymphoma, lymphocytic interstitial pneumonia
+Genetic testing
+For some types of paediatric ILDs and few forms adult ILDs, genetic causes have been identified. These may be identified by blood tests. For a limited number of cases, this is a definite advantage, as a precise molecular diagnosis can be done; frequently then there is no need for a lung biopsy. Testing is available for
+ILDs related to alveolar surfactant region
+Surfactant-Protein-B Deficiency (Mutations in SFTPB)
+Surfactant-Protein-C Deficiency (Mutations in SFTPC)
+ABCA3-Deficiency (Mutations in ABCA3)
+Brain Lung Thyroid Syndrome (Mutations in TTF1)
+Congenital Pulmonary Alveolar Proteinosis (Mutations in CSFR2A, CSFR2B)
+Diffuse developmental disorder
+Alveolar Capillary Dysplasia (Mutations in FoxF1)
+Idiopathic pulmonary fibrosis
+Mutations in telomerase reverse transcriptase (TERT)
+Mutations in telomerase RNA component (TERC)
+Mutations in the regulator of telomere elongation helicase 1 (RTEL1)
+Mutations in poly(A)-specific ribonuclease (PARN)
+Treatment
+ILD is not a single disease but encompasses many different pathological processes. Hence treatment is different for each disease. If a specific occupational exposure cause is found, the person should avoid that environment. If a drug cause is suspected, that drug should be discontinued.
+Many cases due to unknown or connective tissue-based causes are treated with corticosteroids, such as prednisolone. Some people respond to immunosuppressant treatment. Oxygen therapy at home is recommended in those with significantly low oxygen levels.
+Pulmonary rehabilitation appears to be useful with the benefits being sustainable longer term with improvement in exercise capacity, dyspnoea, and quality of life.  Lung transplantation is an option if the ILD progresses despite therapy in appropriately selected patients with no other contraindications.
+On October 16, 2014, the Food and Drug Administration approved a new drug for the treatment of Idiopathic Pulmonary Fibrosis (IPF). This drug, Ofev (nintedanib), is marketed by  Boehringer Ingelheim Pharmaceuticals, Inc. This drug has been shown to slow the decline of lung function although the drug has not been shown to reduce mortality or improve lung function. The estimated cost of the drug per year is approximately $94,000.

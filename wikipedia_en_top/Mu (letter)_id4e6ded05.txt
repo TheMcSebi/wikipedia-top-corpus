@@ -1,0 +1,37 @@
+Mu (letter)
+Mu /ˈm(j)uː/ (uppercase Μ, lowercase μ; Ancient Greek μῦ [mŷː], Greek: μι or μυ—both [mi]) is the 12th letter of the Greek alphabet, representing the voiced bilabial nasal IPA: [m]. In the system of Greek numerals it has a value of 40. Mu was derived from the Egyptian hieroglyphic symbol for water, which had been simplified by the Phoenicians and named after their word for water, to become 𐤌img (mem). Letters that derive from mu include the Roman M and the Cyrillic М.
+Names
+Ancient Greek
+In Ancient Greek, the name of the letter was written μῦ and pronounced [mŷː]
+Modern Greek
+In Modern Greek, the letter is spelled μι and pronounced [mi]. In polytonic orthography, it is written with an acute accent: μί.
+Use as symbol
+The lowercase letter mu (μ) is used as a special symbol in many academic fields. Uppercase mu is not used, because it appears identical to Latin  M.
+Measurement
+Mathematics
+"μ" is conventionally used to denote certain things; however, any Greek letter or other symbol may be used freely as a variable name.
+Physics and engineering
+In classical physics and engineering:
+In particle physics:
+In thermodynamics:
+Computer science
+In evolutionary algorithms:
+In type theory:
+Chemistry
+In chemistry:
+Biology
+In biology:
+Pharmacology
+In pharmacology:
+Orbital mechanics
+In orbital mechanics:
+Music
+Cameras
+The Olympus Corporation manufactures a series of digital cameras called Olympus μ [mju:] (known as Olympus Stylus in North America)
+Linguistics
+In phonology:
+In syntax:
+In Celtic linguistics:
+Character encodings
+These characters are used only as mathematical symbols. Stylized Greek text should be encoded using the normal Greek letters, with markup and formatting to indicate text style.
+Image list for readers with font problems

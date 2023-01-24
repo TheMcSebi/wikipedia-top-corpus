@@ -1,0 +1,84 @@
+Gauss's law
+In physics and electromagnetism, Gauss's law, also known as Gauss's flux theorem, (or sometimes simply called Gauss's theorem) is a law relating the distribution of electric charge to the resulting electric field. In its integral form, it states that the flux of the electric field out of an arbitrary closed surface is proportional to the electric charge enclosed by the surface, irrespective of how that charge is distributed. Even though the law alone is insufficient to determine the electric field across a surface enclosing any charge distribution, this may be possible in cases where symmetry mandates uniformity of the field. Where no such symmetry exists, Gauss's law can be used in its differential form, which states that the divergence of the electric field is proportional to the local density of charge. 
+The law was first formulated by Joseph-Louis Lagrange in 1773, followed by Carl Friedrich Gauss in 1835, both in the context of the attraction of ellipsoids. It is one of Maxwell's four equations, which forms the basis of classical electrodynamics. Gauss's law can be used to derive Coulomb's law, and vice versa.
+Qualitative description
+In words, Gauss's law states:
+Gauss's law has a close mathematical similarity with a number of laws in other areas of physics, such as Gauss's law for magnetism and Gauss's law for gravity. In fact, any inverse-square law can be formulated in a way similar to Gauss's law: for example, Gauss's law itself is essentially equivalent to the Coulomb's law, and Gauss's law for gravity is essentially equivalent to the Newton's law of gravity, both of which are inverse-square laws.
+The law can be expressed mathematically using vector calculus in integral form and differential form; both are equivalent since they are related by the divergence theorem, also called Gauss's theorem. Each of these forms in turn can also be expressed two ways: In terms of a relation between the electric field E and the total electric charge, or in terms of the electric displacement field D and the free electric charge.
+Equation involving the E field
+Gauss's law can be stated using either the electric field E or the electric displacement field D. This section shows some of the forms with E; the form with D is below, as are other forms with E.
+Integral form
+Gauss's law may be expressed as:
+where ΦE is the electric flux through a closed surface S enclosing any volume V, Q is the total charge enclosed within V, and ε0 is the electric constant. The electric flux ΦE is defined as a surface integral of the electric field:
+where E is the electric field, dA is a vector representing an infinitesimal element of area of the surface, and · represents the dot product of two vectors.
+In a curved spacetime, the flux of an electromagnetic field through a closed surface is expressed as 
+where $MATH$ is the speed of light; $MATH$ denotes the time components of the electromagnetic tensor; $MATH$ is the determinant of metric tensor; $MATH$ is an orthonormal element of the two-dimensional surface surrounding the charge $MATH$; indices $MATH$ and do not match each other.
+Since the flux is defined as an integral of the electric field, this expression of Gauss's law is called the integral form.
+In problems involving conductors set at known potentials, the potential away from them is obtained by solving Laplace's equation, either analytically or numerically. The electric field is then  calculated as the potential's negative gradient. Gauss's law makes it possible to find the distribution of electric charge: The charge in any given region of the conductor can be deduced by integrating the electric field to find the flux through a small box whose sides are perpendicular to the conductor's surface and by noting that the electric field is perpendicular to the surface, and zero inside the conductor. 
+The reverse problem, when the electric charge distribution is known and the electric field must be computed, is much more difficult.  The total flux through a given surface gives little information about the electric field, and can go in and out of the surface in arbitrarily complicated patterns.
+An exception is if there is some symmetry in the problem, which mandates that the electric field passes through the surface in a uniform way. Then, if the total flux is known, the field itself can be deduced at every point. Common examples of symmetries which lend themselves to Gauss's law include: cylindrical symmetry, planar symmetry, and spherical symmetry. See the article Gaussian surface for examples where these symmetries are exploited to compute electric fields.
+Differential form
+By the divergence theorem, Gauss's law can alternatively be written in the differential form:
+where ∇ · E is the divergence of the electric field, ε0 is the vacuum permittivity, $MATH$ is the relative permittivity, and ρ is the volume charge density (charge per unit volume).
+Equivalence of integral and differential forms
+The integral and differential forms are mathematically equivalent, by the divergence theorem. Here is the argument more specifically.
+The integral form of Gauss' law is:
+for any closed surface S containing charge Q. By the divergence theorem, this equation is equivalent to:
+for any volume V containing charge Q. By the relation between charge and charge density, this equation is equivalent to:
+for any volume V. In order for this equation to be simultaneously true for every possible volume V, it is necessary (and sufficient) for the integrands to be equal everywhere. Therefore, this equation is equivalent to:
+Thus the integral and differential forms are equivalent.
+Equation involving the D field
+Free, bound, and total charge
+The electric charge that arises in the simplest textbook situations would be classified as "free charge"—for example, the charge which is transferred in static electricity, or the charge on a capacitor plate. In contrast, "bound charge" arises only in the context of dielectric (polarizable) materials. (All materials are polarizable to some extent.) When such materials are placed in an external electric field, the electrons remain bound to their respective atoms, but shift a microscopic distance in response to the field, so that they're more on one side of the atom than the other. All these microscopic displacements add up to give a macroscopic net charge distribution, and this constitutes the "bound charge".
+Although microscopically all charge is fundamentally the same, there are often practical reasons for wanting to treat bound charge differently from free charge. The result is that the more fundamental Gauss's law, in terms of E (above), is sometimes put into the equivalent form below, which is in terms of D and the free charge only.
+Integral form
+This formulation of Gauss's law states the total charge form:
+where ΦD is the D-field flux through a surface S which encloses a volume V, and Qfree is the free charge contained in V. The flux ΦD is defined analogously to the flux ΦE of the electric field E through S:
+Differential form
+The differential form of Gauss's law, involving free charge only, states:
+where ∇ · D is the divergence of the electric displacement field, and ρfree is the free electric charge density.
+Equivalence of total and free charge statements
+In this proof, we will show that the equation
+is equivalent to the equation
+Note that we are only dealing with the differential forms, not the integral forms, but that is sufficient since the differential and integral forms are equivalent in each case, by the divergence theorem.
+We introduce the polarization density P, which has the following relation to E and D:
+and the following relation to the bound charge:
+Now, consider the three equations:
+The key insight is that the sum of the first two equations is the third equation. This completes the proof: The first equation is true by definition, and therefore the second equation is true if and only if the third equation is true. So the second and third equations are equivalent, which is what we wanted to prove.
+Equation for linear materials
+In homogeneous, isotropic, nondispersive, linear materials, there is a simple relationship between E and D:
+where ε is the permittivity of the material. For the case of vacuum (aka free space), ε = ε0. Under these circumstances, Gauss's law modifies to
+for the integral form, and
+for the differential form.
+Interpretations
+In terms of fields of force
+Gauss's theorem can be interpreted in terms of the lines of force of the field as follows:
+The flux through a closed surface is dependent upon both the magnitude and direction of the electric field lines penetrating the surface. In general a positive flux is defined by these lines leaving the surface and negative flux by lines entering this surface. This results in positive charges causing a positive flux and negative charges  creating a negative flux. These electric field lines will extend to infinity decreasing in strength by a factor of one over the distance from the source of the charge squared. The larger the number of field lines emanating from a charge the larger the magnitude of the charge is, and the closer together the field lines are the greater the magnitude of the electric field. This has the natural result of the electric field becoming weaker as one moves away from a charged particle, but the surface area also increases so that the net electric field exiting this particle will stay the same. In other words the closed integral of the electric field and the dot product of the derivative of the area will equal the net charge enclosed divided by permittivity of free space.
+Relation to Coulomb's law
+Deriving Gauss's law from Coulomb's law
+Strictly speaking, Gauss's law cannot be derived from Coulomb's law alone, since Coulomb's law gives the electric field due to an individual, electrostatic point charge only. However, Gauss's law can be proven from Coulomb's law if it is assumed, in addition, that the electric field obeys the superposition principle, and that the point charge is electrostatic. The superposition principle states that the resulting field is the vector sum of fields generated by each particle (or the integral, if the charges are distributed smoothly in space).
+Coulomb's law states that the electric field due to a stationary point charge is:
+where
+Using the expression from Coulomb's law, we get the total field at r by using an integral to sum the field at r due to the infinitesimal charge at each other point s in space, to give
+where ρ is the charge density. If we take the divergence of both sides of this equation with respect to r, and use the known theorem
+where δ(r) is the Dirac delta function, the result is
+Using the "sifting property" of the Dirac delta function, we arrive at
+which is the differential form of Gauss' law, as desired.
+Since Coulomb's law only applies to stationary charges, there is no reason to expect Gauss's law to hold for moving charges based on this derivation alone. In fact, Gauss's law does hold for moving charges, and in this respect Gauss's law is more general than Coulomb's law.
+It is true for all $MATH$ that $MATH$.
+Consider now a compact set $MATH$ having a piecewise smooth boundary $MATH$ such that $MATH$. It follows that $MATH$ and so, for the divergence theorem:
+But because $MATH$,
+Therefore the flux through a closed surface generated by some charge density outside (the surface) is null.
+Now consider $MATH$, and $MATH$  as the sphere centered in $MATH$ having $MATH$ as radius (it exists because $MATH$ is an open set).
+Let $MATH$ and $MATH$ be the electric field created inside and outside the sphere respectively. Then,
+The last equality follows by observing that $MATH$, and the argument above.
+The RHS is the electric flux generated by a charged sphere, and so:
+Where the last equality follows by the mean value theorem for integrals. Using the squeeze theorem and the continuity of $MATH$, one arrives at:
+Deriving Coulomb's law from Gauss's law
+Strictly speaking, Coulomb's law cannot be derived from Gauss's law alone, since Gauss's law does not give any information regarding the curl of E (see Helmholtz decomposition and Faraday's law). However, Coulomb's law can be proven from Gauss's law if it is assumed, in addition, that the electric field from a point charge is spherically symmetric (this assumption, like Coulomb's law itself, is exactly true if the charge is stationary, and approximately true if the charge is in motion).
+Taking S in the integral form of Gauss' law to be a spherical surface of radius r, centered at the point charge Q, we have
+By the assumption of spherical symmetry, the integrand is a constant which can be taken out of the integral. The result is
+where r̂ is a unit vector pointing radially away from the charge. Again by spherical symmetry, E points in the radial direction, and so we get
+which is essentially equivalent to Coulomb's law. Thus the inverse-square law dependence of the electric field in Coulomb's law follows from Gauss' law.
+See also
+Notes

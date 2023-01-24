@@ -1,0 +1,119 @@
+Tetration
+In mathematics, tetration (or hyper-4) is an operation based on iterated, or repeated, exponentiation. There is no standard notation for tetration, though $MATH$ and the left-exponent xb are common.
+Under the definition as repeated exponentiation, $MATH$ means $MATH$, where n copies of a are iterated via exponentiation, right-to-left, i.e. the application of exponentiation $MATH$ times. n is called the "height" of the function, while a is called the "base," analogous to exponentiation. It would be read as "the nth tetration of a".
+It is the next hyperoperation after exponentiation, but before pentation. The word was coined by Reuben Louis Goodstein from tetra- (four) and iteration.
+Tetration is also defined recursively as
+allowing for attempts to extend tetration to non-natural numbers such as real and complex numbers.
+The two inverses of tetration are called super-root and super-logarithm, analogous to the nth root and the logarithmic functions. None of the three functions are elementary.
+Tetration is used for the notation of very large numbers.
+Introduction
+The first four hyperoperations are shown here, with tetration being considered the fourth in the series. The unary operation succession, defined as $MATH$, is considered to be the zeroth operation.
+Note that nested exponents are conventionally interpreted from the top down: 357 means 3(57) and not (35)7.
+Succession, (a′ = a + 1), is the most basic operation; while addition (a + n) is a primary operation, for addition of natural numbers it can be thought of as a chained succession of n successors of a; multiplication (a × n) is also a primary operation, though for natural numbers it can analogously be thought of as a chained addition involving n numbers of a. Exponentiation can be thought of as a chained multiplication involving n numbers of a and tetration ($MATH$) as a chained power involving n numbers a. Each of the operations above are defined by iterating the previous one; however, unlike the operations before it, tetration is not an elementary function.
+The parameter a is referred to as the base, while the parameter n may be referred to as the height. In the original definition of tetration, the height parameter must be a natural number; for instance, it would be illogical to say "three raised to itself negative five times" or "four raised to itself one half of a time." However, just as addition, multiplication, and exponentiation can be defined in ways that allow for extensions to real and complex numbers, several attempts have been made to generalize tetration to negative numbers, real numbers, and complex numbers. One such way for doing so is using a recursive definition for tetration; for any positive real $MATH$ and non-negative integer $MATH$, we can define $MATH$ recursively as:
+The recursive definition is equivalent to repeated exponentiation for natural heights; however, this definition allows for extensions to the other heights such as $MATH$, $MATH$, and $MATH$ as well – many of these extensions are areas of active research.
+Terminology
+There are many terms for tetration, each of which has some logic behind it, but some have not become commonly used for one reason or another. Here is a comparison of each term with its rationale and counter-rationale.
+Owing in part to some shared terminology and similar notational symbolism, tetration is often confused with closely related functions and expressions. Here are a few related terms:
+In the first two expressions a is the base, and the number of times a appears is the height (add one for x). In the third expression, n is the height, but each of the bases is different.
+Care must be taken when referring to iterated exponentials, as it is common to call expressions of this form iterated exponentiation, which is ambiguous, as this can either mean iterated powers or iterated exponentials.
+Notation
+There are many different notation styles that can be used to express tetration. Some notations can also be used to describe other hyperoperations, while some are limited to tetration and have no immediate extension.
+One notation above uses iterated exponential notation; this is defined in general as follows:
+There are not as many notations for iterated exponentials, but here are a few:
+Examples
+Because of the extremely fast growth of tetration, most values in the following table are too large to write in scientific notation. In these cases, iterated exponential notation is used to express them in base 10. The values containing a decimal point are approximate.
+Remark: If x does not differ from 10 by orders of magnitude, then for all $MATH$. For example, $MATH$ in the above table, and the difference is even smaller for the following rows.
+Properties
+Tetration has several properties that are similar to exponentiation, as well as properties that are specific to the operation and are lost or gained from exponentiation. Because exponentiation does not commute, the product and power rules do not have an analogue with tetration; the statements $MATH$ and $MATH$ are not true for most cases.
+However, tetration does follow a different property, in which $MATH$. This fact is most clearly shown using the recursive definition. From this property, a proof follows that $MATH$, which allows for switching b and c in certain equations. The proof goes as follows:
+When a number x and 10 are coprime, it is possible to compute the last m decimal digits of $MATH$ using Euler's theorem, for any integer m. This is also true in other bases: for example, the last m octal digits of $MATH$ can be computed when x and 8 are coprime.
+Direction of evaluation
+When evaluating tetration expressed as an "exponentiation tower", the serial exponentiation is done at the deepest level first (in the notation, at the apex). For example:
+This order is important because exponentiation is not associative, and evaluating the expression in the opposite order will lead to a different answer:
+Evaluating the expression the left to right is considered less interesting; evaluating left to right, any expression $MATH$ can be simplified to be $MATH$. Because of this, the towers must be evaluated from right to left (or top to bottom). Computer programmers refer to this choice as right-associative.
+Extensions
+Tetration can be extended in two different ways; in the equation $MATH$, both the base a and the height n can be generalized using the definition and properties of tetration. Although the base and the height can be extended beyond the non-negative integers to different domains, including $MATH$, complex functions such as $MATH$, and heights of infinite n, the more limited properties of tetration reduce the ability to extend tetration.
+Base zero
+The exponential $MATH$ is not consistently defined. Thus, the tetrations $MATH$ are not clearly defined by the formula given earlier. However, $MATH$ is well defined, and exists:
+Thus we could consistently define $MATH$. This is analogous to defining $MATH$.
+Under this extension, $MATH$, so the rule $MATH$ from the original definition still holds.
+Complex bases
+Since complex numbers can be raised to powers, tetration can be applied to bases of the form z = a + bi (where a and b are real). For example, in nz with z = i, tetration is achieved by using the principal branch of the natural logarithm; using Euler's formula we get the relation:
+This suggests a recursive definition for n+1i = a′ + b′i given any ni = a + bi:
+The following approximate values can be derived:
+Solving the inverse relation, as in the previous section, yields the expected 0i = 1 and −1i = 0, with negative values of n giving infinite results on the imaginary axis. Plotted in the complex plane, the entire sequence spirals to the limit 0.4383 + 0.3606i, which could be interpreted as the value where n is infinite.
+Such tetration sequences have been studied since the time of Euler, but are poorly understood due to their chaotic behavior. Most published research historically has focused on the convergence of the infinitely iterated exponential function. Current research has greatly benefited by the advent of powerful computers with fractal and symbolic mathematics software. Much of what is known about tetration comes from general knowledge of complex dynamics and specific research of the exponential map.
+Infinite heights
+Tetration can be extended to infinite heights; i.e., for certain a and n values in $MATH$, there exists a well defined result for an infinite n. This is because for bases within a certain interval, tetration converges to a finite value as the height tends to infinity. For example, $MATH$ converges to 2, and can therefore be said to be equal to 2. The trend towards 2 can be seen by evaluating a small finite tower:
+In general, the infinitely iterated exponential $MATH$, defined as the limit of $MATH$ as n goes to infinity, converges for e−e ≤ x ≤ e1/e, roughly the interval from 0.066 to 1.44, a result shown by Leonhard Euler. The limit, should it exist, is a positive real solution of the equation y = xy. Thus, x = y1/y. The limit defining the infinite exponential of x does not exist when x > e1/e because the maximum of y1/y is e1/e. The limit also fails to exist when 0 < x < e−e.
+This may be extended to complex numbers z with the definition:
+where W represents Lambert's W function.
+As the limit y = ∞x (if existent on the positive real line, i.e. for e−e ≤ x ≤ e1/e) must satisfy xy = y we see that x ↦ y = ∞x is (the lower branch of) the inverse function of y ↦ x = y1/y.
+Negative heights
+We can use the recursive rule for tetration,
+to prove $MATH$:
+Substituting −1 for k gives
+Smaller negative values cannot be well defined in this way. Substituting −2 for k in the same equation gives
+which is not well defined. They can, however, sometimes be considered sets.
+For $MATH$, any definition of $MATH$ is consistent with the rule because
+Real heights
+At this time there is no commonly accepted solution to the general problem of extending tetration to the real or complex values of n. There have, however, been multiple approaches towards the issue, and different approaches are outlined below.
+In general, the problem is finding — for any real a > 0 — a super-exponential function $MATH$ over real x > −2 that satisfies
+To find a more natural extension, one or more extra requirements are usually required. This is usually some collection of the following:
+The fourth requirement differs from author to author, and between approaches. There are two main approaches to extending tetration to real heights; one is based on the regularity requirement, and one is based on the differentiability requirement. These two approaches seem to be so different that they may not be reconciled, as they produce results inconsistent with each other.
+When $MATH$ is defined for an interval of length one, the whole function easily follows for all x > −2.
+Linear approximation for real heights
+A linear approximation (solution to the continuity requirement, approximation to the differentiability requirement) is given by:
+hence:
+and so on. However, it is only piecewise differentiable; at integer values of x the derivative is multiplied by $MATH$. It is continuously differentiable for $MATH$ if and only if $MATH$. For example, using these methods $MATH$ and $MATH$
+A main theorem in Hooshmand's paper states: Let $MATH$. If $MATH$ is continuous and satisfies the conditions:
+then $MATH$ is uniquely determined through the equation
+where $MATH$ denotes the fractional part of x and $MATH$ is the $MATH$-iterated function of the function $MATH$.
+The proof is that the second through fourth conditions trivially imply that f is a linear function on [−1, 0].
+The linear approximation to natural tetration function $MATH$ is continuously differentiable, but its second derivative does not exist at integer values of its argument. Hooshmand derived another uniqueness theorem for it which states:
+If $MATH$ is a continuous function that satisfies:
+then $MATH$. [Here $MATH$ is Hooshmand's name for the linear approximation to the natural tetration function.]
+The proof is much the same as before; the recursion equation ensures that $MATH$ and then the convexity condition implies that $MATH$ is linear on (−1, 0).
+Therefore, the linear approximation to natural tetration is the only solution of the equation $MATH$ and $MATH$ which is convex on (−1, +∞). All other sufficiently-differentiable solutions must have an inflection point on the interval (−1, 0).
+Higher order approximations for real heights
+Beyond linear approximations, a quadratic approximation (to the differentiability requirement) is given by:
+which is differentiable for all $MATH$, but not twice differentiable. For example, $MATH$ If $MATH$ this is the same as the linear approximation.
+Because of the way it is calculated, this function does not "cancel out", contrary to exponents, where $MATH$. Namely,
+Just as there is a quadratic approximation, cubic approximations and methods for generalizing to approximations of degree n also exist, although they are much more unwieldy.
+Complex heights
+It has now been proven that there exists a unique function F which is a solution of the equation F(z + 1) = exp(F(z)) and satisfies the additional conditions that F(0) = 1 and F(z) approaches the fixed points of the logarithm (roughly 0.318 ± 1.337i) as z approaches ±i∞ and that F is holomorphic in the whole complex z-plane, except the part of the real axis at z ≤ −2. This proof confirms a previous conjecture. The construction of such a function was originally demonstrated by Kneser in 1950. The complex map of this function is shown in the figure at right. The proof also works for other bases besides e, as long as the base is bigger than $MATH$. Subsequent work extended the construction to all complex bases. The complex double precision approximation of this function is available online.
+The requirement of the tetration being holomorphic is important for its uniqueness. Many functions S can be constructed as
+where α and β are real sequences which decay fast enough to provide the convergence of the series, at least at moderate values of Im z.
+The function S satisfies the tetration equations S(z + 1) = exp(S(z)), S(0) = 1, and if αn and βn approach 0 fast enough it will be analytic on a neighborhood of the positive real axis. However, if some elements of {α} or {β} are not zero, then function S has multitudes of additional singularities and cutlines in the complex plane, due to the exponential growth of sin and cos along the imaginary axis; the smaller the coefficients {α} and {β} are, the further away these singularities are from the real axis.
+The extension of tetration into the complex plane is thus essential for the uniqueness; the real-analytic tetration is not unique.
+Non-elementary recursiveness
+Tetration (restricted to $MATH$) is not an elementary recursive function. One can prove by induction that for every elementary recursive function f, there is a constant c such that
+We denote the right hand side by $MATH$. Suppose on the contrary that tetration is elementary recursive. $MATH$ is also elementary recursive. By the above inequality, there is a constant c such that $MATH$. By letting $MATH$, we have that $MATH$, a contradiction.
+Inverse operations
+Exponentiation has two inverse operations; roots and logarithms. Analogously, the inverses of tetration are often called the super-root, and the super-logarithm (In fact, all hyperoperations greater than or equal to 3 have analogous inverses); e.g., in the function $MATH$, the two inverses are the cube super-root of y and the super logarithm base y of x.
+Super-root
+The super-root is the inverse operation of tetration with respect to the base: if $MATH$, then y is an nth super root of x ($MATH$ or $MATH$).
+For example,
+so 2 is the 4th super-root of 65,536.
+Square super-root
+The 2nd-order super-root, square super-root, or super square root has two equivalent notations, $MATH$ and $MATH$. It is the inverse of $MATH$ and can be represented with the Lambert W function:
+The function also illustrates the reflective nature of the root and logarithm functions as the equation below only holds true when $MATH$:
+Like square roots, the square super-root of x may not have a single solution. Unlike square roots, determining the number of square super-roots of x may be difficult. In general, if $MATH$, then x has two positive square super-roots between 0 and 1; and if $MATH$, then x has one positive square super-root greater than 1. If x is positive and less than $MATH$ it does not have any real square super-roots, but the formula given above yields countably infinitely many complex ones for any finite x not equal to 1. The function has been used to determine the size of data clusters.
+At $MATH$:
+Other super-roots
+For each integer n > 2, the function nx is defined and increasing for x ≥ 1, and n1 = 1, so that the nth super-root of x, $MATH$, exists for x ≥ 1.
+One of the simpler and faster formulas for a third-degree super-root is the recursive formula, if: xxx = a, and next x (n + 1) = exp (W (W (x (n) ln (a)))), for example x (0) = 1.
+However, if the linear approximation above is used, then $MATH$ if −1 < y ≤ 0, so $MATH$ cannot exist.
+In the same way as the square super-root, terminology for other super roots can be based on the normal roots: "cube super-roots" can be expressed as $MATH$; the "4th super-root" can be expressed as $MATH$; and the "nth super-root" is $MATH$. Note that $MATH$ may not be uniquely defined, because there may be more than one nth root. For example, x has a single (real) super-root if n is odd, and up to two if n is even.
+Just as with the extension of tetration to infinite heights, the super-root can be extended to n = ∞, being well-defined if 1/e ≤ x ≤ e. Note that $MATH$ and thus that $MATH$. Therefore, when it is well defined, $MATH$ and, unlike normal tetration, is an elementary function. For example, $MATH$.
+It follows from the Gelfond–Schneider theorem that super-root $MATH$ for any positive integer n is either integer or transcendental, and $MATH$ is either integer or irrational. It is still an open question whether irrational super-roots are transcendental in the latter case.
+Super-logarithm
+Once a continuous increasing (in x) definition of tetration, xa, is selected, the corresponding super-logarithm $MATH$ or $MATH$ is defined for all real numbers x, and a > 1.
+The function sloga x satisfies:
+Open questions
+Other than the problems with the extensions of tetration, there are several open questions concerning tetration, particularly when concerning the relations between number systems such as integers and irrational numbers:
+See also
+Notes
+References
+Further reading

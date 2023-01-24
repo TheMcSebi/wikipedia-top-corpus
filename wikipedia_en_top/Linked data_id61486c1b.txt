@@ -1,0 +1,28 @@
+Linked data
+In computing, linked data (often capitalized as Linked Data) is structured data which is interlinked with other data so it becomes more useful through semantic queries. It builds upon standard Web technologies such as HTTP, RDF and URIs, but rather than using them to serve web pages only for human readers, it extends them to share information in a way that can be read automatically by computers. Part of the vision of linked data is for the Internet to become a global database.
+Tim Berners-Lee, director of the World Wide Web Consortium (W3C), coined the term in a 2006 design note about the Semantic Web project.
+Linked data may also be open data, in which case it is usually described as Linked Open Data.
+Principles
+In his 2006 "Linked Data" note, Tim Berners-Lee outlined four principles of linked data, paraphrased along the following lines:
+Tim Berners-Lee later restated these principles at a 2009 TED conference, again paraphrased along the following lines:
+Components
+Linked open data
+Linked open data are linked data that are open data. Tim Berners-Lee gives the clearest definition of linked open data in differentiation with linked data.
+ 
+Large linked open data sets include DBpedia, Wikibase, Wikidata and Open Icecat.
+5-star linked open data
+Tim Berners-Lee has suggested a 5-star scheme for grading the quality of open data on the web, for which the highest ranking is Linked Open Data:
+History
+The term "linked open data" has been in use since at least February 2007, when the "Linking Open Data" mailing list was created. The mailing list was initially hosted by the SIMILE project at the Massachusetts Institute of Technology.
+Linking Open Data community project
+The goal of the W3C Semantic Web Education and Outreach group's Linking Open Data community project is to extend the Web with a data commons by publishing various open datasets as RDF on the Web and by setting RDF links between data items from different data sources. In October 2007, datasets consisted of over two billion RDF triples, which were interlinked by over two million RDF links.  By September 2011 this had grown to 31 billion RDF triples, interlinked by around 504 million RDF links.  A detailed statistical breakdown was published in 2014.
+European Union projects
+There are a number of European Union projects involving linked data. These include the linked open data around the clock (LATC) project, the PlanetData project, the DaPaaS (Data-and-Platform-as-a-Service) project, and the Linked Open Data 2 (LOD2) project. Data linking is one of the main goals of the EU Open Data Portal, which makes available thousands of datasets for anyone to reuse and link.
+Ontologies
+Ontologies are formal descriptions of data structures. Some of the better known ontologies are:
+Datasets
+Dataset instance and class relationships
+Clickable diagrams that show the individual datasets and their relationships within the DBpedia-spawned LOD cloud (as shown by the figures to the right) are available.
+See also
+References
+Further reading

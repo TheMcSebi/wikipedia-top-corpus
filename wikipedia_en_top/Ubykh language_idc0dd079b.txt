@@ -1,0 +1,276 @@
+Ubykh language
+Ubykh or Päkhy was a Northwest Caucasian language once spoken by the Ubykh tribe of Circassians who originally lived along the eastern coast of the Black Sea before being deported en masse to Turkey in the Circassian genocide.
+The Ubykh language was ergative and polysynthetic, with a high degree of agglutination, with polypersonal verbal agreement and a very large number of distinct consonants but only two phonemically distinct vowels. With around eighty consonants, it had one of the largest inventories of consonants in the world, and the largest number for any language without clicks. 
+The name Ubykh is derived from Убыхыбзэ (/wɨbɨx/), its name in the Adyghe language. It is known in linguistic literature by many names: variants of Ubykh, such as Ubikh, Oubykh (French); and its Germanised variant Päkhy (from Ubykh /tʷɜχɨ/).
+Major features
+Ubykh is distinguished by the following features, some of which are shared with other Northwest Caucasian languages:
+Phonology
+Ubykh has 84 phonemic consonants, a record high amongst languages without click consonants, but only 3 phonemic vowels. Four of these consonants are found only in loanwords and onomatopoeiae. There are nine basic places of articulation for the consonants and extensive use of secondary articulation, such that Ubykh has 20 different uvular phonemes. Ubykh distinguishes three types of postalveolar consonants: apical, laminal, and laminal closed. Regarding the vowels, since there are only three phonemic vowels, there is a great deal of allophony.
+Grammar
+Morphosyntax
+Ubykh is agglutinative and polysynthetic: /ʃɨkʲʼɐjɨfɜnɜmɨt/ ('we will not be able to go back'), /ɐwqʼɜqʼɜjtʼbɜ/ ('if you had said it'). It is often extremely concise in its word forms.
+The boundaries between nouns and verbs is somewhat blurred. Any noun can be used as the root of a stative verb (/mɨzɨ/ 'child', /sɨmɨzɨjtʼ/ 'I was a child'), and many verb roots can become nouns simply by the use of noun affixes (/qʼɜ/ 'to say', /sɨqʼɜ/ 'what I say').
+Nouns
+The noun system in Ubykh is quite simple. It has three main noun cases (the oblique-ergative case may be two homophonous cases with differing function, thus presenting four cases in total):
+There are X other cases that exist in Ubykh too:
+Nouns do not distinguish grammatical gender. The definite article is /ɐ/ (e.g. /ɐtɨt/ 'the man'). There is no indefinite article directly equivalent to the English a or an, but /zɜ/-(root)-/ɡʷɜrɜ/ (literally 'one'-(root)-'certain') translates French un : e.g. /zɜnɜjnʃʷɡʷɜrɜ/ ('a certain young man').
+Number is only marked on the noun in the ergative case, with -/nɜ/. The number marking of the absolutive argument is either by suppletive verb roots (e.g. /ɐkʷɨn blɜs/ 'he is in the car' vs. /ɐkʷɨn blɜʒʷɜ/ 'they are in the car') or by verb suffixes: /ɐkʲʼɜn/ ('he goes'), /ɐkʲʼɐn/ ('they go'). The second person plural prefix /ɕʷ/- triggers this plural suffix regardless of whether that prefix represents the ergative, the absolutive, or an oblique argument: 
+Note that, in this last sentence, the plurality of it (/ɐ/-) is obscured; the meaning can be either 'You all give it to me' or 'You all give them to me'.
+Adjectives, in most cases, are simply suffixed to the noun: /tʃɨbʒɨjɜ/ ('pepper') with /pɬɨ/ ('red') becomes /tʃɨbʒɨjɜpɬɨ/ ('red pepper'). Adjectives do not decline.
+Postpositions are rare; most locative semantic functions, as well as some non-local ones, are provided with preverbal elements: /ɐsχʲɜwtxqʼɜ/ ('you wrote it for me'). However, there are a few postpositions: /sɨʁʷɜ sɨɡʲɐtɕʼ/ ('like me'), /ɐχʲɨlɐq/ ('near the prince').
+Pronouns
+Free pronouns in all North-West Caucasian languages lack an ergative-absolutive distinction.
+Possession
+Possessed nouns have their plurality marked with the affix /-ɜw-/.
+/ʃɜwtʃɨ/
+/ʃ(ɨ)-ɜw-tʃɨ/
+1pPOSS-PL-horse
+/ʃɜwtʃɨ/
+/ʃ(ɨ)-ɜw-tʃɨ/
+1pPOSS-PL-horse
+Our horses
+Verbs
+A past–present–future distinction of verb tense exists (the suffixes -/qʼɜ/ and -/ɜwt/ represent past and future) and an imperfective aspect suffix is also found (-/jtʼ/, which can combine with tense suffixes). Dynamic and stative verbs are contrasted, as in Arabic, and verbs have several nominal forms. Morphological causatives are not uncommon. The conjunctions /ɡʲɨ/ ('and') and /ɡʲɨlɜ/ ('but') are usually given with verb suffixes, but there is also a free particle corresponding to each:
+Pronominal benefactives are also part of the verbal complex, marked with the preverb /χʲɜ/-, but a benefactive cannot normally appear on a verb that has three agreement prefixes already.
+Gender only appears as part of the second person paradigm, and then only at the speaker's discretion. The feminine second person index is /χɜ/-, which behaves like other pronominal prefixes: /wɨsχʲɜntʷɨn/ ('he gives [it] to you [normal; gender-neutral] for me'), but compare /χɜsχʲɜntʷɨn/ 'he gives [it] to you [feminine] for me').
+Agreement
+Oblique 1 markers are limited to marking the agreement of a noun before a relational preverb and Oblique 2 markers are used for not only marking agreement with local and directional preverbs but also the simple oblique, or dative, arguments. 
+The second-person /χɜ/- is an archaic pronoun used to indicate that the person being referred to is a female, or heckling the speaker in some way.
+Dynamic Verb Conjugation
+Dynamic Ubykh verbs are split up in two groups: Group I which contain the simple tenses and Group II which contain derived counterpart tenses. Only the Karaclar dialect uses the progressive tense and the plural is unknown.
+The singular-plural distinction is used when the subject, the ergative, is singular or plural.
+Square brackets indicate elided vowels; parenthesis indicate optional parts of the stem; and the colon indicates the boundary of a morpheme. 
+Simple Past
+The verbs in the simple past tense are conjugated with -/qʼɜ/ in the singular and -/qʼɜ-n(ɜ)/ in the plural.
+Examples:
+Mirative Past
+The verbs in the mirative past tense are conjugated with -/jtʼ/ in the singular and -/jɬ(ɜ)/ in the plural.
+Examples:
+Present
+The verbs in the present tense are conjugated with -/n/ in the singular and -/ɐ-n/ in the plural.
+Examples:
+Future I
+The verbs in the present tense are conjugated with -/ɜw/ in the singular and -/n[ɜ]-ɜw/ in the plural. It conveys a sense of certainty, immediacy, obligation, or intentionality.
+Examples:
+Future II
+The verbs in the present tense are conjugated with -/ɜw:t/ in the singular and -/n[ɜ]-ɜw:t/ in the plural. It conveys a generic sense of the future as well as an exhortative sense such as: /ʃɨ-kʲʼɜ-n[ɜ]-ɜw/ (let's go!).
+Examples:
+Static Verb Conjugation
+In all dialects and speakers, only two static tenses exist: present and past.
+Aspect
+There are five basic aspects that exist besides the aspects that exist within the Ubykh tense system. They are: habitual, iterative, exhaustive, excessive, and potential.
+A speaker may combine one of these aspects with another to convey more complex aspects in conjunction with the tenses. 
+
+
+A few meanings covered in English by adverbs or auxiliary verbs are given in Ubykh by verb suffixes:
+Questions
+Questions may be marked grammatically, using verb suffixes or prefixes:
+Other types of questions, involving the pronouns 'where' and 'what', may also be marked only in the verbal complex: /mɐwkʲʼɜnɨj/ ('where are you going?'), /sɐwqʼɜqʼɜjtʼɨj/ ('what had you said?').
+Preverbs and determinants
+Many local, prepositional, and other functions are provided by preverbal elements providing a large series of applicatives, and here Ubykh shows remarkable complexity. Two main types of preverbal elements exist: determinants and preverbs. The number of preverbs is limited, and mainly show location and direction. The number of determinants is also limited, but the class is more open; some determinant prefixes include /tʃɜ/- ('with regard to a horse') and /ɬɜ/- ('with regard to the foot or base of an object').
+For simple locations, there are a number of possibilities that can be encoded with preverbs, including (but not limited to):
+There is also a separate directional preverb meaning 'towards the speaker': /j/-, which occupies a separate slot in the verbal complex. However, preverbs can have meanings that would take up entire phrases in English. The preverb /jtɕʷʼɐ/- signifies 'on the earth' or 'in the earth', for instance: /ʁɜdjɜ ɐjtɕʷʼɐnɐɬqʼɜ/ ('they buried his body'; literally, "they put his body in the earth"). Even more narrowly, the preverb /fɐ/- signifies that an action is done out of, into or with regard to a fire: /ɐmdʒɜn zɜtʃɨtʃɜqʲɜ fɐstχʷɨn/ ('I take a brand out of the fire').
+Orthography
+Writing systems for the Ubykh language have been proposed, but there has never been a standard written form.
+Lexicon
+Native vocabulary
+Ubykh syllables have a strong tendency to be CV, although VC and CVC also exist. Consonant clusters are not as large as in Abzhywa Abkhaz or in Georgian, rarely being larger than two terms. Three-term clusters exist in two words - /ndʁɜ/ ('sun') and /pstɜ/ ('to swell up'), but the latter is a loan from Adyghe, and the former more often pronounced /nədʁa/ when it appears alone.
+Compounding plays a large part in Ubykh and, indeed, in all Northwest Caucasian semantics. There is no verb equivalent to English to love, for instance; one says "I love you" as /tʂʼɜnɨ wɨzbjɜn/ ('I see you well').
+Reduplication occurs in some roots, often those with onomatopoeic values (/χˤɜχˤɜ/, 'to curry[comb]' from /χˤɜ/ 'to scrape'; /kʼɨrkʼɨr/, 'to cluck like a chicken' [a loan from Adyghe]); and /wɜrqwɜrq/, 'to croak like a frog').
+Roots and affixes can be as small as one phoneme. The word /wɜntʷɐn/, 'they give you to him', for instance, contains six phonemes, each a separate morpheme:
+However, some words may be as long as seven syllables (although these are usually compounds): /ʂɨqʷʼɜwɨɕɜɬɐdɨtʃɜ/ ('staircase').
+Slang and idioms
+As with all other languages, Ubykh is replete with idioms. The word /ntʷɜ/ ('door'), for instance, is an idiom meaning either "magistrate", "court", or "government." However, idiomatic constructions are even more common in Ubykh than in most other languages; the representation of abstract ideas with series of concrete elements is a characteristic of the Northwest Caucasian family. As mentioned above, the phrase meaning "I love you" translates literally as 'I see you well'; similarly, "you please me" is literally 'you cut my heart'. The term /wɨrɨs/ ('Russian'), an Arabic loan, has come to be a slang term meaning "infidel", "non-Muslim" or "enemy" (see History below).
+Foreign loans
+The majority of loanwords in Ubykh are derived from either Adyghe or Arabic, with smaller numbers from Persian, Abkhaz, and the South Caucasian languages. Towards the end of Ubykh's life, a large influx of Adyghe words was noted; Vogt (1963) notes a few hundred examples. The phonemes /ɡ/ /k/ /kʼ/ were borrowed from Arabic and Adyghe. /ɬʼ/ also appears to come from Adyghe, although it seems to have arrived earlier on. It is possible, too, that /ɣ/ is a loan from Adyghe, since most of the few words with this phoneme are obvious Adyghe loans: /pɐɣɜ/ ('proud'), /ɣɜ/ ('testis').
+Many loanwords have Ubykh equivalents, but were dwindling in usage under the influence of Arabic, Circassian, and Russian equivalents:
+Some words, usually much older ones, are borrowed from less influential stock: Colarusso (1994) sees /χˤʷɜ/ ('pig') as a borrowing from a proto-Semitic *huka, and /ɜɡʲɜrɨ/ ('slave') from an Iranian root; however, Chirikba (1986) regards the latter as being of Abkhaz origin ( ← Abkhaz agər-wa 'lower cast of peasants; slave', literally 'Megrelian').
+Evolution
+In the scheme of Northwest Caucasian evolution, despite its parallels with Adyghe and Abkhaz, Ubykh forms a separate third branch of the family. It has fossilised palatal class markers where all other Northwest Caucasian languages preserve traces of an original labial class: the Ubykh word for 'heart', /ɡʲɨ/, corresponds to the reflex /ɡʷə/ in Abkhaz, Abaza, Adyghe, and Kabardian. Ubykh also possesses groups of pharyngealised consonants. All other NWC languages possess true pharyngeal consonants, but Ubykh is the only language to use pharyngealisation as a feature of secondary articulation.
+With regard to the other languages of the family, Ubykh is closer to Adyghe and Kabardian but shares many features with Abkhaz due to geographic influence; many later Ubykh speakers were bilingual in Ubykh and Adyghe.
+Dialects
+While not many dialects of Ubykh existed, one divergent dialect of Ubykh has been noted (in Dumézil 1965:266-269). Grammatically, it is similar to standard Ubykh (i.e. Tevfik Esenç's dialect), but has a very different sound system, which had collapsed into just 62-odd phonemes:
+History
+Ubykh was spoken in the eastern coast of the Black Sea around Sochi until 1864, when the Ubykhs were driven out of the region by the Russians. They eventually came to settle in Turkey, founding the villages of Hacı Osman, Kırkpınar, Masukiye and Hacı Yakup. Arabic and Circassian eventually became the preferred languages for everyday communication, and many words from these languages entered Ubykh in that period.
+The Ubykh language died out on 7 October 1992, when its last fluent speaker, Tevfik Esenç, died. Before his death, thousands of pages of material and many audio recordings had been collected and collated by a number of linguists, including Georges Charachidzé, Georges Dumézil, Hans Vogt, George Hewitt and A. Sumru Özsoy, with the help of some of its last speakers, particularly Tevfik Esenç and Huseyin Kozan. Ubykh was never written by its speech community, but a few phrases were transcribed by Evliya Çelebi in his Seyahatname and a substantial portion of the oral literature, along with some cycles of the Nart saga, was transcribed. Tevfik Esenç also eventually learned to write Ubykh in the transcription that Dumézil devised.
+Julius von Mészáros, a Hungarian linguist, visited Turkey in 1930 and took down some notes on Ubykh. His work Die Päkhy-Sprache was extensive and accurate to the extent allowed by his transcription system (which could not represent all the phonemes of Ubykh) and marked the foundation of Ubykh linguistics.
+The Frenchman Georges Dumézil also visited Turkey in 1930 to record some Ubykh and would eventually become the most celebrated Ubykh linguist. He published a collection of Ubykh folktales in the late 1950s, and the language soon attracted the attention of linguists for its small number of phonemic vowels. Hans Vogt, a Norwegian, produced a monumental dictionary that, in spite of its many errors (later corrected by Dumézil), is still one of the masterpieces and essential tools of Ubykh linguistics.
+Later in the 1960s and into the early 1970s, Dumézil published a series of papers on Ubykh etymology in particular and Northwest Caucasian etymology in general. Dumézil's book Le Verbe Oubykh (1975), a comprehensive account of the verbal and nominal morphology of the language, is another cornerstone of Ubykh linguistics.
+Since the 1980s, Ubykh linguistics has slowed drastically with the most recent treatise being Fenwick's A Grammar of Ubykh (2011), who was also working on a dictionary. The Ubykh themselves have shown interest in relearning their language.
+The Abkhaz writer Bagrat Shinkuba's historical novel Bagrat Shinkuba. The Last of the Departed treats the fate of the Ubykh people.
+People who have published literature on Ubykh include
+Notable characteristics
+Ubykh had been cited in the Guinness Book of Records (1996 ed.) as the language with the most consonant phonemes, but since 2017 the !Xóõ language (a member of the Tuu languages) has been considered by the book to have broken that record, with 130 consonants. Ubykh has 20 uvular and 29 pure fricative phonemes, more than any other known language.
+Samples
+All examples from Dumézil 1968.
+Faːχe
+faaχʲa
+once
+tʼqʼokobʒe
+tʼqʷʼa-kʷabʒa
+two-man
+kʼeʁən
+kʲʼaʁə-n
+friend-ADV
+azaχeʃinan
+a-za-χʲa-ʃə-na-n
+they-each.other-BEN-become-PL-ADV
+amʁen
+a-mʁʲa-n
+the-road-OBL
+ɡikeqʼan.
+ɡʲə-kʲa-qʼa-n
+on-enter(PL)-past-PL
+Faːχe tʼqʼokobʒe kʼeʁən azaχeʃinan amʁen ɡikeqʼan.
+faaχʲa tʼqʷʼa-kʷabʒa kʲʼaʁə-n a-za-χʲa-ʃə-na-n a-mʁʲa-n ɡʲə-kʲa-qʼa-n
+once two-man friend-ADV they-each.other-BEN-become-PL-ADV the-road-OBL on-enter(PL)-past-PL
+Once, two men set out together on the road.
+Afoːtənə
+a-f-awtə-nə
+they-eat-FUT-ADV
+mʁøːuf
+mʁʲawəf
+provisions
+aχodoːtən
+a-χʷada-awtə-n
+they-buy-FUT-ADV
+akʼenan,
+a-kʲʼa-na-n
+they-go-PL-ADV
+azan
+a-za-n
+the-one-ERG
+fatɕʼaːla
+fatɕʼ-aala
+cheese-and
+ɕybˤaːla
+ɕʷəbˤa-aala
+bread-and
+χodaqʼa;
+χʷada-qʼa
+buy-PAST
+Afoːtənə mʁøːuf aχodoːtən akʼenan, azan fatɕʼaːla ɕybˤaːla χodaqʼa;
+a-f-awtə-nə mʁʲawəf a-χʷada-awtə-n a-kʲʼa-na-n a-za-n fatɕʼ-aala ɕʷəbˤa-aala χʷada-qʼa
+they-eat-FUT-ADV provisions they-buy-FUT-ADV they-go-PL-ADV the-one-ERG cheese-and bread-and buy-PAST
+They went to buy some provisions for the journey; the one bought cheese and bread
+Aːjdəχəŋɡi
+aajdə-χə-n-ɡʲə
+other-of-ERG-and
+ɕybˤaːla
+ɕʷəbˤa-aala
+bread-and
+psaːla
+psa-aala
+fish-and
+χodan
+χʷada-n
+buy-ADV
+eːnuːqʼa.
+a-j-nə-w-qʼa
+it-hither-he-bring-past
+Aːjdəχəŋɡi ɕybˤaːla psaːla χodan eːnuːqʼa.
+aajdə-χə-n-ɡʲə ɕʷəbˤa-aala psa-aala χʷada-n a-j-nə-w-qʼa
+other-of-ERG-and bread-and fish-and buy-ADV it-hither-he-bring-past
+and the other bought bread and fish.
+Amʁen
+a-mʁʲa-n
+the-road-OBL
+ɡikenan
+ɡʲə-kʲa-na-n
+on-enter(PL)-PL-GER
+akʼenaɡi
+a-kʲ'a-na-gʲə
+they-go-PL-ADV
+wofatɕʼ
+wa-fatɕʼ
+that-cheese
+dəχodaqʼeːtʼə
+də-χʷada-qʼajtʼ-ə
+REL-buy-PLUP-GER
+ʁakʼeʁʁaːfa
+ʁa-kʲʼaʁ-ʁaafa
+his-friend-towards
+Amʁen ɡikenan akʼenaɡi wofatɕʼ dəχodaqʼeːtʼə ʁakʼeʁʁaːfa
+a-mʁʲa-n ɡʲə-kʲa-na-n a-kʲ'a-na-gʲə wa-fatɕʼ də-χʷada-qʼajtʼ-ə ʁa-kʲʼaʁ-ʁaafa
+the-road-OBL on-enter(PL)-PL-GER they-go-PL-ADV that-cheese REL-buy-PLUP-GER his-friend-towards
+While they were on the road, the one who had bought the cheese asked the other
+"ɕoɬa
+ɕʷaɬa
+you.all
+psa
+psa
+fish
+jeda
+jada
+much
+ɕʷfaːn;"
+ɕʷ-f-aa-n
+you.all-eat-PL-PRES
+"ɕoɬa psa jeda ɕʷfaːn;"
+ɕʷaɬa psa jada ɕʷ-f-aa-n
+you.all fish much you.all-eat-PL-PRES
+"You people eat a lot of fish;"
+"Saːba
+saaba
+why
+wanaŋɡʲaːfə
+wana-n-ɡʲaafə
+that-OBL-as.much.as
+psa
+psa
+fish
+ɕʷfaːniː?"
+ɕʷ-f-aa-nə-j
+you.all-eat-PL-PRES-Q
+qʼan
+qʼa-n
+say-ADV
+ʁaːdzʁaqʼa.
+ʁa-aa-dzʁa-qʼa
+him-to-ask-past
+"Saːba wanaŋɡʲaːfə psa ɕʷfaːniː?" qʼan ʁaːdzʁaqʼa.
+saaba wana-n-ɡʲaafə psa ɕʷ-f-aa-nə-j qʼa-n ʁa-aa-dzʁa-qʼa
+why that-OBL-as.much.as fish you.all-eat-PL-PRES-Q say-ADV him-to-ask-past
+"why do you eat fish as much as that?"
+"Psa
+psa
+fish
+ufəba
+wə-fə-ba
+you-eat-if
+utɕʼe
+wə-tɕʼa
+your-knowledge
+jeda
+jada
+much
+ʃoːt,"
+ʃ-awt
+become-FUT
+"Psa ufəba utɕʼe jeda ʃoːt,"
+psa wə-fə-ba wə-tɕʼa jada ʃ-awt
+fish you-eat-if your-knowledge much become-FUT
+"If you eat fish, you get smarter,"
+"Wonaʁaːfa
+wana-ʁaafa
+that-for
+ʃaɬa
+ʃaɬa
+we
+psa
+psa
+fish
+jeda
+jada
+much
+ʃfən,"
+ʃ-fə-n
+we-eat-PRES
+qʼaqʼa.
+qʼa-qʼa
+say-PAST
+"Wonaʁaːfa ʃaɬa psa jeda ʃfən," qʼaqʼa.
+wana-ʁaafa ʃaɬa psa jada ʃ-fə-n qʼa-qʼa
+that-for we fish much we-eat-PRES say-PAST
+"so we eat a lot of fish," he answered.
+Notes

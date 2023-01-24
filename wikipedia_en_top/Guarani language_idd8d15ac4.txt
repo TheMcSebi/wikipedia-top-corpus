@@ -1,0 +1,83 @@
+Guarani language
+Guaraní (/ˌɡwɑːrəˈniː, ˈɡwɑːrəni/), specifically the primary variety known as Paraguayan Guarani (avañeʼẽ [ʔãʋãɲẽˈʔẽ] "the people's language"), is a South American language that belongs to the Tupi–Guarani family of the Tupian languages. It is one of the official languages of Paraguay (along with Spanish), where it is spoken by the majority of the population, and where half of the rural population are monolingual speakers of the language.
+It is spoken by communities in neighboring countries, including parts of northeastern Argentina, southeastern Bolivia and southwestern Brazil, and is a second official language of the Argentine province of Corrientes since 2004; it is also an official language of Mercosur.
+Guaraní is one of the most widely spoken American languages, and remains commonly used among the Paraguayan people and neighboring communities. This is unique among American languages; language shift towards European colonial languages (in this case, the other official language of Spanish) has otherwise been a nearly universal phenomenon in the Western Hemisphere, but Paraguayans have maintained their traditional language while also adopting Spanish.
+Jesuit priest Antonio Ruiz de Montoya, who in 1639 published the first written grammar of Guarani in a book called Tesoro de la lengua guaraní (Treasure of the Guarani Language /  The Guarani Language Thesaurus), described it as a language "so copious and elegant that it can compete with the most famous [of languages]".
+The name "Guarani" is generally used for the official language of Paraguay. However, this is part of a dialect chain, most of whose components are also often called Guarani.
+History
+While Guarani, in its Classical form, was the only language spoken in the expansive missionary territories, Paraguayan Guaraní has its roots outside of the Jesuit Reductions.
+Modern scholarship has shown that Guarani was always the primary language of colonial Paraguay, both inside and outside the reductions. Following the expulsion of the Jesuits in the 18th century, the residents of the reductions gradually migrated north and west towards Asunción, a demographic shift that brought about a decidedly one-sided shift away from the Jesuit dialect that the missionaries had curated in the southern and eastern territories of the colony.
+By and large, the Guaraní of the Jesuits shied away from direct phonological loans from Spanish. Instead, the missionaries relied on the agglutinative nature of the language to formulate calque terms from native morphemes. This process often led the Jesuits to employ complicated, highly synthetic terms to convey Western concepts. By contrast, the Guarani spoken outside of the missions was characterized by a free, unregulated flow of Hispanicisms; frequently, Spanish words and phrases were simply incorporated into Guarani with minimal phonological adaptation.
+A good example of that phenomenon is found in the word "communion". The Jesuits, using their agglutinative strategy, rendered this word "Tupârahava", a calque based on the word "Tupâ", meaning God. In modern Paraguayan Guaraní, the same word is rendered "komuño".
+Following the out-migration from the reductions, these two distinct dialects of Guarani came into extensive contact for the first time. The vast majority of speakers abandoned the less colloquial, highly regulated Jesuit variant in favor of the variety that evolved from actual use by speakers in Paraguay. This contemporary form of spoken Guaraní is known as Jopará, meaning "mixture" in Guarani.
+Political status
+Widely spoken, Paraguayan Guaraní has nevertheless been repressed by Paraguayan governments throughout most of its history since independence. It was prohibited in state schools for over 100 years. However, populists often used pride in the language to excite nationalistic fervor and promote a narrative of social unity.
+During the autocratic regime of Alfredo Stroessner, his Colorado Party used the language to appeal to common Paraguayans although Stroessner himself never gave an address in Guaraní. Upon the advent of Paraguayan democracy in 1992, Guarani was established in the new constitution as a language equal to Spanish.
+Jopará, the mixture of Spanish and Guaraní, is spoken by an estimated 90% of the population of Paraguay. Code-switching between the two languages takes place on a spectrum in which more Spanish is used for official and business-related matters, and more Guarani is used in art and in everyday life.
+Guarani is also an official language of Bolivia and of Corrientes Province in Argentina.
+Writing system
+Guarani became a written language relatively recently. Its modern alphabet is basically a subset of the Latin script (with "J", "K" and "Y" but not "W"), complemented with two diacritics and six digraphs. Its orthography is largely phonemic, with letter values mostly similar to those of Spanish. The tilde is used with many letters that are considered part of the alphabet. In the case of Ñ/ñ, it differentiates the palatal nasal from the alveolar nasal (as in Spanish), whereas it marks stressed nasalisation when used over a vowel (as in Portuguese): ã, ẽ, ĩ, õ, ũ, ỹ. (Nasal vowels have been written with several other diacritics: ä, ā, â, ã.) The tilde also marks nasality in the case of G̃/g̃, used to represent the nasalized velar approximant by combining the velar approximant "G" with the nasalising tilde. The letter G̃/g̃, which is unique to this language, was introduced into the orthography relatively recently during the mid-20th century and there is disagreement over its use. It is not a precomposed character in Unicode, which can cause typographic inconveniences – such as needing to press "delete" twice – or imperfect rendering when using computers and fonts that do not properly support the complex layout feature of glyph composition.
+Only stressed nasal vowels are written as nasal. If an oral vowel is stressed, and it is not the final syllable, it is marked with an acute accent: á, é, í, ó, ú, ý. That is, stress falls on the vowel marked as nasalized, if any, else on the accent-marked syllable, and if neither appears, then on the final syllable.
+For blind people there is also a Guarani Braille.
+Phonology
+Guarani syllables consist of a consonant plus a vowel or a vowel alone; syllables ending in a consonant or two or more consonants together do not occur. This is represented as (C)V.
+In the below table, the IPA value is shown.  The orthography is shown in angle brackets below, if different.
+Consonants
+The voiced consonants have oral allophones (left) before oral vowels, and nasal allophones (right) before nasal vowels. The oral allophones of the voiced stops are prenasalized.
+There is also a sequence /ⁿt/ (written ⟨nt⟩). A trill /r/ (written ⟨rr⟩), and the consonants /l/, /f/, and /j/ (written ⟨ll⟩) are not native to Guarani, but come from Spanish.
+Oral /ᵈj/ is often pronounced [dʒ], [ɟ], [ʒ], [j], depending on the dialect, but the nasal allophone is always [ɲ].
+The dorsal fricative is in free variation between [x] and [h].
+⟨g⟩, ⟨gu⟩ are approximants, not fricatives, but are sometimes transcribed [ɣ], [ɣʷ], as is conventional for Spanish. ⟨gu⟩ is also transcribed [ɰʷ], which is essentially identical to [w].
+All syllables are open, viz. CV or V, ending in a vowel.
+Glottal stop
+The glottal stop, called 'puso' in Guarani, is only written between vowels, but occurs phonetically before vowel-initial words. Because of this, Ayala (2000:19) shows that some words have several glottal stops near each other, which consequently undergo a number of different dissimilation techniques. For example, "I drink water" ʼaʼyʼu is pronounced hayʼu. This suggests that irregularity in verb forms derives from regular sound change processes in the history of Guarani. There also seems to be some degree of variation between how much the glottal stop is dropped (for example aruʼuka > aruuka > aruka for "I bring"). It is possible that word-internal glottal stops may have been retained from fossilized compounds where the second component was a vowel-initial (and therefore glottal stop–initial) root.: 19 
+Vowels
+/a/, /e/, /i/, /o/, /u/ correspond more or less to the Spanish and IPA equivalents, although sometimes the open-mid allophones [ɛ], [ɔ] are used more frequently. The grapheme ⟨y⟩ represents the vowel /ɨ/ (as in Polish).
+Nasal harmony
+Guarani displays an unusual degree of nasal harmony. A nasal syllable consists of a nasal vowel, and if the consonant is voiced, it takes its nasal allophone. If a stressed syllable is nasal, the nasality spreads in both directions until it bumps up against a stressed syllable that is oral. This includes affixes, postpositions, and compounding. Voiceless consonants do not have nasal allophones, but they do not interrupt the spread of nasality.
+For example,
+However, a second stressed syllable, with an oral vowel, will not become nasalized:
+That is, for a word with a single stressed vowel, all voiced segments will be either oral or nasal, while voiceless consonants are unaffected, as in oral /ᵐbotɨ/ vs nasal /mõtɨ̃/.
+Grammar
+Guaraní is a highly agglutinative language, often classified as polysynthetic. It is a fluid-S type active language, and it has been classified as a 6th class language in Milewski's typology. It uses subject–verb–object (SVO) word order usually, but object–verb when the subject is not specified.
+The language lacks gender and has no native definite article but, due to influence from Spanish, la is used as a definite article for singular reference and lo  for plural reference. These are not found in Classical Guarani (Guaraniete).
+Nouns
+Guarani exhibits nominal tense: past, expressed with -kue, and future, expressed with -rã. For example, tetã ruvichakue translates to "ex-president" while tetã ruvicharã translates to "president-elect." The past morpheme -kue is often translated as "ex-", "former", "abandoned", "what was once", or "one-time". These morphemes can even be combined to express the idea of something that was going to be but didn't end up happening. So for example, paʼirãgue is "a person who studied to be a priest but didn't actually finish", or rather, "the ex-future priest". Note that some nouns use -re instead of -kue and others use -guã instead of -rã.
+Pronouns
+Guarani distinguishes between inclusive and exclusive pronouns of the first person plural.
+Reflexive pronoun: je: ahecha ("I look"), ajehecha ("I look at myself")
+Conjugation
+Guarani stems can be divided into a number of conjugation classes, which are called areal (with the subclass aireal) and chendal.  The names for these classes stem from the names of the prefixes for 1st and 2nd person singular.
+The areal conjugation is used to convey that the participant is actively involved, whereas the chendal conjugation is used to convey that the participant is the undergoer. However, the areal conjugation is also used if an intransitive verb expresses an event as opposed to a state, for example manó 'die', and even with a verb such as ké 'sleep'. In addition, all borrowed Spanish verbs are adopted as areal as opposed to borrowed adjectives, which take chendal. Note that intransitive verbs can take either conjugation, transitive verbs normally take areal, but can take chendal for habitual readings. Nouns can also be conjugated, but only as chendal. This conveys a predicative possessive reading.
+Furthermore, the conjugations vary slightly according to the stem being oral or nasal.
+Negation
+Negation is indicated by a circumfix n(d)(V)-...-(r)i in Guarani. The preverbal portion of the circumfix is nd- for oral bases and n- for nasal bases. For 2nd person singular, an epenthetic e is inserted before the base, for 1st person plural inclusive, an epenthetic a is inserted.
+The postverbal portion is -ri for bases ending in -i, and -i for all others. However, in spoken Guarani, the -ri portion of the circumfix is frequently omitted for bases ending in -i.
+The negation can be used in all tenses, but for future or irrealis reference, the normal tense marking is replaced by moʼã, resulting in n(d)(V)-base-moʼã-i as in Ndajapomoʼãi, "I won't do it".
+There are also other negatives, such as: ani, ỹhỹ, nahániri, naumbre, naʼanga.
+Tense and aspect morphemes
+The verb form without suffixes at all is a present somewhat aorist: Upe ára resẽ reho mombyry, "that day you got out and you went far".
+These two suffixes can be added together: ahátama, "I'm already going".
+This suffix can be joined with ma, making up páma: ñande jaikuaapáma nde remimoʼã, "now we came to know all your thought".
+These are unstressed suffixes: ta, ma, ne, vo, "mi"; so the stress goes upon the last syllable of the verb or the last stressed syllable.
+Other verbal morphemes
+Spanish loans in Guarani
+The close and prolonged contact Spanish and Guarani have experienced has resulted in many Guarani words of Spanish origin. Many of these loans were for things or concepts unknown to the New World prior to Spanish colonization. Examples are seen below:
+Guarani loans in English
+English has adopted a small number of words from Guarani (or perhaps the related Tupi) via Portuguese, mostly the names of animals or plants. "Jaguar" comes from jaguarete and "piraña" comes from pira aña ("tooth fish" Tupi: pirá = fish, aña = tooth). Other words are: "agouti" from akuti, "tapir" from tapira, "açaí" from ĩwasaʼi ("[fruit that] cries or expels water"), "warrah" from aguará meaning "fox", "margay" from mbarakaja'y meaning "small cat" and "common water boa" from mbói meaning "snake". Jacaranda, guarana and mandioca are words of Guarani or Tupi–Guarani origin. Ipecacuanha (the name of a medicinal drug) comes from a homonymous Tupi–Guaraní name that can be rendered as ipe-ka'a-guene, meaning a creeping plant that makes one vomit.
+The name of Paraguay is itself a Guarani word, as is the name of Uruguay. However, the exact meaning of either placename is up to varied interpretations. (See: List of country-name etymologies.)
+"Cougar" is borrowed from the archaic Portuguese çuçuarana; the term was either originally derived from the Tupi language susuaʼrana, meaning "similar to deer (in hair color)" or from the Guaraní language term guasu ara while puma comes from the Peruvian Quechua language.
+Example text
+Article 1 of the Universal Declaration of Human Rights in Guaraní:
+IPA: [maɨˈma ɨʋɨˈpoɾa oˈu ko ɨʋˈɨ ˈaɾi iɲapɨtɨʔɨˈɾe xa ẽtẽˈĩɕã tekoɾuʋiɕaɾeˈⁿda xa akaˈtuape ᵈjeweɾeˈkope; xa ikaˈtu ɾupi oikuaˈa aɲeˈteʋa xa aɲeteʔɨˈʋa, ĩpõɾ̃ˈãʋã xa iʋaˈiʋa tẽkõtẽˈʋẽ pexeˈᵑgʷeiɕa oiˈko oɲoⁿdiʋeˈkʷeɾa]
+Article 1 of the Universal Declaration of Human Rights in English:
+Literature
+The New Testament was translated from Greek into Guaraní by Dr John William Lindsay (1875–1946), who was a Scottish medical missionary based in Belén, Paraguay. The New Testament was printed by the British and Foreign Bible Society in 1913.  It is believed to be the first New Testament translated into any South American indigenous language.
+A more modern translation of the whole Bible into Guarani is known as Ñandejara Ñeʼẽ.
+In 2019, Jehovah's Witnesses released the New World Translation of the Holy Scriptures in Guarani, both printed and online editions. 
+Recently a series of novels in Guarani have been published:
+Institutions
+See also
+Bibliography
+Sources
+Further reading

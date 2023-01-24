@@ -1,0 +1,37 @@
+Windows Server 2016
+Windows Server 2016 is the eighth release of the Windows Server server operating system developed by Microsoft as part of the Windows NT family of operating systems. It was developed concurrently with Windows 10 and is the successor to the Windows 8.1-based Windows Server 2012 R2. The first early preview version (Technical Preview) became available on October 1, 2014 together with the first technical preview of System Center. Windows Server 2016 was released on September 26, 2016 at Microsoft's Ignite conference and broadly released for retail sale on October 12, 2016. It was succeeded by Windows Server 2019  and the Windows Server Semi-Annual Channel.
+Features
+Windows Server 2016 has a variety of new features, including
+Networking features
+Hyper-V
+Nano Server
+Microsoft announced a new installation option, Nano Server, which offers a minimal-footprint headless version of Windows Server. It excludes the graphical user interface, WoW64 (support for 32-bit software) and Windows Installer. It does not support console login, either locally or via Remote Desktop Connection. All management is performed remotely via Windows Management Instrumentation (WMI), Windows PowerShell and Remote Server Management Tools (a collection of web-based GUI and command line tools). However, in Technical Preview 5, Microsoft has re-added the ability to administer Nano Server locally through PowerShell.
+According to Microsoft engineer Jeffrey Snover, Nano Server has 93% lower VHD size, 92% fewer critical security advisories, and 80% fewer reboots than Windows Server.
+Nano Server is only available to Microsoft Software Assurance customers and on cloud computing platforms such as Microsoft Azure and Amazon Web Services.
+Starting with the new feature release of Windows Server version 1709, Nano Server can only be installed inside a container host.
+Development
+Microsoft has been reorganized by Satya Nadella, putting the Server and System Center teams together. Previously, the Server team was more closely aligned with the Windows client team. The Azure team is also working closely with the Server team.
+In March 2017, Microsoft demonstrated an internal version of Server 2016 running on the ARMv8-A architecture. It was reported that Microsoft was working with Qualcomm Centriq and Cavium ThunderX2 chips. According to James Vincent of The Verge, this decision endangers Intel's dominance of the server CPU market. However, later inquiry from Microsoft revealed that this version of Windows Server is only for internal use and only impacts subscribers of Microsoft Azure service.
+Preview releases
+A public beta version of Windows Server 2016 (then still called vNext) branded as "Windows Server Technical Preview" was released on October 1, 2014; the technical preview builds are aimed toward enterprise users. The first Technical Preview was first set to expire on April 15, 2015 but Microsoft later released a tool to extend the expiry date, to last until the second tech preview of the OS in May 2015. The second beta version, "Technical Preview 2", was released on May 4, 2015. Third preview version, "Technical Preview 3" was released on August 19, 2015. "Technical Preview 4" was released on November 19, 2015. "Technical Preview 5" was released on April 27, 2016.
+Windows Server 2016 Insider Preview Build 16237 was released to Windows Insiders on July 13, 2017.
+Public release
+Windows Server 2016 was officially released at Microsoft's Ignite Conference on September 26, 2016. Unlike its predecessor, Windows Server 2016 is licensed by the number of CPU cores rather than number of CPU sockets—a change that has similarly been adopted by BizTalk Server 2013 and SQL Server 2014.  The new licensing structure that has been adopted by Windows Server 2016 has also moved away from the Windows Server 2012/2012R2 CPU socket licensing model in that now the amount of cores covered under one license is limited.  Windows Server 2016 Standard and Datacenter core licensing now covers a minimum of 8 core licenses for each physical processor and a minimum of 16 core licenses for each server.  Core licenses are sold in packs of two with Standard Edition providing the familiar rights to run 2 virtualized OS environments.  If the server goes over 16 core licenses for a 2 processor server additional licenses will now be required with Windows Server 2016.
+Version history
+Technical Preview
+Windows Server 2016 Technical Preview, released on October 1, 2014, was the first beta version of the operating system made publicly available. Its version number was 6.4.9841.
+Technical Preview 2
+Windows Server 2016 Technical Preview 2 was made available on May 4, 2015. Its version number was 10.0.10074. (A similar jump in the most significant part of the version number from 6 to 10 is seen in Windows 10.) Highlights of this version include:
+Technical Preview 3
+The third technical preview of Windows Server 2016 was made available on August 19, 2015. Its version number was 10.0.10514. Highlights of this version include:
+Technical Preview 4
+The fourth technical preview of the operating system was made available on November 19, 2015, one year and one month after the initial technical preview. Its version number was 10.0.10586. Its highlights include:
+Technical Preview 5
+The last technical preview of Windows Server 2016 was made available on April 27, 2016. Its version number was 10.0.14300. Its highlights include:
+Release to manufacturing
+Windows Server 2016 was released to manufacturing on September 26, 2016, bearing the version number of 10.0.14393 (same as Windows 10 Anniversary Update). Microsoft added the following final touches:
+Semi-Annual Channel releases
+Version 1709
+Windows Server, version 1709 (version shared with Windows 10 Fall Creators Update) was released on October 17, 2017. The release has dropped the Windows Server 2016 name and is just called Windows Server by Microsoft. It is offered to the Microsoft Software Assurance customers who have an active Windows Server 2016 license and has the same system requirements. This is the first Windows Server product to fall under the "Semi-Annual Channel" (SAC) release cadence. This product only features the Server Core and the Nano Server modes. Of the two, only the Server Core mode of the OS can be installed on a bare system. The Nano Server mode is only available as an operating system container.
+Version 1803
+Windows Server, version 1803 (version shared with Windows 10 April 2018 Update) is the second Semi-Annual Channel release of Windows Server. It is also the final version to be branched off the Server 2016 codebase, as the next release shares the version number 1809 with Windows Server 2019.

@@ -1,0 +1,25 @@
+Zero of a function
+In mathematics, a zero (also sometimes called a root) of a real-, complex-, or generally vector-valued function $MATH$, is a member $MATH$ of the domain of $MATH$ such that $MATH$ vanishes at $MATH$; that is, the function $MATH$ attains the value of 0 at $MATH$, or equivalently, $MATH$ is the solution to the equation $MATH$. A "zero" of a function is thus an input value that produces an output of 0.
+A root of a polynomial is a zero of the corresponding polynomial function. The fundamental theorem of algebra shows that any non-zero polynomial has a number of roots at most equal to its degree, and that the number of roots and the degree are equal when one considers the complex roots (or more generally, the roots in an algebraically closed extension) counted with their multiplicities. For example, the polynomial $MATH$ of degree two, defined by $MATH$ has the two roots (or zeros) that are 2 and 3.
+If the function maps real numbers to real numbers, then its zeros are the $MATH$-coordinates of the points where its graph meets the x-axis. An alternative name for such a point $MATH$ in this context is an $MATH$-intercept.
+Solution of an equation
+Every equation in the unknown $MATH$ may be rewritten as
+by regrouping all the terms in the left-hand side. It follows that the solutions of such an equation are exactly the zeros of the function $MATH$. In other words, a "zero of a function" is precisely a "solution of the equation obtained by equating the function to 0", and the study of zeros of functions is exactly the same as the study of solutions of equations.
+Polynomial roots
+Every real polynomial of odd degree has an odd number of real roots (counting multiplicities); likewise, a real polynomial of even degree must have an even number of real roots. Consequently, real odd polynomials must have at least one real root (because the smallest odd whole number is 1), whereas even polynomials may have none. This principle can be proven by reference to the intermediate value theorem: since polynomial functions are continuous, the function value must cross zero, in the process of changing from negative to positive or vice versa (which always happens for odd functions).
+Fundamental theorem of algebra
+The fundamental theorem of algebra states that every polynomial of degree $MATH$ has $MATH$ complex roots, counted with their multiplicities. The non-real roots of polynomials with real coefficients come in conjugate pairs. Vieta's formulas relate the coefficients of a polynomial to sums and products of its roots.
+Computing roots
+Computing roots of functions, for example polynomial functions, frequently requires the use of specialised or approximation techniques (e.g., Newton's method). However, some polynomial functions, including all those of degree no greater than 4, can have all their roots expressed algebraically in terms of their coefficients (for more, see algebraic solution).
+Zero set
+In various areas of mathematics, the zero set of a function is the set of all its zeros. More precisely, if $MATH$ is a real-valued function (or, more generally, a function taking values in some additive group), its zero set is $MATH$, the inverse image of $MATH$ in $MATH$.
+The term zero set is generally used when there are infinitely many zeros, and they have some non-trivial topological properties. For example, a level set of a function $MATH$ is the zero set of $MATH$. The cozero set of $MATH$ is the complement of the zero set of $MATH$ (i.e., the subset of $MATH$ on which $MATH$ is nonzero). 
+The zero set of a linear map is also called kernel.
+Applications
+In algebraic geometry, the first definition of an algebraic variety is through zero sets. Specifically, an affine algebraic set is the intersection of the zero sets of several polynomials, in a polynomial ring $MATH$ over a field. In this context, a zero set is sometimes called a zero locus.
+In analysis and geometry, any closed subset of $MATH$ is the zero set of a smooth function defined on all of $MATH$. This extends to any smooth manifold as a corollary of paracompactness. 
+In differential geometry, zero sets are frequently used to define manifolds. An important special case is the case that $MATH$ is a smooth function from $MATH$ to $MATH$. If zero is a regular value of $MATH$, then the zero set of $MATH$ is a smooth manifold of dimension $MATH$ by the regular value theorem.
+For example, the unit $MATH$-sphere in $MATH$ is the zero set of the real-valued function $MATH$.
+See also
+References
+Further reading

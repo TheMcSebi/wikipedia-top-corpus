@@ -1,0 +1,24 @@
+Google Answers
+Google Answers was an online knowledge market offered by Google, online from 2002 to 2006.
+History
+Google Answers' predecessor was Google Questions and Answers, which was launched in June 2001. This service involved Google staffers answering questions by e-mail for a flat fee (US$3.00). It was fully functional for about 24 hours, after which it was shut down, possibly due to excessive demand and the tough competition that Yahoo! set in place.
+Google Answers was launched in April 2002. A month later, a search feature was added.
+Google Answers came out of beta in May 2003. It received more than 100 question postings per day when the service ended in December 2006. According to Danny Sullivan of Searchenginewatch, Google Answers was not solid enough to compete against Yahoo! Answers.
+In late November 2006, Google reported that it planned to permanently shut down the service (except for the Hong Kong and Arabic versions). No new questions were accepted after November 30, 2006 and no new answers were accepted after December 31, 2006. It was fully closed by late December 2006, although its archives remain available.
+Google opened related sites, one in Russia also called Google Questions and Answers in 2007, and one in China called Tianya Answers, in reference to its Chinese partner site.  In September 2009, Google launched an Arabic version called Google Egabat or Google Ejabat (إجابات Google), meaning Google Answers. However, in late May 2014, this service was announced to be read-only starting from 23 June 2014.
+In an email sent to registered researchers announcing the closure, Google wrote:
+Description
+Process
+Google Answers was designed as an extension to the conventional search: rather than doing the search themselves, users would pay someone else to do the search. Anyone could ask questions, offer a price for an answer, and researchers, who were called Google Answers Researchers or GARs, answered them. Researchers were not Google employees, but contractors that were required to complete an application process to be approved to answer for the site. They were limited in number (according to Google, there were more than 500 Researchers; in practice, there were fewer active Researchers). The application process tested their research and communication abilities.
+Researchers with low ratings could be fired, a policy which encouraged eloquence and accuracy. Also, Google stated that people who commented might be selected to become Researchers, therefore inspiring high quality comments. For a Researcher, a question was answered by logging into a special researchers page and then "locking" a question they wanted to answer. This act of "locking" claimed the question for that researcher. Questions worth less than $100 could be locked for up to four hours, and questions worth more than $100 could be locked up to eight hours at a time in order to be properly answered. A Researcher could only lock one question at a time.
+Asker-accepted answers cost $2 to $200. Google retained 25% of the researcher's reward and a 50 cent fee per question. In addition to the researcher's fees, a client who was satisfied with the answer could also leave a tip of up to $100.
+In Google Search, when a user would put "why?" at the end of a search query, Google would show a link to Google Answers where the answer could be provided for a fee.
+Question structure
+The pages of Google Answers' website ranked extremely well in Google's search results, the commenting system was widely used by the SEO community to benefit from this feature.
+Rules
+Google's policies prohibited answering questions that would obviously lead to or contain:
+Criticism
+Some librarians have criticized Google Answers as a service selling services that are part of the tasks of public librarians (in the United States).  The most vocal of these critics was former Google Answers Researcher Jessamyn West, whose contract was terminated after she violated the site's terms of service by publishing an article about her experience as a Google Answers Researcher. Other reference librarians claimed that the service was not detrimental to libraries, but simply operated in parallel to them.
+Other critics claimed that the service encourages plagiarism. The official Google Answers policy was to remove questions that appeared to be school assignments. However, some journalists expressed concerns that sometimes it is difficult to distinguish between a "legitimate" question and a homework assignment, especially in regard to sciences and programming.
+See also
+Notes

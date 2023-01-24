@@ -1,0 +1,163 @@
+Hahn–Banach theorem
+The Hahn–Banach theorem is a central tool in functional analysis. 
+It allows the extension of bounded linear functionals defined on a subspace of some vector space to the whole space, and it also shows that there are "enough" continuous linear functionals defined on every normed vector space to make the study of the dual space "interesting". Another version of the Hahn–Banach theorem is known as the Hahn–Banach separation theorem or the hyperplane separation theorem, and has numerous uses in convex geometry.
+History
+The theorem is named for the mathematicians Hans Hahn and Stefan Banach, who proved it independently in the late 1920s. 
+The special case of the theorem for the space $MATH$ of continuous functions on an interval was proved earlier (in 1912) by Eduard Helly, and a more general extension theorem, the M. Riesz extension theorem, from which the Hahn–Banach theorem can be derived, was proved in 1923 by Marcel Riesz.
+The first Hahn–Banach theorem was proved by Eduard Helly in 1921 who showed that certain linear functionals defined on a subspace of a certain type of normed space ($MATH$) had an extension of the same norm. Helly did this through the technique of first proving that a one-dimensional extension exists (where the linear functional has its domain extended by one dimension) and then using induction.  In 1927, Hahn defined general Banach spaces and used Helly's technique to prove a norm-preserving version of Hahn–Banach theorem for Banach spaces (where a bounded linear functional on a subspace has a bounded linear extension of the same norm to the whole space).  In 1929, Banach, who was unaware of Hahn's result, generalized it by replacing the norm-preserving version with the dominated extension version that uses sublinear functions.  Whereas Helly's proof used mathematical induction, Hahn and Banach both used transfinite induction.
+The Hahn–Banach theorem arose from attempts to solve infinite systems of linear equations. This is needed to solve problems such as the moment problem, whereby given all the potential moments of a function one must determine if a function having these moments exists, and, if so, find it in terms of those moments. Another such problem is the Fourier cosine series problem, whereby given all the potential Fourier cosine coefficients one must determine if a function having those coefficients exists, and, again, find it if so.
+Riesz and Helly solved the problem for certain classes of spaces (such as $MATH$ and $MATH$ where they discovered that the existence of a solution was equivalent to the existence and continuity of certain linear functionals.  In effect, they needed to solve the following problem:
+If $MATH$ happens to be a reflexive space then to solve the vector problem, it suffices to solve the following dual problem:
+Riesz went on to define $MATH$ space ($MATH$) in 1910 and the $MATH$ spaces in 1913.  While investigating these spaces he proved a special case of the Hahn–Banach theorem.  Helly also proved a special case of the Hahn–Banach theorem in 1912.  In 1910, Riesz solved the functional problem for some specific spaces and in 1912, Helly solved it for a more general class of spaces. It wasn't until 1932 that Banach, in one of the first important applications of the Hahn–Banach theorem, solved the general functional problem.  The following theorem states the general functional problem and characterizes its solution.
+Theorem (The functional problem) — Let $MATH$ be vectors in a real or complex normed space $MATH$ and let $MATH$ be scalars also indexed by $MATH$
+There exists a continuous linear functional $MATH$ on $MATH$ such that $MATH$ for all $MATH$ if and only if there exists a $MATH$ such that for any choice of scalars $MATH$ where all but finitely many $MATH$ are $MATH$ the following holds:
+The Hahn–Banach theorem can be deduced from the above theorem. If $MATH$ is reflexive then this theorem solves the vector problem.
+Hahn–Banach theorem
+A real-valued function $MATH$ defined on a subset $MATH$ of $MATH$ is said to be dominated (above) by a function $MATH$ if $MATH$ for every $MATH$ 
+Hence the reason why the following version of the Hahn-Banach theorem is called the dominated extension theorem. 
+Hahn–Banach dominated extension theorem (for real linear functionals) — If $MATH$ is a sublinear function (such as a norm or seminorm for example) defined on a real vector space $MATH$ then any linear functional defined on a vector subspace of $MATH$ that is dominated above by $MATH$ has at least one linear extension to all of $MATH$ that is also dominated above by $MATH$
+Explicitly, if $MATH$ is a sublinear function, which by definition means that it satisfies 
+and if $MATH$ is a linear functional defined on a vector subspace $MATH$ of $MATH$ such that 
+then there exists a linear functional $MATH$ such that
+Moreover, if $MATH$ is a seminorm then $MATH$ necessarily holds for all $MATH$
+The theorem remains true if the requirements on $MATH$ are relaxed to require only that $MATH$ be a convex function:
+A function $MATH$ is convex and satisfies $MATH$ if and only if $MATH$ for all vectors $MATH$ and all non-negative real $MATH$ such that $MATH$
+Every sublinear function is a convex function. On the other hand, if $MATH$ is convex, the function $MATH$ defined by $MATH$ is sublinear, and satisfies $MATH$ for all linear functional $MATH$. So the extension of the Hahn-Banach theorem to convex functionals is easy, but has not a much larger content than the classical one stated for sublinear functionals.
+
+
+If $MATH$ is linear then $MATH$ if and only if
+which is the (equivalent) conclusion that some authors write instead of $MATH$
+It follows that if $MATH$ is also symmetric, meaning that $MATH$ holds for all $MATH$ then $MATH$ if and only $MATH$ 
+Every norm is a seminorm and both are symmetric balanced sublinear functions. A sublinear function is a seminorm if and only if it is a balanced function. On a real vector space (although not on a complex vector space), a sublinear function is a seminorm if and only if it is symmetric. The identity function $MATH$ on $MATH$ is an example of a sublinear function that is not a seminorm. 
+For complex or real vector spaces
+The dominated extension theorem for real linear functionals implies the following alternative statement of the Hahn–Banach theorem that can be applied to linear functionals on real or complex vector spaces. 
+Hahn–Banach theorem — Suppose $MATH$ a seminorm on a vector space $MATH$ over the field $MATH$ which is either $MATH$ or $MATH$ 
+If $MATH$ is a linear functional on a vector subspace $MATH$ such that 
+then there exists a linear functional $MATH$ such that
+The theorem remains true if the requirements on $MATH$ are relaxed to require only that for all $MATH$ and all scalars $MATH$ and $MATH$ satisfying $MATH$
+This condition holds if and only if $MATH$ is a convex and balanced function satisfying $MATH$ or equivalently, if and only if it is convex, satisfies $MATH$ and $MATH$ for all $MATH$ and all unit length scalars $MATH$
+A complex-valued functional $MATH$ is said to be dominated by $MATH$ if $MATH$ for all $MATH$ in the domain of $MATH$ 
+With this terminology, the above statements of the Hahn–Banach theorem can be restated more succinctly:
+Proof
+The following observations allow the Hahn–Banach theorem for real vector spaces to be applied to (complex-valued) linear functionals on complex vector spaces.
+Every linear functional $MATH$ on a complex vector space is completely determined by its real part $MATH$ through the formula
+and moreover, if $MATH$ is a norm on $MATH$ then their operator norms are equal: $MATH$ 
+In particular, a linear functional on $MATH$ extends another one defined on $MATH$ if and only if their real parts are equal on $MATH$ (in other words, a linear functional $MATH$ extends $MATH$ if and only if $MATH$ extends $MATH$). 
+The real part of a linear functional on $MATH$ is always a real-linear functional (meaning that it is linear when $MATH$ is considered as a real vector space) and if $MATH$ is a real-linear functional on a complex vector space then $MATH$ defines the unique linear functional on $MATH$ whose real part is $MATH$
+If $MATH$ is a linear functional on a (complex or real) vector space $MATH$ and if $MATH$ is a seminorm then
+Stated in simpler language, a linear functional is dominated by a seminorm $MATH$ if and only if its real part is dominated above by $MATH$
+Suppose $MATH$ is a seminorm on a complex vector space $MATH$ and let $MATH$ be a linear functional defined on a vector subspace $MATH$ of $MATH$ that satisfies $MATH$ on $MATH$ 
+Consider $MATH$ as a real vector space and apply the Hahn–Banach theorem for real vector spaces to the real-linear functional $MATH$ to obtain a real-linear extension $MATH$ that is also dominated above by $MATH$ which means that it satisfies $MATH$ on $MATH$ and $MATH$ on $MATH$ 
+The map $MATH$ defined by $MATH$ is a linear functional on $MATH$ that extends $MATH$ (because their real parts agree on $MATH$) and satisfies $MATH$ on $MATH$ (because $MATH$ and $MATH$ is a seminorm). 
+$MATH$
+The proof above shows that when $MATH$ is a seminorm then there is a one-to-one correspondence between dominated linear extensions of $MATH$ and dominated real-linear extensions of $MATH$ ;}
+  
+ the proof even gives a formula for explicitly constructing a linear extension of $MATH$ from any given real-linear extension of its real part.
+Continuity
+A linear functional $MATH$ on a topological vector space  is continuous if and only if this is true of its real part $MATH$ if the domain is a normed space then $MATH$ (where one side is infinite if and only if the other side is infinite). 
+Assume $MATH$ is a topological vector space and $MATH$ is sublinear function. 
+If $MATH$ is a continuous sublinear function that dominates a linear functional $MATH$ then $MATH$ is necessarily continuous. Moreover, a linear functional $MATH$ is continuous if and only if its absolute value $MATH$ (which is a seminorm that dominates $MATH$) is continuous. In particular, a linear functional is continuous if and only if it is dominated by some continuous sublinear function.
+Proof
+The Hahn–Banach theorem for real vector spaces ultimately follows from Helly's initial result for the special case where the linear functional is extended from $MATH$ to a larger vector space in which $MATH$ has codimension $MATH$
+Lemma (One–dimensional dominated extension theorem) — Let $MATH$ be a sublinear function on a real vector space $MATH$ let $MATH$ a linear functional on a proper vector subspace $MATH$ such that $MATH$ on $MATH$ (meaning $MATH$ for all $MATH$), and let $MATH$ be a vector not in $MATH$ (so $MATH$). 
+There exists a linear extension $MATH$ of $MATH$ such that $MATH$ on $MATH$
+Given any real number $MATH$ the map $MATH$ defined by $MATH$ is always a linear extension of $MATH$ to $MATH$ but it might not satisfy $MATH$ 
+It will be shown that $MATH$ can always be chosen so as to guarantee that $MATH$ which will complete the proof. 
+If $MATH$ then 
+which implies
+So define
+where $MATH$ are real numbers. 
+To guarantee $MATH$ it suffices that $MATH$ (in fact, this is also necessary) because then $MATH$ satisfies "the decisive inequality"
+To see that $MATH$ follows, assume $MATH$ and substitute $MATH$ in for both $MATH$ and $MATH$ to obtain
+If $MATH$ (respectively, if $MATH$) then the right (respectively, the left) hand side equals $MATH$ so that multiplying by $MATH$ gives $MATH$
+$MATH$
+This lemma remains true if $MATH$ is merely a convex function instead of a sublinear function.
+The lemma above is the key step in deducing the dominated extension theorem from Zorn's lemma. 
+The set of all possible dominated linear extensions of $MATH$ are partially ordered by extension of each other, so there is a maximal extension $MATH$  By the codimension-1 result, if $MATH$ is not defined on all of $MATH$ then it can be further extended.  Thus $MATH$ must be defined everywhere, as claimed. 
+$MATH$
+When $MATH$ has countable codimension, then using induction and the lemma completes the proof of the Hahn–Banach theorem. The standard proof of the general case uses Zorn's lemma although the strictly weaker ultrafilter lemma (which is equivalent to the compactness theorem and to the Boolean prime ideal theorem) may be used instead. Hahn-Banach can also be proved using Tychonoff's theorem for compact Hausdorff spaces (which is also equivalent to the ultrafilter lemma)
+The Mizar project has completely formalized and automatically checked the proof of the Hahn–Banach theorem in the HAHNBAN file.
+In locally convex spaces
+
+
+In the above form, the functional to be extended must already be bounded by a sublinear function.  In some applications, this might close to begging the question.  However, in locally convex spaces, any continuous functional is already bounded by the norm, which is sublinear.  One thus has
+Continuous extensions on locally convex spaces — Let X be locally convex topological vector space over $MATH$ (either $MATH$ or $MATH$), $MATH$ a vector subspace of X, and $MATH$ a continuous linear functional on $MATH$ Then $MATH$ has a continuous linear extension to all of X.  If the topology on X arises from a norm, then the norm of $MATH$ is preserved by this extension.
+In category-theoretic terms, the field $MATH$ is an injective object in the category of locally convex vector spaces.
+Geometric Hahn–Banach (the Hahn–Banach separation theorems)
+The key element of the Hahn–Banach theorem is fundamentally a result about the separation of two convex sets: $MATH$ and $MATH$  This sort of argument appears widely in convex geometry, optimization theory, and economics.  Lemmas to this end derived from the original Hahn–Banach theorem are known as the Hahn–Banach separation theorems.
+Theorem — Let $MATH$ and $MATH$ be non-empty convex subsets of a real locally convex topological vector space $MATH$ 
+If $MATH$ and $MATH$ then there exists a continuous linear functional $MATH$ on $MATH$ such that $MATH$ and $MATH$ for all $MATH$ (such an $MATH$ is necessarily non-zero).
+When the convex sets have additional properties, such as being open or compact for example, then the conclusion can be substantially strengthened:
+Theorem — Let $MATH$ and $MATH$ be convex non-empty disjoint subsets of a real topological vector space $MATH$
+If $MATH$ is complex (rather than real) then the same claims hold, but for the real part of $MATH$
+Then following important corollary is known as the Geometric Hahn–Banach theorem or Mazur's theorem. It follows from the first bullet above and the convexity of $MATH$
+Theorem (Mazur) — Let $MATH$ be a vector subspace of the topological vector space $MATH$ and suppose $MATH$ is a non-empty convex open subset of $MATH$ with $MATH$ 
+Then there is a closed hyperplane (codimension-1 vector subspace) $MATH$ that contains $MATH$ but remains disjoint from $MATH$
+Mazur's theorem clarifies that vector subspaces (even those that are not closed) can be characterized by linear functionals. 
+Corollary (Separation of a subspace and an open convex set) — Let $MATH$ be a vector subspace of a locally convex topological vector space $MATH$ and $MATH$ be a non-empty open convex subset disjoint from $MATH$  Then there exists a continuous linear functional $MATH$ on $MATH$ such that $MATH$ for all $MATH$ and $MATH$ on $MATH$
+Supporting hyperplanes
+Since points are trivially convex, geometric Hahn-Banach implies that functionals can detect the boundary of a set.  In particular, let $MATH$ be a real topological vector space and $MATH$ be convex with $MATH$ If $MATH$ then there is a functional that is vanishing at $MATH$ but supported on the interior of $MATH$
+Call a normed space $MATH$ smooth if at each point $MATH$ in its unit ball there exists a unique closed hyperplane to the unit ball at $MATH$ Köthe showed in 1983 that a normed space is smooth at a point $MATH$ if and only if the norm is Gateaux differentiable at that point.
+Balanced or disked neighborhoods
+Let $MATH$ be a convex balanced neighborhood of the origin in a locally convex topological vector space $MATH$ and suppose $MATH$ is not an element of $MATH$ Then there exists a continuous linear functional $MATH$ on $MATH$ such that
+$MATH$
+Applications
+The Hahn–Banach theorem is the first sign of an important philosophy in functional analysis: to understand a space, one should understand its continuous functionals.
+For example, linear subspaces are characterized by functionals: if X is a normed vector space with linear subspace M (not necessarily closed) and if $MATH$ is an element of X not in the closure of M, then there exists a continuous linear map $MATH$ with $MATH$ for all $MATH$ $MATH$ and $MATH$  (To see this, note that $MATH$ is a sublinear function.)  Moreover, if $MATH$ is an element of X, then there exists a continuous linear map $MATH$ such that $MATH$ and $MATH$  This implies that the natural injection $MATH$ from a normed space X into its double dual $MATH$ is isometric.
+That last result also suggests that the Hahn–Banach theorem can often be used to locate a "nicer" topology in which to work.  For example, many results in functional analysis assume that a space is Hausdorff or locally convex.  However, suppose X is a topological vector space, not necessarily Hausdorff or locally convex, but with a nonempty, proper, convex, open set M.  Then geometric Hahn-Banach implies that there is a hyperplane separating M from any other point.  In particular, there must exist a nonzero functional on X — that is, the continuous dual space $MATH$ is non-trivial. Considering X with the weak topology induced by $MATH$ then X becomes locally convex; by the second bullet of geometric Hahn-Banach, the weak topology on this new space separates points. 
+Thus X with this weak topology becomes Hausdorff.  This sometimes allows some results from locally convex topological vector spaces to be applied to non-Hausdorff and non-locally convex spaces.
+Partial differential equations
+The Hahn–Banach theorem is often useful when one wishes to apply the method of a priori estimates.  Suppose that we wish to solve the linear differential equation $MATH$ for $MATH$ with $MATH$ given in some Banach space X.  If we have control on the size of $MATH$ in terms of $MATH$ and we can think of $MATH$ as a bounded linear functional on some suitable space of test functions $MATH$ then we can view $MATH$ as a linear functional by adjunction: $MATH$  At first, this functional is only defined on the image of $MATH$ but using the Hahn–Banach theorem, we can try to extend it to the entire codomain X.  The resulting functional is often defined to be a weak solution to the equation.
+Characterizing reflexive Banach spaces
+Theorem — A real Banach space is reflexive if and only if every pair of non-empty disjoint closed convex subsets, one of which is bounded, can be strictly separated by a hyperplane.
+Example from Fredholm theory
+To illustrate an actual application of the Hahn–Banach theorem, we will now prove a result that follows almost entirely from the Hahn–Banach theorem.
+Proposition — Suppose $MATH$ is a Hausdorff locally convex TVS over the field $MATH$ and $MATH$ is a vector subspace of $MATH$ that is TVS–isomorphic to $MATH$ for some set $MATH$ 
+Then $MATH$ is a closed and complemented vector subspace of $MATH$
+Since $MATH$ is a complete TVS so is $MATH$ and since any complete subset of a Hausdorff TVS is closed, $MATH$ is a closed subset of $MATH$ 
+Let $MATH$ be a TVS isomorphism, so that each $MATH$ is a continuous surjective linear functional. 
+By the Hahn–Banach theorem, we may extend each $MATH$ to a continuous linear functional $MATH$ on $MATH$ 
+Let $MATH$ so $MATH$ is a continuous linear surjection such that its restriction to $MATH$ is $MATH$ 
+Let $MATH$ which is a continuous linear map whose restriction to $MATH$ is $MATH$ where $MATH$ denotes the identity map on $MATH$ 
+This shows that $MATH$ is a continuous linear projection onto $MATH$ (that is, $MATH$). 
+Thus $MATH$ is complemented in $MATH$ and $MATH$ in the category of TVSs. $MATH$
+The above result may be used to show that every closed vector subspace of $MATH$ is complemented because any such space is either finite dimensional or else TVS–isomorphic to $MATH$
+Generalizations
+General template
+There are now many other versions of the Hahn–Banach theorem. The general template for the various versions of the Hahn–Banach theorem presented in this article is as follows:
+Theorem — If $MATH$ is an absorbing disk in a real or complex vector space $MATH$ and if $MATH$ be a linear functional defined on a vector subspace $MATH$ of $MATH$ such that $MATH$ on $MATH$ then there exists a linear functional $MATH$ on $MATH$ extending $MATH$ such that $MATH$ on $MATH$
+For seminorms
+Hahn–Banach theorem for seminorms — If $MATH$ is a seminorm defined on a vector subspace $MATH$ of $MATH$ and if $MATH$ is a seminorm on $MATH$ such that $MATH$ then there exists a seminorm $MATH$ on $MATH$ such that $MATH$ on $MATH$ and $MATH$ on $MATH$
+Let $MATH$ be the convex hull of $MATH$ Because $MATH$ is an absorbing disk in $MATH$ its Minkowski functional $MATH$ is a seminorm. Then $MATH$ on $MATH$ and $MATH$ on $MATH$
+Geometric separation
+Hahn–Banach sandwich theorem — Let $MATH$ be a sublinear function on a real vector space $MATH$ let $MATH$ be any subset of $MATH$ and let $MATH$ be any map. 
+If there exist positive real numbers $MATH$ and $MATH$ such that 
+then there exists a linear functional $MATH$ on $MATH$ such that $MATH$ on $MATH$ and $MATH$ on $MATH$
+Maximal dominated linear extension
+Theorem (Andenaes, 1970) — Let $MATH$ be a sublinear function on a real vector space $MATH$ let $MATH$ be a linear functional on a vector subspace $MATH$ of $MATH$ such that $MATH$ on $MATH$ and let $MATH$ be any subset of $MATH$ 
+Then there exists a linear functional $MATH$ on $MATH$ that extends $MATH$ satisfies $MATH$ on $MATH$ and is (pointwise) maximal on $MATH$ in the following sense: if $MATH$ is a linear functional on $MATH$ that extends $MATH$ and satisfies $MATH$ on $MATH$ then $MATH$ on $MATH$ implies $MATH$ on $MATH$
+If $MATH$ is a singleton set (where $MATH$ is some vector) and if $MATH$ is such a maximal dominated linear extension of $MATH$ then $MATH$
+Vector valued Hahn–Banach
+Vector–valued Hahn–Banach theorem — If $MATH$ and $MATH$ are vector spaces over the same field and if $MATH$ be a linear map defined on a vector subspace $MATH$ of $MATH$ then there exists a linear map $MATH$ that extends $MATH$
+For nonlinear functions
+The following theorem of Mazur–Orlicz (1953) is equivalent to the Hahn–Banach theorem.
+Mazur–Orlicz theorem — Let $MATH$ be a sublinear function on a real or complex vector space $MATH$ let $MATH$ be any set, and let $MATH$ and $MATH$ be any maps. The following statements are equivalent:
+The following theorem characterizes when any scalar function on $MATH$ (not necessarily linear) has a continuous linear extension to all of $MATH$
+Theorem (The extension principle) — Let $MATH$ a scalar-valued function on a subset $MATH$ of a topological vector space $MATH$  
+Then there exists a continuous linear functional $MATH$ on $MATH$ extending $MATH$ if and only if there exists a continuous seminorm $MATH$ on $MATH$ such that 
+for all positive integers $MATH$ and all finite sequences $MATH$ of scalars and elements $MATH$ of $MATH$
+Converse
+Let X be a topological vector space.  A vector subspace M of X has the extension property if any continuous linear functional on M can be extended to a continuous linear functional on X, and we say that X has the Hahn–Banach extension property (HBEP) if every vector subspace of X has the extension property.
+The Hahn–Banach theorem guarantees that every Hausdorff locally convex space has the HBEP.  For complete metrizable topological vector spaces there is a converse, due to Kalton: every complete metrizable TVS with the Hahn–Banach extension property is locally convex.  On the other hand, a vector space X of uncountable dimension, endowed with the finest vector topology, then this is a topological vector spaces with the Hahn-Banach extension property that is neither locally convex nor metrizable.
+A vector subspace M of a TVS X has the separation property if for every element of X such that $MATH$ there exists a continuous linear functional $MATH$ on X such that $MATH$ and $MATH$ for all $MATH$  Clearly, the continuous dual space of a TVS X separates points on X if and only if $MATH$ has the separation property.  In 1992, Kakol proved that any infinite dimensional vector space X, there exist TVS-topologies on X that do not have the HBEP despite having enough continuous linear functionals for the continuous dual space to separate points on X.  However, if X is a TVS then every vector subspace of X has the extension property if and only if every vector subspace of X has the separation property.
+Relation to axiom of choice and other theorems
+The proof of the Hahn–Banach theorem for real vector spaces (HB) commonly uses Zorn's lemma, which in the axiomatic framework of Zermelo–Fraenkel set theory (ZF) is equivalent to the axiom of choice (AC).  It was discovered by Łoś and Ryll-Nardzewski and independently by Luxemburg that HB can be proved using the ultrafilter lemma (UL), which is equivalent (under ZF) to the Boolean prime ideal theorem (BPI). BPI is strictly weaker than the axiom of choice and it was later shown that HB is strictly weaker than BPI.
+The ultrafilter lemma is equivalent (under ZF) to the Banach–Alaoglu theorem, which is another foundational theorem in functional analysis. Although the Banach–Alaoglu theorem implies HB, it is not equivalent to it (said differently, the Banach–Alaoglu theorem is strictly stronger than HB). 
+However, HB is equivalent to a certain weakened version of the Banach–Alaoglu theorem for normed spaces. 
+The Hahn–Banach theorem is also equivalent to the following statement:
+(BPI is equivalent to the statement that there are always non-constant probability charges which take only the values 0 and 1.)
+In ZF, the Hahn–Banach theorem suffices to derive the existence of a non-Lebesgue measurable set.  Moreover, the Hahn–Banach theorem implies the Banach–Tarski paradox.
+For separable Banach spaces, D. K. Brown and S. G. Simpson proved that the Hahn–Banach theorem follows from WKL0, a weak subsystem of second-order arithmetic that takes a form of Kőnig's lemma restricted to binary trees as an axiom.  In fact, they prove that under a weak set of assumptions, the two are equivalent, an example of reverse mathematics.
+See also
+Notes
+Proofs

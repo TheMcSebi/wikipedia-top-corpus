@@ -1,0 +1,34 @@
+Logarithmic scale
+A logarithmic scale (or log scale) is a way of displaying numerical data over a very wide range of values in a compact way—typically the largest numbers in the data are hundreds or even thousands of times larger than the smallest numbers. Such a scale is nonlinear: the numbers 10 and 20, and 60 and 70, are not the same distance apart on a log scale. Rather, the numbers 10 and 100, and 60 and 600 are equally spaced. Thus moving a unit of distance along the scale means the number has been multiplied by 10 (or some other fixed factor). Often exponential growth curves are displayed on a log scale, otherwise they would increase too quickly to fit within a small graph. Another way to think about it is that the number of digits of the data grows at a constant rate. For example, the numbers 10, 100, 1000, and 10000 are equally spaced on a log scale, because their numbers of digits is going up by 1 each time: 2, 3, 4, and 5 digits. In this way, adding two digits multiplies the quantity measured on the log scale by a factor of 100.
+Common uses
+The markings on slide rules are arranged in a log scale for multiplying or dividing numbers by adding or subtracting lengths on the scales.
+The following are examples of commonly used logarithmic scales, where a larger quantity results in a higher value:
+The following are examples of commonly used logarithmic scales, where a larger quantity results in a lower (or negative) value:
+Some of our senses operate in a logarithmic fashion (Weber–Fechner law), which makes logarithmic scales for these input quantities especially appropriate. In particular, our sense of hearing perceives equal ratios of frequencies as equal differences in pitch. In addition, studies of young children in an isolated tribe have shown logarithmic scales to be the most natural display of numbers in some cultures.
+Graphic representation
+The top left graph is linear in the X and Y axes, and the Y-axis ranges from 0 to 10. A base-10 log scale is used for the Y axis of the bottom left graph, and the Y axis ranges from 0.1 to 1,000.
+The top right graph uses a log-10 scale for just the X axis, and the bottom right graph uses a log-10 scale for both the X axis and the Y axis.
+Presentation of data on a logarithmic scale can be helpful when the data:
+A slide rule has logarithmic scales, and nomograms often employ logarithmic scales. The geometric mean of two numbers is midway between the numbers. Before the advent of computer graphics, logarithmic graph paper was a commonly used scientific tool.
+Log–log plots
+If both the vertical and horizontal axes of a plot are scaled logarithmically, the plot is referred to as a log–log plot.
+Semi-logarithmic plots
+If only the ordinate or abscissa is scaled logarithmically, the plot is referred to as a semi-logarithmic plot.
+Extensions
+A modified log transform can be defined for negative input (y<0) and to avoid the singularity for zero input (y=0) so as to produce symmetric log plots:
+for a constant C=1/ln(10).
+Logarithmic units
+A logarithmic unit is a unit that can be used to express a quantity (physical or mathematical) on a logarithmic scale, that is, as being proportional to the value of a logarithm function applied to the ratio of the quantity and a reference quantity of the same type. The choice of unit generally indicates the type of quantity and the base of the logarithm. 
+Examples
+Examples of logarithmic units include units of data storage capacity (bit, byte), of information and information entropy (nat, shannon, ban), and of signal level (decibel, bel, neper).  Logarithmic frequency quantities are used in electronics (decade, octave) and for music pitch intervals (octave, semitone, cent, etc.).  Other logarithmic scale units include the Richter magnitude scale point.
+In addition, several industrial measures are logarithmic, such as standard values for resistors, the American wire gauge, the Birmingham gauge used for wire and needles, and so on.
+Units of information
+Units of level or level difference
+Units of frequency interval
+Table of examples
+The two definitions of a decibel are equivalent, because a ratio of power quantities is equal to the square of the corresponding ratio of root-power quantities.
+See also
+Scale
+Applications
+References
+Further reading

@@ -1,0 +1,27 @@
+Ethylenediamine
+Ethylenediamine (abbreviated as en when a ligand) is the organic compound with the formula C2H4(NH2)2. This colorless liquid with an ammonia-like odor is a basic amine. It is a widely used building block in chemical synthesis, with approximately 500,000 tonnes produced in 1998. Ethylenediamine is the first member of the so-called polyethylene amines.
+Synthesis
+Ethylenediamine is produced industrially by treating 1,2-dichloroethane with ammonia under pressure at 180 °C in an aqueous medium:
+In this reaction hydrogen chloride is generated, which forms a salt with the amine. The amine is liberated by addition of sodium hydroxide and can then be recovered by rectification. Diethylenetriamine (DETA) and triethylenetetramine (TETA) are formed as by-products.
+Another industrial route to ethylenediamine involves the reaction of ethanolamine and ammonia:
+This process involves passing the gaseous reactants over a bed of nickel heterogeneous catalysts.
+It can be produced in the lab by the reaction of ethylene glycol and urea.
+Ethylenediamine can be purified by treatment with sodium hydroxide to remove water followed by distillation.
+Applications
+Ethylenediamine is used in large quantities for production of many industrial chemicals. It forms derivatives with carboxylic acids (including fatty acids), nitriles, alcohols (at elevated temperatures), alkylating agents, carbon disulfide, and aldehydes and ketones. Because of its bifunctional nature, having two amines, it readily forms heterocycles such as imidazolidines.
+Precursor to chelation agents, drugs, and agrochemicals
+A most prominent derivative of ethylenediamine is the chelating agent  EDTA, which is derived from ethylenediamine via a Strecker synthesis involving cyanide and formaldehyde. Hydroxyethylethylenediamine is another commercially significant chelating agent.  Numerous bio-active compounds and drugs contain the N-CH2-CH2-N linkage, including some antihistamines. Salts of ethylenebisdithiocarbamate are commercially significant fungicides under the brand names Maneb, Mancozeb, Zineb, and Metiram. Some imidazoline-containing fungicides are derived from ethylenediamine.
+Pharmaceutical ingredient
+Ethylenediamine is an ingredient in the common bronchodilator drug aminophylline, where it serves to solubilize the active ingredient theophylline. Ethylenediamine has also been used in dermatologic preparations, but has been removed from some because of causing contact dermatitis. When used as a pharmaceutical excipient, after oral administration its bioavailability is about 0.34, due to a substantial first-pass effect. Less than 20% is eliminated by renal excretion.
+Ethylenediamine-derived antihistamines are the oldest of the five classes of first-generation antihistamines, beginning with piperoxan aka benodain, discovered in 1933 at the Pasteur Institute in France, and also including mepyramine, tripelennamine, and antazoline. The other classes are derivatives of ethanolamine, alkylamine, piperazine, and others (primarily tricyclic and tetracyclic compounds related to phenothiazines, tricyclic antidepressants, as well as the cyproheptadine-phenindamine family)
+Role in polymers
+Ethylenediamine, because it contains two amine groups, is a widely used precursor to various polymers. Condensates derived from formaldehyde are plasticizers. It is widely used in the production of polyurethane fibers. The PAMAM class of dendrimers are derived from ethylenediamine.
+Tetraacetylethylenediamine
+The bleaching activator tetraacetylethylenediamine is generated from ethylenediamine. The derivative N,N-ethylenebis(stearamide) (EBS) is a commercially significant mold-release agent and a surfactant in gasoline and motor oil.
+Other applications
+Coordination chemistry
+Ethylenediamine is a well-known bidentate chelating ligand for coordination compounds, with the two nitrogen atoms donating their lone pairs of electrons when ethylenediamine acts as a ligand. It is often abbreviated "en" in inorganic chemistry. The complex [Co(ethylenediamine)3]3+ is an archetypical chiral tris-chelate complex. The salen ligands, some of which are used in catalysis, are derived from the condensation of salicylaldehydes and ethylenediamine.
+Related ligands
+Related derivatives of ethylenediamine include ethylenediaminetetraacetic acid (EDTA), tetramethylethylenediamine (TMEDA), and tetraethylethylenediamine (TEEDA). Chiral analogs of ethylenediamine include 1,2-diaminopropane and trans-diaminocyclohexane.
+Safety
+Ethylenediamine, like ammonia and other low-molecular weight amines, is a skin and respiratory irritant. Unless tightly contained, liquid ethylenediamine will release toxic and irritating vapors into its surroundings, especially on heating. The vapors absorb moisture from humid air to form a characteristic white mist, which is extremely irritating to skin, eyes, lungs and mucus membranes.

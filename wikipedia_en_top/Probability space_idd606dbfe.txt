@@ -1,0 +1,62 @@
+Probability space
+In probability theory, a probability space or a probability triple $MATH$ is a mathematical construct that provides a formal model of a random process or "experiment". For example, one can define a probability space which models the throwing of a die.
+A probability space consists of three elements:
+In order to provide a sensible model of probability, these elements must satisfy a number of axioms, detailed in this article.
+In the example of the throw of a standard die, we would take the sample space to be $MATH$. For the event space, we could simply use the set of all subsets of the sample space, which would then contain simple events such as $MATH$ ("the die lands on 5"), as well as complex events such as $MATH$ ("the die lands on an even number"). Finally, for the probability function, we would map each event to the number of outcomes in that event divided by 6 — so for example, $MATH$ would be mapped to $MATH$, and $MATH$ would be mapped to $MATH$.
+When an experiment is conducted, we imagine that "nature" "selects" a single outcome, $MATH$, from the sample space $MATH$. All the events in the event space $MATH$ that contain the selected outcome $MATH$ are said to "have occurred". This "selection" happens in such a way that if the experiment were repeated many times, the number of occurrences of each event, as a fraction of the total number of experiments, would most likely tend towards the probability assigned to that event by the probability function $MATH$.
+The Soviet mathematician Andrey Kolmogorov introduced the notion of probability space, together with other axioms of probability, in the 1930s. In modern probability theory there are a number of alternative approaches for axiomatization — for example, algebra of random variables.
+Introduction
+A probability space is a mathematical triplet $MATH$ that presents a model for a particular class of real-world situations.
+As with other models, its author ultimately defines which elements $MATH$, $MATH$, and $MATH$ will contain.
+Not every subset of the sample space $MATH$ must necessarily be considered an event: some of the subsets are simply not of interest, others cannot be "measured". This is not so obvious in a case like a coin toss. In a different example, one could consider javelin throw lengths, where the events typically are intervals like "between 60 and 65 meters" and unions of such intervals, but not sets like the "irrational numbers between 60 and 65 meters".
+Definition
+In short, a probability space is a measure space such that the measure of the whole space is equal to one.
+The expanded definition is the following: a probability space is a triple $MATH$ consisting of:
+Discrete case
+Discrete probability theory needs only at most countable sample spaces $MATH$. Probabilities can be ascribed to points of $MATH$ by the probability mass function $MATH$ such that $MATH$. All subsets of $MATH$ can be treated as events (thus, $MATH$ is the power set). The probability measure takes the simple form
+The greatest σ-algebra $MATH$ describes the complete information. In general, a σ-algebra $MATH$ corresponds to a finite or countable partition $MATH$, the general form of an event $MATH$ being $MATH$. See also the examples.
+The case $MATH$ is permitted by the definition, but rarely used, since such $MATH$ can safely be excluded from the sample space.
+General case
+If Ω is uncountable, still, it may happen that p(ω) ≠ 0 for some ω; such ω are called atoms. They are an at most countable (maybe empty) set, whose probability is the sum of probabilities of all atoms. If this sum is equal to 1 then all other points can safely be excluded from the sample space, returning us to the discrete case. Otherwise, if the sum of probabilities of all atoms is between 0 and 1, then the probability space decomposes into a discrete (atomic) part (maybe empty) and a non-atomic part.
+Non-atomic case
+If p(ω) = 0 for all ω ∈ Ω (in this case, Ω must be uncountable, because otherwise P(Ω) = 1 could not be satisfied), then equation (⁎) fails: the probability of a set is not necessarily the sum over the probabilities of its elements, as summation is only defined for countable numbers of elements. This makes the probability space theory much more technical. A formulation stronger than summation, measure theory is applicable. Initially the probabilities are ascribed to some "generator" sets (see the examples). Then a limiting procedure allows assigning probabilities to sets that are limits of sequences of generator sets, or limits of limits, and so on. All these sets are the σ-algebra $MATH$. For technical details see Carathéodory's extension theorem. Sets belonging to $MATH$ are called measurable. In general they are much more complicated than generator sets, but much better than non-measurable sets.
+Complete probability space
+A probability space $MATH$ is said to be a complete probability space if for all $MATH$ with $MATH$ and all $MATH$ one has $MATH$. Often, the study of probability spaces is restricted to complete probability spaces.
+Examples
+Example 1
+If the experiment consists of just one flip of a fair coin, then the outcome is either heads or tails: $MATH$. The σ-algebra $MATH$ contains $MATH$ events, namely: $MATH$ ("heads"), $MATH$ ("tails"), $MATH$ ("neither heads nor tails"), and $MATH$ ("either heads or tails"); in other words, $MATH$. There is a fifty percent chance of tossing heads and fifty percent for tails, so the probability measure in this example is $MATH$, $MATH$, $MATH$, $MATH$.
+Example 2
+The fair coin is tossed three times. There are 8 possible outcomes: Ω = {HHH, HHT, HTH, HTT, THH, THT, TTH, TTT} (here "HTH" for example means that first time the coin landed heads, the second time tails, and the last time heads again). The complete information is described by the σ-algebra $MATH$ of 28 = 256 events, where each of the events is a subset of Ω.
+Alice knows the outcome of the second toss only. Thus her incomplete information is described by the partition Ω = A1 ⊔ A2 = {HHH, HHT, THH, THT} ⊔ {HTH, HTT, TTH, TTT}, where ⊔ is the disjoint union, and the corresponding σ-algebra $MATH$. Bryan knows only the total number of tails. His partition contains four parts: Ω = B0 ⊔ B1 ⊔ B2 ⊔ B3 = {HHH} ⊔ {HHT, HTH, THH} ⊔ {TTH, THT, HTT} ⊔ {TTT}; accordingly, his σ-algebra $MATH$ contains 24 = 16 events.
+The two σ-algebras are incomparable: neither $MATH$ nor $MATH$; both are sub-σ-algebras of 2Ω.
+Example 3
+If 100 voters are to be drawn randomly from among all voters in California and asked whom they will vote for governor, then the set of all sequences of 100 Californian voters would be the sample space Ω. We assume that sampling without replacement is used: only sequences of 100 different voters are allowed. For simplicity an ordered sample is considered, that is a sequence {Alice, Bryan} is different from {Bryan, Alice}. We also take for granted that each potential voter knows exactly his/her future choice, that is he/she doesn’t choose randomly.
+Alice knows only whether or not Arnold Schwarzenegger has received at least 60 votes. Her incomplete information is described by the σ-algebra $MATH$ that contains: (1) the set of all sequences in Ω where at least 60 people vote for Schwarzenegger; (2) the set of all sequences where fewer than 60 vote for Schwarzenegger; (3) the whole sample space Ω; and (4) the empty set ∅.
+Bryan knows the exact number of voters who are going to vote for Schwarzenegger. His incomplete information is described by the corresponding partition Ω = B0 ⊔ B1 ⊔ ⋯ ⊔ B100 and the σ-algebra $MATH$ consists of 2101 events.
+In this case Alice’s σ-algebra is a subset of Bryan’s: $MATH$. Bryan’s σ-algebra is in turn a subset of the much larger "complete information" σ-algebra 2Ω consisting of 2n(n−1)⋯(n−99) events, where n is the number of all potential voters in California.
+Example 4
+A number between 0 and 1 is chosen at random, uniformly. Here Ω = [0,1], $MATH$ is the σ-algebra of Borel sets on Ω, and P is the Lebesgue measure on [0,1].
+In this case the open intervals of the form (a,b), where 0 < a < b < 1, could be taken as the generator sets. Each such set can be ascribed the probability of P((a,b)) = (b − a), which generates the Lebesgue measure on [0,1], and the Borel σ-algebra on Ω.
+Example 5
+A fair coin is tossed endlessly. Here one can take Ω = {0,1}∞, the set of all infinite sequences of numbers 0 and 1. Cylinder sets {(x1, x2, ...) ∈ Ω : x1 = a1, ..., xn = an} may be used as the generator sets. Each such set describes an event in which the first n tosses have resulted in a fixed sequence (a1, ..., an), and the rest of the sequence may be arbitrary. Each such event can be naturally given the probability of 2−n.
+These two non-atomic examples are closely related: a sequence (x1, x2, ...) ∈ {0,1}∞ leads to the number 2−1x1 + 2−2x2 + ⋯ ∈ [0,1]. This is not a one-to-one correspondence between {0,1}∞ and [0,1] however: it is an isomorphism modulo zero, which allows for treating the two probability spaces as two forms of the same probability space. In fact, all non-pathological non-atomic probability spaces are the same in this sense. They are so-called standard probability spaces. Basic applications of probability spaces are insensitive to standardness. However, non-discrete conditioning is easy and natural on standard probability spaces, otherwise it becomes obscure.
+Related concepts
+Probability distribution
+Any probability distribution defines a probability measure.
+Random variables
+A random variable X is a measurable function X: Ω → S from the sample space Ω to another measurable space S called the state space.
+If A ⊂ S, the notation Pr(X ∈ A) is a commonly used shorthand for $MATH$.
+Defining the events in terms of the sample space
+If Ω is countable we almost always define $MATH$ as the power set of Ω, i.e. $MATH$ which is trivially a σ-algebra and the biggest one we can create using Ω. We can therefore omit $MATH$ and just write (Ω,P) to define the probability space.
+On the other hand, if Ω is uncountable and we use $MATH$ we get into trouble defining our probability measure P because $MATH$ is too "large", i.e. there will often be sets to which it will be impossible to assign a unique measure. In this case, we have to use a smaller σ-algebra $MATH$, for example the Borel algebra of  Ω, which is the smallest σ-algebra that makes all open sets measurable.
+Conditional probability
+Kolmogorov’s definition of probability spaces gives rise to the natural concept of conditional probability.  Every set A with non-zero probability (that is, P(A) > 0) defines another probability measure
+on the space. This is usually pronounced as the "probability of B given A".
+For any event B such that P(B) > 0 the function Q defined by Q(A) = P(A|B) for all events A is itself a probability measure.
+Independence
+Two events, A and B are said to be independent if P(A ∩ B) = P(A) P(B).
+Two random variables, X and Y, are said to be independent if any event defined in terms of X is independent of any event defined in terms of Y. Formally, they generate independent σ-algebras, where two σ-algebras G and H, which are subsets of F are said to be independent if any element of G is independent of any element of H.
+Mutual exclusivity
+Two events, A and B are said to be mutually exclusive or disjoint if the occurrence of one implies the non-occurrence of the other, i.e., their intersection is empty. This is a stronger condition than the probability of their intersection being zero.
+If A and B are disjoint events, then P(A ∪ B) = P(A) + P(B). This extends to a (finite or countably infinite) sequence of events. However, the probability of the union of an uncountable set of events is not the sum of their probabilities. For example, if Z is a normally distributed random variable, then P(Z = x) is 0 for any x, but P(Z ∈ R) = 1.
+The event A ∩ B is referred to as "A and B", and the event A ∪ B as "A or B".

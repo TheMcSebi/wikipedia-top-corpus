@@ -1,0 +1,29 @@
+Avogadro's law
+Avogadro's law (sometimes referred to as Avogadro's hypothesis or Avogadro's principle) or Avogadro-Ampère's hypothesis   is an experimental gas law relating the volume of a gas to the amount of substance of gas present. The law is a specific case of the ideal gas law. A modern statement is:
+The law is named after Amedeo Avogadro who, in 1812, hypothesized that two given samples of an ideal gas, of the same volume and at the same temperature and pressure, contain the same number of molecules. As an example, equal volumes of gaseous hydrogen and nitrogen contain the same number of atoms when they are at the same temperature and pressure, and observe ideal gas behavior. In practice, real gases show small deviations from the ideal behavior and the law holds only approximately, but is still a useful approximation for scientists.
+Mathematical definition
+The law can be written as:
+or
+where
+This law describes how, under the same condition of temperature and pressure, equal volumes of all gases contain the same number of molecules. For comparing the same substance under two different sets of conditions, the law can be usefully expressed as follows:
+The equation shows that, as the number of moles of gas increases, the volume of the gas also increases in proportion. Similarly, if the number of moles of gas is decreased, then the volume also decreases. Thus, the number of molecules or atoms in a specific volume of ideal gas is independent of their size or the molar mass of the gas.
+Derivation from the ideal gas law
+The derivation of Avogadro's law follows directly from the ideal gas law, i.e.
+where R is the gas constant, T is the Kelvin temperature, and P is the pressure (in pascals).
+Solving for V/n, we thus obtain
+Compare that to
+which is a constant for a fixed pressure and a fixed temperature.
+An equivalent formulation of the ideal gas law can be written using Boltzmann constant kB, as
+where N is the number of particles in the gas, and the ratio of R over kB  is equal to the Avogadro constant.
+In this form, for V/N is a constant, we have
+If T and P are taken at standard conditions for temperature and pressure (STP), then k′ = 1/n0, where n0 is the Loschmidt constant.
+Historical account and influence
+Avogadro's hypothesis (as it was known originally) was formulated in the same spirit of earlier empirical gas laws like Boyle's law (1662), Charles's law (1787)  and Gay-Lussac's law (1808). The hypothesis was first published by Amadeo Avogadro in 1811,  and it reconciled Dalton atomic theory with the "incompatible" idea of Joseph Louis Gay-Lussac that some gases were composite of different fundamental substances (molecules) in integer proportions. In 1814, independently from Avogadro, André-Marie Ampère published the same law with similar conclusions. As Ampère was more well known in France, the hypothesis was usually referred there as Ampère's hypothesis, and later also as Avogadro–Ampère hypothesis or even Ampère–Avogadro hypothesis.
+Experimental studies carried out by Charles Frédéric Gerhardt and Auguste Laurent on organic chemistry demonstrated that Avogadro's law explained why the same quantities of molecules in a gas have the same volume. Nevertheless, related experiments with some inorganic substances showed seeming exceptions to the law. This apparent contradiction was finally resolved by Stanislao Cannizzaro, as announced at Karlsruhe Congress in 1860, four years after Avogadro's death. He explained that these exceptions were due to  molecular dissociations at certain temperatures, and that Avogadro's law determined not only molecular masses, but atomic masses as well.
+Ideal gas law
+Boyle, Charles and Gay-Lussac laws, together with Avogadro's law, were combined by Émile Clapeyron in 1834, giving rise to the ideal gas law. At the end of the 19th century, later developments from scientists like August Krönig, Rudolf Clausius, James Clerk Maxwell and Ludwig Boltzmann, gave rise to the kinetic theory of gases, a microscopic theory from which the ideal gas law can be derived as an statistical result from the movement of atoms/molecules in a gas.
+Avogadro constant
+Avogadro's law provides a way to calculate the quantity of gas in a receptacle. Thanks to this discovery, Johann Josef Loschmidt, in 1865, was able for the first time to estimate the size of a molecule. His calculation gave rise to the concept of the Loschmidt constant, a ratio between macroscopic and atomic quantities. In 1910, Millikan's oil drop experiment determined the charge of the electron; using it with  the Faraday constant (derived by Michael Faraday in 1834), one is able to determine the number of particles in a mole of substance. At the same time, precision experiments by Jean Baptiste Perrin led to the definition of the Avogadro number as the number of molecules in one gram-molecule of oxygen. Perrin named the number to honor Avogadro for his discovery of the namesake law. Later standardization of the International System of Units led to the modern definition of the Avogadro constant.
+Molar volume
+At standard temperature and pressure (100 kPa and 273.15 K) , we can use Avogadro's law find the molar volume of an ideal gas:
+Notes

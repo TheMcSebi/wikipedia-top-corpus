@@ -1,0 +1,151 @@
+Romani language
+Romani (/ˈrɒməni, ˈroʊ-/; also Romany, Romanes /ˈrɒmənɪs/, Roma; Romani: rromani ćhib) is an Indo-Aryan macrolanguage of the Romani communities. According to Ethnologue, seven varieties of Romani are divergent enough to be considered languages of their own. The largest of these are Vlax Romani (about 500,000 speakers), Balkan Romani (600,000), and Sinte Romani (300,000). Some Romani communities speak mixed languages based on the surrounding language with retained Romani-derived vocabulary – these are known by linguists as Para-Romani varieties, rather than dialects of the Romani language itself.
+The differences between the various varieties can be as large as, for example, the differences between the Slavic languages.
+Name
+Speakers of the Romani language usually refer to the language as rromani ćhib "the Romani language" or romanes (adverb) "in a Rom way". This derives from the Romani word rom, meaning either "a member of the (Romani) group" or "husband". This is also the origin of the term "Roma" in English, although some Roma groups refer to themselves using other demonyms (e.g. 'Kaale', 'Sinti').
+Classification
+In the 18th century, it was shown by comparative studies that Romani belongs to the Indo-European language family. In 1763 Vályi István, a Calvinist pastor from Satu Mare in Transylvania, was the first to notice the similarity between Romani and Indo-Aryan by comparing the Romani dialect of Győr with the language (perhaps Sinhala) spoken by three Sri Lankan students he met in the Netherlands. This was followed by the linguist Johann Christian Christoph Rüdiger (1751–1822) whose book Von der Sprache und Herkunft der Zigeuner aus Indien (1782) posited Romani was descended from Sanskrit. This prompted the philosopher Christian Jakob Kraus to collect linguistic evidence by systematically interviewing the Roma in Königsberg prison. Kraus's findings were never published, but they may have influenced or laid the groundwork for later linguists, especially August Pott and his pioneering Darstellung der Zigeuner in Europa und Asien (1844–45). Research into the way the Romani dialects branched out was started in 1872 by the Slavicist Franz Miklosich in a series of essays. However, it was the philologist Ralph Turner's 1927 article “The Position of Romani in Indo-Aryan” that served as the basis for the integrating of Romani into the history of Indian languages.
+Romani is an Indo-Aryan language that is part of the Balkan sprachbund. It is the only New Indo-Aryan spoken exclusively outside the Indian subcontinent.
+Romani is sometimes classified in the Central Zone or Northwestern Zone Indo-Aryan languages, and sometimes treated as a group of its own.
+Romani shares a number of features with the Central Zone languages. The most significant isoglosses are the shift of Old Indo-Aryan r̥ to u or i (Sanskrit śr̥ṇ-, Romani šun- 'to hear') and kṣ- to kh (Sanskrit akṣi, Romani j-akh 'eye'). However, unlike other Central Zone languages, Romani preserves many dental clusters (Romani trin 'three', phral 'brother', compare Hindi tīn, bhāi). This implies that Romani split from the Central Zone languages before the Middle Indo-Aryan period. However, Romani shows some features of New Indo-Aryan, such as erosion of the original nominal case system towards a nominative/oblique dichotomy, with new grammaticalized case suffixes added on. This means that the Romani exodus from India could not have happened until late in the first millennium.
+Many words are similar to the Marwari and Lambadi languages spoken in large parts of India. Romani also shows some similarity to the Northwestern Zone languages. In particular, the grammaticalization of enclitic pronouns as person markers on verbs (kerdo 'done' + me 'me' → kerdjom 'I did') is also found in languages such as Kashmiri and Shina. This evidences a northwest migration during the split from the Central Zone languages consistent with a later migration to Europe.
+Based on these data, Yaron Matras views Romani as "kind of Indian hybrid: a central Indic dialect that had undergone partial convergence with northern Indic languages."
+In terms of its grammatical structures, Romani is conservative in maintaining almost intact the Middle Indo-Aryan present-tense person concord markers, and in maintaining consonantal endings for nominal case – both features that have been eroded in most other modern Indo-Aryan languages.
+Romani shows a number of phonetic changes that distinguish it from other Indo-Aryan languages – in particular, the devoicing of voiced aspirates (bh dh gh > ph th kh), shift of medial t d to l, of short a to e, initial kh to x, rhoticization of retroflex ḍ, ṭ, ḍḍ, ṭṭ, ḍh etc. to r and ř, and shift of inflectional -a to -o.
+After leaving the Indian subcontinent, Romani was heavily affected by contact with European languages. The most significant of these was Medieval Greek, which contributed lexically, phonemically, and grammatically to Early Romani (10th–13th centuries). This includes inflectional affixes for nouns, and verbs that are still productive with borrowed vocabulary, the shift to VO word order, and the adoption of a preposed definite article. Early Romani also borrowed from Armenian and Persian.
+Romani and Domari share some similarities: agglutination of postpositions of the second layer (or case marking clitics) to the nominal stem, concord markers for the past tense, the neutralisation of gender marking in the plural, and the use of the oblique case as an accusative. This has prompted much discussion about the relationships between these two languages. Domari was once thought to be the "sister language" of Romani, the two languages having split after the departure from the Indian subcontinent, but more recent research suggests that the differences between them are significant enough to treat them as two separate languages within the Central Zone (Hindustani) group of languages. The Dom and the Rom therefore likely descend from two different migration waves out of India, separated by several centuries.
+The following table presents the numerals in the Romani, Domari and Lomavren languages, with the corresponding terms in Sanskrit, Hindi, Bengali, and Sinhala to demonstrate the similarities.
+History
+The first attestation of Romani is from 1542 AD in western Europe. The earlier history of the Romani language is completely undocumented, and is understood primarily through comparative linguistic evidence.
+Linguistic evaluation carried out in the nineteenth century by Pott (1845) and Miklosich (1882–1888) showed the Romani language to be a New Indo-Aryan language (NIA), not a Middle Indo-Aryan (MIA), establishing that the ancestors of the Romani could not have left India significantly earlier than AD 1000.
+The principal argument favouring a migration during or after the transition period to NIA is the loss of the old system of nominal case, and its reduction to just a two-way case system, nominative vs. oblique. A secondary argument concerns the system of gender differentiation. Romani has only two genders (masculine and feminine). Middle Indo-Aryan languages (named MIA) generally had three genders (masculine, feminine and neuter), and some modern Indo-Aryan languages retain this old system even today.
+It is argued that loss of the neuter gender did not occur until the transition to NIA. Most of the neuter nouns became masculine while a few feminine, like the neuter अग्नि (agni) in the Prakrit became the feminine आग (āg) in Hindi and jag in Romani. The parallels in grammatical gender evolution between Romani and other NIA languages have been cited as evidence that the forerunner of Romani remained on the Indian subcontinent until a later period, perhaps even as late as the tenth century.
+There is no historical proof to clarify who the ancestors of the Romani were or what motivated them to emigrate from the Indian subcontinent, but there are various theories. The influence of Greek, and to a lesser extent of Armenian and the Iranian languages (like Persian and Kurdish) points to a prolonged stay in Anatolia, Armenian highlands/Caucasus after the departure from South Asia. The latest territory where Romani is thought to have been spoken as a mostly unitary linguistic variety is the Byzantine Empire, between the 10th and the 13th centuries. The language of this period, which can be reconstructed on the basis of modern-day dialects, is referred to as Early Romani or Late Proto-Romani.
+The Mongol invasion of Europe beginning in the first half of the thirteenth century triggered another westward migration. The Romani arrived in Europe and afterwards spread to the other continents. The great distances between the scattered Romani groups led to the development of local community distinctions. The differing local influences have greatly affected the modern language, splitting it into a number of different (originally exclusively regional) dialects.
+Today, Romani is spoken by small groups in 42 European countries. A project at Manchester University in England is transcribing Romani dialects, many of which are on the brink of extinction, for the first time.
+Dialects
+Today's dialects of Romani are differentiated by the vocabulary accumulated since their departure from Anatolia, as well as through divergent phonemic evolution and grammatical features. Many Roma no longer speak the language or speak various new contact languages from the local language with the addition of Romani vocabulary.
+Dialect differentiation began with the dispersal of the Romani from the Balkans around the 14th century and on, and with their settlement in areas across Europe in the 16th and 17th centuries. The two most significant areas of divergence are the southeast (with epicenter of the northern Balkans) and west-central Europe (with epicenter Germany). The central dialects replace s in grammatical paradigms with h. The northwestern dialects append j-, simplify ndř to r, retain n in the nominalizer -ipen / -iben, and lose adjectival past-tense in intransitives (gelo, geli → geljas 'he/she went'). Other isoglosses (esp. demonstratives, 2/3pl perfective concord markers, loan verb markers) motivate the division into Balkan, Vlax, Central, Northeast, and Northwest dialects.
+Matras (2002, 2005) has argued for a theory of geographical classification of Romani dialects, which is based on the diffusion in space of innovations. According to this theory, Early Romani (as spoken in the Byzantine Empire) was brought to western and other parts of Europe through population migrations of Rom in the 14th–15th centuries. These groups settled in the various European regions during the 16th and 17th centuries, acquiring fluency in a variety of contact languages. Changes emerged then, which spread in wave-like patterns, creating the dialect differences attested today. According to Matras, there were two major centres of innovations: some changes emerged in western Europe (Germany and vicinity), spreading eastwards; other emerged in the Wallachian area, spreading to the west and south. In addition, many regional and local isoglosses formed, creating a complex wave of language boundaries. Matras points to the prothesis of j- in aro > jaro 'egg' and ov > jov 'he' as typical examples of west-to-east diffusion, and of addition of prothetic a- in bijav > abijav as a typical east-to-west spread. His conclusion is that dialect differences formed in situ, and not as a result of different waves of migration.
+According to this classification, the dialects are split as follows:
+SIL Ethnologue has the following classification:
+In a series of articles (beginning in 1982) Marcel Courthiade proposed a different kind of classification. He concentrates on the dialectal diversity of Romani in three successive strata of expansion, using the criteria of phonological and grammatical changes. Finding the common linguistic features of the dialects, he presents the historical evolution from the first stratum (the dialects closest to the Anatolian Romani of the 13th century) to the second and third strata. He also names as "pogadialects" (after the Pogadi dialect of Great Britain) those with only a Romani vocabulary grafted into a non-Romani language (normally referred to as Para-Romani).
+A table of some dialectal differences:
+The first stratum includes the oldest dialects: Mećkari (of Tirana), Kabuʒi (of Korça), Xanduri, Drindari, Erli, Arli, Bugurji, Mahaʒeri (of Pristina), Ursari (Rićhinari), Spoitori (Xoraxane), Karpatichi, Polska Roma, Kaale (from Finland), Sinto-manush, and the so-called Baltic dialects.
+In the second there are Ćergari (of Podgorica), Gurbeti, Jambashi, Fichiri, Filipiʒi (of Agia Varvara)
+The third comprises the rest of the Romani dialects, including Kalderash, Lovari, Machvano.
+Mixed languages
+Some Romanies have developed mixed languages (chiefly by retaining Romani lexical items and adopting second language grammatical structures), including:
+Geographic distribution
+Romani is the only Indo-Aryan language spoken almost exclusively in Europe.
+The most concentrated areas of Romani speakers are found in the Balkans and central Europe, particularly in Romania, Bulgaria, North Macedonia and Slovakia. Although there are no reliable figures for the exact number of Romani speakers, the estimated amount of Romani speakers in the European Union is around 3.5 million, this makes it the largest spoken minority language in the European Union.
+Status
+The language is recognized as a minority language in many countries. At present the only places in the world where Romani is employed as an official language are the Republic of Kosovo (only regionally, not nationally) and the Šuto Orizari Municipality within the administrative borders of Skopje, North Macedonia's capital.
+The first efforts to publish in Romani were undertaken in the interwar Soviet Union (using the Cyrillic script) and in socialist Yugoslavia. Portions and selections of the Bible have been translated to many different forms of the Romani language. The entire Bible has been translated to Kalderash Romani.
+Some traditional communities have expressed opposition to codifying Romani or having it used in public functions. However, the mainstream trend has been towards standardization.
+Different variants of the language are now in the process of being codified in those countries with high Romani populations (for example, Slovakia). There are also some attempts currently aimed at the creation of a unified standard language.
+A standardized form of Romani is used in Serbia, and in Serbia's autonomous province of Vojvodina, Romani is one of the officially recognized languages of minorities having its own radio stations and news broadcasts.
+In Romania, a country with a sizable Romani minority (3.3% of the total population), there is a unified teaching system of the Romani language for all dialects spoken in the country. This is primarily a result of the work of Gheorghe Sarău, who made Romani textbooks for teaching Romani children in the Romani language. He teaches a purified, mildly prescriptive language, choosing the original Indo-Aryan words and grammatical elements from various dialects. The pronunciation is mostly like that of the dialects from the first stratum. When there are more variants in the dialects, the variant that most closely resembles the oldest forms is chosen, like byav, instead of abyav, abyau, akana instead of akanak, shunav instead of ashunav or ashunau, etc.
+An effort is also made to derive new words from the vocabulary already in use, i.e., xuryavno (airplane), vortorin (slide rule), palpaledikhipnasko (retrospectively), pashnavni (adjective). There is an ever-changing set of borrowings from Romanian as well, including such terms as vremea (weather, time), primariya (town hall), frishka (cream), sfïnto (saint, holy). Hindi-based neologisms include bijli (bulb, electricity), misal (example), chitro (drawing, design), lekhipen (writing), while there are also English-based neologisms, like printisarel < "to print".
+Romani is now used on the internet, in some local media, and in some countries as a medium of instruction.
+Orthography
+Historically, Romani was an exclusively unwritten language; for example, Slovak Romani's orthography was codified only in 1971.
+The overwhelming majority of academic and non-academic literature produced currently in Romani is written using a Latin-based orthography.
+The proposals to form a unified Romani alphabet and one standard Romani language by either choosing one dialect as a standard, or by merging more dialects together, have not been successful - instead, the trend is towards a model where each dialect has its own writing system. Among native speakers, the most common pattern for individual authors to use an orthography based on the writing system of the dominant contact language: thus Romanian in Romania, Hungarian in Hungary and so on.
+To demonstrate the differences, the phrase /romani tʃʰib/, which means "Romani language" in all the dialects, can be written as románi csib, románi čib, romani tschib, románi tschiwi, romani tšiw, romeni tšiv, romanitschub, rromani čhib, romani chib, rhomani chib, romaji šjib and so on.
+A currently observable trend, however, appears to be the adoption of a loosely English and Czech-oriented orthography, developed spontaneously by native speakers for use online and through email.
+Phonology
+The Romani sound system is not highly unusual among European languages. Its most marked features are a three-way contrast between unvoiced, voiced, and aspirated stops: /p, t, k, t͡ʃ/, /b, d, ɡ, d͡ʒ/, and /pʰ, tʰ, kʰ, t͡ʃʰ/ and the presence in some dialects of a second rhotic ⟨ř⟩, realized as retroflex [ɽ] or [ɻ], a long trill [rː], or uvular [ʀ].
+The following is the core sound inventory of Romani. Phonemes in parentheses are only found in some dialects:
+Eastern and Southeastern European Romani dialects commonly have palatalized consonants, either distinctive or allophonic. Some dialects add the central vowel /ə~ɨ/. Vowel length is often distinctive in Western European Romani dialects. Loans from contact languages often allow other non-native phonemes.
+Conservative dialects of Romani have final stress, with the exception of some unstressed affixes (e.g. the vocative ending, the case endings added on to the accusative noun, and the remoteness tense marker). Central and Western European dialects often have shifted stress earlier in the word.
+In some varieties such as Slovak Romani, at the end of a word, voiced consonants become voiceless and aspirated ones lose aspiration. Some examples:
+Morphology
+Nominals
+Nominals in Romani are nouns, adjectives, pronouns and numerals. Some sources describe articles as nominals.
+The indefinite article is often borrowed from the local contact language.
+Types
+General Romani is an unusual language, in having two classes of nominals, based on the historic origin of the word, that have a completely different morphology. The two classes can be called inherited and borrowed, but this article uses names from Matras (2006), ikeoclitic and xenoclitic. The class to which a word belongs is obvious from its ending.
+Ikeoclitic
+The first class is the old, Indian vocabulary (and to some extent Persian, Armenian and Greek loanwords). The ikeoclitic class can also be divided into two sub-classes, based on the ending.
+Nominals ending in o/i
+The ending of words in this sub-class is -o with masculines, -i with feminines, with the latter ending triggering palatalisation of preceding d, t, n, l to ď, ť, ň, ľ.
+Examples:
+Nominals without ending
+All words in this sub-class have no endings, regardless of gender.
+Examples:
+Xenoclitic
+The second class is loanwords from European languages. (Matras adds that the morphology of the new loanwords might be borrowed from Greek.)
+The ending of borrowed masculine is -os, -is, -as, -us, and the borrowed feminine ends in -a.
+Examples from Slovak Romani:
+Basics of morphology
+Romani has two grammatical genders (masculine / feminine) and two numbers (singular / plural).
+All nominals can be singular or plural.
+Cases
+Nouns are marked for any of eight cases; nominative, vocative, accusative, genitive, dative, locative, ablative, and instrumental. The former three are formed by inflections on the noun itself, but the latter five are marked by adding postpositions to the accusative, used as an "indirect root."
+The vocative and nominative are a bit "outside" of the case system as they are produced only by adding a suffix to the root.
+Example: the suffix for singular masculine vocative of ikeoclitic types is -eja.
+The oblique cases disregard gender or type: -te / -de (locative), -ke / -ge (dative), -tar/-dar (ablative), -sa(r) (instrumental and comitative), and -ker- / -ger- (genitive).
+Example: The endings for o/i ending nominals are as follows:
+Example: the suffix for indirect root for masculine plural for all inherited words is -en, the dative suffix is -ke.
+There are many declension classes of nouns that decline differently, and show dialectal variation.
+Parts of speech such as adjectives and the article, when they function as attributes before a word, distinguish only between a nominative and an indirect/oblique case form. In the Early Romani system that most varieties preserve, declinable adjectives had nominative endings similar to the nouns ending in -o (masculine -o, feminine -i) but the oblique endings -e in the masculine, -a in the feminine. The ending -e was the same regardless of gender. So-called athematic adjectives had the nominative forms -o in the masculine and the feminine and -a in the plural; the oblique has the same endings as the previous group, but the preceding stem changes by adding the element -on-.
+Agreement
+Romani shows the typically Indo-Aryan pattern of the genitive agreeing with its head noun.
+Example:
+Adjectives and the definite article show agreement with the noun they modify.
+Example:
+Verbs
+Romani derivations are highly synthetic and partly agglutinative. However, they are also sensitive to recent development - for example, in general, Romani in Slavic countries show an adoption of productive aktionsart morphology.
+The core of the verb is the lexical root, verb morphology is suffixed.
+The verb stem (including derivation markers) by itself has non-perfective aspect and is present or subjunctive.
+Types
+Similarly to nominals, verbs in Romani belong to several classes, but unlike nominals, these are not based on historical origin. However, the loaned verbs can be recognized, again, by specific endings, which are Greek in origin.
+Irregular verbs
+Some words are irregular, like te jel - to be.
+Class I
+The next three classes are recognizable by suffix in 3rd person singular.
+The first class, called I., has a suffix -el in 3rd person singular.
+Examples, in 3 ps. sg:
+Class II
+Words in the second category, called II., have a suffix -l in 3rd person singular.
+Examples, in 3 ps. sg:
+Class III
+All the words in the third class are semantically causative passive.
+Examples:
+Borrowed verbs
+Borrowed verbs from other languages are marked with affixes taken from Greek tense/aspect suffixes, including -iz-, -in-, and -is-.
+Morphology
+The Romani verb has three persons and two numbers, singular and plural. There is no verbal distinction between masculine and feminine.
+Romani tenses are, not exclusively, present tense, future tense, two past tenses (perfect and imperfect), present or past conditional and present imperative.
+Depending on the dialect, the suffix -a marks the present, future, or conditional. There are many perfective suffixes, which are determined by root phonology, valency, and semantics: e.g. ker-d- 'did'.
+There are two sets of personal conjugation suffixes, one for non-perfective verbs, and another for perfective verbs. The non-perfective personal suffixes, continued from Middle Indo-Aryan, are as follows:
+These are slightly different for consonant- and vowel-final roots (e.g. xa-s 'you eat', kam-es 'you want').
+The perfective suffixes, deriving from late Middle Indo-Aryan enclitic pronouns, are as follows:
+Verbs may also take a further remoteness suffix whose original form must have been -as(i) and which is preserved in different varieties as -as, -ahi, -ys or -s. With non-perfective verbs this marks the imperfect, habitual, or conditional. With the perfective, this marks the pluperfect or counterfactual.
+Class I
+All the persons and numbers of present tense of the word te kerel in East Slovak Romani.
+Various tenses of the same word, all in 2nd person singular.
+Class II
+All the persons and numbers of present tense of the word te paťal in East Slovak Romani.
+Various tenses of the word te chal, all in 2nd person singular.
+Class III
+All the persons and numbers of present tense of the word te pašľol in East Slovak Romani. Note the added -uv-, which is typical for this group.
+Various tenses of the same word, all in 2nd person singular again.
+Valency
+Valency markers are affixed to the verb root either to increase or decrease valency. There is dialectal variation as to which markers are most used; common valency-increasing markers are -av-, -ar-, and -ker, and common valency-decreasing markers are -jov- and -áv-. These may also be used to derive verbs from nouns and adjectives.
+Syntax
+Romani syntax is quite different from most Indo-Aryan languages, and shows more similarity to the Balkan languages.
+Šebková and Žlnayová, while describing Slovak Romani, argues that Romani is a free word order language and that it allows for theme-rheme structure, similarly to Czech, and that in some Romani dialects in East Slovakia, there is a tendency to put a verb at the end of a sentence.
+However, Matras describes it further. According to Matras, in most dialects of Romani, Romani is a VO language, with SVO order in contrastive sentences and VSO order in thetic sentences. The tendency of some dialects to put the verb in final position may be due to Slavic influence.
+Examples, from Slovak Romani:
+Clauses are usually finite. Relative clauses, introduced by the relativizer kaj, are postponed. Factual and non-factual complex clauses are distinguished.
+Romani in modern times
+Romani has lent several words to English such as pal (ultimately from Sanskrit bhrātar "brother"). Other Romani words in general British slang are gadgie (man), shiv or chiv (knife). Urban British slang shows an increasing level of Romani influence, with some words becoming accepted into the lexicon of standard English (for example, chav from an assumed Anglo-Romani word, meaning "small boy", in the majority of dialects). There are efforts to teach and familiarise Vlax-Romani to a new generation of Romani so that Romani spoken in different parts of the world are connected through a single dialect of Romani. The Indian Institute of Romani Studies, Chandigarh published several Romani language lessons through its journal Roma during the 1970s.
+Occasionally loanwords from other Indo-Iranian languages, such as Hindi, are mistakenly labelled as Romani due to surface similarities (due to a shared root), such as cushy, which is from Urdu (itself a loan from Persian khuš) meaning "excellent, healthy, happy".
+See also
+Explanatory notes
+References
+Citations
+General and cited sources
+Further reading

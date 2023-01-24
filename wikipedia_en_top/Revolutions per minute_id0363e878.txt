@@ -1,0 +1,9 @@
+Revolutions per minute
+Revolutions per minute (abbreviated rpm, RPM, rev/min, r/min, or with the notation min−1) is a unit of rotational speed or rotational frequency for rotating machines.
+Standards
+ISO 80000-3:2019 defines a unit of rotation as the dimensionless unit equal to 1, which it refers to as a revolution, but does not define the revolution as a unit.  It defines a unit of rotational frequency equal to s−1.  The superseded standard ISO 80000-3:2006 did however state with reference to the unit name 'one', symbol '1', that "The special name revolution, symbol r, for this unit is widely used in specifications on rotating machines."
+The International System of Units (SI) does not recognize rpm as a unit, and defines the unit of frequency, Hz, as equal to s−1.
+A corresponding but distinct quantity for describing rotation is angular velocity, for which the SI unit is the radian per second.
+Although they have the same dimensions (s−1), hertz (Hz) and radian per second (rad/s) are two different units and are used to measure two different but proportional ISQ quantities: frequency and angular frequency (angular speed, magnitude of angular velocity) respectively. The conversions between a frequency f and an angular velocity ω are:
+Thus a disc rotating at 60 rpm is said to be have an angular speed of 2π rad/s and a rotation frequency of 1 Hz.
+Examples

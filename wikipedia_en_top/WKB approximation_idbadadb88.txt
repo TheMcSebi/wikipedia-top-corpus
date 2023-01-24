@@ -1,0 +1,73 @@
+WKB approximation
+In mathematical physics, the WKB approximation or WKB method is a method for finding approximate solutions to linear differential equations with spatially varying coefficients.  It is typically used for a semiclassical calculation in quantum mechanics in which the wavefunction is recast as an exponential function, semiclassically expanded, and then either the amplitude or the phase is taken to be changing slowly.
+The name is an initialism for Wentzel–Kramers–Brillouin.  It is also known as the LG or Liouville–Green method.  Other often-used letter combinations include JWKB and WKBJ, where the "J" stands for Jeffreys.
+Brief history
+This method is named after physicists Gregor Wentzel, Hendrik Anthony Kramers, and Léon Brillouin, who all developed it in 1926. In 1923, mathematician Harold Jeffreys had developed a general method of approximating solutions to linear, second-order differential equations, a class that includes the Schrödinger equation.  The Schrödinger equation itself was not developed until two years later, and Wentzel, Kramers, and Brillouin were apparently unaware of this earlier work, so Jeffreys is often neglected credit. Early texts in quantum mechanics contain any number of combinations of their initials, including WBK, BWK, WKBJ, JWKB and BWKJ. An authoritative discussion and critical survey has been given by Robert B. Dingle.
+Earlier appearances of essentially equivalent methods are: Francesco Carlini in 1817, Joseph Liouville in 1837, George Green in 1837, Lord Rayleigh in 1912 and Richard Gans in 1915. Liouville and Green may be said to have founded the method in 1837, and it is also commonly referred to as the Liouville–Green or LG method.
+The important contribution of Jeffreys, Wentzel, Kramers, and Brillouin to the method was the inclusion of the treatment of turning points, connecting the evanescent and oscillatory solutions at either side of the turning point. For example, this may occur in the Schrödinger equation, due to a potential energy hill.
+Formulation
+Generally, WKB theory is a method for approximating the solution of a differential equation whose highest derivative is multiplied by a small parameter ε. The method of approximation is as follows.
+For a differential equation
+assume a solution of the form of an asymptotic series expansion
+in the limit  δ → 0. The asymptotic scaling of δ in terms of ε will be determined by the equation – see the example below.
+Substituting the above ansatz into the differential equation and cancelling out the exponential terms allows one to solve for an arbitrary number of terms Sn(x) in the expansion.
+WKB theory is a special case of multiple scale analysis.
+An example
+This example comes from the text of Carl M. Bender and Steven Orszag. Consider the second-order homogeneous linear differential equation
+where $MATH$. Substituting
+results in the equation
+To leading order (assuming, for the moment, the series will be asymptotically consistent), the above can be approximated as
+In the limit δ → 0, the dominant balance is given by
+So δ is proportional to ε. Setting them equal and comparing powers yields
+which can be recognized as the Eikonal equation, with solution
+Considering first-order powers of  ε fixes
+This has the solution
+where k1 is an arbitrary constant.
+We now have a pair of approximations to the system (a pair, because   S0 can take two signs); the first-order WKB-approximation will be a linear combination of the two:
+Higher-order terms can be obtained by looking at equations for higher powers of δ.   Explicitly,
+for n ≥ 2.
+Precision of the asymptotic series
+The asymptotic series for y(x) is usually a divergent series, whose general term δn Sn(x) starts to increase after a certain value n = nmax. Therefore, the smallest error achieved by the WKB method is at best of the order of the last included term.
+For the equation
+with Q(x) <0 an analytic function, the value $MATH$ and the magnitude of the last term can be estimated as follows:
+where $MATH$ is the point at which $MATH$ needs to be evaluated and $MATH$ is the (complex) turning point where $MATH$, closest to $MATH$.
+The number nmax  can be interpreted as the number of oscillations between $MATH$ and the closest turning point.
+If $MATH$ is a slowly changing function,
+the number nmax  will be large, and the minimum error of the asymptotic series will be exponentially small.
+Application to the Schrödinger equation
+The above example may be applied specifically to the one-dimensional, time-independent Schrödinger equation,
+which can be rewritten as
+Approximation away from the turning points
+The wavefunction can be rewritten as the exponential of another function Φ (closely related to the action), which could be complex,
+so that
+where  Φ ' indicates the derivative of  Φ with respect to x. This derivative  Φ ' can be separated into real and imaginary parts by introducing the real functions A and B,
+The amplitude of the wavefunction is then 
+while the phase is
+The real and imaginary parts of the Schrödinger equation then become
+Next, the semiclassical approximation is used. This means that each function is expanded as a power series in ħ. From the above equations, it can be seen that the power series must start with at least an order of 1/ħ to satisfy the real part of the equation:
+To the zeroth order in this expansion, the conditions on A and B can be written,
+The first derivatives A'(x) and  B'(x) were discarded, because they include factors of order 1/ħ, higher than  the dominant ħ−2.
+Then, if the amplitude varies sufficiently slowly as compared to the phase ($MATH$), it follows that
+which is only valid when the total energy is greater than the potential energy, as is always the case in classical motion.
+After the same procedure on the next order of the expansion, it follows that
+On the other hand, if it is the phase that varies slowly (as compared to the amplitude), ($MATH$) then
+which is only valid when the potential energy is greater than the total energy (the regime in which quantum tunneling occurs).
+Finding the next order of the expansion yields, as in the example of the previous section,
+$MATH$
+In the classically allowed region, namely the region where $MATH$ the integrand in the exponent is imaginary and the approximate wave function is oscillatory. In the classically forbidden region $MATH$, the solutions are growing or decaying. It is evident in the denominator that both of these approximate solutions become singular near the classical turning points, where E = V(x), and cannot be valid. (The turning points are the points where the classical particle changes direction.)
+Behavior near the turning points
+We now consider the behavior of the wave function near the turning points. For this, we need a different method. Near the first turning points, x1, the term $MATH$ can be expanded in a power series,
+To first order, one finds
+This differential equation is known as the Airy equation, and the solution may be written in terms of Airy functions,
+Although for any fixed value of $MATH$, the wave function is bounded near the turning points, the wave function will be peaked there, as can be seen in the images above. As $MATH$ gets smaller, the height of the wave function at the turning points grows.
+The matching conditions
+It now remains to construct a global (approximate) solution to the Schrödinger equation. For the wave function to be square-integrable, we must take only the exponentially decaying solution in the two classically forbidden regions. These must then "connect" properly through the turning points to the classically allowed region. For most values of E, this matching procedure will not work: The function obtained by connecting the solution near $MATH$ to the classically allowed region will not agree with the function obtained by connecting the solution near $MATH$ to the classically allowed region. The requirement that the two functions agree imposes a condition on the energy E, which will give an approximation to the exact quantum energy levels.
+Given the two coefficients on one side of the classical turning point, the 2 coefficients on the other side of the classical turning point can be determined by using the Airy function to connect them. Thus, a relationship between $MATH$ and $MATH$ can be found. This relationship is obtained using known asymptotic of the Airy function. The relationship can be found to be as follows (often referred to as the "connection formulas"):
+Now the global (approximate) solutions can be constructed. The same can be done at the other turning points; assume there is just another one,  x2. The expression there, however,  will appear different than the one determined above at  x1 by a difference in the argument of these trigonometric functions.
+The matching condition, needed to get a single-valued, square-integrable approximate solution, takes the following form:
+where $MATH$ are the turning points of the potential discussed, where the integrand vanishes. Here n is a non-negative integer. This condition can also be rewritten as saying that
+Either way, the condition on the energy is a version of the Bohr–Sommerfeld quantization condition, with a "Maslov correction" equal to 1/2.
+It is possible to show that after piecing together the approximations in the various regions, one obtains a good approximation to the actual eigenfunction. In particular, the Maslov-corrected Bohr–Sommerfeld energies are good approximations to the actual eigenvalues of the Schrödinger operator. Specifically, the error in the energies is small compared to the typical spacing of the quantum energy levels. Thus, although the "old quantum theory" of Bohr and Sommerfeld was ultimately replaced by the Schrödinger equation, some vestige of that theory remains, as an approximation to the eigenvalues of the appropriate Schrödinger operator.
+The probability density
+One can then compute the probability density associated to the approximate wave function. The probability that the quantum particle will be found in the classically forbidden region is small. In the classically allowed region, meanwhile, the  probability the quantum particle will be found in a given interval is approximately the fraction of time the classical particle spends in that interval over one period of motion. Since the classical particle's velocity goes to zero at the turning points, it spends more time near the turning points than in other classically allowed regions. This observation accounts for the peak in the wave function (and its probability density) near the turning points.
+Applications of the WKB method to Schrödinger equations with a large variety of potentials and comparison with perturbation methods and path integrals are treated in  Müller-Kirsten.

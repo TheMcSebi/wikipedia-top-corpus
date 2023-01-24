@@ -1,0 +1,977 @@
+Voice (grammar)
+In grammar, the voice of a verb describes the relationship between the action (or state) that the verb expresses and the participants identified by its arguments (subject, object, etc.). When the subject is the agent or doer of the action, the verb is in the active voice. When the subject is the patient, target or undergoer of the action, the verb is said to be in the passive voice. When the subject both performs and receives the action expressed by the verb, the verb is in the middle voice. Voice is sometimes called diathesis.
+The following pair of examples illustrates the contrast between active and passive voice in English. In sentence (1), the verb form ate is in the active voice, but in sentence (2), the verb form was eaten is in the passive voice. Independent of voice, the cat is the Agent (the doer) of the action of eating in both sentences.
+In a transformation from an active-voice clause to an equivalent passive-voice construction, the subject and the direct object switch grammatical roles. The direct object gets promoted to subject, and the subject demoted to an (optional) adjunct. In the first example above, the mouse serves as the direct object in the active-voice version, but becomes the subject in the passive version. The subject of the active-voice version, the cat, becomes part of a prepositional phrase in the passive version of the sentence, and can be left out entirely; The mouse was eaten.
+Overview
+History of the concept of voice
+In the grammar of Ancient Greek, voice was called διάθεσις (diáthesis) "arrangement" or "condition", with three subcategories:
+In Latin, two voices were recognized:
+Active voice
+The active voice is the most commonly used in many languages and represents the "normal" case, in which the subject of the verb is the agent. In the active voice, the subject of the sentence performs the action or causes the happening denoted by the verb. Sentence (1) is in active voice, as indicated by the verb form saw.
+(1) Roger Bigod saw the castles.
+Passive voice
+The passive voice is employed in a clause whose subject expresses the theme or patient of the verb. That is, it undergoes an action or has its state changed. In the passive voice, the grammatical subject of the verb is the recipient (not the doer) of the action denoted by the verb. In English it serves a variety of functions including focusing on the object, demoting the subject and handling situations where the speaker either wants to suppress information about who the doer of the action is, or in reality does not know their identity, or when the doer is either unimportant or likely to be common knowledge. There are syntactic, semantic, and pragmatic motivations for choosing the passive voice instead of the active.  Some languages, such as English and  Spanish, use a periphrastic passive voice; that is, it is not a single word form, but rather a construction making use of other word forms. Specifically, it is made up of a form of the auxiliary verb to be and a past participle of the main verb which carries the lexical content of the predicate. In other languages, such as Latin, the passive voice for some tenses is simply marked on the verb by inflection: librum legit "He reads the book"; liber legitur "The book is read".
+Passives mark this voice in English syntactically as well, which often involves subject–object inversion and the use of ‘by’. Sentence (2) is an example of passive voice, where something (the castles) has been (notionally) acted upon by someone (Roger Bigod).
+(2) The castles were seen by Roger Bigod.
+Antipassive voice
+The antipassive voice deletes or demotes the object of transitive verbs, and promotes the actor to an intransitive subject. This voice is very common among ergative–absolutive languages (which may feature passive voices as well), but also occurs among nominative–accusative languages.
+Middle voice
+Some languages (such as Albanian, Bengali, Fula, Tamil, Sanskrit, Icelandic, Swedish and Ancient Greek) have a middle voice, which is a set of inflections or constructions which is to some extent different from both the active and passive voices.
+The subject of such middle voice is like the subject of active voice as well as the subject of passive voice, in that it performs an action, and is also affected by that action. Another difference between middle voice and the other two grammatical voices is that there are middle marked verbs for which no corresponding active verb form exists. In some cases, the middle voice is any grammatical option where the subject of a material process cannot be categorized as either an actor (someone doing something) or a goal (that at which the actor aims their work). For example, while the passive voice expresses a medium (goal) being affected by an external agent (actor) as in sentence (4), the middle voice expresses a medium undergoing change without any external agent as in sentence (5). In English, though the inflection  for middle voice and active voice are the same for these cases, they differ in whether or not they permit the expression of the Agent argument in an oblique by-phrase PP: thus while the by-phrase is possible with passive voice as in sentence (6), it is not possible with middle voice, as shown by the ill-formed sentence (7).
+(4) The casserole was cooked in the oven (passive voice)
+(5) The casserole cooked in the oven (middle voice)
+(6) The casserole was cooked in the oven by Lucy (passive voice)
+(7) *The casserole cooked in the oven by Lucy (by-phrase ungrammatical when used with middle voice; asterisk (*) indicates ungrammaticality)
+In Classical Greek, the middle voice is often used for material processes where the subject is both the actor (the one doing the action) and the medium (that which is undergoing change) as in "the man got a shave", opposing both active and passive voices where the medium is the goal as in "The barber shaved the man" and "The man got shaved by the barber". Finally, it can occasionally be used in a causative sense, such as "The father causes his son to be set free", or "The father ransoms his son".
+In English, there is no verb form for the middle voice, though some uses may be classified by traditional grammarians as middle voice, often resolved via a reflexive pronoun, as in "Fred shaved", which may be expanded to "Fred shaved himself" – contrast with active "Fred shaved John" or passive "John was shaved by Fred". This need not be reflexive, as in "My clothes soaked in detergent overnight.". In English it is impossible to tell from the morphology whether the verb in Sentence (8) is an active voice unaccusative verb or a middle voice anticausative verb with active morphology. Since middle voice reflexives and dispositional middles are found in English with active morphology by looking at Sentence (9), we can assume that at least some middle voice anticausatives with active morphology exists as well.
+(8) The window broke from the pressure/by itself.
+(9) This book sells well.
+English used to have a distinct form, called the passival, which was displaced over the early 19th century by the progressive passive and is no longer used in English.  In the passival, one might say "The house is building.", which may today be rendered instead as "The house is being built." Likewise "The meal is eating.", which is now "The meal is being eaten." Note that the similar "Fred is shaving" and "The meal is cooking" remain grammatical. It is suggested that the progressive passive was popularized by the Romantic poets, and is connected with Bristol usage.
+Many deponent verbs in Latin (i.e., verbs passive in form but active in meaning) are survivals of the Proto-Indo-European middle voice.
+Other voice contrasts
+Some languages have even more grammatical voices. For example, Classical Mongolian features five voices: active, passive, causative, reciprocal, and cooperative.
+There are also constructions in some languages that appear to change the valence of a verb, but in fact do not. So called hierarchical or inversion languages are of this sort. Their agreement system will be sensitive to an external person or animacy hierarchy (or a combination of both): 1 > 2 > 3 or Anim > Inan and so forth. E.g., in Meskwaki (an Algonquian language), verbs inflect for both subject and object, but agreement markers do not have inherent values for these. Rather, a third marker, the direct or inverse marker, indicates the proper interpretation: ne-wa:pam-e:-w-a [1-look.at-DIR-3-3Sg] "I am looking at him", but ne-wa:pam-ekw-w-a [1-look.at-INV-3-3Sg] "He is looking at me". Some scholars (notably Rhodes) have analyzed this as a kind of obligatory passivization dependent on animacy, while others have claimed it is not a voice at all, but rather see inversion as another type of alignment, parallel to nominative–accusative, ergative–absolutive, split-S, and fluid-S alignments.
+Voices in topic-prominent languages
+Chinese
+In general, the grammar of standard Chinese (both including Mandarin and Cantonese) shares many features with other varieties of Chinese. However, there are still some differences between the different varieties.
+Active voice in Mandarin
+Mandarin active voice sentences has the same verb phrase structure as English active voice sentences.
+There is a common active construction in Mandarin called Ba(把) construction:
+“Ba” is a verb, not a preposition. It is a three-place predicate that subcategorizes for a subject, an object, and a VP complement.
+他
+ta
+He
+把
+ba
+ACT
+橘子
+juzi
+orange
+剥了
+bo-le
+peeled-PRF
+皮。
+pi.
+peel
+他 把 橘子 剥了 皮。
+ta ba juzi bo-le pi.
+He ACT orange peeled-PRF peel
+‘He peeled the orange skin. ’
+This Ba construction is also a direct opposition of active voice in passive voice in Mandarin (i.e. Ba construction (= active voice) vs. Bei construction (= passive voice)).
+The following sentence b) is in contrast to sentence a).
+橘子
+Juzi
+Orange
+被
+bei
+PASS
+（他）
+(ta)
+(he)
+剥了
+bo-le
+peeled-PRF
+皮。
+pi.
+peel
+橘子 被 （他） 剥了 皮。
+Juzi bei (ta) bo-le pi.
+Orange PASS (he) peeled-PRF peel
+‘The orange was peeled (by him).’
+(Note: both a) and b) are adapted from Her, O. (2009))
+Passive Voice in Mandarin
+
+Topic-prominent languages like Mandarin tend not to employ the passive voice as frequently.  In general, Mandarin used to be best analyzed using middle voice, but Mandarin-speakers can construct a passive voice by using the coverb 被 (bèi) and rearranging the usual word order. For example, this sentence using active voice:
+(Note: the first line is in Traditional Chinese while the second is Simplified Chinese)
+一條
+一条
+Yī-tiáo
+Α
+狗
+狗
+gǒu
+dog
+咬了
+咬了
+yǎo-le
+bite-PRF
+這個
+这个
+zhège
+this
+男人。
+男人。
+nánrén.
+man
+一條 狗 咬了 這個 男人。
+一条 狗 咬了 这个 男人。
+Yī-tiáo gǒu yǎo-le zhège nánrén.
+Α dog bite-PRF this man
+"A dog has bitten this man."
+corresponds to the following sentence using passive voice. Note that the agent phrase is optional.
+這個
+这个
+Zhège
+This
+男人
+男人
+nánrén
+man
+被
+被
+bèi
+PASS
+(狗)
+(狗)
+(gǒu)
+(dog)
+咬了。
+咬了。
+yǎo-le.
+bite-PRF
+這個 男人 被 (狗) 咬了。
+这个 男人 被 (狗) 咬了。
+Zhège nánrén bèi (gǒu) yǎo-le.
+This man PASS (dog) bite-PRF
+"This man has been bitten (by a dog)."
+In addition, through the addition of the auxiliary verb "to be" 是 (shì) the passive voice is frequently used to emphasize the identity of the actor. This example places emphasis on the dog, presumably as opposed to some other animal:
+這個
+这个
+Zhège
+This
+男人
+男人
+nánrén
+man
+是
+是
+shì
+to be
+被
+被
+bèi
+PASS
+狗
+狗
+gǒu
+dog
+咬
+咬
+yǎo
+bite
+的。
+的。
+de.
+(suffix)
+這個 男人 是 被 狗 咬 的。
+这个 男人 是 被 狗 咬 的。
+Zhège nánrén shì bèi gǒu yǎo de.
+This man {to be} PASS dog bite {(suffix)}
+"This man has been bitten by a dog."
+Mandarin also has an object-retaining passive which contains both the object and the topic (mostly the possessor of the object):
+他
+他
+tā
+He
+被
+被
+bèi
+PASS
+小偷
+小偷
+xiǎotou
+thief
+偷了
+偷了
+tōu-le
+steal-PRF
+錢包。
+钱包。
+qiánbāo.
+wallet
+他 被 小偷 偷了 錢包。
+他 被 小偷 偷了 钱包。
+tā bèi xiǎotou tōu-le qiánbāo.
+He PASS thief steal-PRF wallet
+"His wallet was stolen by a thief."
+被 (bèi) as a passive marker is a relatively new addition to the language, introduced as part of the early 20th century language reforms that also added gender-specific pronouns such as 他>她 and 你>妳 and culminated in attempts to Romanize Chinese entirely. There is a  typical passive construction in Mandarin, namely Bei construction.  It is commonly used to indicate result, direction, location, frequency, duration, manner, and appearance. Similar to English, Bei construction can also be analysed by A-movement which is locally restricted. The subject of the Bei clause is included in the complement clause where the “passivized” object controls the verb. Classically, 被 marked an adversative mood, indicating that something bad had happened.  Even today, the following sentence is perfectly acceptable in speech:
+蛋糕
+蛋糕
+dangao
+cake
+吃了。
+吃了。
+chi-le.
+eat-PRF
+蛋糕 吃了。
+蛋糕 吃了。
+dangao chi-le.
+cake eat-PRF
+"The cake was eaten."
+Recent development of Bei construction
+Recently, more syntacticians investigated passive voice in Mandarin. They discovered that passive voice in Mandarin is heavily dependent on the context of the sentence rather than the grammatical forms.
+Therefore, passive voice can be marked (e.g. by the most broadly used passive marker: Bei 被 [mentioned above]) or unmarked (see the "Notional Passive" section below) in both speech and writing. Those sentences have a passive marker called the long passive, while the ones that do not require a passive marker are called short passive.
+Here are examples for long passive and short passive:
+张三
+Zhangsan
+Zhangsan
+被
+bei
+PASS
+李四
+Lisi
+Lisi
+打
+da
+hit
+了。
+le.
+PRF
+张三 被 李四 打 了。
+Zhangsan bei Lisi da le.
+Zhangsan PASS Lisi hit PRF
+‘Zhangsan was hit by Lisi.’
+张三
+Zhangsan
+Zhangsan
+被
+bei
+PASS
+打
+da
+hit
+了。
+le.
+PRF
+张三 被 打 了。
+Zhangsan bei da le.
+Zhangsan PASS hit PRF
+‘Zhangsan was hit ∅.’
+(Note: both examples are adapted from Huang, C. J., & Liu, N. (2014))
+We can see from the examples above, the difference between long passive and short passive depends on whether the agent phrase is presented or not.
+Bei construction was not often used in Old Chinese, but it is widely used in Modern Chinese. The appearance of Bei construction marks that Modern Chinese is undergoing a new cycle of change. Old Chinese was considerably synthetic and has been gradually changed to analyticity. Later its development peaked during Tang-Song Dynasties. Nowadays, in Modern Chinese, it is mainly analytic but also shows forward tendency toward synthesis. Here are some recent theories that syntacticians have proposed.
+Ting’s Theory (1998)
+Ting (1998) proposed that Bei is acting as a verb and it is widely accepted so far. Ting stated that Bei construction is not used uniformly in all passive contexts in Mandarin. Rather, three types of Bei-sentences must be introduced. The main distinction is discovered in A-movement and lexical passive compound verb. To some extent, his theory was also supported by Yip et al. (2016), where they also proposed three different forms of passive Mandarin. Ting’s claims were based on his investigation of post-verbal overt pronominal object, locality of selection, occurrence of the particle suo(所) in Bei construction, and the intervention of adverbs within the Bei-V compound (= co-verb). He believed that Bei construction is presented in three types, two of them have different selectional properties, and the other one is lexically derived as Bei-V compound.
+Here is an example of showing a sentence having different selectional properties in its subject and object:
+李四
+Lisi
+Lisi
+被
+bei
+PASS
+张三
+Zhangsan
+Zhangsan
+派
+pai
+sent
+我
+wo
+I
+抓走了。
+zhua-zou-le.
+catch-PRF.
+李四 被 张三 派 我 抓走了。
+Lisi bei Zhangsan pai wo zhua-zou-le.
+Lisi PASS Zhangsan sent I catch-PRF.
+‘Lisi (was)affected(by) Zhangsan’s sending me (to)catch(him).’
+[Lisi1 bei Zhangsan pai wo2 [CP [TP PRO2 zhua-zou-le [e]1 ]]]
+(This example is adapted from Ting, J. (1998))
+Huang and Liu’s Theory (2014)
+Huang and Liu (2014) argued that Bei construction is not a special construction that involves the passivization of intransitive verbs. They believe that what is passivized isn’t the VP itself (in Bei-VP construction), but actually a null light verb with a causative, putative or activity predicate that takes VP as its complement or adjunct. In their analysis, VP part in Bei-VP construction acquires its categorical feature by an agreement relation with a category-creating light verb, and it serves as the complement or adjunct of that light verb. What makes it different from other constructions is that it doesn’t have grammatical active sources (note: null light verb constructions are abundant in Old Chinese).
+The head of this construction is a null light verb with the semantics of CAUSE and DO, referring to several causative or executive events. Huang and Liu's theory of Bei construction can explain the usage of Bei in both Modern Chinese and Old Chinese.
+Yip's Theory (2016)
+According to Yip et al. (2016), there are three forms in passive voice depending on the tone and emphasis. They are notional passive, formal passive, and lexical passive.
+Notional passive
+No formal passive marker is needed and carries an expository tone. It is the most common form of passive voice in Mandarin and is extremely colloquial. Passive marker is excluded in notional passive because the sentence relies on the hearer’s common sense or their knowledge of the world. Thus, this passive voice is expressed implicitly. Furthermore, notional passive sentences can be representing either positive or negative meanings.
+Here is an example of notional passive:
+问题
+Wenti
+Problem
+解决
+jiejue
+solve
+了。
+le.
+PRF.
+问题 解决 了。
+Wenti jiejue le.
+Problem solve PRF.
+‘Problem (has)been solved.’
+In other voices in Mandarin, “object + transitive verb” construction is usually used. However, “topic + explanatory comment” is the common structure for notional passive. There is no surface passive marker in the sentence, but the underlying meaning does carry a passive voice.
+The negation of notional passive is similar to English negation. Both are achieved by adding the negator “mei(you)没(有)” right before the transitive verb. In fact, in negation, “le” is no longer necessary in the sentence.
+Here is an example of negation of notional passive:
+问题
+Wenti
+Problem
+还
+hai
+still
+没
+mei
+not
+解决。
+jiejue.
+solve.
+问题 还 没 解决。
+Wenti hai mei jiejue.
+Problem still not solve.
+‘Problem (has)not(yet) been solved.’
+(Note: Both examples are adapted from Yip et al. (2016), Chapter 13)
+Most objects present in notional passive are inanimate objects because ambiguity can arise if we use animate objects in these sentences. To avoid this problem, formal or lexical passive markers will be introduced in the sentence.
+Formal passive
+A formal passive marker is introduced as "bei" and it is usually in narrative tone. It is generally used as the narration or description of an event that has already taken place. Additionally, formal passive sentences can only represent negative meanings, otherwise it is ungrammatical. It can be used in both informal and formal contexts.
+Here is an example of formal passive:
+问题
+Wenti
+Problem
+终
+zhong
+finally
+被
+bei
+PASS
+解决。
+jiejue.
+solve.
+问题 终 被 解决。
+Wenti zhong bei jiejue.
+Problem finally PASS solve.
+‘Problem was finally solved.’
+(Note: example is adapted from Yip et al. (2016), Chapter 13)
+There is a striking feature of formal passive which makes it different from other forms of passives. The formal passive is presented as including “bei” as a co-verb in sentence and acting as a formal passive marker. “Bei” indicates the subject of the sentence is the action receiver. The initiator of this action is usually presented after “bei”. But this initiator could be overt (unstated), covert (revealed), or vague.
+Here is some examples of showing different identities in initiators:
+那个
+nage
+That
+警察
+jingcha
+policeman
+被
+bei
+PASS
+打伤了。
+dashang-le.
+hit-wounded-PRF
+那个 警察 被 打伤了。
+nage jingcha bei dashang-le.
+That policeman PASS hit-wounded-PRF
+‘That policeman was wounded.’
+那个
+nage
+That
+警察
+jingcha
+policeman
+被
+bei
+PASS
+人
+ren
+somebody
+打伤了。
+dashang-le.
+hit-wounded-PRF
+那个 警察 被 人 打伤了。
+nage jingcha bei ren dashang-le.
+That policeman PASS somebody hit-wounded-PRF
+‘That policeman was wounded (by-somebody).’
+那个
+nage
+That
+警察
+jingcha
+policeman
+被
+bei
+PASS
+流氓
+liumang
+hooligan
+打伤了。
+dashang-le.
+hit-wounded-PRF
+那个 警察 被 流氓 打伤了。
+nage jingcha bei liumang dashang-le.
+That policeman PASS hooligan hit-wounded-PRF
+‘That policeman was wounded (by-hooligans).’
+(Note: These are adapted from Yip et al. (2016) Chapter 13, p. 253)
+Although the most common formal passive marker is “bei”, it can also be replaced by rang让, jiao教, gei给, etc. The identity of the initiator is either overt or vague. “Bei” cannot be used in imperatives, but other formal passive markers can be used in colloquialism.
+Lexical passive
+No formal passive marker is present, but the passive voice is introduced by a verb that indicates the subject as the receiver of the action, then the verb is followed by an object. The literary meaning is quite similar to English inverted sentences. It is usually a formal tone. Common indicators are a set of verbs, like dedao得到, shoudao受到, zaodao遭到 (the three most common verbs used in lexical passive), etc.
+Here is an example of lexical passive:
+问题
+Wenti
+Problem
+得到
+dedao
+receive
+了
+le
+PRF
+解决。
+jiejue.
+solution.
+问题 得到 了 解决。
+Wenti dedao le jiejue.
+Problem receive PRF solution.
+‘Solution (was)found for problem.’
+(Note: example is adapted from Yip et al. (2016), Chapter 13)
+The syntactic structure of lexical passive is SVO:
+The semantic formula: receiver + verb + initiator + nominalised verb. (No additional complement to the nominalised verb is allowed.)
+In nominal and formal passives, the focus is on the outcome of the action, but for lexical passive, the focus has shifted to emphasize the degree of the action that has been carried out. In other words, the focus is on the initiator and nominalised verb.
+Middle Voice in Mandarin
+In general, Chinese employs middle voice.
+There are still ongoing discussions about where there is a distinct class for middle voice verbs. 
+Chao believes that ergative (= middle voice) verb is a distinct syntactic verb category. In other words, it isn’t purely transitive or intransitive.
+However, Li et al. (1981), when arguing against Chao's analysis of Mandarin, stated that there is a distinct class of middle voice verbs. They recognize that Mandarin (and Cantonese) verbs as a whole behave the same way. Later, Li et al. (1981) introduced middle voice sentences as examples of topic/comment constructions which lacks an overt subject.
+Here is an example:
+饭
+fan
+Rice
+煮焦
+zhujiao
+cook(burnt)
+了
+le
+PRF
+一点。
+yidian.
+(a)bit.
+饭 煮焦 了 一点。
+fan zhujiao le yidian.
+Rice cook(burnt) PRF (a)bit.
+‘The rice (∅)burnt (a)bit.’
+(Note: Adapted from Li et al. (1981))
+We can see from this example that the characteristic of a topic/comment construction in its implication of a dropped anaphor indicates an agent.
+While Ting (2006) compared between middles and Ba constructions (= active voice) involving intransitive  V-de (得) resultatives. He also did comparison between middles and inchoatives. He argues that we can treat notional passives in Mandarin as middle constructions. Its underlying grammatical subject position and lack of a syntactically active logical subject are best explained by a presyntactic approach. But, semantically, Chinese middle voice may be interpreted like stative or verbal passives.
+Here are two examples:
+*那本
+naben
+That
+书
+shu
+book
+很
+hen
+very
+喜欢。
+xihuan.
+like.
+*那本 书 很 喜欢。
+naben shu hen xihuan.
+That book very like.
+‘That book is liked.’
+那本
+naben
+That
+书
+shu
+book
+喜欢得
+xihuan-de
+like-de
+要命。
+yaoming.
+dying.
+那本 书 喜欢得 要命。
+naben shu xihuan-de yaoming.
+That book like-de dying.
+‘That book is (extremely)liked.’
+(Note: Both examples are adapted from Ting (2006))
+Ting argues that sentence a) is ungrammatical and indistinguishable from ergatives, and that sentence b) is grammatical and he believes that it must have used middle voice due to their function of defocusing an agent subject. Although Bei construction in passive voice can achieve the same purpose, there is a possibility that associating with Bei construction may be inappropriate in many contexts. Thus, using middle voice is better in this case.
+Due to the ongoing discussion, we still don’t have a uniformed theory in middle voice in Mandarin.
+Cantonese
+In Cantonese, those features are quite similar by using the coverb 俾 (bei2), but the agent phrase is NOT optional, often with a formal agent 人 (jan4):
+個
+Go3
+The
+男人
+naam4jan4
+man
+俾
+bei2
+PASS
+狗
+gau2
+dog
+咬咗喇。
+ngaau5-zo2-laa3
+bite-PFV-PRF
+個 男人 俾 狗 咬咗喇。
+Go3 naam4jan4 bei2 gau2 ngaau5-zo2-laa3
+The man PASS dog bite-PFV-PRF
+"The man has been bitten by a dog."
+佢
+Keoi5
+3SG
+俾
+bei2
+PASS
+人
+jan4
+someone
+食咗喇。
+sik6-zo2-laa3
+eat-PFV-PRF
+佢 俾 人 食咗喇。
+Keoi5 bei2 jan4 sik6-zo2-laa3
+3SG PASS someone eat-PFV-PRF
+"He/She/It has been eaten (by someone)."
+However, in some dialects of Yue, a passive voice with an optional agent phrase is also available:
+Qinzhou (Qin-Lian Yue):
+佢
+Ki3
+3SG
+著
+zoek6
+PASS
+打喇。
+daa2-laa3
+beat-PRF
+佢 著 打喇。
+Ki3 zoek6 daa2-laa3
+3SG PASS beat-PRF
+"He/She/It has been beaten."
+In the actor-emphasizing passive voice of Cantonese, besides the addition of the auxiliary verb "to be" 係 (hai6), the perfective event is also converted to an adjective-like predicative with the suffix 嘅 (ge3) or 㗎 (gaa3), which is a more emphasized one from the liaison of 嘅 (ge3) and 啊 (aa3):
+個
+Go3
+The
+男人
+naam4jan4
+man
+係
+hai6
+to be
+俾
+bei2
+PASS
+狗
+gau2
+dog
+咬
+ngaau5
+bite
+嘅。
+ge3
+(suffix)
+個 男人 係 俾 狗 咬 嘅。
+Go3 naam4jan4 hai6 bei2 gau2 ngaau5 ge3
+The man {to be} PASS dog bite {(suffix)}
+"The man was bitten by a dog."
+Japanese
+Grammatical Voice in Japanese only contains an active and passive voice and does not have a middle voice.
+Active Voice in Japanese
+Active voice in Japanese is the direct opposition of direct passive voice in Japanese. This is similar to English which also has corresponding active and passive sentences.
+This is an example of a corresponding active voice and direct passive voice sentence.
+Active Voice
+Naomi
+Naomi
+ga
+NOM
+Ken
+Ken
+o
+ACC
+nagut-ta.
+hit-PST.
+Naomi ga Ken o nagut-ta.
+Naomi NOM Ken ACC hit-PST.
+Naomi hit Ken.
+Direct Passive
+Ken
+Ken
+ga
+NOM
+Naomi
+Naomi
+ni
+DAT
+nagur-are-ta.
+hit-PASS-PST.
+Ken ga Naomi ni nagur-are-ta.
+Ken NOM Naomi DAT hit-PASS-PST.
+Ken was hit by Naomi.
+(Note: both examples are adapted from Shibatani et al. (2017))
+Word order in Japanese is more flexible so active voice sentences  can be both SOV (subject + object + verb) and OSV (object + subject + verb) order; however, SOV is typically used more often.
+Active SOV sentence example:
+ボート
+booto
+boat
+が
+-ga
+-NOM
+漁師
+ryoshi
+fisherman
+を
+-o
+-ACC
+運んだ。
+hakonda.
+carried-ACT.
+ボート が 漁師 を 運んだ。
+booto -ga ryoshi -o hakonda.
+boat -NOM fisherman -ACC carried-ACT.
+‘The boat carried the fisherman.’
+Active OSV sentence example
+漁師
+ryoshi
+fisherman
+を
+-o
+-ACC
+ボート
+booto
+boat
+が
+-ga
+-NOM
+運んだ。
+hakonda.
+carried-ACT.
+漁師 を ボート が 運んだ。
+ryoshi -o booto -ga hakonda.
+fisherman -ACC boat -NOM carried-ACT.
+‘The fisherman, the boat carried.’
+(Note: both examples are adapted from Tanaka et al. (2011))
+Passive Voice in Japanese
+Although a topic-prominent language, Japanese employs the passive voice quite frequently, and has two types of passive voice, direct voice which corresponds to that in English and an indirect passive which is not found in English. The passive voice in Japanese is constructed with the verb stem followed by the passive morpheme -(r)are. This synthetic passive morpheme can attach to transitive, ditransitive and some intransitive verbs. The word order in Japanese is more flexible so passive sentences can be both SOV (subject + object + verb) and OSV (object + subject + verb) order; however, SOV is typically used more often. Furthermore, there are two theories about passive voice in Japanese called the uniform and non-uniform theory. These two theories debate whether direct and indirect passives should be treated equally or if they should be treated differently.
+Examples of passive voice in Japanese:
+彼
+Kare
+He
+は
+wa
+TOPIC
+泥棒
+dorobō
+thief
+に
+ni
+AGENT
+財布
+saifu
+wallet
+を
+o
+OBJECT
+盗まれた。
+nusumareta.
+steal-PASSIVE-PAST
+彼 は 泥棒 に 財布 を 盗まれた。
+Kare wa dorobō ni saifu o nusumareta.
+He TOPIC thief AGENT wallet OBJECT steal-PASSIVE-PAST
+"He got his wallet stolen by a thief."
+僕
+Boku
+I
+は
+wa
+TOPIC
+彼女
+kanojo
+her
+に
+ni
+AGENT
+嘘
+uso
+lie
+を
+o
+OBJECT
+つかれた。
+tsukareta.
+tell-PASSIVE-PAST.
+僕 は 彼女 に 嘘 を つかれた。
+Boku wa kanojo ni uso o tsukareta.
+I TOPIC her AGENT lie OBJECT tell-PASSIVE-PAST.
+"I was lied to by her." (= "She lied to me.")
+Direct Passive
+Japanese direct passives have corresponding active sentences which is similar to English passives in that the logical object appears as the grammatical subject.
+Direct Passive examples:
+Ken
+Ken
+ga
+NOM
+Naomi
+Naomi
+ni
+DAT
+nagur-are-ta.
+hit-PASS-PST.
+Ken ga Naomi ni nagur-are-ta.
+Ken NOM Naomi DAT hit-PASS-PST.
+‘Ken was hit by Naomi.’
+Ken
+Ken
+ga
+NOM
+Naomi
+Naomi
+ni
+DAT
+home-rare-ta.
+praise-PASS-PST.
+Ken ga Naomi ni home-rare-ta.
+Ken NOM Naomi DAT praise-PASS-PST.
+‘Ken was praised by Naomi.’
+Yooko
+Yoko
+wa
+TOP
+Hirosi
+Hiroshi
+ni
+DAT
+yasasiku
+gently
+nagusame
+console.IRR
+-rare
+AUX/PASS
+-ta.
+PST.
+Yooko wa Hirosi ni yasasiku nagusame -rare -ta.
+Yoko TOP Hiroshi DAT gently console.IRR AUX/PASS PST.
+‘Yoko was gently consoled by Hiroshi.’
+(Note: examples are adapted from Shibatani et al. (2017))
+In all 3 examples the auxiliary verb (ra)reru is used as a suffix to the active forms of the verb to show the meaning of the direct passive.
+Indirect Passive
+Indirect passives have two varieties, possessive passives and gapless passives. In possessive passives, the grammatical subject stands in a canonical possessive relation with the direct object and in gapless passives they appear to lack an active counterpart and contain an extra argument is realized as the grammatical subject that is unlicensed by the main verb. Indirect passives can also be used when something undesirable happens to the speaker.
+Indirect (Possessive) Passive
+The subject in Possessive passives is in a canonical possessive relation such as kinship, ownership, etc. with the direct object.
+Ken
+Ken
+ga
+NOM
+sensei
+teacher
+ni
+DAT
+musuko
+son
+o
+ACC
+sikar-are-ta.
+scold-PASS-PST.
+Ken ga sensei ni musuko o sikar-are-ta.
+Ken NOM teacher DAT son ACC scold-PASS-PST.
+lit. ‘Ken was scolded his son by the teacher.’ (cf. Ken’s son was scolded.)
+(Note: this example was adapted from Shibatani et al. (2017))
+In this example of a possessive passive there is a kinship relation between the grammatical subject which is ‘Ken’ and the direct object which is the ‘musuko’ (son).
+Indirect (Gapless) Passive
+Gapless passives unlike possessive passives lack an active counterpart and contain an extra argument that is unlicensed by the main verb. The extra argument is also realized as the grammatical subject.
+Ken
+Ken
+ga
+NOM
+Naomi
+Naomi
+ni
+DAT
+nige-rare-ta.
+escape-PASS-PST.
+Ken ga Naomi ni nige-rare-ta.
+Ken NOM Naomi DAT escape-PASS-PST.
+lit. ‘Ken was escaped from by Naomi.’ (cf. Naomi escaped [from Ken].)
+(Note: both examples are adapted from Shibatani et al. (2017))
+Ni-Yotte Passives
+Ni-yotte passives are another type of Japanese passive that contrasts direct and indirect passives which contain a dative ni-phrase. They are similar to direct passives but the instead of the logical subject being realized as a ni-phrase it is realized as a ni-yotte phrase.
+Ni-yotte passive examples:
+Kabin
+vase
+ga
+NOM
+(Ken
+Ken
+ni-yotte)
+DAT-owing
+kowas-are-ta.
+break-PASS-PST.
+Kabin ga (Ken ni-yotte) kowas-are-ta.
+vase NOM Ken DAT-owing break-PASS-PST.
+‘The vase was broken (by means of Ken).’
+Zyuutai
+traffic.jam
+wa
+TOP
+ziko
+accident
+ni-yotte
+DAT-owing
+oki-ta.
+occur-PST.
+Zyuutai wa ziko ni-yotte oki-ta.
+traffic.jam TOP accident DAT-owing occur-PST.
+‘The traffic jam occurred due to an accident.’
+(Note: This example is adapted from Shibatani et al. (2017))
+In addition, as seen in example 2) ni-yotte can also be used more generally to introduce a cause. This because the -yotte in ni-yotte is a form of the verb yor-u which means 'owe'.
+Unlike indirect and direct passive with ni-phrases, ni-yotte
+phrases are not indigenous to Japanese and were created as a way to translate modern Dutch texts because direct translations did not exist.
+Uniform Theory
+The uniform theory was developed by Kuroda (1965, 1979, 1983) and Howard and Niyejawa-Howard (1976). This theory argues that both direct and indirect passives in Japanese should be treated as the same. In this theory both direct and indirect passives are derived from the same complementation structure with optional control. There is the assumption that the -(r)are morpheme in direct passives are the same as the ones used in indirect passives meaning that they both have an underlying structure containing the passive morpheme -(r)are. A problem with this theory is that other similar languages such as Korean and Chinese have possessive and direct passives but do not have indirect passives which indicates that possessive passives appear to behave as a natural class from a typological perspective. However, this theory is preferred over the non-uniform theory because the morpheme -(r)are being spelled the same for both direct and indirect passives is an unsustainable coincidence.
+1) Direct Passive
+Paul-wa
+Paul-FOC
+George-ni
+George-to
+wagamama
+selfish
+dato
+as
+hinans-are-ta
+criticise-PASS-PST
+Paul-wa George-ni wagamama dato hinans-are-ta
+Paul-FOC George-to selfish as criticise-PASS-PST
+‘Paul was criticised for being selfish by George.’
+Internal direct passive sentence:
+[Paul ga [George ga Paul wo wagamama dato hinansuru] are ta]
+2) Indirect Passive
+Paul-wa
+Paul-FOC
+John-ni
+John-to
+shin-are-ta
+die-PASS-PST
+Paul-wa John-ni shin-are-ta
+Paul-FOC John-to die-PASS-PST
+‘Paul was adversely affected by John’s death.’
+Internal indirect passive sentence:
+[Paul ga [George ga Paul wo wagamama dato hinansuru] are ta]
+(Note: These example is adapted from Toyota (2011).
+In these examples we can see that the passive morpheme “-(r)are” is outside of the embedded sentence which shows that “-(r)are” is part of the underlying structure for both direct and indirect passives.
+Non-Uniform Theory
+The uniform theory has primarily been examined by McCrawley (1976) and Kuno (1973, 1978). The non-uniform theory argues that direct and indirect passives in Japanese should be treated differently. This theory hypothesizes that direct and indirect passives have separate underlying structures which are distinct from each other. Direct passives are derived from the transitive underlying structure and do not contain the passive morpheme -(r)are in its underlying structure while the indirect passive does contain -(r)are in its underlying structure. The non-uniform theory argues that direct and indirect passives in Japanese should be treated differently.  This theory is not preferable compared to the uniform theory because the morpheme -(r)are being spelled the same for both direct and indirect passives is difficult to be passed as just a coincidence.
+1) Direct Passive
+George-ga
+George-TOP
+gitaa-wo
+guitar-ACC
+hik-u
+play-PRS
+George-ga gitaa-wo hik-u
+George-TOP guitar-ACC play-PRS
+‘George plays the guitar.’
+In non-uniform theory -(r)are is not contained within the underlying structure so in this sentence is the result of a subject object shift.
+2) Indirect Passive
+Gitaa-ga
+guitar-TOP
+George-ni
+George-by.means.
+yotte
+of
+hik-are-ru
+play-PASS-PRS
+Gitaa-ga George-ni yotte hik-are-ru
+guitar-TOP George-by.means. of play-PASS-PRS
+‘The guitar is played by George.’
+For indirect passive sentences -(r)are is contained within the underlying structure
+(Note: This example is adapted from Toyota (2011).
+Impersonal passive voice
+While in ordinary passive voice, the object of the action becomes the subject of the sentence, in impersonal passive voice, it remains the grammatical object. The subject can be replaced with an impersonal pronoun, as in French On lit le journal or German Man liest die Zeitung ("The newspaper is (being) read"). Similar constructions are sometimes used in English, as in One reads the newspaper; you and they can also be used in an impersonal sense.
+In other languages, the subject is omitted and a specific impersonal form of the verb is used.
+Finnic languages
+Verbs in the Finnic languages, such as Finnish and Estonian, have an impersonal voice, often simply called the passive (Finnish: passiivi, Estonian: umbisikuline tegumood), which omits the subject and retains the grammatical role of the object. It has also been called the "zero person". In Estonian:
+Women read the newspaper.
+The newspaper is (being) read.
+In Estonian, the agent can be included by using the postposition poolt, although using such a construction instead of the active voice is criticized as a foreignism (influenced by German, Russian and English) and characteristic of officialese.
+The newspaper is read by women.
+In both Finnish and Estonian, the use of the impersonal voice generally implies that the agent is capable of own initiative . For example, Finnish Ikkuna hajotettiin ("The window was broken") would generally not be used if the window was broken by the wind, rather than a person. In the latter case, one could instead use a reflexive (anticausative) verb in the active voice, such as Ikkuna hajosi ("The window broke").
+Celtic languages
+Celtic languages have an inflection commonly called the "impersonal" or "autonomous" form, of similar origin to the Latin "passive-impersonal". This is similar to a passive construction in that the agent of the verb is not specified. However its syntax is different from prototypical passives, in that the object of the action remains in the accusative.
+It is similar to the use of the pronoun "on" in French (except wherever "on" is instead used an alternative to "we", which is very frequent). It increasingly corresponds to the passive in modern English, in which there is a trend towards avoiding the use of the passive unless it is specifically required to omit the subject. It also appears to be similar to the "fourth person" mentioned in the preceding paragraph. However, what is called in Irish an briathar saor or the free verb does not suggest passivity but a kind of generalized agency.
+The construction has equal validity in transitive and intransitive clauses, and the best translation into English is normally by using the "dummy" subjects "they", "one", or impersonal "you". For example, the common sign against tobacco consumption has its closest direct translation in English as "No smoking":
+Ná
+Don't
+caitear
+use-IMPERSONAL
+tabac
+tobacco.
+Ná caitear tabac
+Don't use-IMPERSONAL tobacco.
+An example of its use as an intransitive is:
+Téithear
+Go-IMPERSONAL
+go dtí
+to
+an sráidbhaile
+the village
+go minic
+often
+Dé Sathairn
+Saturday
+Téithear {go dtí} {an sráidbhaile} {go minic} {Dé Sathairn}
+Go-IMPERSONAL to {the village} often Saturday
+"People often go to the village of a Saturday."
+The difference between the autonomous and a true passive is that while the autonomous focuses on the action and overtly avoids mentioning the actor, there is nonetheless an anonymous agent who may be referred to in the sentence. For instance:
+Théití
+go[PAST.HAB.AUT]
+ag
+eat
+ithe
+PROG
+béile
+meal
+le chéile
+with each other
+Théití ag ithe béile {le chéile}
+go[PAST.HAB.AUT] eat PROG meal {with each other}
+"People used to go  eating   a meal  together."
+In English, the formation of the passive allows the optional inclusion of an agent in a prepositional phrase, "by the man", etc. Where English would leave out the noun phrase, Irish uses the autonomous; where English includes the noun phrase, Irish uses its periphrastic passive – which can also leave out the noun phrase:
+The
+Bhí
+Was
+tobacco
+an
+the
+was
+tabac
+tobacco
+smoked
+caite
+consumed
+(by
+(ag
+(by
+the
+an
+the
+man)
+bhfear)
+man)
+The tobacco was smoked (by the man)
+Bhí an tabac caite (ag an bhfear)
+Was the tobacco consumed (by the man)
+The impersonal endings have been re-analysed as a passive voice in Modern Welsh and the agent can be included after the preposition gan (by):
+The newspaper is read.
+Dynamic and static passive
+Some linguists draw a distinction between static (or stative) passive voice and dynamic (or eventive) passive voice in some languages. Examples include English, German, Swedish, Spanish and Italian. "Static" means that an action was, is, or will be done to the subject at a certain point in time that did, does, or will result in a state in the time focused upon, whereas "dynamic" means that an action was, is, or will be taking place.
+German
+English
+Note that for some speakers of English the dynamic passive constructed with get is not accepted and is considered colloquial or sub-standard.
+Swedish
+Dynamic passive in Swedish is also frequently expressed with the s-ending.
+The vara passive is often synonymous with, and sometimes preferable to, simply using the corresponding adjective:
+The bli passive is often synonymous with, and sometimes preferable to, the s-passive:
+Spanish
+
+Spanish has two verbs corresponding to English to be: ser and estar. Ser is used to form the ordinary (dynamic) passive voice:
+However, this construction is very unidiomatic. The usual passive voice is the se pasiva, in which the verb is conjugated in the active voice, but preceded by the se particle:
+Estar is used to form what might be termed a static passive voice (not regarded as a passive voice in traditional Spanish grammar):
+In the ser and estar cases, the verb's participle is used as the complement (as is sometimes the case in English).
+Italian
+
+Italian uses two verbs (essere and venire) to translate the static and the dynamic passive:
+Dynamic passive auxiliary verb: essere and venire (to be and to come)
+Static passive auxiliary verb: essere (to be)
+Venetian
+
+In Venetian (Vèneto) the difference between dynamic (true) passive and stative (adjectival) passive is more clear cut, using èser (to be) only for the static passives and vegner (to become, to come) only for the dynamic passive:
+Static forms represents much more a property or general condition, whereas the dynamic form is a real passive action entailing "by someone":
+List of voices
+Voices found in various languages include:
+A particular language may use the same construction for several voices, such as the same form for passive and reflexive.
+See also
+Notes

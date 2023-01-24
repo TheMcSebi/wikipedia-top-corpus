@@ -1,0 +1,35 @@
+Margin of error
+The margin of error is a statistic expressing the amount of random sampling error in the results of a survey. The larger the margin of error, the less confidence one should have that a poll result would reflect the result of a census of the entire population. The margin of error will be positive whenever a population is incompletely sampled and the outcome measure has positive variance, which is to say, the measure varies.
+The term margin of error is often used in non-survey contexts to indicate observational error in reporting measured quantities.
+Concept
+Consider a simple yes/no poll $MATH$ as a sample of $MATH$ respondents drawn from a population $MATH$ reporting the percentage $MATH$ of yes responses. We would like to know how close $MATH$  is to the true result of a survey of the entire population $MATH$, without having to conduct one.  If, hypothetically, we were to conduct poll $MATH$ over subsequent samples of $MATH$ respondents (newly drawn from $MATH$), we would expect those subsequent results $MATH$ to be normally distributed about $MATH$. The margin of error describes the distance within which a specified percentage of these results is expected to vary from $MATH$.
+According to the 68-95-99.7 rule, we would expect that 95% of the results $MATH$ will fall within about two standard deviations ($MATH$) either side of the true mean $MATH$.  This interval is called the confidence interval, and the radius (half the interval) is called the margin of error, corresponding to a 95% confidence level.
+Generally, at a confidence level $MATH$, a sample sized $MATH$ of a population having expected standard deviation $MATH$ has a margin of error
+where $MATH$ denotes the quantile (also, commonly, a z-score), and $MATH$ is the standard error.
+Standard deviation and standard error
+We would expect the normally distributed values  $MATH$ to have a standard deviation which somehow varies with $MATH$. The smaller $MATH$, the wider the margin. This is called the standard error $MATH$.
+For the single result from our survey, we assume that $MATH$, and that all subsequent results $MATH$ together would have a variance $MATH$.
+Note that $MATH$ corresponds to the variance of a Bernoulli distribution.
+Maximum margin of error at different confidence levels
+For a confidence level $MATH$, there is a corresponding confidence interval about the mean $MATH$, that is, the interval $MATH$ within which values of $MATH$ should fall with probability $MATH$. Precise values of $MATH$ are given by the quantile function of the normal distribution (which the 68-95-99.7 rule approximates).
+Note that $MATH$ is undefined for $MATH$, that is, $MATH$ is undefined, as is $MATH$.
+Since $MATH$ at $MATH$, we can arbitrarily set $MATH$, calculate $MATH$, $MATH$, and $MATH$ to obtain the maximum margin of error for $MATH$ at a given confidence level $MATH$ and sample size $MATH$, even before having actual results.  With $MATH$
+Also, usefully, for any reported $MATH$
+Specific margins of error
+If a poll has multiple percentage results (for example, a poll measuring a single multiple-choice preference), the result closest to 50% will have the highest margin of error. Typically, it is this number that is reported as the margin of error for the entire poll. Imagine poll $MATH$ reports $MATH$ as $MATH$
+As a given percentage approaches the extremes of 0% or 100%, its margin of error approaches ±0%.
+Comparing percentages
+Imagine multiple-choice poll $MATH$ reports $MATH$ as $MATH$. As described above, the margin of error reported for the poll would typically be $MATH$, as $MATH$is closest to 50%. The popular notion of statistical tie or statistical dead heat, however, concerns itself not with the accuracy of the individual results, but with that of the ranking of the results. Which is in first?
+If, hypothetically, we were to conduct poll $MATH$ over subsequent samples of $MATH$ respondents (newly drawn from $MATH$), and report result $MATH$, we could use the standard error of difference to understand how $MATH$ is expected to fall about $MATH$.  For this, we need to apply the sum of variances to obtain a new variance, $MATH$,
+where $MATH$ is the covariance of $MATH$and $MATH$.
+Thus (after simplifying),
+Note that this assumes that $MATH$ is close to constant, that is, respondents choosing either A or B would almost never chose C (making $MATH$and $MATH$ close to perfectly negatively correlated). With three or more choices in closer contention, choosing a correct formula for $MATH$ becomes more complicated.
+Effect of finite population size
+The formulae above for the margin of error assume that there is an infinitely large population and thus do not depend on the size of population $MATH$, but only on the sample size $MATH$. According to sampling theory, this assumption is reasonable when the sampling fraction is small. The margin of error for a particular sampling method is essentially the same regardless of whether the population of interest is the size of a school, city, state, or country, as long as the sampling fraction is small.
+In cases where the sampling fraction is larger (in practice, greater than 5%), analysts might adjust the margin of error using a finite population correction to account for the added precision gained by sampling a much larger percentage of the population. FPC can be calculated using the formula
+...and so, if poll $MATH$ were conducted over 24% of, say, an electorate of 300,000 voters,
+Intuitively, for appropriately large $MATH$,
+In the former case, $MATH$ is so small as to require no correction. In the latter case, the poll effectively becomes a census and sampling error becomes moot.
+See also
+References
+Sources

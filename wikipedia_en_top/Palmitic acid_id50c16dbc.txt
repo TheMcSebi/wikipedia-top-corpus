@@ -1,0 +1,18 @@
+Palmitic acid
+Palmitic acid (hexadecanoic acid in IUPAC nomenclature) is a fatty acid with a 16-carbon chain. It is the most common saturated fatty acid found in animals, plants and microorganisms. Its chemical formula is CH3(CH2)14COOH, and its C:D (the total number of carbon atoms to the number of carbon-carbon double-bonds) is 16:0. It is a major component of the oil from the fruit of oil palms (palm oil), making up to 44% of total fats. Meats, cheeses, butter, and other dairy products also contain palmitic acid, amounting to 50–60% of total fats. Palmitates are the salts and esters of palmitic acid. The palmitate anion is the observed form of palmitic acid at physiologic pH (7.4).
+Occurrence and production
+Palmitic acid was discovered by Edmond Frémy in 1840, in saponified palm oil. This remains the primary industrial route for its production, with the triglycerides (fats) in palm oil being hydrolysed by high temperature water and the resulting mixture fractionally distilled.
+Palmitic acid is produced by a wide range of other plants and organisms, typically at low levels. It is present in butter, cheese, milk, and meat, as well as cocoa butter, olive oil, soybean oil, and sunflower oil.  Karukas contain 44.90% palmitic acid.  The cetyl ester of palmitic acid (cetyl palmitate) occurs in spermaceti.
+Biochemistry
+Excess carbohydrates in the body are converted to palmitic acid. Palmitic acid is the first fatty acid produced during fatty acid synthesis and is the precursor to longer fatty acids. As a consequence, palmitic acid is a major body component of animals. In humans, one analysis found it to make up 21–30% (molar) of human depot fat, and it is a major, but highly variable, lipid component of human breast milk. Palmitate negatively feeds back on acetyl-CoA carboxylase (ACC), which is responsible for converting acetyl-CoA to malonyl-CoA, which in turn is used to add to the growing acyl chain, thus preventing further palmitate generation.
+Some proteins are modified by the addition of a palmitoyl group in a process known as palmitoylation. Palmitoylation is important for localisation of many membrane proteins.
+Applications
+Surfactant
+Palmitic acid is used to produce soaps, cosmetics, and industrial mold release agents. These applications use sodium palmitate, which is commonly obtained by saponification of palm oil.  To this end, palm oil, rendered from palm tree (species Elaeis guineensis), is treated with sodium hydroxide (in the form of caustic soda or lye), which causes hydrolysis of the ester groups, yielding glycerol and sodium palmitate.
+Hydrogenation of palmitic acid yields cetyl alcohol, which is used to produce detergents and cosmetics.
+Foods
+Because it is inexpensive and adds texture and "mouthfeel" to processed foods (convenience food), palmitic acid and its sodium salt find wide use in foodstuffs. Sodium palmitate is permitted as a natural additive in organic products.
+Military
+Aluminium salts of palmitic acid and naphthenic acid were the gelling agents used with volatile petrochemicals during World War II to produce napalm. The word "napalm" is derived from the words naphthenic acid and palmitic acid.
+Research
+A 2021 review indicated that replacing dietary palmitic acid and other saturated fatty acids with unsaturated fatty acids, such as oleic acid, could reduce several biomarkers of cardiovascular and metabolic diseases.

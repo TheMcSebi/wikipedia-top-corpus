@@ -1,0 +1,132 @@
+Commutative ring
+In mathematics, a commutative ring is a ring in which the multiplication operation is commutative. The study of commutative rings is called commutative algebra. Complementarily, noncommutative algebra is the study of ring properties that are not specific to commutative rings. This distinction results from the high number of fundamental properties of commutative rings that do not extend to noncommutative rings.
+Definition and first examples
+Definition
+A ring is a set $MATH$ equipped with two binary operations, i.e. operations combining any two elements of the ring to a third. They are called addition and multiplication and commonly denoted by "$MATH$" and "$MATH$"; e.g. $MATH$ and $MATH$. To form a ring these two operations have to satisfy a number of properties: the ring has to be an abelian group under addition as well as a monoid under multiplication, where multiplication distributes over addition; i.e., $MATH$. The identity elements for addition and multiplication are denoted $MATH$ and $MATH$, respectively.
+If the multiplication is commutative, i.e.
+then the ring $MATH$ is called commutative. In the remainder of this article, all rings will be commutative, unless explicitly stated otherwise.
+First examples
+An important example, and in some sense crucial, is the ring of integers $MATH$ with the two operations of addition and multiplication. As the multiplication of integers is a commutative operation, this is a commutative ring. It is usually denoted $MATH$ as an abbreviation of the German word Zahlen (numbers).
+A field is a commutative ring where $MATH$ and every non-zero element $MATH$ is invertible; i.e., has a multiplicative inverse $MATH$ such that $MATH$. Therefore, by definition, any field is a commutative ring. The rational, real and complex numbers form fields.
+If $MATH$ is a given commutative ring, then the set of all polynomials in the variable $MATH$ whose coefficients are in $MATH$ forms the polynomial ring, denoted $MATH$. The same holds true for several variables.
+If $MATH$ is some topological space, for example a subset of some $MATH$, real- or complex-valued continuous functions on $MATH$ form a commutative ring. The same is true for differentiable or holomorphic functions, when the two concepts are defined, such as for $MATH$ a complex manifold.
+Divisibility
+In contrast to fields, where every nonzero element is multiplicatively invertible, the concept of divisibility for rings is richer. An element $MATH$ of ring $MATH$ is called a unit if it possesses a multiplicative inverse. Another particular type of element is the zero divisors, i.e. an element $MATH$ such that there exists a non-zero element $MATH$ of the ring such that $MATH$. If $MATH$ possesses no non-zero zero divisors, it is called an integral domain (or domain). An element $MATH$ satisfying $MATH$ for some positive integer $MATH$ is called nilpotent.
+Localizations
+The localization of a ring is a process in which some elements are rendered invertible, i.e. multiplicative inverses are added to the ring. Concretely, if $MATH$ is a multiplicatively closed subset of $MATH$ (i.e. whenever $MATH$ then so is $MATH$) then the localization of $MATH$ at $MATH$, or ring of fractions with denominators in $MATH$, usually denoted $MATH$ consists of symbols
+subject to certain rules that mimic the cancellation familiar from rational numbers. Indeed, in this language $MATH$ is the localization of $MATH$ at all nonzero integers. This construction works for any integral domain $MATH$ instead of $MATH$. The localization $MATH$ is a field, called the quotient field of $MATH$.
+Ideals and modules
+Many of the following notions also exist for not necessarily commutative rings, but the definitions and properties are usually more complicated. For example, all ideals in a commutative ring are automatically two-sided, which simplifies the situation considerably.
+Modules
+For a ring $MATH$, an $MATH$-module $MATH$ is like what a vector space is to a field. That is, elements in a module can be added; they can be multiplied by elements of $MATH$ subject to the same axioms as for a vector space. 
+The study of modules is significantly more involved than the one of vector spaces, since there are modules that do not have any basis, that is, do not contain a spanning set whose elements are linearly independents. A module that has a basis is called a free module, and a submodule of a free module needs not to be free.
+A module of finite type is a module that has a finite spanning set. Modules of finite type play a fundamental role in the theory of commutative rings, similar to the role of the finite-dimensional vector spaces in linear algebra. In particular, Noetherian rings (see also § Noetherian rings, below) can be defined as the rings such that every submodule of a module of finite type is also of finite type.
+Ideals
+Ideals of a ring $MATH$ are the submodules of $MATH$, i.e., the modules contained in $MATH$. In more detail, an ideal $MATH$ is a non-empty subset of $MATH$ such that for all $MATH$ in $MATH$, $MATH$ and $MATH$ in $MATH$, both $MATH$ and $MATH$ are in $MATH$. For various applications, understanding the ideals of a ring is of particular importance, but often one proceeds by studying modules in general.
+Any ring has two ideals, namely the zero ideal $MATH$ and $MATH$, the whole ring. These two ideals are the only ones precisely if $MATH$ is a field. Given any subset $MATH$ of $MATH$ (where $MATH$ is some index set), the ideal generated by $MATH$ is the smallest ideal that contains $MATH$. Equivalently, it is given by finite linear combinations
+Principal ideal domains
+If $MATH$ consists of a single element $MATH$, the ideal generated by $MATH$ consists of the multiples of $MATH$, i.e., the elements of the form $MATH$ for arbitrary elements $MATH$. Such an ideal is called a principal ideal. If every ideal is a principal ideal, $MATH$ is called a principal ideal ring; two important cases are $MATH$ and $MATH$, the polynomial ring over a field $MATH$. These two are in addition domains, so they are called principal ideal domains.
+Unlike for general rings, for a principal ideal domain, the properties of individual elements are strongly tied to the properties of the ring as a whole. For example, any principal ideal domain $MATH$ is a unique factorization domain (UFD) which means that any element is a product of irreducible elements, in a (up to reordering of factors) unique way. Here, an element a in a domain is called irreducible if the only way of expressing it as a product
+is by either $MATH$ or $MATH$ being a unit. An example, important in field theory, are irreducible polynomials, i.e., irreducible elements in $MATH$, for a field $MATH$. The fact that $MATH$ is a UFD can be stated more elementarily by saying that any natural number can be uniquely decomposed as product of powers of prime numbers. It is also known as the fundamental theorem of arithmetic.
+An element $MATH$ is a prime element if whenever $MATH$ divides a product $MATH$, $MATH$ divides $MATH$ or $MATH$. In a domain, being prime implies being irreducible. The converse is true in a unique factorization domain, but false in general.
+The factor ring
+The definition of ideals is such that "dividing" $MATH$ "out" gives another ring, the factor ring $MATH$ / $MATH$: it is the set of cosets of $MATH$ together with the operations
+ and $MATH$.
+For example, the ring $MATH$ (also denoted $MATH$), where $MATH$ is an integer, is the ring of integers modulo $MATH$. It is the basis of modular arithmetic.
+An ideal is proper if it is strictly smaller than the whole ring. An ideal that is not strictly contained in any proper ideal is called maximal. An ideal $MATH$ is maximal if and only if $MATH$ / $MATH$ is a field. Except for the zero ring, any ring (with identity) possesses at least one maximal ideal; this follows from Zorn's lemma.
+Noetherian rings
+A ring is called Noetherian (in honor of Emmy Noether, who developed this concept) if every ascending chain of ideals
+becomes stationary, i.e. becomes constant beyond some index $MATH$. Equivalently, any ideal is generated by finitely many elements, or, yet equivalent, submodules of finitely generated modules are finitely generated.
+Being Noetherian is a highly important finiteness condition, and the condition is preserved under many operations that occur frequently in geometry. For example, if $MATH$ is Noetherian, then so is the polynomial ring $MATH$ (by Hilbert's basis theorem), any localization $MATH$, and also any factor ring $MATH$ / $MATH$.
+Any non-Noetherian ring $MATH$ is the union of its Noetherian subrings. This fact, known as Noetherian approximation, allows the extension of certain theorems to non-Noetherian rings.
+Artinian rings
+A ring is called Artinian (after Emil Artin), if every descending chain of ideals
+becomes stationary eventually. Despite the two conditions appearing symmetric, Noetherian rings are much more general than Artinian rings. For example, $MATH$ is Noetherian, since every ideal can be generated by one element, but is not Artinian, as the chain
+shows. In fact, by the Hopkins–Levitzki theorem, every Artinian ring is Noetherian. More precisely, Artinian rings can be characterized as the Noetherian rings whose Krull dimension is zero.
+The spectrum of a commutative ring
+Prime ideals
+As was mentioned above, $MATH$ is a unique factorization domain. This is not true for more general rings, as algebraists realized in the 19th century. For example, in
+there are two genuinely distinct ways of writing 6 as a product:
+Prime ideals, as opposed to prime elements, provide a way to circumvent this problem. A prime ideal is a proper (i.e., strictly contained in $MATH$) ideal $MATH$ such that, whenever the product $MATH$ of any two ring elements $MATH$ and $MATH$ is in $MATH$ at least one of the two elements is already in $MATH$ (The opposite conclusion holds for any ideal, by definition.) Thus, if a prime ideal is principal, it is equivalently generated by a prime element. However, in rings such as $MATH$ prime ideals need not be principal. This limits the usage of prime elements in ring theory. A cornerstone of algebraic number theory is, however, the fact that in any Dedekind ring (which includes $MATH$ and more generally the ring of integers in a number field) any ideal (such as the one generated by 6) decomposes uniquely as a product of prime ideals.
+Any maximal ideal is a prime ideal or, more briefly, is prime. Moreover, an ideal $MATH$ is prime if and only if the factor ring $MATH$ is an integral domain. Proving that an ideal is prime, or equivalently that a ring has no zero-divisors can be very difficult. Yet another way of expressing the same is to say that the complement $MATH$ is multiplicatively closed. The localisation $MATH$ is important enough to have its own notation: $MATH$. This ring has only one maximal ideal, namely $MATH$. Such rings are called local.
+The spectrum
+The spectrum of a ring $MATH$,  denoted by $MATH$, is the set of all prime ideals of $MATH$. It is equipped with a topology, the Zariski topology, which reflects the algebraic properties of $MATH$: a basis of open subsets is given by
+, where $MATH$ is any ring element.
+Interpreting $MATH$ as a function that takes the value f mod p (i.e., the image of f in the residue field R/p), this subset is the locus where f is non-zero. The spectrum also makes precise the intuition that localisation and factor rings are complementary: the natural maps R → Rf and R → R / fR correspond, after endowing the spectra of the rings in question with their Zariski topology, to complementary open and closed immersions respectively. Even for basic rings, such as illustrated for R = Z at the right, the Zariski topology is quite different from the one on the set of real numbers.
+The spectrum contains the set of maximal ideals, which is occasionally denoted mSpec (R). For an algebraically closed field k, mSpec (k[T1, ..., Tn] / (f1, ..., fm)) is in bijection with the set
+Thus, maximal ideals reflect the geometric properties of solution sets of polynomials, which is an initial motivation for the study of commutative rings. However, the consideration of non-maximal ideals as part of the geometric properties of a ring is useful for several reasons. For example, the minimal prime ideals (i.e., the ones not strictly containing smaller ones) correspond to the irreducible components of Spec R. For a Noetherian ring R, Spec R has only finitely many irreducible components. This is a geometric restatement of primary decomposition, according to which any ideal can be decomposed as a product of finitely many primary ideals. This fact is the ultimate generalization of the decomposition into prime ideals in Dedekind rings.
+Affine schemes
+The notion of a spectrum is the common basis of commutative algebra and algebraic geometry. Algebraic geometry proceeds by endowing Spec R with a sheaf $MATH$ (an entity that collects functions defined locally, i.e. on varying open subsets). The datum of the space and the sheaf is called an affine scheme. Given an affine scheme, the underlying ring R can be recovered as the global sections of $MATH$. Moreover, this one-to-one correspondence between rings and affine schemes is also compatible with ring homomorphisms: any f : R → S gives rise to a continuous map in the opposite direction
+The resulting equivalence of the two said categories aptly reflects algebraic properties of rings in a geometrical manner.
+Similar to the fact that manifolds are locally given by open subsets of Rn, affine schemes are local models for schemes, which are the object of study in algebraic geometry. Therefore, several notions concerning commutative rings stem from geometric intuition.
+Dimension
+The Krull dimension (or dimension) dim R of a ring R measures the "size" of a ring by, roughly speaking, counting independent elements in R. The dimension of algebras over a field k can be axiomatized by four properties:
+The dimension is defined, for any ring R, as the supremum of lengths n of chains of prime ideals
+For example, a field is zero-dimensional, since the only prime ideal is the zero ideal. The integers are one-dimensional, since chains are of the form (0) ⊊ (p), where p is a prime number. For non-Noetherian rings, and also non-local rings, the dimension may be infinite, but Noetherian local rings have finite dimension. Among the four axioms above, the first two are elementary consequences of the definition, whereas the remaining two hinge on important facts in commutative algebra, the going-up theorem and Krull's principal ideal theorem.
+Ring homomorphisms
+A ring homomorphism or, more colloquially, simply a map, is a map f : R → S such that
+These conditions ensure f(0) = 0. Similarly as for other algebraic structures, a ring homomorphism is thus a map that is compatible with the structure of the algebraic objects in question. In such a situation S is also called an R-algebra, by understanding that s in S may be multiplied by some r of R, by setting
+The kernel and image of f are defined by ker (f) = {r ∈ R, f(r) = 0} and im (f) = f(R) = {f(r), r ∈ R}. The kernel is an ideal of R, and the image is a subring of S.
+A ring homomorphism is called an isomorphism if it is bijective. An example of a ring isomorphism, known as the Chinese remainder theorem, is
+where n = p1p2...pk is a product of pairwise distinct prime numbers.
+Commutative rings, together with ring homomorphisms, form a category. The ring Z is the initial object in this category, which means that for any commutative ring R, there is a unique ring homomorphism Z → R. By means of this map, an integer n can be regarded as an element of R. For example, the binomial formula
+which is valid for any two elements a and b in any commutative ring R is understood in this sense by interpreting the binomial coefficients as elements of R using this map.
+Given two R-algebras S and T, their tensor product
+is again a commutative R-algebra. In some cases, the tensor product can serve to find a T-algebra which relates to Z as S relates to R. For example,
+Finite generation
+An R-algebra S is called finitely generated (as an algebra) if there are finitely many elements s1, ..., sn such that any element of s is expressible as a polynomial in the si. Equivalently, S is isomorphic to
+A much stronger condition is that S is finitely generated as an R-module, which means that any s can be expressed as a R-linear combination of some finite set s1, ..., sn.
+Local rings
+A ring is called local if it has only a single maximal ideal, denoted by m. For any (not necessarily local) ring R, the localization
+at a prime ideal p is local. This localization reflects the geometric properties of Spec R "around p". Several notions and problems in commutative algebra can be reduced to the case when R is local, making local rings a particularly deeply studied class of rings. The residue field of R is defined as
+Any R-module M yields a k-vector space given by M / mM. Nakayama's lemma shows this passage is preserving important information: a finitely generated module M is zero if and only if M / mM is zero.
+Regular local rings
+The k-vector space m/m2 is an algebraic incarnation of the cotangent space. Informally, the elements of m can be thought of as functions which vanish at the point p, whereas m2 contains the ones which vanish with order at least 2. For any Noetherian local ring R, the inequality
+holds true, reflecting the idea that the cotangent (or equivalently the tangent) space has at least the dimension of the space Spec R. If equality holds true in this estimate, R is called a regular local ring. A Noetherian local ring is regular if and only if the ring (which is the ring of functions on the tangent cone)
+is isomorphic to a polynomial ring over k. Broadly speaking, regular local rings are somewhat similar to polynomial rings. Regular local rings are UFD's.
+Discrete valuation rings are equipped with a function which assign an integer to any element r. This number, called the valuation of r can be informally thought of as a zero or pole order of r. Discrete valuation rings are precisely the one-dimensional regular local rings. For example, the ring of germs of holomorphic functions on a Riemann surface is a discrete valuation ring.
+Complete intersections
+By Krull's principal ideal theorem, a foundational result in the dimension theory of rings, the dimension of
+is at least r − n. A ring R is called a complete intersection ring if it can be presented in a way that attains this minimal bound. This notion is also mostly studied for local rings. Any regular local ring is a complete intersection ring, but not conversely.
+A ring R is a set-theoretic complete intersection if the reduced ring associated to R, i.e., the one obtained by dividing out all nilpotent elements, is a complete intersection. As of 2017, it is in general unknown, whether curves in three-dimensional space are set-theoretic complete intersections.
+Cohen–Macaulay rings
+The depth of a local ring R is the number of elements in some (or, as can be shown, any) maximal regular sequence, i.e., a sequence a1, ..., 
+an ∈ m such that all ai are non-zero divisors in
+For any local Noetherian ring, the inequality
+holds. A local ring in which equality takes place is called a Cohen–Macaulay ring. Local complete intersection rings, and a fortiori, regular local rings are Cohen–Macaulay, but not conversely. Cohen–Macaulay combine desirable properties of regular rings (such as the property of being universally catenary rings, which means that the (co)dimension of primes is well-behaved), but are also more robust under taking quotients than regular local rings.
+Constructing commutative rings
+There are several ways to construct new rings out of given ones. The aim of such constructions is often to improve certain properties of the ring so as to make it more readily understandable. For example, an integral domain that is integrally closed in its field of fractions is called normal. This is a desirable property, for example any normal one-dimensional ring is necessarily regular. Rendering a ring normal is known as normalization.
+Completions
+If I is an ideal in a commutative ring R, the powers of I form topological neighborhoods of 0 which allow R to be viewed as a topological ring. This topology is called the I-adic topology. R can then be completed with respect to this topology. Formally, the I-adic completion is the inverse limit of the rings R/In. For example, if k is a field, k[[X]], the formal power series ring in one variable over k, is the I-adic completion of k[X] where I is the principal ideal generated by X. This ring serves as an algebraic analogue of the disk. Analogously, the ring of p-adic integers is the completion of Z  with respect to the principal ideal (p). Any ring that is isomorphic to its own completion, is called complete.
+Complete local rings satisfy Hensel's lemma, which roughly speaking allows extending solutions (of various problems) over the residue field k to R.
+Homological notions
+Several deeper aspects of commutative rings have been studied using methods from homological algebra. Hochster (2007) lists some open questions in this area of active research.
+Projective modules and Ext functors
+Projective modules can be defined to be the direct summands of free modules. If R is local, any finitely generated projective module is actually free, which gives content to an analogy between projective modules and vector bundles. The Quillen–Suslin theorem asserts that any finitely generated projective module over k[T1, ..., Tn] (k a field) is free, but in general these two concepts differ. 
+A local Noetherian ring is regular if and only if its global dimension is finite, say n, which means that any finitely generated R-module has a resolution by projective modules of length at most n.
+The proof of this and other related statements relies on the usage of homological methods, such as the
+Ext functor. This functor is the derived functor of the functor
+The latter functor is exact if M is projective, but not otherwise: for a surjective map E → F of R-modules, a map M → F need not extend to a map M → E. The higher Ext functors measure the non-exactness of the Hom-functor. The importance of this standard construction in homological algebra stems can be seen from the fact that a local Noetherian ring R with residue field k is regular if and only if
+vanishes for all large enough n. Moreover, the dimensions of these Ext-groups, known as Betti numbers, grow polynomially in n if and only if R is a local complete intersection ring. A key argument in such considerations is the Koszul complex, which provides an explicit free resolution of the residue field k of a local ring R in terms of a regular sequence.
+Flatness
+The tensor product is another non-exact functor relevant in the context of commutative rings: for a general R-module M, the functor
+is only right exact. If it is exact, M is called flat. If R is local, any finitely presented flat module is free of finite rank, thus projective. Despite being defined in terms of homological algebra, flatness has profound geometric implications. For example, if an R-algebra S is flat, the dimensions of the fibers
+(for prime ideals p in R) have the "expected" dimension, namely dim S − dim R + dim (R / p).
+Properties
+By Wedderburn's theorem, every finite division ring is commutative, and therefore a finite field. Another condition ensuring commutativity of a ring, due to Jacobson, is the following: for every element r of R there exists an integer n > 1 such that rn = r. If, r2 = r for every r, the ring is called Boolean ring. More general conditions which guarantee commutativity of a ring are also known.
+Generalizations
+Graded-commutative rings
+A graded ring R = ⨁i∊Z Ri is called graded-commutative if, for all homogeneous elements a and b,
+If the Ri are connected by differentials ∂ such that an abstract form of the product rule holds, i.e.,
+R is called a commutative differential graded algebra (cdga). An example is the complex of differential forms on a manifold, with the multiplication given by the exterior product, is a cdga. The cohomology of a cdga is a graded-commutative ring, sometimes referred to as the cohomology ring. A broad range examples of graded rings arises in this way. For example, the Lazard ring is the ring of cobordism classes of complex manifolds.
+A graded-commutative ring with respect to a grading  by Z/2 (as opposed to Z) is called a superalgebra.
+A related notion is an almost commutative ring, which means that R is filtered in such a way that the associated graded ring
+is commutative. An example is the Weyl algebra and more general rings of differential operators.
+Simplicial commutative rings
+A simplicial commutative ring is a simplicial object in the category of commutative rings. They are building blocks for (connective) derived algebraic geometry. A closely related but more general notion is that of E∞-ring.
+Applications of the commutative rings
+See also
+Notes
+Citations
+References
+Further reading

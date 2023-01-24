@@ -1,0 +1,116 @@
+Negative binomial distribution
+In probability theory and statistics, the negative binomial distribution is a discrete probability distribution that models the number of failures in a sequence of independent and identically distributed Bernoulli trials before a specified (non-random) number of successes (denoted $MATH$) occurs. For example, we can define rolling a 6 on a die as a success, and rolling any other number as a failure, and ask how many failure rolls will occur before we see the third success ($MATH$). In such a case, the probability distribution of the number of failures that appear will be a negative binomial distribution. 
+An alternative formulation is to model the number of total trials (instead of the number of failures). In fact, for a specified (non-random) number of successes (r), the number of failures (n - r) are random because the total trials (n) are random. For example, we could use the negative binomial distribution to model the number of days n (random) a certain machine works (specified by r) before it breaks down.
+The Pascal distribution (after Blaise Pascal) and Polya distribution (for George Pólya) are special cases of the negative binomial distribution. A convention among engineers, climatologists, and others is to use "negative binomial" or "Pascal" for the case of an integer-valued stopping-time parameter ($MATH$) and use "Polya" for the real-valued case.
+For occurrences of associated discrete events, like tornado outbreaks, the Polya distributions can be used to give more accurate models than the Poisson distribution by allowing the mean and variance to be different, unlike the Poisson. The negative binomial distribution has a variance $MATH$, where $MATH$ is the number of successes, with the distribution becoming identical to Poisson in the limit $MATH$ for a given mean $MATH$.  This can make the distribution a useful overdispersed alternative to the Poisson distribution, for example for a robust modification of Poisson regression. In epidemiology, it has been used to model disease transmission for infectious diseases where the likely number of onward infections may vary considerably from individual to individual and from setting to setting. More generally, it may be appropriate where events have positively correlated occurrences causing a larger variance than if the occurrences were independent, due to a positive covariance term.
+The term "negative binomial" is likely due to the fact that a certain binomial coefficient that appears in the formula for the probability mass function of the distribution can be written more simply with negative numbers.
+Definitions
+Imagine a sequence of independent Bernoulli trials: each trial has two potential outcomes called "success" and "failure." In each trial the probability of success is $MATH$ and of failure is $MATH$. We observe this sequence until a predefined number $MATH$ of successes occurs. Then the random number of observed failures, $MATH$, follows the negative binomial (or Pascal) distribution:
+Probability mass function
+The probability mass function of the negative binomial distribution is
+where r is the number of successes, k is the number of failures, and p is the probability of success on each trial. Note that this formulation is an alternative formulation to the sidebar; in this formulation, the mean is $MATH$ and the variance is $MATH$. 
+Here, the quantity in parentheses is the binomial coefficient, and is equal to
+There are k failures chosen from k + r − 1 trials rather than k + r because the last of the k + r trials is by definition a success.
+This quantity can alternatively be written in the following manner, explaining the name "negative binomial":
+Note that by the last expression and the binomial series, for every 0 ≤ p < 1 and $MATH$,
+hence the terms of the probability mass function indeed add up to one as below.
+To understand the above definition of the probability mass function, note that the probability for every specific sequence of r successes and k failures is pr(1 − p)k, because the outcomes of the k + r trials are supposed to happen independently. Since the rth success always comes last, it remains to choose the k trials with failures out of the remaining k + r − 1 trials. The above binomial coefficient, due to its combinatorial interpretation, gives precisely the number of all these sequences of length k + r − 1.
+Cumulative distribution function
+The cumulative distribution function can be expressed in terms of the regularized incomplete beta function:
+It can also be expressed in terms of the cumulative distribution function of the binomial distribution:
+Alternative formulations
+Some sources may define the negative binomial distribution slightly differently from the primary one here. The most common variations are where the random variable X is counting different things. These variations can be seen in the table here:
+Each of these definitions of the negative binomial distribution can be expressed in slightly different but equivalent ways. The first alternative formulation is simply an equivalent form of the binomial coefficient, that is: $MATH$.  The second alternate formulation somewhat simplifies the expression by recognizing that the total number of trials is simply the number of successes and failures, that is: $MATH$.  These second formulations may be more intuitive to understand, however they are perhaps less practical as they have more terms.
+In negative binomial regression, the distribution is specified in terms of its mean, $MATH$, which is then related to explanatory variables as in linear regression or other generalized linear models.  From the expression for the mean m, one can derive $MATH$ and $MATH$.  Then, substituting these expressions in the one for the probability mass function when r is real-valued, yields this parametrization of the probability mass function in terms of m:
+The variance can then be written as $MATH$.  Some authors prefer to set $MATH$, and express the variance as $MATH$.  In this context, and depending on the author, either the parameter r or its reciprocal α is referred to as the "dispersion parameter", "shape parameter" or "clustering coefficient", or the "heterogeneity" or "aggregation" parameter. The term "aggregation" is particularly used in ecology when describing counts of individual organisms. Decrease of the aggregation parameter r towards zero corresponds to increasing aggregation of the organisms; increase of r towards infinity corresponds to absence of aggregation, as can be described by Poisson regression.
+Alternative parameterizations
+Sometimes the distribution is parameterized in terms of its mean μ and variance σ2:
+Length of hospital stay
+Hospital length of stay is an example of real-world data that can be modelled well with a negative binomial distribution via Negative binomial regression.
+Selling candy
+Pat Collis is required to sell candy bars to raise money for the 6th grade field trip.  Pat is (somewhat harshly) not supposed to return home until five candy bars have been sold.  So the child goes door to door, selling candy bars. At each house, there is a 0.6 probability of selling one candy bar and a 0.4 probability of selling nothing.
+What's the probability of selling the last candy bar at the nth house?
+Successfully selling candy enough times is what defines our stopping criterion (as opposed to failing to sell it), so k in this case represents the number of failures and r represents the number of successes.  Recall that the NegBin(r, p) distribution describes the probability of k failures and r successes in k + r Bernoulli(p) trials with success on the last trial.  Selling five candy bars means getting five successes.  The number of trials (i.e. houses) this takes is therefore k + 5 = n.  The random variable we are interested in is the number of houses, so we substitute k = n − 5 into a NegBin(5, 0.4) mass function and obtain the following mass function of the distribution of houses (for n ≥ 5):
+What's the probability that Pat finishes on the tenth house?
+What's the probability that Pat finishes on or before reaching the eighth house?
+To finish on or before the eighth house, Pat must finish at the fifth, sixth, seventh, or eighth house. Sum those probabilities:
+What's the probability that Pat exhausts all 30 houses that happen to stand in the neighborhood?
+This can be expressed as the probability that Pat does not finish on the fifth through the thirtieth house:
+Because of the rather high probability that Pat will sell to each house (60 percent), the probability of her NOT fulfilling her quest is vanishingly slim.
+Properties
+
+
+Expectation
+The expected total number of successes in a negative binomial distribution with parameters (r, p) is rp/(1 − p). To see this, imagine an experiment simulating the negative binomial is performed many times. That is, a set of trials is performed until r failures are obtained, then another set of trials, and then another etc. Write down the number of trials performed in each experiment: a, b, c, ... and set a + b + c + ... = N. Now we would expect about Np successes in total. Say the experiment was performed n times. Then there are nr failures in total. So we would expect nr = N(1 − p), so N/n = r/(1 − p). See that N/n is just the average number of trials per experiment. That is what we mean by "expectation". The average number of successes per experiment is N/n − r = r/(1 − p) − r = rp/(1 − p). This agrees with the mean given in the box on the right-hand side of this page.
+A rigorous derivation can be done by representing the negative binomial distribution as the sum of waiting times. Let $MATH$ with the convention $MATH$ represents the number of successes observed before $MATH$ failures with the probability of success being $MATH$. And let $MATH$ where $MATH$ represents the number of successes before seeing a failure. We can think of $MATH$ as the waiting time (number of success) between the $MATH$th and $MATH$th failure. Thus
+The mean is 
+which follows from the fact $MATH$.
+Variance
+When counting the number of successes given the number r of failures, the variance is rp/(1 − p)2.
+When counting the number of failures before the r-th success, the variance is r(1 − p)/p2.
+Relation to the binomial theorem
+Suppose Y is a random variable with a binomial distribution with parameters n and p.  Assume p + q = 1, with p, q ≥ 0, then
+Using Newton's binomial theorem, this can equally be written as:
+in which the upper bound of summation is infinite.  In this case, the binomial coefficient
+is defined when n is a real number, instead of just a positive integer.  But in our case of the binomial distribution it is zero when k > n.  We can then say, for example
+Now suppose r > 0 and we use a negative exponent:
+Then all of the terms are positive, and the term
+is just the probability that the number of failures before the rth success is equal to k, provided r is an integer.  (If r is a negative non-integer, so that the exponent is a positive non-integer, then some of the terms in the sum above are negative, so we do not have a probability distribution on the set of all nonnegative integers.)
+Now we also allow non-integer values of r.  Then we have a proper negative binomial distribution, which is a generalization of the Pascal distribution, which coincides with the Pascal distribution when r happens to be a positive integer.
+Recall from above that
+This property persists when the definition is thus generalized, and affords a quick way to see that the negative binomial distribution is infinitely divisible.
+Recurrence relation
+The following recurrence relation holds:
+Related distributions
+Poisson distribution
+Consider a sequence of negative binomial random variables where the stopping parameter r goes to infinity, whereas the probability of success in each trial, p, goes to zero in such a way as to keep the mean of the distribution constant. Denoting this mean as λ, the parameter p will be p = r/(r + λ)
+Under this parametrization the probability mass function will be
+Now if we consider the limit as r → ∞, the second factor will converge to one, and the third to the exponent function:
+which is the mass function of a Poisson-distributed random variable with expected value λ.
+In other words, the alternatively parameterized negative binomial distribution converges to the Poisson distribution and r controls the deviation from the Poisson.  This makes the negative binomial distribution suitable as a robust alternative to the Poisson, which approaches the Poisson for large r, but which has larger variance than the Poisson for small r.
+Gamma–Poisson mixture
+The negative binomial distribution also arises as a continuous mixture of Poisson distributions (i.e. a compound probability distribution) where the mixing distribution of the Poisson rate is a gamma distribution. That is, we can view the negative binomial as a Poisson(λ) distribution, where λ is itself a random variable, distributed as a gamma distribution with shape = r and scale  θ = p/(1 − p) or correspondingly rate β = (1 − p)/p.
+To display the intuition behind this statement, consider two independent Poisson processes, "Success" and "Failure", with intensities p and 1 − p. Together, the Success and Failure processes are equivalent to a single Poisson process of intensity 1, where an occurrence of the process is a success if a corresponding independent coin toss comes up heads with probability p; otherwise, it is a failure. If r is a counting number, the coin tosses show that the count of successes before the rth failure follows a negative binomial distribution with parameters r and p. The count is also, however, the count of the Success Poisson process at the random time T of the rth occurrence in the Failure Poisson process. The Success count follows a Poisson distribution with mean pT, where T is the waiting time for r occurrences in a Poisson process of intensity 1 − p, i.e., T is gamma-distributed with shape parameter r and intensity 1 − p. Thus, the negative binomial distribution is equivalent to a Poisson distribution with mean pT, where the random variate T is gamma-distributed with shape parameter r and intensity (1 − p). The preceding paragraph follows, because λ = pT is gamma-distributed with shape parameter r and intensity (1 − p)/p.
+The following formal derivation (which does not depend on r being a counting number) confirms the intuition.
+Because of this, the negative binomial distribution is also known as the gamma–Poisson (mixture) distribution. The negative binomial distribution was originally derived as a limiting case of the gamma-Poisson distribution.
+Distribution of a sum of geometrically distributed random variables
+If Yr is a random variable following the negative binomial distribution with parameters r and p, and support {0, 1, 2, ...}, then Yr is a sum of r independent variables following the geometric distribution (on {0, 1, 2, ...}) with parameter p. As a result of the central limit theorem, Yr (properly scaled and shifted) is therefore approximately normal for sufficiently large r.
+Furthermore, if Bs+r is a random variable following the binomial distribution with parameters s + r and p, then
+In this sense, the negative binomial distribution is the "inverse" of the binomial distribution.
+The sum of independent negative-binomially distributed random variables r1 and r2 with the same value for parameter p is negative-binomially distributed with the same p but with r-value r1 + r2.
+The negative binomial distribution is infinitely divisible, i.e., if Y has a negative binomial distribution, then for any positive integer n, there exist independent identically distributed random variables Y1, ..., Yn whose sum has the same distribution that Y has.
+Representation as compound Poisson distribution
+The negative binomial distribution NB(r,p) can be represented as a compound Poisson distribution: Let {Yn, n ∈ $MATH$0 denote a sequence of independent and identically distributed random variables, each one having the logarithmic distribution Log(p), with probability mass function
+Let N be a random variable, independent of the sequence, and suppose that N has a Poisson distribution with mean λ = −r ln(1 − p). Then the random sum
+is NB(r,p)-distributed. To prove this, we calculate the probability generating function GX of X, which is the composition of the probability generating functions GN and GY1. Using
+and
+we obtain
+which is the probability generating function of the NB(r,p) distribution.
+The following table describes four distributions related to the number of successes in a sequence of draws:
+$MATH$ class of distributions
+The negative binomial, along with the Poisson and binomial distributions, is a member of the (a,b,0) class of distributions. All three of these distributions are special cases of the Panjer distribution. They are also members of a natural exponential family.
+Statistical inference
+MVUE for p
+Suppose p is unknown and an experiment is conducted where it is decided ahead of time that sampling will continue until r successes are found. A sufficient statistic for the experiment is k, the number of failures.
+In estimating p, the minimum variance unbiased estimator is
+Maximum likelihood estimation
+When r is known, the maximum likelihood estimate of p is
+but this is a biased estimate. Its inverse (r + k)/r, is an unbiased estimate of 1/p, however.
+When r is unknown, the maximum likelihood estimator for p and r together only exists for samples for which the sample variance is larger than the sample mean. The likelihood function for N iid observations (k1, ..., kN) is
+from which we calculate the log-likelihood function
+To find the maximum we take the partial derivatives with respect to r and p and set them equal to zero:
+where
+Solving the first equation for p gives:
+Substituting this in the second equation gives:
+This equation cannot be solved for r in closed form. If a numerical solution is desired, an iterative technique such as Newton's method can be used. Alternatively, the expectation–maximization algorithm can be used.
+Occurrence and applications
+Waiting time in a Bernoulli process
+For the special case where r is an integer, the negative binomial distribution is known as the Pascal distribution. It is the probability distribution of a certain number of failures and successes in a series of independent and identically distributed Bernoulli trials. For k + r Bernoulli trials with success probability p, the negative binomial gives the probability of k successes and r failures, with a failure on the last trial. In other words, the negative binomial distribution is the probability distribution of the number of successes before the rth failure in a Bernoulli process, with probability p of successes on each trial. A Bernoulli process is a discrete time process, and so the number of trials, failures, and successes are integers.
+Consider the following example. Suppose we repeatedly throw a die, and consider a 1 to be a failure.  The probability of success on each trial is 5/6. The number of successes before the third failure belongs to the infinite set { 0, 1, 2, 3, ... }. That number of successes is a negative-binomially distributed random variable.
+When r = 1 we get the probability distribution of number of successes before the first failure (i.e. the probability of the first failure occurring on the (k + 1)st trial), which is a geometric distribution:
+Overdispersed Poisson
+The negative binomial distribution, especially in its alternative parameterization described above, can be used as an alternative to the Poisson distribution.  It is especially useful for discrete data over an unbounded positive range whose sample variance exceeds the sample mean. In such cases, the observations are overdispersed with respect to a Poisson distribution, for which the mean is equal to the variance. Hence a Poisson distribution is not an appropriate model.  Since the negative binomial distribution has one more parameter than the Poisson, the second parameter can be used to adjust the variance independently of the mean. See Cumulants of some discrete probability distributions.
+An application of this is to annual counts of tropical cyclones in the North Atlantic or to monthly to 6-monthly counts of wintertime extratropical cyclones over Europe, for which the variance is greater than the mean.  In the case of modest overdispersion, this may produce substantially similar results to an overdispersed Poisson distribution.
+The negative binomial distribution is also commonly used to model data in the form of discrete sequence read counts from high-throughput RNA and DNA sequencing experiments.
+History
+This distribution was first studied in 1713, by Montmort, as the distribution of the number of trials required in an experiment to obtain a given number of successes. It had previously been mentioned by Pascal.

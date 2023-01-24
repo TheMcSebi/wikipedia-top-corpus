@@ -1,0 +1,61 @@
+Microsoft Azure
+Microsoft Azure, often referred to as Azure (/ˈæʒər, ˈeɪʒər/ AZH-ər, AY-zhər, UK also /ˈæzjʊər, ˈeɪzjʊər/ AZ-ure, AY-zure), is a cloud computing platform operated by Microsoft for application management via around the world-distributed data centers. Microsoft Azure has multiple capabilities such as software as a service (SaaS), platform as a service (PaaS) and infrastructure as a service (IaaS) and supports many different programming languages, tools, and frameworks, including both Microsoft-specific and third-party software and systems.
+Azure, announced at Microsoft's Professional Developers Conference (PDC) in October 2008, went by the internal project codename "Project Red Dog", and was formally released in February 2010 as Windows Azure, before being renamed Microsoft Azure on March 25, 2014.
+Services
+Microsoft Azure uses large-scale virtualization at Microsoft data centers worldwide and it offers more than 600 services.
+Compute services
+Identity
+Mobile services
+Storage services
+Communication services
+Data management
+Messaging
+The Microsoft Azure Service Bus allows applications running on Azure premises or off-premises devices to communicate with Azure. This helps to build scalable and reliable applications in a service-oriented architecture (SOA). The Azure service bus supports four different types of communication mechanisms:
+Media services
+A PaaS offering that can be used for encoding, content protection, streaming, or analytics.
+CDN
+A global content delivery network (CDN) for audio, video, applications, images, and other static files. It can be used to cache static assets of websites geographically closer to users to increase performance. The network can be managed by a REST-based HTTP API.
+Azure has 94 point of presence locations worldwide (also known as Edge locations) as of April 2020.
+Developer
+Management
+Azure AI
+Azure Blockchain Workbench
+Through Azure Blockchain Workbench, Microsoft is providing the required infrastructure to set up a consortium network in multiple topologies using a variety of consensus mechanisms. Microsoft provides integration from these blockchain platforms to other Microsoft services to streamline the development of distributed applications. Microsoft supports many general-purpose blockchains including Ethereum and Hyperledger Fabric and purpose-built blockchains like Corda.
+Functions
+Azure functions are used in serverless computing architectures where subscribers can execute code as an event driven Function-as-a-Service (FaaS) without managing the underlying server resources. Customers using Azure functions are billed based on per-second resource consumption and executions.
+Internet of Things (IoT)
+Azure Orbital
+Launched in September 2020, Azure Orbital is a ground station service to help customers move satellite data to the cloud and to provide global cloud connectivity. Private industries and government agencies that use data collected by satellites can directly connect satellites to the cloud computing networks to process and analyse the data. Mobile cloud computing ground stations for customers that operate where there is no existing ground infrastructure (such as energy, agricultural and military) will provide point-to-point cloud connectivity to remote locations using third party satellite systems – SpaceX’s Starlink constellations in low Earth orbit (LEO) and SES’ O3b medium Earth orbit (MEO) constellation.
+SES will be deploying satellite control and uplink ground stations for its next-generation O3b mPOWER MEO satellites alongside Microsoft's data centers to provide single-hop connectivity to the cloud from remote sites. The first two O3b mPOWER satellites launched in December 2022 (with nine more scheduled for deployment in 2023-2024) and the initial service start is expected in Q3 2023.
+Microsoft suggests that satellite routing to the cloud can offer a speed advantage. For example, a connection from the home to a cloud data center for online media, entertainment or gaming, currently may use complex fibre routes that are longer than one hop up to a satellite and down again. Microsoft’s experiments using Xbox cloud have found there are parts of the world (including parts of the USA) where it is faster via satellite than over terrestrial networks.
+Regional expansion
+In 2018, Azure was available in 54 regions, with 12 new regions being developed. Microsoft became the first large cloud provider that built facilities in Africa, with two regions in South Africa. An Azure geography contains multiple Azure Regions, such as for example "North Europe" (Dublin, Ireland), "West Europe" (Amsterdam, Netherlands). Where a location represents the city or area of the Azure Region. Each Azure Region is paired with another region within the same geography; this makes them a regional pair. In this example, Amsterdam and Dublin are the locations which form the regional pair.
+Middle East cloud data centers
+On June 19th 2019, Microsoft announced the launch of two new cloud regions in the United Arab Emirates – Microsoft’s first in the Middle East. Microsoft's management stated that these new datacenters will empower customers and partners to embrace the benefits of the Fourth Industrial Revolution and achieve more using cloud technologies.
+Research partnerships
+Microsoft has partners that sell its products. In August 2018, Toyota Tsusho began a partnership with Microsoft to create fish farming tools using the Microsoft Azure application suite for IoT technologies related to water management. Developed in part by researchers from Kindai University, the water pump mechanisms use artificial intelligence to count the number of fish on a conveyor belt, analyze the number of fish, and deduce the effectiveness of water flow from the data the fish provide. The specific computer programs used in the process fall under the Azure Machine Learning and the Azure IoT Hub platforms.
+Design
+Microsoft Azure uses a specialized operating system, also called Microsoft Azure, to run its "fabric layer":  a cluster hosted at Microsoft's data centers that manage computing and storage resources of the computers and provisions the resources (or a subset of them) to applications running on top of Microsoft Azure. Microsoft Azure has been described as a "cloud layer" on top of a number of Windows Server systems, which use Windows Server 2008 and a customized version of Hyper-V, known as the Microsoft Azure Hypervisor to provide virtualization of services.
+Scaling and reliability are controlled by the Microsoft Azure Fabric Controller, which ensures the services and environment do not fail if one or more of the servers fails within the Microsoft data center, and which also provides the management of the user's Web application such as memory allocation and load balancing.
+Azure provides an API built on REST, HTTP, and XML that allows a developer to interact with the services provided by Microsoft Azure. Microsoft also provides a client-side managed class library that encapsulates the functions of interacting with the services. It also integrates with Microsoft Visual Studio, Git, and Eclipse.
+In addition to interacting with services via API, users can manage Azure services using the Web-based Azure Portal, which reached General Availability in December 2015. The portal allows users to browse active resources, modify settings, launch new resources, and view basic monitoring data from active virtual machines and services.
+Deployment models
+Microsoft Azure offers two deployment models for cloud resources: the "classic" deployment model and the Azure Resource Manager. In the classic model, each Azure resource (virtual machine, SQL database, etc.) was managed individually. The Azure Resource Manager, introduced in 2014, enables users to create groups of related services so that closely coupled resources can be deployed, managed, and monitored together. The classic model is slated to be phased out in future.
+History and timeline
+
+
+In 2005, Microsoft took over Groove Networks, and Bill Gates made Groove's founder Ray Ozzie one of his 5 direct reports as one of 3 chief technology officers. Ozzie met with Amitabh Srivastava, which let Srivastava change course. They convinced Dave Cutler to postpone his retirement and their teams developed a cloud operating system.
+Privacy
+Microsoft has stated that, per the USA Patriot Act, the US government could have access to the data even if the hosted company is not American and the data resides outside the USA. To manage privacy and security-related concerns, Microsoft has created a Microsoft Azure Trust Center, and Microsoft Azure has several of its services compliant with several compliance programs including ISO 27001:2005 and HIPAA. A full and current listing can be found on the Microsoft Azure Trust Center Compliance page. Of special note, Microsoft Azure has been granted JAB Provisional Authority to Operate (P-ATO) from the U.S. government in accordance with guidelines spelled out under the Federal Risk and Authorization Management Program (FedRAMP), a U.S. government program that provides a standardized approach to security assessment, authorization, and continuous monitoring for cloud services used by the federal government.
+Significant outages
+The following is a list of Microsoft Azure outages and service disruptions.
+Certifications
+A large variety of Azure certifications can be attained, each requiring one or multiple successfully completed examinations.
+Certification levels range from beginner, intermediate to expert.
+Examples of common certifications include:
+Key people
+See also
+References
+Citations
+Sources
+Further reading

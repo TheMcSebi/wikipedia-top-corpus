@@ -1,0 +1,27 @@
+Pair production
+Pair production is the creation of a subatomic particle and its antiparticle from a neutral boson. Examples include creating an electron and a positron, a muon and an antimuon, or a proton and an antiproton. Pair production often refers specifically to a photon creating an electron–positron pair near a nucleus. As energy must be conserved, for pair production to occur, the incoming energy of the photon must be above a threshold of at least the total rest mass energy of the two particles created.  (As the electron is the lightest, hence, lowest mass/energy, elementary particle, it requires the least energetic photons of all possible pair-production processes.)  Conservation of energy and momentum are the principal constraints on the process. 
+All other conserved quantum numbers (angular momentum, electric charge, lepton number) of the produced particles must sum to zero –  thus the created particles shall have opposite values of each other. For instance, if one particle has electric charge of +1 the other must have electric charge of −1, or if one particle has strangeness of +1 then another one must have strangeness of −1.
+The probability of pair production in photon–matter interactions increases with photon energy and also increases approximately as the square of atomic number of (hence, number of protons in) the nearby atom.
+Photon to electron and positron
+For photons with high photon energy (MeV scale and higher), pair production is the dominant mode of photon interaction with matter. These interactions were first observed in Patrick Blackett's counter-controlled cloud chamber, leading to the 1948 Nobel Prize in Physics. If the photon is near an atomic nucleus, the energy of a photon can be converted into an electron–positron pair:
+(Z+)γ → e− + e+
+The photon's energy is converted to particle mass in accordance with Einstein's equation, E = m ⋅ c2; where E is energy, m is mass and c is the speed of light. The photon must have higher energy than the sum of the rest mass energies of an electron and positron (2 ⋅ 511 keV = 1.022 MeV, resulting in a photon-wavelength of 1.2132 picometer) for the production to occur. (Thus, pair production does not occur in medical X-ray imaging because these X-rays only contain ~150 keV.) 
+The photon must be near a nucleus in order to satisfy conservation of momentum, as an electron–positron pair produced in free space cannot satisfy conservation of both energy and momentum. Because of this, when pair production occurs, the atomic nucleus receives some recoil. The reverse of this process is electron–positron annihilation.
+Basic kinematics
+These properties can be derived through the kinematics of the interaction. Using four vector notation, the conservation of energy-momentum before and after the interaction gives:
+where $MATH$ is the recoil of the nuclei. Note the modulus of the four vector 
+is:
+which implies that $MATH$ for all cases and $MATH$. We can square the conservation equation:
+However, in most cases the recoil of the nuclei is much smaller compared to the energy of the photon and can be neglected. Taking this approximation of $MATH$ to simplify and expanding the remaining relation:
+Therefore, this approximation can only be satisfied if the electron and positron are emitted in very nearly the same direction, that is, $MATH$.
+This derivation is a semi-classical approximation. An exact derivation of the kinematics can be done taking into account the full quantum mechanical scattering of photon and nucleus.
+Energy transfer
+The energy transfer to electron and positron in pair production interactions is given by:
+where $MATH$ is Planck's constant, $MATH$ is the frequency of the photon and the $MATH$ is the combined rest mass of the electron–positron. In general, ignoring the nuclei recoil, the electron and positron can be emitted with different kinetic energies, but the average transferred to each is:
+Cross section
+The exact analytic form for the cross section of pair production must be calculated through quantum electrodynamics in the form of Feynman diagrams and results in a complicated function. To simplify, the cross section can be written as:
+where $MATH$ is the fine-structure constant, $MATH$ is the classical electron radius, $MATH$ is the atomic number of the material, and $MATH$ is some complex-valued function that depends on the energy and atomic number. Cross sections are tabulated for different materials and energies.
+In 2008 the Titan laser, aimed at a 1 millimeter-thick gold target, was used to generate positron–electron pairs in large numbers.
+Astronomy
+Pair production is invoked in the heuristic explanation of hypothetical Hawking radiation. According to quantum mechanics, particle pairs are constantly appearing and disappearing as a quantum foam. In a region of strong gravitational tidal forces, the two particles in a pair may sometimes be wrenched apart before they have a chance to mutually annihilate. When this happens in the region around a black hole, one particle may escape while its antiparticle partner is captured by the black hole.
+Pair production is also the mechanism behind the hypothesized pair-instability supernova type of stellar explosion, where pair production suddenly lowers the pressure inside a supergiant star, leading to a partial implosion, and then explosive thermonuclear burning. Supernova SN 2006gy is hypothesized to have been a pair production type supernova.

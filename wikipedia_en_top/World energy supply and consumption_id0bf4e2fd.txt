@@ -1,0 +1,66 @@
+World energy supply and consumption
+World energy supply and consumption is global production and preparation of fuel, generation of electricity, energy transport, and energy consumption. It is a basic part of economic activity. It includes heat, but not energy from food.
+This article provides a brief description of energy supply and consumption, using statistics summarized in tables, of the countries and regions that produce and consume most.
+Energy production is 80% fossil, half of which is produced by China, the United States and the Arab states of the Persian Gulf. The Gulf States and Russia export most of their production, largely to the European Union and China, where not enough energy is produced to satisfy demand. Energy production is increasing 1 to 2% per year, except for solar and wind energy which averaged 20% per year in the 2010s.
+Produced energy, for instance crude oil, is processed to make it suitable for consumption by end users. The supply chain between production and final consumption involves many conversion activities and much trade and transport among countries, causing a loss of one quarter of energy before it is consumed.
+Energy consumption per person in North America is very high while in most of Africa it is low and more renewable. There was a significant decline in energy usage worldwide caused by the COVID-19 pandemic, especially in the iron and steel industry as demand for new construction shrank. An increase in the global demand for manufactured goods by the iron and steel industry, could increase consumption to levels similar to that in 2019.
+Of about 50 billion tonnes worldwide annual total greenhouse gas emissions, 36 billion tonnes of carbon dioxide was emitted due to energy (almost all from fossil fuels) in 2021. The goal, set in the Paris Agreement to limit climate change, will not nearly be reached. Several scenarios to achieve the goal are developed.
+Availability of data
+Many countries publish statistics on the energy supply and consumption of either their own country, of other countries of interest, or of all countries combined in one chart.
+One of the largest organizations in this field, the International Energy Agency (IEA), sells yearly comprehensive energy data which makes this data paywalled and difficult to access for internet users. The organization Enerdata on the other hand publishes a free Yearbook, making the data more accessible.
+Primary energy production
+World total primary energy consumption by fuel in 2020
+This is the worldwide production of energy, extracted or captured directly from natural sources. In energy statistics primary energy (PE) refers to the first stage where energy enters the supply chain before any further conversion or transformation process.
+Energy production is usually classified as:
+Primary energy assessment by IEA follows certain rules to ease measurement of different kinds of energy. These rules are controversial. Water and air flow energy that drives hydro and wind turbines, and sunlight that powers solar panels, are not taken as PE, which is set at the electric energy produced. But fossil and nuclear energy are set at the reaction heat, which is about three times the electric energy. This measurement difference can lead to underestimating the economic contribution of renewable energy.
+Enerdata displays:
+The table lists worldwide PE and the countries producing most (76%) of that in 2021, using Enerdata. The amounts are rounded and given in million tonnes of oil equivalent per year (1 Mtoe = 11.63 TWh, 1 TWh = 109 kWh) and % of Total. Renewable is Biomass plus Heat plus renewable percentage of Electricity production (hydro, wind, solar). Nuclear is non renewable percentage of Electricity production. The above mentioned underestimation of hydro, wind and solar energy, compared to nuclear and fossil energy, applies also to Enerdata.
+For more detailed energy production, see:
+Energy conversion and trade
+Primary energy is converted in many ways to energy carriers, also known as secondary energy.
+2018 World electricity generation (26,700 TWh) by source (IEA, 2019)
+Electricity generators are driven by
+The invention of the solar cell in 1954 started electricity generation by solar panels, connected to a power inverter. Around 2000 mass production of panels made this economic.
+Much primary and converted energy is traded among countries.
+The table lists countries with large difference of export and import in 2021, expressed in Mtoe.
+A negative value indicates that much energy import is needed for the economy. Russian gas exports were reduced a lot in 2022, as pipelines to Asia plus LNG export capacity is much less than the gas no longer sent to Europe.
+Big transport goes by tanker ship, tank truck, LNG carrier, rail freight transport, pipeline and by electric power transmission.
+Total energy supply
+Total energy supply (TES) indicates the sum of production and imports subtracting exports and storage changes. For the whole world TES nearly equals primary energy PE because imports and exports cancel out, but for countries TES and PE differ in quantity, and also in quality as secondary energy is involved, e.g., import of an oil refinery product. TES is all energy required to supply energy for end users.
+The tables list TES and PE for some countries where these differ much, in 2021, and TES history. Most growth of TES since 1990 occurred in Asia. The amounts are rounded and given in Mtoe. Enerdata labels TES as Total energy consumption.
+25% of worldwide primary production is used for conversion and transport, and 6% for non-energy products like lubricants, asphalt and petrochemicals. In 2019 TES was 606 EJ and fnal consumption was 418 EJ, 69% of TES. Most of the energy lost by conversion occurs in thermal electricity plants and the energy industry own use.
+There are different qualities of energy. Heat, especially at a relatively low temperature, is low-quality energy, whereas electricity is high-quality energy. It takes around 3 kWh of heat to produce 1 kWh of electricity. But by the same token, a kilowatt-hour of this high-quality electricity can be used to pump several kilowatt-hours of heat into a building using a heat pump. And electricity can be used in many ways in which heat cannot. So the "loss" of energy incurred when generating electricity is not the same as a loss due to, say, resistance in power lines.
+Final consumption
+World total final consumption of 9,717 Mtoe by region in 2017 (IEA, 2019)
+Total final consumption (TFC) is the worldwide consumption of energy by end-users (whereas primary energy consumption (Eurostat) or total energy supply (IEA) is total energy demand and thus also includes what the energy sector uses itself and transformation and distribution losses). This energy consists of fuel (78%) and electricity (22%). The tables list amounts, expressed in million tonnes of oil equivalent per year (1 Mtoe = 11.63 TWh) and  how much of these is renewable energy. Non-energy products are not considered here. The data are of 2018.
+Fuel:
+The amounts are based on lower heating value.
+The first table lists final consumption in the countries/regions which use most (85%), and per person. In developing countries fuel consumption per person is low and more renewable. Canada, Venezuela and Brazil generate most electricity with hydropower.
+The world's renewable share of TFC was 18% in 2018: 7% traditional biomass, 3.6% hydropower and 7.4% other renewables.
+In Africa 32 of the 48 nations are declared to be in an energy crisis by the World Bank. See Energy in Africa.
+The next table shows countries consuming most (85%) in Europe.
+Trend
+In the period 2005–2017 worldwide final consumption of
+Energy for energy
+Some fuel and electricity is used to construct, maintain and demolish/recycle installations that produce fuel and electricity, such as oil platforms, uranium isotope separators and wind turbines.
+For these producers to be economic the ratio of energy returned on energy invested (EROEI) or energy return on investment (EROI) should be large enough.
+If the final energy delivered for consumption is E and the EROI equals R, then the net energy available is E-E/R. The percentage available energy is 100-100/R. For R>10 more than 90% is available but for R=2 only 50% and for R=1 none. This steep decline is known as the net energy cliff.
+Outlook
+IEA scenarios
+In World Energy Outlook 2022 (WEO): 19  the IEA notes that Russia's invasion in Ukraine has sparked a global energy crisis.
+The IEA presents three scenarios: 20 
+In Stated Policies Scenario (STEPS) IEA assesses the likely effects of 2022 policy settings. The share of fossil fuels will fall from 80% to about 60% in 2050. This would lead to global average temperatures still rising when they hit 2.5 °C above pre-industrial levels in 2100. A reduction of only 13% in CO2 emissions is far from enough to avoid severe impacts from changing climate.: 21 
+The Announced Pledges Scenario (APS) assumes that all government targets will be met in full and on time. Average temperature will rise to around 1.7 °C by 2100.: 21 
+The Net Zero Emissions by 2050 Scenario (NZE) is a way to achieve a 1.5 °C stabilisation in the rise in global average temperatures and universal access to modern energy by 2030. This would require a more than USD 4 trillion clean energy investment by 2030, far beyond the reaches of public
+finance. It is vital to harness the vast resources of markets. In 2050 half of final energy consumption is electricity.: 30  Electricity demand is 150% higher than today.: 44  The share of nuclear in the generation mix remains broadly where it is today, around 10%.: 47  Oil use for passenger cars falls by 98% between today and 2050.: 53  Fossil energy supply drops from 500 EJ in 2020 to 100 EJ in 2050 while non-fossil supply rises from 120 EJ to 430 EJ in the same period.: 58, Fig.1.17  (1 EJ = 23.9 Mtoe) Demand for critical minerals is set to quadruple.: 61 
+UN Emissions Gap Report 2022
+This report finds that the world is still falling short of the Paris climate goals, with no credible pathway to 1.5°C in place. Only an urgent system-wide transformation can avoid an accelerating climate disaster.
+Alternative scenarios
+Alternative Achieving the Paris Climate Agreement Goals scenarios are developed by a team of 20 scientists at the University of Technology of Sydney, the German Aerospace Center, and the University of Melbourne, using IEA data but proposing transition to nearly 100% renewables by mid-century, along with steps such as reforestation. Nuclear power and carbon capture are excluded in these scenarios. The researchers say the costs will be far less than the $5 trillion per year governments currently spend subsidizing the fossil fuel industries responsible for climate change.: ix 
+In the +2.0 C (global warming) Scenario total primary energy demand in 2040 can be 450 EJ = 10755 Mtoe, or 400 EJ = 9560 Mtoe in the +1.5 Scenario, well below the current production.
+Renewable sources can increase their share to 300 EJ in the +2.0 C Scenario or 330 EJ in the +1.5 Scenario in 2040. In 2050 renewables can cover nearly all energy demand. Non-energy consumption will still include fossil fuels.: xxvii Fig. 5 
+Global electricity generation from renewable energy sources will reach 88% by 2040 and 100% by 2050 in the alternative scenarios. "New" renewables—mainly wind, solar and geothermal energy—will contribute 83% of the total electricity generated.: xxiv  The average annual investment required between 2015 and 2050, including costs for additional power plants to produce hydrogen and synthetic fuels and for plant replacement, will be around $1.4 trillion.: 182 
+Shifts from domestic aviation to rail and from road to rail are needed. Passenger car use must decrease in the OECD countries (but increase in developing world regions) after 2020. The passenger car use decline will be partly compensated by strong increase in public transport rail and bus systems.: xxii Fig.4 
+CO2 emission can reduce from 32 Gt in 2015 to 7 Gt (+2.0 Scenario) or 2.7 Gt (+1.5 Scenario) in 2040, and to zero in 2050.: xxviii 
+See also
+Notes

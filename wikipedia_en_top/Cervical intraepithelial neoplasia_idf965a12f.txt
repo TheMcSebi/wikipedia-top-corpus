@@ -1,0 +1,51 @@
+Cervical intraepithelial neoplasia
+Cervical intraepithelial neoplasia (CIN), also known as cervical dysplasia, is the abnormal growth of cells on the surface of the cervix that could potentially lead to cervical cancer. More specifically, CIN refers to the potentially precancerous transformation of cells of the cervix.
+CIN most commonly occurs at the squamocolumnar junction of the cervix, a transitional area between the squamous epithelium of the vagina and the columnar epithelium of the endocervix. It can also occur in vaginal walls and vulvar epithelium. CIN is graded on a 1–3 scale, with 3 being the most abnormal (see classification section below).
+Human papillomavirus (HPV) infection is necessary for the development of CIN, but not all with this infection develop cervical cancer. Many women with HPV infection never develop CIN or cervical cancer. Typically, HPV resolves on its own. However, those with an HPV infection that lasts more than one or two years have a higher risk of developing a higher grade of CIN.
+Like other intraepithelial neoplasias, CIN is not cancer and is usually curable. Most cases of CIN either remain stable or are eliminated by the person's immune system without need for intervention. However, a small percentage of cases progress to cervical cancer, typically cervical squamous cell carcinoma (SCC), if left untreated.
+Signs and symptoms
+There are no specific symptoms of CIN alone.
+Generally, signs and symptoms of cervical cancer include:
+HPV infection of the vulva and vagina can cause genital warts or be asymptomatic.
+Causes
+The cause of CIN is chronic infection of the cervix with HPV, especially infection with high-risk HPV types 16 or 18. It is thought that the high-risk HPV infections have the ability to inactivate tumor suppressor genes such as the p53 gene and the RB gene, thus allowing the infected cells to grow unchecked and accumulate successive mutations, eventually leading to cancer.
+Some groups of women have been found to be at a higher risk of developing CIN:
+Additionally, a number of risk factors have been shown to increase an individual's likelihood of developing CIN 3/carcinoma in situ (see below):
+Pathophysiology
+The earliest microscopic change corresponding to CIN is epithelial dysplasia, or surface lining, of the cervix, which is essentially undetectable by the woman. The majority of these changes occur at the squamocolumnar junction, or transformation zone, an area of unstable cervical epithelium that is prone to abnormal changes. Cellular changes associated with HPV infection, such as koilocytes, are also commonly seen in CIN. While infection with HPV is needed for development of CIN, most women with HPV infection do not develop high-grade intraepithelial lesions or cancer. HPV is not alone enough causative.
+Of the over 100 different types of HPV, approximately 40 are known to affect the epithelial tissue of the anogenital area and have different probabilities of causing malignant changes.
+Diagnosis
+A test for HPV called the Digene HPV test is highly accurate and serves as both a direct diagnosis and adjuvant to the Pap smear, which is a screening device that allows for an examination of cells but not tissue structure, needed for diagnosis. A colposcopy with directed biopsy is the standard for disease detection. Endocervical brush sampling at the time of Pap smear to detect adenocarcinoma and its precursors is necessary along with doctor/patient vigilance on abdominal symptoms associated with uterine and ovarian carcinoma. The diagnosis of CIN or cervical carcinoma requires a biopsy for histological analysis.
+Classification
+Historically, abnormal changes of cervical epithelial cells were described as mild, moderate, or severe epithelial dysplasia. In 1988 the National Cancer Institute developed "The Bethesda System for Reporting Cervical/Vaginal Cytologic Diagnoses". This system provides a uniform way to describe abnormal epithelial cells and determine specimen quality, thus providing clear guidance for clinical management. These abnormalities were classified as squamous or glandular and then further classified by the stage of dysplasia: atypical cells, mild, moderate, severe, and carcinoma.
+Depending on several factors and the location of the lesion, CIN can start in any of the three stages and can either progress or regress. The grade of squamous intraepithelial lesion can vary.
+CIN is classified in grades:
+Changes in Terminology
+The College of American Pathology and the American Society of Colposcopy and Cervical Pathology came together in 2012 to publish changes in terminology to describe HPV-associated squamous lesions of the anogenital tract as LSIL or HSIL as follows below:
+CIN 1 is referred to as LSIL.
+CIN 2 that is negative for p16, a marker for high-risk HPV, is referred to as LSIL. Those that are p16-positive are referred to as HSIL.
+CIN 3 is referred to as HSIL.
+Screening
+The two screening methods available are the Pap smear and testing for HPV.CIN is usually discovered by a screening test, the Pap smear. The purpose of this test is to detect potentially precancerous changes through random sampling of the transformation zone. Pap smear results may be reported using the Bethesda system (see above). The sensitivity and specificity of this test were variable in a systematic review looking at accuracy of the test.
+An abnormal Pap smear result may lead to a recommendation for colposcopy of the cervix, an in office procedure during which the cervix is examined under magnification. A biopsy is taken of any abnormal appearing areas.
+Colposcopy can be painful and so researchers have tried to find which pain relief is best for women with CIN to use. Research suggests that compared to a placebo, the injection of a local anaesthetic and vasoconstrictor (medicine that causes blood vessels to narrow) into the cervix may lower blood loss and pain during colposcopy.
+HPV testing can identify most of the high-risk HPV types responsible for CIN. HPV screening happens either as a co-test with the Pap smear or can be done after a Pap smear showing abnormal cells, called reflex testing. Frequency of screening changes based on guidelines from the Society of Lower Genital Tract Disorders (ASCCP). The World Health Organization also has screening and treatment guidelines for precancerous cervical lesions and prevention of cervical cancer.
+Primary prevention
+HPV vaccination is the approach to primary prevention of both CIN and cervical cancer.
+It is important to note that these vaccines do not protect against 100% of types of HPV known to cause cancer. Therefore, screening is still recommended in vaccinated individuals.
+Secondary prevention
+Appropriate management with monitoring and treatment is the approach to secondary prevention of cervical cancer in cases of persons with CIN.
+Treatment
+Treatment for CIN 1, mild dysplasia, is not recommended if it lasts fewer than two years. Usually, when a biopsy detects CIN 1, the woman has an HPV infection, which may clear on its own within 12 months. Therefore, it is instead followed for later testing rather than treated. In young women closely monitoring CIN 2 lesions also appears reasonable.
+Treatment for higher-grade CIN involves removal or destruction of the abnormal cervical cells by cryocautery, electrocautery, laser cautery, loop electrical excision procedure (LEEP), or cervical conization. The typical threshold for treatment is CIN 2+, although a more restrained approach may be taken for young persons and pregnant women. A Cochrane review found no clear evidence to show which surgical technique may be superior for treating CIN. Evidence suggests that while retinoids are not effective in preventing the progression of CIN, they may be effective in causing regression of disease in people with CIN2. Therapeutic vaccines are currently undergoing clinical trials. The lifetime recurrence rate of CIN is about 20%, but it isn't clear what proportion of these cases are new infections rather than recurrences of the original infection.
+Research to investigate if prophylactic antibiotics can help prevent infection in women undergoing excision of the cervical transformation zone found a lack of quality evidence.
+Surgical treatment of CIN lesions is associated with an increased risk of infertility or subfertility. A case-control study found that there is an approximately two-fold increase in risk i.
+The findings of low quality observational studies suggest that women receiving treatment for CIN during pregnancy may be at an increased risk of premature birth. People with HIV and CIN 2+ should be initially managed according to the recommendations for the general population according to the 2012 updated ASCCP consensus guidelines.
+Outcomes
+It used to be thought that cases of CIN progressed through grades 1–3 toward cancer in a linear fashion.
+However most CIN spontaneously regress. Left untreated, about 70% of CIN 1 will regress within one year; 90% will regress within two years. About 50% of CIN 2 cases will regress within two years without treatment.
+Progression to cervical carcinoma in situ (CIS) occurs in approximately 11% of CIN 1 and 22% of CIN 2 cases. Progression to invasive cancer occurs in approximately 1% of CIN 1, 5% of CIN 2, and at least 12% of CIN 3 cases.
+Progression to cancer typically takes 15 years with a range of 3 to 40 years. Also, evidence suggests that cancer can occur without first detectably progressing through CIN grades and that a high-grade intraepithelial neoplasia can occur without first existing as a lower grade.
+Research suggests that treatment does not affect the chances of getting pregnant but it is associated with an increased risk of miscarriage in the second trimester.
+Epidemiology
+Between 250,000 and 1 million American women are diagnosed with CIN annually. Women can develop CIN at any age, however women generally develop it between the ages of 25 to 35. The estimated annual incidence of CIN in the United States among persons who undergo screening is 4% for CIN 1 and 5% for CIN 2 and CIN 3.

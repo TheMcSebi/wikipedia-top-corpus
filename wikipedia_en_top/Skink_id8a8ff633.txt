@@ -1,0 +1,44 @@
+Skink
+Skinks are lizards belonging to the family Scincidae, a family in the infraorder Scincomorpha. With more than 1,500 described species across 100 different taxonomic genera, the family Scincidae is one of the most diverse families of lizards. Skinks are characterized by their smaller legs in comparison to typical lizards and are found in different habitats except arctic and subarctic regions.
+Description
+Skinks look like lizards of the family Lacertidae (sometimes called true lizards), but most species of skinks have no pronounced neck and relatively small legs. Several genera (e.g., Typhlosaurus) have no limbs at all. This is not true for all skinks, however, as some species such as the red-eyed crocodile skink have a head that is very distinguished from the body. These lizards also have legs that are relatively small proportional to their body size.
+Skinks' skulls are covered by substantial bony scales, usually matching up in shape and size, while overlapping. Other genera, such as Neoseps, have reduced limbs and fewer than five toes (digits) on each foot. In such species, their locomotion resembles that of snakes more than that of lizards with well-developed limbs. As a general rule, the longer the digits, the more arboreal the species is likely to be. A biological ratio can determine the ecological niche of a given skink species.  The Scincidae ecological niche index (SENI) is a ratio based on anterior foot length at the junction of the ulna/radius-carpal bones to the longest digit divided by the snout-to-vent length.
+Most species of skinks have long, tapering tails they can shed if predators grab onto them. Such species generally can regenerate the lost part of a tail, though imperfectly.  A lost tail can grow back within around three to four months. Species with stumpy tails have no special regenerative abilities.
+Some species of skinks are quite small; Scincella lateralis typically ranges from 7.5 to 14.5 cm (3 to 5+3⁄4 in), more than half of which is the tail. Most skinks, though, are medium-sized, with snout-to-vent lengths around 12 cm (4+1⁄2 in), although some grow larger; the Solomon Islands skink (Corucia zebrata) is the largest known extant species and may attain a snout-to-vent length of some 35 cm (14 in).
+Skinks can often hide easily in their habitat because of their protective colouring (camouflage).
+Blood color
+Skinks in the genus Prasinohaema have green blood because of a buildup of the waste product biliverdin.
+History
+The word "skink", which entered the English language around 1580–90, comes from classical Greek skinkos and Latin scincus, names that referred to various specific lizards.
+Skink-like lizards first appear in the fossil record about 140 million years ago, during the early Cretaceous, mostly in the form of jawbones that appear very skink-like. Definitive skink fossils appear later, during the Miocene period.
+Skink genera known from fossils include the following:
+Behavior
+A trait apparent in many species of skink is digging and burrowing. Many spend their time underground where they are mostly safe from predators, sometimes even digging out tunnels for easy navigation. They also use their tongues to sniff the air and track their prey. When they encounter their prey, they chase it down until they corner it or manage to land a bite and then swallow it whole. They can be voracious hunters.
+Diet
+Skinks are generally carnivorous and in particular insectivorous. Typical prey include flies, crickets, grasshoppers, beetles, and caterpillars. Various species also eat earthworms, millipedes, centipedes,  snails, slugs, isopods (woodlice etc), moths, small lizards (including geckos), and small rodents. Some species, particularly those favored as home pets, are omnivorous and have more varied diets and can be maintained on a regimen of roughly 60% vegetables/leaves/fruit and 40% meat (insects and rodents). Both species of the Genus Tristiidon are mainly frugivorous, but occasionally eat moss and insects.
+Breeding
+Although most species of skinks are oviparous, laying eggs in clutches, some 45% of skink species are viviparous in one sense or another. Many species are ovoviviparous, the young (skinklets) developing lecithotrophically in eggs that hatch inside the mother's reproductive tract, and emerging as live births.
+In some genera, however, such as Tiliqua and Corucia, the young developing in the reproductive tract derive their nourishment from a mammal-like placenta attached to the female – unambiguous examples of viviparous matrotrophy. Furthermore, an example recently described in Trachylepis ivensi is the most extreme to date: a purely reptilian placenta directly comparable in structure and function, to a eutherian placenta.  
+Clearly, such vivipary repeatedly has developed independently in the evolutionary history of the Scincidae and  the different examples are not ancestral to the others. In particular, placental development of whatever degree in lizards is phylogenetically analogous, rather than homologous, to functionally similar processes in mammals.
+Nesting
+Skinks typically seek out environments protected from the elements, such as thick foliage, underneath man-made structures, and ground-level buildings such as garages and first-floor apartments. When two or more skinks are seen in a small area, it is typical to find a nest nearby. Skinks are considered to be territorial and often are seen standing in front of or "guarding" their nest area. If a nest is nearby, one can expect to see 10-30 lizards within the period of a month. In parts of the southern  United States, nests are commonly found in houses and apartments, especially along the coast. The nest is where the skink lays its small white eggs, up to 4-8 at a time.
+Habitat
+Skinks are very specific in their habitat as some can depend on vegetation while others may depend on land and the soil. As a family, skinks are cosmopolitan; species occur in a variety of habitats worldwide, apart from boreal and polar regions. Various species occur in ecosystems ranging from deserts and mountains to grasslands.
+Many species are good burrowers. More species are terrestrial or fossorial (burrowing) than arboreal (tree-climbing) or aquatic species. Some are "sand swimmers", especially the desert species, such as the mole skink or sand skink in Florida. Some use a very similar action in moving through grass tussocks. Most skinks are diurnal (day-active) and typically bask on rocks or logs during the day.
+Predators
+Raccoons, foxes, possums, snakes, coatis, crows, cats, dogs, herons, hawks, lizards, and other predators of small land vertebrates also prey on various skinks. This can be troublesome, given the long gestation period for some skinks, making them an easy target to predators such as the mongoose, which often threaten the species to at least near extinction, such as the Anguilla Bank skink. Invasive rodents are a major threat to skinks that have been overlooked, especially tropical skinks.
+Skinks are also hunted for food by indigenous peoples in New Guinea, including by the Kalam people in the highlands of Madang Province, Papua New Guinea.
+Genetics
+Genomic architecture
+Despite making up 15% of reptiles, skinks have a relatively conserved chromosome number, between 11 and 16 pairs. Skink genomes are typically about 1.5Gb, approximately 1/2 the size of the human genome. The Christmas Island blue-tailed skink (Cryptoblepharus egeriae) was sequenced in 2022 and represents the first skink reference genome.
+Sex determination systems
+Skinks were long thought to have both genetic sex determination (GSD) and temperature-dependent sex determination (TSD). Despite having sex chromosomes that are not distinguishable with a microscope, all major skink lineages share an old XY system that is >80 million years old. This region is highly divergent and contains chromosomal rearrangements.
+Genera
+Many genera, Mabuya for example, are still insufficiently studied, and their systematics are at times controversial, see for example the taxonomy of the western skink, Eumeces skiltonianus. Mabuya in particular, is being split, many species being allocated to new genera such as  Trachylepis, Chioninia, and Eutropis.
+Subfamily Acontinae (limbless skinks; 30 species in 2 genera)
+Subfamily Egerniinae (social skinks; 63 species in 9 genera)
+Subfamily Eugongylinae (eugongylid skinks; 455 species in 50 genera)
+Subfamily Lygosominae (lygosomid skinks; 56 species in 6 genera)
+Subfamily Mabuyinae (mabuyid skinks; 25 genera)
+Subfamily Sphenomorphinae (sphenomorphid skinks; 591 species in 41 genera)
+Subfamily Scincinae (typical skinks; 294 species in 35 genera)

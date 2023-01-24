@@ -1,0 +1,26 @@
+Die (manufacturing)
+A die is a specialized machine tool used in manufacturing industries to cut and/or form material to a desired shape or profile. Stamping dies are used with a press, as opposed to drawing dies (used in the manufacture of wire) and casting dies (used in molding) which are not. Like molds, dies are generally customized to the item they are used to create.
+Products made with dies range from simple paper clips to complex pieces used in advanced technology. Continuous-feed laser cutting may displace the analogous die-based process in the automotive industry, among others.
+Die stamping
+Blanking and piercing are two die cutting operations, and bending is an example of a die forming operation.
+Die forming
+Forming operations work by deforming materials like sheet metal or plastic using force (compression, tension, or both) and rely on the material's mechanical properties. Forming dies are typically made by tool and die makers and put into production after mounting into a press.
+Differences between materials
+For the vacuum forming of plastic sheet only a single form is used, typically to form transparent plastic containers (called blister packs) for merchandise. Vacuum forming is considered a simple molding thermoforming process but uses the same principles as die forming.
+For the forming of sheet metal, such as automobile body parts, two parts may be used: one, called the punch, performs the stretching, bending, and/or blanking operation, while another part that is called the die block securely clamps the workpiece and provides similar stretching, bending, and/or blanking operation. The workpiece may pass through several stages using different tools or operations to obtain the final form. In the case of an automotive component, there will usually be a shearing operation after the main forming is done. Additional crimping or rolling operations may be performed to ensure that all sharp edges are hidden and/or to add rigidity to the panel.
+Die components
+The main components of a die set (including press mounting) are as follows. Note that because nomenclature varies between sources, alternate names are in parenthesis:
+Process
+Steel-rule die
+Steel-rule die, also known as cookie cutter dies, are used for cutting sheet metal and softer materials, such as plastics, wood, cork, felt, fabrics, and paperboard. The cutting surface of the die is the edge of hardened steel strips, known as steel rule. These steel rules are usually located using saw or laser-cut grooves in plywood. The mating die can be a flat piece of hardwood or steel, a male shape that matches the workpiece profile, or it can have a matching groove that allows the rule to nest into. Rubber strips are wedged in with the steel rule to act as the stripper plate; the rubber compresses on the down-stroke and on the up-stroke it pushes the workpiece out of the die. The main advantage of steel-rule dies is the low cost to make them, as compared to solid dies; however, they are not as robust as solid dies, so they are usually only used for short production runs.
+Rotary die
+In the broadest sense, a rotary die is a cylindrical shaped die that may be used in any manufacturing field. However, it most commonly refers to cylindrical shaped dies used to process soft materials, such as paper or cardboard. Two rules are used, cutting and creasing rules. This is for corrugated boards whose thickness is more than 2 mm. Rotary dies are faster than flat dies.
+The term also refers to dies used in the roll forming process.
+Wire pulling
+Wire-making dies have a hole through the middle of them.  A wire or rod of steel, copper, other metals, or alloy enters into one side and is lubricated and reduced in size.  The leading tip of the wire is usually pointed in the process.  The tip of the wire is then guided into the die and rolled onto a block on the opposite side.  The block provides the power to pull the wire through the die.
+The die is divided into several different sections. First is an entrance angle that guides the wire into the die. Next is the approach angle, which brings the wire to the nib, which facilitates the reduction.  Next is the bearing and the back relief.  Lubrication is added at the entrance angle.  The lube can be in powdered soap form.  If the lubricant is soap, the friction of the drawing of wire heats the soap to liquid form and coats the wire.  The wire should never actually come in contact with the die.  A thin coat of lubricant should prevent the metal to metal contact.
+For pulling a substantial rod down to a fine wire a series of several dies is used to obtain progressive reduction of diameter in stages.
+Standard wire gauges used to refer to the number of dies through which the wire had been pulled.  Thus, a higher-numbered wire gauge meant a thinner wire.  Typical telephone wires were 22-gauge, while main power cables might be 3- or 4-gauge.
+References
+Bibliography
+Further reading

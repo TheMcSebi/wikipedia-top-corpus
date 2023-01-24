@@ -1,0 +1,44 @@
+Dart (programming language)
+Dart is a programming language designed for client development, such as for the web and mobile apps. It is developed by Google and can also be used to build server and desktop applications.
+It is an object-oriented, class-based, garbage-collected language with C-style syntax. It can compile to either machine code or JavaScript, and supports interfaces, mixins, abstract classes, reified generics and type inference.
+History
+Dart was unveiled at the GOTO conference in Aarhus, Denmark, October 10–12, 2011.  The project was founded by Lars Bak and Kasper Lund. Dart 1.0 was released on November 14, 2013.
+Dart initially had a mixed reception and the Dart initiative has been criticized by some for fragmenting the web, due to the original plans to include a Dart VM in Chrome. Those plans were dropped in 2015 with the 1.9 release of Dart to focus instead on compiling Dart to JavaScript.
+Dart 2.0 was released in August 2018, with language changes including a type system.
+Dart 2.6 introduced a new extension, dart2native, which extends native compilation to the Linux, macOS, and Windows desktop platforms. Earlier developers could create new tools using only Android or iOS devices. With this extension it also becomes possible to compose a program into self-contained executables. According to company representatives, it's no longer necessary to have the Dart SDK installed, as the self-contained executables can now start running in a few seconds. The new extension is also integrated with the Flutter toolkit, making it possible to use the compiler on small services (for example, backend support).
+Ecma International has formed technical committee TC52 to work on standardizing Dart, and inasmuch as Dart can be compiled to standard JavaScript, it works effectively in any modern browser. EI approved the first version of the Dart language specification in July 2014 at its 107th General Assembly, and a second edition in December 2014. The latest specification is available here.
+Usage
+There are four ways to run Dart code:
+Isolates
+To achieve concurrency, Dart uses isolates, independent workers that do not share memory, but use message passing, similarly to Erlang processes (also see actor model). Every Dart program uses at least one isolate, which is the main isolate. Since Dart 2, the Dart web platform no longer supports isolates, and suggests developers use Web Workers instead.
+Snapshots
+Snapshots, a core part of the Dart VM, are files that store objects and other runtime data.
+Native mobile apps
+Google has introduced Flutter for native mobile app development on Android, iOS and Windows. Flutter is a mobile app SDK, complete with framework, widgets, and tools, that gives developers a way to build and deploy mobile apps, written in Dart. Flutter works with Firebase and other databases like sqflite provided by flutter at pub.dev and other mobile app SDKs, and is open source.
+Compiling to JavaScript
+The Dart SDK contains two Dart-to-JavaScript compilers. During development, dartdevc supports quick refresh cycles. For the final version of an app, dart2js produces deployable JavaScript.
+The first compiler to generate JavaScript from Dart code was dartc, but it was deprecated. The second Dart-to-JavaScript compiler was Frog. It was written in Dart, but never implemented the full semantics of the language. The third Dart-to-JavaScript compiler was dart2js. An evolution of earlier compilers, dart2js is written in Dart and intended to implement the full Dart language specification and semantics.
+On March 28, 2013, the Dart team posted an update on their blog addressing Dart code compiled to JavaScript with the dart2js compiler, stating that it now runs faster than handwritten JavaScript on Chrome's V8 JavaScript engine for the DeltaBlue benchmark.
+Editors
+On November 18, 2011, Google released Dart Editor, an open-source program based on Eclipse components, for macOS, Windows, and Linux-based operating systems. The editor supports syntax highlighting, code completion, JavaScript compiling, running web and server Dart applications, and debugging.
+On August 13, 2012, Google announced the release of an Eclipse plugin for Dart development.
+On April 18, 2015, Google announced that the Dart Editor would be retired in favor of the JetBrains integrated development environment (IDE), which is now the recommended IDE for the language. The Dart plugin is available for IntelliJ IDEA, PyCharm, PhpStorm and WebStorm. This plugin supports many features such as syntax highlighting, code completion, analysis, refactoring, debugging, and more. Other plugins are available for editors like Sublime Text, Atom, Emacs, Vim and Visual Studio Code.
+Chrome Dev Editor
+In 2013, the Chromium team began work on an open source, Chrome App-based development environment with a reusable library of GUI widgets, codenamed Spark. The project was later renamed as Chrome Dev Editor. It was built in Dart, and contained Spark which is powered by Polymer.
+In June 2015, Google transferred the CDE project to GitHub as a free software project and ceased active investment in CDE. As of April 2019 Chrome Dev Editor is no longer in active development.
+DartPad
+The Dart team created DartPad at the start of 2015, to provide an easier way to start using Dart. It is a fully online editor from which users can experiment with Dart application programming interfaces (APIs), and run Dart code. It provides syntax highlighting, code analysis, code completion, documentation, and HTML and CSS editing.
+SIMD
+In 2013, John McCutchan announced that he had created a performant interface to single instruction, multiple data (SIMD) instruction sets for Dart.
+The interface consists of two types:
+Instances of these types are immutable and in optimized code are mapped directly to SIMD registers. Operations expressed in Dart typically are compiled into one instruction with no overhead. This is similar to C and C++ intrinsics. Benchmarks for 4×4 matrix multiplication, 3D vertex transformation, and Mandelbrot set visualization show near 400% speedup compared to scalar code written in Dart.
+Example
+A Hello, World! example:
+A function to calculate the nth Fibonacci number:
+A simple class:
+Influences from other languages
+Dart is a descendant of the ALGOL language family, alongside C, Java, C#, JavaScript, and others.
+The method cascade syntax, which provides a syntactic shortcut for invoking several methods one after another on the same object, is adopted from Smalltalk.
+Dart's mixins were influenced by Strongtalk and Ruby.
+Dart makes use of isolates as a concurrency and security unit when structuring applications. The Isolate concept builds upon the Actor model, which is most famously implemented in Erlang.
+The Mirror API for performing controlled and secure reflection was first proposed in a paper by Gilad Bracha (who was a member of the Dart team) and David Ungar and originally implemented in Self.

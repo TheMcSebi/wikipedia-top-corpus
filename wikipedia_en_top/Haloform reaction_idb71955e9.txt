@@ -1,0 +1,22 @@
+Haloform reaction
+
+
+In chemistry, the haloform reaction is a chemical reaction in which a haloform (CHX3, where X is a halogen) is produced by the exhaustive halogenation of an acetyl group (R−C(=O)CH3, where R can be either a hydrogen atom, an alkyl or an aryl group), in the presence of a base. The reaction can be used to transform acetyl groups into carboxyl groups (R−C(=O)OH) or to produce chloroform (CHCl3), bromoform (CHBr3), or iodoform (CHI3). Note that fluoroform (CHF3) can't be prepared in this way.
+Mechanism
+In the first step, the halogen dis-proportionates in the presence of hydroxide to give the halide and hypohalite.
+If a secondary alcohol is present, it is oxidized to a ketone by the hypohalite:
+If a methyl ketone is present, it reacts with the hypohalite in a three-step process:
+1. Under basic conditions, the ketone undergoes keto-enol tautomerisation. The enolate undergoes electrophilic attack by the hypohalite (containing a halogen with a formal +1 charge).
+2. When the α(alpha) position has been exhaustively halogenated, the molecule undergoes a nucleophilic acyl substitution by hydroxide, with −CX3 being the leaving group stabilized by three electron-withdrawing groups. In the third step the −CX3 anion abstracts a proton from either the solvent or the carboxylic acid formed in the previous step, and forms the haloform. At least in some cases (chloral hydrate) the reaction may stop and the intermediate product isolated if conditions are acidic and hypohalite is used.
+Scope
+Substrates are broadly limited to methyl ketones and secondary alcohols oxidizable to methyl ketones, such as isopropanol. The only primary alcohol and aldehyde to undergo this reaction are ethanol and acetaldehyde, respectively. 1,3-Diketones such as acetylacetone also give the haloform reaction. β-ketoacids such as acetoacetic acid will also give the test upon heating. Acetyl chloride and acetamide don't give this test. The halogen used may be chlorine, bromine, iodine or sodium hypochlorite. Fluoroform (CHF3) cannot be prepared by this method as it would require the presence of the highly unstable hypofluorite ion. However ketones with the structure RCOCF3 do cleave upon treatment with base to produce fluoroform; this is equivalent to the second and third steps in the process shown above.
+Applications
+Laboratory scale
+This reaction forms the basis of the iodoform test which was commonly used in history as a chemical test to determine the presence of a methyl ketone, or a secondary alcohol oxidizable to a methyl ketone. When iodine and sodium hydroxide are used as the reagents a positive reaction gives iodoform, which is a solid at room temperature and tends to precipitate out of solution causing a distinctive cloudiness.
+In organic chemistry, this reaction may be used to convert a terminal methyl ketone into the analogous carboxylic acid.
+Industrially
+It was formerly used to produce iodoform, bromoform, and even chloroform industrially.
+As a by-product of water chlorination
+Water chlorination can result in the formation of haloforms if the water contains suitable reactive impurities (e.g. humic acid). There is a concern that such reactions may lead to the presence of carcinogenic compounds in drinking water.
+History
+The haloform reaction is one of the oldest organic reactions known. In 1822, Georges-Simon Serullas added potassium metal to a solution of iodine in ethanol and water to form potassium formate and iodoform, called in the language of that time hydroiodide of carbon. In 1832, Justus von Liebig reported the reaction of chloral with calcium hydroxide to form chloroform and calcium formate.  The reaction was rediscovered by Adolf Lieben in 1870. The iodoform test is also called the Lieben haloform reaction. A review of the haloform reaction with a history section was published in 1934.

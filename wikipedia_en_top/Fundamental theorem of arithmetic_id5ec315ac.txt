@@ -1,0 +1,52 @@
+Fundamental theorem of arithmetic
+In mathematics, the fundamental theorem of arithmetic, also called the unique factorization theorem and prime factorization theorem, states that every integer greater than 1 can be represented uniquely as a product of prime numbers, up to the order of the factors. For example,
+The theorem says two things about this example: first, that 1200 can be represented as a product of primes, and second, that no matter how this is done, there will always be exactly four 2s, one 3, two 5s, and no other primes in the product.
+The requirement that the factors be prime is necessary: factorizations containing composite numbers may not be unique 
+(for example, $MATH$).
+This theorem is one of the main reasons why 1 is not considered a prime number: if 1 were prime, then factorization into primes would not be unique; for example, $MATH$
+This theorem generalizes to other algebraic structures, in particular to polynomial rings over a field. These structures are called unique factorization domains.
+Euclid's original version
+Book VII, propositions 30, 31 and 32, and Book IX, proposition 14 of Euclid's Elements are essentially the statement and proof of the fundamental theorem.
+(In modern terminology: if a  prime p divides the product ab, then p divides either a or b or both.) Proposition 30 is referred to as Euclid's lemma, and it is the key in the proof of the fundamental theorem of arithmetic.
+(In modern terminology: every integer greater than one is divided evenly by some prime number.) Proposition 31 is proved directly by infinite descent.
+Proposition 32 is derived from proposition 31, and proves that the decomposition is possible.
+(In modern terminology: a least common multiple of several prime numbers is not a multiple of any other prime number.) Book IX, proposition 14 is derived from Book VII, proposition 30, and proves partially that the decomposition is unique – a point critically noted by André Weil. Indeed, in this proposition the exponents are all equal to one, so nothing is said for the general case.
+Article 16 of Gauss' Disquisitiones Arithmeticae is an early modern statement and proof employing modular arithmetic.
+Applications
+Canonical representation of a positive integer
+Every positive integer n > 1 can be represented in exactly one way as a product of prime powers
+where p1 < p2 < ... < pk are primes and the ni are positive integers. This representation is commonly extended to all positive integers, including 1, by the convention that the empty product is equal to 1 (the empty product corresponds to k = 0).
+This representation is called the canonical representation of n, or the standard form of n.  For example,
+Factors p0 = 1 may be inserted without changing the value of n (for example, 1000 = 23×30×53).  In fact, any positive integer can be uniquely represented as an infinite product taken over all the positive prime numbers, as
+where a finite number of the ni are positive integers, and the others are zero. 
+Allowing negative exponents provides a canonical form for positive rational numbers.
+Arithmetic operations
+The canonical representations of the product, greatest common divisor (GCD), and least common multiple (LCM) of two numbers a and b can be expressed simply in terms of the canonical representations of a and b themselves:
+However, integer factorization, especially of large numbers, is much more difficult than computing products, GCDs, or LCMs.  So these formulas have limited use in practice.
+Arithmetic functions
+Many arithmetic functions are defined using the canonical representation. In particular, the values of additive and multiplicative functions are determined by their values on the powers of prime numbers.
+Proof
+The proof uses Euclid's lemma (Elements VII, 30): If a prime divides the product of two integers, then it must divide at least one of these integers.
+Existence
+It must be shown that every integer greater than 1 is either prime or a product of primes.  First, 2 is prime.  Then, by strong induction, assume this is true for all numbers greater than 1 and less than n. If n is prime, there is nothing more to prove. Otherwise, there are integers a and b,  where n = a b, and 1 < a ≤ b < n.  By the induction hypothesis, a = p1 p2 ⋅⋅⋅ pj and b = q1 q2 ⋅⋅⋅ qk are products of primes. But then n = a b = p1 p2 ⋅⋅⋅ pj q1 q2 ⋅⋅⋅ qk is a product of primes.
+Uniqueness
+Suppose, to the contrary, there is an integer that has two distinct prime factorizations. Let n be the least such integer and write n = p1 p2 ... pj = q1 q2 ... qk, where each pi and qi is prime. We see that p1 divides q1 q2 ... qk, so p1 divides some qi by Euclid's lemma. Without loss of generality, say p1 divides q1. Since p1 and q1 are both prime, it follows that p1 = q1. Returning to our factorizations of n, we may cancel these two factors to conclude that p2 ... pj = q2 ... qk. We now have two distinct prime factorizations of some integer strictly smaller than n, which contradicts the minimality of n.
+Uniqueness without Euclid's lemma
+The fundamental theorem of arithmetic can also be proved without using Euclid's lemma. The proof that follows is inspired by Euclid's original version of the Euclidean algorithm. 
+Assume that $MATH$ is the smallest positive integer which is the product of prime numbers in two different ways. Incidentally, this implies that $MATH$, if it exists, must be a composite number greater than $MATH$. Now, say 
+Every $MATH$ must be distinct from every $MATH$ Otherwise, if say $MATH$ then there would exist some positive integer $MATH$ that is smaller than s and has two distinct prime factorizations. One may also suppose that $MATH$ by exchanging the two factorizations, if needed.
+Setting $MATH$ and $MATH$ one has $MATH$
+Also, since $MATH$ one has $MATH$
+It then follows that
+As the positive integers less than s have been supposed to have a unique prime factorization, $MATH$ must occur in the factorization of either $MATH$ or Q. The latter case is impossible, as Q, being smaller than s, must have a unique prime factorization, and $MATH$ differs from every $MATH$ The former case is also impossible, as, if $MATH$ is a divisor of $MATH$ it must be also a divisor of $MATH$ which is impossible as $MATH$ and $MATH$ are distinct primes.
+Therefore, there cannot exist a smallest integer with more than a single distinct prime factorization. Every positive integer must either be a prime number itself, which would factor uniquely, or a composite that also factors uniquely into primes, or in the case of the integer $MATH$, not factor into any prime.
+Generalizations
+The first generalization of the theorem is found in Gauss's second monograph (1832) on biquadratic reciprocity. This paper introduced what is now called the ring of Gaussian integers, the set of all complex numbers a + bi where a and b are integers. It is now denoted by $MATH$ He showed that this ring has the four units ±1 and ±i, that the non-zero, non-unit numbers fall into two classes, primes and composites, and that (except for order), the composites have unique factorization as a product of primes.
+Similarly, in 1844 while working on cubic reciprocity, Eisenstein introduced the ring $MATH$, where   $MATH$   $MATH$ is a cube root of unity. This is the ring of Eisenstein integers, and he proved it has the six units $MATH$ and that it has unique factorization.
+However, it was also discovered that unique factorization does not always hold. An example is given by $MATH$. In this ring one has
+Examples like this caused the notion of "prime" to be modified. In $MATH$ it can be proven that if any of the factors above can be represented as a product, for example, 2 = ab, then one of a or b must be a unit. This is the traditional definition of "prime". It can also be proven that none of these factors obeys Euclid's lemma; for example, 2 divides neither (1 + √−5) nor (1 − √−5) even though it divides their product 6. In algebraic number theory 2 is called irreducible in $MATH$ (only divisible by itself or a unit) but not prime in $MATH$ (if it divides a product it must divide one of the factors). The mention of $MATH$ is required because 2 is prime and irreducible in $MATH$ Using these definitions it can be proven that in any integral domain a prime must be irreducible. Euclid's classical lemma can be rephrased as "in the ring of integers $MATH$ every irreducible is prime". This is also true in $MATH$ and $MATH$ but not in $MATH$
+The rings in which factorization into irreducibles is essentially unique are called unique factorization domains. Important examples are polynomial rings over the integers or over a field, Euclidean domains and principal ideal domains.
+In 1843 Kummer introduced the concept of ideal number, which was developed further by Dedekind (1876) into the modern theory of ideals, special subsets of rings. Multiplication is defined for ideals, and the rings in which they have unique factorization are called Dedekind domains.
+There is a version of unique factorization for ordinals, though it requires some additional conditions to ensure uniqueness.
+See also
+Notes

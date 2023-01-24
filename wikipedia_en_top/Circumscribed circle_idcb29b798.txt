@@ -1,0 +1,95 @@
+Circumscribed circle
+In geometry, the circumscribed circle or circumcircle of a polygon is a circle that passes through all the vertices of the polygon. The center of this circle is called the circumcenter and its radius is called the circumradius.
+Not every polygon has a circumscribed circle. A polygon that does have one is called a cyclic polygon, or sometimes a concyclic polygon because its vertices are concyclic. All triangles, all regular simple polygons, all rectangles, all isosceles trapezoids, and all right kites are cyclic.
+A related notion is the one of a minimum bounding circle, which is the smallest circle that completely contains the polygon within it, if the circle's center is within the polygon. Every polygon has a unique minimum bounding circle, which may be constructed by a linear time algorithm. Even if a polygon has a circumscribed circle, it may be different from its minimum bounding circle. For example, for an obtuse triangle, the minimum bounding circle has the longest side as diameter and does not pass through the opposite vertex.
+Triangles
+All triangles are cyclic; that is, every triangle has a circumscribed circle.
+Straightedge and compass construction
+The circumcenter of a triangle can be constructed by drawing any two of the three perpendicular bisectors. For three non-collinear points, these two lines cannot be parallel, and the circumcenter is the point where they cross. Any point on the bisector is equidistant from the two points that it bisects, from which it follows that this point, on both bisectors, is equidistant from all three triangle vertices.
+The circumradius is the distance from it to any of the three vertices.
+Alternative construction
+An alternative method to determine the circumcenter is to draw any two lines each one departing from one of the vertices at an angle with the common side, the common angle of departure being 90° minus the angle of the opposite vertex. (In the case of the opposite angle being obtuse, drawing a line at a negative angle means going outside the triangle.)
+In coastal navigation, a triangle's circumcircle is sometimes used as a way of obtaining a position line using a sextant when no compass is available. The horizontal angle between two landmarks defines the circumcircle upon which the observer lies.
+Cartesian coordinates
+In the Euclidean plane, it is possible to give explicitly an equation of the circumcircle in terms of the Cartesian coordinates of the vertices of the inscribed triangle. Suppose that
+are the coordinates of points A, B, C. The circumcircle is then the locus of points $MATH$ in the Cartesian plane satisfying the equations
+guaranteeing that the points A, B, C, v are all the same distance r from the common center $MATH$ of the circle. Using the polarization identity, these equations reduce to the condition that the matrix
+has a nonzero kernel. Thus the circumcircle may alternatively be described as the locus of zeros of the determinant of this matrix:
+Using cofactor expansion, let
+we then have $MATH$ where $MATH$ and – assuming the three points were not in a line (otherwise the circumcircle is that line that can also be seen as a generalized circle with S at infinity) – $MATH$ giving the circumcenter $MATH$ and the circumradius $MATH$ A similar approach allows one to deduce the equation of the circumsphere of a tetrahedron.
+Parametric equation
+A unit vector perpendicular to the plane containing the circle is given by
+Hence, given the radius, r, center, Pc, a point on the circle, P0 and a unit normal of the plane containing the circle, $MATH$ one parametric equation of the circle starting from the point P0 and proceeding in a positively oriented (i.e., right-handed) sense about $MATH$ is the following:
+Trilinear and barycentric coordinates
+An equation for the circumcircle in trilinear coordinates x : y : z is $MATH$ An equation for the circumcircle in barycentric coordinates x : y : z is $MATH$
+The isogonal conjugate of the circumcircle is the line at infinity, given in trilinear coordinates by $MATH$ and in barycentric coordinates by $MATH$
+Higher dimensions
+Additionally, the circumcircle of a triangle embedded in d dimensions can be found using a generalized method.  Let A, B, C be d-dimensional points, which form the vertices of a triangle. We start by transposing the system to place C at the origin: 
+The circumradius r is then
+where θ is the interior angle between a and b. The circumcenter, p0, is given by
+This formula only works in three dimensions as the cross product is not defined in other dimensions, but it can be generalized to the other dimensions by replacing the cross products with following identities:
+Cartesian coordinates
+The Cartesian coordinates of the circumcenter $MATH$ are 
+with  
+Without loss of generality this can be expressed in a simplified form after translation of the vertex A to the origin of the Cartesian coordinate systems, i.e., when $MATH$ In this case, the coordinates of the vertices $MATH$ and $MATH$ represent the vectors from vertex A' to these vertices. Observe that this trivial translation is possible for all triangles and the circumcenter $MATH$ of the triangle △A'B'C'  follow as
+with  
+Due to the translation of vertex A to the origin, the circumradius r can be computed as
+and the actual circumcenter of △ABC follows as
+Trilinear coordinates
+The circumcenter has trilinear coordinates
+where α, β, γ are the angles of the triangle.
+In terms of the side lengths a, b, c, the trilinears are
+Barycentric coordinates
+The circumcenter has barycentric coordinates
+where a, b, c are edge lengths BC, CA, AB respectively) of the triangle.
+In terms of the triangle's angles α, β, γ, the barycentric coordinates of the circumcenter are
+Circumcenter vector
+Since the Cartesian coordinates of any point are a weighted average of those of the vertices, with the weights being the point's barycentric coordinates normalized to sum to unity, the circumcenter vector can be written as
+Here U is the vector of the circumcenter and A, B, C are the vertex vectors. The divisor here equals 16S 2 where S is the area of the triangle. As stated previously
+Cartesian coordinates from cross- and dot-products
+In Euclidean space, there is a unique circle passing through any given three non-collinear points P1, P2, P3. Using Cartesian coordinates to represent these points as spatial vectors, it is possible to use the dot product and cross product to calculate the radius and center of the circle. Let
+Then the radius of the circle is given by
+The center of the circle is given by the linear combination
+where
+Location relative to the triangle
+The circumcenter's position depends on the type of triangle:
+These locational features can be seen by considering the trilinear or barycentric coordinates given above for the circumcenter: all three coordinates are positive for any interior point, at least one coordinate is negative for any exterior point, and one coordinate is zero and two are positive for a non-vertex point on a side of the triangle.
+Angles
+The angles which the circumscribed circle forms with the sides of the triangle coincide with angles at which sides meet each other. The side opposite angle α meets the circle twice: once at each end; in each case at angle α (similarly for the other two angles). This is due to the alternate segment theorem, which states that the angle between the tangent and chord equals the angle in the alternate segment.
+Triangle centers on the circumcircle of triangle ABC
+In this section, the vertex angles are labeled A, B, C and all coordinates are trilinear coordinates:
+Other properties
+The diameter of the circumcircle, called the circumdiameter and equal to twice the circumradius, can be computed as the length of any side of the triangle divided by the sine of the opposite angle: 
+As a consequence of the law of sines, it does not matter which side and opposite angle are taken: the result will be the same.
+The diameter of the circumcircle can also be expressed as
+where a, b, c are the lengths of the sides of the triangle and $MATH$ is the semiperimeter. The expression $MATH$ above is the area of the  triangle, by Heron's formula. Trigonometric expressions for the diameter of the circumcircle include
+The triangle's nine-point circle has half the diameter of the circumcircle.
+In any given triangle, the circumcenter is always collinear with the centroid and orthocenter. The line that passes through all of them is known as the Euler line.
+The isogonal conjugate of the circumcenter is the orthocenter.
+The useful minimum bounding circle of three points is defined either by the circumcircle (where three points are on the minimum bounding circle) or by the two points of the longest side of the triangle (where the two points define a diameter of the circle). It is common to confuse the minimum bounding circle with the circumcircle.
+The circumcircle of three collinear points is the line on which the three points lie, often referred to as a circle of infinite radius. Nearly collinear points often lead to numerical instability in computation of the circumcircle.
+Circumcircles of triangles have an intimate relationship with the Delaunay triangulation of a set of points.
+By Euler's theorem in geometry, the distance between the circumcenter O and the incenter I is
+where r is the incircle radius and R is the circumcircle radius; hence the circumradius is at least twice the inradius (Euler's triangle inequality), with equality only in the equilateral case.
+The distance between O and the orthocenter H is
+For centroid G and nine-point center N we have
+The product of the incircle radius and the circumcircle radius of a triangle with sides a, b, c is
+With circumradius R, sides a, b, c, and medians ma, mb, mc, we have
+If median m, altitude h, and internal bisector t all emanate from the same vertex of a triangle with circumradius R, then
+Carnot's theorem states that the sum of the distances from the circumcenter to the three sides equals the sum of the circumradius and the inradius. Here a segment's length is considered to be negative if and only if the segment lies entirely outside the triangle.
+If a triangle has two particular circles as its circumcircle and incircle, there exist an infinite number of other triangles with the same circumcircle and incircle, with any point on the circumcircle as a vertex. (This is the n = 3 case of Poncelet's porism). A necessary and sufficient condition for such triangles to exist is the above equality $MATH$
+Cyclic quadrilaterals
+Quadrilaterals that can be circumscribed have particular properties including the fact that opposite angles are supplementary angles (adding up to 180° or π radians).
+Cyclic n-gons
+For a cyclic polygon with an odd number of sides, all angles are equal if and only if the polygon is regular. A cyclic polygon with an even number of sides has all angles equal if and only if the alternate sides are equal (that is, sides 1, 3, 5, … are equal, and sides 2, 4, 6, … are equal).
+A cyclic pentagon with rational sides and area is known as a Robbins pentagon; in all known cases, its diagonals also have rational lengths.
+In any cyclic n-gon with even n, the sum of one set of alternate angles (the first, third, fifth, etc.) equals the sum of the other set of alternate angles. This can be proven by induction from the n = 4 case, in each case replacing a side with three more sides and noting that these three new sides together with the old side form a quadrilateral which itself has this property; the alternate angles of the latter quadrilateral represent the additions to the alternate angle sums of the previous n-gon.
+Let one n-gon be inscribed in a circle, and let another n-gon be tangential to that circle at the vertices of the first n-gon. Then from any point P on the circle, the product of the perpendicular distances from P to the sides of the first n-gon equals the product of the perpendicular distances from P to the sides of the second n-gon.
+Point on the circumcircle
+Let a cyclic n-gon have vertices A1 , …, An on the unit circle. Then for any point M on the minor arc A1An, the distances from M to the vertices satisfy
+
+
+For a regular n-gon, if $MATH$ are the distances from any point M on the circumcircle to the vertices Ai, then 
+Polygon circumscribing constant
+Any regular polygon is cyclic. Consider a unit circle, then circumscribe a regular triangle such that each side touches the circle. Circumscribe a circle, then circumscribe a square. Again circumscribe a circle, then circumscribe a regular pentagon, and so on. The radii of the circumscribed circles converge to the so-called polygon circumscribing constant
+(sequence A051762 in the OEIS). The reciprocal of this constant is the Kepler–Bouwkamp constant.

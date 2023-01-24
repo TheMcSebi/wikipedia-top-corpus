@@ -1,0 +1,56 @@
+Order of operations
+
+
+In mathematics and computer programming, the order of operations (or operator precedence) is a collection of rules that reflect conventions about which procedures to perform first in order to evaluate a given mathematical expression.
+For example, in mathematics and most computer languages, multiplication is granted a higher precedence than addition, and it has been this way since the introduction of modern algebraic notation. Thus, the expression 1 + 2 × 3 is interpreted to have the value 1 + (2 × 3) = 7, and not (1 + 2) × 3 = 9. When exponents were introduced in the 16th and 17th centuries, they were given precedence over both addition and multiplication, and could be placed only as a superscript to the right of their base. Thus 3 + 52 = 28 and 3 × 52 = 75.
+These conventions exist to eliminate notational ambiguity, while allowing notation to be as brief as possible. Where it is desired to override the precedence conventions, or even simply to emphasize them, parentheses ( ) can be used. For example, (2 + 3) × 4 = 20 forces addition to precede multiplication, while (3 + 5)2 = 64 forces addition to precede exponentiation. If multiple pairs of parentheses are required in a mathematical expression (such as in the case of nested parentheses), the parentheses may be replaced by brackets or braces to avoid confusion, as in [2 × (3 + 4)] − 5 = 9.
+Definition
+The order of operations, which is used throughout mathematics, science, technology and many computer programming languages, is expressed here:
+This means that if, in a mathematical expression, a subexpression appears between two operators, the operator that is higher in the above list should be applied first.
+The commutative and associative laws of addition and multiplication allow adding terms in any order, and multiplying factors in any order—but mixed operations must obey the standard order of operations.
+In some contexts, it is helpful to replace a division with multiplication by the reciprocal (multiplicative inverse) and a subtraction by addition of the opposite (additive inverse). For example, in computer algebra, this allows one to handle fewer binary operations, and makes it easier to use commutativity and associativity when simplifying large expressions (for more, see Computer algebra § Simplification). Thus 3 ÷ 4 = 3 × 1/4; in other words, the quotient of 3 and 4 equals the product of 3 and 1/4. Also 3 − 4 = 3 + (−4); in other words the difference of 3 and 4 equals the sum of 3 and −4. Thus, 1 − 3 + 7 can be thought of as the sum of 1 + (−3) + 7, and the three summands may be added in any order, in all cases giving 5 as the result.
+The root symbol √ is traditionally prolongated by a bar (called vinculum) over the radicand (this avoids the need for parentheses around the radicand). Other functions use parentheses around the input to avoid ambiguity. The parentheses can be omitted if the input is a single numerical variable or constant, as in the case of sin x = sin(x) and sin π = sin(π). Another shortcut convention that is sometimes used is when the input is monomial; thus, sin 3x = sin(3x) rather than (sin(3)) x, but sin x + y = sin(x) + y, because x + y is not a monomial. This, however, is ambiguous and not universally understood outside of specific contexts.
+Some calculators and programming languages require parentheses around function inputs, some do not.
+Symbols of grouping can be used to override the usual order of operations. Grouped symbols can be treated as a single expression. Symbols of grouping can be removed using the associative and distributive laws, also they can be removed if the expression inside the symbol of grouping is sufficiently simplified so no ambiguity results from their removal.
+Examples
+A horizontal fractional line also acts as a symbol of grouping:
+For ease in reading, other grouping symbols, such as curly braces { } or square brackets [ ], are often used along with parentheses ( ). For example:
+Mnemonics
+Mnemonics are often used to help students remember the rules, involving the first letters of words representing various operations. Different mnemonics are in use in different countries.
+These mnemonics may be misleading when written this way. For example, misinterpreting any of the above rules to mean "addition first, subtraction afterward" would incorrectly evaluate the expression
+The "Addition/Subtraction" in the mnemonics should be interpreted as that any additions and subtractions should be performed in order from left to right.  Similarly, the expression  a ÷ b × c might be read multiple ways, but the "Multiplication/Division" in the mnemnonic means the multiplications and divisions should be performed from left to right.
+Additional ambiguities caused by the use of multiplication by juxtaposition and using the slash to represent division are discussed below. In general, the surest way to avoid ambiguity is to use parentheses.
+Special cases
+Serial exponentiation
+If exponentiation is indicated by stacked symbols using superscript notation, the usual rule is to work from the top down:
+which typically is not equal to (ab)c. This convention is useful because there is a property of exponentiation that (ab)c = abc, so it's unnecessary to use serial exponentiation for this.
+However, when using operator notation with a caret (^) or arrow (↑), there is no common standard. For example, Microsoft Excel and computation programming language MATLAB evaluate a^b^c as (ab)c, but Google Search and Wolfram Alpha as a(bc). Thus 4^3^2 is evaluated to 4,096 in the first case and to 262,144 in the second case.
+Unary minus sign
+There are differing conventions concerning the unary operator − (usually read "minus"). In written or printed mathematics, the expression −32 is interpreted to mean −(32) = −9.
+In some applications and programming languages, notably Microsoft Excel, PlanMaker (and other spreadsheet applications) and the programming language bc, unary operators have a higher priority than binary operators, that is, the unary minus has higher precedence than exponentiation, so in those languages −32 will be interpreted as (−3)2 = 9. This does not apply to the binary minus operator −; for example in Microsoft Excel while the formulas =−2^2, =-(2)^2 and =0+−2^2 return 4, the formula =0−2^2 and =−(2^2) return −4.
+Mixed division and multiplication
+In some of the academic literature, multiplication denoted by juxtaposition (also known as implied multiplication) is interpreted as having higher precedence than division, so that 1 ÷ 2n equals 1 ÷ (2n), not (1 ÷ 2)n.
+For example, the manuscript submission instructions for the Physical Review journals state that multiplication is of higher precedence than division, and this is also the convention observed in prominent physics textbooks such as the Course of Theoretical Physics by Landau and Lifshitz and the Feynman Lectures on Physics. This ambiguity is often exploited in internet memes such as "8÷2(2+2)".
+Ambiguity can also be caused by the use of the slash symbol, '/', for division.  The Physical Review submission instructions suggest to avoid expressions of the form a/b/c; ambiguity can be avoided by instead writing (a/b)/c or a/(b/c).
+Calculators
+Different calculators follow different orders of operations. Many simple calculators without a stack implement chain input working left to right without any priority given to different operators, for example typing
+while more sophisticated calculators will use a more standard priority, for example typing
+The Microsoft Calculator program uses the former in its standard view and the latter in its scientific and programmer views.
+Chain input expects two operands and an operator. When the next operator is pressed, the expression is immediately evaluated and the answer becomes the left hand of the next operator. Advanced calculators allow entry of the whole expression, grouped as necessary, and evaluates only when the user uses the equals sign.
+Calculators may associate exponents to the left or to the right. For example, the expression a^b^c is interpreted as a(bc) on the TI-92 and the TI-30XS MultiView in "Mathprint mode", whereas it is interpreted as (ab)c on the TI-30XII and the TI-30XS MultiView in "Classic mode".
+An expression like 1/2x is interpreted as 1/(2x) by TI-82, as well as many modern Casio calculators, but as (1/2)x by TI-83 and every other TI calculator released since 1996, as well as by all Hewlett-Packard calculators with algebraic notation. While the first interpretation may be expected by some users due to the nature of implied multiplication, the latter is more in line with the rule that multiplication and division are of equal precedence.
+When the user is unsure how a calculator will interpret an expression, parentheses can be used to remove the ambiguity.
+Order of operations arose due to the adaptation of infix notation in standard mathematical notation, which can be notationally ambiguous without such conventions, as opposed to postfix notation or prefix notation, which do not need orders of operations. Hence, calculators utilizing Reverse Polish notation (RPN) using a stack to enter expressions in the correct order of precedence do not need parentheses or any possibly model-specific order of execution.
+Programming languages
+Some programming languages use precedence levels that conform to the order commonly used in mathematics, though others, such as APL, Smalltalk, Occam and Mary, have no operator precedence rules (in APL, evaluation is strictly right to left; in Smalltalk, it is strictly left to right).
+Furthermore, because many operators are not associative, the order within any single level is usually defined by grouping left to right so that 16/4/4 is interpreted as (16/4)/4 = 1 rather than 16/(4/4) = 16; such operators are referred to as "left associative". Exceptions exist; for example, languages with operators corresponding to the cons operation on lists usually make them group right to left ("right associative"), e.g. in Haskell, 1:2:3:4:[] == 1:(2:(3:(4:[]))) == [1,2,3,4].
+Dennis Ritchie, creator of the C language, has said of the precedence in C (shared by programming languages that borrow those rules from C, for example, C++, Perl and PHP) that it would have been preferable to move the bitwise operators above the comparison operators. Many programmers have become accustomed to this order, but more recent popular languages like Python and Ruby do have this order inversed. The relative precedence levels of operators found in many C-style languages are as follows:
+Examples:
+(Note: in the examples below, '≡' is used to mean "is identical to", and not to be interpreted as an actual assignment operator used as part of the example expression.)
+(In Python, Ruby, PARI/GP and other popular languages, A & B == C ≡ (A & B) == C.)
+Source-to-source compilers that compile to multiple languages need to explicitly deal with the issue of different order of operations across languages. Haxe for example standardizes the order and enforces it by inserting brackets where it is appropriate.
+The accuracy of software developer knowledge about binary operator precedence has been found to closely follow their frequency of occurrence in source code.
+See also
+Explanatory notes
+References
+Further reading

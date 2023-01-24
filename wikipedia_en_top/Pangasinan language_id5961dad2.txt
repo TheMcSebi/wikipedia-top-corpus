@@ -1,0 +1,55 @@
+Pangasinan language
+Pangasinan (Pangasinense) is an Austronesian language, and one of the eight major languages of the Philippines. It is the primary and predominant language of the entire province of Pangasinan and northern Tarlac, on the northern part of Luzon's central plains geographic region, most of whom belong to the Pangasinan ethnic group. Pangasinan is also spoken in southwestern La Union, as well as in the municipalities of Benguet, Nueva Vizcaya, Nueva Ecija, and Zambales that border Pangasinan. A few Aeta groups in Central Luzon's northern part also understand and even speak Pangasinan as well.
+Classification
+The Pangasinan language belongs to the Malayo-Polynesian languages branch of the Austronesian languages family.
+Pangasinan is similar to other closely related Philippine languages, Malay in Malaysia (as Malaysian), Indonesia (as Indonesian), Brunei, and Singapore, Hawaiian in Hawaii and Malagasy in Madagascar. The Pangasinan language is very closely related to the Ibaloi language spoken in the neighboring province of Benguet, located north of Pangasinan.  Pangasinan is classified under the Pangasinic group of languages.
+The other Pangasinic languages are:
+Geographic distribution
+Pangasinan is the official language of the province of Pangasinan, located on the west central area of the island of Luzon along Lingayen Gulf. The people of Pangasinan are also referred to as Pangasinense. The province has a total population of 2,343,086 (2000), of which 2 million speak Pangasinan. Pangasinan is spoken in other Pangasinan communities in the Philippines, mostly in the neighboring provinces of Benguet, La Union, Nueva Ecija, Tarlac, Zambales, and Nueva Vizcaya.
+History
+Austronesian speakers settled in Maritime Southeast Asia during prehistoric times, perhaps more than 5,000 years ago. The indigenous speakers of Pangasinan are descendants of these settlers, who were probably part of a wave of prehistoric human migration that is widely believed to have originated from Southern China via Taiwan between 10 and 6 thousand years ago.
+The word Pangasinan means 'land of salt' or 'place of salt-making'; it is derived from the root word asin, the word for 'salt' in Pangasinan. Pangasinan could also refer to a 'container of salt or salted products'; it refers to the ceramic jar for storage of salt or salted-products or its contents.
+Literature
+Written Pangasinan and oral literature in the language flourished during the Spanish and American period. Writers like Juan Saingan, Felipe Quintos, Narciso Corpus, Antonio Solis, Juan Villamil, Juan Mejía and María C. Magsano wrote and published in Pangasinan.  Felipe Quintos, a Pangasinan officer of the Katipunan, wrote Sipi Awaray:  Gelew Diad Pilipinas (Revolución Filipina), a history of the Katipunan revolutionary struggle in Pangasinan and surrounding provinces.  Narciso Corpus and Antonio Solis co-wrote Impanbilay na Manoc a Tortola, a short love story.  (Lingayen, Pangasinan: Gumawid Press, 1926)
+Juan Villamil translated José Rizal's "Mi último adiós" in Pangasinan.  Pablo Mejia edited Tunong, a news magazine, in the 1920s.  He also wrote Bilay tan Kalkalar nen Rizal, a biography of Rizal. Magsano published Silew, a literary magazine.  Magsano also wrote Samban Agnabenegan, a romance novel.  Pangasinan Courier published articles and literary works in Pangasinan.  Pioneer Herald published Sinag, a literary supplement in Pangasinan.  Many Christian publications in Pangasinan are widely available.
+Many Pangasinan are multilingual and proficient in English, Filipino, and Ilocano. However, the spread and influence of the other languages is contributing to the decline of the Pangasinan language. Many Pangasinan people, especially the native speakers are promoting the use of Pangasinan in the print and broadcast media, Internet, local governments, courts, public facilities and schools in Pangasinan.  In April 2006, the creation of Pangasinan Wikipedia was proposed, which the Wikimedia Foundation approved for publication on the Internet.
+Phonology
+Vowels
+Pangasinan has the following vowel phonemes:
+In native vocabulary, /i/ and /u/ are realized as [i ~ ɪ ~ ɛ] and [u ~ ʊ ~ ɔ]. The close variants [i]/[u] are only used in stressed open syllables, while the open-mid variants [ɛ]/[ɔ] occur in open and closed final syllables before a pause. The default variants [ɪ]/[ʊ] occur in all other environments.
+Some speakers have /ɛ/ and /ɔ/ as distinct phonemes, but only in loanwords.
+Consonants
+Pangasinan is one of the Philippine languages that do not exhibit [ɾ]-[d] allophony, they only contrast before consonants and word-final positions; otherwise, they become allophones where [d] is only located in word-initial positions and after consonants & [ɾ] is only pronounced between vowels. Before consonants and word-final positions, [ɾ] is in free variation with trill [r]. In Spanish loanwords, [d] and [ɾ] contrast in all word positions.
+All consonantal phonemes except /h, ʔ/ may be a syllable onset or coda. The phoneme /h/ is a borrowed sound and rarely occurs in coda position. Although the Spanish word reloj 'clock' would have been heard as [re.loh], the final /h/ is dropped resulting in /re.lo/. However, this word also may have entered the Pangasinan lexicon at early enough a time that the word was still pronounced /re.loʒ/, with the j pronounced as in French, resulting in /re.los/ in Pangasinan. As a result, both /re.lo/ and /re.los/ occur.
+The glottal stop /ʔ/ is not permissible as coda; it can only occur as onset. Even as an onset, the glottal stop disappears in affixation.  Glottal stop /ʔ/ sometimes occurs in coda in words ending in vowels,  only before a pause.
+Grammar
+Sentence structure
+Like other Malayo-Polynesian languages, Pangasinan has a verb–subject–object word order. Pangasinan is an agglutinative language.
+Noun affixes
+Benton (1971) lists a number of affixes for nouns. Benton describes affixes in Pangasinan as either "nominal" (affixes attached directly to nouns) and "nominalizing" (affixes which turn other parts of speech into nouns). Benton also describes "non-productive affixes", affixes which are not normally applied to nouns, and only found as part of other pre-existing words. Many of these non-productive affixes are found within words derived from Spanish.
+Writing system
+Modern Pangasinan consists of 27 letters, which include the 26 letters of the basic Latin alphabet and the Pangasinan digraph ng:
+The ancient people of Pangasinan used an indigenous writing system called Kuritan.  The ancient Pangasinan script, which is related to the Tagalog Baybayin script, was derived from the Javanese Kawi script of Indonesia and the Vatteluttu or Pallava script of South India.
+The Latin script was introduced during the Spanish colonial period. Pangasinan literature, using the indigenous syllabary and the Latin alphabet, continued to flourish during the Spanish and American colonial period. Pangasinan acquired many Spanish and English words, and some indigenous words were Hispanicized or Anglicized. However, use of the ancient syllabary has declined, and not much literature written in it has survived.
+Loanwords
+Most of the loan words in Pangasinan are Spanish, as the Philippines was ruled by Spain for more than 300 years. Examples are lugar ('place'), podir (from poder, 'power, care'), kontra (from contra, 'against'), birdi (verde, 'green'), ispiritu (espíritu, 'spirit'), and santo ('holy, saint').
+Examples
+Malinac ya Labi (original by Julian Velasco).
+Modern Pangasinan with English translation
+Numbers
+List of numbers from one to ten in English, Tagalog and Pangasinan
+Cardinal numbers:
+Ordinal numbers:
+Ordinal numbers are formed with the prefix kuma- (ka- plus infix -um).  Example:  kumadua, 'second'.
+Associative numbers:
+Associative numbers are formed with the prefix ka-.  Example:  katlo, 'third of a group of three'.
+Fractions:
+Fraction numbers are formed with the prefix ka- and an associative number.  Example:  kakatlo, 'third part'.
+Multiplicatives:
+Multiplicative ordinal numbers are formed with the prefix pi- and a cardinal number from two to four or pin- for other numbers except for number one.  Example:  kaisa, 'first time'; pidua, 'second time'; pinlima, 'fifth time'.
+Multiplicative cardinal numbers are formed with the prefix man- (mami- or mamin- for present or future tense, and ami- or amin- for the past tense) to the corresponding multiplicative ordinal number.  Example:  aminsan, 'once'; amidua, 'twice'; mamitlo, 'thrice'.
+Distributives:
+Distributive cardinal numbers are formed with the prefixes san-, tag-, or tunggal and a cardinal number.  Example:  sansakey, 'one each';  sanderua, 'two each'.
+Distributive multiplicative numbers are formed with the prefixes magsi-, tunggal, or balangsakey and a multiplicative cardinal number.  Example:  tunggal pamidua, 'twice each'; magsi-pamidua, 'each twice'.
+Dictionaries and further reading
+The following is a list of some dictionaries and references:

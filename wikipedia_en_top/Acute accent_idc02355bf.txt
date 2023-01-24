@@ -1,0 +1,53 @@
+Acute accent
+The acute accent (/əˈkjuːt/), ◌́, is a diacritic used in many modern written languages with alphabets based on the Latin, Cyrillic, and Greek scripts. For the most commonly encountered uses of the accent in the Latin and Greek alphabets, precomposed characters are available.
+
+
+Uses
+History
+An early precursor of the acute accent was the apex, used in Latin inscriptions to mark long vowels.
+Ancient Greek
+The acute accent was first used in the polytonic orthography of Ancient Greek, where it indicated a syllable with a high pitch. In Modern Greek, a stress accent has replaced the pitch accent, and the acute marks the stressed syllable of a word. The Greek name of the accented syllable was and is ὀξεῖα (oxeîa, Modern Greek oxía) "sharp" or "high", which was calqued (loan-translated) into Latin as acūta "sharpened".
+Stress
+The acute accent marks the stressed vowel of a word in several languages:
+Height
+The acute accent marks the height of some stressed vowels in various Romance languages.
+Long vowels
+Short vowels
+Palatalization
+A graphically similar, but not identical, mark is indicative of a palatalized sound in several languages.
+In Polish, such a mark is known as a kreska (English: stroke) and is an integral part of several letters: four consonants and one vowel. When appearing in consonants, it indicates palatalization, similar to the use of the háček in Czech and other Slavic languages (e.g. sześć [ˈʂɛɕt͡ɕ] "six"). However, in contrast to the háček which is usually used for postalveolar consonants, the kreska denotes alveolo-palatal consonants. In traditional Polish typography, the kreska is more nearly vertical than the acute accent, and placed slightly right of center. A similar rule applies to the Belarusian Latin alphabet Łacinka. However, for computer use, Unicode conflates the codepoints for these letters with those of the accented Latin letters of similar appearance.
+In Serbo-Croatian, as in Polish, the letter ⟨ć⟩ is used to represent a voiceless alveolo-palatal affricate /t͡ɕ/.
+In the romanization of Macedonian, ⟨ǵ⟩ and ⟨ḱ⟩ represent the Cyrillic letters ⟨ѓ⟩ (Gje) and ⟨ќ⟩ (Kje), which stand for palatal or alveolo-palatal consonants, though ⟨gj⟩ and ⟨kj⟩ (or ⟨đ⟩ and ⟨ć⟩) are more commonly used for this purpose. The same two letters are used to transcribe the postulated Proto-Indo-European phonemes /ɡʲ/ and /kʲ/.
+Sorbian uses the acute for palatalization as in Polish: ⟨ć dź ń⟩. Lower Sorbian also uses ⟨ŕ ś ź⟩, and Lower Sorbian previously used ⟨ḿ ṕ ẃ⟩ and ⟨b́ f́⟩, also written as ⟨b' f'⟩; these are now spelt as ⟨mj pj wj⟩ and ⟨bj fj⟩.
+Tone
+In the Quốc Ngữ system for Vietnamese, the Yale romanization for Cantonese, the Pinyin romanization for Mandarin Chinese, and the Bopomofo semi-syllabary, the acute accent indicates a rising tone. In Mandarin, the alternative to the acute accent is the number 2 after the syllable: lái = lai2. In Cantonese Yale, the acute accent is either tone 2, or tone 5 if the vowel(s) are followed by 'h' (if the number form is used, 'h' is omitted): má = ma2, máh = ma5.
+In African languages and Athabaskan languages, it frequently marks a high tone, e.g., Yoruba apá 'arm', Nobiin féntí 'sweet date', Ekoti kaláwa 'boat', Navajo t’áá 'just'.
+The acute accent is used in Serbo-Croatian dictionaries and linguistic publications to indicate a high-rising accent. It is not used in everyday writing.
+Disambiguation
+The acute accent is used to disambiguate certain words which would otherwise be homographs in the following languages:
+Emphasis
+Letter extension
+Other uses
+English
+As with other diacritical marks, a number of (usually French) loanwords are sometimes spelled in English with an acute accent as used in the original language: these include attaché, blasé, canapé, cliché, communiqué, café, décor, déjà vu, détente, élite, entrée, exposé, mêlée, fiancé, fiancée, papier-mâché, passé, pâté, piqué, plié, repoussé, résumé, risqué, sauté, roué, séance, naïveté, toupée and touché. Retention of the accent is common only in the French ending é or ée, as in these examples, where its absence would tend to suggest a different pronunciation. Thus the French word résumé is commonly seen in English as resumé, with only one accent (but also with both or none).
+Acute accents are sometimes added to loanwords where a final e is not silent, for example, maté from Spanish mate, the Maldivian capital Malé, saké from Japanese sake, and Pokémon from the Japanese compound for pocket monster, the last three from languages which do not use the Roman alphabet, and where transcriptions do not normally use acute accents.
+For foreign terms used in English that have not been assimilated into English or are not in general English usage, italics are generally used with the appropriate accents: for example, coup d'état, pièce de résistance, crème brûlée and ancien régime.
+The acute accent is sometimes (though rarely) used for poetic purposes:
+The layout of some European PC keyboards, combined with problematic keyboard-driver semantics, causes some users to use an acute accent or a grave accent instead of an apostrophe when typing in English (e.g. typing John`s or John´s instead of John's).
+Typographic form
+Western typographic and calligraphic traditions generally design the acute accent as going from top to bottom. French even has the definition of acute is the accent "qui va de droite à gauche" (English: "which goes from right to left"), meaning that it descends from top right to lower left.
+In Polish, kreska is instead used which usually has a different shape and style compared to other Western languages. It features a more vertical steep form and is moved more to the right side of center line than acute. As Unicode did not differentiate the kreska from acute, letters from Western font and Polish font had to share the same set of characters which make designing the conflicting character (i.e. o acute, ⟨ó⟩) more troublesome. OpenType tried to solve this problem by giving language-sensitive glyph substitution to designers so that the font will automatically switch between Western ⟨ó⟩ and Polish ⟨ó⟩ based on language settings. New fonts are sensitive to this issue and their design for the diacritics tends toward a more "universal design" so that there will be less need for localization, for example Roboto and Noto typefaces.
+Pinyin uses the acute accent to mark the second tone (rising or high-rising tone), which indicate a tone rising from low to high, causing the writing stroke of acute accent to go from lower left to top right. This contradicts the Western typographic tradition which makes designing the acute accent in Chinese fonts a problem. Designers approach this problem in 3 ways: either keep the original Western form of going top right (thicker) to bottom left (thinner) (e.g. Arial/Times New Roman), flip the stroke to go from bottom left (thicker) to top right (thinner) (e.g. Adobe HeiTi Std/SimSun), or just make the accents without stroke variation (e.g. SimHei).
+Letters with acute
+Technical encoding
+The ISO-8859-1 and Windows-1252 character encodings include the letters á, é, í, ó, ú, ý, and their respective capital forms. Dozens more letters with the acute accent are available in Unicode.
+Microsoft Windows
+On Windows computers, letters with acute accents can be created by holding down the alt key and typing in a three-number code on the number pad to the right of the keyboard before releasing the Alt key. Before the appearance of Spanish keyboards, Spanish speakers had to learn these codes if they wanted to be able to write acute accents, though some preferred using the Microsoft Word spell checker to add the accent for them. Some young computer users got in the habit of not writing accented letters at all. The codes (which come from the IBM PC encoding) are:
+On most non-US keyboard layouts (e.g. Hiberno-English), these letters can also be made by holding AltGr (or Ctrl+Alt) and the desired letter. Individual applications may have enhanced support for accents.
+macOS
+On macOS computers, an acute accent is placed on a vowel by pressing ⌥ Option+e and then the vowel, which can also be capitalised; for example, á is formed by pressing ⌥ Option+e and then a,  and Á is formed by pressing ⌥ Option+e and then ⇧ Shift+a.
+Keyboards
+Because keyboards have only a limited number of keys, US English keyboards do not have keys for accented characters. The concept of dead key, a key that modified the meaning of the next key press, was developed to overcome this problem. This acute accent key was already present on typewriters where it typed the accent without moving the carriage, so a normal letter could be written on the same place. The US-International layout provides this function: ' is a dead key so appears to have no effect until the next key is pressed, when it adds the desired accute accent.
+Computers sold in Europe (including UK) have an AltGr ('alternate graphic') key which adds a third and (with the Shift key) fourth effect to most keys. Thus AltGr+a produces á and AltGr+A produces Á.
+See also
+Notes

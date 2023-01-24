@@ -1,0 +1,65 @@
+Ear pain
+Ear pain, also known as earache or otalgia, is pain in the ear. Primary ear pain is pain that originates from the ear. Secondary ear pain is a type of referred pain, meaning that the source of the pain differs from the location where the pain is felt.
+Most causes of ear pain are non-life-threatening. Primary ear pain is more common than secondary ear pain, and it is often due to infection or injury. The conditions that cause secondary (referred) ear pain are broad and range from temporomandibular joint syndrome to inflammation of the throat.
+In general, the reason for ear pain can be discovered by taking a thorough history of all symptoms and performing a physical examination, without need for imaging tools like a CT scan. However, further testing may be needed if red flags are present like hearing loss, dizziness, ringing in the ear or unexpected weight loss.
+Management of ear pain depends on the cause. If there is a bacterial infection, antibiotics are sometimes recommended and over the counter pain medications can help control discomfort. Some causes of ear pain require a procedure or surgery.
+83 percent of children have at least one episode of a middle ear infection by three years of age.
+Signs and symptoms
+Ear pain can present in one or both ears. It may or may not be accompanied by other symptoms such as fever, sensation of the world spinning, ear itchiness, or a sense of fullness in the ear. The pain may or may not worsen with chewing. The pain may also be continuous or intermittent.
+Ear pain due to an infection is the most common in children and can occur in babies. Adults may need further evaluation if they have hearing loss, dizziness or ringing in the ear. Additional red flags include diabetes, a weakened immune system, swelling seen on the outer ear, or swelling along the jaw.
+Causes
+Ear pain has a variety of causes, the majority of which are not life-threatening. Ear pain can originate from a part of the ear itself, known as primary ear pain, or from an anatomic structure outside the ear that is perceived as pain within the ear, known as secondary ear pain. Secondary ear pain is a type of referred pain, meaning that the source of the pain differs from the location where the pain is felt. Primary ear pain is more common in children, whereas secondary (referred) pain is more common in adults.
+Primary ear pain is most commonly caused by infection or injury to one of the parts of the ear.
+External ear
+Many conditions involving the external ear will be visible to the naked eye.  Because the external ear is the most exposed portion of the ear, it is vulnerable to trauma or environmental exposures.  Blunt trauma, such as a blow to the ear, can result in a hematoma, or collection of blood between the cartilage and perichondrium of the ear. This type of injury is particularly common in contact sports such as wrestling and boxing. Environmental injuries include sunburn, frostbite, or contact dermatitis.
+Less common causes of external ear pain include:
+Otitis externa
+Otitis externa, also known as "swimmer's ear", is a cellulitis of the external ear canal. In North America, 98% of cases are caused by bacteria, and the most common causative organisms are Pseudomonas and Staph aureus. Risk factors include exposure to excessive moisture (e.g. from swimming or a warm climate) and disruption of the protective cerumen barrier, which can result from aggressive ear cleaning or placing objects in the ear.
+Malignant otitis externa is a rare and potentially life-threatening complication of otitis externa in which the infection spreads from the ear canal into the surrounding skull base, hence becoming an osteomyelitis. It occurs largely in diabetic patients. It is very rare in children, though can be seen in immunocompromised children and adults. Pseudomonas is the most common causative organism. The pain tends to be more severe than in uncomplicated otitis externa, and laboratory studies often reveal elevated inflammatory markers (ESR and/or CRP). The infection may extend to cranial nerves, or rarely to the meninges or brain. Examination of the ear canal may reveal granulation tissue in the inferior canal. It is treated with several weeks of IV and oral antibiotics, usually fluoroquinolones.
+Mechanical obstruction
+Less common
+Acute otitis media
+ Acute otitis media is an infection of the middle ear. More than 80% of children experience at least one episode of otitis media by age 3 years.  Acute otitis media is also most common in these first 3 years of life, though older children may also experience it. The most common causative bacteria are Streptococcus pneumoniae, Haemophilus influenzae, and Moraxella catarrhalis.  Otitis media often occurs with or following cold symptoms. The diagnosis is made by the combination of symptoms and examination of the tympanic membrane for redness, bulging, and/or a middle ear effusion (collection of fluid within the middle ear).
+Complications of otitis media include hearing loss, facial nerve paralysis, or extension of infection to surrounding anatomic structures, including:
+Trauma
+Referred ear pain
+A variety of conditions can cause irritation of one of the nerves that provides sensation to the ear.
+Conditions causing irritation the trigeminal nerve (cranial nerve V):
+Conditions causing irritation of the facial nerve (cranial nerve VII) or glossopharyngeal nerve (cranial nerve IX):
+Conditions causing irritation of the vagus nerve (cranial nerve X):
+Conditions causing irritation of cervical nerves C2-C3:
+Pathophysiology
+Primary ear pain
+The ear can be anatomically divided into the external ear, the external auditory canal, the middle ear, and the inner ear. These three are indistinguishable in terms of the pain experienced.
+Secondary ear pain
+Many different nerves provide sensation to the various parts of the ear, including cranial nerves V (trigeminal), VII (facial), IX (glossopharyngeal), and X (vagus), and the great auricular nerve (cervical nerves C2-C3). These nerves also supply other parts of the body, from the mouth to the chest and abdomen. Irritation of these nerves in another part of the body has the potential to produce pain in the ear. This is called referred pain. Irritation of the trigeminal nerve (cranial nerve V) is the most common cause of referred ear pain.
+Diagnostic
+While some disorders may require specific imaging or testing, most etiologies of ear pain are diagnosed clinically. Because the differential for ear pain is so broad, there is no consensus on the best diagnostic framework to use. One approach is to differentiate by time course, as primary causes of ear pain are typically more acute in nature, while secondary causes of ear pain are more chronic.
+Acute causes may be further distinguished by the presence of fever (indicating an underlying infection) or the absence of fever (suggesting a structural problem, such as such as trauma or other injury to the ear). Etiologies leading to chronic pain may be broken down by the presence or absence of worrisome clinical features, also known as red flags.
+One red flag is the presence of one or multiple risk factors including smoking, heavy alcohol use (greater than 3.5 drinks per day), diabetes, coronary artery disease, and older age (greater than 50). These factors increase the risk of having a serious cause of ear pain, like cancer or a serious infection. In particular, second hand smoke may increase risk of acute otitis media in children. In addition, swimming is the most significant risk factor for otitis externae, though other risk factors include high humidity in the ear canal, eczema and/or ear trauma.
+If red flags are present it may be necessary to do additional workup such as a CT scan or biopsy to rule out a more dangerous diagnosis. Such diagnoses include malignant (or necrotizing) otitis externa, mastoiditis, temporal arteritis, and cancer. It is important to note that while the presence of a red flag does raise suspicion for one of these four disease, it does not guarantee a diagnosis as any one symptom can be seen in a variety of situations. For example, jaw claudication can be seen in temporal arteritis, but also in TMJ dysfunction.
+If there are no red flags, other sources of referred ear pain become more likely and are reasonable to pursue.
+*Indicates a "Can't Miss" diagnosis or a red flag.
+Management
+Management of ear pain depends on the underlying cause.
+Antibiotics
+While not all causes of ear pain are treated with antibiotics, those caused by bacterial infections of the ear are usually treated with antibiotics known to cover the common bacterial organisms for that type of infection. Many bacterial ear infections are treated with cleaning of the area, topical or systemic antibiotics, and oral analgesics for comfort. Some types of bacterial ear infections can benefit from warm compresses included in the treatment. Some of the causes of ear pain that are typically treated with either a topical or systemic antibiotic include:
+Some bacterial infections may require a more advanced treatment with evaluation by otorhinolaryngology, IV antibiotics, and hospital admission.
+Procedures
+Some causes of ear pain require procedural management alone, by a health professional, or in addition to antibiotic therapy.
+Other
+Given the variety of causes of ear pain, some causes require treatment other than antibiotics and procedures.
+Epidemiology
+2/3 of people presenting with ear pain were diagnosed with some sort of primary otalgia and 1/3 were diagnosed with some sort secondary otalgia.
+A common cause of primary otalgia is ear infection called otitis media, meaning an infection behind the eardrum. The peak age for children to get acute otitis media is ages 6–24 months. One review paper wrote that 83% of children had at least one episode of acute otitis media by 3 years of age. Worldwide, there are 709 millions cases of acute otitis media every year. Hearing loss globally due to ear infection is estimated to be 30 people in every 10,000. Around the world there is around 21,000 to 28,000 deaths due to complications from ear infections. These complications include brain abscesses and meningitis.
+Otitis externae peaks at age 7–12 years of age and around 10% of people has had it at least once in their lives.
+Cerumen impaction occurs in 1 out of every 10 children, 1 in every 20 adults and 1 in every 3 elderly citizens.
+Barotrauma occurs around 1 in every 1000 people.
+Of people presenting with ear pain, only 3% was diagnosed with eustachian tube dysfunction.
+History
+Not much was known about ear pain and acute otitis media before the 17th century. It was a common phenomenon with no treatment. That changed when the otoscope was invented in the 1840s by Anton von Troeltsh in Germany.  Another shift came with the invention of antibiotics. Before antibiotics was introduced there use to be a high rate of ear infections spreading to the bone around the ear, but that is now considered a rare complication.
+Society and culture
+There was previously a strong tradition of treating acute otitis media with amoxicillin. One quote from the 1980s shows this sentiment by saying "any child with an earache has an acute amoxicillin deficiency". However, people started realizing that using antibiotics too much can cause bacteria to gain resistance. Increasing resistance makes antibiotics less effective. The term antibiotic stewardship is then used to describe the systematic effort to educate antibiotic prescribers to only give these medications when they are warranted. In particular to children, most ear pain resolves by itself with no complications. There are guidelines in place to help determine when antibiotics for ear pain are needed in children.
+The ear itself played a role in treatment via acupuncture, also known as auriculotherapy. It was believed that acupuncture of the ear could be used to correct other pain or disorders in the body. Such practices may have started as far back as the Stone Age. The first documentation of auriculotherapy in Europe was in the 1600s. One physician described stimulating the ear by burning or scarring to treat sciatic pain, while another physician applied this treatment for toothache. Paul Nogier is known as the father of ear acupuncture for his theory that parts of the ear corresponds to other areas of the body in a reliable fashion.
+Research
+There are currently studies going on delivering antibiotics directly into the middle ear.

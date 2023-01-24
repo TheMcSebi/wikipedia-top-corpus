@@ -1,0 +1,131 @@
+Fundamental theorem of calculus
+The fundamental theorem of calculus is a theorem that links the concept of differentiating a function (calculating its slopes, or rate of change at each time) with the concept of integrating a function (calculating the area under its graph, or the cumulative effect of small contributions). The two operations are inverses of each other apart from a constant value which depends on where one starts to compute area.
+The first part of the theorem, the first fundamental theorem of calculus, states that for a function f , an antiderivative or indefinite integral F may be obtained as the integral of f over an interval with a variable upper bound. This implies the existence of antiderivatives for continuous functions.
+Conversely, the second part of the theorem, the second fundamental theorem of calculus, states that the integral of a function f over a fixed interval is equal to the change of any antiderivative F between the ends of the interval. This greatly simplifies the calculation of a definite integral provided an antiderivative can be found by symbolic integration, thus avoiding numerical integration.
+History
+The fundamental theorem of calculus relates differentiation and integration, showing that these two operations are essentially inverses of one another. Before the discovery of this theorem, it was not recognized that these two operations were related. Ancient Greek mathematicians knew how to compute area via infinitesimals, an operation that we would now call integration. The origins of differentiation likewise predate the fundamental theorem of calculus by hundreds of years; for example, in the fourteenth century the notions of continuity of functions and motion were studied by the Oxford Calculators and other scholars. The historical relevance of the fundamental theorem of calculus is not the ability to calculate these operations, but the realization that the two seemingly distinct operations (calculation of geometric areas, and calculation of gradients) are actually closely related.
+From the conjecture and the proof of the fundamental theorem of calculus, calculus as an unified theory of integration and differentiation is started. The first published statement and proof of a rudimentary form of the fundamental theorem, strongly geometric in character, was by James Gregory (1638–1675). Isaac Barrow (1630–1677) proved a more generalized version of the theorem, while his student Isaac Newton (1642–1727) completed the development of the surrounding mathematical theory. Gottfried Leibniz (1646–1716) systematized the knowledge into a calculus for infinitesimal quantities and introduced the notation used today.
+Geometric meaning
+The first fundamental theorem may be interpreted as follows. For a continuous function y = f(x) whose graph is plotted as a curve, each value of x has a corresponding area function A(x), representing the area beneath the curve between 0 and x. The area A(x) may not be easily computable, but it is assumed to be well-defined.
+The area under the curve between x and x + h could be computed by finding the area between 0 and x + h, then subtracting the area between 0 and x. In other words, the area of this "strip" would be A(x + h) − A(x).
+There is another way to estimate the area of this same strip. As shown in the accompanying figure, h is multiplied by f(x) to find the area of a rectangle that is approximately the same size as this strip. So:
+In fact, this estimate becomes a perfect equality if we add the red "Excess" area in the diagram. So:
+Rearranging terms:
+
+
+As h approaches 0 in the limit, the last fraction must go to zero. To see this, note that the excess region is inside the tiny black-bordered rectangle, giving an upper bound for the excess area:
+where $MATH$ and $MATH$ are points where f  reaches its maximum and its minimum, respectively, in the interval [x, x + h].
+Thus:
+By the continuity of f, the right-hand expression tends to zero as h does. Therefore, the left-hand side also tends to zero, and:
+
+
+That is, the derivative of the area function A(x) exists and is equal to the original function f(x), so the area function is an antiderivative of the original function. 
+Thus, the derivative of the integral of a function (the area) is the original function, so that derivative and integral are inverse operations which reverse each other. This is the essence of the Fundamental Theorem.
+Physical intuition
+Intuitively, the fundamental theorem states that integration and differentiation are essentially inverse operations which reverse each other.
+
+
+The second fundamental theorem says that the sum of infinitesimal changes in a quantity over time (the integral of the derivative of the quantity) adds up to the net change in the quantity. To visualize this, imagine traveling in a car and wanting to know the distance traveled (the net change in position along the highway). You can see the velocity on the speedometer but cannot look out to see your location. Each second, you can find how far the car has traveled using distance = speed × time, multiplying the current speed (in kilometers or miles per hour) by the time interval (1 second = $MATH$ hour). Summing up all these small steps, you can calculate the total distance traveled, without ever looking outside the car:
+As $MATH$ becomes infinitesimally small, the summing up corresponds to integration. Thus, the integral of the velocity function (the derivative of position) computes how far the car has traveled (the net change in position).
+The first fundamental theorem says that any quantity is the rate of change (the derivative) of the integral of the quantity from a fixed time up to a variable time. Continuing the above example, if you imagine a velocity function, you can integrate it from the starting time up to any given time to obtain a distance function whose derivative is the given velocity. (To obtain the highway-marker position, you need to add your starting position to this integral.)
+Formal statements
+There are two parts to the theorem. The first part deals with the derivative of an antiderivative, while the second part deals with the relationship between antiderivatives and definite integrals.
+First part
+This part is sometimes referred to as the first fundamental theorem of calculus.
+Let f be a continuous real-valued function defined on a closed interval [a, b]. Let F be the function defined, for all x in [a, b], by
+Then F is uniformly continuous on [a, b] and differentiable on the open interval (a, b), and
+for all x in (a, b) so F is an antiderivative of f.
+Corollary
+The fundamental theorem is often employed to compute the definite integral of a function $MATH$ for which an antiderivative $MATH$ is known. Specifically, if $MATH$ is a real-valued continuous function on $MATH$ and $MATH$ is an antiderivative of $MATH$ in $MATH$ then
+The corollary assumes continuity on the whole interval. This result is strengthened slightly in the following part of the theorem.
+Second part
+This part is sometimes referred to as the second fundamental theorem of calculus or the Newton–Leibniz axiom.
+Let $MATH$ be a real-valued function on a closed interval $MATH$ and $MATH$ a continuous function on $MATH$ which is an antiderivative of $MATH$ in $MATH$:
+If $MATH$ is Riemann integrable on $MATH$ then
+The second part is somewhat stronger than the corollary because it does not assume that $MATH$ is continuous.
+When an antiderivative $MATH$ of $MATH$ exists, then there are infinitely many antiderivatives for $MATH$, obtained by adding an arbitrary constant to $MATH$. Also, by the first part of the theorem, antiderivatives of $MATH$ always exist when $MATH$ is continuous.
+Proof of the first part
+For a given f(t), define the function F(x) as
+For any two numbers x1 and x1 + Δx in [a, b], we have
+and
+Subtracting the two equalities gives
+
+
+The sum of the areas of two adjacent regions is equal to the area of both regions combined, thus: 
+Manipulating this equation gives
+Substituting the above into (1) results in
+According to the mean value theorem for integration, there exists a real number $MATH$ such that
+To keep the notation simple, we write just $MATH$, but one should keep in mind that, for a given function $MATH$, the value of $MATH$ depends on $MATH$ and on $MATH$ but is always confined to the interval $MATH$.
+Substituting the above into (2) we get
+Dividing both sides by $MATH$ gives
+The expression on the left side of the equation is Newton's difference quotient for F at x1.
+Take the limit as $MATH$ on both sides of the equation.
+The expression on the left side of the equation is the definition of the derivative of F at x1.
+To find the other limit, we use the squeeze theorem. The number c is in the interval [x1, x1 + Δx], so x1 ≤ c ≤ x1 + Δx.
+Also, $MATH$ and $MATH$
+Therefore, according to the squeeze theorem,
+The function f is continuous at x1, the limit can be taken inside the function:
+Substituting into (3), we get
+which completes the proof.
+Proof of the corollary
+Suppose F is an antiderivative of f, with f continuous on [a, b]. Let
+By the first part of the theorem, we know G is also an antiderivative of f. Since F′ − G′ = 0 the mean value theorem implies that F − G is a constant function, that is, there is a number c such that G(x) = F(x) + c for all x in [a, b]. Letting x = a, we have
+which means c = −F(a). In other words, G(x) = F(x) − F(a), and so
+Proof of the second part
+This is a limit proof by Riemann sums.
+To begin, we recall the mean value theorem. Stated briefly, if F is continuous on the closed interval [a, b] and differentiable on the open interval (a, b), then there exists some c in (a, b) such that
+Let f be (Riemann) integrable on the interval [a, b], and let f admit an antiderivative F on (a, b) such that F is continuous on [a, b]. Begin with the quantity F(b) − F(a). Let there be numbers x1, ..., xn such that
+It follows that
+Now, we add each F(xi) along with its additive inverse, so that the resulting quantity is equal:
+The above quantity can be written as the following sum:
+The function F is differentiable on the interval (a, b) and continuous on the closed interval [a, b]; therefore, it is also differentiable on each interval (xi−1, xi) and continuous on each interval [xi−1, xi]. According to the mean value theorem (above), for each i there exists a $MATH$ in (xi−1, xi) such that
+Substituting the above into (1'), we get
+The assumption implies $MATH$ Also, $MATH$ can be expressed as $MATH$ of partition $MATH$.
+We are describing the area of a rectangle, with the width times the height, and we are adding the areas together. Each rectangle, by virtue of the mean value theorem, describes an approximation of the curve section it is drawn over. Also $MATH$ need not be the same for all values of i, or in other words that the width of the rectangles can differ. What we have to do is approximate the curve with n rectangles. Now, as the size of the partitions get smaller and n increases, resulting in more partitions to cover the space, we get closer and closer to the actual area of the curve.
+By taking the limit of the expression as the norm of the partitions approaches zero, we arrive at the Riemann integral. We know that this limit exists because f was assumed to be integrable. That is, we take the limit as the largest of the partitions approaches zero in size, so that all other partitions are smaller and the number of partitions approaches infinity.
+So, we take the limit on both sides of (2'). This gives us
+Neither F(b) nor F(a) is dependent on $MATH$, so the limit on the left side remains F(b) − F(a).
+The expression on the right side of the equation defines the integral over f from a to b. Therefore, we obtain
+which completes the proof.
+Relationship between the parts
+As discussed above, a slightly weaker version of the second part follows from the first part.
+Similarly, it almost looks like the first part of the theorem follows directly from the second. That is, suppose G is an antiderivative of f. Then by the second theorem, $MATH$. Now, suppose $MATH$. Then F has the same derivative as G, and therefore F′ = f. This argument only works, however, if we already know that f has an antiderivative, and the only way we know that all continuous functions have antiderivatives is by the first part of the Fundamental Theorem.
+For example, if f(x) = e−x2, then f has an antiderivative, namely
+and there is no simpler expression for this function. It is therefore important not to interpret the second part of the theorem as the definition of the integral. Indeed, there are many functions that are integrable but lack elementary antiderivatives, and discontinuous functions can be integrable but lack any antiderivatives at all. Conversely, many functions that have antiderivatives are not Riemann integrable (see Volterra's function).
+Examples
+Computing a particular integral
+Suppose the following is to be calculated:
+Here, $MATH$ and we can use $MATH$ as the antiderivative. Therefore:
+Using the first part
+Suppose
+is to be calculated. Using the first part of the theorem with $MATH$ gives
+Note that this can also be checked using the second part of the theorem. Specifically, $MATH$ is an antiderivative of $MATH$, so
+An integral where the corollary is insufficient
+Suppose
+Then $MATH$ is not continuous at zero. Moreover, this is not just a matter of how $MATH$ is defined at zero, since the limit as $MATH$ of $MATH$ does not exist. Therefore, the corollary cannot be used to compute
+But consider the function
+Notice that $MATH$ is continuous on $MATH$ (including at zero by the squeeze theorem), and $MATH$ is differentiable on $MATH$ with $MATH$ Therefore, part two of the theorem applies, and
+Theoretical example
+The theorem can be used to prove that
+Since, 
+the result follows from, 
+Generalizations
+The function f does not have to be continuous over the whole interval. Part I of the theorem then says: if f is any Lebesgue integrable function on [a, b] and x0 is a number in [a, b] such that f is continuous at x0, then
+is differentiable for x = x0 with F′(x0) = f(x0). We can relax the conditions on f still further and suppose that it is merely locally integrable. In that case, we can conclude that the function F is differentiable almost everywhere and F′(x) = f(x) almost everywhere. On the real line this statement is equivalent to Lebesgue's differentiation theorem. These results remain true for the Henstock–Kurzweil integral, which allows a larger class of integrable functions.
+In higher dimensions Lebesgue's differentiation theorem generalizes the Fundamental theorem of calculus by stating that for almost every x, the average value of a function f over a ball of radius r centered at x tends to f(x) as r tends to 0.
+Part II of the theorem is true for any Lebesgue integrable function f, which has an antiderivative F (not all integrable functions do, though). In other words, if a real function F on [a, b] admits a derivative f(x) at every point x of [a, b] and if this derivative f is Lebesgue integrable on [a, b], then
+This result may fail for continuous functions F that admit a derivative f(x) at almost every point x, as the example of the Cantor function shows. However, if F is absolutely continuous, it admits a derivative F′(x) at almost every point x, and moreover F′ is integrable, with F(b) − F(a) equal to the integral of F′ on [a, b]. Conversely, if f is any integrable function, then F as given in the first formula will be absolutely continuous with F′ = f almost everywhere.
+The conditions of this theorem may again be relaxed by considering the integrals involved as Henstock–Kurzweil integrals. Specifically, if a continuous function F(x) admits a derivative f(x) at all but countably many points, then f(x) is Henstock–Kurzweil integrable and F(b) − F(a) is equal to the integral of f on [a, b]. The difference here is that the integrability of f does not need to be assumed.
+The version of Taylor's theorem, which expresses the error term as an integral, can be seen as a generalization of the fundamental theorem.
+There is a version of the theorem for complex functions: suppose U is an open set in C and f : U → C is a function that has a holomorphic antiderivative F on U. Then for every curve γ : [a, b] → U, the curve integral can be computed as
+The fundamental theorem can be generalized to curve and surface integrals in higher dimensions and on manifolds. One such generalization offered by the calculus of moving surfaces is the time evolution of integrals. The most familiar extensions of the fundamental theorem of calculus in higher dimensions are the divergence theorem and the gradient theorem.
+One of the most powerful generalizations in this direction is Stokes' theorem (sometimes known as the fundamental theorem of multivariable calculus): Let M be an oriented piecewise smooth manifold of dimension n and let $MATH$ be a smooth compactly supported (n − 1)-form on M. If ∂M denotes the boundary of M given its induced orientation, then
+Here d is the exterior derivative, which is defined using the manifold structure only.
+The theorem is often used in situations where M is an embedded oriented submanifold of some bigger manifold (e.g. Rk) on which the form $MATH$ is defined.
+The fundamental theorem of calculus allows us to pose a definite integral as a first-order ordinary differential equation.
+can be posed as
+with $MATH$ as the value of the integral.
+See also
+References
+Bibliography
+Further reading

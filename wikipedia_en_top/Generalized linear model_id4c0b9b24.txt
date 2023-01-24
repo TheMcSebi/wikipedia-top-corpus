@@ -1,0 +1,93 @@
+Generalized linear model
+In statistics, a generalized linear model (GLM) is a flexible generalization of ordinary linear regression. The GLM generalizes linear regression by allowing the linear model to be related to the response variable via a link function and by allowing the magnitude of the variance of each measurement to be a function of its predicted value.
+Generalized linear models were formulated by John Nelder and Robert Wedderburn as a way of unifying various other statistical models, including linear regression, logistic regression and Poisson regression. They proposed an iteratively reweighted least squares method for maximum likelihood estimation (MLE) of the model parameters. MLE remains popular and is the default method on many statistical computing packages. Other approaches, including Bayesian regression and least squares fitting to variance stabilized responses, have been developed.
+Intuition
+Ordinary linear regression predicts the expected value of a given unknown quantity (the response variable, a random variable) as a linear combination of a set of observed values (predictors).  This implies that a constant change in a predictor leads to a constant change in the response variable (i.e. a linear-response model).  This is appropriate when the response variable can vary, to a good approximation, indefinitely in either direction, or more generally for any quantity that only varies by a relatively small amount compared to the variation in the predictive variables, e.g. human heights.
+However, these assumptions are inappropriate for some types of response variables.  For example, in cases where the response variable is expected to be always positive and varying over a wide range, constant input changes lead to geometrically (i.e. exponentially) varying, rather than constantly varying, output changes. As an example, suppose a linear prediction model learns from some data (perhaps primarily drawn from large beaches) that a 10 degree temperature decrease would lead to 1,000 fewer people visiting the beach. This model is unlikely to generalize well over different sized beaches. More specifically, the problem is that if you use the model to predict the new attendance with a temperature drop of 10 for a beach that regularly receives 50 beachgoers, you would predict an impossible attendance value of −950. Logically, a more realistic model would instead predict a constant rate of increased beach attendance (e.g. an increase of 10 degrees leads to a doubling in beach attendance, and a drop of 10 degrees leads to a halving in attendance).  Such a model is termed an exponential-response model (or log-linear model, since the logarithm of the response is predicted to vary linearly).
+Similarly, a model that predicts a probability of making a yes/no choice (a Bernoulli variable) is even less suitable as a linear-response model, since probabilities are bounded on both ends (they must be between 0 and 1). Imagine, for example, a model that predicts the likelihood of a given person going to the beach as a function of temperature. A reasonable model might predict, for example, that a change in 10 degrees makes a person two times more or less likely to go to the beach. But what does "twice as likely" mean in terms of a probability? It cannot literally mean to double the probability value (e.g. 50% becomes 100%, 75% becomes 150%, etc.).  Rather, it is the odds that are doubling: from 2:1 odds, to 4:1 odds, to 8:1 odds, etc. Such a model is a log-odds or logistic model.
+Generalized linear models cover all these situations by allowing for response variables that have arbitrary distributions (rather than simply normal distributions), and for an arbitrary function of the response variable (the link function) to vary linearly with the predictors (rather than assuming that the response itself must vary linearly).  For example, the case above of predicted number of beach attendees would typically be modeled with a Poisson distribution and a log link, while the case of predicted probability of beach attendance would typically be modelled with a Bernoulli distribution (or binomial distribution, depending on exactly how the problem is phrased) and a log-odds (or logit) link function.
+Overview
+In a generalized linear model (GLM), each outcome Y of the dependent variables is assumed to be generated from a particular distribution in an exponential family, a large class of probability distributions that includes the normal, binomial, Poisson and gamma distributions, among others. The mean, μ, of the distribution depends on the independent variables, X, through:
+where E(Y|X) is the expected value of Y conditional on X; Xβ is the linear predictor, a linear combination of unknown parameters β; g is the link function.
+In this framework, the variance is typically a function, V, of the mean:
+It is convenient if V follows from an exponential family of distributions, but it may simply be that the variance is a function of the predicted value.
+The unknown parameters, β, are typically estimated with maximum likelihood, maximum quasi-likelihood, or Bayesian techniques.
+Model components
+The GLM consists of three elements:
+Probability distribution
+An overdispersed exponential family of distributions is a generalization of an exponential family and the exponential dispersion model of distributions and includes those families of probability distributions, parameterized by $MATH$ and $MATH$, whose density functions f (or probability mass function, for the case of a discrete distribution) can be expressed in the form
+The dispersion parameter, $MATH$, typically is known and is usually related to the variance of the distribution.  The functions $MATH$, $MATH$, $MATH$, $MATH$, and $MATH$ are known.  Many common distributions are in this family, including the normal, exponential, gamma, Poisson, Bernoulli, and (for fixed number of trials) binomial, multinomial, and negative binomial.
+For scalar $MATH$ and $MATH$ (denoted $MATH$ and $MATH$ in this case), this reduces to
+$MATH$ is related to the mean of the distribution.  If $MATH$ is the identity function, then the distribution is said to be in canonical form (or natural form). Note that any distribution can be converted to canonical form by rewriting $MATH$ as $MATH$ and then applying the transformation $MATH$.  It is always possible to convert $MATH$ in terms of the new parametrization, even if $MATH$ is not a one-to-one function; see comments in the page on exponential families. If, in addition, $MATH$ is the identity and $MATH$ is known, then $MATH$ is called the canonical parameter (or natural parameter) and is related to the mean through
+For scalar $MATH$ and $MATH$, this reduces to
+Under this scenario, the variance of the distribution can be shown to be
+For scalar $MATH$ and $MATH$, this reduces to
+Linear predictor
+The linear predictor is the quantity which incorporates the information about the independent variables into the model.  The symbol η (Greek "eta") denotes a linear predictor.  It is related to the expected value of the data through the link function.
+η is expressed as linear combinations (thus, "linear") of unknown parameters β.  The coefficients of the linear combination are represented as the matrix of independent variables X.  η can thus be expressed as
+Link function
+The link function provides the relationship between the linear predictor and the mean of the distribution function.  There are many commonly used link functions, and their choice is informed by several considerations. There is always a well-defined canonical link function which is derived from the exponential of the response's density function. However, in some cases it makes sense to try to match the domain of the link function to the range of the distribution function's mean, or use a non-canonical link function for algorithmic purposes, for example Bayesian probit regression.
+When using a distribution function with a canonical parameter $MATH$, the canonical link function is the function that expresses $MATH$ in terms of $MATH$, i.e. $MATH$.  For the most common distributions, the mean $MATH$ is one of the parameters in the standard form of the distribution's density function, and then $MATH$  is the function as defined above that maps the density function into its canonical form.  When using the canonical link function, $MATH$, which allows $MATH$ to be a sufficient statistic for $MATH$.
+Following is a table of several exponential-family distributions in common use and the data they are typically used for, along with the canonical link functions and their inverses (sometimes referred to as the mean function, as done here).
+In the cases of the exponential and gamma distributions, the domain of the canonical link function is not the same as the permitted range of the mean. In particular, the linear predictor may be positive, which would give an impossible negative mean.  When maximizing the likelihood, precautions must be taken to avoid this.  An alternative is to use a noncanonical link function.
+In the case of the Bernoulli, binomial, categorical and multinomial distributions, the support of the distributions is not the same type of data as the parameter being predicted.  In all of these cases, the predicted parameter is one or more probabilities, i.e. real numbers in the range $MATH$. The resulting model is known as logistic regression (or multinomial logistic regression in the case that K-way rather than binary values are being predicted).
+For the Bernoulli and binomial distributions, the parameter is a single probability, indicating the likelihood of occurrence of a single event.  The Bernoulli still satisfies the basic condition of the generalized linear model in that, even though a single outcome will always be either 0 or 1, the expected value will nonetheless be a real-valued probability, i.e. the probability of occurrence of a "yes" (or 1) outcome.  Similarly, in a binomial distribution, the expected value is Np, i.e. the expected proportion of "yes" outcomes will be the probability to be predicted.
+For categorical and multinomial distributions, the parameter to be predicted is a K-vector of probabilities, with the further restriction that all probabilities must add up to 1.  Each probability indicates the likelihood of occurrence of one of the K possible values. For the multinomial distribution, and for the vector form of the categorical distribution, the expected values of the elements of the vector can be related to the predicted probabilities similarly to the binomial and Bernoulli distributions.
+Fitting
+Maximum likelihood
+The maximum likelihood estimates can be found using an iteratively reweighted least squares algorithm or a Newton's method with updates of the form:
+where $MATH$ is the observed information matrix (the negative of the Hessian matrix) and $MATH$ is the score function; or a Fisher's scoring method:
+where $MATH$ is the Fisher information matrix. Note that if the canonical link function is used, then they are the same.
+Bayesian methods
+In general, the posterior distribution cannot be found in closed form and so must be approximated, usually using Laplace approximations or some type of Markov chain Monte Carlo method such as Gibbs sampling.
+Examples
+General linear models
+A possible point of confusion has to do with the distinction between generalized linear models and general linear models, two broad statistical models. Co-originator John Nelder has expressed regret over this terminology.
+The general linear model may be viewed as a special case of the generalized linear model with identity link and responses normally distributed. As most exact results of interest are obtained only for the general linear model, the general linear model has undergone a somewhat longer historical development. Results for the generalized linear model with non-identity link are asymptotic (tending to work well with large samples).
+Linear regression
+A simple, very important example of a generalized linear model (also an example of a general linear model) is linear regression. In linear regression, the use of the least-squares estimator is justified by the Gauss–Markov theorem, which does not assume that the distribution is normal.
+From the perspective of generalized linear models, however, it is useful to suppose that the distribution function is the normal distribution with constant variance and the link function is the identity, which is the canonical link if the variance is known.  Under these assumptions, the least-squares estimator is obtained as the maximum-likelihood parameter estimate.
+For the normal distribution, the generalized linear model has a closed form expression for the maximum-likelihood estimates, which is convenient. Most other GLMs lack closed form estimates.
+Binary data
+When the response data, Y, are binary (taking on only values 0 and 1), the distribution function is generally chosen to be the Bernoulli distribution and the interpretation of μi is then the probability, p, of Yi taking on the value one.
+There are several popular link functions for binomial functions.
+Logit link function
+The most typical link function is the canonical logit link:
+GLMs with this setup are logistic regression models (or logit models).
+Probit link function as popular choice of inverse cumulative distribution function
+Alternatively, the inverse of any continuous cumulative distribution function (CDF) can be used for the link since the CDF's range is $MATH$, the range of the binomial mean. The normal CDF $MATH$ is a popular choice and yields the probit model. Its link is
+The reason for the use of the probit model is that a constant scaling of the input variable to a normal CDF (which can be absorbed through equivalent scaling of all of the parameters) yields a function that is practically identical to the logit function, but probit models are more tractable in some situations than logit models. (In a Bayesian setting in which normally distributed prior distributions are placed on the parameters, the relationship between the normal priors and the normal CDF link function means that a probit model can be computed using Gibbs sampling, while a logit model generally cannot.)
+Complementary log-log (cloglog)
+The complementary log-log function may also be used:
+This link function is asymmetric and will often produce different results from the logit and probit link functions. The cloglog model corresponds to applications where we observe either zero events (e.g., defects) or one or more, where the number of events is assumed to follow the Poisson distribution. The Poisson assumption means that
+where μ is a positive number denoting the expected number of events.  If p represents the proportion of observations with at least one event, its complement
+and then
+A linear model requires the response variable to take values over the entire real line. Since μ must be positive, we can enforce that by taking the logarithm, and letting log(μ) be a linear model.  This produces the "cloglog" transformation
+Identity link
+The identity link g(p) = p is also sometimes used for binomial data to yield a linear probability model.  However, the identity link can predict nonsense "probabilities" less than zero or greater than one.  This can be avoided by using a transformation like cloglog, probit or logit (or any inverse cumulative distribution function). A primary merit of the identity link is that it can be estimated using linear math—and other standard link functions are approximately linear matching the identity link near p = 0.5.
+Variance function
+The variance function for "quasibinomial" data is:
+where the dispersion parameter τ is exactly 1 for the binomial distribution. Indeed, the standard binomial likelihood omits τ.  When it is present, the model is called "quasibinomial", and the modified likelihood is called a quasi-likelihood, since it is not generally the likelihood corresponding to any real family of probability distributions.  If τ exceeds 1, the model is said to exhibit overdispersion.
+Multinomial regression
+The binomial case may be easily extended to allow for a multinomial distribution as the response (also, a Generalized Linear Model for counts, with a constrained total). There are two ways in which this is usually done:
+Ordered response
+If the response variable is ordinal, then one may fit a model function of the form:
+for m > 2. Different links g lead to ordinal regression models like proportional odds models or ordered probit models.
+Unordered response
+If the response variable is a nominal measurement, or the data do not satisfy the assumptions of an ordered model, one may fit a model of the following form:
+for m > 2. Different links g lead to multinomial logit or multinomial probit models.  These are more general than the ordered response models, and more parameters are estimated.
+Count data
+Another example of generalized linear models includes Poisson regression which models count data using the Poisson distribution.  The link is typically the logarithm, the canonical link.
+The variance function is proportional to the mean
+where the dispersion parameter τ is typically fixed at exactly one. When it is not, the resulting quasi-likelihood model is often described as Poisson with overdispersion or quasi-Poisson.
+Extensions
+Correlated or clustered data
+The standard GLM assumes that the observations are uncorrelated. Extensions have been developed to allow for correlation between observations, as occurs for example in longitudinal studies and clustered designs:
+Generalized additive models
+Generalized additive models (GAMs) are another extension to GLMs in which the linear predictor η is not restricted to be linear in the covariates X but is the sum of smoothing functions applied to the xis:
+The smoothing functions fi are estimated from the data. In general this requires a large number of data points and is computationally intensive.
+See also
+References
+Citations
+Bibliography
+Further reading

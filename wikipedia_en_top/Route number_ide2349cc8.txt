@@ -1,0 +1,129 @@
+Route number
+A route (or road) number, designation or abbreviation is an identifying numeric (or alphanumeric) designation assigned by a highway authority to a particular stretch of roadway to distinguish it from other routes and, in many cases, also to indicate its classification (e.g. motorway, primary route, regional road, etc.), general geographical location (in zonal numbering systems) and/or orientation (north-south v. east-west). The numbers chosen may be used solely for internal administrative purposes; however, in most cases they are also displayed on roadside signage and indicated on maps.
+Use of letters
+Letters are often used in road designations to indicate a class of roadways. Within such a class, roads are distinguished from each other by a road number. The way such letters are used depends on the country or other political jurisdiction which contains and controls the road. For instance, among A1 motorways, the one in Spain has a hyphen between the A and the 1 (Autovia A-1) while in Germany the Autobahn 1 is written A 1, with a space between the A and the 1. In Argentina there are zeros between the A and the 1 (Autopista A001).
+Single-letter abbreviations
+Multiple-letter abbreviations
+Road systems
+Depending on the country, the letter attributed to a road may be part of a road grading system, be a shortening for a type of road especially in a foreign language or refer to a geographical zoning system, such as the Appalachian Development Highway System or the county highway systems of California, Iowa, and Michigan in the United States.
+International systems
+United Kingdom
+The United Kingdom has two road numbering schemes, one for Great Britain and the other for Northern Ireland. Both schemes follow the same principles, but the numbers are independent and the same road number may be duplicated between the two schemes.
+A, B, unnumbered, and unclassified roads
+In the United Kingdom, road numbers consist of a number up to 4 digits, prefixed with the letters A or B. The main road from London to Edinburgh was designated the A1 in 1921; the "A" indicates a "trunk"  or "principal" road, between regional towns and cities. In Great Britain, the A1, A2, A3, A4, A5 and A6 radiate out from London, or nearby, (in clockwise order) to points around the coast. Some A-roads, or sections of A-roads, are dual carriageway, without being full motorways; some sections upgraded to motorway standards are designated in the form A1(M). B roads are minor roads; they may connect small towns and villages, or offer an alternate route to major roads. Classified unnumbered roads, unofficially called C roads, are smaller roads typically connecting unclassified roads with A and B roads. Unclassified roads are roads intended for local traffic; 60% of UK roads are unclassified, and the 200,000 miles of B, unnumbered, and unclassified roads constitute 87% of total road length in the UK.
+All classified roads in England and Wales starting in the zone between the A1 and the A2 begin with the figure 1 (e.g. A137, B1412), etc. Scotland is similarly divided into zones by the A7, A8 and A9 which radiate out from Edinburgh. Zones are not used in Northern Ireland.
+Motorways
+Motorways are classified as "special roads", and are numbered in a similar, but not identical, manner. Motorways are either M-class or upgraded A-road, A(M) class. M-class motorways are labelled in the form Mx, as a higher grade of motorway, and A(M) roads are labelled in the form Ax(M), where x is the designation of the road, dependent on the zone. For example, the M25 is the London Orbital Motorway, and the A1(M) is the upgraded A1 dual carriageway.
+A similar clock-face zonal system is used in many other European countries (for example, Spain and Belgium).
+United States
+In the United States, numbered highways belong to one of three or more systems of numbered routes, depending on the state. There are two national-level route numbering systems, the older United States Numbered Highway System laid out in 1920s, and the newer Interstate Highway System started in the 1950s. Additionally, every state in the U.S. maintains its own set of numbered state highways. Some states have other systems as well, either a system of numbered county highways or secondary state highways. A few cities also have numbered city highways; for example, the city of Charlotte, North Carolina, maintains Charlotte Route 4.
+The U.S. Highway System, indicated by a white shield with black numbers, is based on a numbering grid, with odd routes running generally north–south and even routes running east–west. Primary routes have a one- or two-digit number, and are supplemented by spur routes that add a hundreds digit to their parent route. Routes increase from east-to-west and north-to-south, such that U.S. Route 1 follows the Atlantic Seaboard fall line, while U.S. Route 101 does the same at the Pacific Ocean Coast. Likewise U.S. Route 2 runs near the Canadian border, while U.S. Route 98 follows the Gulf Coast. Major cross-country routes end in either a "1" or a "0". For example, U.S. Route 20 is a route that runs over 3,000 miles (4,800 km) from Boston, Massachusetts, to Newport, Oregon, while U.S. Route 41 spans the country from Miami, Florida, to the Upper Peninsula of Michigan. Routes like U.S. Route 141 and U.S. Route 441 branch off U.S. Route 41. U.S. Route 66, known as the "Mother Road", was a cultural touchstone that inspired literature, songs, and other media from its creation in 1926 until it was superseded by segments of the Interstate Highway System. Parts of the road have been designated "Historic Route 66".
+The Interstate Highway System, indicated by a red and blue shield with white numbers, is a system of entirely freeways (unlike the U.S. Highway System, which is mostly undivided surface roads). The Interstate System is also based on a grid, with east–west routes bearing even numbers and north–south routes bearing odd numbers. In order to prevent confusion with the earlier U.S. Highway System, however, the Interstates are numbered in the opposite direction, such that the lowest routes numbers are in the south and west, and the highest numbers in the north and east. Major routes end in either a "0" or a "5"; for example Interstate 10 spans the country from Jacksonville, Florida, to Santa Monica, California, while Interstate 35 goes from the Mexican border to the Great Lakes. Like with U.S. Highways, subsidiary routes are numbered by adding a hundreds digit to the parent route. Because of the large number of these routes, three-digit numbers may be repeated within the system, but unique to each state. Additionally, the parity of the hundreds digit tells the nature of the spur route: odd hundreds digits like Interstate 393 only connect to the system at one end (forming "spurs"), while an even hundreds digit like Interstate 440 indicates that the highway connects to another Interstate at both ends (forming loops).
+The numbering system for state highways varies widely from state to state. Each state decides how to number its own routes. Some maintain systems similar to the national road systems, based on a grid. Others number highways regionally, with similar numbers occurring in the same area of the state. Still others have no discernible system, with no connection between a route's location and its number.
+In addition to numbers, route numbers also use suffixed letters and banners appended to the tops of signs to indicate alternate routes to the main highway. For example, U.S. Route 1A is the name given to many highways which are either older alignments of U.S. Route 1 or provide an alternate route either around or through a city along U.S. Route 1's route. Banners are sometimes used to indicate alternate routes. Words like "Alternate", "Business", or "Bypass" can be added to a sign to indicate such a situation.
+Canada
+The Trans-Canada Highway system is made up of a series of provincially maintained highways, and is one of only two systems (the other being the Crowsnest Highway) that uses route numbering that spans multiple provinces, albeit not across the entire country. The provincial highways are assigned numbers by their respective provinces.
+Alberta
+All provincial highways are 'Primary Highways'. They are divided into two series', and sub-series'.
+British Columbia
+Owing to the mountainous terrain in the province, route numbers are assigned on a mostly ad hoc basis, and vary between west–east and south–north routes.  They currently span from 1-118, except for Hwy 395 which is a counterpart of US 395.  Some routes are grouped in numerical patterns (e.g. Highways 9, 11, 13, 15, 17, and 19 are north–south routes with values increasing by increments of two moving West). British Columbia formerly had "400 series" of highways similar to Ontario, but that scheme was dropped in 1973.
+Manitoba
+Provincial Trunk Highways (PTH) are divided into two series'.
+New Brunswick
+Provincial highways are divided into three series'.
+Newfoundland and Labrador
+Provincial highways are divided into three series'.
+Nova Scotia
+Provincial highways are divided into five series'.
+Ontario
+Provincial highways are divided into four classes.
+Prince Edward Island
+Provincial highways are divided into three series'.
+Quebec
+Provincial highways are divided into three classes. Odd numbers refer to routes that are generally perpendicular to the Saint Lawrence River. Even numbers refer to routes that are generally parallel to the Saint Lawrence River.
+Saskatchewan
+Provincial highways are divided into three series', and sub-series'.
+Northwest Territories
+There are currently eleven territorial highways in the Northwest Territories. All eleven are named, eight are numbered 1-8, and two are winter roads.
+Nunavut
+There are a number of roads and highways in Nunavut, none are yet numbered.
+Yukon
+There are currently fourteen territorial highways in Yukon. All fourteen are named and numbered 1-11, 14-15, & 37.
+Expressways
+National expressways of China are designated with letter G (for 国家高速, guójiā gāosù) followed by 1, 2, or 4 digits. For national expressways, one-digit numbers are used for expressways starting in Beijing. Two-digit odd numbers from G11 to G89 are for north–south long-distance expressways, and even numbers from G10 to G90 are for east–west long-distance expressways. Numbers G91 – G99 denote regional ring routes. Four-digit numbers indicate city ring routes, spur routes and parallel routes. The first two numbers indicates their parent routes, while for the three types of routes, the third digit is 0, an odd number, or an even number, respectively. Provincial city ring routes, spur routes uses two digits. For example, in G1503 (Shanghai Ring Expressway), "15" refers to the G15 Shenyang–Haikou Expressway, which passes through Shanghai, and "0" indicates that the route is a city ring expressway.
+Provincial expressways are designated with letter S (for 省高速, shěng gāosù) followed by 1 or 2 digits. Similar to the national expressways, one-digit numbers are used for routes starting in the provincial capital. Since 2017, the Chinese route naming standard no longer designates provincial expressways with 4 digit numbers.
+Non-expressways
+Hong Kong
+Indonesia
+Indonesia is an archipelago. For national route numbering, every main island has its own number. For both national routes and toll roads, numbering starts at 1 on every main island and continues to the small surrounding islands.
+The numbering is considered by these provision:
+Until 2019, Ministry of Transportation (Indonesia) has set 31 national routes on Java Island, 55 national routes on Sumatra Island, and 6 national routea on Bali Island. For toll road numbering, the ministry also has set 11 number routes on Java Island, 5 number routes on Sumatra Island, and 1 number route on Bali Island.
+Malaysia
+Route numbering in Malaysia is fairly simple.
+West
+Sabah
+Sarawak
+Labuan
+Australia
+In Australia, road routes are allocated along sections of named roads, often along parts of multiple roads. Unlike many other countries, most highways in Australia tend to be referred to only by their names. State road authorities have separate numbering systems, for internal use only.
+The first route marking system was introduced to Australia in the 1950s. National Routes were assigned to significant interstate routes – the most important road links in the country. National Route 1 was designated to a circular route around the Australian coastline. A state route marking system was designed to supplement the national system, for inter-regional and urban routes within states. When the National Highway system was introduced, National Routes along it became National Highway routes with the same numbers, but with distinctive green and gold route markers. Alphanumeric routes were introduced in Tasmania in 1979, and during the 1990s, planning began for nationally consistent route markings, using the alphanumeric system. Alphanumeric routes have been introduced in most states and territories in Australia, partially or completely replacing the previous systems.
+National Routes and Highways
+In 1955, the Australian National Route Numbering System was introduced to simplify navigation across Australia. The National Route Numbers are marked by white shields that are present in directional signs, distance signs or trailblazers. The general rule was that odd-numbered highways travel in north–south directions and even-numbered highways in east–west directions, with only a few exceptions. National Route 1 was assigned to a network of highways and roads, which together linked all capital cities and coastal towns circumnavigating the mainland. The National Route system initially linked the centres of towns and cities and terminated at the junction of other national routes, however many bypasses have been constructed since then. National Routes often terminated at the metropolitan city limits rather than the individual city centres.
+In 1974, the federal government assumed responsibility for funding the nations most important road links, with the introduction of the National Highway. These highways were marked with distinctive green and gold route marker shields instead of the plain National Route shield. Though the National Highway system has been superseded in subsequent legislation, National Highway route markers are still used on many of the routes. Additionally, National Highways and National Routes have been phased out, or are in the process of being phased out, in all states and territories except Western Australia, in favour of the alphanumeric system.
+State Routes
+Important urban and inter-regional routes not covered by the National Highway or National Route systems are marked under the State Route system. They can be recognised by blue shield markers. They were practically adopted in all states by the end of the 1980s, and in some states, some less important National Routes were downgraded to State Routes. Each state has or had its own numbering scheme, but do not duplicate National Route numbers in the same state, or nearby routes in another state.
+As with the National Routes and National Highways, State Routes are being phased out in most states and territories in favour of alphanumeric routes. However, despite the fact that Victoria has fully adopted alphanumeric routes in regional areas, state route numbers are still used extensively within the city of Melbourne as a part of its Metropolitan Route Numbering Scheme.
+Metroads
+In the 1990s in Sydney and Brisbane, urban route numbering system were streamlined under the Metroad scheme. Metroad route numbers were assigned to the key navigational corridors, along ring and radial routes, and marked by distinctive hexagonal shields. Most Metroads have been completely or partially replaced with alphanumeric routes in Brisbane with currently only have 2 routes; Metroad 2 and Metroad 5, and they have been fully replaced by alphanumerics in Sydney.
+Alphanumeric routes
+Tasmania introduced an alphanumeric route numbering system in 1979, based on the British system from 1963. The new system aimed to upgrade the signing of destinations, including previously unmarked roads, and to simplify navigation by allowing visitors to follow numbered routes. National Highway 1 was retained as the only route without an alphanumeric designation.
+In the 1990s Victoria and South Australia also overhauled their systems. While South Australia discarded the National and State Route Numbering Systems, those shield-based schemes were retained in the Melbourne metropolitan area as the Metropolitan Route Numbering Scheme. The route numbers used in the alphanumeric schemes were generally inherited from the original National Route Numbering System, with only a few exceptions, and prefixed with letters denoting their grade. For example, Western Freeway is M8 until Ballarat and continues beyond as A8 Western Highway. They are not used extensively in the Melbourne metropolitan area where the blue-shield metropolitan route system is retained for most routes. The National Highways were retained, but with the route numbers changed to alphanumeric designations.
+New South Wales and the Australian Capital Territory introduced the alphanumeric system from early 2013. Before being officially announced, new road signs were fitted with such numbers and then being "coverplated" with the existing route number. However, the new system does not distinguish between the former National Highways and other routes.
+Alphanumeric routes have also been introduced for many major highways and urban routes in Queensland, although many other roads retain markers from the National Route, National Highway, State and Metroad numbering systems. According to the New South Wales Roads & Maritime Services, the Northern Territory has similarly begun converting their numbered routes to alphanumeric routes, with a "progressive replacement" scheme that sees alphanumeric route markers introduced only when signs are replaced. There are no plans to introduce an alphanumeric route numbering system in Western Australia.
+Prefix letters
+In the alphanumeric systems, a letter denoting the route's construction standard and function is prefixed to the route number, creating an alphanumeric route designation. One of six letters may be used:
+Germany
+A stands for Autobahn (motorway), B for Bundesstraße (literally "federal road"). There are also L roads (Landesstraße for Bundesland; in Saxony S and Bavaria St for Staatsstraße), K roads (Kreisstraße for districts, in some states of Germany K roads are classified as Landesstraßen 2. Ordnung and also carry an L number).
+Formerly, B roads were also designated as F for Fernstraße (long-distance road) in East Germany until 1990 and as R for Reichsstraße (imperial road) in the Weimar republic and Nazi-Germany until the Second World War.
+A roads use white numbers on blue shields, B and R roads black numbers on yellow shields and L, K and St roads – if designated – black numbers on white shields. The respective letters are normally not included in the shield.
+Autobahns
+In Germany, the normal route number for the German autobahns consists of the letter A and a number:
+Bundesstraßen
+Bundesstraßen are national highways, their numbers consist of the letter B and a number:
+West Berlin once had its own Bundesstraßen with letters.
+State roads
+State roads are roads operated by the German federal states. They are called Landesstrasse or Staatsstrasse (in Saxony and Bavaria). They are labeled by an initial L or S and a one- to four-digit individual number (e.g. S2 or L240). The federal states sustain their own numbering systems with individual styles of number shields used.
+Elsewhere
+Some countries, such as Brazil, number their national highways by direction. (BR1xx = North/South highways, BR2xx = East/West, BR3xx = 'Diagonal' (i.e. NW/SE or NE/SW)).
+Cyprus A, B, E, F system
+A stands for motorway and B is for main roads. E and F are for smaller local roads.
+Estonian T system
+T is the prefix for all roads, however not represented on route shields.
+The prefix is mostly only used by the Estonian Road Administration and is not in common usage when referring to roads.
+French A, N, D system
+A stands for "autoroute" (motorway), N for "national road", D for "départementale" road and C for "communale". France still uses Route Nationale numbers from an 1824 revision of 1811 numbers made under Napoleon.
+Irish M, N, R, L system
+M stands for Motorway, N for National primary road or National secondary road, R for Regional road and L for Local road.
+Japanese C, E system
+C stands for circular, E stands for expressway. These designations are used on most expressways in Japan outside of the urban systems. The designations, depicted with a green rectangle with white numbers and letters, are used on guide signs as well as highway shields.
+Netherlands' A, N system
+A stands for "Autosnelweg" (motorway), N for Non motorways. The A-codes use white letters on a red shield, the N-codes black letters on a yellow shield. Where a highway changes into a motorway or vice versa, it may continue to use the same number, but the letter and the color are switched.
+When the letter is followed by three digits, the road is typically a provincial road. When there are only one or two digits, it is typically a national road.
+Philippines E, N system
+The Philippines' new route numbering system, started in 2014, for its network of expressways (limited access roads) and national roads (of the primary and secondary types), uses E and N, respectively. National roads ("N" roads, of the primary and secondary designation) use white shields based on the Australian National Route shields, but signed with the number only, with N included for inventory purposes. Expressways ("E" roads) uses signs the same design as with national primary and secondary roads, but colored yellow, and unlike national roads, includes E to prevent confusion.
+Polish A, S, DK, DW system
+Senegal N, R system
+N stands for "national" roads while R is for "regional" roads.
+Slovak D, R system
+D stands for "diaľnica" (motorways) while R is for "rýchlostná cesta" (expressways).
+South African N, R, M system
+N stands for national road, R stands for regional road and M stands for metropolitan road.
+Spain A, AP, N system
+Other letters refer to the code of the region or city that is served by the road. See for example M-30, with M standing for Madrid.
+Turkey O, D, I system
+Vietnamese QL, TL, HL system
+The following abbreviations appear on guide signs and kilometer posts:
+See also
+Notes
+References
+Further reading

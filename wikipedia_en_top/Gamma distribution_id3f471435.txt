@@ -1,0 +1,143 @@
+Gamma distribution
+In probability theory and statistics, the gamma distribution is a two-parameter family of continuous probability distributions.  The exponential distribution, Erlang distribution, and chi-square distribution are special cases of the gamma distribution.  There are two equivalent parameterizations in common use:
+In each of these forms, both parameters are positive real numbers.
+The gamma distribution is the maximum entropy probability distribution (both with respect to a uniform base measure and a $MATH$ base measure) for a random variable $MATH$ for which E[X] = kθ = α/β is fixed and greater than zero, and E[ln(X)] = ψ(k) + ln(θ) = ψ(α) − ln(β) is fixed (ψ is the digamma function).
+Definitions
+The parameterization with k and θ appears to be more common in econometrics and other applied fields, where the gamma distribution is frequently used to model waiting times. For instance, in life testing, the waiting time until death is a random variable that is frequently modeled with a gamma distribution. See Hogg and Craig  for an explicit motivation.
+The parameterization with $MATH$ and $MATH$ is more common in Bayesian statistics, where the gamma distribution is used as a conjugate prior distribution for various types of inverse scale (rate) parameters, such as the λ of an exponential distribution or a Poisson distribution – or for that matter, the β of the gamma distribution itself. The closely related inverse-gamma distribution is used as a conjugate prior for scale parameters, such as the variance of a normal distribution.
+If k is a positive integer, then the distribution represents an Erlang distribution; i.e., the sum of k independent exponentially distributed random variables, each of which has a mean of θ.
+Characterization using shape α and rate β
+The gamma distribution can be parameterized in terms of a shape parameter α = k and an inverse scale parameter β = 1/θ, called a rate parameter. A random variable X that is gamma-distributed with shape α and rate β is denoted
+The corresponding probability density function in the shape-rate parameterization is
+where $MATH$ is the gamma function. 
+For all positive integers, $MATH$.
+The cumulative distribution function is the regularized gamma function:
+where $MATH$ is the lower incomplete gamma function.
+If α is a positive integer (i.e., the distribution is an Erlang distribution), the cumulative distribution function has the following series expansion:
+Characterization using shape k and scale θ
+A random variable X that is gamma-distributed with shape k and scale θ is denoted by
+The probability density function using the shape-scale parametrization is
+Here Γ(k) is the gamma function evaluated at k.
+The cumulative distribution function is the regularized gamma function:
+where $MATH$ is the lower incomplete gamma function.
+It can also be expressed as follows, if k is a positive integer (i.e., the distribution is an Erlang distribution):
+Both parametrizations are common because either can be more convenient depending on the situation.
+Properties
+Mean and variance
+The mean of gamma distribution is given by the product of its shape and scale parameters:
+The variance is:
+The square root of the inverse shape parameter gives the coefficient of variation:
+Skewness
+The skewness of the gamma distribution only depends on its shape parameter, k, and it is equal to $MATH$
+Higher moments
+The nth raw moment is given by:
+Median approximations and bounds
+Unlike the mode and the mean, which have readily calculable formulas based on the parameters, the median does not have a closed-form equation. The median for this distribution is the value $MATH$ such that
+A rigorous treatment of the problem of determining an asymptotic expansion and bounds for the median of the gamma distribution was handled first by Chen and Rubin, who proved that (for $MATH$)
+where $MATH$ is the mean and $MATH$ is the median of the $MATH$ distribution.  For other values of the scale parameter, the mean scales to $MATH$, and the median bounds and approximations would be similarly scaled by $MATH$.
+K. P. Choi found the first five terms in a Laurent series asymptotic approximation of the median by comparing the median to Ramanujan's $MATH$ function.  Berg and Pedersen found more terms:
+Partial sums of these series are good approximations for high enough $MATH$; they are not plotted in the figure, which is focused on the low-$MATH$ region that is less well approximated.
+Berg and Pedersen also proved many properties of the median, showing that it is a convex function of $MATH$, and that the asymptotic behavior near $MATH$ is $MATH$ (where $MATH$ is the Euler–Mascheroni constant), and that for all $MATH$ the median is bounded by $MATH$.
+A closer linear upper bound, for $MATH$ only, was provided in 2021 by Gaunt and Merkle, relying on the Berg and Pedersen result that the slope of $MATH$ is everywhere less than 1:
+which can be extended to a bound for all $MATH$ by taking the max with the chord shown in the figure, since the median was proved convex.
+An approximation to the median that is asymptotically accurate at high $MATH$ and reasonable down to $MATH$ or a bit lower follows from the Wilson–Hilferty transformation:
+which goes negative for $MATH$.
+In 2021, Lyon proposed several closed-form approximations of the form $MATH$.  He conjectured closed-form values of $MATH$ and $MATH$ for which this approximation is an asymptotically tight upper or lower bound for all $MATH$.  In particular:
+Lyon also derived two other lower bounds that are not closed-form expressions, including this one based on solving the integral expression substituting 1 for $MATH$: 
+and the tangent line at $MATH$ where the derivative was found to be $MATH$:
+where Ei is the exponential integral.
+Additionally, he showed that interpolations between bounds could provide excellent approximations or tighter bounds to the median, including an approximation that is exact at $MATH$ (where $MATH$) and has a maximum relative error less than 0.6%.  Interpolated approximations and bounds are all of the form
+where $MATH$ is an interpolating function running monotonically from 0 at low $MATH$ to 1 at high $MATH$, approximating an ideal, or exact, interpolator $MATH$:
+For the simplest interpolating function considered, a first-order rational function
+the tightest lower bound has
+and the tightest upper bound has
+The interpolated bounds are plotted (mostly inside the yellow region) in the log–log plot shown.  Even tighter bounds are available using different interpolating functions, but not usually with closed-form parameters like these.
+Summation
+If Xi has a Gamma(ki, θ) distribution for i = 1, 2, ..., N (i.e., all distributions have the same scale parameter θ), then
+provided all Xi are independent.
+For the cases where the Xi are independent but have different scale parameters, see Mathai  or Moschopoulos.
+The gamma distribution exhibits infinite divisibility.
+Scaling
+If
+then, for any c > 0,
+or equivalently, if
+Indeed, we know that if X is an exponential r.v. with rate λ, then cX is an exponential r.v. with rate λ/c; the same thing is valid with Gamma variates (and this can be checked using the moment-generating function, see, e.g.,these notes, 10.4-(ii)): multiplication by a positive constant c divides the rate (or, equivalently, multiplies the scale).
+Exponential family
+The gamma distribution is a two-parameter exponential family with natural parameters k − 1 and −1/θ (equivalently, α − 1 and −β), and natural statistics X and ln(X).
+If the shape parameter k is held fixed, the resulting one-parameter family of distributions is a natural exponential family.
+Logarithmic expectation and variance
+One can show that
+or equivalently,
+where $MATH$ is the digamma function.  Likewise,
+where $MATH$ is the trigamma function.
+This can be derived using the exponential family formula for the moment generating function of the sufficient statistic, because one of the sufficient statistics of the gamma distribution is ln(x).
+Information entropy
+The information entropy is
+In the k, θ parameterization, the information entropy is given by
+Kullback–Leibler divergence
+The Kullback–Leibler divergence (KL-divergence), of Gamma(αp,  βp) ("true" distribution) from Gamma(αq, βq) ("approximating" distribution) is given by
+Written using the k, θ parameterization, the KL-divergence of Gamma(kp,  θp) from Gamma(kq,  θq) is given by
+Laplace transform
+The Laplace transform of the gamma PDF is
+Related distributions
+General
+Compound gamma
+If the shape parameter of the gamma distribution is known, but the inverse-scale parameter is unknown, then a gamma distribution for the inverse scale forms a conjugate prior. The compound distribution, which results from integrating out the inverse scale, has a closed-form solution known as the compound gamma distribution.
+If, instead, the shape parameter is known but the mean is unknown, with the prior of the mean being given by another gamma distribution, then it results in K-distribution.
+Weibull and Stable count
+The gamma distribution $MATH$ can be expressed as the product distribution of a Weibull distribution and a variant form of the stable count distribution. 
+Its shape parameter $MATH$ can be regarded as the inverse of Lévy's stability parameter in the stable count distribution:
+where $MATH$ is a standard stable count distribution of shape $MATH$, and $MATH$ is a standard Weibull distribution of shape $MATH$.
+Statistical inference
+Maximum likelihood estimation
+The likelihood function for N iid observations (x1, ..., xN) is
+from which we calculate the log-likelihood function
+Finding the maximum with respect to θ by taking the derivative and setting it equal to zero yields the maximum likelihood estimator of the θ parameter, which equals the sample mean $MATH$ divided by the shape parameter k:
+Substituting this into the log-likelihood function gives
+Finding the maximum with respect to k by taking the derivative and setting it equal to zero yields
+where $MATH$ is the digamma function and $MATH$ is the sample mean of ln(x). There is no closed-form solution for k. The function is numerically very well behaved, so if a numerical solution is desired, it can be found using, for example, Newton's method. An initial value of k can be found either using the method of moments, or using the approximation
+If we let
+then k is approximately
+which is within 1.5% of the correct value. An explicit form for the Newton–Raphson update of this initial guess is:
+Closed-form estimators
+Consistent closed-form estimators of k and θ exists that are derived from the likelihood of the generalized gamma distribution.
+The estimate for the shape k is
+and the estimate for the scale θ is
+Using the sample mean of x, the sample mean of ln(x), and the sample mean of the product x·ln(x) simplifies the expressions to:
+If the rate parameterization is used, the estimate of $MATH$.
+These estimators are not strictly maximum likelihood estimators, but are instead referred to as mixed type log-moment estimators. They have however similar efficiency as the maximum likelihood estimators.
+Although these estimators are consistent, they have a small bias. A bias-corrected variant of the estimator for the scale θ is
+A bias correction for the shape parameter k is given as
+Bayesian minimum mean squared error
+With known k and unknown θ, the posterior density function for theta (using the standard scale-invariant prior for θ) is
+Denoting
+Integration with respect to θ can be carried out using a change of variables, revealing that 1/θ is gamma-distributed with parameters α = Nk, β = y.
+The moments can be computed by taking the ratio (m by m = 0)
+which shows that the mean ± standard deviation estimate of the posterior distribution for θ is
+Conjugate prior
+In Bayesian inference, the gamma distribution is the conjugate prior to many likelihood distributions: the Poisson, exponential, normal (with known mean), Pareto, gamma with known shape σ, inverse gamma with known shape parameter, and Gompertz with known scale parameter. 
+The gamma distribution's conjugate prior is:
+where Z is the normalizing constant with no closed-form solution.
+The posterior distribution can be found by updating the parameters as follows:
+where n is the number of observations, and xi is the ith observation.
+Occurrence and applications
+Consider a sequence of events, with the waiting time for each event being an exponential distribution with rate $MATH$. Then the waiting time for the $MATH$-th event to occur is the gamma distribution with integer shape $MATH$. This construction of the gamma distribution allows it to model a wide variety of phenomena where several sub-events, each taking time with exponential distribution, must happen in sequence for a major event to occur. Examples include the waiting time of cell-division events, number of compensatory mutations for a given mutation, waiting time until a repair is necessary for a hydraulic system, and so on.
+The gamma distribution has been used to model the size of insurance claims and rainfalls. This means that aggregate insurance claims and the amount of rainfall accumulated in a reservoir are modelled by a gamma process – much like the exponential distribution generates a Poisson process.
+The gamma distribution is also used to model errors in multi-level Poisson regression models because a mixture of Poisson distributions with gamma-distributed rates has a known closed form distribution, called negative binomial.
+In wireless communication, the gamma distribution is used to model the multi-path fading of signal power; see also Rayleigh distribution and Rician distribution.
+In oncology, the age distribution of cancer incidence often follows the gamma distribution, wherein the shape and scale parameters predict, respectively, the number of driver events and the time interval between them.
+In neuroscience, the gamma distribution is often used to describe the distribution of inter-spike intervals.
+In bacterial gene expression, the copy number of a constitutively expressed protein often follows the gamma distribution, where the scale and shape parameter are, respectively, the mean number of bursts per cell cycle and the mean number of protein molecules produced by a single mRNA during its lifetime.
+In genomics, the gamma distribution was applied in peak calling step (i.e., in recognition of signal) in ChIP-chip and ChIP-seq data analysis.
+In Bayesian statistics, the gamma distribution is widely used as a conjugate prior. It is the conjugate prior for the precision (i.e. inverse of the variance) of a normal distribution. It is also the conjugate prior for the exponential distribution.
+Random variate generation
+Given the scaling property above, it is enough to generate gamma variables with θ = 1, as we can later convert to any value of β with a simple division.
+Suppose we wish to generate random variables from Gamma(n + δ, 1), where n is a non-negative integer and 0 < δ < 1. Using the fact that a Gamma(1, 1) distribution is the same as an Exp(1) distribution, and noting the method of generating exponential variables, we conclude that if U is uniformly distributed on (0, 1], then −ln(U) is distributed Gamma(1, 1) (i.e. inverse transform sampling). Now, using the "α-addition" property of gamma distribution, we expand this result:
+where Uk are all uniformly distributed on (0, 1] and independent. All that is left now is to generate a variable distributed as Gamma(δ, 1) for 0 < δ < 1 and apply the "α-addition" property once more. This is the most difficult part.
+Random generation of gamma variates is discussed in detail by Devroye,: 401–428  noting that none are uniformly fast for all shape parameters. For small values of the shape parameter, the algorithms are often not valid.: 406  For arbitrary values of the shape parameter, one can apply the Ahrens and Dieter modified acceptance-rejection method Algorithm GD (shape k ≥ 1), or transformation method when 0 < k < 1. Also see Cheng and Feast Algorithm GKM 3 or Marsaglia's squeeze method.
+The following is a version of the Ahrens-Dieter acceptance–rejection method:
+A summary of this is
+where $MATH$ is the integer part of k, ξ is generated via the algorithm above with δ = {k} (the fractional part of k) and the Uk are all independent.
+While the above approach is technically correct, Devroye notes that it is linear in the value of k and generally is not a good choice. Instead, he recommends using either rejection-based or table-based methods, depending on context.: 401–428 
+For example, Marsaglia's simple transformation-rejection method relying on one normal variate X and one uniform variate U:
+With $MATH$ generates a gamma distributed random number in time that is approximately constant with k.  The acceptance rate does depend on k, with an acceptance rate of 0.95, 0.98, and 0.99 for k=1, 2, and 4.  For k < 1, one can use $MATH$ to boost k to be usable with this method.

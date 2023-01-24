@@ -1,0 +1,53 @@
+Lisinopril
+Lisinopril is a medication of the angiotensin-converting enzyme (ACE) inhibitor and is used to treat high blood pressure, heart failure, and after heart attacks. For high blood pressure it is usually a first-line treatment. It is also used to prevent kidney problems in people with diabetes mellitus. Lisinopril is taken by mouth. Full effect may take up to four weeks to occur.
+Common side effects include headache, dizziness, feeling tired, cough, nausea, and rash. Serious side effects may include low blood pressure, liver problems, high blood potassium, and angioedema. Use is not recommended during the entire duration of pregnancy as it may harm the baby. Lisinopril works by inhibiting the renin–angiotensin–aldosterone system.
+Lisinopril was patented in 1978 and approved for medical use in the United States in 1987. It is available as a generic medication. In 2020, it was the fourth most commonly prescribed medication in the United States, with more than 88 million prescriptions. In July 2016, an oral solution formulation of lisinopril was approved for use in the United States.
+Structure–activity relationships
+Lisinopril has a proline group that is responsible for the availability of the drug in oral formulation. The carboxylate group interacts with zinc ions to inhibit the ACE enzyme found in the kidneys and lungs. The other substituents participate in binding the same enzyme. Unlike Captopril, another ACE Inhibitor, Lisinopril lacks a thiol group.
+Medical uses
+Lisinopril is typically used for the treatment of high blood pressure, congestive heart failure, and diabetic nephropathy and after acute myocardial infarction (heart attack). Lisinopril is part of the ACE inhibitors drug class. Compared to other drugs within the same class such as captopril and enalapril, lisinopril has a longer duration of action.
+FDA-approved Indications:
+The lisinopril is started at 5 or 10 mg and titrated upwards to 40 mg once daily maximum. The usual effective maintenance dosage is 20mg administered in a single daily dose.
+A review concluded that lisinopril was effective for treatment of proteinuric kidney disease, including diabetic proteinuria.
+In people of sub-Saharan African descent, calcium-channel blockers or thiazide diuretics may more effectively lower blood pressure than ACE inhibitors such as lisinopril, although convincing evidence is lacking that these drugs differ in their effect on morbidity or mortality in such persons.
+Kidney problems
+In patients with moderate to severe kidney disease, lisinopril and other ACE inhibitors are superior to angiotensin II receptor blockers and other antihypertensive drugs for prevention of death, fatal cardiac events, and kidney injury. Dose reduction may be required when creatinine clearance is less than or equal to 30mL/min. Since lisinopril is removed by dialysis, dosing changes must also be considered for people on dialysis.
+Pregnancy and breastfeeding
+Animal and human data have revealed evidence of lethal harm to the embryo and teratogenicity associated with ACE inhibitors. No controlled data in human pregnancy are available. Birth defects have been associated with use of lisinopril in any trimester. Death and increased toxicity to the fetus and newly born child have been reported with the use of lisinopril in the second and third trimesters. The label states, "When pregnancy is detected, discontinue Zestril as soon as possible." The manufacturer recommends mothers should not breastfeed while taking this medication because of the current lack of safety data.
+Contraindications
+Lisinopril is contraindicated in people who have a history of angioedema (hereditary or idiopathic) or who have diabetes and are taking aliskiren.
+Adverse effects
+The incidence of adverse effects varies according to which disease state the patient is being treated for.
+People taking lisinopril for the treatment of hypertension may experience the following side effects:
+People taking lisinopril for the treatment of myocardial infarction may experience the following side effects:
+People taking lisinopril for the treatment of heart failure may experience the following side effects:
+Overdose
+In one reported overdose, the half-life of lisinopril was prolonged to 14.9 hours. The case report of the event estimates that the individual consumed between 420 and 500 mg of lisinopril and survived. In cases of overdosage, it can be removed from circulation by dialysis.
+Interactions
+Dental care
+ACE-inhibitors like lisinopril are considered to be generally safe for people undergoing routine dental care, though the use of lisinopril prior to dental surgery is more controversial, with some dentists recommending discontinuation the morning of the procedure. People may present to dental care suspicious of an infected tooth, but the swelling around the mouth may be due to lisinopril-induced angioedema, prompting emergency and medical referral.
+Pharmacology
+Lisinopril is the lysine-analog of enalapril. Unlike other ACE inhibitors, it is not a prodrug, is not metabolized by the liver, and is excreted unchanged in the urine.
+Mechanism of action
+Lisinopril is an ACE inhibitor, meaning it blocks the actions of angiotensin-converting enzyme (ACE) in the renin–angiotensin–aldosterone system (RAAS), preventing angiotensin I from being converted to angiotensin II. Angiotensin II is a potent direct vasoconstrictor and a stimulator of aldosterone release. Reduction in the amount of angiotensin II results in relaxation of the arterioles. Reduction in the amount of angiotensin II also reduces the release of aldosterone from the adrenal cortex, which allows the kidney to excrete sodium along with water into the urine, and increases retention of potassium ions. Specifically, this process occurs in the peritubular capillaries of the kidneys in response to a change in Starling forces. The inhibition of the RAAS system causes an overall decrease in blood pressure.
+Absorption
+Following oral administration of lisinopril, peak serum concentrations of lisinopril occur within about seven hours, although there was a trend to a small delay in time taken to reach peak serum concentrations in acute myocardial infarction patients. Declining serum concentrations exhibit a prolonged terminal phase, which does not contribute to drug accumulation. This terminal phase probably represents saturable binding to ACE and is not proportional to dose. Lisinopril does not appear to be bound to other serum proteins. Lisinopril does not undergo metabolism and absorbed drug is excreted unchanged entirely in the urine. Based on urinary recovery, the mean extent of absorption of lisinopril is approximately 25%, with large interpatient variability (6 to 60%) at all doses tested (5 to 80 mg). Lisinopril absorption is not affected by the presence of food in the gastrointestinal tract.
+Studies in rats indicate that lisinopril crosses the blood-brain barrier poorly. Multiple doses of lisinopril in rats do not result in accumulation in any tissues. 
+Usual  bioavailability of ~25% (reduced to 16% in people with New York Heart Association Functional Classification (NYHA) Class II–IV heart failure). Its time to peak concentration is 7 hours. The peak effect of lisinopril is about 4 to 8 hours after administration. Food does not affect its absorption.
+Distribution
+Lisinopril does not bind to proteins in the blood. It does not distribute as well in people with NYHA Class II–IV heart failure.
+Metabolism
+Lisinopril is the only water-soluble member of the ACE inhibitor class, with no metabolism by the liver.
+Elimination
+Lisinopril leaves the body completely unchanged in the urine. The half-life of lisinopril is 12 hours, and is increased in people with kidney problems. While the plasma half-life of lisinopril has been estimated between 12 and 13 hours, the elimination half-life is much longer, at around 30 hours. The full duration of action is between 24 and 30 hours.
+Chemistry
+Pure lisinopril powder is white to off white in color. Lisinopril is soluble in water (approximately 13 mg/L at room temperature), less soluble in methanol, and virtually insoluble in ethanol.
+History
+Captopril, the first ACE inhibitor, is a functional and structural analog of a peptide derived from the venom of the jararaca, a Brazilian pit viper (Bothrops jararaca). Enalapril is a derivative, designed by scientists at Merck to overcome the rash and bad taste caused by captopril.: 12–13 
+Enalapril is actually a prodrug; the active metabolite is enalaprilat.
+The di-acid metabolite of enalapril, enalaprilat, and its lysine analogue lisinopril are potent inhibitors of angiotensin converting enzyme (ACE); they do not contain sulphydryl groups. Both drugs can be assayed by high pressure liquid chromatography and by radioimmunoassay and plasma ACE inhibition remains stable under normal storage conditions. It is therefore possible to study their pharmacokinetics as well as their pharmacodynamic effects in humans. Enalaprilat and lisinopril as well as ACE activity have been measured in blood taken during the course of two studies of the effects of these drugs on blood pressure and autonomic responsiveness.
+Lisinopril is a synthetic peptide derivative of captopril. Scientists at Merck created lisinopril by systematically altering each structural unit of enalaprilat, substituting various amino acids. Adding lysine at one end of the drug turned out to have strong activity and had adequate bioavailability when given orally; analogs of that compound resulted in lisinopril, which takes its name from the discovery with lysine.  Merck conducted clinical trials, and the drug was approved for hypertension in 1987 and congestive heart failure in 1993.
+The discovery posed a problem, since sales of enalapril were strong for Merck, and the company did not want to diminish those sales. Merck ended up entering into an agreement with Zeneca under which Zeneca received the right to co-market lisinopril, and Merck received the exclusive rights to an earlier stage aldose reductase inhibitor drug candidate, a potential treatment for diabetes.  Zeneca's marketing and brand name, "Zestril", turned out to be stronger than Merck's effort. The drug became a blockbuster for AstraZeneca (formed in 1998), with annual sales in 1999 of $1.2B.
+The US patents expired in 2002. Since then, lisinopril has been available under many brand names worldwide; some formulations include the diuretic hydrochlorothiazide.
+References
+Further reading

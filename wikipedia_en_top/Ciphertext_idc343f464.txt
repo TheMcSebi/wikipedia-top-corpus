@@ -1,0 +1,23 @@
+Ciphertext
+In cryptography, ciphertext or cyphertext is the result of encryption performed on plaintext using an algorithm, called a cipher. Ciphertext is also known as encrypted or encoded information because it contains a form of the original plaintext that is unreadable by a human or computer without the proper cipher to decrypt it. This process prevents the loss of sensitive information via hacking. Decryption, the inverse of encryption, is the process of turning ciphertext into readable plaintext. Ciphertext is not to be confused with codetext because the latter is a result of a code, not a cipher.
+Conceptual underpinnings
+Let $MATH$  be the plaintext message that Alice wants to secretly transmit to Bob and let $MATH$ be the encryption cipher, where $MATH$ is a cryptographic key. Alice must first transform the plaintext into ciphertext, $MATH$, in order to securely send the message to Bob, as follows:
+In a symmetric-key system, Bob knows Alice's encryption key. Once the message is encrypted, Alice can safely transmit it to Bob (assuming no one else knows the key). In order to read Alice's message, Bob must decrypt the ciphertext using $MATH$ which is known as the decryption cipher, $MATH$
+Alternatively, in a non-symmetric key system, everyone, not just Alice and Bob, knows the encryption key; but the decryption key cannot be inferred from the encryption key. Only Bob knows the decryption key $MATH$ and decryption proceeds as
+Types of ciphers
+The history of cryptography began thousands of years ago. Cryptography uses a variety of different types of encryption. Earlier algorithms were performed by hand and are substantially different from modern algorithms, which are generally executed by a machine.
+Historical ciphers
+Historical pen and paper ciphers used in the past are sometimes known as classical ciphers. They include:
+Historical ciphers are not generally used as a standalone encryption technique because they are quite easy to crack. Many of the classical ciphers, with the exception of the one-time pad, can be cracked using brute force.
+Modern ciphers
+Modern ciphers are more secure than classical ciphers and are designed  to withstand a wide range of attacks. An attacker should not be able to find the key used in a modern cipher, even if he knows any amount of plaintext and corresponding ciphertext. Modern encryption methods can be divided into the following categories:
+In a symmetric key algorithm (e.g., DES and AES), the sender and receiver must have a shared key set up in advance and kept secret from all other parties; the sender uses this key for encryption, and the receiver uses the same key for decryption. In an asymmetric key algorithm (e.g., RSA), there are two separate keys: a public key is published and enables any sender to perform encryption, while a private key is kept secret by the receiver and enables only him to perform correct decryption.
+Symmetric key ciphers can be divided into block ciphers and stream ciphers. Block ciphers operate on fixed-length groups of bits, called blocks, with an unvarying transformation. Stream ciphers encrypt plaintext digits one at a time on a continuous stream of data and the transformation of successive digits varies during the encryption process.
+Cryptanalysis
+Cryptanalysis is the study of methods for obtaining the meaning of encrypted information, without access to the secret information that is normally required to do so. Typically, this involves knowing how the system works and finding a secret key. Cryptanalysis is also referred to as codebreaking or Password cracking cracking the code. Ciphertext is generally the easiest part of a cryptosystem to obtain and therefore is an important part of cryptanalysis. Depending on what information is available and what type of cipher is being analyzed, cryptanalysts can follow one or more attack models to crack a cipher.
+Attack models
+The ciphertext-only attack model is the weakest because it implies that the cryptanalyst has nothing but ciphertext. Modern ciphers rarely fail under this attack.
+Famous ciphertexts
+See also
+References
+Further reading

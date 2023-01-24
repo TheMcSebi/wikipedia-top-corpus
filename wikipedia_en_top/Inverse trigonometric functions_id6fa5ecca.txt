@@ -1,0 +1,140 @@
+Inverse trigonometric functions
+In mathematics, the inverse trigonometric functions (occasionally also called arcus functions, antitrigonometric functions or cyclometric functions) are the inverse functions of the trigonometric functions (with suitably restricted domains). Specifically, they are the inverses of the sine, cosine, tangent, cotangent, secant, and cosecant functions, and are used to obtain an angle from any of the angle's trigonometric ratios. Inverse trigonometric functions are widely used in engineering, navigation, physics, and geometry.
+Notation
+Several notations for the inverse trigonometric functions exist. The most common convention is to name inverse trigonometric functions using an arc- prefix: arcsin(x), arccos(x), arctan(x), etc. (This convention is used throughout this article.)  This notation arises from the following geometric relationships:
+when measuring in radians, an angle of θ radians will correspond to an arc whose length is rθ, where r is the radius of the circle. Thus in the unit circle, "the arc whose cosine is x" is the same as "the angle whose cosine is x", because the length of the arc of the circle in radii is the same as the measurement of the angle in radians. In computer programming languages, the inverse trigonometric functions are often called by the abbreviated forms asin, acos, atan.
+The notations sin−1(x), cos−1(x), tan−1(x), etc., as introduced by John Herschel in 1813, are often used as well in English-language sources, much more than the also established sin[−1](x), cos[−1](x), tan[−1](x),—conventions consistent with the notation of an inverse function, that is useful e.g. to define the multivalued version of each inverse trigonometric function: e.g. $MATH$. However, this might appear to conflict logically with the common semantics for expressions such as sin2(x) (although only sin2 x, without parentheses, is the really common one), which refer to numeric power rather than function composition, and therefore may result in confusion between multiplicative inverse or reciprocal and compositional inverse. The confusion is somewhat mitigated by the fact that each of the reciprocal trigonometric functions has its own name—for example, (cos(x))−1 = sec(x). Nevertheless, certain authors advise against using it for its ambiguity. Another precarious convention used by a tiny number of authors is to use an uppercase first letter, along with a −1 superscript: Sin−1(x), Cos−1(x), Tan−1(x), etc.  Although its intention is to avoid confusion with the multiplicative inverse, which should be represented by sin−1(x), cos−1(x), etc., or, better, by sin−1 x, cos−1 x, etc., it in turn creates yet another major source of ambiguity: especially in light of the fact that many popular high-level programming languages (e.g. Wolfram's Mathematica, and University of Sydney's MAGMA) use those very same capitalised representations for the standard trig functions; whereas others (Python (ie SymPy and NumPy), Matlab, MAPLE etc) use lower-case. 
+Hence, since 2009, the ISO 80000-2 standard has specified solely the "arc" prefix for the inverse functions.
+Basic concepts
+Principal values
+Since none of the six trigonometric functions are one-to-one, they must be restricted in order to have inverse functions. Therefore, the result ranges of the inverse functions are proper (i.e. strict) subsets of the domains of the original functions.
+For example, using function in the sense of multivalued functions, just as the square root function $MATH$ could be defined from $MATH$ the function $MATH$ is defined so that $MATH$ For a given real number $MATH$ with $MATH$ there are multiple (in fact, countably infinitely many) numbers $MATH$ such that $MATH$; for example, $MATH$ but also $MATH$ $MATH$ etc. When only one value is desired, the function may be restricted to its principal branch. With this restriction, for each $MATH$ in the domain, the expression $MATH$ will evaluate only to a single value, called its principal value. These properties apply to all the inverse trigonometric functions.
+The principal inverses are listed in the following table.
+Note: Some authors  define the range of arcsecant to be $MATH$, because the tangent function is nonnegative on this domain. This makes some computations more consistent. For example, using this range, $MATH$ whereas with the range $MATH$, we would have to write $MATH$ since tangent is nonnegative on $MATH$ but nonpositive on $MATH$ For a similar reason, the same authors define the range of arccosecant to be $MATH$ or $MATH$
+If $MATH$ is allowed to be a complex number, then the range of $MATH$ applies only to its real part.
+The table below displays names and domains of the inverse trigonometric functions along with the range of their usual principal values in radians.
+The symbol $MATH$ denotes the set of all real numbers and $MATH$ denotes the set of all integers. The set of all integer multiples of $MATH$ is denoted by
+The symbol $MATH$ denotes set subtraction so that, for instance, $MATH$ is the set of points in $MATH$ (that is, real numbers) that are not in the interval $MATH$
+The Minkowski sum notation $MATH$ and $MATH$ that is used above to concisely write the domains of $MATH$ is now explained.
+Domain of cotangent $MATH$ and cosecant $MATH$: 
+The domains of $MATH$ and $MATH$ are the same. They are the set of all angles $MATH$ at which $MATH$ i.e. all real numbers that are not of the form $MATH$ for some integer $MATH$
+Domain of tangent $MATH$ and secant $MATH$: 
+The domains of $MATH$ and $MATH$ are the same. They are the set of all angles $MATH$ at which $MATH$
+Solutions to elementary trigonometric equations
+Each of the trigonometric functions is periodic in the real part of its argument, running through all its values twice in each interval of $MATH$:
+This periodicity is reflected in the general inverses, where $MATH$ is some integer.
+The following table shows how inverse trigonometric functions may be used to solve equalities involving the six standard trigonometric functions. 
+It is assumed that the given values $MATH$ $MATH$ $MATH$ $MATH$ and $MATH$ all lie within appropriate ranges so that the relevant expressions below are well-defined. 
+Note that "for some $MATH$" is just another way of saying "for some integer $MATH$"
+The symbol $MATH$ is logical equality.  The expression "LHS $MATH$ RHS" indicates that either (a) the left hand side (i.e. LHS) and right hand side (i.e. RHS) are both true, or else (b) the left hand side and right hand side are both false; there is no option (c) (e.g. it is not possible for the LHS statement to be true and also simultaneously for the RHS statement to false), because otherwise "LHS $MATH$ RHS" would not have been written (see this footnote for an example illustrating this concept).
+For example, if $MATH$ then $MATH$ for some $MATH$ While if $MATH$ then $MATH$ for some $MATH$ where $MATH$ will be even if $MATH$ and it will be odd if $MATH$ The equations $MATH$ and $MATH$ have the same solutions as $MATH$ and $MATH$ respectively. In all equations above except for those just solved (i.e. except for $MATH$/$MATH$ and $MATH$/$MATH$), the integer $MATH$ in the solution's formula is uniquely determined by $MATH$ (for fixed $MATH$ and $MATH$). 
+The solutions to $MATH$ and $MATH$ involve the "plus or minus" symbol $MATH$ whose meaning is now clarified. Only the solution to $MATH$ will be discussed since the discussion for $MATH$ is the same. 
+We are given $MATH$ between $MATH$ and we know that there is an angle $MATH$ in some interval that satisfies $MATH$ We want to find this $MATH$ The table above indicates that the solution is 
+which is a shorthand way of saying that (at least) one of the following statement is true: 
+As mentioned above, if $MATH$ (which by definition only happens when $MATH$) then both statements (1) and (2) hold, although with different values for the integer $MATH$: if $MATH$ is the integer from statement (1), meaning that $MATH$ holds, then the integer $MATH$ for statement (2) is $MATH$ (because $MATH$). 
+However, if $MATH$ then the integer $MATH$ is unique and completely determined by $MATH$ 
+If $MATH$  (which by definition only happens when $MATH$) then $MATH$ (because $MATH$ and $MATH$ so in both cases $MATH$ is equal to $MATH$) and so the statements (1) and (2) happen to be identical in this particular case (and so both hold). 
+Having considered the cases $MATH$ and $MATH$ we now focus on the case where $MATH$ and $MATH$ So assume this from now on. The solution to $MATH$ is still
+which as before is shorthand for saying that one of statements (1) and (2) is true. However this time, because $MATH$ and $MATH$ statements (1) and (2) are different and furthermore, exactly one of the two equalities holds (not both). Additional information about $MATH$ is needed to determine which one holds. For example, suppose that $MATH$ and that all that is known about $MATH$ is that $MATH$ (and nothing more is known). Then 
+and moreover, in this particular case $MATH$ (for both the $MATH$ case and the $MATH$ case) and so consequently,
+This means that $MATH$ could be either $MATH$ or $MATH$ Without additional information it is not possible to determine which of these values $MATH$ has. 
+An example of some additional information that could determine the value of $MATH$ would be knowing that the angle is above the $MATH$-axis (in which case $MATH$) or alternatively, knowing that it is below the $MATH$-axis (in which case $MATH$). 
+Transforming equations
+The equations above can be transformed by using the reflection and shift identities:
+These formulas imply, in particular, that the following hold:
+where swapping $MATH$ swapping $MATH$ and swapping $MATH$ gives the analogous equations for $MATH$ respectively.
+So for example, by using the equality $MATH$ the equation $MATH$ can be transformed into $MATH$ which allows for the solution to the equation $MATH$ (where $MATH$ :={\frac {\pi }{2}}-\theta }
+  
+) to be used; that solution being: 
+$MATH$
+which becomes:
+where using the fact that $MATH$ and substituting $MATH$ proves that another solution to $MATH$ is:
+The substitution $MATH$ may be used express the right hand side of the above formula in terms of $MATH$ instead of $MATH$
+Equal identical trigonometric functions
+The table below shows how two angles $MATH$ and $MATH$ must be related if their values under a given trigonometric function are equal or negatives of each other.
+Relationships between trigonometric functions and inverse trigonometric functions
+Trigonometric functions of inverse trigonometric functions are tabulated below. A quick way to derive them is by considering the geometry of a right-angled triangle, with one side of length 1 and another side of length $MATH$ then applying the Pythagorean theorem and definitions of the trigonometric ratios. Purely algebraic derivations are longer. It is worth noting that for arcsecant and arccosecant, the diagram assumes that $MATH$ is positive, and thus the result has to be corrected through the use of absolute values and the signum (sgn) operation.
+Relationships among the inverse trigonometric functions
+Complementary angles:
+Negative arguments:
+Reciprocal arguments:
+Useful identities if one only has a fragment of a sine table:
+Whenever the square root of a complex number is used here, we choose the root with the positive real part (or positive imaginary part if the square was negative real).
+A useful form that follows directly from the table above is
+It is obtained by recognizing that $MATH$.
+From the half-angle formula, $MATH$, we get:
+Arctangent addition formula
+This is derived from the tangent addition formula
+by letting
+In calculus
+Derivatives of inverse trigonometric functions
+The derivatives for complex values of z are as follows:
+Only for real values of x:
+For a sample derivation: if $MATH$, we get:
+Expression as definite integrals
+Integrating the derivative and fixing the value at one point gives an expression for the inverse trigonometric function as a definite integral:
+When x equals 1, the integrals with limited domains are improper integrals, but still well-defined.
+Infinite series
+Similar to the sine and cosine functions, the inverse trigonometric functions can also be calculated using power series, as follows. For arcsine, the series can be derived by expanding its derivative, $MATH$, as a binomial series, and integrating term by term (using the integral definition as above). The series for arctangent can similarly be derived by expanding its derivative $MATH$ in a geometric series, and applying the integral definition above (see Leibniz series).
+Series for the other inverse trigonometric functions can be given in terms of these according to the relationships given above.  For example, $MATH$, $MATH$, and so on.  Another series is given by:
+Leonhard Euler found a series for the arctangent that converges more quickly than its Taylor series:
+(The term in the sum for n = 0 is the empty product, so is 1.)
+Alternatively, this can be expressed as
+Another series for the arctangent function is given by
+where $MATH$ is the imaginary unit.
+Continued fractions for arctangent
+Two alternatives to the power series for arctangent are these generalized continued fractions:
+The second of these is valid in the cut complex plane. There are two cuts, from −i to the point at infinity, going down the imaginary axis, and from i to the point at infinity, going up the same axis. It works best for real numbers running from −1 to 1. The partial denominators are the odd natural numbers, and the partial numerators (after the first) are just (nz)2, with each perfect square appearing once. The first was developed by Leonhard Euler; the second by Carl Friedrich Gauss utilizing the Gaussian hypergeometric series.
+Indefinite integrals of inverse trigonometric functions
+For real and complex values of z:
+For real x ≥ 1:
+For all real x not between -1 and 1:
+The absolute value is necessary to compensate for both negative and positive values of the arcsecant and arccosecant functions. The signum function is also necessary due to the absolute values in the derivatives of the two functions, which create two different solutions for positive and negative values of x. These can be further simplified using the logarithmic definitions of the inverse hyperbolic functions:
+The absolute value in the argument of the arcosh function creates a negative half of its graph, making it identical to the signum logarithmic function shown above.
+All of these antiderivatives can be derived using integration by parts and the simple derivative forms shown above.
+Example
+Using $MATH$ (i.e. integration by parts), set
+Then
+which by the simple substitution $MATH$ yields the final result:
+Extension to complex plane
+Since the inverse trigonometric functions are analytic functions, they can be extended from the real line to the complex plane. This results in functions with multiple sheets and branch points. One possible way of defining the extension is:
+where the part of the imaginary axis which does not lie strictly between the branch points (−i and +i) is the branch cut between the principal sheet and other sheets. The path of the integral must not cross a branch cut. For z not on a branch cut, a straight line path from 0 to z is such a path. For z on a branch cut, the path must approach from Re[x] > 0 for the upper branch cut and from Re[x] < 0 for the lower branch cut.
+The arcsine function may then be defined as:
+where (the square-root function has its cut along the negative real axis and) the part of the real axis which does not lie strictly between −1 and +1 is the branch cut between the principal sheet of arcsin and other sheets;
+which has the same cut as arcsin;
+which has the same cut as arctan;
+where the part of the real axis between −1 and +1 inclusive is the cut between the principal sheet of arcsec and other sheets;
+which has the same cut as arcsec.
+Logarithmic forms
+These functions may also be expressed using complex logarithms. This extends their domains to the complex plane in a natural fashion. The following identities for principal values of the functions hold everywhere that they are defined, even on their branch cuts.
+Generalization
+Because all of the inverse trigonometric functions output an angle of a right triangle, they can be generalized by using Euler's formula to form a right triangle in the complex plane. Algebraically, this gives us:
+or
+where $MATH$ is the adjacent side, $MATH$ is the opposite side, and $MATH$ is the hypotenuse. From here, we can solve for $MATH$.
+or
+Simply taking the imaginary part works for any real-valued $MATH$ and $MATH$, but if $MATH$ or $MATH$ is complex-valued, we have to use the final equation so that the real part of the result isn't excluded. Since the length of the hypotenuse doesn't change the angle, ignoring the real part of $MATH$ also removes $MATH$ from the equation. In the final equation, we see that the angle of the triangle in the complex plane can be found by inputting the lengths of each side. By setting one of the three sides equal to 1 and one of the remaining sides equal to our input $MATH$, we obtain a formula for one of the inverse trig functions, for a total of six equations. Because the inverse trig functions require only one input, we must put the final side of the triangle in terms of the other two using the Pythagorean Theorem relation
+The table below shows the values of a, b, and c for each of the inverse trig functions and the equivalent expressions for $MATH$ that result from plugging the values into the equations above and simplifying.
+In order to match the principal branch of the natural log and square root functions to the  usual principal branch of the inverse trig functions, the particular form of the simplified formulation matters. The formulations given in the two rightmost columns assume $MATH$ and $MATH$. To match the principal branch $MATH$ and $MATH$ to the usual principal branch of the inverse trig functions, subtract $MATH$ from the result $MATH$ when $MATH$.
+In this sense, all of the inverse trig functions can be thought of as specific cases of the complex-valued log function. Since these definition work for any complex-valued $MATH$, the definitions allow for hyperbolic angles as outputs and can be used to further define the inverse hyperbolic functions. Elementary proofs of the relations may also proceed via expansion to exponential forms of the trigonometric functions.
+Example proof
+Using the exponential definition of sine, and letting $MATH$
+(the positive branch is chosen)
+Applications
+Finding the angle of a right triangle
+Inverse trigonometric functions are useful when trying to determine the remaining two angles of a right triangle when the lengths of the sides of the triangle are known. Recalling the right-triangle definitions of sine and cosine, it follows that
+Often, the hypotenuse is unknown and would need to be calculated before using arcsine or arccosine using the Pythagorean Theorem: $MATH$ where $MATH$ is the length of the hypotenuse. Arctangent comes in handy in this situation, as the length of the hypotenuse is not needed.
+For example, suppose a roof drops 8 feet as it runs out 20 feet. The roof makes an angle θ with the horizontal, where θ may be computed as follows:
+Two-argument variant of arctangent
+The two-argument atan2 function computes the arctangent of y / x given y and x, but with a range of (−π, π]. In other words, atan2(y, x) is the angle between the positive x-axis of a plane and  the point (x, y) on it, with positive sign for counter-clockwise angles (upper half-plane, y > 0), and negative sign for clockwise angles (lower half-plane, y < 0). It was first introduced in many computer programming languages, but it is now also common in other fields of science and engineering.
+In terms of the standard arctan function, that is with range of (−π/2, π/2), it can be expressed as follows:
+It also equals the principal value of the argument of the complex number x + iy.
+This limited version of the function above may also be defined using the tangent half-angle formulae as follows:
+provided that either x > 0 or y ≠ 0. However this fails if given x ≤ 0 and y = 0 so the expression is unsuitable for computational use.
+The above argument order (y, x) seems to be the most common, and in particular is used in ISO standards such as the C programming language, but a few authors may use the opposite convention (x, y) so some caution is warranted.  These variations are detailed at atan2.
+Arctangent function with location parameter
+In many applications the solution $MATH$ of the equation $MATH$ is to come as close as possible to a given value $MATH$. The adequate solution is produced by the parameter modified arctangent function 
+The function $MATH$ rounds to the nearest integer.
+Numerical accuracy
+For angles near 0 and π, arccosine is ill-conditioned and will thus calculate the angle with reduced accuracy in a computer implementation (due to the limited number of digits). Similarly, arcsine is inaccurate for angles near −π/2 and π/2.
+See also
+Notes

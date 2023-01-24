@@ -1,0 +1,27 @@
+Irradiance
+In radiometry, irradiance is the radiant flux received by a surface per unit area.  The SI unit of irradiance is the watt per square metre (W⋅m−2). The CGS unit erg per square centimetre per second (erg⋅cm−2⋅s−1) is often used in astronomy. Irradiance is often called intensity, but this term is avoided in radiometry where such usage leads to confusion with radiant intensity. In astrophysics, irradiance is called radiant flux.
+Spectral irradiance is the irradiance of a surface per unit frequency or wavelength, depending on whether the spectrum is taken as a function of frequency or of wavelength. The two forms have different dimensions and units: spectral irradiance of a frequency spectrum is measured in watts per square metre per hertz (W⋅m−2⋅Hz−1), while spectral irradiance of a wavelength spectrum is measured in watts per square metre per metre (W⋅m−3), or more commonly watts per square metre per nanometre (W⋅m−2⋅nm−1).
+Mathematical definitions
+Irradiance
+Irradiance of a surface, denoted Ee ("e" for "energetic", to avoid confusion with photometric quantities), is defined as
+where
+If we want to talk about the radiant flux emitted by a surface, we speak of radiant exitance.
+Spectral irradiance
+Spectral irradiance in frequency of a surface, denoted Ee,ν, is defined as
+where ν is the frequency.
+Spectral irradiance in wavelength of a surface, denoted Ee,λ, is defined as
+where λ is the wavelength.
+Property
+Irradiance of a surface is also, according to the definition of radiant flux, equal to the time-average of the component of the Poynting vector perpendicular to the surface:
+where
+For a propagating sinusoidal linearly polarized electromagnetic plane wave, the Poynting vector always points to the direction of propagation while oscillating in magnitude. The irradiance of a surface is then given by
+where
+This formula assumes that the magnetic susceptibility is negligible, i.e. that μr ≈ 1 where μr is the magnetic permeability of the propagation medium. This assumption is typically valid in transparent media in the optical frequency range.
+Point source
+A point source of light produces spherical wavefronts. The irradiance in this case varies inversely with the square of the distance from the source.
+where
+For quick approximations, this equation indicates that doubling the distance reduces irradiation to one quarter; or similarly, to double irradiation, reduce the distance to 0.7. When it is not a point source, for real light sources, the irradiance profile may be obtained by the image convolution of a picture of the light source.
+Solar irradiance
+The global irradiance on a horizontal surface on Earth consists of the direct irradiance Ee,dir and diffuse irradiance Ee,diff. On a tilted plane, there is another irradiance component, Ee,refl, which is the component that is reflected from the ground. The average ground reflection is about 20% of the global irradiance. Hence, the irradiance Ee on a tilted plane consists of three components:
+The integral of solar irradiance over a time period is called "solar exposure" or "insolation".
+SI radiometry units

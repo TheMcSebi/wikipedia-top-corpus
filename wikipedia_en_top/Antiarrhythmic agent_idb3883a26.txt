@@ -1,0 +1,32 @@
+Antiarrhythmic agent
+Antiarrhythmic agents, also known as cardiac dysrhythmia medications, are a group of pharmaceuticals that are used to suppress abnormally fast rhythms (tachycardias), such as atrial fibrillation, supraventricular tachycardia and ventricular tachycardia.
+Many attempts have been made to classify antiarrhythmic agents. Many of the antiarrhythmic agents have multiple modes of action, which makes any classification imprecise.
+Vaughan Williams classification
+The Vaughan Williams classification was introduced in 1970 by Miles Vaughan Williams.
+Vaughan Williams was a pharmacology tutor at Hertford College, Oxford. One of his students, Bramah N. Singh, contributed to the development of the classification system. The system is therefore sometimes known as the Singh-Vaughan Williams classification.
+The five main classes in the Vaughan Williams classification of antiarrhythmic agents are:
+With regard to management of atrial fibrillation, classes I and III are used in rhythm control as medical cardioversion agents, while classes II and IV are used as rate-control agents.
+Class I agents
+The class I antiarrhythmic agents interfere with the sodium channel.
+Class I agents are grouped by what effect they have on the Na+ channel, and what effect they have on cardiac action potentials.
+Class I agents are called membrane-stabilizing agents, "stabilizing" referring to the decrease of excitogenicity of the plasma membrane which is brought about by these agents. (Also noteworthy is that a few class II agents like propranolol also have a membrane stabilizing effect.)
+Class I agents are divided into three groups (Ia, Ib, and Ic) based upon their effect on the length of the action potential.
+Class II agents
+Class II agents are conventional beta blockers. They act by blocking the effects of catecholamines at the β1-adrenergic receptors, thereby decreasing sympathetic activity on the heart, which reduces intracellular cAMP levels and hence reduces Ca2+ influx. These agents are particularly useful in the treatment of supraventricular tachycardias. They decrease conduction through the AV node.
+Class II agents include atenolol, esmolol, propranolol, and metoprolol.
+Class III agents
+Class III agents predominantly block the potassium channels, thereby prolonging repolarization. Since these agents do not affect the sodium channel, conduction velocity is not decreased. The prolongation of the action potential duration and refractory period, combined with the maintenance of normal conduction velocity, prevent re-entrant arrhythmias. (The re-entrant rhythm is less likely to interact with tissue that has become refractory). The class III agents exhibit reverse-use dependence (their potency increases with slower heart rates, and therefore improves maintenance of sinus rhythm). Inhibiting potassium channels results in slowed atrial-ventricular myocyte repolarization. Class III agents have the potential to prolong the QT interval of the EKG, and may be proarrhythmic (more associated with development of polymorphic VT).
+Class III agents include: bretylium, amiodarone, ibutilide, sotalol, dofetilide, vernakalant, and dronedarone.
+Class IV agents
+Class IV agents are slow non-dihydropyridine calcium channel blockers. They decrease conduction through the AV node, and shorten phase two (the plateau) of the cardiac action potential. They thus reduce the contractility of the heart, so may be inappropriate in heart failure. However, in contrast to beta blockers, they allow the body to retain adrenergic control of heart rate and contractility.
+Class IV agents include verapamil and diltiazem.
+Class V and others
+Since the development of the original Vaughan Williams classification system, additional agents have been used that do not fit cleanly into categories I through IV. Such agents include:
+History
+The initial classification system had 4 classes, although their definitions different from the modern classification. Those proposed in 1970 were:
+Sicilian gambit classification
+Another approach, known as the "Sicilian gambit", placed a greater approach on the underlying mechanism.
+It presents the drugs on two axes, instead of one, and is presented in tabular form. On the Y axis, each drug is listed, in roughly the Singh-Vaughan Williams order. On the X axis, the channels, receptors, pumps, and clinical effects are listed for each drug, with the results listed in a grid. It is, therefore, not a true classification in that it does not aggregate drugs into categories.
+Modernized Oxford classification by Lei, Huang, Wu, and Terrar
+A recent publication (2018) has now emerged with a fully modernised drug classification. This preserves the simplicity of the original Vaughan Williams framework while capturing subsequent discoveries of sarcolemmal, sarcoplasmic reticular and cytosolic biomolecules. The result is an expanded but pragmatic classification that encompasses approved and potential anti-arrhythmic drugs. This will aid our understanding and clinical management of cardiac arrhythmias and facilitate future therapeutic developments. It starts by considering the range of pharmacological targets, and tracks these to their particular cellular electrophysiological effects. It retains but expands the original Vaughan Williams classes I to IV, respectively covering actions on Na+ current components, autonomic signalling, K+ channel subspecies, and molecular targets related to Ca2+ homeostasis. It now introduces new classes incorporating additional targets, including:
+It also allows for multiple drug targets/actions and adverse pro-arrhythmic effects. The new scheme will additionally aid development of novel drugs under development and is illustrated here.

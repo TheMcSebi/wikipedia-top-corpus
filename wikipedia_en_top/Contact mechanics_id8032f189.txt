@@ -1,0 +1,182 @@
+Contact mechanics
+Contact mechanics is the study of the deformation of solids that touch each other at one or more points. A central distinction in contact mechanics is between stresses acting perpendicular to the contacting bodies' surfaces (known as normal stress) and frictional stresses acting tangentially between the surfaces (shear stress). Normal contact mechanics or frictionless contact mechanics focuses on normal stresses caused by applied normal forces and by the adhesion present on surfaces in close contact, even if they are clean and dry.
+Frictional contact mechanics emphasizes the effect of friction forces.
+Contact mechanics is part of mechanical engineering.  The physical and mathematical formulation of the subject is built upon the mechanics of materials and continuum mechanics and focuses on computations involving elastic, viscoelastic, and plastic bodies in static or dynamic contact. Contact mechanics provides necessary information for the safe and energy efficient design of technical systems and for the study of tribology, contact stiffness, electrical contact resistance and indentation hardness. Principles of contacts mechanics are implemented towards applications such as locomotive wheel-rail contact, coupling devices, braking systems, tires, bearings, combustion engines, mechanical linkages, gasket seals, metalworking, metal forming, ultrasonic welding, electrical contacts, and many others. Current challenges faced in the field may include stress analysis of contact and coupling members and the influence of lubrication and material design on friction and wear. Applications of contact mechanics further extend into the micro- and nanotechnological realm.
+The original work in contact mechanics dates back to 1881 with the publication of the paper "On the contact of elastic solids" ("Ueber die Berührung fester elastischer Körper") by Heinrich Hertz. Hertz was attempting to understand how the optical properties of multiple, stacked lenses might change with the force holding them together. Hertzian contact stress refers to the localized stresses that develop as two curved surfaces come in contact and deform slightly under the imposed loads. This amount of deformation is dependent on the modulus of elasticity of the material in contact. It gives the contact stress as a function of the normal contact force, the radii of curvature of both bodies and the modulus of elasticity of both bodies. Hertzian contact stress forms the foundation for the equations for load bearing capabilities and fatigue life in bearings, gears, and any other bodies where two surfaces are in contact.
+History
+Classical contact mechanics is most notably associated with Heinrich Hertz. In 1882, Hertz solved the contact problem of two elastic bodies with curved surfaces. This still-relevant classical solution provides a foundation for modern problems in contact mechanics. For example, in mechanical engineering and tribology, Hertzian contact stress is a description of the stress within mating parts. The Hertzian contact stress usually refers to the stress close to the area of contact between two spheres of different radii.
+It was not until nearly one hundred years later that Johnson, Kendall, and Roberts found a similar solution for the case of adhesive contact.  This theory was rejected by Boris Derjaguin and co-workers who proposed a different theory of adhesion in the 1970s. The Derjaguin model came to be known as the DMT (after Derjaguin, Muller and Toporov) model, and the Johnson et al. model came to be known as the JKR (after Johnson, Kendall and Roberts) model for adhesive elastic contact. This rejection proved to be instrumental in the development of the Tabor and later Maugis parameters that quantify which contact model (of the JKR and DMT models) represent adhesive contact better for specific materials.
+Further advancement in the field of contact mechanics in the mid-twentieth century may be attributed to names such as Bowden and Tabor. Bowden and Tabor were the first to emphasize the importance of surface roughness for bodies in contact. Through investigation of the surface roughness, the true contact area between friction partners is found to be less than the apparent contact area. Such understanding also drastically changed the direction of undertakings in tribology. The works of Bowden and Tabor yielded several theories in contact mechanics of rough surfaces.
+The contributions of Archard (1957) must also be mentioned in discussion of pioneering works in this field. Archard concluded that, even for rough elastic surfaces, the contact area is approximately proportional to the normal force. Further important insights along these lines were provided by Greenwood and Williamson (1966), Bush (1975), and Persson (2002). The main findings of these works were that the true contact surface in rough materials is generally proportional to the normal force, while the parameters of individual micro-contacts (i.e., pressure, size of the micro-contact) are only weakly dependent upon the load.
+Classical solutions for non-adhesive elastic contact
+The theory of contact between elastic bodies can be used to find contact areas and indentation depths for simple geometries.  Some commonly used solutions are listed below.  The theory used to compute these solutions is discussed later in the article. Solutions for multitude of other technically relevant shapes, e.g. the truncated cone, the worn sphere, rough profiles, hollow cylinders, etc. can be found in 
+Contact between a sphere and a half-space
+An elastic sphere of radius $MATH$ indents an elastic half-space where total deformation is $MATH$, causing a contact area of radius 
+The applied force $MATH$ is related to the displacement $MATH$ by 
+where
+and $MATH$,$MATH$ are the elastic moduli and $MATH$,$MATH$ the Poisson's ratios associated with each body.
+The distribution of normal pressure in the contact area as a function of distance from the center of the circle is
+where $MATH$ is the maximum contact pressure given by
+The radius of the circle is related to the applied load $MATH$ by the equation
+The total deformation $MATH$ is related to the maximum contact pressure by
+The maximum shear stress occurs in the interior at $MATH$ for $MATH$.
+Contact between two spheres
+For contact between two spheres of radii $MATH$ and $MATH$, the area of contact is a circle of radius $MATH$. The equations are the same as for a sphere in contact with a half plane except that the effective radius $MATH$ is defined as 
+Contact between two crossed cylinders of equal radius
+This is equivalent to contact between a sphere of radius $MATH$ and a plane.
+Contact between a rigid cylinder with flat end and an elastic half-space
+If a rigid cylinder is pressed into an elastic half-space, it creates a pressure distribution described by
+where $MATH$ is the radius of the cylinder and
+The relationship between the indentation depth and the normal force is given by
+Contact between a rigid conical indenter and an elastic half-space
+In the case of indentation of an elastic half-space of Young's modulus $MATH$ using a rigid conical indenter, the depth of the contact region $MATH$ and contact radius $MATH$ are related by
+with $MATH$ defined as the angle between the plane and the side surface of the cone.  The total indentation depth $MATH$ is given by:
+The total force is
+The pressure distribution is given by
+The stress has a logarithmic singularity at the tip of the cone.
+Contact between two cylinders with parallel axes
+In contact between two cylinders with parallel axes, the force is linearly proportional to the length of cylinders L and to the indentation depth d:
+The radii of curvature are entirely absent from this relationship. The contact radius is described through the usual relationship
+with
+as in contact between two spheres. The maximum pressure is equal to
+Bearing contact
+The contact in the case of bearings is often a contact between a convex surface (male cylinder or sphere) and a concave surface (female cylinder or sphere: bore or hemispherical cup).
+The Method of Dimensionality Reduction
+Some contact problems can be solved with the Method of Dimensionality Reduction (MDR). In this method, the initial three-dimensional system is replaced with a contact of a body with a linear elastic or viscoelastic foundation (see fig.). The properties of one-dimensional systems coincide exactly with those of the original three-dimensional system, if the form of the bodies is modified and the elements of the foundation are defined according to the rules of the MDR. MDR is based on the solution to axisymmetric contact problems first obtained by Ludwig Föppl (1941) and Gerhard Schubert (1942)
+However, for exact analytical results, it is required that the contact problem is axisymmetric and the contacts are compact.
+Hertzian theory of non-adhesive elastic contact
+The classical theory of contact focused primarily on non-adhesive contact where no tension force is allowed to occur within the contact area, i.e., contacting bodies can be separated without adhesion forces.  Several analytical and numerical approaches have been used to solve contact problems that satisfy the no-adhesion condition.  Complex forces and moments are transmitted between the bodies where they touch, so problems in contact mechanics can become quite sophisticated.  In addition, the contact stresses are usually a nonlinear function of the deformation.  To simplify the solution procedure, a frame of reference is usually defined in which the objects (possibly in motion relative to one another) are static. They interact through surface tractions (or pressures/stresses) at their interface.
+As an example, consider two objects which meet at some surface $MATH$ in the ($MATH$,$MATH$)-plane with the $MATH$-axis assumed normal to the surface. One of the bodies will experience a normally-directed pressure distribution $MATH$ and in-plane surface traction distributions $MATH$ and $MATH$ over the region $MATH$. In terms of a Newtonian force balance, the forces:
+must be equal and opposite to the forces established in the other body. The moments corresponding to these forces:
+are also required to cancel between bodies so that they are kinematically immobile.
+Assumptions in Hertzian theory
+The following assumptions are made in determining the solutions of Hertzian contact problems:
+Additional complications arise when some or all these assumptions are violated and such contact problems are usually called non-Hertzian.
+Analytical solution techniques
+Analytical solution methods for non-adhesive contact problem can be classified into two types based on the geometry of the area of contact.  A conforming contact is one in which the two bodies touch at multiple points before any deformation takes place (i.e., they just "fit together").  A non-conforming contact is one in which the shapes of the bodies are dissimilar enough that, under zero load, they only touch at a point (or possibly along a line). In the non-conforming case, the contact area is small compared to the sizes of the objects and the stresses are highly concentrated in this area. Such a contact is called concentrated, otherwise it is called diversified.
+A common approach in linear elasticity is to superpose a number of solutions each of which corresponds to a point load acting over the area of contact.  For example, in the case of loading of a half-plane, the Flamant solution is often used as a starting point and then generalized to various shapes of the area of contact.  The force and moment balances between the two bodies in contact act as additional constraints to the solution.
+Point contact on a (2D) half-plane
+A starting point for solving contact problems is to understand the effect of a "point-load" applied to an isotropic, homogeneous, and linear elastic half-plane, shown in the figure to the right. The problem may be either plane stress or plane strain. This is a boundary value problem of linear elasticity subject to the traction boundary conditions:
+where $MATH$ is the Dirac delta function.  The boundary conditions state that there are no shear stresses on the surface and a singular normal force P is applied at (0, 0). Applying these conditions to the governing equations of elasticity produces the result
+for some point, $MATH$, in the half-plane. The circle shown in the figure indicates a surface on which the maximum shear stress is constant. From this stress field, the strain components and thus the displacements of all material points may be determined.
+Normal loading over a region
+Suppose, rather than a point load $MATH$, a distributed load $MATH$ is applied to the surface instead, over the range $MATH$. The principle of linear superposition can be applied to determine the resulting stress field as the solution to the integral equations:
+Shear loading over a region
+The same principle applies for loading on the surface in the plane of the surface. These kinds of tractions would tend to arise as a result of friction. The solution is similar the above (for both singular loads $MATH$ and distributed loads $MATH$) but altered slightly:
+These results may themselves be superposed onto those given above for normal loading to deal with more complex loads.
+Point contact on a (3D) half-space
+Analogously to the Flamant solution for the 2D half-plane, fundamental solutions are known for the linearly elastic 3D half-space as well. These were found by Boussinesq for a concentrated normal load and by Cerruti for a tangential load. See the section on this in Linear elasticity.
+Numerical solution techniques
+Distinctions between conforming and non-conforming contact do not have to be made when numerical solution schemes are employed to solve contact problems. These methods do not rely on further assumptions within the solution process since they base solely on the general formulation of the underlying equations. Besides the standard equations describing the deformation and motion of bodies two additional inequalities can be formulated. The first simply restricts the motion and deformation of the bodies by the assumption that no penetration can occur. Hence the gap $MATH$ between two bodies can only be positive or zero
+where $MATH$ denotes contact. The second assumption in contact mechanics is related to the fact, that no tension force is allowed to occur within the contact area (contacting bodies can be lifted up without adhesion forces). This leads to an inequality which the stresses have to obey at the contact interface. It is formulated for the normal stress $MATH$.
+At locations where there is contact between the surfaces the gap is zero, i.e. $MATH$, and there the normal stress is different than zero, indeed, $MATH$. At locations where the surfaces are not in contact the normal stress is identical to zero; $MATH$, while the gap is positive; i.e., $MATH$. This type of complementarity formulation can be expressed in the so-called Kuhn–Tucker form, viz.
+
+
+These conditions are valid in a general way. The mathematical formulation of the gap depends upon the kinematics of the underlying theory of the solid (e.g., linear or nonlinear solid in two- or three dimensions, beam or shell model). By restating the normal stress $MATH$ in terms of the contact pressure, $MATH$; i.e., $MATH$ the Kuhn-Tucker problem can be restated as in standard complementarity form i.e. 
+ In the linear elastic case the gap can be formulated as 
+ where $MATH$is the rigid body separation, $MATH$ is the geometry/topography of the contact (cylinder and roughness) and $MATH$ is the elastic deformation/deflection. If the contacting bodies are approximated as linear elastic half spaces, the Boussinesq-Cerruti integral equation solution can be applied to express the deformation ($MATH$) as a function of the contact pressure ($MATH$); i.e.,
+ where 
+for line loading of an elastic half space and 
+ for point loading of an elastic half-space.
+After discretization the linear elastic contact mechanics problem can be stated in standard Linear Complementarity Problem (LCP) form.
+where $MATH$ is a matrix, whose elements are so called influence coefficients relating the contact pressure and the deformation. The strict LCP formulation of the CM problem presented above, allows for direct application of well-established numerical solution techniques such as Lemke's pivoting algorithm. The Lemke algorithm has the advantage that it finds the numerically exact solution within a finite number of iterations. The MATLAB implementation presented by Almqvist et al. is one example that can be employed to solve the problem numerically. In addition, an example code for an LCP solution of a 2D linear elastic contact mechanics problem has also been made public at MATLAB file exchange by Almqvist et al.
+Contact between rough surfaces
+When two bodies with rough surfaces are pressed against each other, the true contact area formed between the two bodies, $MATH$, is much smaller than the apparent or nominal contact area $MATH$. The mechanics of contacting rough surfaces are discussed in terms of normal contact mechanics and static frictional interactions. Natural and engineering surfaces typically exhibit roughness features, known as asperities, across a broad range of length scales down to the molecular level, with surface structures exhibiting self affinity, also known as surface fractality. It is recognized that the self affine structure of surfaces is the origin of the linear scaling of true contact area with applied pressure. Assuming a model of shearing welded contacts in tribological interactions, this ubiquitously observed linearity between contact area and pressure can also be considered the origin of the  linearity of the relationship between static friction and applied normal force.
+In contact between a "random rough" surface and an elastic half-space, the true contact area is related to the normal force $MATH$ by
+with  $MATH$  equal to the root mean square (also known as the quadratic mean) of the surface slope and $MATH$ . The median pressure in the true contact surface
+can be reasonably estimated as half of the effective elastic modulus $MATH$ multiplied with the root mean square of the surface slope $MATH$ .
+An overview of the GW model
+Greenwood and Williamson in 1966 (GW) proposed a theory of elastic contact mechanics of rough surfaces which is today the foundation of many theories in tribology (friction, adhesion, thermal and electrical conductance, wear, etc.). They considered the contact between a smooth rigid plane and a nominally flat deformable rough surface covered with round tip asperities of the same radius R. Their theory assumes that the deformation of each asperity is independent of that of its neighbours and is described by the Hertz model. The heights of asperities have a random distribution. The probability that asperity height is between $MATH$ and $MATH$ is  $MATH$. The authors calculated the number of contact spots n, the total contact area $MATH$ and the total load P in general case. They gave those formulas in two forms: in the basic and using standardized variables. If one assumes that N asperities covers a rough surface, then the expected number of contacts is
+The expected total area of contact can be calculated  from the formula
+and the expected total force is given by
+where:
+Greenwood and Williamson introduced standardized separation $MATH$ and standardized height distribution $MATH$ whose standard deviation is equal to one. Below are presented the formulas in the standardized form.
+where:
+$MATH$ and $MATH$ can be determined when the $MATH$ terms are calculated for the given surfaces using the convolution of the surface roughness $MATH$. Several studies have followed the suggested curve fits for $MATH$ assuming a Gaussian surface high distribution with curve fits presented by Arcoumanis et al. and Jedynak among others. It has been repeatedly observed that engineering surfaces do not demonstrate Gaussian surface height distributions e.g. Peklenik. Leighton et al. presented fits for crosshatched IC engine cylinder liner surfaces together with a process for determining the $MATH$ terms for any measured surfaces. Leighton et al. demonstrated that Gaussian fit data is not accurate for modelling any engineered surfaces and went on to demonstrate that early running of the surfaces results in a gradual transition which significantly changes the surface topography, load carrying capacity and friction.
+Recently the exact approximants to $MATH$ and $MATH$ were published by Jedynak. They are given by the following rational formulas, which are approximants to the integrals $MATH$. They are calculated for the Gaussian distribution of asperities, which have been shown to be unrealistic for engineering surface but can be assumed where friction, load carrying capacity or real contact area results are not critical to the analysis.
+For $MATH$ the coefficients are
+The maximum relative error is $MATH$.
+For $MATH$ the coefficients are
+The maximum relative error is $MATH$. The paper also contains the exact expressions for $MATH$
+where erfc(z) means the complementary error function and $MATH$ is the modified Bessel function of the second kind.
+For the situation where the asperities on the two surfaces have a Gaussian height distribution and the peaks can be assumed to be spherical, the average contact pressure is sufficient to cause yield when $MATH$ where $MATH$ is the uniaxial yield stress and $MATH$ is the indentation hardness.  Greenwood and Williamson defined a dimensionless parameter $MATH$ called the plasticity index that could be used to determine whether contact would be elastic or plastic.
+The Greenwood-Williamson model requires knowledge of two statistically dependent quantities; the standard deviation of the surface roughness and the curvature of the asperity peaks.  An alternative definition of the plasticity index has been given by Mikic.  Yield occurs when the pressure is greater than the uniaxial yield stress.  Since the yield stress is proportional to the indentation hardness $MATH$, Mikic defined the plasticity index for elastic-plastic contact to be
+In this definition $MATH$ represents the micro-roughness in a state of complete plasticity and only one statistical quantity, the rms slope, is needed which can be calculated from surface measurements. For $MATH$, the surface behaves elastically during contact.
+In both the Greenwood-Williamson and Mikic models the load is assumed to be proportional to the deformed area.  Hence, whether the system behaves plastically or elastically is independent of the applied normal force.
+An overview of the GT model
+The model proposed by Greenwood and Tripp (GT), extended the GW model to contact between two rough surfaces. The GT model is widely used in the field of elastohydrodynamic analysis.
+The most frequently cited equations given by the GT model are for the asperity contact area
+and load carried by asperities
+where:
+Leighton et al. presented fits for crosshatched IC engine cylinder liner surfaces together with a process for determining the $MATH$ terms for any measured surfaces. Leighton et al. demonstrated that Gaussian fit data is not accurate for modelling any engineered surfaces and went on to demonstrate that early running of the surfaces results in a gradual transition which significantly changes the surface topography, load carrying capacity and friction.
+The exact solutions for $MATH$ and $MATH$ are firstly presented by Jedynak. They are expressed by $MATH$ as follows. They are calculated for the Gaussian distribution of asperities, which have been shown to be unrealistic for engineering surface but can be assumed where friction, load carrying capacity or real contact area results are not critical to the analysis.
+where erfc(z) means the complementary error function and $MATH$ is the modified Bessel function of the second kind.
+In paper  one can find comprehensive review of existing approximants to $MATH$. New proposals give the most accurate approximants to $MATH$ and $MATH$,  which are reported in the literature. They are given by the following rational formulas, which are very exact approximants to integrals $MATH$. They are calculated for the Gaussian distribution of asperities
+For $MATH$ the coefficients are
+The maximum relative error is $MATH$.
+For $MATH$ the coefficients are
+The maximum relative error is $MATH$.
+Adhesive contact between elastic bodies
+When two solid surfaces are brought into close proximity, they experience attractive van der Waals forces.  Bradley's van der Waals model provides a means of calculating the tensile force between two rigid spheres with perfectly smooth surfaces.  The Hertzian model of contact does not consider adhesion possible.  However, in the late 1960s, several contradictions were observed when the Hertz theory was compared with experiments involving contact between rubber and glass spheres.
+It was observed that, though Hertz theory applied at large loads, at low loads
+This indicated that adhesive forces were at work.  The Johnson-Kendall-Roberts (JKR) model and the Derjaguin-Muller-Toporov (DMT) models were the first to incorporate adhesion into Hertzian contact.
+Bradley model of rigid contact
+It is commonly assumed that the surface force between two atomic planes at a distance $MATH$ from each other can be derived from the Lennard-Jones potential. With this assumption
+where $MATH$ is the force (positive in compression), $MATH$ is the total surface energy of both surfaces per unit area, and $MATH$ is the equilibrium separation of the two atomic planes.
+The Bradley model applied the Lennard-Jones potential to find the force of adhesion between two rigid spheres. The total force between the spheres is found to be
+where $MATH$ are the radii of the two spheres.
+The two spheres separate completely when the pull-off force is achieved at $MATH$ at which point
+Johnson-Kendall-Roberts (JKR) model of elastic contact
+To incorporate the effect of adhesion in Hertzian contact, Johnson, Kendall, and Roberts formulated the JKR theory of adhesive contact using a balance between the stored elastic energy and the loss in surface energy.  The JKR model considers the effect of contact pressure and adhesion only inside the area of contact. The general solution for the pressure distribution in the contact area in the JKR model is
+Note that in the original Hertz theory, the term containing $MATH$ was neglected on the ground that tension could not be sustained in the contact zone.  For contact between two spheres
+where $MATH$ is the radius of the area of contact, $MATH$ is the applied force, $MATH$ is the total surface energy of both surfaces per unit contact area,
+$MATH$ are the radii, Young's moduli, and Poisson's ratios of the two spheres, and
+The approach distance between the two spheres is given by
+The Hertz equation for the area of contact between two spheres, modified to take into account the surface energy, has the form
+When the surface energy is zero, $MATH$, the Hertz equation for contact between two spheres is recovered.  When the applied load is zero, the contact radius is
+The tensile load at which the spheres are separated (i.e., $MATH$) is predicted to be
+This force is also called the pull-off force. Note that this force is independent of the moduli of the two spheres.  However, there is another possible solution for the value of $MATH$ at this load.  This is the critical contact area $MATH$, given by
+If we define the work of adhesion as
+where $MATH$ are the adhesive energies of the two surfaces and $MATH$ is an interaction term, we can write the JKR contact radius as
+The tensile load at separation is
+and the critical contact radius is given by
+The critical depth of penetration is
+Derjaguin-Muller-Toporov (DMT) model of elastic contact
+The Derjaguin-Muller-Toporov (DMT) model is an alternative model for adhesive contact which assumes that the contact profile remains the same as in Hertzian contact but with additional attractive interactions outside the area of contact.
+The radius of contact between two spheres from DMT theory is
+and the pull-off force is
+When the pull-off force is achieved the contact area becomes zero and there is no singularity in the contact stresses at the edge of the contact area.
+In terms of the work of adhesion $MATH$
+and
+Tabor parameter
+In 1977, Tabor showed that the apparent contradiction between the JKR and DMT theories could be resolved by noting that the two theories were the extreme limits of a single theory parametrized by the Tabor parameter ($MATH$) defined as
+where $MATH$ is the equilibrium separation between the two surfaces in contact.  The JKR theory applies to large, compliant spheres for which $MATH$ is large.  The DMT theory applies for small, stiff spheres with small values of $MATH$.
+Subsequently, Derjaguin and his collaborators by applying Bradley's surface force law to an elastic half space, confirmed that as the Tabor parameter increases, the pull-off force falls from the Bradley value $MATH$ to the JKR value $MATH$. More detailed calculations were later done by Greenwood revealing the S-shaped load/approach curve which explains the jumping-on effect. A more efficient method of doing the calculations and additional results were given by Feng 
+Maugis-Dugdale model of elastic contact
+Further improvement to the Tabor idea was provided by Maugis who represented the surface force in terms of a Dugdale cohesive zone approximation such that the work of adhesion is given by
+where $MATH$ is the maximum force predicted by the Lennard-Jones potential and $MATH$ is the maximum separation obtained by matching the areas under the Dugdale and Lennard-Jones curves (see adjacent figure).  This means that the attractive force is constant for $MATH$.  There is not further penetration in compression.  Perfect contact occurs in an area of radius $MATH$ and adhesive forces of magnitude $MATH$ extend to an area of radius $MATH$.  In the region $MATH$, the two surfaces are separated by a distance $MATH$ with $MATH$ and $MATH$.  The ratio $MATH$ is defined as
+In the Maugis-Dugdale theory, the surface traction distribution is divided into two parts - one due to the Hertz contact pressure and the other from the Dugdale adhesive stress.  Hertz contact is assumed in the region $MATH$.  The contribution to the surface traction from the Hertz pressure is given by
+where the Hertz contact force $MATH$ is given by
+The penetration due to elastic compression is
+The vertical displacement at $MATH$ is
+and the separation between the two surfaces at $MATH$ is
+The surface traction distribution due to the adhesive Dugdale stress is
+The total adhesive force is then given by
+The compression due to Dugdale adhesion is
+and the gap at $MATH$ is
+The net traction on the contact area is then given by $MATH$ and the net contact force is $MATH$.  When $MATH$ the adhesive traction drops to zero.
+Non-dimensionalized values of $MATH$ are introduced at this stage that are defied as
+In addition, Maugis proposed a parameter $MATH$ which is equivalent to the Tabor parameter $MATH$ .  This parameter is defined as
+where the step cohesive stress $MATH$ equals to the theoretical stress of the Lennard-Jones potential
+Zheng and Yu  suggested another value for the step cohesive stress
+to match the Lennard-Jones potential, which leads to
+Then the net contact force may be expressed as
+and the elastic compression as
+The equation for the cohesive gap between the two bodies takes the form
+This equation can be solved to obtain values of $MATH$ for various values of $MATH$ and $MATH$.  For large values of $MATH$, $MATH$ and the JKR model is obtained.  For small values of $MATH$ the DMT model is retrieved.
+Carpick-Ogletree-Salmeron (COS) model
+The Maugis-Dugdale model can only be solved iteratively if the value of $MATH$ is not known a-priori.  The Carpick-Ogletree-Salmeron approximate solution simplifies the process by using the following relation to determine the contact radius $MATH$:
+where $MATH$ is the contact area at zero load, and $MATH$ is a transition parameter that is related to $MATH$ by
+The case $MATH$ corresponds exactly to JKR theory while $MATH$ corresponds to DMT theory. For intermediate cases $MATH$ the COS model corresponds closely to the Maugis-Dugdale solution for $MATH$.
+Influence of contact shape
+Even in the presence of perfectly smooth surfaces, geometry can come into play in form of the macroscopic shape of the contacting region. When a rigid punch with flat but oddly shaped face is carefully pulled off its soft counterpart, its detachment occurs not instantaneously but detachment fronts start at pointed corners and travel inwards, until the final configuration is reached which for macroscopically isotropic shapes is almost circular. The main parameter determining the adhesive strength of flat contacts occurs to be the maximum linear size of the contact. The process of detachment can as observed experimentally can be seen in the film.

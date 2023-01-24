@@ -1,0 +1,28 @@
+Becquerel
+The becquerel (English: /bɛkəˈrɛl/; symbol: Bq) is the unit of radioactivity in the International System of Units (SI). One becquerel is defined as the activity of a quantity of radioactive material in which one nucleus decays per second. For applications relating to human health this is a small quantity, and SI multiples of the unit are commonly used.
+The becquerel is named after Henri Becquerel, who shared a Nobel Prize in Physics with Pierre and Marie Skłodowska Curie in 1903 for their work in discovering radioactivity.
+Definition
+1 Bq = 1 s−1
+A special name was introduced for the reciprocal second (s−1) to represent radioactivity to avoid potentially dangerous mistakes with prefixes. For example, 1 µs−1 would mean 106 disintegrations per second: 1·(10−6 s)−1 = 106 s−1, whereas 1 µBq would mean 1 disintegration per 1 million seconds. Other names considered were hertz (Hz), a special name already in use for the reciprocal second, and Fourier (Fr). The hertz is now only used for periodic phenomena. Whereas 1 Hz is 1 cycle per second, 1 Bq is 1 aperiodic radioactivity event per second.
+The gray (Gy) and the becquerel (Bq) were introduced in 1975. Between 1953 and 1975, absorbed dose was often measured in rads. Decay activity was measured in curies before 1946 and often in rutherfords between 1946 and 1975.
+Unit capitalization and prefixes
+As with every International System of Units (SI) unit named for a person, the first letter of its symbol is uppercase (Bq). However, when an SI unit is spelled out in English, it should always begin with a lowercase letter (becquerel)—except in a situation where any word in that position would be capitalized, such as at the beginning of a sentence or in material using title case.
+Like any SI unit, Bq can be prefixed; commonly used multiples are kBq (kilobecquerel, 103 Bq), MBq (megabecquerel, 106 Bq, equivalent to 1 rutherford), GBq (gigabecquerel, 109 Bq), TBq (terabecquerel, 1012 Bq), and PBq (petabecquerel, 1015 Bq). Large prefixes are common for practical uses of the unit.
+Calculation of radioactivity
+For a given mass $MATH$ (in grams) of an isotope with atomic mass $MATH$ (in g/mol) and a half-life of $MATH$ (in s), the radioactivity can be calculated using:
+$MATH$
+With $MATH$ = 6.02214076×1023 mol−1, the Avogadro constant.
+Since $MATH$ is the number of moles ($MATH$), the amount of radioactivity $MATH$ can be calculated by:
+$MATH$
+For instance, on average each gram of potassium contains 117 micrograms of 40K (all other naturally occurring isotopes are stable) that has a $MATH$ of 1.277×109 years = 4.030×1016 s, and has an atomic mass of 39.964 g/mol, so the amount of radioactivity associated with a gram of potassium is 30 Bq.
+Examples
+For practical applications, 1 Bq is a small unit. For example, there is roughly 0.0169 g of potassium-40 present in a typical human body, decaying at a rate of approximately 4,430 decays per second.
+The global inventory of carbon-14 is estimated to be 8.5×1018 Bq (8.5 EBq, 8.5 exabecquerel). 
+The nuclear explosion in Hiroshima (an explosion of 16 kt or 67 TJ) is estimated to have injected 8×1024 Bq (8 YBq, 8 yottabecquerel) of radioactive fission products into the atmosphere.
+These examples are useful for comparing the amount of activity of these radioactive materials but should not be confused with the amount of exposure to ionizing radiation that these materials represent. The level of exposure and thus the absorbed dose received are what should be considered when assessing the effects of ionizing radiation on humans.
+Relation to the curie
+The becquerel succeeded the curie (Ci), an older, non-SI unit of radioactivity based on the activity of 1 gram of radium-226. The curie is defined as 3.7×1010 s−1, or 37 GBq.
+Conversion factors:
+Relation to other radiation-related quantities
+The following table shows radiation quantities in SI and non-SI units. WR (formerly 'Q' factor) is a factor that scales the biological effect for different types of radiation, relative to x-rays. (e.g. 1 for beta radiation, 20 for alpha radiation, and a complicated function of energy for neutrons)
+In general conversion between rates of emission, the density of radiation, the fraction absorbed, and the biological effects, requires knowledge of the  geometry between source and target, the energy and the type of the radiation emitted, among other factors.

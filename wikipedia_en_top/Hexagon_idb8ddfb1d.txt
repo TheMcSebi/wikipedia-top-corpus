@@ -1,0 +1,65 @@
+Hexagon
+In geometry, a hexagon (from Greek ἕξ, hex, meaning "six", and γωνία, gonía, meaning "corner, angle") or sexagon (from Latin sexcode: lat promoted to code: la , meaning "six") is a six-sided polygon or 6-gon creating the outline of a cube. The total of the internal angles of any simple (non-self-intersecting) hexagon is 720°.
+Regular hexagon
+A regular hexagon has Schläfli symbol {6} and can also be constructed as a truncated equilateral triangle, t{3}, which alternates two types of edges.
+A regular hexagon is defined as a hexagon that is both equilateral and equiangular. It is bicentric, meaning that it is both cyclic (has a circumscribed circle) and tangential (has an inscribed circle).
+The common length of the sides equals the radius of the circumscribed circle or circumcircle, which equals $MATH$ times the apothem (radius of the inscribed circle). All internal angles are 120 degrees. A regular hexagon has six rotational symmetries (rotational symmetry of order six) and six reflection symmetries (six lines of symmetry), making up the dihedral group D6. The longest diagonals of a regular hexagon, connecting diametrically opposite vertices, are twice the length of one side. From this it can be seen that a triangle with a vertex at the center of the regular hexagon and sharing one side with the hexagon is equilateral, and that the regular hexagon can be partitioned into six equilateral triangles.
+Like squares and equilateral triangles, regular hexagons fit together without any gaps to tile the plane (three hexagons meeting at every vertex), and so are useful for constructing tessellations. The cells of a beehive honeycomb are hexagonal for this reason and because the shape makes efficient use of space and building materials. The Voronoi diagram of a regular triangular lattice is the honeycomb tessellation of hexagons. It is not usually considered a triambus, although it is equilateral.
+Parameters
+The maximal diameter (which corresponds to the long diagonal of the hexagon), D, is twice the maximal radius or circumradius, R, which equals the side length, t. The minimal diameter or the diameter of the inscribed circle (separation of parallel sides, flat-to-flat distance, short diagonal or height when resting on a flat base), d, is twice the minimal radius or inradius, r. The maxima and minima are related by the same factor:
+The area of a regular hexagon
+For any regular polygon, the area can also be expressed in terms of the apothem a and the perimeter p. For the regular hexagon these are given by a = r, and p$MATH$, so
+The regular hexagon fills the fraction $MATH$ of its circumscribed circle.
+If a regular hexagon has successive vertices A, B, C, D, E, F and if P is any point on the circumcircle between B and C, then PE + PF = PA + PB + PC + PD.
+It follows from the ratio of circumradius to inradius that the height-to-width ratio of a regular hexagon is 1:1.1547005; that is, a hexagon with a long diagonal of 1.0000000 will have a distance of 0.8660254 between parallel sides.
+Point in plane
+For an arbitrary point in the plane of a regular hexagon with circumradius $MATH$, whose distances to the centroid of the regular hexagon and its six vertices are $MATH$ and $MATH$ 
+respectively, we have
+If $MATH$ are the distances from the vertices of a regular hexagon to any point on its circumcircle, then 
+Symmetry
+The regular hexagon has D6 symmetry. There are 16 subgroups. There are 8 up to isomorphism: itself (D6), 2 dihedral: (D3, D2), 4 cyclic: (Z6, Z3, Z2, Z1) and the trivial (e)
+These symmetries express nine distinct symmetries of a regular hexagon. John Conway labels these by a letter and group order. r12 is full symmetry, and a1 is no symmetry. p6, an isogonal hexagon constructed by three mirrors can alternate long and short edges, and d6, an isotoxal hexagon constructed with equal edge lengths, but vertices alternating two different internal angles. These two forms are duals of each other and have half the symmetry order of the regular hexagon. The i4 forms are regular hexagons flattened or stretched along one symmetry direction. It can be seen as an elongated rhombus, while d2 and p2 can be seen as horizontally and vertically elongated kites. g2 hexagons, with opposite sides parallel are also called hexagonal parallelogons.
+Each subgroup symmetry allows one or more degrees of freedom for irregular forms. Only the g6 subgroup has no degrees of freedom but can seen as directed edges.
+Hexagons of symmetry g2, i4, and r12, as parallelogons can tessellate the Euclidean plane by translation. Other hexagon shapes can tile the plane with different orientations.
+A2 and G2 groups
+The 6 roots of the simple Lie group A2, represented by a Dynkin diagram , are in a regular hexagonal pattern. The two simple roots have a 120° angle between them.
+The 12 roots of the Exceptional Lie group G2, represented by a Dynkin diagram  are also in a hexagonal pattern. The two simple roots of two lengths have a 150° angle between them.
+Dissection
+Coxeter states that every zonogon (a 2m-gon whose opposite sides are parallel and of equal length) can be dissected into 1⁄2m(m − 1) parallelograms. In particular this is true for regular polygons with evenly many sides, in which case the parallelograms are all rhombi. This decomposition of a regular hexagon is based on a Petrie polygon projection of a cube, with 3 of 6 square faces. Other parallelogons and projective directions of the cube are dissected within rectangular cuboids.
+Related polygons and tilings
+A regular hexagon has Schläfli symbol {6}. A regular hexagon is a part of the regular hexagonal tiling, {6,3}, with three hexagonal faces around each vertex.
+A regular hexagon can also be created as a truncated equilateral triangle, with Schläfli symbol t{3}. Seen with two types (colors) of edges, this form only has D3 symmetry.
+A truncated hexagon, t{6}, is a dodecagon, {12}, alternating two types (colors) of edges. An alternated hexagon, h{6}, is an equilateral triangle, {3}. A regular hexagon can be stellated with equilateral triangles on its edges, creating a hexagram. A regular hexagon can be dissected into six equilateral triangles by adding a center point. This pattern repeats within the regular triangular tiling.
+A regular hexagon can be extended into a regular dodecagon by adding alternating squares and equilateral triangles around it. This pattern repeats within the rhombitrihexagonal tiling.
+Self-crossing hexagons
+There are six self-crossing hexagons with the vertex arrangement of the regular hexagon:
+Hexagonal structures
+From bees' honeycombs to the Giant's Causeway, hexagonal patterns are prevalent in nature due to their efficiency. In a hexagonal grid each line is as short as it can possibly be if a large area is to be filled with the fewest hexagons. This means that honeycombs require less wax to construct and gain much strength under compression.
+Irregular hexagons with parallel opposite edges are called parallelogons and can also tile the plane by translation. In three dimensions, hexagonal prisms with parallel opposite faces are called parallelohedrons and these can tessellate 3-space by translation.
+Tesselations by hexagons
+In addition to the regular hexagon, which determines a unique tessellation of the plane, any irregular hexagon which satisfies the Conway criterion will tile the plane.
+Hexagon inscribed in a conic section
+Pascal's theorem (also known as the "Hexagrammum Mysticum Theorem") states that if an arbitrary hexagon is inscribed in any conic section, and pairs of opposite sides are extended until they meet, the three intersection points will lie on a straight line, the "Pascal line" of that configuration.
+Cyclic hexagon
+The Lemoine hexagon is a cyclic hexagon (one inscribed in a circle) with vertices given by the six intersections of the edges of a triangle and the three lines that are parallel to the edges that pass through its symmedian point.
+If the successive sides of a cyclic hexagon are a, b, c, d, e, f, then the three main diagonals intersect in a single point if and only if ace = bdf.
+If, for each side of a cyclic hexagon, the adjacent sides are extended to their intersection, forming a triangle exterior to the given side, then the segments connecting the circumcenters of opposite triangles are concurrent.
+If a hexagon has vertices on the circumcircle of an acute triangle at the six points (including three triangle vertices) where the extended altitudes of the triangle meet the circumcircle, then the area of the hexagon is twice the area of the triangle.: p. 179 
+Hexagon tangential to a conic section
+Let ABCDEF be a hexagon formed by six tangent lines of a conic section. Then Brianchon's theorem states that the three main diagonals AD, BE, and CF intersect at a single point.
+In a hexagon that is tangential to a circle and that has consecutive sides a, b, c, d, e, and f,
+Equilateral triangles on the sides of an arbitrary hexagon
+If an equilateral triangle is constructed externally on each side of any hexagon, then the midpoints of the segments connecting the centroids of opposite triangles form another equilateral triangle.: Thm. 1 
+Skew hexagon
+A skew hexagon is a skew polygon with six vertices and edges but not existing on the same plane. The interior of such an hexagon is not generally defined. A skew zig-zag hexagon has vertices alternating between two parallel planes.
+A regular skew hexagon is vertex-transitive with equal edge lengths. In three dimensions it will be a zig-zag skew hexagon and can be seen in the vertices and side edges of a triangular antiprism with the same D3d, [2+,6] symmetry, order 12.
+The cube and octahedron (same as triangular antiprism) have regular skew hexagons as petrie polygons.
+Petrie polygons
+The regular skew hexagon is the Petrie polygon for these higher dimensional regular, uniform and dual polyhedra and polytopes, shown in these skew orthogonal projections:
+Convex equilateral hexagon
+A principal diagonal of a hexagon is a diagonal which divides the hexagon into quadrilaterals. In any convex equilateral hexagon (one with all sides equal) with common side a, there exists: p.184, #286.3  a principal diagonal d1 such that
+and a principal diagonal d2 such that
+Polyhedra with hexagons
+There is no Platonic solid made of only regular hexagons, because the hexagons tessellate, not allowing the result to "fold up". The Archimedean solids with some hexagonal faces are the truncated tetrahedron, truncated octahedron, truncated icosahedron (of soccer ball and fullerene fame), truncated cuboctahedron and the truncated icosidodecahedron. These hexagons can be considered truncated triangles, with Coxeter diagrams of the form  and .
+There are other symmetry polyhedra with stretched or flattened hexagons, like these Goldberg polyhedron G(2,0):
+There are also 9 Johnson solids with regular hexagons:

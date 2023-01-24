@@ -1,0 +1,21 @@
+Salt metathesis reaction
+A salt metathesis reaction, sometimes called a double displacement reaction,  is a chemical process involving the exchange of bonds between two reacting chemical species which results in the creation of products with similar or identical bonding affiliations. This reaction is represented by the general scheme:
+The bond between the reacting species can be either ionic or covalent. Classically, these reactions result in the precipitation of one product.
+In older literature, the term double decomposition is frequently encountered. The term double decomposition is more specifically used when at least one of the substances does not dissolve in the solvent, as the ligand or ion exchange takes place in the solid state of the reactant. For example:
+Types of reactions
+Counterion exchange
+Salt metathesis is a common technique for exchanging counterions. The choice of reactants is guided by a solubility chart or lattice energy. HSAB theory can also be used to predict the products of a metathesis reaction.
+Salt metathesis is often employed to obtain salts that are soluble in organic solvents. Illustrative is the conversion of sodium perrhenate to the tetrabutylammonium salt:
+The tetrabutylammonium salt precipitates from the aqueous solution. It is soluble in dichloromethane.
+Salt metathesis can be conducted in nonaqueous solution, illustrated by the conversion of ferrocenium tetrafluoroborate to a more lipophilic  salt containing the tetrakis(pentafluorophenyl)borate anion:
+When the reaction is conducted in dichloromethane, the salt NaBF4 precipitates and the B(C6F5)4- salt remains in solution.
+Metathesis reactions can occur between two inorganic salts when one product is insoluble in water. For example, the precipitation of silver chloride from a mixture of silver nitrate and cobalt hexammine chloride delivers the nitrate salt of the cobalt complex:
+The reactants need not be highly soluble for metathesis reactions to take place. For example barium thiocyanate forms when boiling a slurry of copper(I) thiocyanate and barium hydroxide in water:
+Alkylation
+Metal complexes are alkylated via salt metathesis reactions.  Illustrative is the methylation of titanocene dichloride to give the Petasis reagent:
+The salt product typically precipitates from the reaction solvent.
+Neutralization reaction
+A neutralization reaction is a type of double replacement reaction.  A neutralization reaction occurs when an acid reacts with an equal amount of a base.  This usually creates a solution of a salt and water. For example, hydrochloric acid reacts with sodium hydroxide to produce sodium chloride and water:
+Reaction between an acid and a carbonate or bicarbonate always yields carbonic acid as a product, which spontaneously decomposes into carbon dioxide and water. The release of carbon dioxide gas from the reaction mixture drives the reaction to completion. For example, a common, science-fair "volcano" reaction involves the reaction of acetic acid with sodium bicarbonate:
+Salt-free metathesis reaction
+In contrast to salt metathesis reactions, which are driven by the precipitation of solid salts, are salt-free reductions, which are deriven by formation of silyl halides,  Salt-free metathesis reactions proceed homogeneously.

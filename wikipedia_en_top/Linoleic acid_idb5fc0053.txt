@@ -1,0 +1,30 @@
+Linoleic acid
+
+
+Linoleic acid (LA) is an organic compound with the formula COOH(CH2)7CH=CHCH2CH=CH(CH2)4CH3. Both alkene groups are cis.  It is a fatty acid sometimes denoted 18:2 (n-6) or 18:2 cis-9,12.  A linoleate is a salt or ester of this acid.
+Linoleic acid is a polyunsaturated omega-6 fatty acid. It is a colorless liquid that is virtually insoluble in water but soluble in many organic solvents. It typically occurs in nature as a triglyceride (ester of glycerin) rather than as a free fatty acid. It is one of two essential fatty acids for humans, who must obtain it through their diet, and the most essential, because the body uses it as a base to make the others.
+The word "linoleic" derives from the Latin linum "flax" + oleum "oil", reflecting the fact that it was first isolated from linseed oil.
+History
+In 1844, F. Sacc, working at the laboratory of Justus von Liebig, isolated linoleic acid from linseed oil. In 1886, K. Peters determined the existence of two double bonds. Its essential role in human diet was discovered by G. O. Burr and others in 1930. Its chemical structure was determined by T.P. Hilditch and others in 1939, and it was synthesized by R. A. Raphael and F. Sondheimer in 1950.
+In physiology
+The consumption of linoleic acid is vital to proper health, as it is an essential fatty acid.
+Metabolism and eicosanoids
+Linoleic acid (LA: C18H32O2; 18:2, ω-6) is a precursor to arachidonic acid (AA: C20H32O2; 20:4, ω-6) with elongation and saturation. AA is the precursor to some prostaglandins, leukotrienes (LTA, LTB, LTC), thromboxane (TXA) and the N-acylethanolamine (NAE) arachidonoylethanolamine (AEA: C22H37NO2; 20:4, ω-6), and other endocannabinoids and eicosanoids.
+The metabolism of LA to AA begins with the conversion of LA into gamma-linolenic acid (GLA), effected by Δ6desaturase. GLA is converted to dihomo-γ-linolenic acid (DGLA), the immediate precursor to AA. 
+LA is also converted by various lipoxygenases, cyclooxygenases, cytochrome P450 enzymes (the CYP monooxygenases), and non-enzymatic autoxidation mechanisms to mono-hydroxyl products viz., 13-Hydroxyoctadecadienoic acid, and 9-Hydroxyoctadecadienoic acid; these two hydroxy metabolites are enzymatically oxidized to their keto metabolites, 13-oxo-octadecadienoic acid and 9-oxo-octadecdienoic acid.  Certain cytochrome P450 enzymes, the CYP epoxygenases, catalyze oxidation of LA to epoxide products viz., its 12,13-epoxide, Vernolic acid, and its 9,10-epoxide, Coronaric acid.  These linoleic acid products are implicated in human physiology and pathology.
+Hydroperoxides derived from the metabolism of anandamide (AEA: C22H37NO2; 20:4,n-6), or its linoleoyl analogues, is by a lipoxygenase action found to be competitive inhibitors of brain and immune cell FAAH, the enzyme that breaks down AEA and other endocannabinoids, and the compound linoleoyl-ethanol-amide (C20H37NO2; 18:2,n-6), an N-acylethanolamine, - the ethanolamide of linoleic acid (LA: C18H32O2; 18:2, n-6) and its metabolized incorporated ethanolamine (MEA: C2H7NO), is the first natural inhibitor of FAAH, discovered.
+Uses and reactions
+Linoleic acid is a component of quick-drying oils, which are useful in oil paints and varnishes. These applications exploit the lability of the doubly allylic C-H groups (-CH=CH-CH2-CH=CH-) toward oxygen in air (autoxidation).  Addition of oxygen leads to crosslinking and formation of a stable film.
+Reduction of the carboxylic acid group of linoleic acid yields linoleyl alcohol.
+Linoleic acid is a surfactant with a critical micelle concentration of 1.5 x 10−4 M @ pH 7.5.
+Linoleic acid has become increasingly popular in the beauty products industry because of its beneficial properties on the skin.  Research points to linoleic acid's anti-inflammatory, acne reductive, skin-lightening and moisture retentive properties when applied topically on the skin.
+Linoleic acid is also used in some bar of soap products.
+Dietary sources
+It is abundant in safflower, and corn oil, and comprises over half their composition by weight. It is present in medium quantities in soybean oils, sesame, and almonds.
+Other occurrences
+Cockroaches release oleic and linoleic acid upon death, which discourages other roaches from entering the area.  This is similar to the mechanism found in ants and bees, which release oleic acid upon death.
+Health effects
+Consumption of linoleic acid has been associated with lowering the risk of cardiovascular disease and premature death.
+See also
+References
+Further reading

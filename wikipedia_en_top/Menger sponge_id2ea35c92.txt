@@ -1,0 +1,30 @@
+Menger sponge
+In mathematics, the Menger sponge (also known as the Menger cube, Menger universal curve, Sierpinski cube, or Sierpinski sponge) is a fractal curve. It is a three-dimensional generalization of the one-dimensional Cantor set and two-dimensional Sierpinski carpet. It was first described by Karl Menger in 1926, in his studies of the concept of topological dimension.
+Construction
+The construction of a Menger sponge can be described as follows:
+The second iteration gives a level-2 sponge, the third iteration gives a level-3 sponge, and so on. The Menger sponge itself is the limit of this process after an infinite number of iterations.
+Properties
+The $MATH$th stage of the Menger sponge, $MATH$, is made up of $MATH$ smaller cubes, each with a side length of (1/3)n.  The total volume of $MATH$ is thus $MATH$.  The total surface area of $MATH$ is given by the expression $MATH$. Therefore the construction's volume approaches zero while its surface area increases without bound. Yet any chosen surface in the construction will be thoroughly punctured as the construction continues so that the limit is neither a solid nor a surface; it has a topological dimension of 1 and is accordingly identified as a curve.
+Each face of the construction becomes a Sierpinski carpet, and the intersection of the sponge with any diagonal of the cube or any midline of the faces is a Cantor set. The cross-section of the sponge through its centroid and perpendicular to a space diagonal is a regular hexagon punctured with hexagrams arranged in six-fold symmetry. The number of these hexagrams, in descending size, is given by $MATH$, with $MATH$.
+The sponge's Hausdorff dimension is log 20/log 3 ≅ 2.727. The Lebesgue covering dimension of the Menger sponge is one, the same as any curve. Menger showed, in the 1926 construction, that the sponge is a universal curve, in that every curve is homeomorphic to a subset of the Menger sponge, where a curve means any compact metric space of Lebesgue covering dimension one; this includes trees and graphs with an arbitrary countable number of edges, vertices and closed loops, connected in arbitrary ways. Similarly, the Sierpinski carpet is a universal curve for all curves that can be drawn on the two-dimensional plane. The Menger sponge constructed in three dimensions extends this idea to graphs that are not planar and might be embedded in any number of dimensions.
+The Menger sponge is a closed set; since it is also bounded, the Heine– Borel theorem implies that it is compact. It has Lebesgue measure 0. Because it contains continuous paths, it is an uncountable set.
+Experiments also showed that cubes with a Menger sponge structure could dissipate shocks five times better for the same material than cubes without any pores.
+Formal definition
+Formally, a Menger sponge can be defined as follows:
+where $MATH$ is the unit cube and
+MegaMenger
+MegaMenger was a project aiming to build the largest fractal model, pioneered by Matt Parker of Queen Mary University of London and Laura Taalman of James Madison University. Each small cube is made from six interlocking folded business cards, giving a total of 960 000 for a level-four sponge. The outer surfaces are then covered with paper or cardboard panels printed with a Sierpinski carpet design to be more aesthetically pleasing. In 2014, twenty level-three Menger sponges were constructed, which combined would form a distributed level-four Menger sponge.
+Similar fractals
+Jerusalem cube
+A Jerusalem cube is a fractal object described by Eric Baird in 2011. It is created by recursively drilling Greek cross-shaped holes into a cube. The construction is similar to the Menger sponge but with two different-sized cubes. The name comes from the face of the cube resembling a Jerusalem cross pattern.
+The construction of the Jerusalem cube can be described as follows:
+Iterating an infinite number of times results in the Jerusalem cube.
+Since the edge length of a cube of rank N is equal to that of 2 cubes of rank N+1 and a cube of rank N+2, it follows that the scaling factor must satisfy $MATH$, therefore $MATH$ which means the fractal cannot be constructed on a rational grid.
+Since a cube of rank N gets subdivided into 8 cubes of rank N+1 and 12 of rank N+2, the Hausdorff dimension must therefore satisfy $MATH$. The exact solution is
+which is approximately 2.529
+As with the Menger sponge, the faces of a Jerusalem cube are fractals with the same scaling factor. In this case, the Hausdorff dimension must satisfy $MATH$. The exact solution is
+which is approximately 1.786
+Others
+See also
+References
+Further reading

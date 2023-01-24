@@ -1,0 +1,30 @@
+Google Web Toolkit
+Google Web Toolkit (GWT /ˈɡwɪt/), or GWT Web Toolkit, is an open-source set of tools that allows web developers to create and maintain JavaScript front-end applications in Java. It is licensed under the Apache License 2.0.
+
+
+GWT emphasizes reusable approaches to everyday web development tasks, namely asynchronous remote procedure calls, history management, bookmarking, UI abstraction, internationalization, and cross-browser portability.
+History
+GWT version 1.0 RC 1 was released on May 16, 2006. Google announced GWT at the JavaOne conference in 2006.
+In August 2010, Google acquired Instantiations, a company known for focusing on Eclipse Java developer tools, including GWT Designer, which is now bundled with Google Plugin for Eclipse.
+In 2011 with the introduction of the Dart programming language, Google reassured the GWT community that GWT would continue to be supported for the foreseeable future but also hinted at a possible rapprochement between the two Google approaches to "structured web programming". They've also admitted, however, that several of engineers previously working on GWT are now working on Dart.
+In 2012 at their annual I/O conference, Google announced that GWT would be transformed from a Google project to a fully open-sourced project. In July 2013, Google posted on its GWT blog that the transformation to an open source project was complete.
+Development with GWT
+Using GWT, developers can develop and debug Ajax applications in the Java language using the Java development tools of their choice. When the application is deployed, the GWT cross-compiler translates the Java application to standalone JavaScript files that are optionally obfuscated and deeply optimized. When needed, JavaScript can also be embedded directly into Java code using Java comments.
+GWT does not revolve only around user interface programming; it is a broad set of tools for building high-performance client-side JavaScript functionality. Indeed, many vital architectural decisions are left entirely to the developer. The GWT mission statement clarifies the philosophical breakdown of GWT's role versus the developer's role. History is an example of such: although GWT manages history tokens as users click Back or Forward in the browser, it does not prescribe how to map history tokens to an application state.
+GWT applications can be run in two modes:
+Several open-source plugins are available for making GWT development easier with other IDEs, including GWT4NB for NetBeans, Cypal Studio for GWT (an Eclipse plugin), and GWT Developer for JDeveloper. The Google Plugin for Eclipse handles most GWT-related tasks in the IDE, including creating projects, invoking the GWT compiler, creating GWT launch configurations, validation, and syntax highlighting.
+Components
+The major GWT components include:
+Features
+Available widgets
+As of version 2.4 (September 2011), Google Web Toolkit offers several widgets and panels.
+Many common widgets not found in the GWT have been implemented in third-party libraries.
+Enterprise usage
+GWT uses or supports Java, Apache Tomcat (or similar web container), Eclipse IDE, Internet Explorer, and internationalization and localization. Java-based GWT rich web applications can be tested using JUnit testing framework and code coverage tools. Because GWT allows compile time verification of images, CSS, and business logic, many common development defects are automatically discovered without requiring the manual testing commonly required by RIAs.
+Google has noted that some of its products are GWT-based: Blogger, AdWords, Flights, Wallet, Offers, Groups, Inbox.
+GWT 2.0
+On December 8, 2009, Google launched Google Web Toolkit 2.0 with Speed Tracer.
+Version 2.0 of GWT offers a number of new features, including:
+Since the new development mode removed most platform-specific code, the new version will be distributed as a unique archive, instead of one per supported platform as was the case with previous versions.
+Mobile
+As a general framework for making web apps, Google Web Toolkit is also capable of being used as a framework for creating mobile and tablet apps, either by making the needed widgets and animations from scratch or by using one of the mobile frameworks for GWT. An HTML5 app written in GWT can have separate views for Tablets and Mobile phones.

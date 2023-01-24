@@ -1,0 +1,68 @@
+Weibull distribution
+In probability theory and statistics, the Weibull distribution /ˈwaɪbʊl/ is a continuous probability distribution. It is named after Swedish mathematician Waloddi Weibull, who described it in detail in 1951, although it was first identified by Maurice René Fréchet and first applied by Rosin & Rammler (1933) to describe a particle size distribution.
+Definition
+Standard parameterization
+The probability density function of a Weibull random variable is
+where k > 0 is the shape parameter and λ > 0 is the scale parameter of the distribution. Its complementary cumulative distribution function is a stretched exponential function. The Weibull distribution is related to a number of other probability distributions; in particular, it interpolates between the exponential distribution (k = 1) and the Rayleigh distribution (k = 2 and $MATH$).
+If the quantity X is a "time-to-failure", the Weibull distribution gives a distribution for which the failure rate is proportional to a power of time. The shape parameter, k, is that power plus one, and so this parameter can be interpreted directly as follows:
+In the field of materials science, the shape parameter k of a distribution of strengths is known as the Weibull modulus. In the context of diffusion of innovations, the Weibull distribution is a "pure" imitation/rejection model.
+First alternative
+Applications in medical statistics and econometrics often adopt a different parameterization. The shape parameter k is the same as above, while the scale parameter is $MATH$. In this case, for x ≥ 0, the probability density function is
+the cumulative distribution function is 
+the hazard function is
+and the mean is 
+Second alternative
+A second alternative parameterization can also be found. The shape parameter k is the same as in the standard case, while the scale parameter λ is replaced with a rate parameter β = 1/λ. Then, for x ≥ 0, the probability density function is
+the cumulative distribution function is 
+and the hazard function is
+In all three parameterizations, the hazard is decreasing for k < 1, increasing for k > 1 and constant for k = 1, in which case the Weibull distribution reduces to an exponential distribution.
+Properties
+Density function
+The form of the density function of the Weibull distribution changes drastically with the value of k. For 0 < k < 1, the density function tends to ∞ as x approaches zero from above and is strictly decreasing. For k = 1, the density function tends to 1/λ as x approaches zero from above and is strictly decreasing. For k > 1, the density function tends to zero as x approaches zero from above, increases until its mode and decreases after it. The density function has infinite negative slope at x = 0 if 0 < k < 1, infinite positive slope at x = 0 if 1 < k < 2 and null slope at x = 0 if k > 2. For k = 1 the density has a finite negative slope at x = 0. For k = 2 the density has a finite positive slope at x = 0. As k goes to infinity, the Weibull distribution converges to a Dirac delta distribution centered at x = λ. Moreover, the skewness and coefficient of variation depend only on the shape parameter. A generalization of the Weibull distribution is the hyperbolastic distribution of type III.
+Cumulative distribution function
+The cumulative distribution function for the Weibull distribution is
+for x ≥ 0, and F(x; k; λ) = 0 for x < 0.
+If x = λ then F(x; k; λ) = 1 − e−1 ≈ 0.632 for all values of k. Vice versa: at F(x; k; λ) = 0.632 the value of x ≈ λ.
+The quantile (inverse cumulative distribution) function for the Weibull distribution is
+for 0 ≤ p < 1.
+The failure rate h (or hazard function) is given by
+The Mean time between failures MTBF is
+Moments
+The moment generating function of the logarithm of a Weibull distributed random variable is given by
+where Γ is the gamma function. Similarly, the characteristic function of log X is given by
+In particular, the nth raw moment of X is given by
+The mean and variance of a Weibull random variable can be expressed as
+and
+The skewness is given by
+where $MATH$, which may also be written as  
+where the mean is denoted by μ and the standard deviation is denoted by σ.
+The excess kurtosis is given by
+where $MATH$. The kurtosis excess may also be written as:
+Moment generating function
+A variety of expressions are available for the moment generating function of X itself. As a power series, since the raw moments are already known, one has
+Alternatively, one can attempt to deal directly with the integral
+If the parameter k is assumed to be a rational number, expressed as k = p/q where p and q are integers, then this integral can be evaluated analytically. With t replaced by −t, one finds
+where G is the Meijer G-function.
+The characteristic function has also been obtained by Muraleedharan et al. (2007). The characteristic function and moment generating function of 3-parameter Weibull distribution have also been derived by Muraleedharan & Soares (2014) harvtxt error: no target: CITEREFMuraleedharanSoares2014 (help) by a direct approach.
+Reparametrization tricks
+Fix some $MATH$. Let $MATH$ be nonnegative, and not all zero, and let $MATH$ be independent samples of $MATH$, then
+Shannon entropy
+The information entropy is given by
+where $MATH$ is the Euler–Mascheroni constant. The Weibull distribution is the maximum entropy distribution for a non-negative real random variate with a fixed expected value of xk equal to λk and a fixed expected value of ln(xk) equal to ln(λk) − $MATH$.
+Maximum likelihood
+The maximum likelihood estimator for the $MATH$ parameter given $MATH$ is
+The maximum likelihood estimator for $MATH$ is the solution for k of the following equation
+This equation defining $MATH$ only implicitly, one must generally solve for $MATH$ by numerical means.
+When $MATH$ are the $MATH$ largest observed samples from a dataset of more than $MATH$ samples,  then the maximum likelihood estimator for the $MATH$ parameter given $MATH$ is
+Also given that condition, the maximum likelihood estimator for $MATH$ is
+Again, this being an implicit function, one must generally solve for $MATH$ by numerical means.
+Kullback–Leibler divergence
+The Kullback–Leibler divergence between two Weibulll distributions is given by
+Weibull plot
+The fit of a Weibull distribution to data can be visually assessed using a Weibull plot. The Weibull plot is a plot of the empirical cumulative distribution function $MATH$ of data on special axes in a type of Q–Q plot. The axes are $MATH$ versus $MATH$. The reason for this change of variables is the cumulative distribution function can be linearized:
+which can be seen to be in the standard form of a straight line. Therefore, if the data came from a Weibull distribution then a straight line is expected on a Weibull plot.
+There are various approaches to obtaining the empirical distribution function from data: one method is to obtain the vertical coordinate for each point using $MATH$ where $MATH$ is the rank of the data point and $MATH$ is the number of data points.
+Linear regression can also be used to numerically assess goodness of fit and estimate the parameters of the Weibull distribution. The gradient informs one directly about the shape parameter $MATH$ and the scale parameter $MATH$ can also be inferred.
+Applications
+The Weibull distribution is used
+Related distributions

@@ -1,0 +1,67 @@
+Qubit
+In quantum computing, a qubit (/ˈkjuːbɪt/) or quantum bit is a basic unit of quantum information—the quantum version of the classic binary bit physically realized with a two-state device. A qubit is a two-state (or two-level) quantum-mechanical system, one of the simplest quantum systems displaying the peculiarity of quantum mechanics.  Examples include the spin of the electron in which the two levels can be taken as spin up and spin down; or the polarization of a single photon in which the two states can be taken to be the vertical polarization and the horizontal polarization. In a classical system, a bit would have to be in one state or the other. However, quantum mechanics allows the qubit to be in a coherent superposition of both states simultaneously, a property that is fundamental to quantum mechanics and quantum computing.
+Etymology
+The coining of the term qubit is attributed to Benjamin Schumacher. In the acknowledgments of his 1995 paper, Schumacher states that the term qubit was created in jest during a conversation with William Wootters.
+Bit versus qubit
+A binary digit, characterized as 0 or 1, is used to represent information in classical computers. 
+When averaged over both of its states (0,1), a binary digit can represent up to one bit of Shannon information, where a bit is the basic unit of information.
+However, in this article, the word bit is synonymous with a binary digit.
+In classical computer technologies, a processed bit is implemented by one of two levels of low DC voltage, and whilst switching from one of these two levels to the other, a so-called "forbidden zone" between two logic levels must be passed as fast as possible, as electrical voltage cannot change from one level to another instantaneously.
+There are two possible outcomes for the measurement of a qubit—usually taken to have the value "0" and "1", like a bit or binary digit. However, whereas the state of a bit can only be either 0 or 1, the general state of a qubit according to quantum mechanics can be a coherent superposition of both.  Moreover, whereas a measurement of a classical bit would not disturb its state, a measurement of a qubit would destroy its coherence and irrevocably disturb the superposition state.  It is possible to fully encode one bit in one qubit. However, a qubit can hold more information, e.g., up to two bits using superdense coding.
+For a system of n components, a complete description of its state in classical physics requires only n bits, whereas in quantum physics it requires 2n complex numbers (or a single point in a 2n-dimensional vector space).
+Standard representation
+In quantum mechanics, the general quantum state of a qubit can be represented by a linear superposition of its two orthonormal basis states (or basis vectors). These vectors are usually denoted as
+$MATH$
+and
+$MATH$.  They are written in the conventional Dirac—or "bra–ket"—notation; the $MATH$ and $MATH$ are pronounced "ket 0" and "ket 1", respectively.  These two orthonormal basis states, $MATH$, together called the computational basis, are said to span the two-dimensional linear vector (Hilbert) space of the qubit.
+Qubit basis states can also be combined to form product basis states. A set of qubits taken together is called a quantum register. For example, two qubits could be represented in a four-dimensional linear vector space spanned by the following product basis states:
+$MATH$,
+$MATH$,
+$MATH$, and
+$MATH$.
+In general, n qubits are represented by a superposition state vector in 2n dimensional Hilbert space.
+Qubit states
+A pure qubit state is a coherent superposition of the basis states. This means that a single qubit can be described by a linear combination of $MATH$ and $MATH$:
+where α and β are the probability amplitudes, that are both complex numbers. When we measure this qubit in the standard basis, according to the Born rule, the probability of outcome $MATH$ with value "0" is $MATH$ and the probability of outcome $MATH$ with value "1" is $MATH$. Because the absolute squares of the amplitudes equate to probabilities, it follows that $MATH$ and $MATH$ must be constrained according to the second axiom of probability theory by the equation
+The probability amplitudes, $MATH$ and $MATH$, encode more than just the probabilities of the outcomes of a measurement; the relative phase between $MATH$ and $MATH$ is for example responsible for quantum interference, as seen in the two-slit experiment.
+Bloch sphere representation
+It might, at first sight, seem that there should be four degrees of freedom in $MATH$, as $MATH$ and $MATH$ are complex numbers with two degrees of freedom each. However, one degree of freedom is removed by the normalization constraint |α|2 + |β|2 = 1.  This means, with a suitable change of coordinates, one can eliminate one of the degrees of freedom.  One possible choice is that of Hopf coordinates:
+Additionally, for a single qubit the global phase of the state $MATH$ has no physically observable consequences, so we can arbitrarily choose α to be real (or β in the case that α is zero), leaving just two degrees of freedom:
+where $MATH$ is the physically significant relative phase.
+The possible quantum states for a single qubit can be visualised using a Bloch sphere (see picture). Represented on such a 2-sphere, a classical bit could only be at the "North Pole" or the "South Pole", in the locations where $MATH$ and $MATH$ are respectively. This particular choice of the polar axis is arbitrary, however.  The rest of the surface of the Bloch sphere is inaccessible to a classical bit, but a pure qubit state can be represented by any point on the surface. For example, the pure qubit state $MATH$ would lie on the equator of the sphere at the positive X-axis. In the classical limit, a qubit, which can have quantum states anywhere on the Bloch sphere, reduces to the classical bit, which can be found only at either poles.
+The surface of the Bloch sphere is a two-dimensional space, which represents the observable state space of the pure qubit states. This state space has two local degrees of freedom, which can be represented by the two angles $MATH$ and $MATH$.
+Mixed state
+ A pure state is fully specified by a single ket, $MATH$ a coherent superposition, represented by a point on the surface of the Bloch sphere as described above. Coherence is essential for a qubit to be in a superposition state. With interactions, quantum noise and decoherence, it is possible to put the qubit in a mixed state, a statistical combination or “incoherent mixture” of different pure states. Mixed states can be represented by points inside the Bloch sphere (or in the Bloch ball). A mixed qubit state has three degrees of freedom: the angles $MATH$ and $MATH$, as well as the length $MATH$ of the vector that represents the mixed state.
+Quantum error correction can be used to maintain the purity of qubits.
+Operations on qubits
+ There are various kinds of physical operations that can be performed on qubits.
+Quantum entanglement
+ An important distinguishing feature between qubits and classical bits is that multiple qubits can exhibit quantum entanglement. Quantum entanglement is a nonlocal property of two or more qubits that allows a set of qubits to express higher correlation than is possible in classical systems.
+The simplest system to display quantum entanglement is the system of two qubits.  Consider, for example, two entangled qubits in the $MATH$ Bell state:
+In this state, called an equal superposition, there are equal probabilities of measuring either product state $MATH$ or $MATH$, as $MATH$.  In other words, there is no way to tell if the first qubit has value “0” or “1” and likewise for the second qubit.
+Imagine that these two entangled qubits are separated, with one each given to Alice and Bob.  Alice makes a measurement of her qubit, obtaining—with equal probabilities—either $MATH$ or $MATH$, i.e., she can now tell if her qubit has value “0” or “1”.  Because of the qubits' entanglement, Bob must now get exactly the same measurement as Alice.  For example, if she measures a $MATH$, Bob must measure the same, as $MATH$ is the only state where Alice's qubit is a $MATH$.  In short, for these two entangled qubits, whatever Alice measures, so would Bob, with perfect correlation, in any basis, however far apart they may be and even though both can not tell if their qubit has value “0” or “1” — a most surprising circumstance that can not be explained by classical physics.
+Controlled gate to construct the Bell state
+Controlled gates act on 2 or more qubits, where one or more qubits act as a control for some specified operation. In particular, the controlled NOT gate (or CNOT or CX) acts on 2 qubits, and performs the NOT operation on the second qubit only when the first qubit is $MATH$, and otherwise leaves it unchanged. With respect to the unentangled product basis $MATH$, $MATH$, $MATH$, $MATH$, it maps the basis states as follows:
+A common application of the CNOT gate is to maximally entangle two qubits into the $MATH$ Bell state. To construct $MATH$, the inputs A (control) and B (target) to the CNOT gate are:
+$MATH$ and $MATH$
+After applying CNOT, the output is the $MATH$ Bell State: $MATH$.
+Applications
+The $MATH$ Bell state forms part of the setup of the superdense coding, quantum teleportation, and entangled quantum cryptography algorithms.
+Quantum entanglement also allows multiple states (such as the Bell state mentioned above) to be acted on simultaneously, unlike classical bits that can only have one value at a time.  Entanglement is a necessary ingredient of any quantum computation that cannot be done efficiently on a classical computer.  Many of the successes of quantum computation and communication, such as quantum teleportation and superdense coding, make use of entanglement, suggesting that entanglement is a resource that is unique to quantum computation. A major hurdle facing quantum computing, as of 2018, in its quest to surpass classical digital computing, is noise in quantum gates that limits the size of quantum circuits that can be executed reliably.
+Quantum register
+A number of qubits taken together is a qubit register. Quantum computers perform calculations by manipulating qubits within a register.
+Qudits and qutrits
+The term qudit denotes the unit of quantum information that can be realized in suitable d-level quantum systems. A qubit register that can be measured to N states is identical to an N-level qudit. A rarely used synonym for qudit is quNit, since both d and N are frequently used to denote the dimension of a quantum system.
+Qudits are similar to the integer types in classical computing, and may be mapped to (or realized by) arrays of qubits. Qudits where the d-level system is not an exponent of 2 can not be mapped to arrays of qubits. It is for example possible to have 5-level qudits.
+In 2017, scientists at the National Institute of Scientific Research constructed a pair of qudits with 10 different states each, giving more computational power than 6 qubits.
+In 2022, researchers at the University of Innsbruck succeeded in developing a universal qudit quantum processor with trapped ions. In the same year, researchers at Tsinghua University's Center for Quantum Information implemented the dual-type qubit scheme in trapped ion quantum computers using the same ion species. Similar to the qubit, the qutrit is the unit of quantum information that can be realized in suitable 3-level quantum systems. This is analogous to the unit of classical information trit of ternary computers.
+Physical implementations
+Any two-level quantum-mechanical system can be used as a qubit. Multilevel systems can be used as well, if they possess two states that can be effectively decoupled from the rest (e.g., ground state and first excited state of a nonlinear oscillator). There are various proposals. Several physical implementations that approximate two-level systems to various degrees were successfully realized. Similarly to a classical bit where the state of a transistor in a processor, the magnetization of a surface in a hard disk and the presence of current in a cable can all be used to represent bits in the same computer, an eventual quantum computer is likely to use various combinations of qubits in its design.
+The following is an incomplete list of physical implementations of qubits, and the choices of basis are by convention only.
+Qubit storage
+In 2008 a team of scientists from the U.K. and U.S. reported the first relatively long (1.75 seconds) and coherent transfer of a superposition state in an electron spin "processing" qubit to a nuclear spin "memory" qubit. This event can be considered the first relatively consistent quantum data storage, a vital step towards the development of quantum computing. In 2013, a modification of similar systems (using charged rather than neutral donors) has dramatically extended this time, to 3 hours at very low temperatures and 39 minutes at room temperature. Room temperature preparation of a qubit based on electron spins instead of nuclear spin was also demonstrated by a team of scientists from Switzerland and Australia. An increased coherence of qubits is being explored by researchers who are testing the limitations of a Ge hole spin-orbit qubit structure.
+See also
+Notes
+References
+Further reading
+

@@ -1,0 +1,53 @@
+Sound pressure
+Sound pressure or acoustic pressure is the local pressure deviation from the ambient (average or equilibrium) atmospheric pressure, caused by a sound wave. In air, sound pressure can be measured using a microphone, and in water with a hydrophone. The SI unit of sound pressure is the pascal (Pa).
+Mathematical definition
+A sound wave in a transmission medium causes a deviation (sound pressure, a dynamic pressure) in the local ambient pressure, a static pressure.
+Sound pressure, denoted p, is defined by
+where
+Sound measurements
+Sound intensity
+In a sound wave, the complementary variable to sound pressure is the particle velocity. Together, they determine the sound intensity of the wave.
+Sound intensity, denoted I and measured in W·m−2 in SI units, is defined by
+where
+Acoustic impedance
+Acoustic impedance, denoted Z and measured in Pa·m−3·s in SI units, is defined by
+where
+Specific acoustic impedance, denoted z and measured in Pa·m−1·s in SI units, is defined by
+where
+Particle displacement
+The particle displacement of a progressive sine wave is given by
+where
+It follows that the particle velocity and the sound pressure along the direction of propagation of the sound wave x are given by
+where
+Taking the Laplace transforms of v and p with respect to time yields
+Since $MATH$, the amplitude of the specific acoustic impedance is given by
+Consequently, the amplitude of the particle displacement is related to that of the acoustic velocity and the sound pressure by
+Inverse-proportional law
+When measuring the sound pressure created by a sound source, it is important to measure the distance from the object as well, since the sound pressure of a spherical sound wave decreases as 1/r from the centre of the sphere (and not as 1/r2, like the sound intensity):
+This relationship is an inverse-proportional law.
+If the sound pressure p1 is measured at a distance r1 from the centre of the sphere, the sound pressure p2 at another position r2 can be calculated:
+The inverse-proportional law for sound pressure comes from the inverse-square law for sound intensity:
+Indeed,
+where
+hence the inverse-proportional law:
+The sound pressure may vary in direction from the centre of the sphere as well, so measurements at different angles may be necessary, depending on the situation. An obvious example of a sound source whose spherical sound wave varies in level in different directions is a bullhorn.
+Sound pressure level
+Sound pressure level (SPL) or acoustic pressure level is a logarithmic measure of the effective pressure of a sound relative to a reference value.
+Sound pressure level, denoted Lp and measured in dB, is defined by:
+where
+The commonly used reference sound pressure in air is
+which is often considered as the threshold of human hearing (roughly the sound of a mosquito flying 3 m away). The proper notations for sound pressure level using this reference are Lp/(20 μPa) or Lp (re 20 μPa), but the suffix notations dB SPL, dB(SPL), dBSPL, or dBSPL are very common, even if they are not accepted by the SI.
+Most sound-level measurements will be made relative to this reference, meaning 1 Pa will equal an SPL of 94 dB. In other media, such as underwater, a reference level of 1 μPa is used. These references are defined in ANSI S1.1-2013.
+The main instrument for measuring sound levels in the environment is the sound level meter. Most sound level meters provide readings in A, C, and Z-weighted decibels and must meet international standards such as IEC 61672-2013.
+Examples
+The lower limit of audibility is defined as SPL of 0 dB, but the upper limit is not as clearly defined. While 1 atm (194 dB peak or 191 dB SPL) is the largest pressure variation an undistorted sound wave can have in Earth's atmosphere (i.e. if the thermodynamic properties of the air are disregarded, in reality the sound waves become progressively non-linear starting over 150 dB), larger sound waves can be present in other atmospheres or other media, such as underwater or through the Earth.
+Ears detect changes in sound pressure. Human hearing does not have a flat spectral sensitivity (frequency response) relative to frequency versus amplitude. Humans do not perceive low- and high-frequency sounds as well as they perceive sounds between 3,000 and 4,000 Hz, as shown in the equal-loudness contour. Because the frequency response of human hearing changes with amplitude, three weightings have been established for measuring sound pressure: A, B and C. 
+In order to distinguish the different sound measures, a suffix is used: A-weighted sound pressure level is written either as dBA or LA. B-weighted sound pressure level is written either as dBB or LB, and C-weighted sound pressure level is written either as dBC or LC. Unweighted sound pressure level is called "linear sound pressure level" and is often written as dBL or just L. Some sound measuring instruments use the letter "Z" as an indication of linear SPL.
+Distance
+The distance of the measuring microphone from a sound source is often omitted when SPL measurements are quoted, making the data useless, due to the inherent effect of the inverse proportional law. In the case of ambient environmental measurements of "background" noise, distance need not be quoted, as no single source is present, but when measuring the noise level of a specific piece of equipment, the distance should always be stated. A distance of one metre (1 m) from the source is a frequently used standard distance. Because of the effects of reflected noise within a closed room, the use of an anechoic chamber allows sound to be comparable to measurements made in a free field environment.
+According to the inverse proportional law, when sound level Lp1 is measured at a distance r1, the sound level Lp2 at the distance r2 is
+Multiple sources
+The formula for the sum of the sound pressure levels of n incoherent radiating sources is
+Inserting the formulas
+in the formula for the sum of the sound pressure levels yields
+Examples of sound pressure

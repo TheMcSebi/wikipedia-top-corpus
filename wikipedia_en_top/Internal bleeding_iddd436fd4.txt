@@ -1,0 +1,35 @@
+Internal bleeding
+Internal bleeding (also called internal hemorrhage) is a loss of blood from a blood vessel that collects inside the body. Internal bleeding is usually not visible from the outside. It is a serious medical emergency but the extent of severity depends on bleeding rate and location of the bleeding (e.g. head, torso, extremities). Severe internal bleeding into the chest, abdomen, retroperitoneal space, pelvis, and thighs can cause hemorrhagic shock or death if proper medical treatment is not received quickly. Internal bleeding is a medical emergency and should be treated immediately by medical professionals.
+Signs and symptoms
+At first, there may be no symptoms of internal bleeding. If an organ is damaged and it bleeds, it can be painful. Over time, internal bleeding can cause low blood pressure (hypotension), increased heart rate (tachycardia), increased breathing rate (tachypnea), confusion, drowsiness, and loss of consciousness.
+A patient may lose more than 30% of their blood volume before there are changes in their vital signs or level of consciousness. This is called hemorrhagic or hypovolemic shock, which is a type of shock that occurs when there is not enough blood to reach organs in the body.
+Early symptoms include anxiety, increased breathing rate, weak peripheral pulses, and cold skin on the arms and legs. If internal bleeding is not treated, the heart and breathing rate will continue to increase while blood pressure and mental status decrease. Eventually, internal bleeding can result in death by blood loss (exsanguination). The median time from the onset of hemorrhagic shock to death by exsanguination is 2 hours.
+Causes
+Trauma
+The most common cause of death in trauma is bleeding. Death from trauma accounts for 1.5 million of the 1.9 million deaths per year due to bleeding.
+There are two types of trauma: penetrating trauma and blunt trauma.
+Non-traumatic
+A number of pathological conditions and diseases can lead to internal bleeding. These include:
+Other
+Internal bleeding could be caused by medical error as a result of complications after surgical operations or medical treatment. Some medication effects may also lead to internal bleeding, such as the use of anticoagulant drugs or antiplatelet drugs in the treatment of coronary artery disease.
+Diagnosis
+Vital signs
+Blood loss can be estimated based on heart rate, blood pressure, respiratory rate, and mental status. Advanced trauma life support (ATLS) by the American College of Surgeons separates hemorrhagic shock into four categories.
+Assessing circulation occurs after assessing the patient's airway and breathing (ABC (medicine)). If internal bleeding is suspected, a patient's circulatory system is assessed through palpation of pulses and doppler ultrasonography.
+Physical examination
+It is important to examine the person for visible signs that may suggest internal bleeding:
+It is also important to look for the source of the internal bleeding. If internal bleeding is suspected after trauma, a FAST exam may be performed to look for bleeding in the abdomen.
+Imaging
+If the patient has stable vital signs, they may undergo diagnostic imaging such as a CT scan. If the patient has unstable vital signs, they may not undergo diagnostic imaging and instead may receive immediate medical or surgical treatment.
+By location
+Internal bleeding can occur anywhere in the body. Some symptoms of internal bleeding depend on the location of the bleed. Some examples of types of internal bleeding include:
+Treatment
+Management of internal bleeding depends on the cause and severity of the bleed. Internal bleeding is a medical emergency and should be treated immediately by medical professionals.
+Fluid replacement
+If a patient has low blood pressure (hypotension), intravenous fluids can be used until they can receive a blood transfusion. In order to replace blood loss quickly and with large amounts of IV fluids or blood, patients may need a central venous catheter. Patients with severe bleeding need to receive large quantities of replacement blood via a blood transfusion. As soon as the clinician recognizes that the patient may have a severe, continuing hemorrhage requiring more than 4 units in 1 hour or 10 units in 6 hours, they should initiate a massive transfusion protocol. The massive transfusion protocol replaces red blood cells, plasma, and platelets in varying ratios based on the cause of the bleeding (traumatic vs. non-traumatic).
+Stopping the bleeding
+It is crucial to stop the internal bleeding immediately (achieve hemostasis) after identifying its cause. The longer it takes to achieve hemostasis in people with traumatic causes (e.g. pelvic fracture) and non-traumatic causes (e.g. gastrointestinal bleeding, ruptured abdominal aortic aneurysm), the higher the death rate is.
+Unlike with external bleeding, most internal bleeding cannot be controlled by applying pressure to the site of injury. Internal bleeding in the thorax and abdominal cavity (including both the intraperitoneal and retroperitoneal space) cannot be controlled with direct pressure (compression). A patient with acute internal bleeding in the thorax after trauma should be diagnosed, resuscitated, and stabilized in the Emergency Department in less than 10 minutes before undergoing surgery to reduce the risk of death from internal bleeding. A patient with acute internal bleeding in the abdomen or pelvis after trauma may require use of a REBOA device to slow the bleeding. The REBOA has also been used for non-traumatic causes of internal bleeding, including bleeding during childbirth and gastrointestinal bleeding.
+Internal bleeding from a bone fracture in the arms or legs may be partially controlled with direct pressure using a tourniquet. After tourniquet placement, the patient may need immediate surgery to find the bleeding blood vessel.
+Internal bleeding where the torso meets the extremities ("junctional sites" such as the axilla or groin) cannot be controlled with a tourniquet; however there is an FDA approved device known as an Abdominal Aortic and Junctional Tourniquet (AAJT) designed for proximal aortic control, although very few studies examining its use have been published. For bleeding at junctional sites, a dressing with a blood clotting agent (hemostatic dressing) should be applied.
+A campaign is to improve the care of the bleeding known as Stop The Bleed campaign is also taking place.

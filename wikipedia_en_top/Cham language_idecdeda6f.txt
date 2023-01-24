@@ -1,0 +1,255 @@
+Cham language
+Cham (Cham: ꨌꩌ) is a Malayo-Polynesian language of the Austronesian family, spoken by the Chams of Southeast Asia. It is spoken primarily in the territory of the former Kingdom of Champa, which spanned modern Southern Vietnam, as well as in Cambodia by a significant population which descends from refugees that fled during the decline and fall of Champa. The Western variety is spoken by 220,000 people in Cambodia and 25,000 people in Vietnam. As for the Eastern variety, there are about 73,000 speakers in Vietnam, for a total of approximately 320,000 speakers.
+Cham belongs to the Chamic languages, which are spoken in parts of mainland Southeast Asia, North Sumatra and on the island of Hainan. Cham is the oldest-attested Austronesian language, with the Đông Yên Châu inscription being verifiably dated to the late 4th century AD.
+Phonology
+The Cham language dialects each have 21 consonants and 9 vowels.
+Consonants
+Diphthongs
+/ia/, /iɯ/ (occurs only before /-ʔ/), /ea/, /ua/, /oa/, /au/ (occurs only before /-ʔ/), /iə/, /ɛə/, /ɔə/, /uə/.
+Grammar
+Word formation
+There are several prefixes and infixes which can be used for word derivation.
+Reduplication is often used:
+Syntax and word order
+Cham generally uses SVO word order, without any case marking to distinguish subject from object:
+Dahlak
+I
+atong
+beat
+nyu.
+he
+Dahlak atong nyu.
+I beat he
+"I beat him."
+Nyu
+he
+atong
+beat
+dahlak.
+I
+Nyu atong dahlak.
+he beat I
+"He beats me."
+Dummy pronominal subjects are sometimes used, echoing the subject:
+Inâ hudiap dahlak
+my wife's mother
+nyu
+she
+atong
+beat
+adei puthang nyu.
+her husband's younger sister
+{Inâ hudiap dahlak} nyu atong {adei puthang nyu.}
+{my wife's mother} she beat {her husband's younger sister}
+"My wife's mother beats her husband's younger sister."
+Composite verbs will behave as one inseparable verb, having the object come after it:
+Bloh
+then
+nyu
+she
+ndih di apvei
+lie at fire (i.e.: give birth)
+anek lakei.
+son
+Bloh nyu {ndih di apvei} {anek lakei.}
+then she {lie at fire (i.e.: give birth)} son
+"Then she gave birth to a son."
+Sometimes, however, the verb is placed in front of the subject:
+Lék
+fall
+dahlak.
+I
+Lék dahlak.
+fall I
+"I fall."
+Auxiliary verbs are placed after any objects:
+Nyu
+he
+ba
+bring
+hudiap nyu
+his wife
+nao.
+go
+Nyu ba {hudiap nyu} nao.
+he bring {his wife} go
+"He brings his wife."
+If a sentence contains more than one main verb, one of the two will have an adverbial meaning:
+Nyu
+he
+dep
+hide
+klaḥ
+evade
+mâtai.
+death
+Nyu dep klaḥ mâtai.
+he hide evade death
+"He evaded death by hiding."
+Adjectives come after the nouns they modify:
+thang
+house
+praong
+big
+thang praong
+house big
+"a big house"
+If the order is reversed, the whole will behave like a compound:
+urang
+person
+praong
+big
+sap
+noise
+urang praong sap
+person big noise
+"a noisy person"
+Composite sentences can be formed with the particle krung:
+tha drei athau tha drei mâyau
+the dog and the cat
+krung
+which
+ai nyu brei ka nyu
+his brother gave him
+{tha drei athau tha drei mâyau} krung {ai nyu brei ka nyu}
+{the dog and the cat} which {his brother gave him}
+"the dog and the cat his brother gave him"
+nao tapak
+to go straight
+danao
+lake
+krung
+which
+ai that ikan
+brother is fishing
+{nao tapak} danao krung {ai that ikan}
+{to go straight} lake which {brother is fishing}
+"to go straight to the lake where his brother was fishing"
+It is also possible to leave out this particle, without change in meaning:
+Dahlak brei athéh nan
+I give this horse
+ka wa dahlak
+to my uncle
+∅
+who
+dok dii palei Ram.
+live in the village of Ram
+{Dahlak brei athéh nan} {ka wa dahlak} ∅ {dok dii palei Ram.}
+{I give this horse} {to my uncle} who {live in the village of Ram}
+"I have given this horse to my uncle, who lives in the village of Ram."
+Questions are formed with the sentence-final particle rẽi:
+Anek
+child
+thau
+know
+wakhar
+writing
+rei?
+Q
+Anek thau wakhar rei?
+child know writing Q
+"Can you write, child?"
+Other question words are in situ:
+Hau
+you
+nao
+go
+hatao?
+where
+Hau nao hatao?
+you go where
+"Where are you going?"
+Nominals
+Like many languages in Eastern Asia, Cham uses numeral classifiers to express amounts. The classifier will always come after the numeral, with the noun coming invariably before or after the classifier-numeral pair.
+limâ
+five
+boḥ
+CLF
+châk
+mountain
+limâ boḥ châk
+five CLF mountain
+"five mountains"
+palei
+village
+naṃ
+six
+boḥ
+CLF
+palei naṃ boḥ
+village six CLF
+"six villages"
+The above examples show the classifier boḥ, which literally means "egg" and is the most frequently used — particularly for round and voluminous objects. Other classifiers are ôrang (person) for people and deities, ḅêk for long objects, blaḥ (leaf) for flat objects, and many others.
+The days of the month are counted with a similar system, with two classifiers: one (bangun) used to count days before the full moon, and the other one (ranaṃ) for days after the full moon.
+harei
+day
+tha
+one
+bangun
+CLF
+harei tha bangun
+day one CLF
+"first day after new moon"
+harei
+day
+dua
+two
+klaṃ
+CLF
+harei dua klaṃ
+day two CLF
+"second day after full moon"
+Personal pronouns behave like ordinary nouns and do not show any case distinctions. There are different forms depending on the level of politeness. The first person singular, for example, is kău in formal or distant context, while it is dahlak (in Vietnam) or hulun (in Cambodia) in an ordinarily polite context. As is the case with many other languages of the region, kinship terms are often used as personal pronouns.
+Comparative and superlative are expressed with the locative preposition di/dii:
+tapa
+big
+di
+at
+ai nyu
+his brother
+tapa di {ai nyu}
+big at {his brother}
+"bigger than his brother"
+Verbs
+There are some particles that can be used to indicate tense/aspect. The future is indicated with si or thi in Vietnam, with hi or si in Cambodia. The perfect is expressed with jâ. The first one comes in front of the verb:
+Arak ni
+now
+kau
+I
+si
+FUT
+nao.
+go
+{Arak ni} kau si nao.
+now I FUT go
+"I will go now."
+The second one is sentence-final:
+Sit tra
+little more
+kau
+I
+nao
+go
+jâ.
+PRF
+{Sit tra} kau nao jâ.
+{little more} I go PRF
+"I'll be gone in a moment."
+Certain verbs can function as auxiliaries to express other tenses or aspects. The verb dok ("to stay") is used for the continuous, wâk ("to return") for the repetitive aspect, and kieng ("to want") for the future tense.
+The negation is formed with oh/o at either or both sides of the verb, or with di/dii in front.
+The imperative is formed with the sentence-final particle bék, and the negative imperative with the preverbal juai/juei (in Vietnam and Cambodia respectively).
+Sociolinguistics
+Diglossia
+Brunelle observed two phenomena of language use among speakers of Eastern Cham: They are both diglossic and bilingual (in Cham and Vietnamese). Diglossia is the situation where two varieties of a language are used in a single language community, and oftentimes one is used on formal occasions (labelled H) and the other is more colloquial (labelled L).
+Dialectal differences
+Cham is divided into two primary dialects. 
+The two regions where Cham is spoken are separated both geographically and culturally. The more numerous Western Cham are predominantly Muslims (although some in Cambodia now practice Theravāda Buddhism), while the Eastern Cham practice both Hinduism and Islam. Ethnologue states that the Eastern and Western dialects are no longer mutually intelligible. The table below gives some examples of words where the two dialects differed as of the 19th century.
+Lê et al. (2014:175) lists a few Cham subgroups.
+Writing systems
+Cham script is a Brahmic script. The script has two varieties: Akhar Thrah (Eastern Cham) and Akhar Srak (Western Cham). The Western Cham language is written with the Arabic script or the aforementioned Akhar Srak.
+Dictionaries
+The Ming dynasty Chinese Bureau of Translators produced a Chinese-Cham dictionary.
+John Crawfurd's 1822 work "Journal of an Embassy to the Courts of Siam and Cochin-China" contains a wordlist of the Cham language.: 40 
+See also
+Notes
+Further reading

@@ -1,0 +1,96 @@
+Henry's law
+In physical chemistry, Henry's law is a gas law that states that the amount of dissolved gas in a liquid is directly proportional to its partial pressure above the liquid. The proportionality factor is called Henry's law constant. It was formulated by the English chemist William Henry, who studied the topic in the early 19th century.
+An example where Henry's law is at play is in the depth-dependent dissolution of oxygen and nitrogen in the blood of underwater divers that changes during decompression, leading to decompression sickness. An everyday example is given by one's experience with carbonated soft drinks, which contain dissolved carbon dioxide. Before opening, the gas above the drink in its container is almost pure carbon dioxide, at a pressure higher than atmospheric pressure. After the bottle is opened, this gas escapes, moving the partial pressure of carbon dioxide above the liquid to be much lower, resulting in degassing as the dissolved carbon dioxide comes out of the solution.
+History
+In his 1803 publication about the quantity of gases absorbed by water, William Henry described the results of his experiments:
+Charles Coulston Gillispie states that John Dalton "supposed that the separation of gas particles one from another in the vapor phase bears the ratio of a small whole number to their interatomic distance in solution. Henry's law follows as a consequence if this ratio is a constant for each gas at a given temperature."
+Applications
+In production of carbonated beverages
+Under high pressure, solubility of CO2 increases. On opening the bottle to atmospheric pressure,  solubility decreases and the gas bubbles are released from the liquid.
+In the service of cask-conditioned beer
+It is often noted that beer served by gravity (that is, directly from a tap in the cask) is less heavily carbonated than the same beer served via a hand-pump (or beer-engine). This is because beer is pressured on its way to the point of service by the action of the beer engine, which causes carbon dioxide to dissolve in the beer. This then comes out of solution once the beer has left the pump, causing a higher level of perceptible 'condition' in the beer.
+For climbers or people living at high altitude
+Concentration of O2 in the blood and tissues is so low that they feel weak and are unable to think properly, a condition called hypoxia.
+In underwater diving
+In underwater diving, gas is breathed at the ambient pressure which increases with depth due to the hydrostatic pressure. Solubility of gases increase at depth in accordance with Henry's law, so the body tissues take on more gas over time until saturated for the depth and vice versa. When ascending the diver is decompressed and the solubility of the gases dissolved in the tissues decreases accordingly. If the supersaturation is too great, bubbles may form and grow, and the presence of these bubbles can cause blockages in capillaries, or distortion in the more solid tissues which can cause damage known as decompression sickness. To avoid this injury the diver must ascend slow enough that the excess dissolved gas is carried away by the blood and released into the lung gas.
+Fundamental types and variants of Henry's law constants
+There are many ways to define the proportionality constant of Henry's law, which can be subdivided into two fundamental types: One possibility is to put the aqueous phase into the numerator and the gaseous phase into the denominator ("aq/gas"). This results in the Henry's law solubility constant $MATH$. Its value increases with increased solubility. Alternatively, numerator and denominator can be switched ("gas/aq"), which results in the Henry's law volatility constant $MATH$. The value of $MATH$ decreases with increased solubility. IUPAC describes several variants of both fundamental types. This results from the multiplicity of quantities that can be chosen to describe the composition of the two phases. Typical choices for the aqueous phase are molar concentration ($MATH$), molality ($MATH$), and molar mixing ratio ($MATH$). For the gas phase, molar concentration ($MATH$) and partial pressure ($MATH$) are often used. It is not possible to use the gas-phase mixing ratio ($MATH$) because at a given gas-phase mixing ratio, the aqueous-phase concentration $MATH$ depends on the total pressure and thus the ratio $MATH$ is not a constant. To specify the exact variant of the Henry's law constant, two superscripts are used. They refer to the numerator and the denominator of the definition. For example, $MATH$ refers to the Henry solubility defined as $MATH$.
+Henry solubility defined via concentration (Hscp)
+Atmospheric chemists often define the Henry solubility as
+Here $MATH$ is the concentration of a species in the aqueous phase, and $MATH$ is the partial pressure of that species in the gas phase under equilibrium conditions.
+The SI unit for $MATH$ is mol/(m3·Pa); however, often the unit M/atm is used, since $MATH$ is usually expressed in M (1 M = 1 mol/dm3) and $MATH$ in atm (1 atm = 101325 Pa).
+The dimensionless Henry solubility Hscc
+The Henry solubility can also be expressed as the dimensionless ratio between the aqueous-phase concentration $MATH$ of a species and its gas-phase concentration $MATH$:
+For an ideal gas, the conversion is:
+where $MATH$ is the gas constant, and $MATH$ is the temperature.
+Sometimes, this dimensionless constant is called the water–air partitioning coefficient $MATH$. It is closely related to the various, slightly different definitions of the Ostwald coefficient $MATH$, as discussed by Battino (1984).
+Henry solubility defined via aqueous-phase mixing ratio (Hsxp)
+Another Henry's law solubility constant is:
+Here $MATH$ is the molar mixing ratio in the aqueous phase. For a dilute aqueous solution the conversion between $MATH$ and $MATH$ is:
+where $MATH$ is the density of water and $MATH$ is the molar mass of water. Thus
+The SI unit for $MATH$ is Pa−1, although atm−1 is still frequently used.
+Henry solubility defined via molality (Hsbp)
+It can be advantageous to describe the aqueous phase in terms of molality instead of concentration. The molality of a solution does not change with $MATH$, since it refers to the mass of the solvent. In contrast, the concentration $MATH$ does change with $MATH$, since the density of a solution and thus its volume are temperature-dependent. Defining the aqueous-phase composition via molality has the advantage that any temperature dependence of the Henry's law constant is a true solubility phenomenon and not introduced indirectly via a density change of the solution. Using molality, the Henry solubility can be defined as
+Here $MATH$ is used as the symbol for molality (instead of $MATH$) to avoid confusion with the symbol $MATH$ for mass. The SI unit for $MATH$ is mol/(kg·Pa). There is no simple way to calculate $MATH$ from $MATH$, since the conversion between concentration $MATH$ and molality $MATH$ involves all solutes of a solution. For a solution with a total of $MATH$ solutes with indices $MATH$, the conversion is:
+where $MATH$ is the density of the solution, and $MATH$ are the molar masses. Here $MATH$ is identical to one of the $MATH$ in the denominator. If there is only one solute, the equation simplifies to
+Henry's law is only valid for dilute solutions where $MATH$ and $MATH$. In this case the conversion reduces further to
+and thus
+The Bunsen coefficient α
+According to Sazonov and Shaw, the dimensionless Bunsen coefficient $MATH$ is defined as "the volume of saturating gas, V1, reduced to T° = 273.15 K, p° = 1 bar, which is absorbed by unit volume V2* of pure solvent at the temperature of measurement and partial pressure of 1 bar." If the gas is ideal, the pressure cancels out, and the conversion to $MATH$ is simply
+with $MATH$ = 273.15 K. Note, that according to this definition, the conversion factor is not temperature-dependent. Independent of the temperature that the Bunsen coefficient refers to, 273.15 K is always used for the conversion. The Bunsen coefficient, which is named after Robert Bunsen, has been used mainly in the older literature, and IUPAC considers it to be obsolete.
+The Kuenen coefficient S
+According to Sazonov and Shaw, the Kuenen coefficient $MATH$ is defined as "the volume of saturating gas V(g), reduced to T° = 273.15 K, p° = bar, which is dissolved by unit mass of pure solvent at the temperature of measurement and partial pressure 1 bar." If the gas is ideal, the relation to $MATH$ is
+where $MATH$ is the density of the solvent, and $MATH$ = 273.15 K. The SI unit for $MATH$ is m3/kg. The Kuenen coefficient, which is named after Johannes Kuenen, has been used mainly in the older literature, and IUPAC considers it to be obsolete.
+The Henry volatility defined via concentration (Hpcv)
+A common way to define a Henry volatility is dividing the partial pressure by the aqueous-phase concentration:
+The SI unit for $MATH$ is Pa·m3/mol.
+The Henry volatility defined via aqueous-phase mixing ratio (Hpxv)
+Another Henry volatility is
+The SI unit for $MATH$ is Pa. However, atm is still frequently used.
+The dimensionless Henry volatility Hccv
+The Henry volatility can also be expressed as the dimensionless ratio between the gas-phase concentration $MATH$ of a species and its aqueous-phase concentration $MATH$:
+In chemical engineering and environmental chemistry, this dimensionless constant is often called the air–water partitioning coefficient $MATH$.
+Values of Henry's law constants
+A large compilation of Henry's law constants has been published by Sander (2015). A few selected values are shown in the table below:
+Temperature dependence
+When the temperature of a system changes, the Henry constant also changes. The temperature dependence of equilibrium constants can generally be described with the van 't Hoff equation, which also applies to Henry's law constants:
+where $MATH$ is the enthalpy of dissolution. Note that the letter $MATH$ in the symbol $MATH$ refers to enthalpy and is not related to the letter $MATH$ for Henry's law constants. Integrating the above equation and creating an expression based on $MATH$ at the reference temperature $MATH$ = 298.15 K yields:
+The van 't Hoff equation in this form is only valid for a limited temperature range in which $MATH$ does not change much with temperature (around 20K of variations).
+The following table lists some temperature dependencies: 
+Solubility of permanent gases usually decreases with increasing temperature at around room temperature. However, for aqueous solutions, the Henry's law solubility constant for many species goes through a minimum. For most permanent gases, the minimum is below 120 °C. Often, the smaller the gas molecule (and the lower the gas solubility in water), the lower the temperature of the maximum of the Henry's law constant. Thus, the maximum is at about 30 °C for helium, 92 to 93 °C for argon, nitrogen and oxygen, and 114 °C for xenon.
+Effective Henry's law constants Heff
+The Henry's law constants mentioned so far do not consider any chemical equilibria in the aqueous phase. This type is called the intrinsic, or physical, Henry's law constant. For example, the intrinsic Henry's law solubility constant of formaldehyde can be defined as
+In aqueous solution, formaldehyde is almost completely hydrated:
+The total concentration of dissolved formaldehyde is
+Taking this equilibrium into account, an effective Henry's law constant $MATH$ can be defined as
+For acids and bases, the effective Henry's law constant is not a useful quantity because it depends on the pH of the solution. In order to obtain a pH-independent constant, the product of the intrinsic Henry's law constant $MATH$ and the acidity constant $MATH$ is often used for strong acids like hydrochloric acid (HCl):
+Although $MATH$ is usually also called a Henry's law constant, it is a different quantity and it has different units than $MATH$.
+Dependence on ionic strength (Sechenov equation)
+Values of Henry's law constants for aqueous solutions depend on the composition of the solution, i.e., on its ionic strength and on dissolved organics. In general, the solubility of a gas decreases with increasing salinity ("salting out"). However, a "salting in" effect has also been observed, for example for the effective Henry's law constant of glyoxal. The effect can be described with the Sechenov equation, named after the Russian physiologist Ivan Sechenov (sometimes the German transliteration "Setschenow" of the Cyrillic name Се́ченов is used). There are many alternative ways to define the Sechenov equation, depending on how the aqueous-phase composition is described (based on concentration, molality, or molar fraction) and which variant of the Henry's law constant is used. Describing the solution in terms of molality is preferred because molality is invariant to temperature and to the addition of dry salt to the solution. Thus, the Sechenov equation can be written as
+where $MATH$ is the Henry's law constant in pure water, $MATH$ is the Henry's law constant in the salt solution, $MATH$ is the molality-based Sechenov constant, and $MATH$ is the molality of the salt.
+Non-ideal solutions
+Henry's law has been shown to apply to a wide range of solutes in the limit of infinite dilution (x → 0), including non-volatile substances such as sucrose. In these cases, it is necessary to state the law in terms of chemical potentials. For a solute in an ideal dilute solution, the chemical potential depends only on the concentration. For non-ideal solutions, the activity coefficients of the components must be taken into account:
+where $MATH$ for a volatile solute; c° = 1 mol/L.
+For non-ideal solutions, the infinite dilution activity coefficient γc depends on the concentration and must be determined at the concentration of interest. The activity coefficient can also be obtained for non-volatile solutes, where the vapor pressure of the pure substance is negligible, by using the Gibbs-Duhem relation:
+By measuring the change in vapor pressure (and hence chemical potential) of the solvent, the chemical potential of the solute can be deduced.
+The standard state for a dilute solution is also defined in terms of infinite-dilution behavior. Although the standard concentration c° is taken to be 1 mol/L by convention, the standard state is a hypothetical solution of 1 mol/L in which the solute has its limiting infinite-dilution properties. This has the effect that all non-ideal behavior is described by the activity coefficient: the activity coefficient at 1 mol/L is not necessarily unity (and is frequently quite different from unity).
+All the relations above can also be expressed in terms of molalities b rather than concentrations, e.g.:
+where $MATH$ for a volatile solute; b° = 1 mol/kg.
+The standard chemical potential μm°, the activity coefficient γm and the Henry's law constant Hvpb all have different numerical values when molalities are used in place of concentrations.
+Solvent mixtures
+Henry's law solubility constant $MATH$ for a gas 2 in a mixture M of two solvents 1 and 3 depends on the individual constants for each solvent, $MATH$ and $MATH$ according  to:
+Where $MATH$, $MATH$ are the molar ratios of each solvent in the mixture and a13 is the interaction parameter of the solvents from Wohl expansion of the excess chemical potential of the ternary mixtures.
+A similar relationship can be found for the volatility constant $MATH$, by remembering that $MATH$ and that, both being positive real numbers, $MATH$, thus:
+For a water-ethanol mixture, the interaction parameter a13 has values around $MATH$ for ethanol concentrations (volume/volume) between 5% and 25%.
+Miscellaneous
+In geochemistry
+In geochemistry, a version of Henry's law applies to the solubility of a noble gas in contact with silicate melt. One equation used is
+where
+Comparison to Raoult's law
+Henry's law is a limiting law that only applies for "sufficiently dilute" solutions, while Raoult's law is generally valid when the liquid phase is almost pure or for mixtures of similar substances. The range of concentrations in which Henry's law applies becomes narrower the more the system diverges from ideal behavior. Roughly speaking, that is the more chemically "different" the solute is from the solvent.
+For a dilute solution, the concentration of the solute is approximately proportional to its mole fraction x, and Henry's law can be written as
+This can be compared with Raoult's law:
+where p* is the vapor pressure of the pure component.
+At first sight, Raoult's law appears to be a special case of Henry's law, where Hvpx = p*. This is true for pairs of closely related substances, such as benzene and toluene, which obey Raoult's law over the entire composition range: such mixtures are called ideal mixtures.
+The general case is that both laws are limit laws, and they apply at opposite ends of the composition range. The vapor pressure of the component in large excess, such as the solvent for a dilute solution, is proportional to its mole fraction, and the constant of proportionality is the vapor pressure of the pure substance (Raoult's law). The vapor pressure of the solute is also proportional to the solute's mole fraction, but the constant of proportionality is different and must be determined experimentally (Henry's law). In mathematical terms:
+Raoult's law can also be related to non-gas solutes.

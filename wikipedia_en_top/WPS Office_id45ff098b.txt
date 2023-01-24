@@ -1,0 +1,39 @@
+WPS Office
+WPS Office (an acronym for Writer, Presentation and Spreadsheets, previously known as Kingsoft Office) is an office suite for Microsoft Windows, macOS, Linux, iOS, Android, and HarmonyOS developed by Zhuhai-based Chinese software developer Kingsoft. It also comes pre-installed on Fire tablets. WPS Office is made up of three primary components: WPS Writer, WPS Presentation, and WPS Spreadsheet. By 2022, WPS Office reached a number of more than 494 million monthly active users and over 1.2 billion installations.
+The personal basic version is free to use. A fully featured professional-grade version is also available for a subscription fee. WPS Office 2016 was released in 2016. As of 2019, the Linux version is developed and supported by a volunteer community rather than Kingsoft itself.
+The product has had a long history of development in China under the name "WPS" and "WPS Office". For a time, Kingsoft branded the suite as "KSOffice" for the international market, but later returned to "WPS Office". Since the release of WPS Office 2005, the user interface is similar to that of Microsoft Office products, and it supports Microsoft document formats in addition to its own files.
+History
+Origins
+WPS Office was initially known as Super-WPS文字处理系统 (Super-WPS Word Processing System, then known simply as WPS) in 1988 as a word processor that ran on DOS systems and sold by then-Hong Kong Kingsun COMPUTER CO. LTD.. It was the first Chinese-language word processor designed and developed for the mainland Chinese market. WPS was used from the late 1980s.
+Early history
+Faced with competition from Microsoft Office, Kingsoft chief software architect Pak Kwan Kau (求伯君) diverted 4 million Renminbi from his personal account to assist in the development of WPS 97 for Microsoft Windows. In 1997, WPS 97 was released. The next version, WPS 2000, was released two years later. Both products were developed for a 16-bit Windows platform, with the capability of running on 32-bit Windows platforms.
+In May 2001, Kingsoft launched a full office suite under the name WPS Office 2001, which contained a word processor together with spreadsheet and presentation applications. With WPS Office 2001, Kingsoft entered the office productivity market in the People's Republic of China.
+In 2002, WPS Office 2002 was released, adding an email client to the office suite. WPS Office 2002 aimed to maintain interface compatibility with established office products.
+In 2003, WPS Office 2003 was released. The Chinese government made Kingsoft office software the standard for various divisions of the government.
+The 2004 incarnation of the office suite, dubbed WPS Office Storm, was released in late 2004. It claimed to offer total backward compatibility with Microsoft Office file formats. Unlike previous versions, WPS Storm was based on OpenOffice.org and was the first WPS Office suite to support operating systems other than Microsoft Windows. Kingsoft collaborated with Intel and IBM to integrate its text-to-text and text-to-speech technology into WPS Office Storm.
+In late 2005, WPS Office 2005 was released with a revamped interface and a smaller file size. Besides the Professional edition, a free Simplified Chinese edition was offered for students and home users. A Wine-hosted edition was provided for Linux users of WPS Office Storm.
+In 2007, Kingsoft Office 2007 was released. This was the first version that tried to enter international markets, with support for the English and Japanese languages. The native Chinese-language version continued under the name WPS Office.
+In 2009, Kingsoft Office 2009 was released. It had increased compatibility with Microsoft Office including support for the newer 2007-version file formats.
+In 2010, Kingsoft Office 2010 was released.
+In 2011, Kingsoft Office was granted funding from the Chinese government and received further orders from central ministries in China.
+Kingsoft Office Suite Free 2012 was released in 2011. Kingsoft Office Professional 2012 and Kingsoft Office Standard 2012 were released for sale in February 2012, in addition to Kingsoft Office for Android. The initial release for Android included standard word processor functions such as creating documents, spreadsheets, and presentations.
+On 28 March 2012 Kingsoft announced that WPS for Linux was under development. It is the third WPS Linux product, following WPS Storm and WPS 2005. It was developed from scratch, based on the Qt framework, as compatible as possible with its Windows counterpart.
+The free and paid versions of Kingsoft Office 2013 were released on 4 June 2013. They consist of three programs: Writer, Spreadsheets, and Presentation, which are similar to Microsoft Word, Excel, and PowerPoint. WPS Office for Linux Alpha 18 Patch 1 was released on 11 June 2015.
+2014-present
+On June 6, 2014, all Kingsoft Office products were renamed WPS Office.
+On December 16, 2014, WPS Office 2014 for Windows, build 9.1.0.4932, was released as a subscription model for a monthly charge of US$3 for some features. The free version provided basic features and supported Microsoft Office .doc, .xls, and .ppt file formats. Premium paid versions provided full compatibility for Microsoft Office files. Officially only the paid 2014 version supported saving files in .docx, .xlsx, and .pptx formats, but, actually, the free version also supported these formats (as had the 2013 free version).
+On June 21, 2016, WPS Office 2016 for Windows became generally available as Freemium software, with no subscription needed for basic features.
+On 28 May 2017 Kingsoft tweeted that the Linux version was at a halt, but denied this a few days later, removed the tweet, and issued a further alpha version. Kingsoft also tweeted making reference to making WPS Office for Linux open-source towards the end of 2017 to allow the Linux community to step in and continue maintaining it, but later deleted this tweet too. Since at least June 2022, the fully functional Linux freeware version "WPS 2021" could simply be downloaded from the WPS website at no cost to the user.
+WPS Office 2019 was released on May 6, 2019. It introduced new integration and personalized features as well as full support for the PDF format.
+On July 22, 2021, WPS Office arrived on Huawei's new HarmonyOS platform on smartphones and tablets with Multi-terminal document service capabilities as a .hap app. HarmonyOS version comes with large-screen presentation, small-screen prompts, text highlighting to focus on key information, full-screen video playback without professional settings, small-screen graffiti, large-screen presentation, picture zoom information at a glance, atomic service on-the-go. Also HarmonyOS version of WPS Office connects the personal version and multi-screen collaboration to improve productivity.
+Editions
+WPS Office has versions for multiple operating systems. It has editions for:
+In addition to the above, WPS Office also has a web version.
+Versions and subscription model
+WPS Office 2016 is available in Free, Premium, and Professional versions, along with versions for Android and iOS. The free version provides basic features and supports Microsoft Office file formats. Some features, such as printing and mail-merge, can be temporarily accessed only after viewing an advertisement, which WPS Office refers to as sponsored access.
+The subscription-based, paid version, called WPS Office 2016 Premium, is available for US$9.99 per 3 months, and makes all features available without viewing advertisements.
+A lifetime license for WPS Office 2016 Professional can be purchased for $79.99.
+File format
+According to an April 2017 review of WPS Office 2016 Free v10.2.0.5871 for Windows, the program opens and saves all Microsoft Office document formats (doc, docx, xls, xlsx, etc.), HTML, RTF, XML, and PDF.
+See also
+Notes and references

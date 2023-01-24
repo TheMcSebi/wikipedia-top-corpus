@@ -1,0 +1,44 @@
+Centrino
+Centrino is a brand name of Intel Corporation which represents its Wi-Fi and WiMAX wireless computer networking adapters. Previously the same brand name was used by the company as a platform-marketing initiative. The change of the meaning of the brand name occurred on January 7, 2010. The Centrino was replaced by the Ultrabook.
+The old platform-marketing brand name covered a particular combination of mainboard chipset, mobile CPU and wireless network interface in the design of a laptop. Intel claimed that systems equipped with these technologies delivered better performance, longer battery life and broader wireless network interoperability than non-Centrino systems.
+The new product line name for Intel wireless products is Intel Centrino Wireless.
+Notebook implementations
+Carmel platform (2003)
+Intel used "Carmel" as the codename for the first-generation Centrino platform, introduced in March 2003.
+Industry-watchers initially criticized the Carmel platform for its lack of support for IEEE 802.11g, because many independent Wi-Fi chip-makers like Broadcom and Atheros had already started shipping 802.11g products. Intel responded that the IEEE had not finalized the 802.11g standard at the time of Carmel's announcement.
+In early 2004, after the finalization of the 802.11g standard, Intel permitted an Intel PRO/Wireless 2200BG to substitute for the 2100. At the same time, they permitted the new Dothan Pentium M to substitute for the Banias Pentium M. Initially, Intel permitted only the 855GM chipset, which did not support external graphics. Later, Intel allowed the 855GME and 855PM chips, which did support external graphics, in Centrino laptops.
+Despite criticisms, the Carmel platform won quick acceptance among OEMs and consumers. Carmel could attain or exceed the performance of older Pentium 4-M platforms, while allowing for laptops to operate for 4 to 5 hours on a 48 W-h battery. Carmel also allowed laptop manufacturers to create thinner and lighter laptops because its components did not dissipate much heat, and thus did not require large cooling systems.
+Sonoma platform (2005)
+Intel used Sonoma as the codename for the second-generation Centrino platform, introduced in January 2005.
+The Mobile 915 Express chipset, like its desktop version, supports many new features such as DDR2, PCI Express, Intel High Definition Audio, and SATA.  Unfortunately, the introduction of PCI Express and faster Pentium M processors causes laptops built around the Sonoma platform to have a shorter battery-life than their Carmel counterparts; Sonoma laptops typically achieve between 3.5–4.6 hours of battery-life on a 53 W-h battery.
+Napa platform (2006)
+The codename Napa designates the third-generation Centrino platform, introduced in January 2006 at the Winter Consumer Electronics Show. The platform initially supported Intel Core Duo processors but the newer Core 2 Duo processors were launched and supported in this platform from July 27, 2006 onwards.
+Intel uses Centrino Duo branding for laptops with dual-core Core Duo processors and retains the Centrino name for laptops with single core (Core Solo) processors. Some of the initial Core Duo laptops are still labeled as Intel Centrino rather than Centrino Duo.
+Santa Rosa platform (2007)
+The codename Santa Rosa refers to the fourth-generation Centrino platform, which was released on Thursday May 10, 2007.
+The Santa Rosa platform comes with dynamic acceleration technology, allowing single threaded applications to execute faster. When a single threaded application is running, the CPU can turn off one of its cores and overclock the active core. In this way the CPU maintains the same Thermal Profile as it would when both cores are active.  Santa Rosa performs well as a mobile gaming platform due to its ability to switch between single threaded and multithreaded tasks. Other power savings come from an Enhanced Sleep state where both the CPU cores and the chipset will power down.
+The wireless chipset update was originally intended to include WWAN Internet access via HSDPA (3.5G), (codenamed Windigo) co-developed with Nokia. After announcing a working partnership, both later retracted the deal citing the lack of a clear business case for the technology. Support for WiMAX (802.16) was originally scheduled for inclusion in Santa Rosa but was later delayed until Montevina in 2008.
+It is branded as "Centrino Pro" when combined with the enhanced security technologies Intel introduced with vPro and "Centrino Duo" when they are not used.
+Montevina platform (2008)
+The codename Montevina refers to the fifth-generation Centrino platform, now formally named Centrino 2 to avoid confusion with previous Centrino platforms.  It was scheduled for release at Computex Taipei 2008, which took place on June 3–7, 2008, but was delayed until July 15, due to problems with integrated graphics and wireless certification.
+It is branded as Centrino 2 vPro when combined with built-in security and manageability features technologies.
+Calpella platform (2009)
+The codename Calpella refers to the sixth-generation Centrino platform. Though originally scheduled to premiere in Q3 2009 with the second iteration of Nehalem processors, Intel had stated that due to pressure from computer manufacturers, they would delay the release of the platform until at least October 2009 (Q4 2009) to allow OEM partners to clear excess inventory of existing chips. This was believed to be spurred by the lowered demand due to unfavorable economic conditions throughout 2009.
+Huron River platform (2011)
+The codename "Huron River" refers to the seventh-generation Centrino platform.
+Chief River platform (2012)
+The codename Chief River refers to the eighth-generation Centrino platform.
+Shark Bay platform (2013)
+The codename Shark Bay refers to the ninth-generation Centrino platform.
+Jon Worrel predicted in 2012 that Shark Bay would comprise a single Multi-Chip Module (MCM) package.
+Mobile Internet Device
+Menlow platform (2008)
+On March 2, 2008, Intel introduced the Intel Atom processor brand for a new family of low-power processor platforms. The components have thin, small designs and work together to "enable the best mobile computing and Internet experience" on mobile and low-power devices.
+Intel's second generation MID platform (codenamed Menlow) contains a 45 nm Intel Atom processor (codenamed Silverthorne) which can run up to 2.0 GHz and a System Controller Hub (codenamed Poulsbo) which includes Intel HD Audio (codenamed Azalia).
+This platform was initially branded as Centrino Atom but the logo was dropped in August 2008; the logo had caused confusion between laptop and MID with previous marketing of Centrino stating only Intel chipsets are being used. Hence MIDs will be branded as Atom to allow integration with other OEM chipsets for the low-end market.
+Intel Centrino Wireless
+Intel Centrino Wireless is the brand for Intel Wi-Fi and WiMAX adapters. The product line includes:
+Centrino with Intel vPro technology
+Laptops with Intel vPro technology have hardware features that allow a system administrator to remotely access wired and wireless laptops for maintenance and servicing if the operating system is unresponsive or crashed and, when a laptop is connected to AC power (not on battery power), allow a sys-admin to remotely access the laptop when the system is asleep or laptop power is off. It is targeted more for businesses than consumers.
+Security technologies
+Laptops with vPro have the typical dual-core or quad-core processor and wireless features of the Centrino family.

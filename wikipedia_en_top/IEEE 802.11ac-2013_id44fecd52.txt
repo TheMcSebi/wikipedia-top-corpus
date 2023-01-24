@@ -1,0 +1,30 @@
+IEEE 802.11ac-2013
+IEEE 802.11ac-2013 or 802.11ac is a wireless networking standard in the IEEE 802.11 set of protocols (which is part of the Wi-Fi networking family), providing high-throughput wireless local area networks (WLANs) on the 5 GHz band. The standard has been retroactively labelled as Wi-Fi 5 by Wi-Fi Alliance.
+The specification has multi-station throughput of at least 1.1 gigabit per second (1.1 Gbit/s) and single-link throughput of at least 500 megabits per second (0.5 Gbit/s). This is accomplished by extending the air-interface concepts embraced by 802.11n: wider RF bandwidth (up to 160 MHz), more MIMO spatial streams (up to eight), downlink multi-user MIMO (up to four clients), and high-density modulation (up to 256-QAM).
+The Wi-Fi Alliance separated the introduction of ac wireless products into two phases ("waves"), named "Wave 1" and "Wave 2". From mid-2013, the alliance started certifying Wave 1 802.11ac products shipped by manufacturers, based on the IEEE 802.11ac Draft 3.0 (the IEEE standard was not finalized until later that year). Subsequently in 2016, Wi-Fi Alliance introduced the Wave 2 certification, which includes additional features like MU-MIMO (down-link only), 160 MHz channel width support, support for more 5 GHz channels, and four spatial streams (with four antennas; compared to three in Wave 1 and 802.11n, and eight in IEEE's 802.11ax specification). It meant Wave 2 products would have higher bandwidth and capacity than Wave 1 products.
+New technologies
+New technologies introduced with 802.11ac include the following:
+Features
+Mandatory
+Optional
+New scenarios and configurations
+The single-link and multi-station enhancements supported by 802.11ac enable several new WLAN usage scenarios, such as simultaneous streaming of HD video to multiple clients throughout the home, rapid synchronization and backup of large data files, wireless display, large campus/auditorium deployments, and manufacturing floor automation.
+With the inclusion of USB 3.0 interface, 802.11ac access points and routers can use locally attached storage to provide various services that fully utilize their WLAN capacities, such as video streaming, FTP servers, and personal cloud services.  With storage locally attached through USB 2.0, filling the bandwidth made available by 802.11ac was not easily accomplished.
+Example configurations
+All rates assume 256-QAM, rate 5/6:
+Wave 1 vs. Wave 2
+Wave 2, referring to products introduced in 2016, offers a higher throughput than legacy Wave 1 products, those introduced starting in 2013. The maximum physical layer theoretical rate for Wave 1 is 1.3 Gbit/s, while Wave 2 can reach 2.34 Gbit/s. Wave 2 can therefore achieve 1 Gbit/s even if the real world throughput turns out to be only 50% of the theoretical rate. Wave 2 also supports a higher number of connected devices.
+Data rates and speed
+Several companies are currently offering 802.11ac chipsets with higher modulation rates: MCS-10 and MCS-11 (1024-QAM), supported by Quantenna and Broadcom. Although technically not part of 802.11ac, these new MCS indices are expected to become official in the 802.11ax standard (~2019), the successor to 802.11ac.
+160 MHz channels, and thus the throughput might be unusable in some countries/regions due to regulatory issues that allocated some frequencies for other purposes.
+Advertised speeds
+802.11ac-class device wireless speeds are often advertised as AC followed by a number, that number being the highest link rates in Mbit/s of all the simultaneously-usable radios in the device added up.  For example, an AC1900 access point might have 600 Mbit/s capability on its 2.4 GHz radio and 1300 Mbit/s capability on its 5 GHz radio.  No single client device could connect and achieve 1900 Mbit/s of throughput, but separate devices each connecting to the 2.4 GHz and 5 GHz radios could achieve combined throughput approaching 1900 Mbit/s.  Different possible stream configurations can add up to the same AC number.
+Products
+Commercial routers and access points
+Quantenna released the first 802.11ac chipset for retail Wi-Fi routers and consumer electronics on November 15, 2011. Redpine Signals released the first low power 802.11ac technology for smartphone application processors on December 14, 2011. On January 5, 2012, Broadcom announced its first 802.11ac Wi-Fi chips and partners and on April 27, 2012, Netgear announced the first Broadcom-enabled router. On May 14, 2012, Buffalo Technology released the world’s first 802.11ac products to market, releasing a wireless router and client bridge adapter. On December 6, 2012, Huawei announced commercial availability of the industry's first enterprise-level 802.11ac Access Point.
+Motorola Solutions is selling 802.11ac access points including the AP 8232. In April 2014, Hewlett-Packard started selling the HP 560 access point in the controller-based WLAN enterprise market segment.
+Commercial laptops
+On June 7, 2012, it was reported that Asus had unveiled its ROG G75VX gaming notebook, which would be the first consumer-oriented notebook to be fully compliant with 802.11ac (albeit in its "draft 2.0" version).
+Apple began implementing 802.11ac starting with the MacBook Air in June 2013, followed by the MacBook Pro and Mac Pro later that year.
+As of December 2013, Hewlett-Packard incorporates 802.11ac compliance in laptop computers.
+Notes

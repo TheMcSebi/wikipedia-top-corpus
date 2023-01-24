@@ -1,0 +1,26 @@
+Motif-Index of Folk-Literature
+The Motif-Index of Folk-Literature is a six volume catalogue of motifs, granular elements of folklore, composed by American folklorist Stith Thompson (1932–1936, revised and expanded 1955–1958). Often referred to as Thompson's motif-index, the catalogue has been extensively used in folklore studies, where folklorists commonly use it in tandem with the Aarne–Thompson–Uther Index, an index used for folktale type analysis.
+As standard tools
+The motif-index and the AT or ATU indices are regarded as standard tools in the study of folklore.  For example, folklorist Mary Beth Stein says, "Together with Thompson's six-volume Motif-Index of Folk-Literature, with which it is cross-indexed, The Types of Folktale constitutes the most important reference work and research tool for comparative folk-tale analysis. Alan Dundes who was an outspoken critic also said substantially the same thing, without confining the application to comparative studies: "[the indices] index constitute two of the most valuable tools in the professional folklorist's arsenal of aids for analysis".
+Concise outlines of both indexes appear in Thompson's The Folktale (1946).
+Terminology
+In the context of the index, Thompson has defined motif as follows: "A motif is the smallest element in a tale having a power to persist in tradition. In order to have this power it must have something unusual and striking about it".
+But in the Motif-index itself, Thompson had also provided a more "cautious" definition: "[a]nything that goes to make up a traditional narrative... When the term motif is employed, it is always in a very loose sense, and is made to include any of the elements of narrative structure".
+This use of the noun motif is specialized to the field of folklore studies. According to the Oxford English Dictionary (OED), folkloristic use of the noun motif is not summed up in the definition for literary criticism (“Motif,” def. 3a), but deserves its own separate sense of this definition (“Motif,” def. 3b). Similarly, the compound noun motif index is used in cultural anthropology to denote "an index of standard motifs, esp. those found in folk tales" (OED, “Motif Index,” def. C2).
+System
+Thompson discusses composing the Motif-Index of Folk-Literature in his autobiography, A Folklorist's Progress: Reflection of a Scholar's Life. In producing the motif-index, Thompson built upon the research of Finnish folklorist Antti Aarne, who in 1910 published an index of European tale-types, Thompson himself had revised in 1928 to cover the region from Europe to Asia: this is known as the Aarne-Thompson tale type index. In his Motif-Index, Thompson then compiled, classified, and numbered the traditional motifs of the mostly European folktale types in the tale-type index.
+Thompson's motif-index organizes thousands of motifs. Entries are first organized by an umbrella topic (for example, category S is "Unnatural Cruelty"). Entries are then divided into more specific subcategories. For example, entry S50 "Cruel relatives-in-law" contains the sub-entry S51.1 "Cruel mother-in-law plans death of daughter-in-law". Thompson's The Folktale includes the following overview of the motif-index:
+Relation to tale type index
+There has been expressed the idea that a combined set of motifs (in the motif-index) may constitute a folktale narrative (cf. the description of the Motif-Index as "a huge catalogue of folk narratives elements that may variously combine to form whole folk narratives" by Jan Harold Brunvand).
+This idea had already been anticipated by Alexander Veselovsky who wrote that "cluster of motifs" constituted a "plot", influencing Russian formalists like Vladimir Propp, whose study prefigured Stith Thompson's Motif-Index, as has been pointed out.
+In the book The Folktale, Stith Thompson invokes this phrase "cluster of motifs" in several passages, as here, in connection with tales involving the dead helper:
+But in this instance, Thompson is warning that the motif cluster is rather "only a framework for the adventures of the hero", containing "at least three different tales within".
+Thompson also explains that a single motif may be found in numerous folktales “from all parts of the earth” (383).
+Editions (print and digitised)
+Print editions
+Digitisations of the second edition (book format)
+Other motif indices
+Many folklorists have produced extensive motif and tale-type indices for culture areas not covered by Thompson, or covered only to a limited extent. For surveys, see
+Examples of related folklore studies indices include the following:
+See also
+Notes

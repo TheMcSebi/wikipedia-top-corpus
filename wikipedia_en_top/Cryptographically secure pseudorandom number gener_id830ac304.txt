@@ -1,0 +1,38 @@
+Cryptographically secure pseudorandom number generator
+A cryptographically secure pseudorandom number generator (CSPRNG) or cryptographic pseudorandom number generator (CPRNG) is a pseudorandom number generator (PRNG) with properties that make it suitable for use in cryptography. It is also loosely known as a cryptographic random number generator (CRNG) (see Random number generation § "True" vs. pseudo-random numbers).
+Most cryptographic applications require random numbers, for example:
+The "quality" of the randomness required for these applications varies.
+For example, creating a nonce in some protocols needs only uniqueness.
+On the other hand, the generation of a master key requires a higher quality, such as more entropy. And in the case of one-time pads, the information-theoretic guarantee of perfect secrecy only holds if the key material comes from a true random source with high entropy, and thus any kind of pseudorandom number generator is insufficient.
+Ideally, the generation of random numbers in CSPRNGs uses entropy obtained from a high-quality source, generally the operating system's randomness API. However, unexpected correlations have been found in several such ostensibly independent processes. From an information-theoretic point of view, the amount of randomness, the entropy that can be generated, is equal to the entropy provided by the system. But sometimes, in practical situations, more random numbers are needed than there is entropy available. Also, the processes to extract randomness from a running system are slow in actual practice.  In such instances, a CSPRNG can sometimes be used. A CSPRNG can "stretch" the available entropy over more bits.
+Requirements
+The requirements of an ordinary PRNG are also satisfied by a cryptographically secure PRNG, but the reverse is not true. CSPRNG requirements fall into two groups: first, that they pass statistical randomness tests; and secondly, that they hold up well under serious attack, even when part of their initial or running state becomes available to an attacker.
+Most PRNGs are not suitable for use as CSPRNGs and will fail on both counts. First, while most PRNGs outputs appear random to assorted statistical tests, they do not resist determined reverse engineering. Specialized statistical tests may be found specially tuned to such a PRNG that shows the random numbers not to be truly random. Second, for most PRNGs, when their state has been revealed, all past random numbers can be retrodicted, allowing an attacker to read all past messages, as well as future ones.
+CSPRNGs are designed explicitly to resist this type of cryptanalysis.
+Definitions
+In the asymptotic setting, a family of deterministic polynomial time computable functions $MATH$ for some polynomial p, is a pseudorandom number generator (PRNG, or PRG in some references), if it stretches the length of its input ($MATH$ for any k), and if its output is computationally indistinguishable from true randomness, i.e. for any probabilistic polynomial time algorithm A, which outputs 1 or 0 as a distinguisher,
+for some negligible function $MATH$. (The notation $MATH$ means that x is chosen uniformly at random from the set X.)
+There is an equivalent characterization: For any function family $MATH$, G is a PRNG if and only if the next output bit of G cannot be predicted by a polynomial time algorithm.
+A forward-secure PRNG with block length $MATH$ is a PRNG $MATH$, where the input string $MATH$ with length k is the current state at period i, and the output ($MATH$, $MATH$) consists of the next state $MATH$ and the pseudorandom output block $MATH$ of period i, that withstands state compromise extensions in the following sense. If the initial state $MATH$ is chosen uniformly at random from $MATH$, then for any i, the sequence $MATH$ must be computationally indistinguishable from $MATH$, in which the $MATH$ are chosen uniformly at random from $MATH$.
+Any PRNG $MATH$ can be turned into a forward secure PRNG with block length $MATH$ by splitting its output into the next state and the actual output. This is done by setting $MATH$, in which $MATH$ and $MATH$; then G is a forward secure PRNG with $MATH$ as the next state and $MATH$ as the pseudorandom output block of the current period.
+Entropy extraction
+Santha and Vazirani proved that several bit streams with weak randomness can be combined to produce a higher-quality quasi-random bit stream.
+Even earlier, John von Neumann proved that a simple algorithm can remove a considerable amount of the bias in any bit stream, which should be applied to each bit stream before using any variation of the Santha–Vazirani design.
+Designs
+In the discussion below, CSPRNG designs are divided into three classes:
+The last often introduces additional entropy when available and, strictly speaking, are not  "pure" pseudorandom number generators, as their output is not completely determined by their initial state. This addition can prevent attacks even if the initial state is compromised.
+Designs based on cryptographic primitives
+Number-theoretic designs
+Special designs
+There are a number of practical PRNGs that have been designed to be cryptographically secure, including
+Standards
+Several CSPRNGs have been standardized. For example,
+A good reference is maintained by NIST.
+There are also standards for statistical testing of new CSPRNG designs:
+NSA kleptographic backdoor in the Dual_EC_DRBG PRNG
+The Guardian and The New York Times have reported in 2013 that the National Security Agency (NSA) inserted a backdoor into a pseudorandom number generator (PRNG) of NIST SP 800-90A which allows the NSA to readily decrypt material that was encrypted with the aid of Dual_EC_DRBG. Both papers report that, as independent security experts long suspected,  the NSA has been introducing weaknesses into CSPRNG standard 800-90; this being confirmed for the first time by one of the top secret documents leaked to the Guardian by Edward Snowden. The NSA worked covertly to get its own version of the NIST draft security standard approved for worldwide use in 2006. The leaked document states that "eventually, NSA became the sole editor." In spite of the known potential for a kleptographic backdoor and other known significant deficiencies with Dual_EC_DRBG, several companies such as RSA Security continued using Dual_EC_DRBG until the backdoor was confirmed in 2013. RSA Security received a $10 million payment from the NSA to do so.
+Security flaws
+DUHK attack
+On October 23, 2017, Shaanan Cohney, Matthew Green, and Nadia Heninger, cryptographers at The University of Pennsylvania and Johns Hopkins University released details of the DUHK (Don't Use Hard-coded Keys) attack on WPA2 where hardware vendors use a hardcoded seed key for the ANSI X9.31 RNG algorithm, stating "an attacker can brute-force encrypted data to discover the rest of the encryption parameters and deduce the master encryption key used to encrypt web sessions or virtual private network (VPN) connections."
+Japanese PURPLE cipher machine
+During World War II, Japan used a cipher  machine for diplomatic communications; the United States was able to crack it and read its messages, mostly because the "key values" used were insufficiently random.

@@ -1,0 +1,33 @@
+Injective function
+In mathematics, an injective function (also known as injection, or one-to-one function) is a function f that maps distinct elements of its domain to distinct elements; that is, f(x1) = f(x2) implies x1 = x2. (Equivalently, x1 ≠ x2 implies f(x1) ≠ f(x2) in the equivalent contrapositive statement.) In other words, every element of the function's codomain is the image of at most one element of its domain. The term one-to-one function must not be confused with one-to-one correspondence that refers to bijective functions, which are functions such that each element in the codomain is an image of exactly one element in the domain. 
+A homomorphism between algebraic structures is a function that is compatible with the operations of the structures. For all common algebraic structures, and, in particular for vector spaces, an injective homomorphism is also called a monomorphism. However, in the more general context of category theory, the definition of a monomorphism differs from that of an injective homomorphism. This is thus a theorem that they are equivalent for algebraic structures; see Homomorphism § Monomorphism for more details.
+A function $MATH$ that is not injective is sometimes called many-to-one.
+Definition
+Let $MATH$ be a function whose domain is a set $MATH$ The function $MATH$ is said to be injective provided that for all $MATH$ and $MATH$ in $MATH$ if $MATH$ then $MATH$; that is, $MATH$ implies $MATH$ Equivalently, if $MATH$ then $MATH$ in the contrapositive statement.
+
+
+Symbolically,
+
+which is logically equivalent to the contrapositive,
+Examples
+For visual examples, readers are directed to the gallery section.
+More generally, when $MATH$ and $MATH$ are both the real line $MATH$ then an injective function $MATH$ is one whose graph is never intersected by any horizontal line more than once. This principle is referred to as the horizontal line test.
+Injections can be undone
+Functions with left inverses are always injections. That is, given $MATH$ if there is a function $MATH$ such that for every $MATH$, $MATH$, then $MATH$ is injective. In this case, $MATH$ is called a retraction of $MATH$ Conversely, $MATH$ is called a section of $MATH$
+Conversely, every injection $MATH$ with non-empty domain has a left inverse $MATH$ which can be defined by fixing an element $MATH$ in the domain of $MATH$ so that $MATH$ equals the unique pre-image of $MATH$ under $MATH$ if it exists and $MATH$ otherwise.
+The left inverse $MATH$ is not necessarily an inverse of $MATH$ because the composition in the other order, $MATH$ may differ from the identity on $MATH$ In other words, an injective function can be  "reversed" by a left inverse, but is not necessarily invertible, which requires that the function is bijective.
+Injections may be made invertible
+In fact, to turn an injective function $MATH$ into a bijective (hence invertible) function, it suffices to replace its codomain $MATH$ by its actual range $MATH$ That is, let $MATH$ such that $MATH$ for all $MATH$; then $MATH$ is bijective. Indeed, $MATH$ can be factored as $MATH$ where $MATH$ is the inclusion function from $MATH$ into $MATH$
+More generally, injective partial functions are called partial bijections.
+Other properties
+Proving that functions are injective
+A proof that a function $MATH$ is injective depends on how the function is presented and what properties the function holds.
+For functions that are given by some formula there is a basic idea.
+We use the definition of injectivity, namely that if $MATH$ then $MATH$
+Here is an example: 
+Proof: Let $MATH$  Suppose $MATH$  So $MATH$ implies $MATH$ which implies $MATH$  Therefore, it follows from the definition that $MATH$ is injective.
+There are multiple other methods of proving that a function is injective.  For example, in calculus if $MATH$ is a differentiable function defined on some interval, then it is sufficient to show that the derivative is always positive or always negative on that interval.  In linear algebra, if $MATH$ is a linear transformation it is sufficient to show that the kernel of $MATH$ contains only the zero vector.  If $MATH$ is a function with finite domain it is sufficient to look through the list of images of each domain element and check that no image occurs twice on the list.
+A graphical approach for a real-valued function $MATH$ of a real variable $MATH$ is the horizontal line test. If every horizontal line intersects the curve of $MATH$ in at most one point, then $MATH$ is injective or one-to-one.
+Gallery
+See also
+Notes

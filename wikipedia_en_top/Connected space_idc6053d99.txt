@@ -1,0 +1,57 @@
+Connected space
+In topology and related branches of mathematics, a connected space is a topological space that cannot be represented as the union of two or more disjoint non-empty open subsets. Connectedness is one of the principal topological properties that are used to distinguish topological spaces.
+A subset of a topological space $MATH$ is a connected set if it is a connected space when viewed as a subspace of $MATH$.
+Some related but stronger conditions are path connected, simply connected, and $MATH$-connected. Another related notion is locally connected, which neither implies nor follows from connectedness.
+Formal definition
+A topological space $MATH$ is said to be disconnected if it is the union of two disjoint non-empty open sets. Otherwise, $MATH$ is said to be connected.  A subset of a topological space is said to be connected if it is connected under its subspace topology. Some authors exclude the empty set (with its unique topology) as a connected space, but this article does not follow that practice.
+For a topological space $MATH$ the following conditions are equivalent:
+Historically this modern formulation of the notion of connectedness (in terms of no partition of $MATH$ into two separated sets) first appeared (independently) with N.J. Lennes, Frigyes Riesz, and Felix Hausdorff at the beginning of the 20th century.  See  for details.
+Connected components
+Given some point $MATH$ in a topological space $MATH$ the union of any collection of connected subsets such that each contains $MATH$ will once again be a connected subset. 
+The connected component of a point $MATH$ in $MATH$ is the union of all connected subsets of $MATH$ that contain $MATH$ it is the unique largest (with respect to $MATH$) connected subset of $MATH$ that contains $MATH$ 
+The maximal connected subsets (ordered by inclusion $MATH$) of a non-empty topological space are called the connected components of the space.
+The components of any topological space $MATH$ form a partition of $MATH$: they are disjoint, non-empty and their union is the whole space.
+Every component is a closed subset of the original space. It follows that, in the case where their number is finite, each component is also an open subset. However, if their number is infinite, this might not be the case; for instance, the connected components of the set of the rational numbers are the one-point sets (singletons), which are not open. Proof: Any two distinct rational numbers $MATH$ are in different components. Take an irrational number $MATH$ and then set $MATH$ and $MATH$ Then $MATH$ is a separation of $MATH$ and $MATH$. Thus each component is a one-point set.
+Let $MATH$ be the connected component of $MATH$ in a topological space $MATH$ and $MATH$ be the intersection of all clopen sets containing $MATH$ (called quasi-component of $MATH$) Then $MATH$ where the equality holds if $MATH$ is compact Hausdorff or locally connected.
+
+Disconnected spaces
+A space in which all components are one-point sets is called totally disconnected. Related to this property, a space $MATH$ is called totally separated if, for any two distinct elements $MATH$ and $MATH$ of $MATH$, there exist disjoint open sets $MATH$ containing $MATH$ and $MATH$ containing $MATH$ such that $MATH$ is the union of $MATH$ and $MATH$. Clearly, any totally separated space is totally disconnected, but the converse does not hold. For example take two copies of the rational numbers $MATH$, and identify them at every point except zero. The resulting space, with the quotient topology, is totally disconnected. However, by considering the two copies of zero, one sees that the space is not totally separated. In fact, it is not even Hausdorff, and the condition of being totally separated is strictly stronger than the condition of being Hausdorff.
+Examples
+An example of a space that is not connected is a plane with an infinite line deleted from it. Other examples of disconnected spaces (that is, spaces which are not connected) include the plane with an annulus removed, as well as the union of two disjoint closed disks, where all examples of this paragraph bear the subspace topology induced by two-dimensional Euclidean space.
+Path connectedness
+A path-connected space is a stronger notion of connectedness, requiring the structure of a path. A path from a point $MATH$ to a point $MATH$ in a topological space $MATH$ is a continuous function $MATH$ from the unit interval $MATH$ to $MATH$ with $MATH$ and $MATH$. A path-component of $MATH$ is an equivalence class of $MATH$ under the equivalence relation which makes $MATH$ equivalent to $MATH$ if there is a path from $MATH$ to $MATH$. The space $MATH$ is said to be path-connected (or pathwise connected or $MATH$-connected) if there is exactly one path-component, i.e. if there is a path joining any two points in $MATH$. Again, many authors exclude the empty space (by this definition, however, the empty space is not path-connected because it has zero path-components; there is a unique equivalence relation on the empty set which has zero equivalence classes).
+Every path-connected space is connected. The converse is not always true: examples of connected spaces that are not path-connected include the extended long line $MATH$ and the topologist's sine curve.
+Subsets of the real line $MATH$ are connected if and only if they are path-connected; these subsets are the intervals of $MATH$.
+Also, open subsets of $MATH$ or $MATH$ are connected if and only if they are path-connected.
+Additionally, connectedness and path-connectedness are the same for finite topological spaces.
+Arc connectedness
+A space $MATH$ is said to be arc-connected or arcwise connected if any two topologically distinguishable points can be joined by an arc, which is an embedding $MATH$. An arc-component of $MATH$ is a maximal arc-connected subset of $MATH$; or equivalently an equivalence class of the equivalence relation of whether two points can be joined by an arc or by a path whose points are topologically indistinguishable.
+Every Hausdorff space that is path-connected is also arc-connected; more generally this is true for a $MATH$-Hausdorff space, which is a space where each image of a path is closed. An example of a space which is path-connected but not arc-connected is given by the line with two origins; its two copies of $MATH$ can be connected by a path but not by an arc.
+Intuition for path-connected spaces does not readily transfer to arc-connected spaces. Let $MATH$ be the line with two origins. The following are facts whose analogues hold for path-connected spaces, but do not hold for arc-connected spaces:
+Local connectedness
+A topological space is said to be locally connected at a point $MATH$ if every neighbourhood of $MATH$ contains a connected open neighbourhood. It is locally connected if it has a base of connected sets. It can be shown that a space $MATH$ is locally connected if and only if every component of every open set of $MATH$ is open.
+Similarly, a topological space is said to be locally path-connected if it has a base of path-connected sets.
+An open subset of a locally path-connected space is connected if and only if it is path-connected.
+This generalizes the earlier statement about $MATH$ and $MATH$, each of which is locally path-connected. More generally, any topological manifold is locally path-connected.
+Locally connected does not imply connected, nor does locally path-connected imply path connected. A simple example of a locally connected (and locally path-connected) space that is not connected (or path-connected) is the union of two separated intervals in $MATH$, such as $MATH$.
+A classical example of a connected space that is not locally connected is the so called topologist's sine curve, defined as $MATH$, with the Euclidean topology induced by inclusion in $MATH$.
+Set operations
+The intersection of connected sets is not necessarily connected.
+The union of connected sets is not necessarily connected, as can be seen by considering $MATH$.
+Each ellipse is a connected set, but the union is not connected, since it can be partitioned to two disjoint open sets $MATH$ and $MATH$.
+This means that, if the union $MATH$ is disconnected, then the collection $MATH$ can be partitioned to two sub-collections, such that the unions of the sub-collections are disjoint and open in $MATH$ (see picture). This implies that in several cases, a union of connected sets is necessarily connected. In particular:
+The set difference of connected sets is not necessarily connected. However, if $MATH$ and their difference $MATH$ is disconnected (and thus can be written as a union of two open sets $MATH$ and $MATH$), then the union of $MATH$ with each such component is connected (i.e. $MATH$ is connected for all $MATH$).
+By contradiction, suppose $MATH$ is not connected. So it can be written as the union of two disjoint open sets, e.g. $MATH$. Because $MATH$ is connected, it must be entirely contained in one of these components, say $MATH$, and thus $MATH$ is contained in $MATH$. Now we know that:
+The two sets in the last union are disjoint and open in $MATH$, so there is a separation of $MATH$, contradicting the fact that $MATH$ is connected.
+Theorems
+Graphs
+Graphs have path connected subsets, namely those subsets for which every pair of points has a path of edges joining them.
+But it is not always possible to find a topology on the set of points which induces the same connected sets. The 5-cycle graph (and any $MATH$-cycle with $MATH$ odd) is one such example.
+As a consequence, a notion of connectedness can be formulated independently of the topology on a space. To wit, there is a category of connective spaces consisting of sets with collections of connected subsets satisfying connectivity axioms; their morphisms are those functions which map connected sets to connected sets (Muscat & Buhagiar 2006). Topological spaces and graphs are special cases of connective spaces; indeed, the finite connective spaces are precisely the finite graphs.
+However, every graph can be canonically made into a topological space, by treating vertices as points and edges as copies of the unit interval (see topological graph theory#Graphs as topological spaces). Then one can show that the graph is connected (in the graph theoretical sense) if and only if it is connected as a topological space.
+Stronger forms of connectedness
+There are stronger forms of connectedness for topological spaces, for instance: 
+In general, any path connected space must be connected but there exist connected spaces that are not path connected. The deleted comb space furnishes such an example, as does the above-mentioned topologist's sine curve.
+See also
+References
+Further reading

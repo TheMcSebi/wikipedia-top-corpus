@@ -1,0 +1,40 @@
+Chicago Mercantile Exchange
+The Chicago Mercantile Exchange (CME) (often called "the Chicago Merc", or "the Merc")  is a global derivatives marketplace based in Chicago and located at 20 S. Wacker Drive. The CME was founded in 1898 as the Chicago Butter and Egg Board, an agricultural commodities exchange. Originally, the exchange was a non-profit organization. The Merc demutualized in November 2000, went public in December 2002, and merged with the Chicago Board of Trade in July 2007 to become a designated contract market of the CME Group Inc., which operates both markets. The chairman and chief executive officer of CME Group is Terrence A. Duffy, Bryan Durkin is president. On August 18, 2008, shareholders approved a merger with the New York Mercantile Exchange (NYMEX) and COMEX.  CME, CBOT, NYMEX, and COMEX are now markets owned by CME Group. After the merger, the value of the CME quadrupled in a two-year span, with a market cap of over $25 billion.
+Today, CME is the largest options and futures contracts open interest (number of contracts outstanding) exchange of any futures exchange in the world. The Merc trades several types of financial instruments: interest rates, equities, currencies, and commodities.
+CME also pioneered the CME SPAN software that is used around the world as the official performance bond (margin) mechanism of 50 registered exchanges, clearing organizations, service bureaus, and regulatory agencies throughout the world.
+Trading platforms
+Trading is conducted in two methods; an open outcry format and the CME Globex Trading System which is an electronic trading platform. More than 90 percent of total volume at the exchange occurs electronically on CME Globex.
+Open outcry
+Operating during regular trading hours (RTH), the open outcry method consists of floor traders standing in a trading pit to call out orders, prices, and quantities of a particular commodity or its derivatives. Different colored jackets are worn by the traders to indicate what firm they are a part of. In addition, complex hand signals (called Arb) are used. These hand signals were first used in the 1970s. Today, however, headsets are also used by the brokers to communicate with the traders. The pits are areas of the floor that are lowered to facilitate communication, somewhat like a miniature amphitheater. The pits can be raised and lowered depending on trading volume. To an onlooker, the open outcry system can look chaotic and confusing, but in reality, the system is a tried and true method of accurate and efficient trading.  An illustrated project to record the hand signal language used in CME's trading pits has been compiled.
+CME Group recently announced that it will permanently close most of its physical trading pits, including those for grain trading. They had been closed since March 2020 due to the outbreak of the COVID-19 pandemic.
+Electronic trading
+Operating virtually around the clock, today the CME Globex Trading System is at the heart of CME. Proposed in 1987, it was introduced in 1992 as the first global electronic trading platform for futures contracts. This fully electronic trading system allows market participants to trade from booths at the exchange or while sitting in a home or office thousands of miles away. On 19 October 2004, the one billionth (1,000,000,000) transaction was recorded.
+When CME Globex was first launched, it used Reuters' technology and network. September 1998 saw the launch of the second generation of CME Globex using a modified version of the NSC trading system, developed by Paris Bourse for the MATIF (now Euronext).
+Traders connect to CME Globex via Market Data Protocol (MDP) and iLink 2.0 for order routing.
+Mergers and acquisitions
+On October 17, 2006, the Chicago Mercantile Exchange announced the purchase of the Chicago Board of Trade for $8 billion in stock, rejoining the two financial institutions as CME Group Inc. CBOT formerly used outsourced technology platforms but has moved over to CME's Globex trading system. This will provide much of the merger's anticipated savings. The merger will also strengthen the combined group's position in the global derivatives market. The merger agreement was modified on December 20, 2006, May 11, 2007, June 14, 2007, and on July 6, 2007. The merger agreement was passed by shareholders of both CME and the Chicago Board of Trade on July 9, 2007. The merger officially closed on July 12, 2007, after which the Chicago Board of Trade shares (old symbol: BOT) stopped trading and were converted into CME shares as agreed, and the overarching holding company began life as CME Group, a CME/Chicago Board of Trade Company. On January 13, 2008, electronic trading at the Chicago Board of Trade shifted onto CME Globex.
+On March 17, 2008, the New York Mercantile Exchange (NYMEX) accepted an offer from CME Group, the parent of the Chicago Mercantile Exchange, to purchase NYMEX for $8.9 billion in cash and CME Group Stock. The acquisition was formally completed on August 22, 2008, and the NYMEX systems were fully integrated by September 30, 2009.
+Investigation
+In 1984, the CME was investigated by the U.S. Government Accountability Office. During this investigation, it was realized that the open-outcry system could be abused. The GAO noted that the exchange made attempts to cut down on malpractice, but that it is likely that illegal activity still occurs.
+Products
+Agricultural Commodity
+Agricultural Commodity Contracts include: Grains, Soybeans, Oilseeds, Live Cattle, Lean Hogs, Feeder Cattle, Class IV Milk, Class III Milk, Nonfat Dry Milk Powder, Dry Whey, Cheese, Butter, and Random Length Lumber.
+Cryptocurrency
+Since December 2017 bitcoin futures are traded. Ether futures are traded since February 2021.
+Energy
+WTI Crude, Henry Hub Natural Gas, Brent Crude, and RBOB Gasoline.
+Equity Index Products
+Equity Index Products include: E-mini S&P 500 Futures, S&P 500 Futures, E-mini Nasdaq-100 Futures, Nikkei/Yen Futures, E-mini Dow ($5) Futures, E-mini Russel 2000 Index Futures, Bitcoin Futures, Yen Denominated TOPIX Futures, Micro E-mini S&P 500 Futures, Micro E-mini Nasdaq-100 Index Futures, Micro E-mini Russel 2000 Index Futures, Micro E-mini Dow Jones Industrial Average Index Futures. There are also index products that follow specific international indexes and select sectors.
+Interest Rate Products
+Interest rate products include:
+Foreign Exchange Products
+Foreign Exchange featured products include:
+Foreign Exchange products also include futures for G10 currencies, Emerging market currencies, and Cross rates.
+Metals Products
+Metals Products include:
+Weather Derivatives
+The Chicago Mercantile Exchange is the only market for trading in weather derivatives. It launched its first weather products in 1999. Products include, but are not limited to: futures on rainfall, snowfall, hurricanes, and temperature.
+See also
+References
+Further reading
+Notes

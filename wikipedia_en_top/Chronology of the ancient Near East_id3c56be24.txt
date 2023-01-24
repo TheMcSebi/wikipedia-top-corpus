@@ -1,0 +1,109 @@
+Chronology of the ancient Near East
+The chronology of the ancient Near East is a framework of dates for various events, rulers and dynasties. Historical inscriptions and texts customarily record events in terms of a succession of officials or rulers: "in the year X of king Y". Comparing many records pieces together a relative chronology relating dates in cities over a wide area.
+For the 3rd and 2nd millennia BC, this correlation is less certain but the following periods can be distinguished:
+
+Variant Middle Bronze Age chronologies
+Due to the sparsity of sources throughout the "Dark Age", the history of the Near Eastern Middle Bronze Age down to the end of the First Babylonian Dynasty is founded on a floating or relative chronology. There have been attempts to anchor the chronology using records of eclipses and other methods such as dendrochronology and radiocarbon dating, but none of those dates is widely supported.
+Currently the major schools of thought on the absolute dating of this period are separated by 56 or 64 years. This is because the key source for this analysis are the omen observations in the Venus tablet of Ammisaduqa and these are multiples of the 8-year cycle of Venus visibility from Earth. More recent work by Vahe Gurzadyan has suggested that the fundamental 8-year cycle of Venus is a better metric (updated). Some scholars discount the validity of the Venus tablet of Ammisaduqa entirely.  The alternative major chronologies are defined by the date of the 8th year of the reign of Ammisaduqa, king of Babylon.
+The most common Venus Tablet solutions (fall of Babylon)
+The following table gives an overview of the different proposals, listing some key dates and their deviation relative to the middle chronology, omitting the Supershort Chronology (Babylon falls in 1466 BC)):
+Sources of chronological data
+Venus tablet of Ammisaduqa
+In the series, the conjunction of the rise of Venus with the new moon provides a point of reference, or rather three points, for the conjunction is a periodic occurrence. Identifying an Ammisaduqa conjunction with one of these calculated conjunctions will therefore fix, for example, the accession of Hammurabi as either 1848, 1792, or 1736 BC, known as the "high" ("long"), "middle", and "short (or low) chronology".
+A record of the movements of Venus over roughly a 16 day period during the reign of a king, believed to be Ammisaduqa of the First Babylonian Dynasty, recorded on the omen tablet Enuma Anu Enlil 63. Twenty copies and fragments have been recovered, all Neo-Assyrian and later.
+ An example entry is 
+"In month XI, 15th day, Venus in the west disappeared, 3 days in the sky it stayed away, and in month XI, 18th day, Venus in the east became visible: springs will open, Adad his rain, Ea his floods will bring, king to king messages of reconciliation will send."
+Using it, various scholars have proposed dates for the fall of Babylon based on the 56/64-year cycle of Venus. It has been suggested that the fundamental 8-year cycle of Venus is a better metric, leading to the proposal of an "ultra-low" chronology. Other researchers have declared the data to be too noisy for any use in fixing the chronology.
+Eclipses
+A number of lunar and solar eclipses have been suggested for use in dating the ancient Near East. Many suffer from the vagueness of the original tablets in showing that an actual eclipse occurred. At that point, it becomes a question of using computer models to show when a given eclipse would have been visible at a site, complicated by difficulties in modeling the slowing rotation of the earth (ΔT) and uncertainty about the lengths of months.
+
+Most calculations for dating using eclipses have assumed the Venus Tablet of Ammisaduqa to be a legitimate source. The most notable omitted eclipses are the Mari Eponym Chronicle eclipse from the time of Shamshi-Adad I and the Sargon of Akkad eclipse (from the Legends of the Kings of Akkad and a liver omen).
+Some important examples:
+Egyptian Lunar Observations
+There are thirteen Egyptian New Kingdom lunar observations which are used to pin the chronology in that period by locking down the accession year of Ramsesses II to 1279 BC. There are a number of issues with this including a) the regnal lengths for Neferneferuaten, Seti I, and Horemheb are actually not known with accuracy, b) where the observations occurred (Memphis is usually assumed), c) what day the observations were taken (two are known to be the 1st lunar day), and d) the Egyptian calendar for this period is not fully known, especially how intercalary months were handled. Since the Assyrian eponym list is accurate to 1 year only back to 1132 BC, ancient Near East chronology for the preceding century or so is anchored to Ramsesses II, based on synchronisms and the Egyptian lunar observations.
+Kudurru Symbols
+A number of attempts have been made to date Kassite Kudurru by mapping the symbols to astrononomical elements, using Babylonian star catalogues such as MUL.APIN with so far very limited results.
+Inscriptional
+Thousands of cuneiform tablets have been found in an area running from Anatolia to Egypt. While many are the ancient equivalent of grocery receipts, these tablets, along with inscriptions on buildings and public monuments, provide the major source of chronological information for the ancient Middle East.
+Underlying issues
+While there are some relatively pristine display-quality objects, the vast majority of recovered tablets and inscriptions are damaged. They have been broken with only portions found, intentionally defaced, and damaged by weather or soil. Many tablets were not even baked and have to be carefully handled until they can be hardened by heating.
+The site of an item's recovery is an important piece of information for archaeologists, which can be compromised by two factors. First, in ancient times old materials were often reused as building material or fill, sometimes at a great distance from the original location. Secondly, looting has disturbed archaeological sites at least back to Roman times, making the provenance of looted objects difficult or impossible to determine. Lastly, counterfeit versions of these object are a longstanding traditional, often difficult to detect.
+Key documents like the Sumerian King List were repeatedly copied and redacted over generations to suit current political needs. For this and other reasons, the SKL, once regarded as an important historical source, is now only used with caution, if at all, for the period under discussion here.
+The translation of cuneiform documents is quite difficult, especially for damaged source material. Additionally, our knowledge of the underlying languages, like Akkadian and Sumerian, has evolved over time, so a translation done now may be quite different from one done in AD 1900: there can be honest disagreement over what a document says. Worse, the majority of archaeological finds have not yet been published, much less translated. Those held in private collections may never be.
+Many of our important source documents, such as the Assyrian King List, are the products of government and religious establishments, with a natural bias in favor of the king or god in charge. A king may even take credit for a battle or construction project of an earlier ruler. The Assyrians in particular have a literary tradition of putting the best possible face on history, a fact the interpreter must constantly keep in mind.
+King lists
+Historical lists of rulers were traditional in the ancient Near East.
+Covers rulers of Mesopotamia from a time "before the flood" to the fall of the Isin Dynasty, depending on the version. Its use for pre-Akkadian rulers is limited to none. It continues to have value for the Akkadian period and later. The Sumerian King List omits any mention of Lagash, even though it was clearly a major power during the period covered by the list. The Royal Chronicle of Lagash appears to be an attempt to remedy that omission, listing the kings of Lagash in the form of a chronicle though some scholars believe the Lagash chronicle to be either a parody of the Sumerian King List or a complete fabrication.
+This list deals only with the rulers of Babylon. It has been found in two versions, denoted A and B both written in Neo-Babylonian times. The later dynasties in the list document the Kassite and Sealand periods though a number of Kassite rulers are damaged. Ruler names largely match other records but the regnal lengths are more problematic. There is also a Babylonian King List of the Hellenistic Period in later part of the 1st millennium.
+The Assyrian King List extends back to the reign of Shamshi Adad I (1809 – c. 1776 BC), an Amorite who conquered Assur while
+creating a new kingdom in Upper Mesopotamia. The list extends to the reign of Shalmaneser V (727–722 BC). It is believed that the list was first constructed in the time of Ashur-uballit I (1365–1330 BC). 
+The king list is considered to be roughly correct from that point on, less so for earlier entries which have numerous inconsistencies.
+Its purpose is to create a narrative of continuity and legitimacy for Assyrian kingship, blending in the kings of Amorite origin.
+
+The existing source consists of 3 mostly complete tables and 2 small fragments.
+
+
+Unfortunately there are differences between the tablets involving regnal lengths, names, and in one case a king being left out entirely. Not surprising given that they are noted as being copies of earlier tablets.
+
+Chronicles
+Many chronicles have been recovered in the ancient Near East, most fragmentary, with a political slant, and sometimes contradictory; but when combined with other sources, they provide a rich source of chronological data.
+Most available chronicles stem from later Babylonian and Assyrian sources. The
+Dynastic Chronicle, after a Sumerian King List type beginning, involves
+Babylonian kings from Simbar-Šipak to Erība-Marduk. The Chronicle of Early Kings, after an early preamble, involves kings of the First Babylonian Empire
+ending with the First Sealand Dynasty. The Tummal Inscription relates
+events from the early Sumerian king Ishbi-Erra of Isin. The Chronicle of the Market Prices mentions various Babylonian rulers beginning from the period 
+of Hammurabi. The Eclectic Chronicle relates events of the post-Kassite Babylonian kings. Other examples are the Religious Chronicle, and
+Nebuchadnezzar Chronicle, among others.
+The Synchronistic Chronicle, found in the library of Assurbanipal in Nineveh records the diplomacy of the Assyrian empire with the Babylonian empire. While useful, the consensus is that this chronicle should not be considered reliable.
+Chronicle P provides the same type of information as the Assyrian Synchronistic Chronicle, but from the Babylonian point of view.
+Royal inscriptions
+Rulers in the ancient Near East liked to take credit for public works. Temples, buildings and statues are likely to identify their royal patron. Kings also publicly recorded major deeds such as battles won, titles acquired, and gods appeased. These are very useful in tracking the reign of a ruler.
+Year lists
+Unlike current calendars, most ancient calendars were based on the accession of the current ruler, as in "the 5th year in the reign of Hammurabi". Each royal year was also given a title reflecting a deed of the ruler, like "the year Ur was defeated". The compilation of these years are called date lists.
+
+Eponym (limmu) lists
+In Assyria, a royal official or limmu was selected in every year of a king's reign. Many copies of these lists have been found, with certain ambiguities. There are sometimes too many or few limmū for the length of a king's reign, and sometimes the different versions of the eponym list disagree on a limmu, for example in the Mari Eponym Chronicle. The eponym list is considered accurate within 1 year back to 1133 BC. Before that uncertainty creeps in. There is now an Assyrian Revised Eponym List which attempts to resolve some of these issues.
+Trade, diplomatic, and disbursement records
+As often in archaeology, everyday records give the best picture of a civilization. Cuneiform tablets were constantly moving around the ancient Near East, offering alliances (sometimes including daughters for marriage), threatening war, recording shipments of mundane supplies, or settling accounts receivable. Most were tossed away after use as one today would discard unwanted receipts, but fortunately for us, clay tablets are durable enough to survive even when used as material for wall filler in new construction.
+A key find was a number of cuneiform tablets from Amarna in Egypt, the city of the pharaoh Akhenaten. Mostly in Akkadian, the diplomatic language of the time, a number of them name foreign rulers including kings of Assyria and Babylon
+as well as Tushratta king of Mitanni and rulers of small states in the 
+Levant.
+The letters date from the later stages of the reign of Amenhotep III
+(c. 1386–1349 BC) to the 2nd year of Tutankhamun (c. 1341–1323 BC). Assuming that the correct foreign rulers have been identified, this provides
+and important point of synchronization. Identification can be difficult 
+due to the propensity for states to re-use regnal names.
+
+Classical
+We have some data sources from the classical period:
+Berossus, a Babylonian astronomer and historian born during the time of 
+Alexander the Great wrote a history of Babylon which is
+a lost book. Portions were preserved by other classical writers
+mainly Josephus via Alexander Polyhistor. The surviving material
+is in chronicle form and covers the Neo-Babylonian Empire period from
+Nabopolassar (627–605 BC) to Nabonidus (556–539 BC).
+
+This book provides a list of kings starting with the Neo-Babylonian Empire and ending with the early Roman Emperors. The entries relevant to the ancient Near East run from Nabonassar (747–734 BC) to the Macedonian king Alexander IV
+(323–309 BC). Though mostly accepted as accurate there are known
+issues with the Canon. Some rulers are omitted, there are times for which no
+ruler is listed, and the early dates have been converted from the lunar
+calendar used by the Babylonians to the Egyptian solar calendar.
+
+
+
+Not having the stability of buried clay tablets, the records of the Hebrews have a great deal of ancient editorial work to sift through when used as a source for chronology. However, the Hebrew kingdoms lay at the crossroads of Babylon, Assyria, Egypt and the Hittites, making them spectators and often victims of actions in the area during the 1st millennium. Mostly concerned with regional events in the Levant, in 2 Kings 23 Hebrew: פַרְעֹה נְכֹה, romanized: Phare'oh Necho, thought to be pharaoh Necho I, is mentioned three times.
+Neo-Babylonian kings are mentioned in 2 Kings 20, Hebrew: בְּרֹאדַךְ בַּלְאֲדָן, romanized: Berodach Bal'adan, thought to be Marduk-apla-iddina II, in 2 Kings 24 Nebuchadnezzar II and in 2 Kings  25 Hebrew: אֱוִיל מְרֹדַךְ, romanized: Evil Merodach, thought to be Amel-Marduk. In Isaiah 38 the neo-Assyrian kings Sennacherib and Esarhaddon are mentioned.
+Dendrochronology
+Dendrochronology attempts to use the variable growth pattern of trees, expressed in their rings, to build up a chronological timeline. At present there are no continuous chronologies for the Near East, and a floating chronology has been developed using trees in Anatolia for the Bronze and Iron Ages. Professor of archaeology at Cornell, Sturt Manning, has spearheaded efforts to use this floating chronology with radiocarbon wiggle-match to anchor the chronology. His research has recently been included in the Oxford History of the Ancient Near East and has been cited widely in the recent academic literature.
+Radiocarbon dating
+As in Egypt and the eastern Mediterranean, radiocarbon dates run one or two centuries earlier than the dates proposed by archaeologists. Recently, radiocarbon dates from the final destruction of Ebla have been shown to definitely favour the middle chronology (with the fall of Babylon and Aleppo at c. 1595 BC), and seem to discount the ultra-low chronology (same event at c. 1499 BC), although it is emphasized that this is not presented as a decisive argument.
+Other emerging technical dating methods include rehydroxylation dating, luminescence dating, archaeomagnetic dating and the dating of lime plaster from structures.
+Egypt
+At least as far back as the reign of Thutmose I, Egypt took a strong interest in the ancient Near East. At times they occupied portions of the region, a favor returned later by the Assyrians. Some key synchronisms:
+There are problems with using Egyptian chronology. Besides some minor issues of regnal lengths and overlaps, there are three long periods of poorly documented chaos in the history of ancient Egypt, the First, Second, and Third Intermediate Periods, whose lengths are doubtful. This means the Egyptian Chronology actually comprises three floating chronologies. The chronologies of Mesopotamia, the Levant and Anatolia depend significantly on the chronology of Ancient Egypt. To the extent that there are problems in the Egyptian chronology, these issues will be inherited in chronologies based on synchronisms with Ancient Egypt.
+Indus Valley
+There is much evidence that the Bronze Age civilization of the Indus Valley traded with the Near East, including clay seals found at Ur III and in the Persian Gulf. Seals and beads were also found at the site of Esnunna. In addition, if the land of Meluhha does indeed refer to the Indus Valley, then there are extensive trade records ranging from the Akkadian Empire until the Babylonian Dynasty I.
+Thera and Eastern Mediterranean
+Goods from Greece made their way into the ancient Near East, directly in Anatolia and via the island of Cyprus in the rest of the region and Egypt. A Hittite king, Tudhaliya IV, even captured Cyprus as part of an attempt to enforce a blockade of the Assyrians.
+The eruption of the Thera volcano provides a possible time marker for the region. A large eruption, it would have sent a plume of ash directly over Anatolia and filled the sea in the area with floating pumice. This pumice appeared in Egypt, apparently via trade. Current excavations in the Levant may also add to the timeline. The exact date of the volcanic eruption has been the subject of strong debate, with dates ranging between 1628 and 1520 BC. Radiocarbon dating has placed it at between 1627 BC and 1600 BC with a 95% degree of probability. Archaeologist Kevin Walsh, accepting the radiocarbon dating, suggests a possible date of 1628 and believes this to be the most debated event in Mediterranean archaeology. For the ANE chronology a key problem is the lack of a linkage between the eruption and some point on the relative chronology.
+See also
+Notes

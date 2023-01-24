@@ -1,0 +1,44 @@
+Shazam (application)
+Shazam is an application that can identify music, movies, advertising, and television shows, based on a short sample played and using the microphone on the device. It was created by London-based Shazam Entertainment, and has been owned by Apple Inc. since 2018. The software is available for Android, macOS, iOS, Wear OS, watchOS and as a Google Chrome extension.
+
+
+The original UK developer of the app, Shazam Entertainment Limited, was founded in 1999 by Chris Barton, Philip Inghelbrecht, Avery Wang, and Dhiraj Mukherjee. On September 24, 2018, the company was acquired by Apple for a reported $400 million.
+Overview
+Shazam identifies songs using an audio fingerprint based on a time-frequency graph called a spectrogram. It uses a smartphone or computer's built-in microphone to gather a brief sample of audio being played. Shazam stores a catalogue of audio fingerprints in a database. The user tags a song for 10 seconds and the application creates an audio fingerprint. Shazam works by analyzing the captured sound and seeking a match based on an acoustic fingerprint in a database of millions of songs. If it finds a match, it sends information such as the artist, song title, and album back to the user. Some implementations of Shazam incorporate relevant links to services such as iTunes, Apple Music, Spotify, YouTube, or Groove Music.
+Shazam can identify music being played from any source, provided that the background noise level is not high enough to prevent an acoustic fingerprint being taken, and that the song is present in the software's database.
+As well as the free app, the company has released a paid app called Shazam Encore. In September 2012, the service was expanded to enable TV users in the US to identify featured music, access cast information, and get links to show information online, as well as added social networking capabilities.
+In 2014, Shazam redesigned their app and added additional features.
+Compatible devices
+Shazam runs on Android, Wear OS, iOS, watchOS, BlackBerry OS, and Windows Phone systems. Shazam is also available for MacOS, as a desktop application that, when enabled, runs in the background and automatically recognises any song played on or near the computer. Apple's launch of iOS 8 in September 2014 came with the integration of Shazam into Apple's Siri function.
+History
+Shazam Entertainment Limited was founded in 1999 by Chris Barton and Philip Inghelbrecht, who were students at University of California, Berkeley and worked at a London-based internet consulting firm called Viant. In need of a digital signal processing specialist, the founding team then hired Wang, who had received his PhD from Stanford University. It first made a profit in 2016, 17 years after launch.
+2002–2006: Early days of the service
+Initially, in 2002, the service was launched only in the UK and was known as "2580", as the number was the shortcode that customers dialled from their mobile phone to get music recognized. The phone would automatically hang up after 30 seconds. A result was then sent to the user in the form of a text message containing the song title and artist name. At a later date, the service also began to add hyperlinks in the text message to allow the user to download the song online.
+Shazam launched in the US on the AT&T Wireless network in 2004 in a joint offering with Musicphone, a now defunct San Francisco-based company. The service was free at launch with AT&T saying that it would charge $0.99 for each use in future.
+In 2006, users were charged £0.60 per call or had unlimited use for £4.50 a month, as well as an online service to keep track of all tags.
+2006–2017: Smartphone app and expansion
+Shazam first became available as an app in 2006 exclusively on the Amp'd Mobile cellular service.
+Shazam for iPhone debuted on July 10, 2008, with the launch of Apple's App Store. The free app enabled users to launch iTunes and buy the song directly, although the service struggled to identify classical music.
+Shazam launched on the Android platform later that year, and on the  Windows Mobile Marketplace a year later. Encore first appeared for iPhone in November 2009.
+In December 2009, Shazam was downloaded ten million times in 150 countries across 350 mobile operators. Around eight percent of users purchased a track after it was identified by the service. Its success led to a funding round from Kleiner Perkins Caufield & Byers in October 2009. In January 2011, Apple announced that Shazam was the fourth most downloaded free app of all time on the App Store, while rival SoundHound had the top paid iPad app.
+In August 2012, Shazam announced the service had been used to tag five billion songs, TV shows and advertisements. In addition, Shazam claimed to have over 225 million users across 200 countries. A month later, the service claimed to have more than 250 million users with two million active users per week. In 2014, the app announced it had 100 million monthly active users and over 500 million downloads. In October 2014, Shazam announced its technology had been used to identify 15 billion songs.
+The Shazam app was listed among Techland's 50 Best Android Applications for 2013.
+In August 2014, Shazam announced there would be no more updates for Shazam(RED) after August 7.
+Apple's launch of iOS 8 in September 2014 came with the integration of Shazam into Apple's virtual assistant Siri.
+In February 2013, Shazam announced a partnership with the music store Beatport, adding its library of electronic music to the service. On April 3, 2013, Shazam announced an exclusive partnership with Saavn, an Indian online music streaming service. The deal added nearly 1 million songs in Indian languages to Shazam's database. In July 2014, Shazam announced a partnership with Rdio that allows Shazam users to stream full songs within the app.
+In May 2015, Shazam was launched on Wear OS (formerly Android Wear).
+
+Rich Riley joined Shazam as CEO in April 2013. after over 13 years at Yahoo! Riley replaced Andrew Fisher, who was hired from Infospace into the CEO role in 2005 to strengthen industry partnerships and grow the userbase. Fisher is now executive chairman.
+In addition to music, Shazam has announced collaborations with partners across television, advertising and cinema. In May 2014, National CineMedia announced a partnership with Shazam to incorporate Shazam into FirstLook pre-show segments that run in Regal, AMC and Cinemark cinemas. In November 2014, NCM and Shazam announced that NCM FirstLook pre-shows are now Shazam enabled on over 20,000 movie screens across the United States.
+In August 2014, Shazam announced the launch of Resonate, a sales product that allows TV networks to access its technology and user base. The news included the announcement of partnerships with AMC, A&E, Dick Clark Productions and Fuse.
+Shazam announced a 2015 partnership with Sun Broadcast Group on Shazam for Radio, a new offering that will allow radio stations to push customised content to listeners on Sun Broadcast's over 8,000 radio stations in the US.
+In December 2016, Shazam announced a partnership with social media application Snapchat. The new feature comes as part of the latest Snapchat update and integration with Shazam, which allows Snapchat users to use Shazam's music recognition technology by pressing and holding the camera screen.
+2018–present: Subsidiary of Apple Inc.
+In December 2017, Apple Inc. announced it would be acquiring Shazam for a reported $400 million (£300 million). On April 23, 2018, the European Commission stated that it would be reviewing the acquisition. The European Commission approved the acquisition on September 6, 2018 and the deal was completed on September 24, 2018.
+Funding
+As of September 2012, Shazam had raised US$32 million in funding. In July 2013, América Móvil invested US$40 million in Shazam for an undisclosed share. In March 2014, Shazam confirmed another US$20 million in new funding, raising the total value of the company to US$500 million. The company's earlier backers include European venture capital firm DN Capital, which invested in Shazam in 2004.
+Patent infringement lawsuit
+In May 2009, Tune Hunter accused Shazam of violating U.S. Patent 6,941,275, which covers music identification and purchase in a portable device. Shazam settled the case in January 2010.
+See also
+References
+Further reading

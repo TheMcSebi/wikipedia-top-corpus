@@ -1,0 +1,160 @@
+Definite matrix
+In mathematics, a symmetric matrix $MATH$ with real entries is  positive-definite if the real number $MATH$ is positive for every nonzero real column vector $MATH$ where $MATH$ is the transpose of $MATH$. More generally, a Hermitian matrix (that is, a complex matrix equal to its conjugate transpose)  is
+positive-definite if the real number $MATH$ is positive for every nonzero complex column vector $MATH$ where $MATH$ denotes the conjugate transpose of $MATH$
+Positive semi-definite matrices are defined similarly, except that the scalars  $MATH$ and $MATH$ are required to be positive or zero (that is, nonnegative). Negative-definite and negative semi-definite matrices are defined analogously. A matrix that is not positive semi-definite and not negative semi-definite is sometimes called indefinite.
+A matrix is thus positive-definite if and only if it is the matrix of a positive-definite quadratic form or Hermitian form. In other words, a matrix is positive-definite if and only if it defines an inner product.
+Positive-definite and positive-semidefinite matrices can be characterized in many ways, which may explain the importance of the concept in various parts of mathematics. A matrix M is positive-definite if and only if it satisfies any of the following equivalent conditions.
+A matrix is positive semi-definite if it satisfies similar equivalent conditions where "positive" is replaced by "nonnegative", "invertible matrix" is replaced by "matrix", and the word "leading" is removed.
+Positive-definite and positive-semidefinite real matrices are at the basis of convex optimization, since, given a function of several real variables that is twice differentiable, then if its Hessian matrix (matrix of its second partial derivatives) is positive-definite at a point p, then the function is  convex near p, and, conversely, if the function is convex near p, then the Hessian matrix is positive-semidefinite at p.
+Some authors use more general definitions of definiteness, including some non-symmetric real matrices, or non-Hermitian complex ones.
+Definitions
+In the following definitions, $MATH$ is the transpose of $MATH$, $MATH$ is the conjugate transpose of $MATH$ and $MATH$ denotes the n-dimensional zero-vector.
+Definitions for real matrices
+An $MATH$ symmetric real matrix $MATH$ is said to be positive-definite if $MATH$ for all non-zero $MATH$ in $MATH$. Formally,
+$MATH$
+An $MATH$ symmetric real matrix $MATH$ is said to be positive-semidefinite or non-negative-definite if $MATH$ for all $MATH$ in $MATH$. Formally,
+$MATH$
+An $MATH$ symmetric real matrix $MATH$ is said to be negative-definite if $MATH$ for all non-zero $MATH$ in $MATH$. Formally,
+$MATH$
+An $MATH$ symmetric real matrix $MATH$ is said to be negative-semidefinite or non-positive-definite if $MATH$ for all $MATH$ in $MATH$. Formally,
+$MATH$
+An $MATH$ symmetric real matrix which is neither positive semidefinite nor negative semidefinite is called indefinite.
+Definitions for complex matrices
+The following definitions all involve the term $MATH$. Notice that this is always a real number for any Hermitian square matrix $MATH$.
+An $MATH$ Hermitian complex matrix $MATH$ is said to be positive-definite if $MATH$ for all non-zero $MATH$ in $MATH$. Formally,
+$MATH$
+An $MATH$ Hermitian complex matrix $MATH$ is said to be positive semi-definite or non-negative-definite if $MATH$ for all $MATH$ in $MATH$. Formally,
+$MATH$
+An $MATH$ Hermitian complex matrix $MATH$ is said to be negative-definite if $MATH$ for all non-zero $MATH$ in $MATH$. Formally,
+$MATH$
+An $MATH$ Hermitian complex matrix $MATH$ is said to be negative semi-definite or non-positive-definite if $MATH$ for all $MATH$ in $MATH$. Formally,
+$MATH$
+An $MATH$ Hermitian complex matrix which is neither positive semidefinite nor negative semidefinite is called indefinite.
+Consistency between real and complex definitions
+Since every real matrix is also a complex matrix, the definitions of "definiteness" for the two classes must agree.
+For complex matrices, the most common definition says that "$MATH$ is positive-definite if and only if $MATH$ is real and positive for all non-zero complex column vectors $MATH$".  This condition implies that $MATH$ is Hermitian (i.e. its transpose is equal to its conjugate). To see this, consider the matrices $MATH$ and $MATH$, so that $MATH$ and  $MATH$. The matrices $MATH$ and $MATH$ are Hermitian, therefore $MATH$ and $MATH$ are individually real. If $MATH$ is real, then $MATH$ must be zero for all $MATH$. Then $MATH$ is the zero matrix and $MATH$, proving that $MATH$ is Hermitian.
+By this definition, a positive-definite real matrix $MATH$ is Hermitian, hence symmetric; and $MATH$ is positive for all non-zero real column vectors $MATH$.  However the last condition alone is not sufficient for $MATH$ to be positive-definite. For example, if
+then for any real vector $MATH$ with entries $MATH$ and $MATH$ we have $MATH$, which is always positive if $MATH$ is not zero. However, if $MATH$ is the complex vector with entries $MATH$ and $MATH$, one gets
+which is not real. Therefore, $MATH$ is not positive-definite.
+On the other hand, for a symmetric real matrix $MATH$, the condition "$MATH$ for all nonzero real vectors $MATH$" does imply that $MATH$ is positive-definite in the complex sense.
+Notation
+If a Hermitian matrix $MATH$ is positive semi-definite, one sometimes writes $MATH$ and if $MATH$ is positive-definite one writes $MATH$. To denote that $MATH$ is negative semi-definite one writes $MATH$ and to denote that $MATH$ is negative-definite one writes $MATH$.
+The notion comes from functional analysis where positive semidefinite matrices define positive operators. If two matrices $MATH$ and $MATH$ satisfy $MATH$, we can define a non-strict partial order $MATH$ that is reflexive, antisymmetric, and transitive; It is not a total order, however, as $MATH$ in general may be indefinite.
+A common alternative notation is $MATH$, $MATH$, $MATH$ and $MATH$ for positive semi-definite and positive-definite, negative semi-definite and negative-definite matrices, respectively. This may be confusing, as sometimes nonnegative matrices (respectively, nonpositive matrices) are also denoted in this way.
+Examples
+Eigenvalues
+Let $MATH$ be an $MATH$ Hermitian matrix (this includes real symmetric matrices). All eigenvalues of $MATH$ are real, and their sign characterize its definiteness:
+Let $MATH$ be an eigendecomposition of $MATH$, where $MATH$ is a unitary complex matrix whose columns comprise an orthonormal basis of eigenvectors of $MATH$, and $MATH$ is a real diagonal matrix whose main diagonal contains the corresponding eigenvalues. The matrix $MATH$ may be regarded as a diagonal matrix $MATH$ that has been re-expressed in coordinates of the (eigenvectors) basis $MATH$. Put differently, applying $MATH$ to some vector z, giving Mz, is the same as changing the basis to the eigenvector coordinate system using P−1, giving P−1z, applying the stretching transformation D to the result, giving DP−1z, and then changing the basis back using P, giving PDP−1z.
+With this in mind, the one-to-one change of variable $MATH$ shows that $MATH$ is real and positive for any complex vector $MATH$ if and only if $MATH$ is real and positive for any $MATH$; in other words, if $MATH$ is positive definite. For a diagonal matrix, this is true only if each element of the main diagonal—that is, every eigenvalue of  $MATH$—is positive. Since the spectral theorem guarantees all eigenvalues of a Hermitian matrix to be real, the positivity of eigenvalues can be checked using Descartes' rule of alternating signs when the characteristic polynomial of a real, symmetric matrix $MATH$ is available.
+Decomposition
+Let $MATH$ be an $MATH$ Hermitian matrix.
+$MATH$ is positive semidefinite if and only if it can be decomposed as a product
+of a matrix $MATH$ with its conjugate transpose.
+When $MATH$ is real, $MATH$ can be real as well and the decomposition can be written as 
+$MATH$ is positive definite if and only if such a decomposition exists with $MATH$ invertible.
+More generally, $MATH$ is positive semidefinite with rank $MATH$ if and only if a decomposition exists with a $MATH$ matrix $MATH$ of full row rank (i.e. of rank $MATH$).
+Moreover, for any decomposition $MATH$, $MATH$.
+If $MATH$, then $MATH$, so $MATH$ is positive semidefinite.
+If moreover $MATH$ is invertible then the inequality is strict for $MATH$, so $MATH$ is positive definite.
+If $MATH$ is $MATH$ of rank $MATH$, then $MATH$.
+In the other direction, suppose $MATH$ is positive semidefinite.
+Since $MATH$ is Hermitian, it has an eigendecomposition $MATH$ where $MATH$ is unitary and $MATH$ is a diagonal matrix whose entries are the eigenvalues of $MATH$
+Since $MATH$ is positive semidefinite, the eigenvalues are non-negative real numbers, so one can define $MATH$ as the diagonal matrix whose entries are non-negative square roots of eigenvalues.
+Then $MATH$ for $MATH$.
+If moreover $MATH$ is positive definite, then the eigenvalues are (strictly) positive, so $MATH$ is invertible, and hence $MATH$ is invertible as well.
+If $MATH$ has rank $MATH$, then it has exactly $MATH$ positive eigenvalues and the others are zero, hence in $MATH$ all but $MATH$ rows are all zeroed.
+Cutting the zero rows gives a $MATH$ matrix $MATH$ such that $MATH$.
+The columns $MATH$ of $MATH$ can be seen as vectors in the complex or real vector space $MATH$, respectively.
+Then the entries of $MATH$ are inner products (that is dot products, in the real case) of these vectors
+In other words, a Hermitian matrix $MATH$ is positive semidefinite if and only if it is the Gram matrix of some vectors $MATH$.
+It is positive definite if and only if it is the Gram matrix of some linearly independent vectors.
+In general, the rank of the Gram matrix of vectors $MATH$ equals the dimension of the space spanned by these vectors.
+Uniqueness up to unitary transformations
+The decomposition is not unique: 
+if $MATH$ for some $MATH$ matrix $MATH$ and if $MATH$ is any unitary $MATH$ matrix (meaning $MATH$),
+then $MATH$ for $MATH$.
+However, this is the only way in which two decompositions can differ: the decomposition is unique up to unitary transformations.
+More formally, if $MATH$ is a $MATH$ matrix and $MATH$ is a $MATH$ matrix such that $MATH$,
+then there is a $MATH$ matrix $MATH$ with orthonormal columns (meaning $MATH$) such that $MATH$.
+When $MATH$ this means $MATH$ is unitary.
+This statement has an intuitive geometric interpretation in the real case:
+let the columns of $MATH$ and $MATH$ be the vectors $MATH$ and $MATH$ in $MATH$.
+A real unitary matrix is an orthogonal matrix, which describes a rigid transformation (an isometry of Euclidean space $MATH$) preserving the 0 point (i.e. rotations and reflections, without translations). 
+Therefore, the dot products $MATH$ and $MATH$ are equal if and only if some rigid transformation of $MATH$ transforms the vectors $MATH$ to $MATH$ (and 0 to 0).
+Square root
+A matrix $MATH$ is positive semidefinite if and only if there is a positive semidefinite matrix $MATH$  (in particular $MATH$ is Hermitian, so $MATH$) satisfying $MATH$. This matrix $MATH$ is unique, is called the non-negative square root of $MATH$, and is denoted with $MATH$.
+When $MATH$ is positive definite, so is $MATH$, hence it is also called the positive square root of $MATH$.
+The non-negative square root should not be confused with other decompositions $MATH$.
+Some authors use the name square root and $MATH$ for any such decomposition, or specifically for the Cholesky decomposition,
+or any decomposition of the form $MATH$;
+other only use it for the non-negative square root.
+If $MATH$ then $MATH$.
+Cholesky decomposition
+A positive semidefinite matrix $MATH$ can be written as $MATH$, where $MATH$ is lower triangular with non-negative diagonal (equivalently $MATH$ where $MATH$ is upper triangular); this is the Cholesky decomposition.
+If $MATH$ is positive definite, then the diagonal of $MATH$ is positive and the Cholesky decomposition is unique. Conversely if $MATH$ is lower triangular with nonnegative diagonal then $MATH$ is positive semidefinite. 
+The Cholesky decomposition is especially useful for efficient numerical calculations.
+A closely related decomposition is the LDL decomposition, $MATH$, where $MATH$ is diagonal and $MATH$ is lower unitriangular.
+Other characterizations
+Let $MATH$ be an $MATH$ real symmetric matrix, and let $MATH$ be the "unit ball" defined by $MATH$. Then we have the following
+Let $MATH$ be an $MATH$ Hermitian matrix. The following properties are equivalent to $MATH$ being positive definite:
+A positive semidefinite matrix is positive definite if and only if it is invertible.
+A matrix $MATH$ is negative (semi)definite if and only if $MATH$ is positive (semi)definite.
+Quadratic forms
+The (purely) quadratic form associated with a real $MATH$ matrix $MATH$ is the function $MATH$ such that $MATH$ for all $MATH$. $MATH$ can be assumed symmetric by replacing it with $MATH$.
+A symmetric matrix $MATH$ is positive definite if and only if its quadratic form is a strictly convex function.
+More generally, any quadratic function from $MATH$ to $MATH$ can be written as $MATH$ where $MATH$ is a symmetric $MATH$ matrix, $MATH$ is a real $MATH$-vector, and $MATH$ a real constant. In the $MATH$ case, this is a parabola, and just like in the $MATH$ case, we have
+Theorem: This quadratic function is strictly convex, and hence has a unique finite global minimum, if and only if $MATH$ is positive definite.
+Proof: If $MATH$ is positive definite, then the function is strictly convex. Its gradient is zero at the unique point of $MATH$, which must be the global minimum since the function is strictly convex. If $MATH$ is not positive definite, then there exists some vector $MATH$ such that $MATH$, so the function $MATH$ is a line or a downward parabola, thus not strictly convex and not having a global minimum.
+For this reason, positive definite matrices play an important role in optimization problems.
+Simultaneous diagonalization
+One symmetric matrix and another matrix that is both symmetric and positive definite can be simultaneously diagonalized. This is so  although simultaneous diagonalization is not necessarily performed with a similarity transformation. This result does not extend to the case of three or more matrices. In this section we write for the real case. Extension to the complex case is immediate.
+Let $MATH$ be a symmetric and $MATH$ a symmetric and positive definite matrix. Write the generalized eigenvalue equation as $MATH$ where we impose that $MATH$ be normalized, i.e. $MATH$. Now we use Cholesky decomposition to write the inverse of $MATH$ as $MATH$. Multiplying by $MATH$ and letting $MATH$, we get $MATH$, which can be rewritten as $MATH$ where $MATH$. Manipulation now yields $MATH$ where $MATH$ is a matrix having as columns the generalized eigenvectors and $MATH$ is a diagonal matrix of the generalized eigenvalues.  Now premultiplication with $MATH$ gives the final result: $MATH$ and $MATH$, but note that this is no longer an orthogonal diagonalization with respect to the inner product where $MATH$. In fact, we diagonalized $MATH$ with respect to the inner product induced by $MATH$.
+Note that this result does not contradict what is said on simultaneous diagonalization in the article Diagonalizable matrix, which refers to simultaneous diagonalization by a similarity transformation. Our result here is more akin to a simultaneous diagonalization of two quadratic forms, and is useful for optimization of one form under conditions on the other.
+Properties
+Induced partial ordering
+For arbitrary square matrices $MATH$, $MATH$ we write $MATH$ if $MATH$ i.e., $MATH$ is positive semi-definite. This defines a partial ordering on the set of all square matrices.  One can similarly define a strict partial ordering $MATH$. The ordering is called the Loewner order.
+Inverse of positive definite matrix
+Every positive definite matrix is invertible and its inverse is also positive definite. If $MATH$ then $MATH$. Moreover, by the min-max theorem, the kth largest eigenvalue of $MATH$ is greater than the kth largest eigenvalue of $MATH$.
+Scaling
+If $MATH$ is positive definite and $MATH$ is a real number, then $MATH$ is positive definite.
+Addition
+Multiplication
+Trace
+The diagonal entries $MATH$ of a positive-semidefinite matrix are real and non-negative. As a consequence the trace, $MATH$. Furthermore, since every principal sub-matrix (in particular, 2-by-2) is positive semidefinite,
+and thus, when $MATH$,
+An $MATH$ Hermitian matrix $MATH$ is positive definite if it satisfies the following trace inequalities:
+Another important result is that for any $MATH$ and $MATH$ positive-semidefinite matrices, $MATH$
+Hadamard product
+If $MATH$, although $MATH$ is not necessary positive semidefinite, the Hadamard product is, $MATH$ (this result is often called the Schur product theorem).
+Regarding the Hadamard product of two positive semidefinite matrices $MATH$, $MATH$, there are two notable inequalities:
+Kronecker product
+If $MATH$, although $MATH$ is not necessary positive semidefinite, the Kronecker product $MATH$.
+Frobenius product
+If $MATH$, although $MATH$ is not necessary positive semidefinite, the Frobenius inner product $MATH$ (Lancaster–Tismenetsky, The Theory of Matrices, p. 218).
+Convexity
+The set of positive semidefinite symmetric matrices is convex.  That is, if $MATH$ and $MATH$ are positive semidefinite, then for any $MATH$ between 0 and 1, $MATH$ is also positive semidefinite.  For any vector $MATH$:
+This property guarantees that semidefinite programming problems converge to a globally optimal solution.
+Relation with cosine
+The positive-definiteness of a matrix $MATH$ expresses that the angle $MATH$ between any vector $MATH$ and its image $MATH$ is always $MATH$:
+Further properties
+A Hermitian matrix is positive semidefinite if and only if all of its principal minors are nonnegative. It is however not enough to consider the leading principal minors only, as is checked on the diagonal matrix with entries 0 and −1.
+Block matrices and submatrices
+A positive $MATH$ matrix may also be defined by blocks:
+where each block is $MATH$. By applying the positivity condition, it immediately follows that $MATH$ and $MATH$ are hermitian, and $MATH$.
+We have that $MATH$ for all complex $MATH$, and in particular for $MATH$. Then
+A similar argument can be applied to $MATH$, and thus we conclude that both $MATH$ and $MATH$ must be positive definite. The argument can be extended to show that any principal submatrix of $MATH$ is itself positive definite.
+Converse results can be proved with stronger conditions on the blocks, for instance using the Schur complement.
+Local extrema
+A general quadratic form $MATH$ on $MATH$ real variables $MATH$ can always be written as $MATH$ where $MATH$ is the column vector with those variables, and $MATH$ is a symmetric real matrix. Therefore, the matrix being positive definite means that $MATH$ has a unique minimum (zero) when $MATH$ is zero, and is strictly positive for any other $MATH$.
+More generally, a twice-differentiable real function $MATH$ on $MATH$ real variables has local minimum at arguments $MATH$ if its gradient is zero and its Hessian (the matrix of all second derivatives) is positive semi-definite at that point. Similar statements can be made for negative definite and semi-definite matrices.
+Covariance
+In statistics, the covariance matrix of a multivariate probability distribution is always positive semi-definite; and it is positive definite unless one variable is an exact linear function of the others. Conversely, every positive semi-definite matrix is the covariance matrix of some multivariate distribution.
+Extension for non-Hermitian square matrices
+The definition of positive definite can be generalized by designating any complex matrix $MATH$ (e.g. real non-symmetric) as positive definite if $MATH$ for all non-zero complex vectors $MATH$, where $MATH$ denotes the real part of a complex number $MATH$. Only the Hermitian part $MATH$ determines whether the matrix is positive definite, and is assessed in the narrower sense above. Similarly, if $MATH$ and $MATH$ are real, we have $MATH$ for all real nonzero vectors $MATH$ if and only if the symmetric part $MATH$ is positive definite in the narrower sense. It is immediately clear that $MATH$is insensitive to transposition of M.
+Consequently, a non-symmetric real matrix with only positive eigenvalues does not need to be positive definite. For example, the matrix $MATH$ has positive eigenvalues yet is not positive definite; in particular a negative value of $MATH$ is obtained with the choice $MATH$ (which is the eigenvector associated with the negative eigenvalue of the symmetric part of $MATH$).
+In summary, the distinguishing feature between the real and complex case is that, a bounded positive operator on a complex Hilbert space is necessarily Hermitian, or self adjoint. The general claim can be argued using the polarization identity. That is no longer true in the real case.
+Applications
+Heat conductivity matrix
+Fourier's law of heat conduction, giving heat flux $MATH$ in terms of the temperature gradient $MATH$ is written for anisotropic media as $MATH$, in which $MATH$ is the symmetric thermal conductivity matrix. The negative is inserted in Fourier's law to reflect the expectation that heat will always flow from hot to cold. In other words, since the temperature gradient $MATH$ always points from cold to hot, the heat flux $MATH$ is expected to have a negative inner product with $MATH$ so that $MATH$. Substituting Fourier's law then gives this expectation as $MATH$, implying that the conductivity matrix should be positive definite.
+See also
+Notes

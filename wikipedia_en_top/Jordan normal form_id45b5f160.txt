@@ -1,0 +1,143 @@
+Jordan normal form
+In linear algebra, a Jordan normal form, also known as a Jordan canonical form (JCF),
+is an upper triangular matrix of a particular form called a Jordan matrix representing a linear operator on a finite-dimensional vector space with respect to some basis. Such a matrix has each non-zero off-diagonal entry equal to 1, immediately above the main diagonal (on the superdiagonal), and with identical diagonal entries to the left and below them.
+Let V be a vector space over a field K. Then a basis with respect to which the matrix has the required form exists if and only if all eigenvalues of the matrix lie in K, or equivalently if the characteristic polynomial of the operator splits into linear factors over K. This condition is always satisfied if K is algebraically closed (for instance, if it is the field of complex numbers). The diagonal entries of the normal form are the eigenvalues (of the operator), and the number of times each eigenvalue occurs is called the algebraic multiplicity of the eigenvalue.
+If the operator is originally given by a square matrix M, then its Jordan normal form is also called the Jordan normal form of M. Any square matrix has a Jordan normal form if the field of coefficients is extended to one containing all the eigenvalues of the matrix. In spite of its name, the normal form for a given M is not entirely unique, as it is a block diagonal matrix formed of Jordan blocks, the order of which is not fixed; it is conventional to group blocks for the same eigenvalue together, but no ordering is imposed among the eigenvalues, nor among the blocks for a given eigenvalue, although the latter could for instance be ordered by weakly decreasing size.
+The Jordan–Chevalley decomposition is particularly simple with respect to a basis for which the operator takes its Jordan normal form. The diagonal form for diagonalizable matrices, for instance normal matrices, is a special case of the Jordan normal form.
+The Jordan normal form is named after Camille Jordan, who first stated the Jordan decomposition theorem in 1870.
+Overview
+Notation
+Some textbooks have the ones on the subdiagonal; that is, immediately below the main diagonal instead of on the superdiagonal. The eigenvalues are still on the main diagonal.
+Motivation
+An n × n matrix A is diagonalizable if and only if the sum of the dimensions of the eigenspaces is n. Or, equivalently, if and only if A has n linearly independent eigenvectors. Not all matrices are diagonalizable; matrices that are not diagonalizable are called defective matrices. Consider the following matrix:
+Including multiplicity, the eigenvalues of A are λ = 1, 2, 4, 4. The dimension of the eigenspace corresponding to the eigenvalue 4 is 1 (and not 2), so A is not diagonalizable. However, there is an invertible matrix P such that J = P−1AP, where
+The matrix $MATH$ is almost diagonal. This is the Jordan normal form of A. The section Example below fills in the details of the computation.
+Complex matrices
+In general, a square complex matrix A is similar to a block diagonal matrix
+where each block Ji is a square matrix of the form
+So there exists an invertible matrix P such that P−1AP = J is such that the only non-zero entries of J are on the diagonal and the superdiagonal. J is called the Jordan normal form of A. Each Ji is called a Jordan block of A. In a given Jordan block, every entry on the superdiagonal is 1.
+Assuming this result, we can deduce the following properties:
+Example
+Consider the matrix $MATH$ from the example in the previous section. The Jordan normal form is obtained by some similarity transformation:
+Let $MATH$ have column vectors $MATH$, $MATH$, then
+We see that
+For $MATH$ we have $MATH$, that is, $MATH$ is an eigenvector of $MATH$ corresponding to the eigenvalue $MATH$. For $MATH$, multiplying both sides by $MATH$ gives
+But $MATH$, so
+Thus, $MATH$
+Vectors such as $MATH$ are called generalized eigenvectors of A.
+Example: Obtaining the normal form
+This example shows how to calculate the Jordan normal form of a given matrix.
+Consider the matrix
+which is mentioned in the beginning of the article.
+The characteristic polynomial of A is
+This shows that the eigenvalues are 1, 2, 4 and 4, according to algebraic multiplicity. The eigenspace corresponding to the eigenvalue 1 can be found by solving the equation Av = λv. It is spanned by the column vector v = (−1, 1, 0, 0)T. Similarly, the eigenspace corresponding to the eigenvalue 2 is spanned by w = (1, −1, 0, 1)T. Finally, the eigenspace corresponding to the eigenvalue 4 is also one-dimensional (even though this is a double eigenvalue) and is spanned by x = (1, 0, −1, 1)T. So, the geometric multiplicity (that is, the dimension of the eigenspace of the given eigenvalue) of each of the three eigenvalues is one. Therefore, the two eigenvalues equal to 4 correspond to a single Jordan block, and the Jordan normal form of the matrix A is the direct sum
+There are three Jordan chains. Two have length one: {v} and {w}, corresponding to the eigenvalues 1 and 2, respectively. There is one chain of length two corresponding to the eigenvalue 4. To find this chain, calculate
+where I is the 4 × 4 identity matrix. Pick a vector in the above span that is not in the kernel of A − 4I; for example, y = (1,0,0,0)T. Now, (A − 4I)y = x and (A − 4I)x = 0, so {y, x} is a chain of length two corresponding to the eigenvalue 4.
+The transition matrix P such that P−1AP = J is formed by putting these vectors next to each other as follows
+A computation shows that the equation P−1AP = J indeed holds.
+If we had interchanged the order in which the chain vectors appeared, that is, changing the order of v, w and {x, y} together, the Jordan blocks would be interchanged. However, the Jordan forms are equivalent Jordan forms.
+Generalized eigenvectors
+Given an eigenvalue λ, every corresponding Jordan block gives rise to a Jordan chain of linearly independent vectors pi, i = 1, ..., b, where b is the size of the Jordan block. The generator, or lead vector, pb of the chain is a generalized eigenvector such that (A − λI)bpb = 0. The vector p1 =  (A − λI)b−1pb is an ordinary eigenvector corresponding to λ. In general, pi is a preimage of pi−1 under A − λI. So the lead vector generates the chain via multiplication by A − λI. Therefore the statement that every square matrix A can be put in Jordan normal form is equivalent to the claim that the underlying vector space has a basis composed of Jordan chains.
+A proof
+We give a proof by induction that any complex-valued square matrix A may be put in Jordan normal form. Since the underlying vector space can be shown to be the direct sum of invariant subspaces associated with the eigenvalues, A can be assumed to have just one eigenvalue λ. The 1 × 1 case is trivial. Let A be an n × n matrix. The range of A − λI, denoted by Ran(A − λI), is an invariant subspace of A. Also, since λ is an eigenvalue of A, the dimension of Ran(A − λI), r, is strictly less than n, so, by the inductive hypothesis, Ran(A − λI) has a basis {p1, …, pr} composed of Jordan chains.
+Next consider the kernel, that is, the subspace ker(A − λI). If
+the desired result follows immediately from the rank–nullity theorem. (This would be the case, for example, if A were Hermitian.)
+Otherwise, if
+let the dimension of Q be s ≤ r. Each vector in Q is an eigenvector, so Ran(A − λI) must contain s Jordan chains corresponding to s linearly independent eigenvectors. Therefore the basis {p1, ..., pr} must contain s vectors, say {pr−s+1, ..., pr}, that are lead vectors of these Jordan chains. We can "extend the chains" by taking the preimages of these lead vectors. (This is the key step.) Let qi be such that
+The set {qi}, being preimages of the linearly independent set {pi} under A − λ I, is also linearly independent. Clearly no non-trivial linear combination of the qi can lie in ker(A − λI), for {pi}i=r−s+1, ..., r is linearly independent. Furthermore, no non-trivial linear combination of the qi can belong to Ran(A − λ I) because it would then be a linear combination of the basic vectors p1, ..., pr, and this linear combination would have a contribution of basic vectors not in ker(A − λI) because otherwise it would belong to ker(A − λI). The action of A − λI on both linear combinations would then produce an equality of a non-trivial linear combination of lead vectors and such a linear combination of non-lead vectors, which would contradict the linear independence of (p1, ..., pr).
+Finally, we can pick any linearly independent set {z1, ..., zt} whose projection spans
+Each zi forms a Jordan chain of length 1. By construction, the union of the three sets {p1, ..., pr}, {qr−s +1, ..., qr}, and  {z1, ..., zt} is linearly independent, and its members combine to form Jordan chains. Finally, by the rank–nullity theorem, the cardinality of the union is n. In other words, we have found a basis composed of Jordan chains, and this shows A can be put in Jordan normal form.
+Uniqueness
+It can be shown that the Jordan normal form of a given matrix A is unique up to the order of the Jordan blocks.
+Knowing the algebraic and geometric multiplicities of the eigenvalues is not sufficient to determine the Jordan normal form of A. Assuming the algebraic multiplicity m(λ) of an eigenvalue λ is known, the structure of the Jordan form can be ascertained by analyzing the ranks of the powers (A − λI)m(λ). To see this, suppose an n × n matrix A has only one eigenvalue λ. So m(λ) = n. The smallest integer k1 such that
+is the size of the largest Jordan block in the Jordan form of A. (This number k1 is also called the index of λ. See discussion in a following section.) The rank of
+is the number of Jordan blocks of size k1. Similarly, the rank of
+is twice the number of Jordan blocks of size k1 plus the number of Jordan blocks of size k1 − 1. The general case is similar.
+This can be used to show the uniqueness of the Jordan form. Let J1 and J2 be two Jordan normal forms of A. Then J1 and J2 are similar and have the same spectrum, including algebraic multiplicities of the eigenvalues. The procedure outlined in the previous paragraph can be used to determine the structure of these matrices. Since the rank of a matrix is preserved by similarity transformation, there is a bijection between the Jordan blocks of J1 and J2. This proves the uniqueness part of the statement.
+Real matrices
+If A is a real matrix, its Jordan form can still be non-real. Instead of representing it with complex eigenvalues and 1's on the superdiagonal, as discussed above, there exists a real invertible matrix P such that P−1AP = J is a real block diagonal matrix with each block being a real Jordan block. A real Jordan block is either identical to a complex Jordan block (if the corresponding eigenvalue $MATH$ is real), or is a block matrix itself, consisting of 2×2 blocks (for non-real eigenvalue $MATH$ with given algebraic multiplicity) of the form
+and describe multiplication by $MATH$ in the complex plane. The superdiagonal blocks are 2×2 identity matrices and hence in this representation the matrix dimensions are larger than the complex Jordan form. The full real Jordan block is given by
+This real Jordan form is a consequence of the complex Jordan form. For a real matrix the nonreal eigenvectors and generalized eigenvectors can always be chosen to form complex conjugate pairs. Taking the real and imaginary part (linear combination of the vector and its conjugate), the matrix has this form with respect to the new basis.
+Matrices with entries in a field
+Jordan reduction can be extended to any square matrix M whose entries lie in a field K.  The result states that any M can be written as a sum D + N where D is semisimple, N is nilpotent, and DN = ND. This is called the Jordan–Chevalley decomposition. Whenever K contains the eigenvalues of M, in particular when K is algebraically closed, the normal form can be expressed explicitly as the direct sum of Jordan blocks. 
+Similar to the case when K is the complex numbers, knowing the dimensions of the kernels of (M − λI)k for 1 ≤ k ≤ m, where m is the algebraic multiplicity of the eigenvalue λ, allows one to determine the Jordan form of M. We may view the underlying vector space V as a K[x]-module by regarding the action of x on V as application of M and extending by K-linearity. Then the polynomials (x − λ)k are the elementary divisors of M, and the Jordan normal form is concerned with representing M in terms of blocks associated to the elementary divisors.
+The proof of the Jordan normal form is usually carried out as an application to the ring K[x] of the structure theorem for finitely generated modules over a principal ideal domain, of which it is a corollary.
+Consequences
+One can see that the Jordan normal form is essentially a classification result for square matrices, and as such several important results from linear algebra can be viewed as its consequences.
+Spectral mapping theorem
+Using the Jordan normal form, direct calculation gives a spectral mapping theorem for the polynomial functional calculus: Let A be an n × n matrix with eigenvalues λ1, ..., λn, then for any polynomial p, p(A) has eigenvalues p(λ1), ..., p(λn).
+Characteristic polynomial
+The characteristic polynomial of A is $MATH$. Similar matrices have the same characteristic polynomial.
+Therefore, $MATH$,
+where $MATH$ is the ith root of $MATH$ and $MATH$ is its multiplicity, because this is clearly the characteristic polynomial of the Jordan form of A.
+Cayley–Hamilton theorem
+The Cayley–Hamilton theorem asserts that every matrix A satisfies its characteristic equation: if p is the characteristic polynomial of A, then $MATH$. This can be shown via direct calculation in the Jordan form, since if $MATH$ is an eigenvalue of multiplicity $MATH$,
+then its Jordan block $MATH$ clearly satisfies $MATH$.
+As the diagonal blocks do not affect each other, the ith diagonal block of $MATH$ is $MATH$; hence $MATH$.
+The Jordan form can be assumed to exist over a field extending the base field of the matrix, for instance over the splitting field of p; this field extension does not change the matrix p(A) in any way.
+Minimal polynomial
+The minimal polynomial P of a square matrix A is the unique monic polynomial of least degree, m, such that P(A) = 0. Alternatively, the set of polynomials that annihilate a given A form an ideal I in C[x], the principal ideal domain of polynomials with complex coefficients. The monic element that generates I is precisely P.
+Let λ1, …, λq be the distinct eigenvalues of A, and si be the size of the largest Jordan block corresponding to λi. It is clear from the Jordan normal form that the minimal polynomial of A has degree Σsi.
+While the Jordan normal form determines the minimal polynomial, the converse is not true. This leads to the notion of elementary divisors. The elementary divisors of a square matrix A are the characteristic polynomials of its Jordan blocks. The factors of the minimal polynomial m are the elementary divisors of the largest degree corresponding to distinct eigenvalues.
+The degree of an elementary divisor is the size of the corresponding Jordan block, therefore the dimension of the corresponding invariant subspace. If all elementary divisors are linear, A is diagonalizable.
+Invariant subspace decompositions
+The Jordan form of a n × n matrix A is block diagonal, and therefore gives a decomposition of the n dimensional Euclidean space into invariant subspaces of A. Every Jordan block Ji corresponds to an invariant subspace Xi. Symbolically, we put
+where each Xi is the span of the corresponding Jordan chain, and k is the number of Jordan chains.
+One can also obtain a slightly different decomposition via the Jordan form. Given an eigenvalue λi, the size of its largest corresponding Jordan block si is called the index of λi and denoted by v(λi). (Therefore, the degree of the minimal polynomial is the sum of all indices.) Define a subspace Yi by
+This gives the decomposition
+where l is the number of distinct eigenvalues of A. Intuitively, we glob together the Jordan block invariant subspaces corresponding to the same eigenvalue. In the extreme case where A is a multiple of the identity matrix we have k = n and l = 1.
+The projection onto Yi and along all the other Yj ( j ≠ i ) is called the spectral projection of A at vi and is usually denoted by P(λi ; A). Spectral projections are mutually orthogonal in the sense that P(λi ; A) P(vj ; A) = 0 if i ≠ j. Also they commute with A and their sum is the identity matrix. Replacing every vi in the Jordan matrix J by one and zeroing all other entries gives P(vi ; J), moreover if U J U−1 is the similarity transformation such that A = U J U−1 then P(λi ; A) = U P(λi ; J) U−1. They are not confined to finite dimensions. See below for their application to compact operators, and in holomorphic functional calculus for a more general discussion.
+Comparing the two decompositions, notice that, in general, l ≤ k. When A is normal, the subspaces Xi's in the first decomposition are one-dimensional and mutually orthogonal. This is the spectral theorem for normal operators. The second decomposition generalizes more easily for general compact operators on Banach spaces.
+It might be of interest here to note some properties of the index, ν(λ). More generally, for a complex number λ, its index can be defined as the least non-negative integer ν(λ) such that
+So ν(v) > 0 if and only if λ is an eigenvalue of A. In the finite-dimensional case, ν(v) ≤ the algebraic multiplicity of v.
+Plane (flat) normal form
+The Jordan form is used to find a normal form of matrices up to conjugacy such that normal matrices make up an algebraic variety of a low fixed degree in the ambient matrix space.
+Sets of representatives of matrix conjugacy classes for Jordan normal form or rational canonical forms in general do not constitute linear or 
+affine subspaces in the ambient matrix spaces.
+Vladimir Arnold posed a problem:
+Find a canonical form of matrices over a field for which the set of representatives of matrix conjugacy classes is a union of affine linear subspaces (flats). In other words, map the set of matrix conjugacy classes injectively back into the initial set of matrices so that the image of this embedding—the set of all normal matrices, has the lowest possible degree—it is a union of shifted linear subspaces.
+It was solved for algebraically closed fields by Peteris Daugulis. 
+The construction of a uniquely defined plane normal form of a matrix starts by considering its Jordan normal form.
+Matrix functions
+Iteration of the Jordan chain motivates various extensions to more abstract settings. For finite matrices, one gets matrix functions; this can be extended to compact operators and the holomorphic functional calculus, as described further below.
+The Jordan normal form is the most convenient for computation of the matrix functions (though it may be not the best choice for computer computations). Let f(z) be an analytical function of a complex argument. Applying the function on a n×n Jordan block J with eigenvalue λ results in an upper triangular matrix:
+so that the elements of the k-th superdiagonal of the resulting matrix are $MATH$. For a matrix of general Jordan normal form the above expression shall be applied to each Jordan block.
+The following example shows the application to the power function f(z) = zn:
+where the binomial coefficients are defined as $MATH$. For integer positive n it reduces to standard definition
+of the coefficients. For negative n the identity $MATH$ may be of use.
+Compact operators
+A result analogous to the Jordan normal form holds for compact operators on a Banach space. One restricts to compact operators because every point x in the spectrum of a compact operator T is an eigenvalue; The only exception is when x is the limit point of the spectrum. This is not true for bounded operators in general. To give some idea of this generalization, we first reformulate the Jordan decomposition in the language of functional analysis.
+Holomorphic functional calculus
+Let X be a Banach space, L(X) be the bounded operators on X, and σ(T) denote the spectrum of T ∈ L(X). The holomorphic functional calculus is defined as follows:
+Fix a bounded operator T. Consider the family Hol(T) of complex functions that is holomorphic on some open set G containing σ(T). Let Γ = {γi} be a finite collection of Jordan curves such that σ(T) lies in the inside of Γ, we define f(T) by
+The open set G could vary with f and need not be connected. The integral is defined as the limit of the Riemann sums, as in the scalar case. Although the integral makes sense for continuous f, we restrict to holomorphic functions to apply the machinery from classical function theory (for example, the Cauchy integral formula). The assumption that σ(T) lie in the inside of Γ ensures f(T) is well defined; it does not depend on the choice of Γ. The functional calculus is the mapping Φ from Hol(T) to L(X) given by
+We will require the following properties of this functional calculus:
+The finite-dimensional case
+In the finite-dimensional case, σ(T) = {λi} is a finite discrete set in the complex plane. Let ei be the function that is 1 in some open neighborhood of λi and 0 elsewhere. By property 3 of the functional calculus, the operator
+is a projection. Moreover, let νi be the index of λi and
+The spectral mapping theorem tells us
+has spectrum {0}. By property 1, f(T) can be directly computed in the Jordan form, and by inspection, we see that the operator f(T)ei(T) is the zero matrix.
+By property 3, f(T) ei(T) = ei(T) f(T). So ei(T) is precisely the projection onto the subspace
+The relation
+implies
+where the index i runs through the distinct eigenvalues of T. This is the invariant subspace decomposition
+given in a previous section. Each ei(T) is the projection onto the subspace spanned by the Jordan chains corresponding to λi and along the subspaces spanned by the Jordan chains corresponding to vj for j ≠ i. In other words, ei(T) = P(λi;T). This explicit identification of the operators ei(T) in turn gives an explicit form of holomorphic functional calculus for matrices:
+Notice that the expression of f(T) is a finite sum because, on each neighborhood of vi, we have chosen the Taylor series expansion of f centered at vi.
+Poles of an operator
+Let T be a bounded operator λ be an isolated point of σ(T). (As stated above, when T is compact, every point in its spectrum is an isolated point, except possibly the limit point 0.)
+The point λ is called a pole of operator T with order ν if the resolvent function RT defined by
+has a pole of order ν at λ.
+We will show that, in the finite-dimensional case, the order of an eigenvalue coincides with its index. The result also holds for compact operators.
+Consider the annular region A centered at the eigenvalue λ with sufficiently small radius ε such that the intersection of the open disc Bε(λ) and σ(T) is {λ}. The resolvent function RT is holomorphic on A.
+Extending a result from classical function theory, RT has a Laurent series representation on A:
+where
+By the previous discussion on the functional calculus,
+But we have shown that the smallest positive integer m such that
+is precisely the index of λ, ν(λ). In other words, the function RT has a pole of order ν(λ) at λ.
+Numerical analysis
+If the matrix A has multiple eigenvalues, or is close to a matrix with multiple eigenvalues, then its Jordan normal form is very sensitive to perturbations. Consider for instance the matrix
+If ε = 0, then the Jordan normal form is simply
+However, for ε ≠ 0, the Jordan normal form is
+This ill conditioning makes it very hard to develop a robust numerical algorithm for the Jordan normal form, as the result depends critically on whether two eigenvalues are deemed to be equal. For this reason, the Jordan normal form is usually avoided in numerical analysis; the stable Schur decomposition or pseudospectra are better alternatives.
+See also
+Notes

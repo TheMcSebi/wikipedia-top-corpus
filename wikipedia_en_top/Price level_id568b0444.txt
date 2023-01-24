@@ -1,0 +1,16 @@
+Price level
+The general price level is a hypothetical measure of overall prices for some set of goods and services (the consumer basket), in an economy or monetary union during a given interval (generally one day), normalized relative to some base set.  Typically, the general price level is approximated with a daily price index, normally the Daily CPI. The general price level can change more than once per day during hyperinflation.
+Theoretical foundation
+The classical dichotomy is the assumption that there is a relatively clean distinction between overall increases or decreases in prices and underlying, “nominal” economic variables.  Thus, if prices overall increase or decrease, it is assumed that this change can be decomposed as follows:
+Given a set $MATH$ of goods and services, the total value of transactions in $MATH$ at time $MATH$ is
+where
+The general price level is distinguished from a price index in that the existence of the former depends upon the classical dichotomy, while the latter is simply a computation, and many such will be possible regardless of whether they are meaningful.
+Significance
+If, indeed, a general price level component could be distinguished, then it would be possible to measure the difference in overall prices between two regions or intervals.  For example, the inflation rate could be measured as
+and “real” economic growth or contraction could be distinguished from mere price changes by deflating GDP or some other measure.
+Measuring price level
+Applicable indices are the consumer price index (CPI), Default Price Deflator,  and the Producer Price Index.
+Price indices not only affect the rate of inflation, but are also part of real output and productivity.
+See also
+References
+Sources

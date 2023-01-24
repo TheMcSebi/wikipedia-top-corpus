@@ -1,0 +1,59 @@
+Hexagram
+A hexagram (Greek) or sexagram (Latin) is a six-pointed geometric star figure with the Schläfli symbol {6/2}, 2{3}, or {{3}}. Since there are no true regular continuous hexagrams, the term is instead used to refer to a compound figure of two equilateral triangles. The intersection is a regular hexagon.
+The hexagram is part of an infinite series of shapes which are compounds of two n-dimensional simplices. In three dimensions, the analogous compound is the stellated octahedron, and in four dimensions the compound of two 5-cells is obtained.
+It has been historically used in religious and cultural contexts and as decorative motifs. The symbol was used as a decorative motif in medieval Christian churches and Jewish synagogues. It was first used as a mystic symbol by Muslims in the medieval period, known as the Seal of Solomon, depicted as either a hexagram or pentagram, and which was later adopted by Jewish Kabbalists.
+Group theory
+In mathematics, the root system for the simple Lie group G2 is in the form of a hexagram, with six long roots and six short roots.
+
+Construction by compass and a straight edge
+A six-pointed star, like a regular hexagon, can be created using a compass and a straight edge:
+Construction by linear algebra
+A regular hexagram can be constructed by orthographically projecting any cube onto a plane through three vertices that are all adjacent to the same vertex.  The twelve midpoints to edges of the cube form a hexagram.  For example, consider the projection of the unit cube with vertices at the eight possible binary vectors in three dimensions $MATH$ onto the plane $MATH$.  The midpoints are $MATH$, and all points resulting from these by applying a permutation to their entries.  These 12 points project to a hexagram: six vertices around the outer hexagon and six on the inner.
+Origins and shape
+The oldest known depiction of a six-pointed star (dating back to the 3rd millennium BC.) was excavated in the Ashtarak burial mound in “Nerkin Naver” (in Historic Armenia).
+It is possible that as a simple geometric shape, like for example the triangle, circle, or square, the hexagram has been created by various peoples with no connection to one another.
+The hexagram is a mandala symbol called satkona yantra or sadkona yantra found on ancient South Indian Hindu temples. It symbolizes the nara-narayana, or perfect meditative state of balance achieved between Man and God, and if maintained, results in "moksha," or "nirvana" (release from the bounds of the earthly world and its material trappings).
+Some researchers have theorized that the hexagram represents the astrological chart at the time of David's birth or anointment as king. The hexagram is also known as the "King's Star" in astrological circles.
+In antique papyri, pentagrams, together with stars and other signs, are frequently found on amulets bearing the Jewish names of God, and used to guard against fever and other diseases. Curiously the hexagram is not found among these signs. In the Greek Magical Papyri (Wessely, l.c. pp. 31, 112) at Paris and London there are 22 signs side by side, and a circle with twelve signs, but neither a pentagram nor a hexagram.
+Religious usage
+Indian religions
+Six-pointed stars have also been found in cosmological diagrams in Hinduism, Buddhism, and Jainism. The reasons behind this symbol's common appearance in Indic religions and the West are unknown. One possibility is that they have a common origin. The other possibility is that artists and religious people from several cultures independently created the hexagram shape, which is a relatively simple geometric design.
+Within Indic lore, the shape is generally understood to consist of two triangles—one pointed up and the other down—locked in harmonious embrace. The two components are called "Om" and the "Hrim" in Sanskrit, and symbolize man's position between earth and sky. The downward triangle symbolizes Shakti, the sacred embodiment of femininity, and the upward triangle symbolizes Shiva, or Agni Tattva, representing the focused aspects of masculinity. The mystical union of the two triangles represents Creation, occurring through the divine union of male and female. The two locked triangles are also known as 'Shanmukha'—the six-faced, representing the six faces of Shiva & Shakti's progeny Kartikeya. This symbol is also a part of several yantras and has deep significance in Hindu ritual worship and history.
+In Buddhism, some old versions of the Bardo Thodol, also known as The "Tibetan Book of the Dead", contain a hexagram with a swastika inside. It was made up by the publishers for this particular publication. In Tibetan, it is called the "origin of phenomenon" (chos-kyi 'byung-gnas). It is especially connected with Vajrayogini, and forms the center part of her mandala. In reality, it is in three dimensions, not two, although it may be portrayed either way.
+The Shatkona is a symbol used in Hindu yantra that represents the union of both the male and feminine form. More specifically it is supposed to represent Purusha (the supreme being), and Prakriti (mother nature, or causal matter). Often this is represented as Shiva - Shakti.
+Anahata or heart chakra is the fourth primary chakra, according to Hindu Yogic, Shakta and Buddhist Tantric traditions. In Sanskrit, anahata means "unhurt, unstruck, and unbeaten". Anahata Nad refers to the Vedic concept of unstruck sound (the sound of the celestial realm). Anahata is associated with balance, calmness, and serenity.
+Judaism
+The Magen David is a generally recognized symbol of Judaism and Jewish identity and is also known colloquially as the Jewish Star or "Star of David." Its usage as a sign of Jewish identity began in the Middle Ages, though its religious usage began earlier, with the current earliest archeological evidence being a stone bearing the shield from the arch of a 3–4th century synagogue in the Galilee.
+Christianity
+The first and the most important Armenian Cathedral of Etchmiadzin (303 AD, built by the founder of Christianity in Armenia) is decorated with many types of ornamented hexagrams and so is the tomb of an Armenian prince of the Hasan-Jalalyan dynasty of Khachen (1214 AD) in the Gandzasar Church of Artsakh.
+The hexagram may be found in some Churches and stained-glass windows. In Christianity, it is sometimes called the star of creation.  A very early example, noted by Nikolaus Pevsner, can be found in Winchester Cathedral, England in one of the canopies of the choir stalls, circa 1308.
+Latter-day Saints (Mormons)
+The Star of David is also used less prominently by the Church of Jesus Christ of Latter-day Saints, in the temples and in architecture. It symbolizes God reaching down to man and man reaching up to God, the union of Heaven and earth. It may also symbolize the Tribes of Israel and friendship and their affinity towards the Jewish people. Additionally, it is sometimes used to symbolize the quorum of the twelve apostles, as in Revelation 12, wherein the Church of God is symbolized by a woman wearing a crown of twelve stars. It is also sometimes used to symbolize the Big Dipper, which points to the North Star, a symbol of Jesus Christ.
+Islam
+The symbol is known in Arabic as Khātem Sulaymān (Seal of Solomon; خاتم سليمان) or Najmat Dāwūd (Star of David; نجمة داوود). The "Seal of Solomon" may also be represented by a five-pointed star or pentagram.
+
+
+In the Qur'an, it is written that David and King Solomon (Arabic, Suliman or Sulayman) were prophets and kings, and are figures revered by Muslims. The Medieval pre-Ottoman Hanafi Anatolian beyliks of the Karamanids and Jandarids used the star on their flag. The symbol also used on Hayreddin Barbarossa flag. Today the six-pointed star can be found in mosques and on other Arabic and Islamic artifacts.
+Usage in heraldry
+In heraldry and vexillology, a hexagram is a fairly common charge employed, though it is rarely called by this name. In Germanic regions it is known simply as a "star." In English and French heraldry, however, the hexagram is known as a "mullet of six points," where mullet is a French term for a spur rowel which is shown with five pointed arms by default unless otherwise specified. In Albanian heraldry and vexillology, hexagram has been used since classical antiquity and it is commonly referred to as sixagram. The coat of arms of the House of Kastrioti depicts the hexagram on a pile argent over the double headed eagle.
+Usage in theosophy
+The Star of David is used in the seal and the emblem of the Theosophical Society (founded in 1875). Although it is more pronounced, it is used along with other religious symbols. These include the Swastika, the Ankh, the Aum, and the Ouroboros. The star of David is also known as the Seal of Solomon that was its original name until around 50 years ago.
+Usage in occultism
+The hexagram, like the pentagram, was and is used in practices of the occult and ceremonial magic and is attributed to the 7 "old" planets outlined in astrology.
+The six-pointed star is commonly used both as a talisman and for conjuring spirits and spiritual forces in diverse forms of occult magic. In the book The History and Practice of Magic, Vol. 2, the six-pointed star is called the talisman of Saturn and it is also referred to as the Seal of Solomon. Details are given in this book on how to make these symbols and the materials to use.
+Traditionally, the Hexagram can be seen as the combination of the four elements. Fire is symbolized as an upwards pointing triangle, while Air (its elemental opposite) is also an upwards pointing triangle, but with a horizontal line through its center. Water is symbolized as a downwards pointing triangle, while Earth (its elemental opposite) is also a downwards pointing triangle, but with a horizontal line through its center. When you combine the symbols of Fire and Water, a hexagram (six-pointed star) is created. The same follows for when you combine the symbols of Air and Earth.  When you combine both hexagrams, you get the double-hexagram. Thus, a combination of the elements is created.
+In Rosicrucian and Hermetic Magic, the seven Traditional Planets correspond with the angles and the center of the Hexagram as follows, in the same patterns as they appear on the Sephiroth and on the Tree of Life. Saturn, although formally attributed to the Sephira of Binah, within this frame work nonetheless occupies the position of Daath.
+In alchemy, the two triangles represent the reconciliation of the opposites of fire and water.
+The hexagram is used as a sign for quintessence, the fifth element.
+Usage in Freemasonry
+The hexagram is featured within and on the outside of many Masonic temples as a decoration. It may have been found within the structures of King Solomon's temple, from which Freemasons are inspired in their philosophies and studies. Like many other symbols in Freemasonry, the deciphering of the hexagram is non-dogmatic and left to the interpretation of the individual.
+Other uses
+Flags
+Other symbolic uses
+Man-made and natural occurrences
+Unicode
+Other hexagrams
+The figure {6/3} can be shown as a compound of three digons.
+Other hexagrams can be constructed as a continuous path.
+See also
+Footnotes

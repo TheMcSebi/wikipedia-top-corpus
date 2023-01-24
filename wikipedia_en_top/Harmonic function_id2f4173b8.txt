@@ -1,0 +1,77 @@
+Harmonic function
+In mathematics, mathematical physics and the theory of stochastic processes, a harmonic function is a twice continuously differentiable function $MATH$ where U is an open subset of $MATH$ that satisfies Laplace's equation, that is,
+everywhere on U. This is usually written as
+or
+Etymology of the term "harmonic"
+The descriptor "harmonic" in the name harmonic function originates from a point on a taut string which is undergoing harmonic motion. The solution to the differential equation for this type of motion can be written in terms of sines and cosines, functions which are thus referred to as harmonics. Fourier analysis involves expanding functions on the unit circle in terms of a series of these harmonics. Considering higher dimensional analogues of the harmonics on the unit n-sphere, one arrives at the spherical harmonics. These functions satisfy Laplace's equation and over time "harmonic" was used to refer to all functions satisfying Laplace's equation.
+Examples
+Examples of harmonic functions of two variables are:
+Examples of harmonic functions of three variables are given in the table below with $MATH$
+Harmonic functions that arise in physics are determined by their singularities and boundary conditions (such as Dirichlet boundary conditions or Neumann boundary conditions). On regions without boundaries, adding the real or imaginary part of any entire function will produce a harmonic function with the same singularity, so in this case the harmonic function is not determined by its singularities; however, we can make the solution unique in physical situations by requiring that the solution approaches 0 as r approaches infinity. In this case, uniqueness follows by Liouville's theorem.
+The singular points of the harmonic functions above are expressed as "charges" and "charge densities" using the terminology of electrostatics, and so the corresponding harmonic function will be proportional to the electrostatic potential due to these charge distributions. Each function above will yield another harmonic function when multiplied by a constant, rotated, and/or has a constant added. The inversion of each function will yield another harmonic function which has singularities which are the images of the original singularities in a spherical "mirror". Also, the sum of any two harmonic functions will yield another harmonic function.
+Finally, examples of harmonic functions of n variables are:
+Properties
+The set of harmonic functions on a given open set U can be seen as the kernel of the Laplace operator Δ and is therefore a vector space over $MATH$ linear combinations of harmonic functions are again harmonic.
+If f is a harmonic function on U, then all partial derivatives of f are also harmonic functions on U. The Laplace operator Δ and the partial derivative operator will commute on this class of functions.
+In several ways, the harmonic functions are real analogues to holomorphic functions. All harmonic functions are analytic, that is, they can be locally expressed as power series. This is a general fact about elliptic operators, of which the Laplacian is a major example.
+The uniform limit of a convergent sequence of harmonic functions is still harmonic. This is true because every continuous function satisfying the mean value property is harmonic. Consider the sequence on $MATH$ defined by $MATH$ this sequence is harmonic and converges uniformly to the zero function; however note that the partial derivatives are not uniformly convergent to the zero function (the derivative of the zero function). This  example shows the importance of relying on the mean value property and continuity to argue that the limit is harmonic.
+Connections with complex function theory
+The real and imaginary part of any holomorphic function yield harmonic functions on $MATH$ (these are said to be a pair of harmonic conjugate functions). Conversely, any harmonic function u on an open subset Ω of $MATH$  is locally the real part of a holomorphic function. This is immediately seen observing that, writing $MATH$ the complex function $MATH$ is holomorphic in Ω because it satisfies the Cauchy–Riemann equations. Therefore, g  locally has a primitive f, and u is the real part of f up to a constant,  as ux is the real part of $MATH$
+Although the above correspondence with holomorphic functions only holds for functions of  two real variables, harmonic functions in n variables still enjoy a number of properties typical of holomorphic functions. They are (real) analytic; they have a maximum principle and a mean-value principle; a theorem of removal of singularities as well as a Liouville theorem holds for them in analogy to the corresponding theorems in complex functions theory.
+Properties of harmonic functions
+Some important properties of harmonic functions can be deduced from Laplace's equation.
+Regularity theorem for harmonic functions
+Harmonic functions are infinitely differentiable in open sets.  In fact, harmonic functions are real analytic.
+Maximum principle
+Harmonic functions satisfy the following maximum principle: if K is a nonempty compact subset of U, then f  restricted to K attains its maximum and minimum on the boundary of K.  If U is connected, this means that f  cannot have local maxima or minima, other than the exceptional case where f  is constant. Similar properties can be shown for subharmonic functions.
+The mean value property
+If B(x, r) is a ball with center x and radius r which is completely contained in the open set $MATH$ then the value u(x) of  a harmonic function $MATH$ at the center of the ball is given by the average value of u on the surface of the ball; this average value is also equal to the average value of u  in the interior of the ball.  In other words,
+where ωn is the volume of the unit ball in n dimensions and σ is the (n − 1)-dimensional surface measure.
+Conversely, all locally integrable functions satisfying the (volume) mean-value property are both infinitely differentiable and harmonic.
+In terms of convolutions, if
+denotes the characteristic function of the ball with radius r about the origin, normalized so that $MATH$ the function u is harmonic on Ω if and only if
+as soon as $MATH$
+Sketch of the proof. The proof of the mean-value property of the harmonic functions and its converse follows immediately observing that the non-homogeneous equation, for any 0 < s < r
+admits an easy explicit solution wr,s of class C1,1 with compact support in B(0, r). Thus, if u is harmonic in Ω
+holds in the set Ωr of all points x in Ω with $MATH$
+Since u is continuous in Ω, $MATH$ converges to u as s → 0 showing the mean value property for u in Ω. Conversely, if u is any $MATH$ function satisfying the mean-value property in Ω, that is,
+holds in Ωr for all 0 < s < r then, iterating m times the convolution with χr one has:
+so that u is $MATH$ because the m-fold iterated convolution of χr is of class $MATH$ with support  B(0, mr). Since r and m are arbitrary, u is $MATH$ too. Moreover,
+for all 0 < s < r so that Δu = 0 in Ω by the fundamental theorem of the calculus of variations, proving the equivalence between harmonicity and mean-value property.
+This statement of the mean value property can be generalized as follows: If h is any spherically symmetric function supported in B(x, r) such that $MATH$ then $MATH$ In other words, we can take the weighted average of u about a point and recover u(x). In particular, by taking h to be a C∞ function, we can recover the value of u at any point even if we only know how u acts as a distribution. See Weyl's lemma.
+Harnack's inequality
+Let u be a non-negative harmonic function in a bounded domain Ω.  Then for every connected set
+Harnack's inequality
+holds for some constant C that depends only on V and Ω.
+Removal of singularities
+The following principle of removal of singularities holds for harmonic functions. If f  is a harmonic function defined on a dotted open subset $MATH$ of $MATH$, which is less singular at x0 than the fundamental solution (for n > 2), that is
+then f  extends to a harmonic function on Ω (compare Riemann's theorem for functions of a complex variable).
+Liouville's theorem
+Theorem: If f  is a harmonic function defined on all of $MATH$ which is bounded above or bounded below, then f  is constant.
+(Compare Liouville's theorem for functions of a complex variable).
+Edward Nelson gave a particularly short proof of this theorem for the case of bounded functions, using the mean value property mentioned above: 
+The proof can be adapted to the case where the harmonic function f  is merely bounded above or below. By adding a constant and possibly multiplying by –1, we may assume that f  is non-negative. Then for any two points x and y, and any positive number R, we let $MATH$ We then consider the balls BR(x) and BR(y) where by the triangle inequality, the first ball is contained in the second.
+By the averaging property and the monotonicity of the integral, we have
+(Note that since vol BR(x) is independent of x, we denote it merely as vol BR.) In the last expression, we may multiply and divide by vol Br and use the averaging property again, to obtain
+But as $MATH$ the quantity 
+tends to 1. Thus, $MATH$ The same argument with the roles of x and y reversed shows that $MATH$, so that $MATH$
+Another proof uses the fact that given a Brownian motion Bt in $MATH$ such that $MATH$ we have $MATH$ for all t ≥ 0. In words, it says that a harmonic function defines a martingale for the Brownian motion. Then a probabilistic coupling argument finishes the proof.
+Generalizations
+Weakly harmonic function
+A function (or, more generally, a distribution) is weakly harmonic if it satisfies Laplace's equation
+in a weak sense (or, equivalently, in the sense of distributions).  A weakly harmonic function coincides almost everywhere with a strongly harmonic function, and is in particular smooth.  A weakly harmonic distribution is precisely the distribution associated to a strongly harmonic function, and so also is smooth.  This is Weyl's lemma.
+There are other weak formulations of Laplace's equation that are often useful.  One of which is Dirichlet's principle, representing harmonic functions in the Sobolev space H1(Ω) as the minimizers of the Dirichlet energy integral
+with respect to local variations, that is, all functions $MATH$ such that $MATH$ holds for all $MATH$ or equivalently, for all $MATH$
+Harmonic functions on manifolds
+Harmonic functions can be defined on an arbitrary Riemannian manifold, using the Laplace–Beltrami operator Δ. In this context, a function is called harmonic if 
+Many of the properties of harmonic functions on domains in Euclidean space carry over to this more general setting, including the mean value theorem (over geodesic balls), the maximum principle, and the Harnack inequality.  With the exception of the mean value theorem, these are easy consequences of the corresponding results for general linear elliptic partial differential equations of the second order.
+Subharmonic functions
+A C2 function that satisfies Δf ≥ 0 is called subharmonic.  This condition guarantees that the maximum principle will hold, although other properties of harmonic functions may fail.  More generally, a function is subharmonic if and only if, in the interior of any ball in its domain, its graph lies below that of the harmonic function interpolating its boundary values on the ball.
+Harmonic forms
+One generalization of the study of harmonic functions is the study of harmonic forms on Riemannian manifolds, and it is related to the study of cohomology. Also, it is possible to define harmonic vector-valued functions, or harmonic maps of two Riemannian manifolds, which are critical points of a generalized Dirichlet energy functional (this includes harmonic functions as a special case, a result known as  Dirichlet principle). This kind of harmonic map appears in the theory of minimal surfaces. For example, a curve, that is, a map from an interval in $MATH$ to a Riemannian manifold, is a harmonic map if and only if it is a geodesic.
+Harmonic maps between manifolds
+If M and N are two Riemannian manifolds, then a harmonic map $MATH$ is defined to be a critical point of the Dirichlet energy
+in which $MATH$ is the differential of u, and the norm is that induced by the metric on M and that on N on the tensor product bundle $MATH$
+Important special cases of harmonic maps between manifolds include minimal surfaces, which are precisely the harmonic immersions of a surface into three-dimensional Euclidean space.  More generally, minimal submanifolds are harmonic immersions of one manifold in another.  Harmonic coordinates are a harmonic diffeomorphism from a manifold to an open subset of a Euclidean space of the same dimension.
+See also
+Notes

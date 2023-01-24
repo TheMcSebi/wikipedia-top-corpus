@@ -1,0 +1,15 @@
+Glottolog
+Glottolog is a bibliographic database of the world's lesser-known languages, developed and maintained first at the Max Planck Institute for Evolutionary Anthropology in Leipzig, Germany (between 2015 and 2020 at the Max Planck Institute for the Science of Human History in Jena, Germany). Its main curators include Harald Hammarström and Martin Haspelmath.
+
+
+Overview
+Sebastian Nordhoff and Harald Hammarström created the Glottolog/Langdoc project in 2011. The creation of Glottolog was partly motivated by the lack of a comprehensive language bibliography, especially in Ethnologue.
+Glottolog provides a catalogue of the world's languages and language families and a bibliography on the world's less-spoken languages. It differs from the similar catalogue Ethnologue in several respects:
+The language names used in the bibliographic entries are identified by ISO 639-3 code or Glottolog's own code (Glottocode); apart from a single point-location on a map at its geographic centre, no ethnographic or demographic information is provided. External links are provided to ISO, Ethnologue and other online language databases
+The latest version is 4.7, released under the Creative Commons Attribution 4.0 International License in December 2022.
+It is part of the Cross-Linguistic Linked Data project hosted by the Max Planck Institute for the Science of Human History.
+Language families
+Glottolog is more conservative in its classification than most online databases in establishing membership of languages and groups within families but more liberal in considering unclassified languages to be isolates. Edition 4.7 lists 421 oral-language families and isolates as follows:
+Creoles are classified with the language that supplied their basic lexicon.
+In addition to the families and isolates listed above, Glottolog uses several non-genealogical families for various languages:
+Notes

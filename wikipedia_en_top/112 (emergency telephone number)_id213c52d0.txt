@@ -1,0 +1,38 @@
+112 (emergency telephone number)
+112 is a common emergency telephone number that can be dialed free of charge from most mobile telephones, and in some countries, fixed telephones in order to reach emergency services (ambulance, fire and rescue, police).
+112 is a part of the GSM standard and all GSM-compatible telephone handsets are able to dial 112 even when locked or, in some countries, with no SIM card present. It is also the common emergency number in nearly all member states of the European Union as well as several other countries of Europe and the world. 112 is often available alongside other numbers traditionally used in the given country to access emergency services. In some countries, calls to 112 are not connected directly but forwarded by the GSM network to local emergency numbers (e.g. 911 in North America, 999 in the United Kingdom and Hong Kong, and 000 in Australia).
+Origins
+112 was first standardised as the pan-European number for emergency services following the adoption of recommendation by the European Conference of Postal and Telecommunications Administrations (CEPT) in 1976 and has since been enshrined a CEPT Decision ECC/DEC/(17)05.
+The European Emergency Number Association, founded in 1999, an organization of emergency services representatives and others, has campaigned for an efficient 112 service all over Europe on behalf of European citizens. EENA continues to promote awareness of 112 as a core element of its mission.
+This choice of number has been cited in logical terms as offering the following advantages:
+Implementation
+After adoption in continental Western Europe, other countries began to use the 112 number for emergencies. Nations that have adopted it (including as a redirect alongside a pre-existing other emergency number) include:
+Africa
+Asia
+Europe
+North America
+Oceania
+South America
+In many countries, emergency numbers previously used also continue to be available; e.g. 061 and 112 in Spain, 999 and 112 both function in Ireland and the UK. In the United States, only some carriers, including AT&T will map the number 112 to its emergency number 911.
+Adoption
+The number is also adopted by candidates for EU accession and members of the EEA agreement.
+The International Telecommunication Union recommends that member states selecting a primary or secondary emergency number choose either 911, 112 or both.
+112 is one of two numbers (the other being the region's own emergency number) that can be dialed on most GSM phones even if the phone is locked.
+European Union
+112 is managed and financed in the European Union by each member state (country), who also decide on the organization of the emergency call centres.
+EU legislation
+Adopted in July 1991, the Council Decision 91/396/EC introduced ‘112’ as the European emergency number. The Open Network Provision Directive in 1998, the Universal Service Directives in 2002 and 2009 and finally the European Electronic Communications Code in 2018 further specified how 112 should work in the European Union.
+By the European Electronic Communications Code, everyone in the European Union should be able to contact the emergency services by using the European emergency number ‘112’ free of charge wherever they are in the European Union. Member States are also required to make sure that access to the emergency services for people with disabilities is equivalent to that enjoyed by other end-users.
+E112
+E112 is a location-enhanced version of 112.
+This obligation was strengthened with the European Electronic Communications Code in 2018 which requires the location to include both network-based and handset-derived location information. It is now possible for emergency services to retrieve accurate location information of the caller with the Advanced Mobile Location technology. 
+The eCall feature for automated emergency calls on crash, mandatory on European cars since April 2018, is based on E112.
+Reverse 112
+Reverse 1-1-2 is a public safety communications technology used by public safety organizations throughout the world to communicate with groups of people in a defined geographic area. Reverse 112 allows authorities to rapidly warn those in danger, directly through their mobile phones.
+Article 110 of the European Electronic Communications Code makes it mandatory for all Member States of the European Union to deploy by June 2022 a system that enables public authorities to warn immediately all the people present in a determined area of an ongoing or developing threat directly on their mobile phones. This objective can be achieved with either the Cell Broadcast or the Location-based SMS technology.
+European 112 Day
+The European Parliament, the Council of the European Union and the European Commission signed a tripartite convention in 2009 in order to introduce an annual European 112 Day. It is supposed to raise awareness for the Europe-wide availability and the advantages of the European emergency call 112. They chose 11 February since the date includes the telephone number (11/2). 
+A wide variety of events take place around Europe every year to celebrate European 112 Day.
+Expert Groups on 112
+Getting 112 to work across the EU is a complex task. It requires in particular coordination between civil protection administrations (the emergency authorities who handle the call) and electronic communications administrations (who have to make sure that a 112 call reaches the emergency operator). That is why the European Commission decided to act at European level and set up the Expert Group on Emergency Access (EGEA) at the end of 2005. The group met for the last time in May 2013.
+In 2020, the European Commission set up the Expert Group on Emergency Communications (EG112) with the task to assist the European Commission in the preparation of new legislations on the matter and exchange views on how emergency communications are handled within the European Union.

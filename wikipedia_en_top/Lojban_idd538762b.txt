@@ -1,0 +1,92 @@
+Lojban
+Lojban (pronounced [ˈloʒban] (listen)) is a logical, constructed, human language created by the Logical Language Group which aims to be syntactically unambigious. It succeeds the Loglan project.
+The Logical Language Group (LLG) began developing Lojban in 1987. The LLG sought to realize Loglan's purposes and further improve the language by making it more usable and freely available (as indicated by its official full English title, Lojban: A Realization of Loglan). After a long initial period of debating and testing, the baseline was completed in 1997 and published as The Complete Lojban Language. In an interview in 2010 with The New York Times, Arika Okrent, the author of In the Land of Invented Languages, stated, "The constructed language with the most complete grammar is probably Lojban—a language created to reflect the principles of logic."
+Lojban is proposed as a speakable language for communication between people of different language backgrounds, as a potential means of machine translation, and as a tool to explore the intersection between human language and software.
+Etymology
+The name "Lojban" is a compound formed from loj and ban, which are short forms of logji (logic) and bangu (language).
+History
+Lojban's predecessor, Loglan, a language invented by James Cooke Brown in 1955 and later developed by The Loglan Institute, was originally conceived as a means to examine the influence of language on the speaker's thought (an assumption known as the Sapir–Whorf hypothesis).
+As Brown started to claim his copyright on the language's components, bans were put on the language community's activities to stop changes to aspects of the language. In order to circumvent such control, a group of Loglan users decided to initiate a separate project, departing from the lexical basis of Loglan and reinventing the whole vocabulary, which led to the current lexicon of Lojban. To this effect, they established The Logical Language Group in 1987, based in Washington, D.C. They also won a trial over whether they could call their version of the language Loglan.
+The phonetic form of Lojban gismu (root words) was created algorithmically by searching for sound patterns in words with similar meanings in world languages and by multiplying those sound patterns by the number of speakers of those languages. The list of source languages used for the algorithm was limited to the six most widely spoken languages as of 1987—Mandarin, English, Hindi, Spanish, Russian, and Arabic. This resulted in root words being in their phonetic form a relatively equal mixture of English and Mandarin, with lesser influences from the other four.
+Lojban also utilizes a set of evidential indicators adapted from the constructed language Láadan.
+Following the publication of The Complete Lojban Language, it was expected that the documented lexicon would be baselined, and the combination of lexicon and reference grammar would be frozen for a minimum of 5 years while language usage grew. As scheduled, this period, which has officially been called the freeze, expired in 2002. The speakers of Lojban are now free to construct new words and idioms, and decide where the language is heading.
+Applications
+While the initial aim of the Loglan project was to investigate linguistic relativity, the active Lojban community recognizes additional applications for the language, including:
+As a speakable language
+Lojban is practiced by its speakers in text and voice chats.
+Learning aids
+Apart from the actual practice of the language, some members of the community and LLG have been endeavoring to create various aids for the learners. The Complete Lojban Language (CLL, also known as The Red Book because of its color, and The Codex Woldemar, after its author), the definitive word on all aspects of Lojban, is one of them, finalized in 1997. Some of the projects in varying stages of completeness are:
+Lojban's learning resources on the internet are available mainly to speakers of English, French, Spanish, Russian, Hebrew, and Esperanto, to varying degrees.
+As a literary and cultural language
+Like most languages with few speakers, Lojban lacks much of an associated body of literature and its creative extensions have not been fully realized (the true potential of its attitudinal system, for example, is considered unlikely to be drawn out until and unless children are raised entirely in a multi-cultural Lojban-speaking environment). Also such collective or encyclopedic sources of knowledge like the Lojban Wikipedia, which may help expand the language's lexical horizon, are not very well developed.
+Presently accessible Lojbanic writings are principally concentrated on Lojban.org, though there exist independent Lojbanic blog/journal sites as well. The Lojban IRC (or its archive) has a gathering of Lojbanic expressions too, but its grammatical correctness is not always guaranteed. These available materials on the internet include both original works and translations of classic pieces in the field of natural languages, ranging from poetry, short story, novel, and academic writing.  Examples of works that are already available include:
+Lojban has also been used in other media. For example, the videogame Minecraft has been partially translated into Lojban.
+As a means of creativity
+Lojban is seen by some as an intellectual device for creative writing or as having many potential aspects yet to be discovered or explored.
+Dan Parmenter:
+John Cowan:
+Bob LeChevalier:
+As a potential machine interlingua
+There have been proposals to use Lojban as an intermediate language in interlingual machine translation and knowledge representation.
+As a programming language
+Constructs in programming languages have been shown to be translated to Lojban.
+Like with some programming languages Lojban grammar can be parsed using parsing expression grammars.
+As a speakable logic
+Lojban has been shown to be translated in some of its parts into predicate logic. There are also analogies between Lojban and combinatory logic.
+Linguistic properties
+Lojban:
+Phonology and orthography
+Lojban has 6 vowels and 17 consonants. Some of them have, apart from the preferred/standard sounds, permitted variants intended to cover dissimilitude in pronunciation by speakers of different linguistic backgrounds.
+Stress normally falls on the penultimate syllable.
+There are 16 diphthongs (and no triphthongs). A distinction between diphthongs and monophthongs can be written by inserting a comma in the Latin alphabet. Vowel hiatus is also prevented by inserting an apostrophe, which usually indicates [h], though there are other valid realizations. For those who have trouble pronouncing certain consonant clusters, there is the option of adding vowels between them (epenthesis), as long as they differ sufficiently from the phonological vowels and are pronounced as short as possible. The resulting additional syllables are not factored in the grammar, including for the purposes of stress determination.
+Lojban is written almost entirely with lower-case letters; upper-case letters are used to mark stress in words that do not fit the normal rules of stress assignment, or when whitespace is omitted.
+The letters in Lojban and their respective pronunciations are shown in the table below. The IPA symbols in parentheses indicate alternative pronunciations; preferred pronunciations have no parentheses.
+In principle, Lojban may be written in any orthographic system as long as it satisfies the required regularities and unambiguities. Some of the reasons for such elasticity would be as follows:
+Some Lojbanists extend this principle of cultural neutrality and assert that Lojban should have its own alphabet.
+This article uses the common Latin alphabet mode.
+Morphology
+Lojban has three word-classes: predicate words (brivla), structure words (cmavo), and name words (cmevla). Each of them has uniquely identifying properties, so that one can unambiguously recognize which word is of which part of speech in a string of the language. They may be further divided in sub-classes. There also exists a special fragmental form (rafsi) assigned to some predicate words and structure words, from which compound predicate words (lujvo) may be created.
+Syntax and semantics
+The language's grammatical structures are "defined by a set of rules that have been tested to be unambiguous using computers", which is in effect called the "machine grammar". Hence the characteristics of the standard syntactic (not semantic) constructs in Lojban:
+Such standards, however, are to be attained with certain carefulness:
+The computer-tested, unambiguous rules also include grammar for incomplete sentences e.g. for narrative, quotational, or mathematical phrases.
+Its typology can be said to be basically subject–verb–object and subject–object–verb. However, it can practically have any order:
+Such flexibility has to do with the language's intended capability to translate as many expressions of natural languages as possible, based on a unique positional case system. The meaning of the sentence mi prami do is determined by prami realizing, with its own predefined place structure, a specific semantic relation between mi and do; when the positional relation between mi and do changes, the meaning of the sentence changes too. As shown above, Lojban has particular devices to preserve such semantic structure of words while altering their order.
+As befits a logical language, there is a large assortment of logical connectives. Such conjunction words take different forms depending on what they connect, another reason why the (standard) Lojbanic expressions are typically precise and clear.
+Multiple predicate words may be linked up together so as to narrow the semantic scope of the phrase. In sutra dansu "to quickly dance", the modifying word sutra narrows the sense of the modified word dansu to form a more specific concept (in which case the modifier may resemble English adverbs or adjectives).
+
+One could go still further, adding a quite extreme example of its syntactic flexibility.
+Lojban can easily imitate even one-word sentences from polysynthetic languages, for example:
+inkiw
+fire/burn
+-ihl
+in-the-house
+-'minik
+PL
+-'is
+DIM
+-'it
+PAST
+inkiw -ihl -'minik -'is -'it
+fire/burn in-the-house PL DIM PAST
+which can be expressed in Lojban the same way:
+fagykemyzdanerso'icmapru
+fire-type-house-inside-many-small-past-event
+fagykemyzdanerso'icmapru
+fire-type-house-inside-many-small-past-event
+Lexicon
+Compound words (lujvo) and borrowed words (fu'ivla) are continually increasing as the speakers find demands. The number of root words (gismu) and structure words (cmavo) are basically unchanging, but new inventions are to be accepted as experimental components. In fact, it has been noticed that particular inclination or disproportion exists in the available vocabulary. Cortesi has pointed out the lack of certain terms for mathematics and geometry (although this demand may now be disputed as the current set of Lojban vocabulary does actually allow speakers to express such notions as steradian (stero), trigonometric tangent (tanjo), multiplicative inverse (fa'i), matrix transpose (re'a) among a number of other kinds of operators or metric units). Other instances which require speakers to construct noncanonical words:
+Samples
+The North Wind and the Sun
+A translation of The North Wind and the Sun.
+A Lojbanic poem (audio)
+Contributors
+Below are some of the notable personalities who have contributed to the development of Lojban:
+Comparison with other logical languages
+Loglan
+The principal difference between Lojban and Loglan is one of lexicon. The words for Lojban were made by the same principles as those for Loglan; that is, candidate forms were chosen according to how many sounds they had in common with their equivalent in some of the most commonly spoken languages on Earth, which was then multiplied by the number of speakers of the languages with which the words had letters in common. The difference with the Lojban remake of the root words was that the weighting was updated to reflect the actual numbers of speakers for the languages. This resulted in word forms that had fewer sounds taken from English, and more sounds taken from Chinese. For instance, the Loglan word norma is equivalent to the Lojban word cnano (cf. Chinese 常, pinyin cháng), both meaning "normal".
+Loglan and Lojban still have essentially the same grammars, and most of what is said in the Grammar section above holds true for Loglan as well. Most simple, declarative sentences could be translated word by
+word between the two languages.
+In the new phonology for Lojban, the consonant q and the vowel w were removed, and the consonant h was replaced by x. The consonant ' (apostrophe) was added with the value of [h] in the International Phonetic Alphabet, but its distribution is such that it can appear only intervocally, and in discussions of the morphology and phonotactics, it is described not as a proper consonant, but a "voiceless glide". (This phoneme is realized as θ by some speakers.)
+gua\spi
+gua\spi is a descendant of Loglan but is tonal, developed by Jim Carter. Instead of structure words there are in Gua\spi six different tones. Predicates have only one syllable instead of two. Some of its characteristics, including tones, phonotactics, expressions for masses vs sets, non-existence of metalinguistic negation, etc., received criticism.

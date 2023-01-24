@@ -1,0 +1,75 @@
+Green's theorem
+In vector calculus, Green's theorem relates a line integral around a simple closed curve C to a double integral over the plane region D bounded by C. It is the two-dimensional special case of Stokes' theorem.
+Theorem
+Let C be a positively oriented, piecewise smooth, simple closed curve in a plane, and let D be the region bounded by C. If L and M are functions of (x, y) defined on an open region containing D and have continuous partial derivatives there, then
+where the path of integration along C is anticlockwise.
+In physics, Green's theorem finds many applications. One is solving two-dimensional flow integrals, stating that the sum of fluid outflowing from a volume is equal to the total outflow summed about an enclosing area. In plane geometry, and in particular, area surveying, Green's theorem can be used to determine the area and centroid of plane figures solely by integrating over the perimeter.
+Proof when D is a simple region
+The following is a proof of half of the theorem for the simplified area D, a type I region where C1 and C3 are curves connected by vertical lines (possibly of zero length). A similar proof exists for the other half of the theorem when D is a type II region where C2 and C4 are curves connected by horizontal lines (again, possibly of zero length). Putting these two parts together, the theorem is thus proven for regions of type III (defined as regions which are both type I and type II). The general case can then be deduced from this special case by decomposing D into a set of type III regions.
+If it can be shown that
+and
+are true, then Green's theorem follows immediately for the region D. We can prove (1) easily for regions of type I, and (2) for regions of type II. Green's theorem then follows for regions of type III.
+Assume region D is a type I region and can thus be characterized, as pictured on the right, by
+where g1 and g2 are continuous functions on [a, b]. Compute the double integral in (1):
+Now compute the line integral in (1). C can be rewritten as the union of four curves: C1, C2, C3, C4.
+With C1, use the parametric equations: x = x, y = g1(x), a ≤ x ≤ b. Then
+With C3, use the parametric equations: x = x, y = g2(x), a ≤ x ≤ b. Then
+The integral over C3 is negated because it goes in the negative direction from b to a, as C is oriented positively (anticlockwise). On C2 and C4, x remains constant, meaning
+Therefore,
+Combining (3) with (4), we get (1) for regions of type I. A similar treatment yields (2) for regions of type II. Putting the two together, we get the result for regions of type III.
+Proof for rectifiable Jordan curves
+We are going to prove the following
+Theorem — Let $MATH$ be a rectifiable, positively oriented Jordan curve in $MATH$ and let $MATH$ denote its inner region. Suppose that $MATH$ are continuous functions with the property that $MATH$ has second partial derivative at every point of $MATH$, $MATH$ has first partial derivative at every point of $MATH$ and that the functions $MATH$ are Riemann-integrable over $MATH$. Then
+We need the following lemmas whose proofs can be found in:
+Lemma 1 (Decomposition Lemma) — Assume $MATH$ is a rectifiable, positively oriented Jordan curve in the plane and let $MATH$ be its inner region. For every positive real $MATH$, let $MATH$ denote the collection of squares in the plane bounded by the lines $MATH$, where $MATH$ runs through the set of integers. Then, for this $MATH$, there exists a decomposition of $MATH$ into a finite number of non-overlapping subregions in such a manner that
+Lemma 2 — Let $MATH$ be a rectifiable curve in the plane and let $MATH$ be the set of points in the plane whose distance from (the range of) $MATH$ is at most $MATH$. The outer Jordan content of this set satisfies $MATH$.
+Lemma 3 — Let $MATH$ be a rectifiable curve in $MATH$ and let $MATH$ be a continuous function. Then
+where $MATH$ is the oscillation of $MATH$ on the range of $MATH$.
+Now we are in position to prove the theorem:
+Proof of Theorem. Let $MATH$ be an arbitrary positive real number. By continuity of $MATH$, $MATH$ and compactness of $MATH$, given $MATH$, there exists $MATH$ such that whenever two points of $MATH$ are less than $MATH$ apart, their images under $MATH$ are less than $MATH$ apart. For this $MATH$, consider the decomposition given by the previous Lemma. We have
+Put $MATH$ :=D_{1}B-D_{2}A}
+  
+.
+For each $MATH$, the curve $MATH$ is a positively oriented square, for which Green's formula holds. Hence
+Every point of a border region is at a distance no greater than $MATH$ from $MATH$. Thus, if $MATH$ is the union of all border regions, then $MATH$; hence $MATH$, by Lemma 2. Notice that
+This yields
+We may as well choose $MATH$ so that the RHS of the last inequality is $MATH$
+The remark in the beginning of this proof implies that the oscillations of $MATH$ and $MATH$ on every border region is at most $MATH$. We have
+By Lemma 1(iii),
+Combining these, we finally get
+for some $MATH$. Since this is true for every $MATH$, we are done.
+Validity under different hypotheses
+The hypothesis of the last theorem are not the only ones under which Green's formula is true. Another common set of conditions is the following:
+The functions $MATH$ are still assumed to be continuous. However, we now require them to be Fréchet-differentiable at every point of $MATH$. This implies the existence of all directional derivatives, in particular $MATH$, where, as usual, $MATH$ is the canonical ordered basis of $MATH$. In addition, we require the function $MATH$ to be Riemann-integrable over $MATH$.
+As a corollary of this, we get the Cauchy Integral Theorem for rectifiable Jordan curves:
+We regard the complex plane as $MATH$. Now, define $MATH$ to be such that $MATH$ These functions are clearly continuous. It is well known that $MATH$ and $MATH$ are Fréchet-differentiable and that they satisfy the Cauchy-Riemann equations: $MATH$.
+Now, analyzing the sums used to define the complex contour integral in question, it is easy to realize that
+the integrals on the RHS being usual line integrals. These remarks allow us to apply Green's Theorem to each one of these line integrals, finishing the proof.
+Multiply-connected regions
+Theorem. Let $MATH$ be positively oriented rectifiable Jordan curves in $MATH$ satisfying
+where $MATH$ is the inner region of $MATH$. Let
+Suppose $MATH$ and $MATH$ are continuous functions whose restriction to $MATH$ is Fréchet-differentiable. If the function
+is Riemann-integrable over $MATH$, then
+Relationship to Stokes' theorem
+Green's theorem is a special case of the Kelvin–Stokes theorem, when applied to a region in the $MATH$-plane.
+We can augment the two-dimensional field into a three-dimensional field with a z component that is always 0. Write F for the vector-valued function $MATH$. Start with the left side of Green's theorem:
+The Kelvin–Stokes theorem:
+The surface $MATH$ is just the region in the plane $MATH$, with the unit normal $MATH$ defined (by convention) to have a positive z component in order to match the "positive orientation" definitions for both theorems.
+The expression inside the integral becomes
+Thus we get the right side of Green's theorem
+Green's theorem is also a straightforward result of the general Stokes' theorem using differential forms and exterior derivatives:
+Relationship to the divergence theorem
+Considering only two-dimensional vector fields, Green's theorem is equivalent to the two-dimensional version of the divergence theorem:
+where $MATH$ is the divergence on the two-dimensional vector field $MATH$, and $MATH$ is the outward-pointing unit normal vector on the boundary.
+To see this, consider the unit normal $MATH$ in the right side of the equation. Since in Green's theorem $MATH$ is a vector pointing tangential along the curve, and the curve C is the positively oriented (i.e. anticlockwise) curve along the boundary, an outward normal would be a vector which points 90° to the right of this; one choice would be $MATH$. The length of this vector is $MATH$ So $MATH$
+Start with the left side of Green's theorem:
+Applying the two-dimensional divergence theorem with $MATH$, we get the right side of Green's theorem:
+Area calculation
+Green's theorem can be used to compute area by line integral. The area of a planar region $MATH$ is given by
+Choose $MATH$ and $MATH$ such that $MATH$, the area is given by
+Possible formulas for the area of $MATH$ include
+History
+It is named after George Green, who stated a similar result in an 1828 paper titled An Essay on the Application of Mathematical Analysis to the Theories of Electricity and Magnetism. In 1846, Augustin-Louis Cauchy published a paper stating Green's theorem as the penultimate sentence. This is in fact the first printed version of Green's theorem in the form appearing in modern textbooks. Bernhard Riemann gave the first proof of Green's theorem in his doctoral dissertation on the theory of functions of a complex variable.
+See also
+References
+Further reading

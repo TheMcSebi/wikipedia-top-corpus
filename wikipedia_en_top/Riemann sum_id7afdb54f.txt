@@ -1,0 +1,63 @@
+Riemann sum
+In mathematics, a Riemann sum is a certain kind of approximation of an integral by a finite sum. It is named after nineteenth century German mathematician Bernhard Riemann. One very common application is approximating the area of functions or lines on a graph, but also the length of curves and other approximations. 
+The sum is calculated by partitioning the region into shapes (rectangles, trapezoids, parabolas, or cubics) that together form a region that is similar to the region being measured, then calculating the area for each of these shapes, and finally adding all of these small areas together. This approach can be used to find a numerical approximation for a definite integral even if the fundamental theorem of calculus does not make it easy to find a closed-form solution.
+Because the region by the small shapes is usually not exactly the same shape as the region being measured, the Riemann sum will differ from the area being measured. This error can be reduced by dividing up the region more finely, using smaller and smaller shapes. As the shapes get smaller and smaller, the sum approaches the Riemann integral.
+Definition
+Let $MATH$ be a function defined on a closed interval $MATH$ of the real numbers, $MATH$, and $MATH$ a partition of $MATH$, that is
+A Riemann sum $MATH$ of $MATH$ over $MATH$ with partition $MATH$ is defined as
+where $MATH$ and $MATH$.
+One might produce different Riemann sums depending on which $MATH$'s are chosen. In the end this will not matter, if the function is Riemann integrable, when the difference or width of the summands $MATH$ approaches zero.
+Types of Riemann sums
+Specific choices of $MATH$ give different types of Riemann sums:
+All these Riemann summation methods are among the most basic ways to accomplish numerical integration. Loosely speaking, a function is Riemann integrable if all Riemann sums converge as the partition "gets finer and finer".
+While not derived as a Riemann sum, taking the average of the left and right Riemann sums is the trapezoidal rule and gives a trapezoidal sum. It is one of the simplest of a very general way of approximating integrals using weighted averages. This is followed in complexity by Simpson's rule and Newton–Cotes formulas.
+Any Riemann sum on a given partition (that is, for any choice of $MATH$ between $MATH$ and $MATH$) is contained between the lower and upper Darboux sums. This forms the basis of the Darboux integral, which is ultimately equivalent to the Riemann integral.
+Riemann summation methods
+The five Riemann summation methods are usually best approached with subintervals of equal size. The interval [a, b] is therefore divided into $MATH$ subintervals, each of length
+The points in the partition will then be
+Left rule
+For the left rule, the function is approximated by its values at the left endpoints of the subintervals. This gives multiple rectangles with base Δx and height f(a + iΔx). Doing this for i = 0, 1, …, n − 1, and summing the resulting areas gives
+The left Riemann sum amounts to an overestimation if f is monotonically decreasing on this interval, and an underestimation if it is monotonically increasing.
+The error of this formula will be 
+where $MATH$ is the maximum value of the absolute value of $MATH$ over the interval.
+Right rule
+For the right rule, the function is approximated by its values at the right endpoints of the subintervals. This gives multiple rectangles with base Δx and height f(a + iΔx). Doing this for i = 1, …, n, and summing the resulting areas gives
+The right Riemann sum amounts to an underestimation if f is monotonically decreasing, and an overestimation if it is monotonically increasing.
+The error of this formula will be 
+where $MATH$ is the maximum value of the absolute value of $MATH$ over the interval.
+Midpoint rule
+For the midpoint rule, the function is approximated by its values at the midpoints of the subintervals. This gives f(a + Δx/2) for the first subinterval, f(a + 3Δx/2) for the next one, and so on until f(b − Δx/2). Summing the resulting areas gives
+The error of this formula will be
+where $MATH$ is the maximum value of the absolute value of $MATH$ over the interval. This error is half of that of the trapezoidal sum; as such the middle Riemann sum is the most accurate approach to the Riemann sum.
+Trapezoidal rule
+For the trapezoidal rule, the function is approximated by the average of its values at the left and right endpoints of the subintervals. Using the area formula $MATH$ for a trapezium with parallel sides b1 and b2, and height h, and summing the resulting areas gives
+The error of this formula will be
+where $MATH$ is the maximum value of the absolute value of $MATH$.
+The approximation obtained with the trapezoidal sum for a function is the same as the average of the left hand and right hand sums of that function.
+Connection with integration
+For a one-dimensional Riemann sum over domain $MATH$, as the maximum size of a subinterval shrinks to zero (that is the limit of the norm of the subintervals goes to zero), some functions will have all Riemann sums converge to the same value. This limiting value, if it exists, is defined as the definite Riemann integral of the function over the domain,
+For a finite-sized domain, if the maximum size of a subinterval shrinks to zero, this implies the number of subinterval goes to infinity. For finite partitions, Riemann sums are always approximations to the limiting value and this approximation gets better as the partition gets finer. The following animations help demonstrate how increasing the number of subintervals (while lowering the maximum subinterval size) better approximates the "area" under the curve:
+Since the red function here is assumed to be a smooth function, all three Riemann sums will converge to the same value as the number of subintervals goes to infinity.
+Example
+Taking an example, the area under the curve y = x2 over [0, 2] can be procedurally computed using Riemann's method. 
+The interval [0, 2] is firstly divided into n subintervals, each of which is given a width of $MATH$; these are the widths of the Riemann rectangles (hereafter "boxes"). Because the right Riemann sum is to be used, the sequence of x coordinates for the boxes will be $MATH$. Therefore, the sequence of the heights of the boxes will be $MATH$. It is an important fact that $MATH$, and $MATH$.
+The area of each box will be $MATH$ and therefore the nth right Riemann sum will be: 
+If the limit is viewed as n → ∞, it can be concluded that the approximation approaches the actual value of the area under the curve as the number of boxes increases. Hence:
+This method agrees with the definite integral as calculated in more mechanical ways:
+Because the function is continuous and monotonically increasing over the interval, a right Riemann sum overestimates the integral by the largest amount (while a left Riemann sum would underestimate the integral by the largest amount). This fact, which is intuitively clear from the diagrams, shows how the nature of the function determines how accurate the integral is estimated. While simple, right and left Riemann sums are often less accurate than more advanced techniques of estimating an integral such as the Trapezoidal rule or Simpson's rule.
+The example function has an easy-to-find anti-derivative so estimating the integral by Riemann sums is mostly an academic exercise; however it must be remembered that not all functions have anti-derivatives so estimating their integrals by summation is practically important.
+Higher dimensions
+The basic idea behind a Riemann sum is to "break-up" the domain via a partition into pieces, multiply the "size" of each piece by some value the function takes on that piece, and sum all these products. This can be generalized to allow Riemann sums for functions over domains of more than one dimension.
+While intuitively, the process of partitioning the domain is easy to grasp, the technical details of how the domain may be partitioned get much more complicated than the one dimensional case and involves aspects of the geometrical shape of the domain.
+Two dimensions
+In two dimensions, the domain $MATH$ may be divided into a number of two-dimensional cells $MATH$ such that $MATH$. Each cell then can be interpreted as having an "area" denoted by $MATH$. The two-dimensional Riemann sum is
+where $MATH$.
+Three dimensions
+In three dimensions, the domain $MATH$ is partitioned into a number of three-dimensional cells $MATH$ such that $MATH$. Each cell then can be interpreted as having an "volume" denoted by $MATH$. The three-dimensional Riemann sum is
+where $MATH$.
+Arbitrary number of dimensions
+Higher dimensional Riemann sums follow a similar pattern. An n-dimensional Riemann sum is
+where $MATH$, that is, it is a point in the n-dimensional cell $MATH$ with n-dimensional volume $MATH$.
+Generalization
+In high generality, Riemann sums can be written
+where $MATH$ stands for any arbitrary point contained in the set $MATH$ and $MATH$ is a measure on the underlying set. Roughly speaking, a measure is a function that gives a "size" of a set, in this case the size of the set $MATH$; in one dimension this can often be interpreted as a length, in two dimensions as an area, in three dimensions as a volume, and so on.

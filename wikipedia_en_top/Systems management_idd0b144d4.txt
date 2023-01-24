@@ -1,0 +1,11 @@
+Systems management
+Systems management refers to enterprise-wide administration of distributed systems including (and commonly in practice) computer systems.  Systems management is strongly influenced by network management initiatives in telecommunications.  The application performance management (APM) technologies are now a subset of Systems management.  Maximum productivity can be achieved more efficiently through event correlation, system automation and predictive analysis which is now all part of APM.
+Centralized management has a time and effort trade-off that is related to the size of the company, the expertise of the IT staff, and the amount of technology being used:
+Systems management may involve one or more of the following tasks:
+Functions
+Functional groups are provided according to International Telecommunication Union Telecommunication Standardization Sector (ITU-T) Common management information protocol (X.700) standard. This framework is also known as Fault, Configuration, Accounting, Performance, Security (FCAPS).
+However this standard should not be treated as comprehensive, there are obvious omissions. Some are recently emerging sectors, some are implied and some are just not listed. The primary ones are:
+Performance management functions can also be split into end-to-end performance measuring and infrastructure component measuring functions.  Another recently emerging sector is operational intelligence (OI) which focuses on real-time monitoring of business events that relate to business processes, not unlike business activity monitoring (BAM).
+Standards
+Academic preparation
+Schools that offer or have offered degrees in the field of systems management include the University of Southern California, the University of Denver, Capitol Technology University, and Florida Institute of Technology.

@@ -1,0 +1,59 @@
+8
+8 (eight) is the natural number following 7 and preceding 9.
+In mathematics
+8 is:
+A number is divisible by 8 if its last three digits, when written in decimal, are also divisible by 8, or its last three digits are 0 when written in binary.
+A polygon with eight sides is an octagon. The sides and span of a regular octagon, or truncated square, are in 1 : 1 + √2 silver ratio, and its circumscribing square has a side and diagonal length ratio of 1 : √2; with both the silver ratio and the square root of two intimately interconnected through Pell numbers, where in particular the quotient of successive Pell numbers generates rational approximations for coordinates of a regular octagon. With a central angle of 45 degrees and an internal angle of 135 degrees, regular octagons are able to tessellate two-dimensional space alongside squares in the truncated square tiling, as well as fill a plane-vertex with a regular triangle and a regular icositetragon.  The Ammann–Beenker tiling is a nonperiodic tesselation of prototiles that feature prominent octagonal silver eightfold symmetry, and is the two-dimensional orthogonal projection of the 8-8 duoprism. In number theory, figurate numbers representing octagons are called octagonal numbers.
+A cube is a regular polyhedron with eight vertices that also forms the cubic honeycomb, the only regular honeycomb in three-dimensional space. Through various truncation operations, the cubic honeycomb generates eight other convex uniform honeycombs under the cubic group $MATH$. The octahedron, with eight equilateral triangles as faces, is the dual polyhedron to the cube and one of eight convex deltahedra. The stella octangula, or eight-pointed star, is the only stellation with octahedral symmetry. It has eight triangular faces alongside eight vertices that forms a cubic faceting, composed of two self-dual tetrahedra that makes it the simplest of five regular compound polyhedra. The cuboctahedron, on the other hand, is a rectified cube or rectified octahedron, and one of only two convex quasiregular polyhedra. It contains eight equilateral triangular faces, whose first stellation is the cube-octahedron compound. The hexagonal prism, which classifies as an irregular octahedron and parallelohedron, is able to tessellate space as a three-dimensional analogue of the hexagon. The gyrobifastigium, with four square faces and four triangular faces, is the only Johnson solid that is able to tessellate space, while the truncated octahedron, also a parallelohedron, is the permutohedron of order four, with eight hexagonal faces alongside six squares that is likewise the only Archimedean solid that can generate a honeycomb on its own. There are also precisely eight uniform polyhedron compounds composed purely of octahedra, including the regular compound of five octahedra. 
+Vertex-transitive semiregular polytopes whose facets are finite exist up through the 8th dimension. In the third dimension, they include the Archimedean solids and the infinite family of uniform prisms and antiprisms, while in the fourth dimension, only the rectified 5-cell, the rectified 600-cell, and the snub 24-cell are semiregular polytopes. For dimensions five through eight, the demipenteract and the k21 polytopes 221, 321, and 421 are the only semiregular (Gosset) polytopes. Collectively, the k21 family of polytopes contains eight figures that are rooted in the triangular prism, which is the simplest semiregular polytope that is made of three cubes and two equilateral triangles. It also includes one of only three semiregular Euclidean honeycombs: the affine 521 honeycomb that represents the arrangement of vertices of the eight-dimensional $MATH$ lattice, and made of 421 facets. The culminating figure is the ninth-dimensional 621 honeycomb, which is the only affine semiregular paracompact hyperbolic honeycomb with infinite facets and vertex figures in the k21 family. There are no other finite semiregular polytopes or honeycombs in dimensions n > 8.
+Sphenic numbers always have exactly eight divisors.
+The number 8 is involved with a number of interesting mathematical phenomena related to the notion of Bott periodicity. If $MATH$ is the direct limit of the inclusions of real orthogonal groups $MATH$, the following holds:
+Clifford algebras also display a periodicity of 8. For example, the algebra Cl(p + 8,q) is isomorphic to the algebra of 16 by 16 matrices with entries in Cl(p,q). We also see a period of 8 in the K-theory of spheres and in the representation theory of the rotation groups, the latter giving rise to the 8 by 8 spinorial chessboard. All of these properties are closely related to the properties of the octonions.
+The spin group Spin(8) is the unique such group that exhibits the phenomenon of triality.
+The lowest-dimensional even unimodular lattice is the 8-dimensional $MATH$ lattice. Even positive definite unimodular lattices exist only in dimensions divisible by 8.
+A figure 8 is the common name of a geometric shape, often used in the context of sports, such as skating. Figure-eight turns of a rope or cable around a cleat, pin, or bitt are used to belay something.
+Etymology
+English eight, from Old English eahta, æhta, Proto-Germanic *ahto
+is a direct continuation of Proto-Indo-European *oḱtṓ(w)-, and as such cognate with Greek ὀκτώ and Latin octo-, both of which stems are reflected by the English prefix oct(o)-, as in the ordinal adjective octaval or octavary, the distributive adjective is octonary.
+The adjective octuple (Latin octu-plus) may also be used as a noun, meaning "a set of eight items"; the diminutive octuplet is mostly used to refer to eight siblings delivered in one birth.
+The Semitic numeral is based on a root *θmn-, whence Akkadian smn-, Arabic ṯmn-, Hebrew šmn- etc.
+
+The Chinese numeral, written 八 (Mandarin: bā; Cantonese: baat), is from Old Chinese *priāt-, ultimately from Sino-Tibetan b-r-gyat or b-g-ryat which also yielded Tibetan brgyat.
+It has been argued that, as the cardinal number 7 is the highest number of items that can universally be cognitively processed as a single set, the etymology of the numeral eight might be the first to be considered composite, either as "twice four" or as "two short of ten", or similar.
+The Turkic words for "eight" are from a Proto-Turkic stem *sekiz, which has been suggested as originating as a negation of eki "two", as in "without two fingers" (i.e., "two short of ten; two fingers are not being held up");
+this same principle is found in Finnic *kakte-ksa, which conveys a meaning of "two before (ten)". The Proto-Indo-European reconstruction *oḱtṓ(w)- itself has been argued as representing an old dual, which would correspond to an original meaning of "twice four".
+Proponents of this "quaternary hypothesis" adduce the numeral 9, which might be built on the stem new-, meaning "new" (indicating the beginning of a "new set of numerals" after having counted to eight).
+Evolution of the Arabic digit
+The modern digit 8, like all modern Arabic numerals other than zero, originates with the Brahmi numerals.
+The Brahmi digit for eight by the 1st century was written in one stroke as a curve └┐ looking like an uppercase H with the bottom half of the left line and the upper half of the right line removed.
+However, the digit for eight used in India in the early centuries of the Common Era developed considerable graphic variation, and in some cases took the shape of a single wedge, which was adopted into the Perso-Arabic tradition as ٨ (and also gave rise to the later Devanagari form ८); the alternative curved glyph also existed as a variant in Perso-Arabic tradition, where it came to look similar to our digit 5.
+The digits as used in Al-Andalus by the 10th century were a distinctive western variant of the glyphs used in the Arabic-speaking world, known as ghubār numerals (ghubār translating to "sand table"). In these digits, the line of the 5-like glyph used in Indian manuscripts for eight came to be formed in ghubār as a closed loop, which was the 8-shape that became adopted into European use in the 10th century.
+Just as in most modern typefaces, in typefaces with text figures the character for the digit 8 usually has an ascender, as, for example, in .
+The infinity symbol ∞, described as a "sideways figure eight", is unrelated to the digit 8 in origin; it is first used (in the mathematical meaning "infinity") in the 17th century, and it may be derived from the Roman numeral for "one thousand" CIƆ, or alternatively from the final Greek letter, ω.
+In science
+Physics
+Astronomy
+Chemistry
+Geology
+Biology
+Psychology
+In technology
+In measurement
+In culture
+Currency
+Architecture
+Hinduism
+Buddhism
+Judaism
+Christianity
+Islam
+Taoism
+Other
+As a lucky number
+In astrology
+In music and dance
+In film and television
+In sports and other games
+In foods
+In literature
+In slang

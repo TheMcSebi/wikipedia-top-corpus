@@ -1,0 +1,27 @@
+Plane wave
+In physics, a plane wave is a special case of wave or field: a physical quantity whose value, at any moment, is constant through any plane that is perpendicular to a fixed direction in space.
+For any position $MATH$ in space and any time $MATH$, the value of such a field can be written as
+where $MATH$ is a unit-length vector, and $MATH$ is a function that gives the field's value as dependent on only two real parameters: the time $MATH$, and the scalar-valued displacement $MATH$ of the point $MATH$ along the direction $MATH$. The displacement is constant over each plane perpendicular to $MATH$.
+The values of the field $MATH$ may be scalars, vectors, or any other physical or mathematical quantity.  They can be complex numbers, as in a complex exponential plane wave.  
+When the values of $MATH$ are vectors, the wave is said to be a longitudinal wave if the vectors are always  collinear with the vector $MATH$, and a transverse wave if they are always orthogonal (perpendicular) to it.
+Special types
+Traveling plane wave
+Often the term "plane wave" refers specifically to a traveling plane wave, whose evolution in time can be described as simple translation of the field at a constant wave speed $MATH$ along the direction perpendicular to the wavefronts.  Such a field can be written as  
+where $MATH$ is now a function of a single real parameter $MATH$, that describes the "profile" of the wave, namely the value of the field at time $MATH$, for each displacement $MATH$.  In that case, $MATH$ is called the direction of propagation. For each displacement $MATH$, the moving plane perpendicular to $MATH$ at distance $MATH$ from the origin is called a  "wavefront".  This plane travels along the direction of propagation $MATH$ with velocity $MATH$; and the value of the field is then the same, and constant in time, at every one of its points.
+Sinusoidal plane wave
+The term is also used, even more specifically, to mean a "monochromatic" or sinusoidal plane wave: a travelling plane wave whose profile $MATH$is a sinusoidal function.  That is,
+The parameter $MATH$, which may be a scalar or a vector, is called the amplitude of the wave; the scalar coefficient $MATH$ is its "spatial frequency"; and the scalar $MATH$ is its "phase".
+A true plane wave cannot physically exist, because it would have to fill all space.  Nevertheless, the plane wave model is important and widely used in physics. The waves emitted by any source with finite extent into a large homogeneous region of space can be well approximated by plane waves when viewed over any part of that region that is sufficiently small compared to its distance from the source.  That is the case, for example, of the light waves from a distant star that arrive at a telescope.
+Plane standing wave
+A standing wave is a field whose value can be expressed as the product of two functions, one depending only on position, the other only on time.  A plane standing wave, in particular, can be expressed as
+where $MATH$ is a function of one scalar parameter (the displacement $MATH$) with scalar or vector values, and $MATH$ is a scalar function of time.  
+This representation is not unique, since the same field values are obtained if $MATH$ and $MATH$ are scaled by reciprocal factors. If $MATH$ is bounded in the time interval of interest (which is usually the case in physical contexts), $MATH$ and $MATH$ can be scaled so that the maximum value of $MATH$ is 1.  Then $MATH$ will be the maximum field magnitude seen at the point $MATH$.
+Properties
+A plane wave can be studied by ignoring the directions perpendicular to the direction vector $MATH$; that is, by considering the function $MATH$ as a wave in a one-dimensional medium. 
+Any local operator, linear or not, applied to a plane wave yields a plane wave.  Any linear combination of plane waves with the same normal vector $MATH$ is also a plane wave.
+For a scalar plane wave in two or three dimensions, the gradient of the field is always collinear with the direction $MATH$; specifically, $MATH$, where $MATH$ is the partial derivative of $MATH$ with respect to the first argument. 
+The divergence of a vector-valued plane wave depends only on the projection of the vector $MATH$ in the direction $MATH$. Specifically,
+In particular, a transverse planar wave satisfies $MATH$ for all $MATH$ and $MATH$.
+See also
+References
+Sources

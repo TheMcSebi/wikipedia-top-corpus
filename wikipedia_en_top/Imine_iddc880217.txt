@@ -1,0 +1,48 @@
+Imine
+In organic chemistry, an imine (/ɪˈmiːn/ or /ˈɪmɪn/) is a functional group or organic compound containing a carbon–nitrogen double bond (C=N). The nitrogen atom can be attached to a hydrogen  or an organic group (R). The carbon atom has two additional single bonds.  Imines are common in synthetic and naturally occurring compounds and they participate in many reactions.
+Structure
+For ketimines and aldimines, respectively, the five core atoms (C2C=NX and C(H)C=NX, X = H or C) are coplanar.  Planarity results from the sp2-hybridization of the mutually double-bonded carbon and the nitrogen atoms.  The C=N distance is 1.29-1.31 Å for nonconjugated imines and 1.35 Å for conjugated imines.  By contrast, C-N distances in amines and nitriles are 1.47 and 1.16 Å, respectively.  Rotation about the C=N bond is slow.  Using NMR spectroscopy, both E- and Z-isomers of aldimines have been detected.  Owing to steric effects, the E isomer is favored.
+Nomenclature and classification
+The term "imine" was coined in 1883 by the German chemist Albert Ladenburg.
+Usually imines refer to compounds with the general formula R2C=NR, as discussed below. In the older literature, imine refers to the aza-analogue of an epoxide. Thus, ethylenimine is the three-membered ring species aziridine C2H4NH. The relationship of imines to amines having double and single bonds can be correlated with imides and amides, as in succinimide vs  acetamide. 
+Imines are related to ketones and aldehydes by replacement of the oxygen with an NR group.  When R = H, the compound is a primary imine, when R is hydrocarbyl, the compound is a secondary imine.  If this group is not a hydrogen atom, then the compound can sometimes be referred to as a Schiff base.  When R3 is OH, the imine is called an oxime, and when R3 is NH2 the imine is called a hydrazone.
+A primary imine in which C is attached to both a hydrocarbyl and a H is called a primary aldimine; a secondary imine with such groups is called a secondary aldimine. A primary imine in which C is attached to two hydrocarbyls is called a primary ketimine; a secondary imine with such groups is called a secondary ketimine.
+N-Sulfinyl imines are a special class of imines having a sulfinyl group attached to the nitrogen atom.
+Synthesis of imines
+Carbonyl-amine condensation
+Imines are typically prepared by the condensation of primary amines and aldehydes or ketones. Ketones undergo similar reactions, but less commonly than aldehydes. In terms of mechanism, such reactions proceed via the nucleophilic addition giving a hemiaminal -C(OH)(NHR)- intermediate, followed by an elimination of water to yield the imine (see alkylimino-de-oxo-bisubstitution for a detailed mechanism). The equilibrium in this reaction usually favors the carbonyl compound and amine, so that azeotropic distillation or use of a dehydrating agent, such as molecular sieves or magnesium sulfate, is required to favor of imine formation. In recent years, several reagents such as Tris(2,2,2-trifluoroethyl)borate [B(OCH2CF3)3], pyrrolidine or titanium ethoxide [Ti(OEt)4] have been shown to catalyse imine formation.
+Rarer than primary amines is the use of ammonia to give a primary imine. In the case of hexafluoroacetone, the hemiaminal intermediate can be isolated.
+From nitriles
+Primary ketimines can be synthesized via a Grignard reaction with a nitrile. This method is known as Moureu-Mignonac ketimine synthesis.  For example, benzophenone imine can also be synthesized by addition of phenylmagnesium bromide to benzonitrile followed by careful hydrolysis (lest the imine be hydrolyzed):
+Specialized methods
+Several other methods exist for the synthesis of imines.
+Reactions
+Hydrolysis
+The chief reaction of imines, often undesirable, is their hydrolysis back to the amine and the carbonyl precursor.
+Precursors to heterocycles
+Imines are widely used as intermediates in the synthesis of heterocycles.  
+Acid-base reactions
+Somewhat like the parent amines, imines are mildly basic and reversibly protonate to give iminium salts:
+Alternatively, primary imines are sufficiently acidic to allow N-alkylation, as illustrated with benzophenone imine:
+Lewis acid-base reactions
+Imines are common ligands in coordination chemistry. Particularly popular examples are found with Schiff base ligands derived from salicylaldehyde, the salen ligands.  Metal-catalyzed reactions of imines proceed through such complexes.  In classical coordination complexes, imines bind metals through nitrogen.  For low-valent metals, η2-imine ligands are observed.
+Nucleophilic additions
+Very analogous to ketones and aldehydes, primary imines are susceptible to attack by carbanion equivalents. The method allow for the synthesis of secondary amines:
+Imine reductions
+Imines are reduced via reductive amination. An imine can be reduced to an amine via hydrogenation for example in a synthesis of m-tolylbenzylamine:
+Other reducing agents are lithium aluminium hydride and sodium borohydride.
+The asymmetric reduction of imines has been achieved by hydrosilylation using a rhodium-DIOP catalyst. Many systems have since been investigated.
+Owing to their enhanced electrophilicity, iminium derivatives are particularly susceptible to reduction to the amines.  Such reductions can be achieved by transfer hydrogenation or by the stoichiometric action of sodium cyanoborohydride.  Since imines derived from unsymmetrical ketones are prochiral, their reduction defines a route to chiral amines.
+Polymerisation
+Unhindered aldimines tend to cyclize, as illustrated by the condensation of methylamine and formaldehyde, which gives the hexahydro-1,3,5-triazine.
+Imine polymers (polyimines) can be synthesised from multivalent aldehydes and amines. The polymerisation reaction proceeds directly when the aldehyde and amine monomers are mixed together at room temperature. In most cases, (small) amounts of solvent may still be required. Polyimines are particularly interesting materials because of their application as vitrimers. Owing to the dynamic covalent nature of the imine bonds, polyimines can be recycled relatively easily. Furthermore, polyimines are known for their self-healing behaviour.
+Miscellaneous reactions
+Akin to pinacol couplings, imines are susceptible to reductive coupling leading to 1,2-diamines.
+
+Imine are oxidized with meta-chloroperoxybenzoic acid (mCPBA) to give an oxaziridines.
+Imines are intermediates in the alkylation of amines with formic acid in the Eschweiler-Clarke reaction.
+A rearrangement in carbohydrate chemistry involving an imine is the Amadori rearrangement.
+A methylene transfer reaction of an imine by an unstabilised sulphonium ylide can give an aziridine system.
+Imine react with dialkylphosphite in the Pudovik reaction and Kabachnik–Fields reaction
+Biological role
+Imines are common in nature.  The pyridoxal phosphate-dependent enzymes (PLP enzymes) catalyze myriad reactions involving aldimines (or Schiff bases).

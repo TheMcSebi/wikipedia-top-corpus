@@ -1,0 +1,47 @@
+Witch of Agnesi
+In mathematics, the witch of Agnesi (Italian pronunciation: [aɲˈɲeːzi, -eːsi; -ɛːzi]) is a cubic plane curve defined from two diametrically opposite points of a circle. It gets its name from Italian mathematician Maria Gaetana Agnesi, and from a mistranslation of an Italian word for a sailing sheet. Before Agnesi, the same curve was studied by Fermat, Grandi, and Newton.
+The graph of the derivative of the arctangent function forms an example of the witch of Agnesi.
+As the probability density function of the Cauchy distribution, the witch of Agnesi has applications in probability theory. It also gives rise to Runge's phenomenon in the approximation of functions by polynomials,
+has been used to approximate the energy distribution of spectral lines, and models the shape of hills.
+The witch is tangent to its defining circle at one of the two defining points, and asymptotic to the tangent line to the circle at the other point. It has a unique vertex (a point of extreme curvature) at the point of tangency with its defining circle, which is also its osculating circle at that point. It also has two finite inflection points and one infinite inflection point. The area between the witch and its asymptotic line is four times the area of the defining circle, and the volume of revolution of the curve around its defining line is twice the volume of the torus of revolution of its defining circle.
+Construction
+To construct this curve, start with any two points O and M, and draw a circle with OM as diameter. For any other point A on the circle, let N be the point of intersection of the secant line OA and the tangent line at M.
+Let P be the point of intersection of a line perpendicular to OM through A, and a line parallel to OM through N. Then P lies on the witch of Agnesi. The witch consists of all the points P that can be constructed in this way from the same choice of O and M. It includes, as a limiting case, the point M itself.
+Equations
+Suppose that point O is at the origin and point M lies on the positive $MATH$-axis, and that the circle with diameter OM has radius $MATH$.
+Then the witch constructed from O and M has the Cartesian equation
+This equation can be simplified, by choosing $MATH$, to the form
+or equivalently, by clearing denominators, as the cubic algebraic equation
+In its simplified form, this curve is the graph of the derivative of the arctangent function.
+The witch of Agnesi can also be described by parametric equations whose parameter θ is the angle between OM and OA, measured clockwise:
+Properties
+The main properties of this curve can be derived from integral calculus.
+The area between the witch and its asymptotic line is four times the area of the fixed circle, $MATH$.
+The volume of revolution of the witch of Agnesi about its asymptote is $MATH$. This is two times the volume of the torus formed by revolving the defining circle of the witch around the same line.
+The curve has a unique vertex at the point of tangency with its defining circle. That is, this point is the only point where the curvature reaches a local minimum or local maximum. The defining circle of the witch is also its osculating circle at the vertex, the unique circle that "kisses" the curve at that point by sharing the same orientation and curvature. Because this is an osculating circle at the vertex of the curve, it has third-order contact with the curve.
+The curve has two inflection points, at the points
+corresponding to the angles $MATH$. When considered as a curve in the projective plane there is also a third infinite inflection point, at the point where the line at infinity is crossed by the asymptotic line. Because one of its inflection points is infinite, the witch has the minimum possible number of finite real inflection points of any non-singular cubic curve.
+The largest area of a rectangle that can be inscribed between the witch and its asymptote is $MATH$, for a rectangle whose height is the radius of the defining circle and whose width is twice the diameter of the circle.
+History
+Early studies
+The curve was studied by Pierre de Fermat in his 1659 treatise on quadrature. In it, Fermat computes the area under the curve and (without details) claims that the same method extends as well to the cissoid of Diocles. Fermat writes that the curve was suggested to him "ab erudito geometra" [by a learned geometer]. Paradís, Pla & Viader (2008) speculate that the geometer who suggested this curve to Fermat might have been Antoine de Laloubère.
+The construction given above for this curve was found by Grandi (1718); the same construction was also found earlier by Isaac Newton, but only published posthumously later, in 1779.
+Grandi (1718) also suggested the name  versiera (in Italian) or versoria (in Latin) for the curve. The Latin term is also used for a sheet, the rope which turns the sail, but Grandi may have instead intended merely to refer to the versine function that appeared in his construction.
+In 1748, Maria Gaetana Agnesi published Instituzioni analitiche ad uso della gioventù italiana, an early textbook on calculus.
+In it, after first considering two other curves, she includes a study of this curve. She defines the curve geometrically as the locus of points satisfying a certain proportion, determines its algebraic equation, and finds its vertex, asymptotic line, and inflection points.
+Etymology
+Maria Gaetana Agnesi named the curve according to Grandi, versiera. Coincidentally, at that time in Italy it was common to speak of the Devil through other words like aversiero or versiero, derived from Latin adversarius, the "adversary" of God. Versiera, in particular, was used to indicate the wife of the devil, or "witch". Because of this, Cambridge professor John Colson mistranslated the name of the curve as "witch". Different modern works about Agnesi and about the curve suggest slightly different guesses how exactly this mistranslation happened. Struik mentions that:
+On the other hand, Stephen Stigler suggests that  Grandi himself "may have been indulging in a play on words", a double pun connecting the devil to the versine and the sine function to the shape of the female breast (both of which can be written as "seno" in Italian).
+Applications
+A scaled version of the curve is the probability density function of the Cauchy distribution. This is the probability distribution on the random variable $MATH$ determined by the following random experiment: for a fixed point $MATH$ above the $MATH$-axis, choose uniformly at random a line through $MATH$, and let $MATH$ be the coordinate of the point where this random line crosses the axis. The Cauchy distribution has a peaked distribution visually resembling the normal distribution, but its heavy tails prevent it from having an expected value by the usual definitions, despite its symmetry. In terms of the witch itself, this means that the $MATH$-coordinate of the centroid of the region between the curve and its asymptotic line is not well-defined, despite this region's symmetry and finite area.
+In numerical analysis, when approximating functions using polynomial interpolation with equally spaced interpolation points, it may be the case for some functions that using more points creates worse approximations, so that the interpolation diverges from the function it is trying to approximate rather than converging to it. This paradoxical behavior is called Runge's phenomenon. It was first discovered by Carl David Tolmé Runge for Runge's function $MATH$, another scaled version of the witch of Agnesi, when interpolating this function over the interval $MATH$. The same phenomenon occurs for the witch $MATH$ itself over the wider interval $MATH$.
+The witch of Agnesi approximates the spectral energy distribution of spectral lines, particularly X-ray lines.
+The cross-section of a smooth hill has a similar shape to the witch. Curves with this shape have been used as the generic topographic obstacle in a flow in mathematical modeling.
+Solitary waves in deep water can also take this shape.
+A version of this curve was used by Gottfried Wilhelm Leibniz to derive the Leibniz formula for π. This formula, the infinite series
+can be derived by equating the area under the curve with the integral of the function $MATH$,
+using the Taylor series expansion of this function as the infinite geometric series $MATH$, and integrating term-by-term.
+In popular culture
+The Witch of Agnesi is the title of a novel by Robert Spiller. It includes a scene in which a teacher gives a version of the history of the term.
+Witch of Agnesi is also the title of a music album by jazz quartet Radius. The cover of the album features an image of the construction of the witch.
+Notes

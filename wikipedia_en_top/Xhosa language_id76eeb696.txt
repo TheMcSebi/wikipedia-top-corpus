@@ -1,0 +1,63 @@
+Xhosa language
+Xhosa (/ˈkɔːsə, ˈkoʊsə/, Xhosa pronunciation: [kǁʰóːsa]) also isiXhosa as an endonym, is a Nguni language  and one of the official languages of South Africa and Zimbabwe. Xhosa is spoken as a first language by approximately 8.2 million people and by another 11 million as a second language in South Africa, mostly in Eastern Cape, Western Cape, Northern Cape and Gauteng. It has perhaps the heaviest functional load of click consonants in a Bantu language (approximately tied with Yeyi), with one count finding that 10% of basic vocabulary items contained a click.
+
+
+Classification
+Xhosa is part of the branch of Nguni languages, which also include Zulu, Southern Ndebele and Northern Ndebele, called the Zunda languages. Zunda languages effectively form a dialect continuum of variously mutually intelligible varieties.
+Xhosa is, to a large extent, mutually intelligible with Zulu and with other Nguni languages to a lesser extent. Nguni languages are, in turn, classified under the much larger abstraction of Bantu languages.
+Geographical distribution
+Xhosa is the most widely distributed African language in South Africa, though the most widely spoken African language is Zulu. It is the second most common Bantu home language in South Africa as a whole. As of 2003 approximately 5.3 million Xhosa-speakers, the majority, live in the Eastern Cape, followed by the Western Cape (approximately 2 million), Gauteng (671,045), the Free State (246,192), KwaZulu-Natal (219,826), North West (214,461), Mpumalanga (46,553), the Northern Cape (51,228), and Limpopo (14,225). There is a small but significant Xhosa community of about 200,000 in Zimbabwe. Also, a small community of Xhosa speakers (18,000) live in Quthing District, Lesotho.
+Orthography
+Latin script
+The Xhosa language employs 26 letters from the Latin alphabet. However, some of the letters have a different pronunciation from English. Additional phonemes use sequences of multiple letters. Tone, stress and vowel length are not indicated.
+Phonology
+Vowels
+Xhosa has an inventory of ten vowels: [a], [ɛ~e], [i], [ɔ~o] and [u] written a, e, i, o and u in order, all occurring in both long and short. The /i/ vowel is long in the penultimate syllable and short in the last syllable.
+Tones
+Xhosa is a tonal language with two inherent phonemic tones: low and high. Tones are rarely marked in the written language, but they can be indicated a [à], á [á], â [áà], ä [àá]. Long vowels are phonemic but are usually not written except for â and ä, which are each sequences of two vowels with different tones that are realized as long vowels with contour tones (â high–low = falling, ä low–high = rising).
+Consonants
+Xhosa is rich in uncommon consonants. Besides pulmonic egressive sounds, which are found in all spoken languages, it has a series of ejective stops and one implosive stop. 
+It has 18 click consonants (in comparison, Juǀ'hoan, spoken in Botswana and Namibia, has 48, and Taa, with roughly 4,000 speakers in Botswana, has 83). There is a series of six dental clicks, represented by the letter ⟨c⟩, similar to the sound represented in English by "tut-tut" or "tsk-tsk"; a series of six alveolar lateral clicks, represented by the letter ⟨x⟩, similar to the sound used to call horses; and a series of alveolar clicks, represented by the letter ⟨q⟩, that sound somewhat like a cork pulled from a bottle.
+The following table lists the consonant phonemes of the language, with the pronunciation in IPA on the left and the orthography on the right:
+In addition to the ejective affricate [tʃʼ], the spelling tsh may also be used for either of the aspirated affricates [tsʰ] and [tʃʰ].
+The breathy voiced glottal fricative [ɦ] is sometimes spelled h.
+The ejectives tend to be ejective only in careful pronunciation or in salient positions and, even then, only for some speakers. Otherwise, they tend to be tenuis (plain) stops. Similarly, the tenuis (plain) clicks are often glottalised, with a long voice onset time, but that is uncommon.
+The murmured clicks, plosives and affricates are only partially voiced, with the following vowel murmured for some speakers. That is, da may be pronounced [dʱa̤] (or, equivalently, [d̥a̤]). They are better described as slack voiced than as breathy voiced. They are truly voiced only after nasals, but the oral occlusion is then very short in stops, and it usually does not occur at all in clicks. Therefore, the absolute duration of voicing is the same as in tenuis stops. (They may also be voiced between vowels in some speaking styles.) The more notable characteristic is their depressor effect on the tone of the syllable.
+Consonant changes with prenasalisation
+When consonants are prenasalised, their pronunciation and spelling may change. The murmur no longer shifts to the following vowel. Fricatives become affricated and, if voiceless, they become ejectives as well: mf is pronounced [ɱp̪fʼ], ndl is pronounced [ndɮ], n+hl becomes ntl [ntɬʼ], n+z becomes ndz [ndz], n+q becomes [n͡ŋǃʼ] etc. The orthographic b in mb is the voiced plosive [mb]. Prenasalisation occurs in several contexts, including on roots with the class 9 prefix /iN-/, for example on an adjective which is feature-matching its noun:
+/iN- + ɬɛ/ → [intɬɛ] "beautiful" (of a class 9 word like inja "dog")
+When aspirated clicks (ch, xh, qh) are prenasalised, the silent letter k is added (nkc, nkx, nkq) to prevent confusion with the nasal clicks nc, nx, nq, and are actually distinct sounds. The prenasalized versions have a very short voicing at the onset which then releases in an ejective, like the prenasalized affricates, while the phonemically nasal clicks have a very long voicing through the consonant. When plain voiceless clicks (c, x, q) are prenasalized, they become slack voiced nasal (ngc, ngx, ngq).
+Consonant changes with palatalisation
+Palatalisation is a change that affects labial consonants whenever they are immediately followed by /j/. While palatalisation occurred historically, it is still productive, as is shown by palatalization before the passive suffix /-w/ and before diminutive suffix /-ana/. This process can skip rightwards to non-local syllables (i.e. uku-sebenz-is-el + wa -> ukusetyenziselwa "be used for"), but does not affect morpheme-initial consonants (i.e. uku-bhal+wa -> ukubhalwa "to be written", instead of illicit *ukujalwa). The palatalization process only applies once, as evidenced by ukuphuphumisa+wa -> ukuphuphunyiswa "to be made to overflow", instead of the illicit alternative, *ukuphutshunyiswa.
+Morphology
+In keeping with many other Bantu languages, Xhosa is an agglutinative language, with an array of prefixes and suffixes that are attached to root words. As in other Bantu languages, nouns in Xhosa are classified into morphological classes, or genders (15 in Xhosa), with different prefixes for both singular and plural. Various parts of speech that qualify a noun must agree with the noun according to its gender. Agreements usually reflect part of the original class with which the word agrees. The word order is subject–verb–object, like in English.
+The verb is modified by affixes to mark subject, object, tense, aspect and mood. The various parts of the sentence must agree in both class and number.
+Nouns
+The Xhosa noun consists of two essential parts, the prefix and the stem. Using the prefixes, nouns can be grouped into noun classes, which are numbered consecutively, to ease comparison with other Bantu languages.
+The following table gives an overview of Xhosa noun classes, arranged according to singular-plural pairs.
+1 Before monosyllabic stems, e.g. iliso (eye), uluhlu (list).
+2 is- and iz- replace isi- and izi- respectively before stems beginning with a vowel, e.g. isandla/izandla (hand/hands).
+3 The placeholder N in the prefixes iN- and iiN- is a nasal consonant which assimilates in place to the following consonant (producing an im- before vowels), but is typically absent in loanwords.
+4 Before monosyllabic stems in some words.
+Verbs
+Verbs use the following prefixes for the subject and object:
+Examples
+Sample phrases and text
+The following is a list of phrases that can be used when one visits a region whose primary language is Xhosa:
+History
+Xhosa-speaking people have inhabited coastal regions of southeastern Africa since before the 16th century. They refer to themselves as the amaXhosa and their language as isiXhosa. Ancestors of the Xhosa migrated to the east coast of Africa and came across Khoisan-speaking people; "as a result of this contact, the Xhosa people borrowed some Khoisan words along with their pronunciation, for instance, the click sounds of the Khoisan languages". The Bantu ancestor of Xhosa did not have clicks, which attests to a strong historical contact with a Khoisan language that did. An estimated 15% of Xhosa vocabulary is of Khoisan origin.
+John Bennie was a Scottish Presbyterian missionary and early Xhosa linguist. Bennie, along with John Ross (another missionary), set up a printing press in the Tyhume Valley and the first printed works in Xhosa came out in 1823 from the Lovedale Press in the Alice region of the Eastern Cape. But, as with any language, Xhosa had a rich history of oral traditions from which the society taught, informed, and entertained one another. The first Bible translation was in 1859, produced in part by Henry Hare Dugmore.
+Role in modern society
+The role of indigenous languages in South Africa is complex and ambiguous. Their use in education has been governed by legislation, beginning with the Bantu Education Act, 1953.
+At present, Xhosa is used as the main language of instruction in many primary schools and some secondary schools, but is largely replaced by English after the early primary grades, even in schools mainly serving Xhosa-speaking communities. The language is also studied as a subject.
+The language of instruction at universities in South Africa is English or Afrikaans (to a diminishing extent), and Xhosa is taught as a subject, both for native and for non-native speakers.
+Literary works, including prose and poetry, are available in Xhosa, as are newspapers and magazines. The South African Broadcasting Corporation broadcasts in Xhosa on both radio (on Umhlobo Wenene FM) and television, and films, plays and music are also produced in the language. The best-known performer of Xhosa songs outside South Africa was Miriam Makeba, whose Click Song #1 (Xhosa Qongqothwane) and "Click Song #2" (Baxabene Ooxam) are known for their large number of click sounds.
+In 1996, the literacy rate for first-language Xhosa speakers was estimated at 50%.
+Anthem
+Nkosi Sikelel' iAfrika is part of the national anthem of South Africa, national anthem of Tanzania and Zambia, and the former anthem of Zimbabwe and Namibia. It is a Methodist hymn written in Xhosa by Enoch Sontonga in 1897. The original stanza was:
+Additional stanzas were written later by Sontonga and other writers, with the original verse translated into Sotho and Afrikaans, as well as English.
+In popular culture
+Rafiki, the sagely mandrill chants Xhosa on The Lion King and its reboot.
+In the Marvel Cinematic Universe films Captain America: Civil War, Black Panther, Avengers: Infinity War, Avengers: Endgame, and Black Panther: Wakanda Forever, the language spoken in the fictional African nation of Wakanda is Xhosa. This came about because South African actor John Kani, a native of the Eastern Cape province who plays Wakandan King T'Chaka, speaks Xhosa and suggested that the directors of the fictional Civil War incorporate a dialogue in the language. For Black Panther, director Ryan Coogler "wanted to make it a priority to use Xhosa as much as possible" in the script, and provided dialect coaches for the film's actors.
+See also
+Notes

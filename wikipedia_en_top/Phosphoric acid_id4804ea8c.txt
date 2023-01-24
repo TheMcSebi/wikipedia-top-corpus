@@ -1,0 +1,26 @@
+Phosphoric acid
+
+
+Phosphoric acid (orthophosphoric acid, monophosphoric acid or phosphoric(V) acid) is a colorless, odorless phosphorus-containing solid, and inorganic compound with the chemical formula H3PO4. It is commonly encountered as an 85% aqueous solution, which is a colourless, odourless, and non-volatile syrupy liquid. It is a major industrial chemical, being a component of many fertilizers.
+The compound is an acid. Removal of all three H+ ions gives the phosphate ion PO3−4. Removal of one or two protons gives dihydrogen phosphate ion H2PO−4, and the hydrogen phosphate ion HPO2−4, respectively. Phosphoric acid forms esters, called organophosphates.
+The name "orthophosphoric acid" can be used to distinguish this specific acid from other "phosphoric acids", such as pyrophosphoric acid. Nevertheless, the term "phosphoric acid" often means this specific compound; and that is the current IUPAC nomenclature.
+Production
+Phosphoric acid is produced industrially by one of two routes, wet processes and dry.
+Wet process
+In the wet process, a phosphate-containing mineral such as calcium hydroxyapatite and fluorapatite are treated with sulfuric acid.
+Calcium sulfate (gypsum, CaSO4) is a by-product, which is removed as phosphogypsum. The hydrogen fluoride (HF) gas is streamed into a wet (water) scrubber producing hydrofluoric acid. In both cases the phosphoric acid solution usually contains 23–33%  P2O5 (32–46% H3PO4). It may be concentrated to produce commercial- or merchant-grade phosphoric acid, which contains about 54–62% P2O5 (75–85% H3PO4). Further removal of water yields superphosphoric acid with a P2O5 concentration above 70% (corresponding to nearly 100% H3PO4). The phosphoric acid from both processes may be further purified by removing compounds of arsenic and other potentially toxic impurities.
+Dry process
+To produce food-grade phosphoric acid, phosphate ore is first reduced with coke in an electric arc furnace, to give elemental phosphorus. Silica is also added, resulting in the production of calcium silicate slag. Elemental phosphorus is distilled out of the furnace and burned with air to produce high-purity phosphorus pentoxide, which is dissolved in water to make phosphoric acid.
+Acidic properties
+In aqueous solution phosphoric acid behaves as a triprotic acid.
+The difference between successive pKa values is sufficiently large so that salts of either monohydrogen phosphate, HPO2−4 or dihydrogen phosphate, H2PO−4, can be prepared from a solution of phosphoric acid by adjusting the pH to be mid-way between the respective pK values.
+Uses
+The dominant use of phosphoric acid is for fertilizers, consuming approximately 90% of production.
+Food-grade phosphoric acid (additive E338) is used to acidify foods and beverages such as various colas and jams, providing a tangy or sour taste. The phosphoric acid also serves as a preservative. Soft drinks containing phosphoric acid, which would include Coca-Cola, are sometimes called phosphate sodas or phosphates. Phosphoric acid in soft drinks has the potential to cause dental erosion. Phosphoric acid also has the potential to contribute to the formation of kidney stones, especially in those who have had kidney stones previously.
+Specific applications of phosphoric acid include:
+Safety
+Phosphoric acid is not a strong acid. However, at moderate concentrations phosphoric acid solutions are irritating to the skin. Contact with concentrated solutions can cause severe skin burns and permanent eye damage.
+A link has been shown between long-term regular cola intake and osteoporosis in later middle age in women (but not men).
+See also
+References
+Cited sources

@@ -1,0 +1,54 @@
+Tangent space
+In mathematics, the tangent space of a manifold generalizes to higher dimensions the notion of tangent planes to surfaces in three dimensions and tangent lines to curves in two dimensions. In the context of physics the  tangent space to a manifold at a point can be viewed as the space of possible velocities for a particle moving on the manifold.
+Informal description
+In differential geometry, one can attach to every point $MATH$ of a differentiable manifold a tangent space—a real vector space that intuitively contains the possible directions in which one can tangentially pass through $MATH$. The elements of the tangent space at $MATH$ are called the tangent vectors at $MATH$. This is a generalization of the notion of a vector, based at a given initial point, in a Euclidean space. The dimension of the tangent space at every point of a connected manifold is the same as that of the manifold itself.
+For example, if the given manifold is a $MATH$-sphere, then one can picture the tangent space at a point as the plane that touches the sphere at that point and is perpendicular to the sphere's radius through the point. More generally, if a given manifold is thought of as an embedded submanifold of Euclidean space, then one can picture a tangent space in this literal fashion. This was the traditional approach toward defining parallel transport. Many authors in differential geometry and general relativity use it. More strictly, this defines an affine tangent space, which is distinct from the space of tangent vectors described by modern terminology.
+In algebraic geometry, in contrast, there is an intrinsic definition of the tangent space at a point of an algebraic variety $MATH$ that gives a vector space with dimension at least that of $MATH$ itself. The points $MATH$ at which the dimension of the tangent space is exactly that of $MATH$ are called non-singular points; the others are called singular points. For example, a curve that crosses itself does not have a unique tangent line at that point. The singular points of $MATH$ are those where the "test to be a manifold" fails. See Zariski tangent space.
+Once the tangent spaces of a manifold have been introduced, one can define vector fields, which are abstractions of the velocity field of particles moving in space. A vector field attaches to every point of the manifold a vector from the tangent space at that point, in a smooth manner. Such a vector field serves to define a generalized ordinary differential equation on a manifold: A solution to such a differential equation is a differentiable curve on the manifold whose derivative at any point is equal to the tangent vector attached to that point by the vector field.
+All the tangent spaces of a manifold may be "glued together" to form a new differentiable manifold with twice the dimension of the original manifold, called the tangent bundle of the manifold.
+Formal definitions
+The informal description above relies on a manifold's ability to be embedded into an ambient vector space $MATH$ so that the tangent vectors can "stick out" of the manifold into the ambient space. However, it is more convenient to define the notion of a tangent space based solely on the manifold itself.
+There are various equivalent ways of defining the tangent spaces of a manifold. While the definition via the velocity of curves is intuitively the simplest, it is also the most cumbersome to work with. More elegant and abstract approaches are described below.
+Definition via tangent curves
+In the embedded-manifold picture, a tangent vector at a point $MATH$ is thought of as the velocity of a curve passing through the point $MATH$. We can therefore define a tangent vector as an equivalence class of curves passing through $MATH$ while being tangent to each other at $MATH$.
+Suppose that $MATH$ is a $MATH$ differentiable manifold (with smoothness $MATH$) and that $MATH$. Pick a coordinate chart $MATH$, where $MATH$ is an open subset of $MATH$ containing $MATH$. Suppose further that two curves $MATH$ with $MATH$ are given such that both $MATH$ are differentiable in the ordinary sense (we call these differentiable curves initialized at $MATH$). Then $MATH$ and $MATH$ are said to be equivalent at $MATH$ if and only if the derivatives of $MATH$ and $MATH$ at $MATH$ coincide. This defines an equivalence relation on the set of all differentiable curves initialized at $MATH$, and equivalence classes of such curves are known as tangent vectors of $MATH$ at $MATH$. The equivalence class of any such curve $MATH$ is denoted by $MATH$. The tangent space of $MATH$ at $MATH$, denoted by $MATH$, is then defined as the set of all tangent vectors at $MATH$; it does not depend on the choice of coordinate chart $MATH$.
+To define vector-space operations on $MATH$, we use a chart $MATH$ and define a map $MATH$ by $MATH$ where $MATH$. The map $MATH$ turns out to be bijective and may be used to transfer the vector-space operations on $MATH$ over to $MATH$, thus turning the latter set into an $MATH$-dimensional real vector space. Again, one needs to check that this construction does not depend on the particular chart $MATH$ and the curve $MATH$ being used, and in fact it does not.
+Definition via derivations
+Suppose now that $MATH$ is a $MATH$ manifold. A real-valued function $MATH$ is said to belong to $MATH$ if and only if for every coordinate chart $MATH$, the map $MATH$ is infinitely differentiable. Note that $MATH$ is a real associative algebra with respect to the pointwise product and sum of functions and scalar multiplication.
+A derivation at $MATH$ is defined as a linear map $MATH$ that satisfies the Leibniz identity
+which is modeled on the product rule of calculus.
+(For every identically constant function $MATH$ it follows that $MATH$).
+Denote $MATH$ the set of all derivations at $MATH$ Setting
+turns $MATH$ into a vector space.
+Generalizations
+Generalizations of this definition are possible, for instance, to complex manifolds and algebraic varieties. However, instead of examining derivations $MATH$ from the full algebra of functions, one must instead work at the level of germs of functions. The reason for this is that the structure sheaf may not be fine for such structures. For example, let $MATH$ be an algebraic variety with structure sheaf $MATH$. Then the Zariski tangent space at a point $MATH$ is the collection of all $MATH$-derivations $MATH$, where $MATH$ is the ground field and $MATH$ is the stalk of $MATH$ at $MATH$.
+Equivalence of the definitions
+For $MATH$ and a differentiable curve $MATH$ :(-1,1)\to M}
+  
+ such that $MATH$ define $MATH$ (where the derivative is taken in the ordinary sense because $MATH$ is a function from $MATH$ to $MATH$). One can ascertain that $MATH$ is a derivation at the point $MATH$ and that equivalent curves yield the same derivation. Thus, for an equivalence class $MATH$ we can define $MATH$ where the curve $MATH$ has been chosen arbitrarily. The map $MATH$ is a vector space isomorphism between the space of the equivalence classes $MATH$ and that of the derivations at the point $MATH$
+Definition via cotangent spaces
+Again, we start with a $MATH$ manifold $MATH$ and a point $MATH$. Consider the ideal $MATH$ of $MATH$ that consists of all smooth functions $MATH$ vanishing at $MATH$, i.e., $MATH$. Then $MATH$ and $MATH$ are both real vector spaces, and the quotient space $MATH$ can be shown to be  isomorphic to the cotangent space $MATH$ through the use of Taylor's theorem. The tangent space $MATH$ may then be defined as the dual space of $MATH$.
+While this definition is the most abstract, it is also the one that is most easily transferable to other settings, for instance, to the varieties considered in algebraic geometry.
+If $MATH$ is a derivation at $MATH$, then $MATH$ for every $MATH$, which means that $MATH$ gives rise to a linear map $MATH$. Conversely, if $MATH$ is a linear map, then $MATH$ defines a derivation at $MATH$. This yields an equivalence between tangent spaces defined via derivations and tangent spaces defined via cotangent spaces.
+Properties
+If $MATH$ is an open subset of $MATH$, then $MATH$ is a $MATH$ manifold in a natural manner (take coordinate charts to be identity maps on open subsets of $MATH$), and the tangent spaces are all naturally identified with $MATH$.
+Tangent vectors as directional derivatives
+Another way to think about tangent vectors is as directional derivatives. Given a vector $MATH$ in $MATH$, one defines the corresponding directional derivative at a point $MATH$ by
+This map is naturally a derivation at $MATH$. Furthermore, every derivation at a point in $MATH$ is of this form. Hence, there is a one-to-one correspondence between vectors (thought of as tangent vectors at a point) and derivations at a point.
+As tangent vectors to a general manifold at a point can be defined as derivations at that point, it is natural to think of them as directional derivatives. Specifically, if $MATH$ is a tangent vector to $MATH$ at a point $MATH$ (thought of as a derivation), then define the directional derivative $MATH$ in the direction $MATH$ by
+If we think of $MATH$ as the initial velocity of a differentiable curve $MATH$ initialized at $MATH$, i.e., $MATH$, then instead, define $MATH$ by
+Basis of the tangent space at a point
+For a $MATH$ manifold $MATH$, if a chart $MATH$ is given with $MATH$, then one can define an ordered basis $MATH$ of $MATH$ by
+Then for every tangent vector $MATH$, one has
+This formula therefore expresses $MATH$ as a linear combination of the basis tangent vectors $MATH$ defined by the coordinate chart $MATH$.
+The derivative of a map
+Every smooth (or differentiable) map $MATH$ between smooth (or differentiable) manifolds induces natural linear maps between their corresponding tangent spaces:
+If the tangent space is defined via differentiable curves, then this map is defined by
+If, instead, the tangent space is defined via derivations, then this map is defined by
+The linear map $MATH$ is called variously the derivative, total derivative, differential, or pushforward of $MATH$ at $MATH$. It is frequently expressed using a variety of other notations:
+In a sense, the derivative is the best linear approximation to $MATH$ near $MATH$. Note that when $MATH$, then the map $MATH$ coincides with the usual notion of the differential of the function $MATH$. In local coordinates the derivative of $MATH$ is given by the Jacobian.
+An important result regarding the derivative map is the following:
+Theorem — If $MATH$ is a local diffeomorphism at $MATH$ in $MATH$, then $MATH$ is a linear isomorphism. Conversely, if $MATH$ is continuously differentiable and $MATH$ is an isomorphism, then there is an open neighborhood $MATH$ of $MATH$ such that $MATH$ maps $MATH$ diffeomorphically onto its image.
+This is a generalization of the inverse function theorem to maps between manifolds.
+See also
+Notes

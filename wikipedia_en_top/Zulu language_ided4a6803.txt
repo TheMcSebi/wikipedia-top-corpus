@@ -1,0 +1,84 @@
+Zulu language
+Zulu (/ˈzuːluː/), or isiZulu as an endonym, is a Southern Bantu language of the Nguni branch spoken in Southern Africa. It is the language of the Zulu people, with about 12 million native speakers, who primarily inhabit the province of KwaZulu-Natal of South Africa. Zulu is the most widely spoken home language in South Africa (24% of the population), and it is understood by over 50% of its population. It became one of South Africa's 11 official languages in 1994.
+According to Ethnologue, it is the second-most-widely spoken of the Bantu languages, after Swahili. Like many other Bantu languages, it is written with the Latin alphabet.
+In South African English, the language is often referred to in its native form, isiZulu.
+Geographical distribution
+Zulu migrant populations have taken it to adjacent regions, especially Zimbabwe, where the Northern Ndebele language (isiNdebele) is closely related to Zulu.
+Xhosa, the predominant language in the Eastern Cape, is often considered mutually intelligible with Zulu, as is Northern Ndebele.
+
+Maho (2009) lists four dialects: central KwaZulu-Natal Zulu, northern Transvaal Zulu, eastern coastal Qwabe, and western coastal Cele.
+History
+The Zulu, like Xhosa and other Nguni people, have lived in South Africa for a long time. The Zulu language possesses several click sounds typical of Southern African languages, not found in the rest of Africa. The Nguni people have coexisted with other Southern tribes like the San and Khoi.
+Zulu, like most indigenous Southern African languages, was not a written language until the arrival of missionaries from Europe, who documented the language using the Latin script. 
+The first grammar book of the Zulu language was published in Norway in 1850 by the Norwegian missionary Hans Schreuder. The first written document in Zulu was a Bible translation that appeared in 1883. In 1901, John Dube (1871–1946), a Zulu from Natal, created the Ohlange Institute, the first native educational institution in South Africa. He was also the author of Insila kaShaka, the first novel written in Zulu (1930). Another pioneering Zulu writer was Reginald Dhlomo, author of several historical novels of the 19th-century leaders of the Zulu nation: U-Dingane (1936), U-Shaka (1937), U-Mpande (1938), U-Cetshwayo (1952) and U-Dinizulu (1968). Other notable contributors to Zulu literature include Benedict Wallet Vilakazi and, more recently, Oswald Mbuyiseni Mtshali.
+The written form of Zulu was controlled by the Zulu Language Board of KwaZulu-Natal. This board has now been disbanded and superseded by the Pan South African Language Board which promotes the use of all eleven official languages of South Africa.
+Contemporary usage
+English, Dutch and later Afrikaans had been the only official languages used by all South African governments before 1994. However, in the Kwazulu bantustan the Zulu language was widely used. All education in the country at the high-school level was in English or Afrikaans. Since the demise of apartheid in 1994, Zulu has been enjoying a marked revival. Zulu-language television was introduced by the SABC in the early 1980s and it broadcasts news and many shows in Zulu. Zulu radio is very popular and newspapers such as isoLezwe, Ilanga and UmAfrika in the Zulu language are available in Kwazulu-Natal province and in Johannesburg. In January 2005 the first full-length feature film in Zulu, Yesterday, was nominated for an Oscar.
+The mutual intelligibility of many Nguni languages has increased the likelihood of Zulu becoming the lingua franca of the eastern half of the country.
+In the 1994 film The Lion King, in the "Circle of Life" song, the phrases Ingonyama nengw' enamabala (English: A lion and a leopard spots), Nans' ingonyama bakithi Baba (English: Here comes a lion, Father) and Siyonqoba (English: We will conquer) were used. In some movie songs, like "This Land", the voice says Busa leli zwe bo (Rule this land) and Busa ngothando bo (Rule with love) were used too.
+The song Siyahamba is a South African hymn originally written in the Zulu language that became popular in North American churches in the 1990s.
+The 2019 worldwide hit Jerusalema contains lyrics in Zulu language.
+Standard vs urban Zulu
+Standard Zulu as it is taught in schools, also called "deep Zulu" (isiZulu esijulile), differs in various respects from the language spoken by people living in cities (urban Zulu, isiZulu sasedolobheni). Standard Zulu tends to be purist, using derivations from Zulu words for new concepts, whereas speakers of urban Zulu use loan words abundantly, mainly from English. For example: 
+This situation has led to problems in education because standard Zulu is often not understood by young people.
+Phonology
+Vowels
+The vowel system of Zulu consists of five vowels.
+/ɛ/ and /ɔ/ are pronounced [e] and [o], respectively, if a following syllable contains the [+ATR] vowels /i/ or /u/. They are [ɛ] and [ɔ] otherwise:
+There is limited vowel length in Zulu, as a result of the contraction of certain syllables. For example, the word ithambo /íːtʰámbó/ "bone", is a contraction of an earlier ilithambo /ílítʰámbó/, which may still be used by some speakers. Likewise, uphahla /úːpʰaɬa/ "roof" is a contraction of earlier uluphahla /ulúpʰaɬa/. In addition the vowel of the penultimate syllable is allophonically lengthened phrase- or sentence-finally.
+Consonants
+The use of click consonants is one of the most distinctive features of Zulu. This feature is shared with several other languages of Southern Africa, but it is very rare in other regions. There are three basic articulations of clicks in Zulu:
+Each articulation covers five click consonants, with differences such as being slack-voiced, aspirated or nasalised, for a total of 15.
+Phonotactics
+Zulu syllables are canonically (N)C(w)V, and words must always end in a vowel. Consonant clusters consist of any consonant, optionally preceded by a homorganic nasal consonant (so-called "prenasalisation", described in more detail below) and optionally followed by the consonant /w/.
+In addition, syllabic /m̩/ occurs as a reduction of former /mu/, and acts like a true syllable: it can be syllabic even when not word-initial, and can also carry distinctive tones like a full syllable. It does not necessarily have to be homorganic with the following consonant, although the difference between homorganic nonsyllabic /mC/ and syllabic /m̩C/ is distinctive, e.g. umpetshisi /um̩pétʃiːsi/ "peach tree" (5 syllables) versus impoko /ímpoːɠo/ "grass flower" (3 syllables). Moreover, sequences of syllabic m and homorganic m can occur, e.g. ummbila /úm̩mbíːla/ "maize" (4 syllables).
+Recent loanwords from languages such as English may violate these constraints, by including additional consonant clusters that are not native to Zulu, such as in igremu /iːgreːmu/ "gram". There may be some variation between speakers as to whether clusters are broken up by an epenthetic vowel or not, e.g. ikhompiyutha /iːkʰompijuːtʰa/ or ikhompyutha /iːkʰompjuːtʰa/ "computer".
+Stress
+Stress in Zulu words is mostly predictable and normally falls on the penultimate syllable of a word. It is accompanied by allophonic lengthening of the vowel. When the final vowel of a word is long due to contraction, it receives the stress instead of the preceding syllable.
+Lengthening does not occur on all words in a sentence, however, but only those that are sentence- or phrase-final. Thus, for any word of at least two syllables, there are two different forms, one with penultimate length and one without it, occurring in complementary distribution. In some cases, there are morphemic alternations that occur as a result of word position as well. The remote demonstrative pronouns may appear with the suffix -ana when sentence-final, but only as -ā otherwise. Likewise, the recent past tense of verbs ends in -ile sentence-finally, but is reduced to -ē medially. Moreover, a falling tone can only occur on a long vowel, so the shortening has effects on tone as well.
+Some words, such as ideophones or interjections, can have stress that deviates from the regular pattern.
+Tone
+Like almost all other Bantu and other African languages, Zulu is tonal. There are three main tonemes: low, high and falling. Zulu is conventionally written without any indication of tone, but tone can be distinctive in Zulu. For example, the words for "priest" and "teacher" are both spelled umfundisi, but they are pronounced with different tones: /úm̩fúndisi/ for the "priest" meaning, and /úm̩fundísi/ for the "teacher" meaning.
+In principle, every syllable can be pronounced with either a high or a low tone. However, low tone does not behave the same as the other two, as high tones can "spread" into low-toned syllables while the reverse does not occur. A low tone is therefore better described as the absence of any toneme; it is a kind of default tone that is overridden by high or falling tones. The falling tone is a sequence of high-low, and occurs only on long vowels. The penultimate syllable can also bear a falling tone when it is long due to the word's position in the phrase. However, when it shortens, the falling tone becomes disallowed in that position.
+In principle, every morpheme has an inherent underlying tone pattern which does not change regardless of where it appears in a word. However, like most other Bantu languages, Zulu has word tone, meaning that the pattern of tones acts more like a template to assign tones to individual syllables, rather than a direct representation of the pronounced tones themselves. Consequently, the relationship between underlying tone patterns and the tones that are actually pronounced can be quite complex. Underlying high tones tend to surface rightward from the syllables where they are underlyingly present, especially in longer words.
+Depressor consonants
+The breathy consonant phonemes in Zulu are depressor consonants, or depressors for short. Depressor consonants have a lowering effect on pitch, adding a non-phonemic low-tone onset to the normal tone of the syllable. Thus, in syllables with depressor consonants, high tones are realised as rising, and falling tones as rising-then-falling. In both cases, the pitch does not reach as high as in non-depressed syllables. The possible tones on a syllable with a voiceless consonant like hla are [ɬá ɬâ ɬà], and the possible tones of a breathy consonant syllable, like dla, are [ɮǎ̤ ɮa̤᷈ ɮà̤]. A depressor has no effect on a syllable that's already low, but it blocks assimilation to a preceding high tone, so that the tone of the depressor syllable and any following low-tone syllables stays low.
+Prenasalisation
+Prenasalisation occurs whenever a consonant is preceded by a homorganic nasal, either lexically or as a consequence of prefixation. The most notable case of the latter is the class 9 noun prefix in-, which ends in a homorganic nasal. Prenasalisation triggers several changes in the following consonant, some of which are phonemic and others allophonic. The changes can be summed as follows:
+Tone assimilation
+Zulu has tonic assimilation: high tones tend to spread allophonically to following low-tone syllables, raising their pitch to a level just below that of adjacent high-tone syllables. A toneless syllable between a high-tone syllable and another tonic syllable assimilates to that high tone. That is, if the preceding syllable ends on a high tone and the following syllable begins with a high tone (because it is high or falling), the intermediate toneless syllable has its pitch raised as well. When the preceding syllable is high but the following is toneless, the medial toneless syllable adopts a high-tone onset from the preceding syllable, resulting in a falling tone contour.
+For example, the English word spoon was borrowed into Zulu as isipunu, phonemically /ísipúnu/. The second syllable si assimilates to the surrounding high tones, raising its pitch, so that it is pronounced [ísípʼúːnù] sentence-finally. If tone pitch is indicated with numbers, with 1 highest and 9 lowest pitch, then the pitches of each syllable can be denoted as 2-4-3-9. The second syllable is thus still lower in pitch than both of the adjacent syllables.
+Tone displacement
+Depressor consonants have an effect called tone displacement. Tone displacement occurs whenever a depressor occurs with a high tone, and causes the tone on the syllable to shift rightward onto the next syllable. If the next syllable is long, it gets a falling tone, otherwise a regular high tone. If the penultimate syllable becomes high (not falling), the final syllable dissimilates and becomes low if it wasn't already. Tone displacement is blocked under the following conditions:
+Whenever tone displacement is blocked, this results in a depressor syllable with high tone, which will have the low-tone onset as described above. When the following syllable already has a high or falling tone, the tone disappears from the syllable as if it had been shifted away, but the following syllable's tone is not modified.
+Some examples:
+Palatalization
+Palatalization is a change that affects labial and alveolar consonants whenever they are immediately followed by /j/. While palatalization occurred historically, it is still productive, and occurs as a result of the addition of suffixes beginning with /j/. A frequent example is the diminutive suffix -yana.
+Moreover, Zulu does not generally tolerate sequences of a labial consonant plus /w/. Whenever /w/ follows a labial consonant, it changes to /j/, which then triggers palatalization of the consonant. This effect can be seen in the locative forms of nouns ending in -o or -u, which changes to -weni and -wini respectively in the locative. If a labial consonant immediately precedes, palatalization is triggered. The change also occurs in nouns beginning in ubu- with a stem beginning with a vowel.
+The following changes occur as a result of palatalization:
+Orthography
+Zulu employs the 26 letters of the ISO basic Latin alphabet. However, some of the letters have different pronunciation than in English. Additional phonemes are written using sequences of multiple letters. Tone, stress and vowel length are not indicated.
+Reference works and older texts may use additional letters. A common former practice was to indicate the implosive /ɓ/ using the special letter ɓ, while the digraph bh would then be simply written as b. Some references may also write h after letters to indicate that they are of the depressor variety, e.g. mh, nh, yh, a practice that is standard in Xhosa orthography.
+Very early texts, from the early 20th century or before, tend to omit the distinction between plain and aspirated voiceless consonants, writing the latter without the h.
+Nouns are written with their prefixes as one orthographical word. If the prefix ends with a vowel (as most do) and the noun stem also begins with a vowel, a hyphen is inserted in between, e.g. i-Afrika. This occurs only with loanwords.
+Morphology
+Here are some of the main features of Zulu:
+Morphology of root Zulu
+The root can be combined with a number of prefixes and thus create other words. For example, here is a table with a number of words constructed from the roots -Zulu and -ntu (the root for person/s, people):
+Sample phrases and text
+The following is a list of phrases that can be used when one visits a region whose primary language is Zulu:
+The following is from the preamble to the Constitution of South Africa:
+Translation:
+Counting in isiZulu
+Counting from 1 to 10
+The digital numerical counting etiquette on the fingers begins with the little finger of the left hand to the left thumb, and then continuing with the right-hand thumb towards the right little finger. Starting with a closed left hand, each finger is extended with each subsequent number from one to five. Once the left hand is open, then counting continues on the right hand with each finger opening in turn. It is noteworthy that in isiZulu, the names for the numbers six to nine reflect either the anatomical name of the digit (six, isithupha, means 'thumb'), action (seven, isikhombisa, means 'the one that points out'), or position/placement (eight, or isishiyagalombili, means 'two remaining', and nine, or isishiyagalolunye, indicating 'one remaining').
+Months
+Months in Zulu
+Zulu words in South African English
+South African English has absorbed many words from the Zulu language. Others, such as the names of local animals (impala and mamba are both Zulu names) have made their way into standard English. A few examples of Zulu words used in South African English:
+See also
+Notes
+References
+Sources
+Bibliography
+Further reading

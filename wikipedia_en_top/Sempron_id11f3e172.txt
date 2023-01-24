@@ -1,0 +1,30 @@
+Sempron
+Sempron has been the marketing name used by AMD for several different budget desktop CPUs, using several different technologies and CPU socket formats. The Sempron replaced the AMD Duron processor and competed against Intel's Celeron series of processors. AMD coined the name from the Latin semper, which means "always", to suggest the Sempron is suitable for "daily use, practical, and part of everyday life". The last Semprons were launched in April 2014. The brand was retired with the launch of the AMD A-Series APUs.
+History and features
+The first Sempron CPUs were based on the Athlon XP architecture using the Thoroughbred or Thorton core.  These models were equipped with the Socket A interface, 256 KiB L2 cache and 166 MHz Front side bus (FSB 333). Thoroughbred cores natively had 256 KiB L2 cache, but Thortons had 512 KiB L2 cache, half of which was disabled and could sometimes be reactivated with a slight physical modification to the chip. Later, AMD introduced the Sempron 3000+ CPU, based on the Barton core with 512 KiB L2 cache. From a hardware and user standpoint, the Socket A Sempron CPUs were essentially identical to Athlon XP desktop CPUs with a new brand name.  AMD has ceased production of all Socket A Sempron CPUs.
+The second generation (Paris/Palermo core) was based on the architecture of the Socket 754 Athlon 64. Some differences from Athlon 64 processors include a reduced cache size (either 128 or 256 KiB L2), and the absence of AMD64 support in earlier models.  Apart from these differences, the Socket 754 Sempron CPUs share most features with the more powerful Athlon 64, including an integrated (on-die) memory controller, the HyperTransport link, and AMD's "NX bit" feature.
+In the second half of 2005, AMD added 64-bit support (AMD64) to the Sempron line. Some journalists (but not AMD) often refer to this revision of chips as "Sempron 64" to distinguish it from the previous revision. AMD's intent in releasing 64-bit entry-level processors was to extend the market for 64-bit processors, which at the time of Sempron 64's first release, was a niche market.
+In 2006, AMD announced the Socket AM2 and Socket S1 line of Sempron processors. These are functionally equivalent to the previous generation, except they have a dual-channel DDR2 SDRAM memory controller which replaces the single-channel DDR SDRAM version. The TDP of the standard version remains at 62 W (watts), while the new "Energy Efficient Small Form Factor" version has a reduced 35 W TDP. The Socket AM2 version also does not require a minimum voltage of 1.1 volts to operate, whereas all socket 754 Semprons with Cool'n'Quiet did. In 2006, AMD was selling both Socket 754 and Socket AM2 Sempron CPUs concurrently. In the middle of 2007 AMD appears to have dropped the 754 line and is shipping AM2 and S1 Semprons.
+Features table
+CPU features table
+Models for Socket A (Socket 462)
+Thoroughbred B/Thorton (130 nm)
+Barton (130 nm)
+Models for Socket 754
+Paris (130 nm SOI)
+Palermo (90 nm SOI)
+Models for Socket 939
+Palermo (90 nm SOI)
+Models for Socket AM2
+Manila (90 nm SOI)
+Sparta (65 nm SOI)
+Models for Socket AM3
+Sargas (45 nm SOI)
+Models for Socket S1 (638)
+Keene (90 nm SOI)
+Sable (65 nm SOI)
+Models for ASB1 package (BGA)
+Huron (65 nm SOI)
+FM2/FM2+ Semprons
+Semprons without Cool'n'Quiet
+AMD has released some Sempron processors without Cool'n'Quiet support. The following table describes those processors lacking Cool'n'Quiet.

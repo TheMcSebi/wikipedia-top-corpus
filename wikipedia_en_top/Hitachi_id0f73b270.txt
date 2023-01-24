@@ -1,0 +1,70 @@
+Hitachi
+Hitachi, Ltd. (Japanese pronunciation: [çi̥taꜜtɕi]) is a Japanese multinational conglomerate corporation headquartered in Chiyoda, Tokyo, Japan. It is the parent company of the Hitachi Group (Hitachi Gurūpu) and had formed part of the Nissan zaibatsu and later DKB Group and Fuyo Group of companies before DKB and Fuji Bank (the core Fuyo Group company) merged into the Mizuho Financial Group. As of 2020, Hitachi conducts business ranging from IT, including AI, the Internet of Things, and big data, to infrastructure.
+Hitachi is listed on the Tokyo Stock Exchange and Nagoya Stock Exchange and its Tokyo listing is a constituent of the Nikkei 225 and TOPIX Core30 indices. It is ranked 38th in the 2012 Fortune Global 500 and 129th in the 2012 Forbes Global 2000.
+History
+Hitachi was founded in 1910 by electrical engineer Namihei Odaira (1874–1951) in Ibaraki Prefecture. The company's first product was Japan's first 4-kilowatt (5 hp) induction motor, initially developed for use in copper mining.
+The company began as an in-house venture of Fusanosuke Kuhara's mining company in Hitachi, Ibaraki. Odaira moved headquarters to Tokyo in 1918. Odaira coined the company's toponymic name by superimposing two kanji characters: hi meaning "sun" and tachi meaning "rise".
+World War II had a significant impact on the company with many of its factories being destroyed by Allied bombing raids, and discord after the war. Founder Odaira was removed from the company and Hitachi Zosen Corporation was spun out. Hitachi's reconstruction efforts after the war were hindered by a labor strike in 1950. Meanwhile, Hitachi went public in 1949.
+Hitachi America, Ltd. was established in 1959.
+The Soviet Union started to produce air conditioners in 1975. The Baku factory was established under the license of Japanese company Hitachi. Volumes of production of air conditioners in the USSR were small, about 500,000 per year. However air conditioners were a matter of great pride. Mainly window air conditioners were produced. Most of the output was exported. 
+Hitachi Europe, Ltd. was established in 1982.
+From 2006 to 2010, Hitachi lost US$12.5 billion, the largest corporate loss in Japanese history. This prompted Hitachi to restructure and sell a number of divisions and businesses, a process that is expected to end in 2021.
+In March 2011, Hitachi agreed to sell its hard disk drive subsidiary, HGST, to Western Digital for a combination of cash and shares worth US$4.3 billion. Due to concerns of a duopoly of WD and Seagate Technology by the EU Commission and the Federal Trade Commission, Hitachi's 3.5" HDD division was sold to Toshiba. The transaction was completed in March 2012.
+In January 2012, Hitachi announced it would stop producing televisions in Japan. In September 2012, Hitachi announced that it had invented a long-term data solution out of quartz glass that was capable of preserving information for millions of years. In October 2012, Hitachi agreed to acquire the United Kingdom-based nuclear energy company Horizon Nuclear Power, which plans to construct up to six nuclear power plants in the UK, from E.ON and RWE for £700 million. In November 2012, Hitachi and Mitsubishi Heavy Industries agreed to merge their thermal power generation businesses into a joint venture to be owned 65% by Mitsubishi Heavy Industries and 35% by Hitachi. The joint venture named Mitsubishi Hitachi Power Systems (MHPS) began operations in February 2014.
+In October 2015, Hitachi completed a deal with Johnson Controls to form a joint-venture that would takeover Hitachi's HVAC business. Hitachi maintained a 40% stake of the resulting company, Johnson Controls-Hitachi Air Conditioning. In May 2016, Hitachi announced it was investing $2.8 billion into its IoT interests.
+Following the Fukushima Daiichi nuclear disaster in 2011 and the extended temporary closure of most Japanese nuclear plants, Hitachi's nuclear business became unprofitable and in 2016 Hitachi CEO Toshiaki Higashihara argued Japan should consider a merger of the various competing nuclear businesses. Hitachi is taking for 2016 an estimated ¥65 billion write-off in value of a SILEX technology laser uranium enrichment joint venture with General Electric.
+In February 2017, Hitachi and Honda announced a partnership to develop, produce and sell motors for electric vehicles. Also in 2017, private equity firm KKR bought Hitachi Kokusai's (itself a subsidiary of Hitachi) semiconductor equipment division, becoming Kokusai Electric. In 2019, Applied Materials announced that it would acquire Kokusai Electric from KKR for US$2.2 billion. The deal was later terminated in 2021.
+In 2018, Hitachi stopped selling televisions in Japan because its market share had dropped to 1%, opting to sell Sony TVs through its existing dealer network.
+On March 14, 2018, Zoomdata announced its partnership with Hitachi INS Software to help develop big data analytics market in Japan.
+In December 2018, Hitachi Ltd. announced it would take over 80% of ABB Ltd.'s power grid division for $6.4 billion renaming it Hitachi-ABB Power Grids in the process.  In October 2021, the enterprise was rebranded Hitachi Energy.
+From 2008 to 2018, Hitachi has reduced the number of its listed group companies and consolidated subdiaries in Japan from 22 to 4 and around 400 to 202, respectively, through restructuring and sell-offs. It plans to become a company specializing in IT and infrastructure maintenance in the near future.
+In 2019, Hitachi sold its medical imaging business to Fujifilm for US$1.7 billion. Showa Denko bought Hitachi Chemical from Hitachi and other shareholders, at US$42.97 per share. Until then, Hitachi Chemical had been considered to be a core unit of the group. Hitachi also suspended the ABWR development by its British subsidiary Horizon Nuclear Power as it did not provide an adequate "economic rationality as a private enterprise" to proceed.
+In October 2019, the talks between Honda and Hitachi to consolidate their four automotive parts businesses, Showa, Nissin and Keihin of the former and the latter's Hitachi Automotive Systems, have reportedly begun, resulting in the creation of a "mega supplier" named Hitachi Astemo incorporated in January 2021.
+In September 2020, Hitachi abandoned plans to create nuclear power plants in Gloucestershire and Wales due to issues with funding due to the impact of COVID-19. In the same month, Hitachi Capital agreed to be bought by its second-largest shareholder, business partner, and former rival Mitsubishi UFJ Lease, which has invested in the Hitachi subsidiary in 2016.
+In November 2020, it announced that Hitachi Metals and Hitachi Construction Machinery, both being some of the last remaining listed subsidiaries, will likely be detached from the group according to the restructuring plan. In December, Hitachi sold a 60% stake in its overseas home appliance business to Turkish Arcelik for US$300 million.
+In December 2021, it was announced by OPG that they had selected GE-Hitachi to construct two BWRX-300 reactors at the Darlington site in Ontario, Canada. OPG and GE-Hitachi will be collaborating on the design, planning and preparation of license materials for the construction of Canada's first SMR which is planned to enter operation in 2028.
+Products and services
+Automotive systems
+Construction machinery
+Defense systems
+Digital media and consumer products
+Electronic systems and equipment
+Advanced materials
+Information and telecommunication systems
+Power systems
+Social infrastructure and industrial systems
+Others
+Subsidiaries
+Hitachi Vantara
+Hitachi Vantara is a wholly owned subsidiary of Hitachi which provides hardware, software and services to help companies manage their digital data. Its flagship products are the Virtual Storage Platform (for enterprise storage), Hitachi Unified Storage VM for large-sized companies, Hitachi Unified Storage for small and mid-sized companies, Hitachi Content Platform (archiving and cloud architecture), Hitachi Command Suite (for storage management), Hitachi TrueCopy and Hitachi Universal Replicator (for remote replication), and the Hitachi NAS Platform.
+Since September 19, 2017, Hitachi Data Systems (HDS) has become part of Hitachi Vantara, a new company that unifies the operations of Pentaho, Hitachi Data Systems and Hitachi Insight Group. The company name "Hitachi Data Systems" (HDS) and its logo is no longer used in the market. Hitachi Consulting, the group's international management and technology consulting subsidiary with headquarters in Dallas, Texas, was integrated with Hitachi Vantara in 2019.
+Hitachi Metals
+Among other things, Hitachi Metals supplies materials for aircraft engines and fuselage components (e.g. landing gear), along with finished components for same and other aerospace applications. It also provides materials, components and tools for the automotive and electronics industries. Among the Hitachi Metals facilities is Hitachi Metal Yasugi Works or Tatara Works, one of the oldest furnaces in Japan, famously featured as a main backdrop in Princess Mononoke, a Japanese animation film set in the Muromachi period.
+As of September 2020, Hitachi Metals is set to be divested as part of the long-term restructuring plan being executed by the group.
+Hitachi Rail
+Hitachi, Ltd. Railway Systems Business Unit, known as Hitachi Rail is the rolling stock and railway signalling manufacturing division of Hitachi.
+Hitachi built the first railway carriage in 1924 for the domestic japanese market and soon became one of the main railway suppliers in Japan. By 1964 Hitachi was one of only three companies that built the world’s first fleet of high-speed trains, the shinkansen. Hitachi Rail Europe (legally Hitachi Rail Limited) was established in London as the European headquarters of the company in 1999. Other subsidiaries are:
+The rail division delivered 120 CQ311 series railcars to MARTA from 1984 to 1988.
+Hitachi markets a general-purpose train known as the "A-train", which uses double-skin, friction-stir-welded aluminium body construction. Hitachi's products have included the designing and manufacturing of many Shinkansen models, including the N700 Series Shinkansen.
+On February 24, 2015, Hitachi agreed to purchase the Italian rolling stock manufacturer AnsaldoBreda and acquire Finmeccanica's stake in Ansaldo STS, the railway signaling division of Finmeccanica The purchase was completed later that year, at which point the company was renamed as Hitachi Rail Italy. Since then, Hitachi has obtained a majority stake in Ansaldo STS.
+Hitachi Monorail builds monorail systems with 10 built to date.
+In July 2020, Hitachi signed an exclusive agreement with Hyperdrive, a UK-based lithium-ion battery company, to bring battery-powered trains to the country.
+Late in 2021 Alstom announced the transfer of business relating to Bombardier Zefiro to Hitachi Rail and should be completed in early 2022.
+Late 2022 Hitachi Rail won the contract to supply train sets for Ontario Line being planned in Toronto.
+Hitachi Astemo
+Hitachi Astemo, which stands for "Advanced Sustainable Technologies for Mobility", is a 67-33 joint venture between Hitachi and Honda, which merged their four auto parts affiliates and division, the latter's three keiretsu companies Showa Corporation, Keihin Corporation, and Nissin Kogyo, and the former's wholly owned Hitachi Automotive Systems, to be better equipped for the changing car market environment, frequently represented as CASE, for which they will integrate their assets to accelerate development of new technology and software.
+Hitachi Astemo is considered a "mega supplier", as annual sales of the four predecessors combined stood at $17 billion, placing it as the second largest among the compatriot auto suppliers.
+Other subsidiaries
+The rest of the group companies include:
+Discontinued or divested businesses
+Hitachi Capital
+Bought by Mitsubishi, it had been the group's financial business arm.
+Hitachi Works
+Spin-off entities from Hitachi Works include Hitachi Cable (1956) and Hitachi Canadian Industries Limited (founded 1988 in Saskatoon and closed in 2016 as Mitsubishi-Hitachi Power Systems).
+As Hitachi pulled out of MHPS and handed over the control to MHI, Hitachi Works was also transferred, becoming part of Mitsubishi Power.
+Others
+Other former businesses Hitachi had had include the following:
+Philanthropy
+In August 2011, it was announced that Hitachi would donate an electron microscope to each of five universities in Indonesia (the University of North Sumatra in Medan, the Indonesian Christian University in Jakarta, Padjadjaran University in Bandung, General Soedirman University in Purwokerto and Muhammadiyah University in Malang).
+See also
+Notes

@@ -1,0 +1,28 @@
+Amis language
+Amis (Sowal no 'Amis or Pangcah) is a Formosan language of the Amis (or Ami), an indigenous people living along the east coast of Taiwan. Currently the largest of the Formosan languages, it is spoken from Hualien in the north to Taitung in the south, with another population in the Hengchun Peninisula near the southern end of the island, though the northern varieties are considered to be separate languages.
+Government services in counties where many Amis people live in Taiwan, such as the Hualien and Taitung railway stations, broadcast in Amis alongside Mandarin. However, few Amis under the age of 20 in 1995 spoke the language. It is not known how many of the 200,000 ethnic Amis speak the language, but overall a third of the aboriginal Taiwanese population do.
+Dialects
+Amis is a dialect cluster. There are five dialects: Southern Amis, Tavalong-Vataan, Central Amis, Chengkung-Kwangshan, and Northern Amis (Nanshi Amis, which includes Nataoran).
+Sakizaya is a moribund language spoken among the northernmost ethnic Amis but is mutually unintelligible with the Northern Amis dialect.
+Phonology
+The following discussion covers the central dialect of Amis.
+Consonants
+The voiceless plosives /p t k ʡ/ and the affricate /t͡s/ are released in clusters, so that cecay "one" is pronounced [t͡sᵊt͡saj]; as is /s/: sepat "four" is [sᵊpatʰ]. The glottal stop is an exception, frequently having no audible release in final position. The voiced fricatives, /v ɮ ɣ/ (the latter found only in loanwords) are devoiced to [f ɬ x] in utterance-final and sometimes initial position. /ɮ/ may be interdental or post-dental. The sibilants, /t͡s s/, are optionally palatalized ([t͡ɕ ɕ]) before /i/. /j/ does not occur in word-initial position. /ɺ/ is often post-alveolar, and in final position it is released: [ʡuʡuɺ̠ᵊ] "fog".
+/ɮ/ shows dramatic dialectal variation. In Fengbin, a town in the center of Amis territory, it is pronounced as a central dental fricative, [ð̪], whereas in the town of Kangko, only 15 km (9.3 mi) away, it is a lateral [ɮ̪]. In Northern Amis, it is a plosive [d̪], which may be laxed to [ð̪] intervocalically. The epiglottals are also reported to have different pronunciations in the north, but the descriptions are contradictory. In Central Amis, /ʜ/ is always voiceless and /ʡ/ is often accompanied by vibrations that suggest it involves an epiglottal trill [ʢ]. Edmondson and Elsing report that these are true epiglottals initially and medially, but in utterance-final position they are epiglotto–pharyngeal.
+Sakizaya, considered to be a separate language, contrasts a voiced /z/ with voiceless /s/.
+In the practical orthography, /ts/ is written ⟨c⟩, /j/ ⟨y⟩, /ʡ/ ⟨'⟩, /ʔ/ ⟨^⟩, /ɮ/ ⟨d⟩, /ŋ/ ⟨ng⟩, and /ʜ/ ⟨x⟩.
+Vowels
+Amis has three common vowels, /i a u/. Despite the fact that a great deal of latitude is afforded by only needing to distinguish three vowels, Amis vowels stay close to their cardinal values, though there is more movement of /a/ and /u/ toward each other (tending to the [o] range) than there is in front-vowel space (in the [e] range).
+A voiceless epenthetic schwa optionally breaks up consonant clusters, as noted above. However, there are a small number of words where a short schwa (written e) may be phonemic. However, no contrast involving the schwa is known, and if it is also epenthetic, then Amis has words with no phonemic vowels at all. Examples of this e are malmes "sad", pronounced [maɺə̆mːə̆s], and ’nem "six", pronounced [ʡnə̆m] or [ʡə̆nə̆m].
+Examples of words
+Grammar
+Verbs in the Amis language have some inflections including existential clause, active voice, passive voice, disposal sentence, imperative mood, optative mood, and prohibitive mood.
+Case markers
+Cases are marked by case particles.
+Syntax
+There are two word orders in Amis called "General" Word Order and "Special" Word Order.
+Below are some examples of Amis sentence:
+Example
+Example
+Toponyms
+Sing ’Olam (2011:300–301) lists the following Amis names for villages and towns in Hualien County and Taitung County of eastern Taiwan.

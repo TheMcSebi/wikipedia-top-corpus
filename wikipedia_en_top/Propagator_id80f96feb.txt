@@ -1,0 +1,135 @@
+Propagator
+In quantum mechanics and quantum field theory, the propagator is a function that specifies the probability amplitude for a particle to travel from one place to another in a given period of time, or to travel with a certain energy and momentum. In Feynman diagrams, which serve to calculate the rate of collisions in quantum field theory, virtual particles contribute their propagator to the rate of the scattering event described by the respective diagram. These may also be viewed as the inverse of the wave operator appropriate to the particle, and are, therefore, often called (causal) Green's functions (called "causal" to distinguish it from the elliptic Laplacian Green's function).
+Non-relativistic propagators
+In non-relativistic quantum mechanics, the propagator gives the probability amplitude for a particle to travel from one spatial point (x') at one time (t') to another spatial point (x) at a later time (t).
+Consider a system with Hamiltonian H. The Green's function (fundamental solution) for the Schrödinger equation is a function
+satisfying
+where Hx denotes the Hamiltonian written in terms of the x coordinates, δ(x) denotes the Dirac delta-function, Θ(t) is the Heaviside step function and K(x, t ;x′, t′) is the kernel of the above Schrödinger differential operator in the big parentheses. The term propagator is sometimes used in this context to refer to G, and sometimes to K. This article will use the term to refer to K (see Duhamel's principle).
+This propagator may also be written as the transition amplitude
+where Û(t, t′) is the unitary time-evolution operator for the system taking states at time t′ to states at time t. Note the initial condition enforced by $MATH$.
+The quantum-mechanical propagator may also be found by using a path integral:
+where the boundary conditions of the path integral include q(t) = x, q(t′) = x′. Here L denotes the Lagrangian of the system. The paths that are summed over move only forwards in time and are integrated with the differential $MATH$ following the path in time.
+In non-relativistic quantum mechanics, the propagator lets one find the wave function of a system, given an initial wave function and a time interval. The new wave function is specified by the equation
+If K(x, t; x′, t′) only depends on the difference x − x′, this is a convolution of the initial wave function and the propagator.
+Basic examples: propagator of free particle and harmonic oscillator
+For a time-translationally invariant system, the propagator only depends on the time difference t − t′, so it may be rewritten as
+The propagator of a one-dimensional free particle, obtainable from, e.g., the path integral, is then
+$MATH$
+Similarly, the propagator of a one-dimensional quantum harmonic oscillator is the Mehler kernel,
+$MATH$
+The latter may be obtained from the previous free-particle result upon making use of van Kortryk's SU(1,1) Lie-group identity,
+valid for operators $MATH$ and $MATH$ satisfying the Heisenberg relation $MATH$.
+For the N-dimensional case, the propagator can be simply obtained by the product
+Relativistic propagators
+In relativistic quantum mechanics and quantum field theory the propagators are Lorentz-invariant. They give the amplitude for a particle to travel between two spacetime points.
+Scalar propagator
+In quantum field theory, the theory of a free (or non-interacting) scalar field is a useful and simple example which serves to illustrate the concepts needed for more complicated theories. It describes spin-zero particles. There are a number of possible propagators for free scalar field theory. We now describe the most common ones.
+Position space
+The position space propagators are Green's functions for the Klein–Gordon equation. This means that they are functions G(x, y) satisfying
+where
+(As typical in relativistic quantum field theory calculations, we use units where the speed of light c and Planck's reduced constant ħ are set to unity.)
+We shall restrict attention to 4-dimensional Minkowski spacetime. We can perform a Fourier transform of the equation for the propagator, obtaining
+This equation can be inverted in the sense of distributions, noting that the equation xf(x) = 1 has the solution (see Sokhotski–Plemelj theorem)
+with ε implying the limit to zero. Below, we discuss the right choice of the sign arising from causality requirements.
+The solution is
+$MATH$
+where 
+is the 4-vector inner product.
+The different choices for how to deform the integration contour in the above expression lead to various forms for the propagator. The choice of contour is usually phrased in terms of the $MATH$ integral.
+The integrand then has two poles at 
+so different choices of how to avoid these lead to different propagators.
+Retarded propagator
+A contour going clockwise over both poles gives the causal retarded propagator. This is zero if x-y is spacelike or if x ⁰< y ⁰ (i.e. if y is to the future of x).
+This choice of contour is equivalent to calculating the limit,
+Here 
+is the Heaviside step function and
+is the proper time from x to y and $MATH$ is a Bessel function of the first kind. The expression $MATH$ means y causally precedes x which, for Minkowski spacetime, means
+This expression can be related to the vacuum expectation value of the commutator of the free scalar field operator,
+where 
+is the commutator.
+Advanced propagator
+A contour going anti-clockwise under both poles gives the causal advanced propagator. This is zero if x-y is spacelike or if x ⁰> y ⁰ (i.e. if y is to the past of x).
+This choice of contour is equivalent to calculating the limit
+This expression can also be expressed in terms of the vacuum expectation value of the commutator of the free scalar field.
+In this case,
+Feynman propagator
+A contour going under the left pole and over the right pole gives the Feynman propagator, introduced by Richard Feynman in 1948.
+This choice of contour is equivalent to calculating the limit
+Here
+where x  and y are two points in Minkowski spacetime, and the dot in the exponent is a four-vector inner product. H1(1) is a Hankel function and K1 is a modified Bessel function.
+This expression can be derived directly from the field theory as the vacuum expectation value of the time-ordered product of the free scalar field, that is, the product always taken such that the time ordering of the spacetime points is the same,
+This expression is Lorentz invariant, as long as the field operators commute with one another when the points x and y are separated by a spacelike interval.
+The usual derivation is to insert a complete set of single-particle momentum states between the fields with Lorentz covariant normalization, and then to show that the Θ functions providing the causal time ordering may be obtained by a contour integral along the energy axis, if the integrand is as above (hence the infinitesimal imaginary part), to move the pole off the real line.
+The propagator may also be derived using the path integral formulation of quantum theory.
+Momentum space propagator
+The Fourier transform of the position space propagators can be thought of as propagators in momentum space. These take a much simpler form than the position space propagators.
+They are often written with an explicit ε term although this is understood to be a reminder about which integration contour is appropriate (see above). This ε term is included to incorporate boundary conditions and causality (see below).
+For a 4-momentum p the causal and Feynman propagators in momentum space are:
+For purposes of Feynman diagram calculations, it is usually convenient to write these with an additional overall factor of −i (conventions vary).
+Faster than light?
+The Feynman propagator has some properties that seem baffling at first. In particular, unlike the commutator, the propagator is nonzero outside of the light cone, though it falls off rapidly for spacelike intervals. Interpreted as an amplitude for particle motion, this translates to the virtual particle travelling faster than light. It is not immediately obvious how this can be reconciled with causality: can we use faster-than-light virtual particles to send faster-than-light messages?
+The answer is no: while in classical mechanics the intervals along which particles and causal effects can travel are the same, this is no longer true in quantum field theory, where it is commutators that determine which operators can affect one another.
+So what does the spacelike part of the propagator represent? In QFT the vacuum is an active participant, and particle numbers and field values are related by an uncertainty principle; field values are uncertain even for particle number zero. There is a nonzero probability amplitude to find a significant fluctuation in the vacuum value of the field Φ(x) if one measures it locally (or, to be more precise, if one measures an operator obtained by averaging the field over a small region). Furthermore, the dynamics of the fields tend to favor spatially correlated fluctuations to some extent. The nonzero time-ordered product for spacelike-separated fields then just measures the amplitude for a nonlocal correlation in these vacuum fluctuations, analogous to an EPR correlation.  Indeed, the propagator is often called a two-point correlation function for the free field.
+Since, by the postulates of quantum field theory, all observable operators commute with each other at spacelike separation, messages can no more be sent through these correlations than they can through any other EPR correlations; the correlations are in random variables.
+Regarding virtual particles, the propagator at spacelike separation can be thought of as a means of calculating the amplitude for creating a virtual particle-antiparticle pair that eventually disappears into the vacuum, or for detecting a virtual pair emerging from the vacuum.  In Feynman's language, such creation and annihilation processes are equivalent to a virtual particle wandering backward and forward through time, which can take it outside of the light cone.  However, no signaling back in time is allowed.
+Explanation using limits
+This can be made clearer by writing the propagator in the following form for a massless photon:
+This is the usual definition but normalised by a factor of $MATH$. Then the rule is that one only takes the limit $MATH$ at the end of a calculation.
+One sees that 
+and
+Hence this means that a single photon will always stay on the light cone. It is also shown that the total probability for a photon at any time must be normalised by the reciprocal of the following factor:
+We see that the parts outside the light cone usually are zero in the limit and only are important in Feynman diagrams.
+Propagators in Feynman diagrams
+The most common use of the propagator is in calculating probability amplitudes for particle interactions using Feynman diagrams.  These calculations are usually carried out in momentum space. In general, the amplitude gets a factor of the propagator for every internal line, that is, every line that does not represent an incoming or outgoing particle in the initial or final state. It will also get a factor proportional to, and similar in form to, an interaction term in the theory's Lagrangian for every internal vertex where lines meet.  These prescriptions are known as Feynman rules.
+Internal lines correspond to virtual particles. Since the propagator does not vanish for combinations of energy and momentum disallowed by the classical equations of motion, we say that the virtual particles are allowed to be off shell. In fact, since the propagator is obtained by inverting the wave equation, in general, it will have singularities on shell.
+The energy carried by the particle in the propagator can even be negative. This can be interpreted simply as the case in which, instead of a particle going one way, its antiparticle is going the other way, and therefore carrying an opposing flow of positive energy.  The propagator encompasses both possibilities.  It does mean that one has to be careful about minus signs for the case of fermions, whose propagators are not even functions in the energy and momentum (see below).
+Virtual particles conserve energy and momentum. However, since they can be off shell, wherever the diagram contains a closed loop, the energies and momenta of the virtual particles participating in the loop will be partly unconstrained, since a change in a quantity for one particle in the loop can be balanced by an equal and opposite change in another. Therefore, every loop in a Feynman diagram requires an integral over a continuum of possible energies and momenta. In general, these integrals of products of propagators can diverge, a situation that must be handled by the process of renormalization.
+Spin 1⁄2
+If the particle possesses spin then its propagator is in general somewhat more complicated, as it will involve the particle's spin or polarization indices. The differential equation satisfied by the propagator for a spin 1⁄2 particle is given by
+where I4 is the unit matrix in four dimensions, and employing the Feynman slash notation. This is the Dirac equation for a delta function source in spacetime. Using the momentum representation,
+the equation becomes
+where on the right-hand side an integral representation of the four-dimensional delta function is used. Thus
+By multiplying from the left with
+(dropping unit matrices from the notation) and using properties of the gamma matrices,
+the momentum-space propagator used in Feynman diagrams for a Dirac field representing the electron in quantum electrodynamics is found to have form
+The iε downstairs is a prescription for how to handle the poles in the complex p0-plane. It automatically yields the Feynman contour of integration by shifting the poles appropriately. It is sometimes written
+for short. It should be remembered that this expression is just shorthand notation for (γμpμ − m)−1. "One over matrix" is otherwise nonsensical. In position space one has
+This is related to the Feynman propagator by
+where $MATH$ :=\gamma ^{\mu }\partial _{\mu }}
+  
+.
+Spin 1
+The propagator for a gauge boson in a gauge theory depends on the choice of convention to fix the gauge. For the gauge used by Feynman and Stueckelberg, the propagator for a photon is
+The general form with gauge parameter λ, up to overall sign and the factor of $MATH$, reads
+The propagator for a massive vector field can be derived from the Stueckelberg Lagrangian. The general form with gauge parameter λ, up to overall sign and the factor of $MATH$, reads
+With these general forms one obtains the propagators in unitary gauge for λ = 0, the propagator in Feynman or 't Hooft gauge for λ = 1 and in Landau or Lorenz gauge for λ = ∞. There are also other notations where the gauge parameter is the inverse of λ, usually denoted ξ (see Rξ gauges). The name of the propagator, however, refers to its final form and not necessarily to the value of the gauge parameter.
+Unitary gauge:
+Feynman ('t Hooft) gauge:
+Landau (Lorenz) gauge:
+Graviton propagator
+The graviton propagator for Minkowski space in general relativity is 
+where $MATH$ is the number of spacetime dimensions, $MATH$ is the transverse and traceless spin-2 projection operator and $MATH$ is a spin-0 scalar multiplet. 
+The graviton propagator for (Anti) de Sitter space is 
+where $MATH$ is the Hubble constant. Note that upon taking the limit $MATH$ and $MATH$, the AdS propagator reduces to the Minkowski propagator.
+Related singular functions
+The scalar propagators are Green's functions for the Klein–Gordon equation. There are related singular functions which are important in quantum field theory. We follow the notation in Bjorken and Drell. See also Bogolyubov and Shirkov (Appendix A). These functions are most simply defined in terms of the vacuum expectation value of products of field operators.
+Pauli–Jordan function
+The commutator of two scalar field operators defines the Pauli–Jordan function $MATH$ by
+with
+This satisfies 
+and is zero if $MATH$.
+Positive and negative frequency parts (cut propagators)
+We can define the positive and negative frequency parts of $MATH$, sometimes called cut propagators,  in a relativistically invariant way.
+This allows us to define the positive frequency part:
+and the negative frequency part:
+These satisfy
+and
+Auxiliary function
+The anti-commutator of two scalar field operators defines $MATH$ function by
+with
+This satisfies $MATH$
+Green's functions for the Klein–Gordon equation
+The retarded, advanced and Feynman propagators defined above are all Green's functions for the Klein–Gordon equation.
+They are related to the singular functions by
+where $MATH$ is the sign of $MATH$.
+Notes

@@ -1,0 +1,19 @@
+Blink (browser engine)
+Blink is a browser engine developed as part of the Chromium project with contributions from Google, Meta, Microsoft, Opera Software, Adobe, Intel, IBM, Samsung, and others. It was first announced in April 2013.
+Naming
+Blink's naming was influenced by the non-standard presentational blink HTML element, which was introduced by Netscape Navigator and supported by Presto- and Gecko-based browsers until August 2013. Blink has, contrary to its name, never functionally supported the element.
+History
+Blink is a fork of the WebCore component of WebKit, which was originally a fork of the KHTML and KJS libraries from KDE.
+It is used in Chrome starting at version 28, Microsoft Edge starting at version 79, Opera (15+), Vivaldi, Brave, Amazon Silk and other Chromium-based browsers and frameworks.
+Much of WebCore's code was used for features that Google Chrome implemented differently such as sandboxing and the multi-process model. These parts were altered for the Blink fork, and although slightly bulkier, it allowed greater flexibility for adding new features. The fork also deprecates CSS vendor prefixes; existing prefixes will be phased out and new experimental functionality will instead be enabled on an opt-in basis. Aside from these planned changes, Blink initially remained relatively similar to WebCore.
+By commit count, Google was the largest contributor to the WebKit code base from late 2009 until 2013 when they started work on their fork, Blink.
+Internals
+Blink engine has the following components:
+Public API
+Internally, public API of the Blink doesn't rely entirely on the C++ Standard Template Library. Instead, it uses its own implementation.
+Frameworks
+Several projects exist to turn Chromium's Blink into a reusable software framework for other developers:
+Platforms
+Chromium Blink is implemented on seven platforms: Windows, macOS, Linux, ChromeOS, Fuchsia, Android, and Android WebView.
+Blink is also unofficially supported on FreeBSD and OpenBSD.
+iOS versions of Chromium continue to use the WebKit WebCore renderer.

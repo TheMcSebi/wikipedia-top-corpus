@@ -1,0 +1,63 @@
+Beta function
+In mathematics, the beta function, also called the Euler integral of the first kind, is a special function that is closely related to the gamma function and to binomial coefficients. It is defined by the integral
+for complex number inputs 
+$MATH$ such that $MATH$.
+The beta function was studied by Leonhard Euler and Adrien-Marie Legendre and was given its name by Jacques Binet; its symbol Β is a Greek capital beta.
+Properties
+The beta function is symmetric, meaning that
+$MATH$ for all inputs $MATH$ and $MATH$.
+A key property of the beta function is its close relationship to the gamma function:
+A proof is given below in § Relationship to the gamma function.
+The beta function is also closely related to binomial coefficients. When m (or n, by symmetry) is a positive integer, it follows from the definition of the gamma function Γ that
+Relationship to the gamma function
+A simple derivation of the relation $MATH$ can be found in Emil Artin's book The Gamma Function, page 18–19.
+To derive this relation, write the product of two factorials as
+Changing variables by u = st and v = s(1 − t) produces
+Dividing both sides by $MATH$ gives the desired result.  
+The stated identity may be seen as a particular case of the identity for the integral of a convolution. Taking
+one has:
+Derivatives
+We have
+where $MATH$ denotes the Polygamma function.
+Approximation
+Stirling's approximation gives the asymptotic formula
+for large x and large y. If on the other hand x is large and y is fixed, then
+Other identities and formulas
+The integral defining the beta function may be rewritten in a variety of ways, including the following:
+where in the second-to-last identity n is any positive real number. One may move from the first integral to the second one by substituting $MATH$.
+The beta function can be written as an infinite sum
+and as an infinite product
+The beta function satisfies several identities analogous to corresponding identities for binomial coefficients, including a version of Pascal's identity
+and a simple recurrence on one coordinate: 
+The positive integer values of the beta function are also the partial derivatives of a 2D function: for all nonnegative integers $MATH$ and $MATH$,
+where
+The Pascal-like identity above implies that this function is a solution to the first-order partial differential equation
+For $MATH$, the beta function may be written in terms of a convolution involving the truncated power function $MATH$:
+Evaluations at particular points may simplify significantly; for example, 
+and
+By taking $MATH$ in this last formula, it follows that $MATH$.
+Generalizing this into a bivariate identity for a product of beta functions leads to:
+Euler's integral for the beta function may be converted into an integral over the Pochhammer contour C as
+This Pochhammer contour integral converges for all values of α and β and so gives the analytic continuation of the beta function.
+Just as the gamma function for integers describes factorials, the beta function can define a binomial coefficient after adjusting indices:
+Moreover, for integer n, Β can be factored to give a closed form interpolation function for continuous values of k:
+Reciprocal beta function
+The reciprocal beta function is the function about the form
+Interestingly, their integral representations closely relate as the definite integral of trigonometric functions with product of its power and multiple-angle:
+Incomplete beta function
+The incomplete beta function, a generalization of the beta function, is defined as
+For x = 1, the incomplete beta function coincides with the complete beta function. The relationship between the two functions is like that between the gamma function and its generalization the incomplete gamma function.  For positive integer a and b, the incomplete beta function will be a polynomial of degree a + b - 1 with rational coefficients.   
+The regularized incomplete beta function (or regularized beta function for short) is defined in terms of the incomplete beta function and the complete beta function:
+The regularized incomplete beta function is the cumulative distribution function of the beta distribution, and is related to the cumulative distribution function $MATH$ of a random variable X following a binomial distribution with probability of single success p and number of Bernoulli trials n:
+Properties
+Multivariate beta function
+The beta function can be extended to a function with more than two arguments:
+This multivariate beta function is used in the definition of the Dirichlet distribution.  Its relationship to the beta function is analogous to the relationship between multinomial coefficients and binomial coefficients. For example, it satisfies a similar version of Pascal's identity:
+Applications
+The beta function is useful in computing and representing the scattering amplitude for Regge trajectories. Furthermore, it was the first known scattering amplitude in string theory, first conjectured by Gabriele Veneziano. It also occurs in the theory of the preferential attachment process, a type of stochastic urn process. The beta function is also important in statistics, e.g. for the Beta distribution and Beta prime distribution. As briefly alluded to previously, the beta function is closely tied with the gamma function and plays an important role in calculus.
+Software implementation
+Even if unavailable directly, the complete and incomplete beta function values can be calculated using functions commonly included in spreadsheet or computer algebra systems. 
+In Microsoft Excel, for example, the complete beta function can be computed with the GammaLn function (or special.gammaln in Python's SciPy package):
+This result follows from the properties listed above.
+The incomplete beta function cannot be directly computed using such relations and other methods must be used. In GNU Octave, it is computed using a continued fraction expansion.
+The incomplete beta function has existing implementation in common languages. For instance, betainc (incomplete beta function) in MATLAB and GNU Octave, pbeta (probability of beta distribution) in R, or special.betainc in SciPy compute the regularized incomplete beta function—which is, in fact, the cumulative beta distribution—and so, to get the actual incomplete beta function, one must multiply the result of betainc by the result returned by the corresponding beta function. In Mathematica, Beta[x, a, b] and BetaRegularized[x, a, b] give $MATH$ and $MATH$, respectively.

@@ -1,0 +1,62 @@
+Poisson's ratio
+In materials science and solid mechanics, Poisson's ratio $MATH$ (nu) is a measure of the Poisson effect, the deformation (expansion or contraction) of a material in directions perpendicular to the specific direction of loading. The value of Poisson's ratio is the negative of the ratio of transverse strain to axial strain. For small values of these changes, $MATH$ is the amount of transversal elongation divided by the amount of axial compression. Most materials have Poisson's ratio values ranging between 0.0 and 0.5. For soft materials, such as rubber, where the bulk modulus is much higher than the shear modulus, Poisson's ratio is near 0.5. For open-cell polymer foams, Poisson's ratio is near zero, since the cells tend to collapse in compression. Many typical solids have Poisson's ratios in the range of 0.2–0.3. The ratio is named after the French mathematician and physicist Siméon Poisson.
+Origin
+Poisson's ratio is a measure of the Poisson effect, the phenomenon in which a material tends to expand in directions perpendicular to the direction of compression. Conversely, if the material is stretched rather than compressed, it usually tends to contract in the directions transverse to the direction of stretching. It is a common observation when a rubber band is stretched, it becomes noticeably thinner. Again, the Poisson ratio will be the ratio of relative contraction to relative expansion and will have the same value as above. In certain rare cases, a material will actually shrink in the transverse direction when compressed (or expand when stretched) which will yield a negative value of the Poisson ratio.
+The Poisson's ratio of a stable, isotropic, linear elastic material must be between −1.0 and +0.5 because of the requirement for Young's modulus, the shear modulus and bulk modulus to have positive values. Most materials have Poisson's ratio values ranging between 0.0 and 0.5. A perfectly incompressible isotropic material deformed elastically at small strains would have a Poisson's ratio of exactly 0.5. Most steels and rigid polymers when used within their design limits (before yield) exhibit values of about 0.3, increasing to 0.5 for post-yield deformation which occurs largely at constant volume. Rubber has a Poisson ratio of nearly 0.5. Cork's Poisson ratio is close to 0, showing very little lateral expansion when compressed and glass is between 0.18 and 0.30. Some materials, e.g. some polymer foams, origami folds, and certain cells can exhibit negative Poisson's ratio, and are referred to as auxetic materials. If these auxetic materials are stretched in one direction, they become thicker in the perpendicular direction. In contrast, some anisotropic materials, such as carbon nanotubes, zigzag-based folded sheet materials, and honeycomb auxetic metamaterials to name a few, can exhibit one or more Poisson's ratios above 0.5 in certain directions.
+Assuming that the material is stretched or compressed in only one direction (the x axis in the diagram below):
+where
+and positive strain indicates extension and negative strain indicates contraction.
+Poisson's ratio from geometry changes
+Length change
+For a cube stretched in the x-direction (see Figure 1) with a length increase of $MATH$ in the x direction, and a length decrease of $MATH$ in the y and z directions, the infinitesimal diagonal strains are given by
+If Poisson's ratio is constant through deformation, integrating these expressions and using the definition of Poisson's ratio gives
+Solving and exponentiating, the relationship between $MATH$ and $MATH$ is then
+For very small values of $MATH$ and $MATH$, the first-order approximation yields:
+Volumetric change
+The relative change of volume ΔV/V of a cube due to the stretch of the material can now be calculated. Using $MATH$ and $MATH$:
+Using the above derived relationship between $MATH$ and $MATH$:
+and for very small values of $MATH$ and $MATH$, the first-order approximation yields:
+For isotropic materials we can use Lamé's relation
+where $MATH$ is bulk modulus and $MATH$ is Young's modulus.
+Width change
+If a rod with diameter (or width, or thickness) d and length L is subject to tension so that its length will change by ΔL then its diameter d will change by:
+The above formula is true only in the case of small deformations; if deformations are large then the following (more precise) formula can be used:
+where
+The value is negative because it decreases with increase of length
+Characteristic materials
+Isotropic
+For a linear isotropic material subjected only to compressive (i.e. normal) forces, the deformation of a material in the direction of one axis will produce a deformation of the material along the other axis in three dimensions. Thus it is possible to generalize Hooke's Law (for compressive forces) into three dimensions:
+where:
+these equations can be all synthesized in the following:
+In the most general case, also shear stresses will hold as well as normal stresses, and the full generalization of Hooke's law is given by:
+where $MATH$ is the Kronecker delta. The Einstein notation is usually adopted:
+to write the equation simply as:
+Anisotropic
+For anisotropic materials, the Poisson ratio depends on the direction of extension and transverse deformation
+Here $MATH$ is Poisson's ratio, $MATH$ is Young's modulus, $MATH$ is unit vector directed along the direction of extension, $MATH$ is unit vector directed perpendicular to the direction of extension. Poisson's ratio has a different number of special directions depending on the type of anisotropy.
+Orthotropic
+Orthotropic materials have three mutually perpendicular planes of symmetry in their material properties. An example is wood, which is most stiff (and strong) along the grain, and less so in the other directions.
+Then Hooke's law can be expressed in matrix form as
+where
+The Poisson ratio of an orthotropic material is different in each direction (x, y and z).  However, the symmetry of the stress and strain tensors implies that not all the six Poisson's ratios in the equation are independent.  There are only nine independent material properties: three elastic moduli, three shear moduli, and three Poisson's ratios.  The remaining three Poisson's ratios can be obtained from the relations
+From the above relations we can see that if $MATH$ then $MATH$.  The larger Poisson's ratio (in this case $MATH$) is called the major Poisson's ratio while the smaller one (in this case $MATH$) is called the minor Poisson's ratio.  We can find similar relations between the other Poisson's ratios.
+Transversely isotropic
+Transversely isotropic materials have a plane of isotropy in which the elastic properties are isotropic.  If we assume that this plane of isotropy is $MATH$, then Hooke's law takes the form
+where we have used the plane of isotropy $MATH$ to reduce the number of constants, i.e., $MATH$.
+The symmetry of the stress and strain tensors implies that
+This leaves us with six independent constants $MATH$.  However, transverse isotropy gives rise to a further constraint between $MATH$ and $MATH$ which is
+Therefore, there are five independent elastic material properties two of which are Poisson's ratios.  For the assumed plane of symmetry, the larger of $MATH$ and $MATH$ is the major Poisson's ratio.  The other major and minor Poisson's ratios are equal.
+Poisson's ratio values for different materials
+Negative Poisson's ratio materials
+Some materials known as auxetic materials display a negative Poisson's ratio. When subjected to positive strain in a longitudinal axis, the transverse strain in the material will actually be positive (i.e. it would increase the cross sectional area). For these materials, it is usually due to uniquely oriented, hinged molecular bonds. In order for these bonds to stretch in the longitudinal direction, the hinges must ‘open’ in the transverse direction, effectively exhibiting a positive strain.
+This can also be done in a structured way and lead to new aspects in material design as for mechanical metamaterials.
+Studies have shown that certain solid wood types display negative Poisson's ratio exclusively during a compression creep test. Initially, the compression creep test shows positive Poisson's ratios, but gradually decreases until it reaches negative values. Consequently, this also shows that Poisson's ratio for wood is time-dependent during constant loading, meaning that the strain in the axial and transverse direction do not increase in the same rate.
+Media with engineered microstructure may exhibit negative Poisson's ratio. In a simple case auxeticity is obtained removing material and creating a periodic porous media. Lattices can reach lower values of Poisson's ratio, which can be indefinitely close to the limiting value −1 in the isotropic case.
+More than three hundred crystalline materials have negative Poisson's ratio. For example, Li, Na, K, Cu, Rb, Ag, Fe, Ni, Co, Cs, Au, Be, Ca, Zn Sr, Sb, MoS$MATH$ and other.
+Poisson function
+At finite strains, the relationship between the transverse and axial strains $MATH$ and $MATH$ is typically not well described by the Poisson ratio. In fact, the Poisson ratio is often considered a function of the applied strain in the large strain regime. In such instances, the Poisson ratio is replaced by the Poisson function, for which there are several competing definitions. Defining the transverse stretch $MATH$ and axial stretch $MATH$, where the transverse stretch is a function of the axial stretch (i.e., $MATH$) the most common are the Hencky, Biot, Green, and Almansi  functions
+Applications of Poisson's effect
+One area in which Poisson's effect has a considerable influence is in pressurized pipe flow. When the air or liquid inside a pipe is highly pressurized it exerts a uniform force on the inside of the pipe, resulting in a hoop stress within the pipe material. Due to Poisson's effect, this hoop stress will cause the pipe to increase in diameter and slightly decrease in length. The decrease in length, in particular, can have a noticeable effect upon the pipe joints, as the effect will accumulate for each section of pipe joined in series. A restrained joint may be pulled apart or otherwise prone to failure.
+Another area of application for Poisson's effect is in the realm of structural geology. Rocks, like most materials, are subject to Poisson's effect while under stress. In a geological timescale, excessive erosion or sedimentation of Earth's crust can either create or remove large vertical stresses upon the underlying rock. This rock will expand or contract in the vertical direction as a direct result of the applied stress, and it will also deform in the horizontal direction as a result of Poisson's effect. This change in strain in the horizontal direction can affect or form joints and dormant stresses in the rock.
+Although cork was historically chosen to seal wine bottle for other reasons (including its inert nature, impermeability, flexibility, sealing ability, and resilience), cork's Poisson's ratio of zero provides another advantage. As the cork is inserted into the bottle, the upper part which is not yet inserted does not expand in diameter as it is compressed axially. The force needed to insert a cork into a bottle arises only from the friction between the cork and the bottle due to the radial compression of the cork. If the stopper were made of rubber, for example, (with a Poisson's ratio of about 1/2), there would be a relatively large additional force required to overcome the radial expansion of the upper part of the rubber stopper.
+Most car mechanics are aware that it is hard to pull a rubber hose (e.g. a coolant hose) off a metal pipe stub, as the tension of pulling causes the diameter of the hose to shrink, gripping the stub tightly.  Hoses can more easily be pushed off stubs instead using a wide flat blade.

@@ -1,0 +1,28 @@
+Hartree atomic units
+The Hartree atomic units are a system of natural units of measurement which is especially convenient for atomic physics and computational chemistry calculations. They are named after the physicist Douglas Hartree. By definition, the following four fundamental physical constants may each be expressed as the numeric value 1 multiplied by a coherent unit of this system:
+Atomic units are often abbreviated "a.u." or "au", not to be confused with the same abbreviation used also for astronomical units, arbitrary units, and absorbance units in other contexts.
+Defining constants
+Each unit in this system can be expressed as a product of powers of four physical constants without a multiplying constant. This makes it a coherent system of units, as well as making the numerical values of the defining constants in atomic units equal to unity.
+As of the 2019 redefinition of the SI base units, the elementary charge $MATH$ and the Planck constant $MATH$ (and consequently also the reduced Planck constant $MATH$) are defined as having an exact numerical values in SI units.
+Five symbols are commonly used as units in this system, only four of them being independent:: 94–95 
+Units
+Below are listed units that can be derived in the system. A few are given names, as indicated in the table.
+Here,
+Use and notation
+Atomic units, like SI units, have a unit of mass, a unit of length, and so on. However, the use and notation is somewhat different from SI.
+Suppose a particle with a mass of m has 3.4 times the mass of electron. The value of m can be written in three ways:
+Physical constants
+Dimensionless physical constants retain their values in any system of units. Of note is the fine-structure constant $MATH$, which appears in expressions as a consequence of the choice of units. For example, the numeric value of the speed of light, expressed in atomic units, has a value related to the fine-structure constant.
+Bohr model in atomic units
+Atomic units are chosen to reflect the properties of electrons in atoms, which is particularly clear in the classical Bohr model of the hydrogen atom for the bound electron in its ground state:
+Non-relativistic quantum mechanics in atomic units
+In the context of atomic physics, nondimensionalization using the defining constants of the Hartree atomic system can be a convenient shortcut, since it can be thought of as eliminating these constants wherever they occur.  Nondimesionalization involves a substitution of variables that results in equations in which these constants ($MATH$, $MATH$, $MATH$ and $MATH$) "have been set to 1".  Though the variables are no longer the original variables, the same symbols and names are typically used.
+For example, the Schrödinger equation for an electron with quantities that use SI units is
+The same equation with corresponding nondimensionalized quantity definitions is
+For the special case of the electron around a hydrogen atom, the Hamiltonian with SI quantities is:
+while the corresponding nondimensionalized equation is
+Comparison with Planck units
+Both Planck units and atomic units are derived from certain fundamental properties of the physical world, and have little anthropocentric arbitrariness, but do still involve some arbitrary choices in terms of the defining constants. Atomic units were designed for atomic-scale calculations in the present-day universe, while Planck units are more suitable for quantum gravity and early-universe cosmology. Both atomic units and Planck units use the reduced Planck constant. Beyond this, Planck units use the two fundamental constants of general relativity and cosmology: the gravitational constant $MATH$ and the speed of light in vacuum, $MATH$. Atomic units, by contrast, use the mass and charge of the electron, and, as a result, the speed of light in atomic units is $MATH$ The orbital velocity of an electron around a small atom is of the order of 1 atomic unit, so the discrepancy between the velocity units in the two systems reflects the fact that electrons orbit small atoms by around 2 orders of magnitude more slowly than the speed of light.
+There are much larger differences for some other units. For example, the unit of mass in atomic units is the mass of an electron, while the unit of mass in Planck units is the Planck mass, which is 22 orders of magnitude larger than the atomic unit of mass. Similarly, there are many orders of magnitude separating the Planck units of energy and length from the corresponding atomic units.
+See also
+Notes and references

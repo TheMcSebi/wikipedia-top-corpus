@@ -1,0 +1,22 @@
+Coulomb
+The coulomb (symbol: C) is the unit of electric charge in the International System of Units (SI). In the present version of the SI it is equal to the electric charge delivered by a 1 ampere constant current in 1 second and to 5×1018/0.801088317 elementary charges, e, (about 6.241509×1018 e).
+Name and history
+The coulomb is named after Charles-Augustin de Coulomb. As with every SI unit named for a person, its symbol starts with an upper case letter (C), but when written in full it follows the rules for capitalisation of a common noun; i.e., "coulomb" becomes capitalised at the beginning of a sentence and in titles, but is otherwise in lower case.
+By 1878, the British Association for the Advancement of Science had defined the volt, ohm, and farad, but not the coulomb.  In 1881, the International Electrical Congress, now the International Electrotechnical Commission (IEC), approved the volt as the unit for electromotive force, the ampere as the unit for electric current, and the coulomb as the unit of electric charge.  
+At that time, the volt was defined as the potential difference [i.e., what is nowadays called the "voltage (difference)"] across a conductor when a current of one ampere dissipates one watt of power.
+The coulomb (later "absolute coulomb" or "abcoulomb" for disambiguation) was part of the EMU system of units. The "international coulomb" based on laboratory specifications for its measurement was introduced by the IEC in 1908. The entire set of "reproducible units" was abandoned in 1948 and the "international coulomb" became the modern coulomb.
+Definition
+The SI defines the coulomb in terms of the ampere and second: 1 C = 1 A × 1 s. 
+The ampere is defined by taking the fixed numerical value of the elementary charge e to be 1.602176634×10−19 coulombs. 
+The 2019 redefinition of the ampere and other SI base units fixed the numerical value of the elementary charge when expressed in coulombs, and therefore fixed the value of the coulomb when expressed as a multiple of the fundamental charge (the numerical values of those quantities are the multiplicative inverses of each other). 
+The ampere was previously defined in terms of two wires of infinite extent.
+One coulomb is the charge of approximately 6241509074460762607.776 elementary charges, where the number is the reciprocal of 1.602176634×10−19 C. This is also 160.2176634 zC of charge. 
+The exact value of 1 coulomb is
+elementary charges where $MATH$ and the numerator $MATH$ is a prime number.
+It is impossible to realize exactly 1 C of charge, since the number of elementary charges is not an integer. It is also impossible to realize charge at the yoctocoulomb scale.
+SI prefixes
+Like other SI units, the coulomb can be modified by adding a prefix that multiplies it by a power of 10.
+Conversions
+In everyday terms
+See also
+Notes and references

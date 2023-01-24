@@ -1,0 +1,14 @@
+Tributary
+A tributary, or affluent, is a stream or river that flows into a larger stream or main stem (or parent) river or a lake. A tributary does not flow directly into a sea or ocean. Tributaries and the main stem river drain the surrounding drainage basin of its surface water and groundwater, leading the water out into an ocean.
+The Irtysh is a chief tributary of the Ob river and is also the longest tributary river in the world with a length of 4,248 km (2,640 mi).
+The Madeira River is the largest tributary river by volume in the world with an average discharge of 31,200 m3/s (1.1 million cu ft/s).
+A confluence, where two or more bodies of water meet, usually refers to the joining of tributaries.
+The opposite to a tributary is a distributary, a river or stream that branches off from and flows away from the main stream. Distributaries are most often found in river deltas.
+Terminology
+"Right tributary", or "right-bank tributary", and "left tributary", or "left-bank tributary", are terms stating the orientation of the tributary relative to the flow of the main stem river. These terms are defined from the perspective of looking downstream (in the direction the water current of the main stem is going).
+An early tributary is a tributary that joins the main stem river closer to the main river's source than its end. Similarly, a "late tributary" joins the main river much further downstream, closer to the main river's end point.
+In the U.S., where tributaries sometimes have the same name as the river into which they feed, they are called forks. These are typically designated by compass direction. For example, the American River in California receives flow from its North, Middle, and South forks. The Chicago River's North Branch has the East, West, and Middle Fork; the South Branch has its South Fork, and used to have a West Fork as well (now filled in).
+Forks are sometimes designated as right or left. Here, the handedness is from the point of view of an observer facing upstream. For instance, Steer Creek has a left tributary which is called Right Fork Steer Creek.
+Ordering and enumeration
+Tributaries are sometimes listed starting with those nearest to the source of the river and ending with those nearest to the mouth of the river. The Strahler stream order examines the arrangement of tributaries in a hierarchy of first, second, third and higher orders, with the first-order tributary being typically the least in size. For example, a second-order tributary would be the result of two or more first-order tributaries combining to form the second-order tributary.
+Another method is to list tributaries from mouth to source, in the form of a tree structure, stored as a tree data structure.

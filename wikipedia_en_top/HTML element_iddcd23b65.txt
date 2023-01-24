@@ -1,0 +1,104 @@
+HTML element
+An HTML element is a type of HTML (HyperText Markup Language) document component, one of several types of HTML nodes (there are also text nodes, comment nodes and others). The first used version of HTML was written by Tim Berners-Lee in 1993 and there have since been many versions of HTML. The most commonly used version is HTML 4.01, which became official standard in December 1999. An HTML document is composed of a tree of simple HTML nodes, such as text nodes, and HTML elements, which add semantics and formatting to parts of document (e.g., make text bold, organize it into paragraphs, lists and tables, or embed hyperlinks and images). Each element can have HTML attributes specified. Elements can also have content, including other elements and text.
+Concepts
+Elements vs. tags
+As is generally understood, the position of an element is indicated as spanning from a start tag and is terminated by an end tag. This is the case for many, but not all, elements within an HTML document. The distinction is explicitly emphasised in HTML 4.01 Specification:
+Similarly the W3C Recommendation HTML 5.1 2nd Edition explicitly says:
+and:
+
+
+As HTML (before HTML5) is based on SGML, its parsing also depends on the Document Type Definition (DTD), specifically an HTML DTD (e.g. HTML 4.01). The DTD specifies which element types are possible (i.e. it defines the set of element types) and also the valid combinations in which they may appear in a document. It is part of general SGML behavior that, where only one valid structure is possible (per the DTD), its explicit statement in any given document is not generally required. As a simple example, the <p> tag indicating the start of a paragraph element should be complemented by a </p> tag indicating its end. But since the DTD states that paragraph elements cannot be nested, an HTML document fragment <p>Para 1 <p>Para 2 <p>Para 3is thus inferred to be equivalent to <p>Para 1 </p><p>Para 2 </p><p>Para 3. (If one paragraph element cannot contain another, any currently open paragraph must be closed before starting another.) Because this implication is based on the combination of the DTD and the individual document, it is not usually possible to infer elements from document tags alone but only by using an SGML—or HTML—aware parser with knowledge of the DTD. HTML5 creates a similar result by defining what tags can be omitted.
+SGML vs. XML
+SGML is complex, which has limited its widespread understanding and adoption. XML was developed as a simpler alternative. Although both can use the DTD to specify the supported elements and their permitted combinations as document structure, XML parsing is simpler. The relation from tags to elements is always that of parsing the actual tags included in the document, without the implied closures that are part of SGML.
+HTML as used on the current web is likely to be either treated as XML, by being XHTML, or as HTML5; in either case the parsing of document tags into Document Object Model (DOM) elements is simplified compared to legacy HTML systems. Once the DOM of elements is obtained, behavior at higher levels of interface (example: screen rendering) is identical or nearly so.
+%block; vs. box
+Part of this CSS presentation behavior is the notion of the "box model". This is applied to those elements that CSS considers to be "block" elements, set through the CSS display: block; declaration.
+HTML also has a similar concept, although different, and the two are very frequently confused. %block; and %inline; are groups within the HTML DTD that group elements as being either "block-level" or "inline". This is used to define their nesting behavior: block-level elements cannot be placed into an inline context. This behavior cannot be changed; it is fixed in the DTD. Block and inline elements have the appropriate and different CSS behaviors attached to them by default, including the relevance of the box model for particular element types.
+Note though that this CSS behavior can, and frequently is, changed from the default. Lists with <ul><li> ... are %block; elements and are presented as block elements by default. However, it is quite common to set these with CSS to display as an inline list.
+Overview
+Syntax
+In the HTML syntax, most elements are written with a start tag and an end tag, with the content in between. An HTML tag is composed of the name of the element, surrounded by angle brackets. An end tag also has a slash after the opening angle bracket, to distinguish it from the start tag. For example, a paragraph, which is represented by the <p> element, would be written as:
+However, not all of these elements require the end tag, or even the start tag, to be present.  Some elements, the so-called void elements, do not have an end tag. A typical example is the <br> (hard line-break) element. A void element's behavior is predefined, and it cannot contain any content or other elements. For example, an address would be written as:
+When using XHTML, it is required to open and close all elements, including void elements. This can be done by placing an end tag immediately after the start tag, but this is not legal in HTML 5 and will lead to two elements being created. An alternative way to specify that it is a void element, which is compatible with both XHTML and HTML 5, is to put a  / at the end of the tag (not to be confused with the / at the beginning of a closing tag).
+HTML attributes are specified inside the start tag. For example, the <abbr> element, which represents an abbreviation, expects a title attribute within its opening tag. This would be written as:
+Informally, HTML elements are sometimes referred to as "tags" (an example of synecdoche), though many prefer the term tag strictly in reference to the markup delimiting the start and end of an element.
+Element (and attribute) names may be written in any combination of upper or lower case in HTML, but must be in lower case in XHTML. The canonical form was upper-case until HTML 4, and was used in HTML specifications, but in recent years, lower-case has become more common.
+Types of element
+There are three kinds of HTML elements: normal elements, raw text elements, and void elements.
+Normal elements usually have both a start tag and an end tag, although for some elements the end tag, or both tags, can be omitted. It is constructed in a similar way:
+Raw text elements (also known as text or text-only elements) are constructed with:
+An example is the <title> element, which must not contain other elements (including markup of text), only plain text.
+Void elements (also sometimes called empty elements, single elements or stand-alone elements) only have a start tag (in the form <tag>), which contains any HTML attributes. They may not contain any children, such as text or other elements. For compatibility with XHTML, the HTML specification allows an optional space and slash (<tag /> is permissible). The slash is required in XHTML and other XML applications. Two common void elements are <br /> (for a hard line-break, such as in a poem or an address) and <hr /> (for a thematic break). Other such elements are often place-holders which reference external files, such as the image (<img />) element. The attributes included in the element will then point to the external file in question. Another example of a void element is <link />, for which the syntax is:
+This <link /> element points the browser at a style sheet to use when presenting the HTML document to the user. Note that in the HTML syntax attributes don't have to be quoted if they are composed only of certain characters: letters, digits, the hyphen-minus and the period. When using the XML syntax (XHTML), on the other hand, all attributes must be quoted, and a spaced trailing slash is required before the last angle bracket:
+Attributes
+HTML attributes define desired behavior or indicate additional element properties. Most attributes require a value. In HTML, the value can be left unquoted if it does not include spaces (attribute=value), or it can be quoted with single or double quotes (attribute='value' or attribute="value"). In XML, those quotes are required.Attributes are always written in opening tags in a html element. 
+Boolean attributes, on the other hand, do not require a value to be specified. An example is the checked for checkboxes:
+In the XML (and thus XHTML) syntax, though, a value is required, and the name should be repeated as the value:
+Element standards
+HTML elements are defined in a series of freely available open standards issued since 1995, initially by the IETF and subsequently by the W3C.
+During the browser wars of the 1990s, developers of user agents (e.g. web browsers) often developed their own elements, some of which have been adopted in later standards. Other user agents may not recognize non-standard elements, and they will be ignored, possibly causing the page to be displayed improperly.
+In 1998, XML (a simplified form of SGML) introduced mechanisms to allow anyone to develop their own elements and incorporate them in XHTML documents, for use with XML-aware user agents.
+Subsequently, HTML 4.01 was rewritten in an XML-compatible form, XHTML 1.0 (eXtensible HTML). The elements in each are identical, and in most cases valid XHTML 1.0 documents will be valid or nearly valid HTML 4.01 documents. This article mainly focuses on real HTML, unless noted otherwise; however, it remains applicable to XHTML. See HTML for a discussion of the minor differences between the two.
+Element status
+Since the first version of HTML, several elements have become outmoded, and are deprecated in later standards, or do not appear at all, in which case they are invalid (and will be found invalid, and perhaps not displayed, by validating user agents).
+In HTML 4.01 / XHTML 1.0, the status of elements is complicated by the existence of three types of DTD:
+HTML5 instead provides a listing of obsolete features to go along with the standardized normative content. They are broken down into "obsolete but conforming" for which implementation instructions exist and "non-conforming" ones that should be replaced.
+The first Standard (HTML 2.0) contained four deprecated elements, one of which was invalid in HTML 3.2. All four are invalid in HTML 4.01 Transitional, which also deprecated a further ten elements. All of these, plus two others, are invalid in HTML 4.01 Strict. While the frame elements are still current in the sense of being present in the Transitional and Frameset DTDs, there are no plans to preserve them in future standards, as their function has been largely replaced, and they are highly problematic for user accessibility.
+(Strictly speaking, the most recent XHTML standard, XHTML 1.1 (2001), does not include frames at all; it is approximately equivalent to XHTML 1.0 Strict, but also includes the Ruby markup module.)
+A common source of confusion is the loose use of deprecated to refer to both deprecated and invalid status, and to elements that are expected to be formally deprecated in the future.
+Content vs. presentation and behavior
+Since HTML 4, HTML has increasingly focused on the separation of content (the visible text and images) from presentation (like color, font size, and layout). This is often referred to as a separation of concerns. HTML is used to represent the structure or content of a document, its presentation remains the sole responsibility of CSS style sheets. A default style sheet is suggested as part of the CSS standard, giving a default rendering for HTML.
+Behavior (interactivity) is also kept separate from content, and is handled by scripts. Images are contained in separate graphics files, separate from text, though they can also be considered part of the content of a page.
+Separation of concerns allows the document to be presented by different user agents according to their purposes and abilities. For example, a user agent can select an appropriate style sheet to present a document by displaying on a monitor, printing on paper, or to determine speech characteristics in an audio-only user agent. The structural and semantic functions of the markup remain identical in each case.
+Historically, user agents did not always support these features. In the 1990s, as a stop-gap, presentational elements (like <b> and <i>) were added to HTML, at the cost of creating problems for interoperability and user accessibility. This is now regarded as outmoded and has been superseded by style sheet-based design; most presentational elements are now deprecated.
+External image files are incorporated with the <img /> or <object /> elements. (With XHTML, the SVG language can also be used to write graphics within the document, though linking to external SVG files is generally simpler.) Where an image is not purely decorative, HTML allows replacement content with similar semantic value to be provided for non-visual user agents.
+An HTML document can also be extended through the use of scripts to provide additional behaviors beyond the abilities of HTML hyperlinks and forms.
+The elements <style> and <script>, with related HTML attributes, provide style sheets and scripts.
+Document structure elements
+Document head elements
+Document body elements
+In visual browsers, displayable elements can be rendered as either block or inline. While all elements are part of the document sequence, block elements appear within their parent elements:
+Conversely, inline elements are treated as part of the flow of document text; they cannot have margins, width, or height set, and do break across lines.
+Block elements
+Block elements, or block-level elements, have a rectangular structure. By default, these elements will span the entire width of its parent element, and will thus not allow any other element to occupy the same horizontal space as it is placed on.
+The rectangular structure of a block element is often referred to as the box model, and is made up of several parts. Each element contains the following:
+The above section refers only to the detailed implementation of CSS rendering and has no relevance to HTML elements themselves.
+Basic text
+References
+Lists
+Other block elements
+Inline elements
+Inline elements cannot be placed directly inside the <body> element; they must be wholly nested within block-level elements.
+Anchor
+Phrase elements
+Phrase elements are used for marking up phrases and adding structure or semantic meaning to text fragments. For example, the <em> and <strong> tags can be used for adding emphasis to text.
+General
+Computer phrase elements
+These elements are useful primarily for documenting computer code development and user interaction through differentiation of source code (<code>), variables (<var>), user input (<kbd>), and terminal or other output (<samp>).
+Presentation
+As visual presentational markup only applies directly to visual browsers, its use is discouraged. Style sheets should be used instead. Several of these elements are deprecated or invalid in HTML 4 / XHTML 1.0, and the remainder are invalid in the current draft of XHTML 2.0. The current draft of HTML5, however, re-includes <s>, <u>, and <small>, assigning new semantic meaning to each. In an HTML5 document, the use of these elements is no longer discouraged, provided that it is semantically correct.
+Span
+Other inline elements
+Images and objects
+Forms
+These elements can be combined into a form or in some instances used separately as user-interface controls; in the document, they can be simple HTML or used in conjunction with Scripts. HTML markup specifies the elements that make up a form, and the method by which it will be submitted. However, some form of scripts (server-side, client-side, or both) must be used to process the user's input once it is submitted.
+(These elements are either block or inline elements, but are collected here as their use is more restricted than other inline or block elements.)
+Tables
+The format of HTML Tables was proposed in the HTML 3.0 Drafts and the later RFC 1942 HTML Tables. They were inspired by the CALS Table Model. Some elements in these proposals were included in HTML 3.2; the present form of HTML Tables was standardized in HTML 4. (Many of the elements used within tables are neither block nor inline elements.)
+Frames
+Frames allow a visual HTML browser window to be split into segments, each of which can show a different document. This can lower bandwidth use, as repeating parts of a layout can be used in one frame, while variable content is displayed in another. This may come at a certain usability cost, especially in non-visual user agents, due to separate and independent documents (or websites) being displayed adjacent to each other and being allowed to interact with the same parent window. Because of this cost, frames (excluding the <iframe> element) are only allowed in HTML 4.01 Frame-set. Iframes can also hold documents on different servers. In this case the interaction between windows is blocked by the browser. Sites like Facebook and Twitter use iframes to display content (plugins) on third party websites. Google AdSense uses iframes to display banners on third party websites.
+In HTML 4.01, a document may contain a <head> and a <body> or a <head> and a <frameset>, but not both a <body> and a <frameset>. However, <iframe> can be used in a normal document body.
+longdesc attribute
+In HTML, longdesc is an attribute used within the <img />, <frame />, or <iframe> elements. It is supposed to be a URL to a document that provides a long description for the image, frame, or iframe in question. Note that this attribute should contain a URL, not – as is commonly mistaken – the text of the description itself.
+longdesc was designed to be used by screen readers to display image information for computer users with accessibility issues, such as the blind or visually impaired, and is widely implemented by both web browsers and screen readers. Some developers object that it is actually seldom used for this purpose because there are relatively few authors who use the attribute and most of those authors use it incorrectly; thus, they recommend deprecating longdesc. The publishing industry has responded, advocating the retention of longdesc.
+Example
+Content of description.html:
+Linking to the long description in the text
+Since very few graphical browsers support making the link available natively (Opera and iCab being the exceptions), it is useful to include a link to the description page near the <img /> element whenever possible, as this can also aid sighted users.
+Historic elements
+The following elements were part of the early HTML developed by Tim Berners-Lee from 1989 to 1991; they are mentioned in HTML Tags, but deprecated in HTML 2.0 and were never part of HTML standards.
+Non-standard elements
+This section lists some widely used obsolete elements, which means they are not used in valid code. They may not be supported in all user agents.
+Comments
+See also
+Notes

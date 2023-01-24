@@ -1,0 +1,100 @@
+Java version history
+The Java language has undergone several changes since JDK 1.0 as well as numerous additions of classes and packages to the standard library. Since J2SE 1.4, the evolution of the Java language has been governed by the Java Community Process (JCP), which uses Java Specification Requests (JSRs) to propose and specify additions and changes to the Java platform. The language is specified by the Java Language Specification (JLS); changes to the JLS are managed under JSR 901. In September 2017, Mark Reinhold, chief Architect of the Java Platform, proposed to change the release train to "one feature release every six months" rather than the then-current two-year schedule. This proposal took effect for all following versions, and is still the current release schedule.
+In addition to the language changes, other changes have been made to the Java Class Library over the years, which has grown from a few hundred classes in JDK 1.0 to over three thousand in J2SE 5. Entire new APIs, such as Swing and Java2D, have been introduced, and many of the original JDK 1.0 classes and methods have been deprecated. Some programs allow conversion of Java programs from one version of the Java platform to an older one (for example Java 5.0 backported to 1.4) (see Java backporting tools).
+Regarding Oracle Java SE Support Roadmap, version 19 is the latest one, and versions 17, 11 and 8 are the currently supported long-term support (LTS) versions, where Oracle Customers will receive Oracle Premier Support. Java 8 LTS the last free software public update for commercial use was released by Oracle in March 2022, while Oracle continues to release no-cost public Java 8 updates for development and personal use indefinitely. Java 7 is no longer publicly supported. For Java 11, long-term support will not be provided by Oracle for the public; instead, the broader OpenJDK community, as Eclipse Adoptium or others, is expected to perform the work.
+Java 17 the latest (3rd) LTS was released on September 14, 2021.
+Java 19 General Availability began on September 20, 2022.
+JDK 1.0
+The first version was released on January 23, 1996. The first stable version, JDK 1.0.2, is called Java 1.
+JDK 1.1
+Major additions in the release on February 19, 1997 included:
+J2SE 1.2
+The release on December 8, 1998 and subsequent releases through J2SE 5.0 were rebranded retrospectively Java 2 and the version name "J2SE" (Java 2 Platform, Standard Edition) replaced JDK to distinguish the base platform from J2EE (Java 2 Platform, Enterprise Edition) and J2ME (Java 2 Platform, Micro Edition). This was a very significant release of Java as it tripled the size of the Java platform to 1520 classes in 59 packages. Major additions included:
+J2SE 1.3
+The most notable changes in the May 8, 2000 release were:
+Java 1.3 is the last release of Java to officially support Microsoft Windows 95.
+J2SE 1.4
+The February 6, 2002 release was the first release of the Java platform developed under the Java Community Process as JSR 59. Major changes included:
+Public support and security updates for Java 1.4 ended in October 2008. Paid security updates for Oracle customers ended in February 2013.
+Java SE 5
+The release on September 30, 2004 was originally numbered 1.5, which is still used as the internal version number. The number was changed to "better reflect the level of maturity, stability, scalability and security of the J2SE". This version was developed under JSR 176.
+Java SE 5 entered its end-of-public-updates period on April 8, 2008; updates are no longer available to the public as of November 3, 2009. Updates were available to paid Oracle customers until May 2015.
+Tiger added a number of significant new language features:
+There were also the following improvements to the standard libraries:
+Java 5 is the last release of Java to officially support Microsoft Windows 98 and Windows ME, while Windows Vista was the newest version of Windows that Java SE 5 was supported on prior to Java 5 going end-of-life in October of 2009.
+Java 5 Update 5 (1.5.0_05) is the last release of Java to work on Windows 95 (with Internet Explorer 5.5 installed) and Windows NT 4.0.
+Java 5 was first available on Apple Mac OS X 10.4 (Tiger) and was the default version of Java installed on Apple Mac OS X 10.5 (Leopard).
+Public support and security updates for Java 1.5 ended in November 2009. Paid security updates for Oracle customers ended in April 2015.
+Versioning change
+This version introduced a new versioning system for the Java language, although the old versioning system continued to be used for developer libraries:
+This correspondence continued through later releases (Java 6 = JDK 1.6, Java 7 = JDK 1.7, and so on).
+Java SE 6
+As of the version released on December 11, 2006, Sun replaced the name "J2SE" with Java SE and dropped the ".0" from the version number. Internal numbering for developers remains 1.6.0.
+This version was developed under JSR 270.
+During the development phase, new builds including enhancements and bug fixes were released approximately weekly. Beta versions were released in February and June 2006, leading up to a final release that occurred on December 11, 2006.
+Major changes included in this version:
+Java 6 can be installed to Mac OS X 10.5 (Leopard) running on 64-bit (Core 2 Duo and higher) processor machines. Java 6 is also supported by both 32-bit and 64-bit machines running Mac OS X 10.6 (Snow Leopard).
+Java 6 reached the end of its supported life in February 2013, at which time all public updates, including security updates, were scheduled to be stopped. Oracle released two more updates to Java 6 in March and April 2013, which patched some security vulnerabilities.
+Java 6 updates
+After Java 6 release, Sun, and later Oracle, released several updates which, while not changing any public API, enhanced end-user usability or fixed bugs.
+Java SE 7
+Java 7 is a major update that was launched on July 7, 2011 and was made available for developers on July 28, 2011. The development period was organized into thirteen milestones; on June 6, 2011, the last of the thirteen milestones was finished. On average, 8 builds (which generally included enhancements and bug fixes) were released per milestone. The feature list at the OpenJDK 7 project lists many of the changes.
+Additions in Java 7 include:
+Lambda (Java's implementation of lambda functions), Jigsaw (Java's implementation of modules), and part of Coin were dropped from Java 7, and released as part of Java 8 (except for Jigsaw, which was released in Java 9).
+Java 7 was the default version to download on java.com from April 2012 until Java 8 was released.
+Java 7 updates
+Oracle issued public updates to the Java 7 family on a quarterly basis until April 2015 when the product reached the end of its public availability. Further updates for JDK 7, which are scheduled to continue until Jul 2022, are only made available to customers with a support contract.
+Java SE 8
+Java 8 was released on March 18, 2014, and included some features that were planned for Java 7 but later deferred.
+Work on features was organized in terms of JDK Enhancement Proposals (JEPs).
+Java 8 is not supported on Windows XP but as of JDK 8 update 25, it can still be installed and run under Windows XP. Previous updates of JDK 8 could be run under XP by downloading archived zip format file and unzipping it for the executable.The last version of Java 8 could run on XP is update 251.But its components compatibility starts to break on unsupported OS in early build during Java 8 updates development.
+From October 2014, Java 8 was the default version to download (and then again the download replacing Java 9) from the official website. "Oracle will continue to provide Public Updates and auto updates of Java SE 8, Indefinitely for Personal Users".
+Java SE 9
+Java SE 9 was made available on September 21, 2017, due to controversial acceptance of the current implementation of Project Jigsaw by Java Executive Committee, which led Oracle to fix some open issues and concerns, and to refine some critical technical questions. In the last days of June 2017, Java Community Process expressed nearly unanimous consensus on the proposed Module System scheme.
+The first Java 9 release candidate was released on August 9, 2017. The first stable release of Java 9 was on September 21, 2017.
+History
+At JavaOne 2011, Oracle discussed features they hoped to release for Java 9 in 2016. Java 9 should include better support for multi-gigabyte heaps, better native code integration, a different default garbage collector (G1, for "shorter response times") and a self-tuning JVM. In early 2016, the release of Java 9 was rescheduled for March 2017 and later again postponed four more months to July 2017.
+Java SE 10
+OpenJDK 10 was released on March 20, 2018, with twelve new features confirmed. Among these features were:
+The first of these JEP 286 Local-Variable Type Inference, allows the var keyword to be used for local variables with the actual type calculated by the compiler. So we can do:
+Java SE 11
+JDK 11 was released on September 25, 2018 and the version is currently open for bug fixes. It offers LTS, or Long-Term Support. Among others, Java 11 includes a number of new features, such as:
+A number of features from previous releases were dropped; in particular, Java applets and Java Web Start are no longer available. JavaFX, Java EE and CORBA modules have been removed from JDK.
+Java SE 12
+JDK 12 was released on March 19, 2019. Among others, Java 12 includes a number of new features, such as:
+The preview feature JEP 325 extends the switch statement so it can also be used as an expression, and adds a new form of case label where the right hand side is an expression. No break statement is needed. For complex expressions a yield statement can be used. This becomes standard in Java SE 14.
+Java SE 13
+JDK 13 was released on September 17, 2019. Java 13 includes the following new features, as well as "hundreds of smaller enhancements and thousands of bug fixes".
+JEP 355 Text Blocks allows multiline string literals:
+Java SE 14
+JDK 14 was released on March 17, 2020. Java 14 includes the following new features, as well as "hundreds of smaller enhancements and thousands of bug fixes".
+JEP 305, Pattern Matching for instanceof simplifies the common case of an instanceof test being immediately followed by cast, replacing
+with
+JEP 359 Records allows easy creation of simple immutable Tuple-like classes.
+Java SE 15
+JDK 15 was released on September 15, 2020. Java 15 adds e.g. support for multi-line string literals (aka Text Blocks). The Shenandoah and Z garbage collectors (latter sometimes abbreviated ZGC) are now ready for use in production (i.e. no longer marked experimental). Support for Oracle's Solaris operating system (and SPARC CPUs) is dropped (while still available in e.g. Java 11). The Nashorn JavaScript Engine is removed. Also removed some root CA certificates.
+JEP 360 Sealed Classes adds sealed classes and interfaces that restrict which other classes or interfaces may extend or implement them. Only those classes specified in a permits clause may extend the class or interface. 
+Together with records, sealed classes are sum types. They work well with other recent features like records, switch expressions, and pattern matching for instance-of. They all form part of a system for "Pattern matching in Java" first discussed by Gavin Bierman and Brian Goetz, in September 2018.
+Java SE 16
+JDK 16 was released on March 16, 2021. Java 16 removes Ahead-of-Time compilation (and Graal JIT) options. The Java implementation itself was and is still written in C++, while as of Java 16, more recent C++14 (but still not e.g. C++17 or C++20) is allowed. The code was also moved to GitHub, dropping Mercurial as the source control system.
+Java SE 17
+JDK 17 is the current long-term support (LTS) release since September 2021. Java 17 is the 2nd long-term support (LTS) release since switching to the new 6-month release cadence (the first being Java 11).
+JEP 406 extends the pattern matching syntax used in instanceof operations to switch statements and expressions. It allows cases to be selected based on the type of the argument, null cases and refining patterns 
+Java SE 18
+JDK 18 was released on March 22, 2022.
+Java SE 19
+JDK 19 was released on 20 September 2022.
+Jep 405 allows record patterns, extending the pattern matching capabilities of instanceof operators, and switch expressions, to include record patterns that explicitly refer to the components of the record. 
+Such patterns can include nested patterns, where the components of records are themselves records, allowing patterns
+to match more object graphs. 
+Java SE 20
+As of September 2022, the specification for Java 20 has not yet been finalized. Java 20 is scheduled for release in March 2023.
+Future features
+Implementations
+The officially supported Java platform, first developed at Sun and now stewarded by Oracle, is Java SE. Releases are based on the OpenJDK project, a free and open-source project with an open development model. Other Java implementations exist, however—in part due to Java's early history as proprietary software. In contrast, some implementations were created to offer some benefits over the standard implementation, often the result of some area of academic or corporate-sponsored research. Many Linux distributions include builds of OpenJDK through the IcedTea project started by Red Hat, which provides a more straightforward build and integration environment.
+Visual J++ and the Microsoft Java Virtual Machine were created as incompatible implementations. After the Sun v. Microsoft lawsuit, Microsoft abandoned it and began work on the .NET platform. In 2021, Microsoft started distributing compatible "Microsoft Build of OpenJDK" for Java 11 first then also for Java 17. Their builds support not only Windows, but also Linux and macOS.
+Other proprietary Java implementations are available, such as Azul's Zing. Azul offers certified open source OpenJDK builds under the Zulu moniker.
+Prior to the release of OpenJDK, while Sun's implementation was still proprietary, the GNU Classpath project was created to provide a free and open-source implementation of the Java platform. Since the release of JDK 7, when OpenJDK became the official reference implementation, the original motivation for the GNU Classpath project almost completely disappeared, and its last release was in 2012.
+The Apache Harmony project was started shortly before the release of OpenJDK. After Sun's initial source code release, the Harmony project continued, working to provide an implementation under a lax license, in contrast to the protective license chosen for OpenJDK. Google later developed Android and released it under a lax license. Android incorporated parts of the Harmony project, supplemented with Google's own Dalvik virtual machine and ART. Apache Harmony has since been retired, and Google has switched its Harmony components with equivalent ones from OpenJDK.
+Both Jikes and Jikes RVM are open-source research projects that IBM developed.
+Several other implementations exist that started as proprietary software but are now open source. IBM initially developed OpenJ9 as the proprietary J9 but has since relicensed the project and donated it to the Eclipse Foundation. JRockit is a proprietary implementation that was acquired by Oracle and incorporated into subsequent OpenJDK versions.

@@ -1,0 +1,41 @@
+Kaby Lake
+Kaby Lake is Intel's codename for its seventh generation Core microprocessor family announced on August 30, 2016. Like the preceding Skylake, Kaby Lake is produced using a 14 nanometer manufacturing process technology. Breaking with Intel's previous "tick–tock" manufacturing and design model, Kaby Lake represents the optimized step of the newer process–architecture–optimization model. Kaby Lake began shipping to manufacturers and OEMs in the second quarter of 2016, and mobile chips have started shipping while Kaby Lake (desktop) chips were officially launched in January 2017.
+In August 2017, Intel announced Kaby Lake Refresh (Kaby Lake R) marketed as the 8th generation mobile CPUs, breaking the long cycle where architectures matched the corresponding generations of CPUs. Skylake was anticipated to be succeeded by the 10 nanometer Cannon Lake, but it was announced in July 2015 that Cannon Lake had been delayed until the second half of 2017. In the meantime, Intel released a fourth 14 nm generation on October 5, 2017, named Coffee Lake.
+Kaby Lake is the first Intel platform to lack official driver support for versions of Windows older than Windows 10. Furthermore, Windows Update is disabled under Windows 8.1 and earlier, although an enthusiast-created modification was released that disabled the check and allowed it to continue to work on the platform. Due to "security concerns", Windows 11 is not officially supported on any of the 7th generation Kaby Lake processors (except Core i7-7820HQ and X series), although Microsoft has stated that it will test those processors for compatibility. However, it is still possible to install it on systems using the 7th generation processors, with users accepting that they are not entitled to receive any updates and any damages caused by using the operating system on an unsupported configuration are not covered by the manufacturer's warranty. This puts 7th generation Kaby Lake processors (except Core i7-7820HQ and X series) in an odd position where only one Windows version is officially supported, Windows 10, in contrast to older and newer generations which have official support for multiple versions of Windows.
+Development history
+As with previous Intel processors (such as the 8088, Banias, Dothan, Conroe, Sandy Bridge, Ivy Bridge, and Skylake), Kaby Lake's development was led by Intel's Israeli team, based in Haifa. Intel Israel Development Centers manager Ran Senderovitz said:  "When we started out on the project, we were only thinking about basic improvements from the previous generation. But we began looking at things differently with a lot of innovation and determination and we achieved major improvements." He added that the performance of the seventh generation chips was improved by 12% for applications and 19% for Internet use compared with the sixth generation chips. Third-party benchmarks do not confirm these percentages as far as gaming is concerned.
+Features
+Built on an improved 14 nm process (14FF+), Kaby Lake features faster CPU clock speeds, clock speed changes, and higher Turbo frequencies. Beyond these process and clock speed changes, little of the CPU architecture has changed from Skylake, resulting in identical IPC (Instructions Per Clock).
+Kaby Lake features a new graphics architecture to improve performance in 3D graphics and 4K video playback. It adds native HDCP 2.2 support, along with fixed function decode of H.264 (AVC), HEVC Main and Main10/10-bit, and VP9 10-bit and 8-bit video. Hardware encode is supported for H.264 (AVC), HEVC Main10/10-bit, and VP9 8-bit video. VP9 10-bit encode is not supported in hardware. Both OpenGL 4.6 and OpenCL 3.0 are now supported.
+Kaby Lake is the first Core architecture to support hyper-threading for the Pentium-branded desktop CPU SKU. Kaby Lake also features the first overclocking-enabled i3-branded CPU.
+Architecture changes compared to Skylake
+Kaby Lake features the same CPU core and performance per MHz as Skylake. Features specific to Kaby Lake include:
+CPU
+GPU
+I/O
+Starting from this generation, the built-in GPus core supports HAGS in the Windows 10 version of 2004 or newer, but currently support is only provided with insider drivers.
+Compatibility
+Microsoft only officially supports Kaby Lake on computers running Windows 10 per support policies, and Windows Update blocks updates from being installed on Kaby Lake systems running versions older than Windows 10. In support of this position, Intel only provides chipset drivers for Windows 10. An enthusiast-created modification was released that disabled the Windows Update check and allowed Windows 8.1 and earlier to continue to be updated on the platform.
+Known issues
+Kaby Lake has a critical flaw where some short loops may cause unpredictable system behavior. The issue can be fixed if the motherboard manufacturer releases a BIOS update with the fix.
+TDP classification
+Thermal design power (TDP) is the designed maximum heat generated by the chip running a specific workload at base clock. On a single microarchitecture, as the heat produced increases with voltage and frequency, this thermal design limit can also limit the maximum frequency of the processor. However, CPU testing and binning allows for products with lower voltage/power at a particular frequency, or higher frequency within the same power limit.
+Desktop processors:
+Mobile processors:
+List of 7th generation Kaby Lake processors
+Desktop processors
+Features common to desktop Kaby Lake CPUs:
+High power
+Maximum PCIe Lanes: 16. Release date: Q1 2017.
+List of 8th generation Kaby Lake R processors
+Low/medium power
+In late 2016, it was reported that Intel had been working on a processor family codenamed “Kaby Lake R” ("R" for "Refresh"). On August 21, 2017, the eighth generation mobile CPUs were announced. The first products released were four "Kaby Lake R" processors with a 15W TDP. This marketing is distinct from previous generational changes of the Core product line, where a new generation coincided with a new microarchitecture. Intel has stated that the 8th generation would be based on multiple microarchitectures, including Kaby Lake R, Coffee Lake, and Cannon Lake.
+List of 8th generation Kaby Lake G processors
+High power
+Maximum number of PCIe lanes: 8. One-package processors with discrete graphics chip - it is connected with main CPU core using a PCI Express link through an embedded multi-die interconnect bridge (EMIB). Release date: Q1 2018.
+List of 8th generation Amber Lake Y processors
+On August 28, 2018, Intel announced a refreshed lineup of ultra low power mobile Kaby Lake CPUs under the moniker Amber Lake.
+List of 10th generation Amber Lake Y processors
+On August 21, 2019, Intel announced their 10th generation Amber Lake ultra low power CPUs.
+See also
+Notes

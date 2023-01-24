@@ -1,0 +1,40 @@
+Carbonic acid
+
+
+In chemistry, carbonic acid  is an inorganic compound with the chemical formula H2CO3. As a dilute solution in water, it is pervasive, but the pure compound, a colorless gas, can only be obtained at temperatures around −80 °C.  The molecule rapidly converts to water and carbon dioxide in the presence of water, however in the absence of water, contrary to popular belief, it is quite stable at room temperature. The interconversion of carbon dioxide and carbonic acid is related to the breathing cycle of animals and the acidity of natural waters.
+In biochemistry and physiology, the name "carbonic acid" is often applied to aqueous solutions of carbon dioxide, which play an important role in the bicarbonate buffer system, used to maintain acid–base homeostasis.
+Chemical equilibria
+Equilibrium constant values
+In aqueous solution carbonic acid behaves as a dibasic acid. The Bjerrum plot shows typical equilibrium concentrations, in solution, in seawater, of carbon dioxide and the various species derived from it, as a function of pH. The acidification of natural waters is caused by the increasing concentration of carbon dioxide in the atmosphere, which is caused by the burning of increasing amounts of coal and hydrocarbons.
+Expected change refers to predicted effect of continued ocean acidification. It has been estimated that the increase in dissolved carbon dioxide has caused the ocean's average surface pH to decrease by about 0.1 from pre-industrial levels.
+The stability constants database contains 136 entries with values for the overall protonation constants, β1 and β2, of the carbonate ion. In the following expressions [H+] represents the concentration, at equilibrium, of the chemical species H+, etc.
+The value of log β1 decreases with increasing ionic strength, $MATH$. At 25 °C:
+The value of log β2 also decreases with increasing ionic strength. 
+At $MATH$=0 and 25 °C the pK values of the stepwise dissociation constants are 
+When pH = pK the two chemical species in equilibrium with each other have the same concentration.
+Note 1: There are apparently conflicting values in the literature for pKa. Pines et al. cite a value for "pKapp" of 6.35, consistent with the value 6.77, mentioned above. They also give a value for "pKa" of 3.49 and state that
+where KD=[CO2]/[H2CO3]. (eqn. 3)
+The situation arises from the way that the dissociation constants are named and defined, which is clearly stated in the text of the Pines paper, but not in the abstract.
+Note 2: The numbering of dissociation constants is the reverse of the numbering of the numbering of association constants, so pK2 (dissociation)= log β1 (association). The value of the stepwise constant for the equilibrium
+is given by
+In non-biological solutions
+The hydration equilibrium constant at 25 °C is called Kh, which in the case of carbonic acid is [H2CO3]/[CO2] ≈ 1.7×10−3 in pure water and ≈ 1.2×10−3 in seawater. Hence, the majority of the carbon dioxide is not converted into carbonic acid, remaining as CO2 molecules. In the absence of a catalyst, the equilibrium is reached quite slowly. The rate constants are 0.039 s−1 for the forward reaction and 23 s−1 for the reverse reaction.
+In the beverage industry, sparkling or "fizzy water" is usually referred to as carbonated water. It is made by dissolving carbon dioxide under a small positive pressure in water. Many soft drinks treated in the same way make them effervescent. 
+Significant amounts of molecular H2CO3 exist in aqueous solutions subjected to pressures of multiple gigapascals (tens of thousands of atmospheres), such as can occur in planetary interiors. Pressures of 0.6–1.6 GPa at 100 K, and 0.75–1.75 GPa at 300 K are attained in the cores of large icy satellites such as Ganymede, Callisto, and Titan, where water and carbon dioxide are present. Pure carbonic acid, being denser, would then sink under the ice layers and separate them from the rocky cores of these moons.
+In biological solutions
+When the enzyme carbonic anhydrase is also present in the solution the following reaction takes precedence.
+When the amount of carbon dioxide created by the forward reaction exceeds its solubility, gas is evolved and a third equilibrium 
+must also be taken into consideration. The equilibrium constant for this reaction is defined by Henry's law. The two reactions can be combined for the equilibrium in solution.
+When Henry's law is used to calculate the value of the term in the denominator care is needed with regard to dimensionality.
+In physiology, carbon dioxide excreted by the lungs may be called volatile acid or respiratory acid.
+Use of the term carbonic acid
+Strictly speaking the term "carbonic acid" refers to the chemical compound with the formula $MATH$, however, for historical reasons, dissolved carbon dioxide in extracellular fluid is often referred to as "carbonic acid" in biochemistry literature.
+Since pKa1 has a value of ca. 6.8, at equilibrium carbonic acid will be almost 50% dissociated in the extracellular fluid (cytosol) which has a pH of ca. 7.2.
+The reaction in which it is produced
+is fast in biological systems. Carbon dioxide can be described as the anhydride of carbonic acid.
+Pure carbonic acid
+Carbonic acid, H2CO3, is quite stable at ambient temperatures as a gas.  In the presence of water, it decomposes to form carbon dioxide and water, which further accelerates the decomposition.
+Pure carbonic acid is mainly produced in two ways, the proton-irradiation of pure solid carbon dioxide or by the reaction of hydrogen chloride and potassium bicarbonate at 100 K in methanol.
+A high-pressure deuterated version of carbonic acid, i.e. D2CO3, has been produced in a hybrid clamped cell (Russian alloy/copper-beryllium) at 1.85 GPa and characterized by neutron diffraction.  The molecules, which are planar, form dimers joined by pairs of hydrogen bonds.  All three C-O bonds are nearly equidistant at 1.34 Å. More typical C-O and C=O distances are 1.43 and 1.23  Å, respectively.  The unusual C-O bond lengths are attributed to delocalized π bonding in the molecule's center, in addition to extraordinarily strong hydrogen bonds, indicated by the O---O separation of 2.13 Å.  The shortness of the O---O separation is partially a consequence of the 136° O-H-O, imposed by the doubly hydrogen-bonded 8-membered rings.  Longer O---O distances are observed in strong, intramolecular hydrogen bonds, e.g. in dicarboxylic acid, which are above 2.4 Å. Carbonic acid prepared at ambient pressure does not show Bragg peaks in X-ray diffraction and must therefore be considered  amorphous.
+References
+Further reading

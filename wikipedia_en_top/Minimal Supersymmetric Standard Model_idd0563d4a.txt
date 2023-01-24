@@ -1,0 +1,101 @@
+Minimal Supersymmetric Standard Model
+The Minimal Supersymmetric Standard Model (MSSM) is an extension to the Standard Model that realizes supersymmetry. MSSM is the minimal supersymmetrical model as it considers only "the [minimum] number of new particle states and new interactions consistent with "Reality". Supersymmetry pairs bosons with fermions, so every Standard Model particle has a superpartner yet undiscovered. If discovered, such superparticles could be candidates for dark matter, and could provide evidence for grand unification or the viability of string theory. The failure to find evidence for MSSM using the Large Hadron Collider has strengthened an inclination to abandon it.
+Background
+The MSSM was originally proposed in 1981 to stabilize the weak scale, solving the hierarchy problem.  The Higgs boson mass of the Standard Model is unstable to quantum corrections and the theory predicts that weak scale should be much weaker than what is observed to be. In the MSSM, the Higgs boson has a fermionic superpartner, the Higgsino, that has the same mass as it would if supersymmetry were an exact symmetry. Because fermion masses are radiatively stable, the Higgs mass inherits this stability. However, in MSSM there is a need for more than one Higgs field, as described below.
+The only unambiguous way to claim discovery of supersymmetry is to produce superparticles in the laboratory.  Because superparticles are expected to be 100 to 1000 times heavier than the proton, it requires a huge amount of energy to make these particles that can only be achieved at particle accelerators. The Tevatron was actively looking for evidence of the production of supersymmetric particles before it was shut down on 30 September 2011. Most physicists believe that supersymmetry must be discovered at the LHC if it is responsible for stabilizing the weak scale.   There are five classes of particle that superpartners of the Standard Model fall into:  squarks, gluinos, charginos, neutralinos, and sleptons. These superparticles have their interactions and subsequent decays described by the MSSM and each has characteristic signatures.
+The MSSM imposes R-parity to explain the stability of the proton.  It adds supersymmetry breaking by introducing explicit soft supersymmetry breaking operators into the Lagrangian that is communicated to it by some unknown (and unspecified) dynamics. This means that there are 120 new parameters in the MSSM.  Most of these parameters lead to unacceptable phenomenology such as large flavor changing neutral currents or large electric dipole moments for the neutron and electron.  To avoid these problems, the MSSM takes all of the soft supersymmetry breaking to be diagonal in flavor space and for all of the new CP violating phases to vanish.
+Theoretical motivations
+There are three principal motivations for the MSSM over other theoretical extensions of the Standard Model, namely:
+These motivations come out without much effort and they are the primary reasons why the MSSM is the leading candidate for a new theory to be discovered at collider experiments such as the Tevatron or the LHC.
+Naturalness
+The original motivation for proposing the MSSM was to stabilize the Higgs mass to radiative corrections that are quadratically divergent in the Standard Model (hierarchy problem). In supersymmetric models, scalars are related to fermions and have the same mass. Since fermion masses are logarithmically divergent, scalar masses inherit the same radiative stability. The Higgs vacuum expectation value (VEV) is related to the negative scalar mass in the Lagrangian. In order for the radiative corrections to the Higgs mass to not be dramatically larger than the actual value, the mass of the superpartners of the Standard Model should not be significantly heavier than the Higgs VEV – roughly 100 GeV. In 2012, the Higgs particle was discovered at the LHC, and its mass was found to be 125–126 GeV.
+Gauge-coupling unification
+If the superpartners of the Standard Model are near the TeV scale, then measured gauge couplings of the three gauge groups unify at high energies. The beta-functions for the MSSM gauge couplings are given by
+where $MATH$ is measured in SU(5) normalization—a factor of $MATH$ different
+than the Standard Model's normalization and predicted by Georgi–Glashow SU(5) .
+The condition for gauge coupling unification at one loop is whether the following expression is satisfied
+$MATH$.
+Remarkably, this is precisely satisfied to experimental errors in the values of $MATH$.  There are two loop corrections and both TeV-scale and GUT-scale threshold corrections that alter this condition on gauge coupling unification, and the results of more extensive calculations reveal that gauge coupling unification occurs to an accuracy of 1%, though this is about 3 standard deviations from the theoretical expectations.
+This prediction is generally considered as indirect evidence for both the MSSM and SUSY GUTs. Gauge coupling unification does not necessarily imply grand unification and there exist other mechanisms to reproduce gauge coupling unification. However, if superpartners are found in the near future, the apparent success of gauge coupling unification would suggest that a supersymmetric grand unified theory is a promising candidate for high scale physics.
+Dark matter
+If R-parity is preserved, then the lightest superparticle (LSP) of the MSSM is stable and is a Weakly interacting massive particle (WIMP) – i.e. it does not have electromagnetic or strong interactions. This makes the LSP a good dark matter candidate, and falls into the category of cold dark matter (CDM).
+Predictions of the MSSM regarding hadron colliders
+The Tevatron and LHC have active experimental programs searching for supersymmetric particles. Since both of these machines are hadron colliders – proton antiproton for the Tevatron and proton proton for the LHC – they search best for strongly interacting particles. Therefore, most experimental signature involve production of squarks or gluinos. Since the MSSM has R-parity, the lightest supersymmetric particle is stable and after the squarks and gluinos decay each decay chain will contain one LSP that will leave the detector unseen. This leads to the generic prediction that the MSSM will produce a 'missing energy' signal from these particles leaving the detector.
+Neutralinos
+There are four neutralinos that are fermions and are electrically neutral, the lightest of which is typically stable. They are typically labeled N͂01, N͂02, N͂03, N͂04 (although sometimes $MATH$ is used instead).  These four states are mixtures of the Bino and the neutral Wino (which are the neutral electroweak Gauginos), and the neutral Higgsinos. As the neutralinos are Majorana fermions, each of them is identical with its antiparticle. Because these particles only interact with the weak vector bosons, they are not directly produced at hadron colliders in copious numbers. They primarily appear as particles in cascade decays of heavier particles usually originating from colored supersymmetric particles such as squarks or gluinos.
+In R-parity conserving models, the lightest neutralino is stable and all supersymmetric cascade decays end up decaying into this particle which leaves the detector unseen and its existence can only be inferred by looking for unbalanced momentum in a detector.
+The heavier neutralinos typically decay through a Z0 to a lighter neutralino or through a W± to chargino. Thus a typical decay is
+Note that the “Missing energy” byproduct represents the mass-energy of the neutralino ( N͂01 ) and in the second line, the mass-energy of a neutrino-antineutrino pair ( ν + ν ) produced with the lepton and antilepton in the final decay, all of which are undetectable in individual reactions with current technology.
+The mass splittings between the different Neutralinos will dictate which patterns of decays are allowed.
+Charginos
+There are two Charginos that are fermions and are electrically charged. They are typically labeled C͂±1 and C͂±2 (although sometimes $MATH$ and $MATH$ is used instead). The heavier chargino can decay through Z0 to the lighter chargino. Both can decay through a W± to neutralino.
+Squarks
+The squarks are the scalar superpartners of the quarks and there is one version for each Standard Model quark. Due to phenomenological constraints from flavor changing neutral currents, typically the lighter two generations of squarks have to be nearly the same in mass and therefore are not given distinct names. The superpartners of the top and bottom quark can be split from the lighter squarks and are called stop and sbottom.
+In the other direction, there may be a remarkable left-right mixing of the stops $MATH$ and of the sbottoms $MATH$ because of the high masses of the partner quarks top and bottom:
+A similar story holds for bottom $MATH$ with its own parameters $MATH$ and $MATH$.
+Squarks can be produced through strong interactions and therefore are easily produced at hadron colliders. They decay to  quarks and neutralinos or charginos which further decay. In R-parity conserving scenarios, squarks are  pair produced and therefore a typical signal is
+Gluinos
+Gluinos are Majorana fermionic partners of the gluon which means that they are their own antiparticles. They interact strongly and therefore can be produced significantly at the LHC. They can only decay to a quark and a squark and thus a typical gluino signal is
+Because gluinos are Majorana, gluinos can decay to either a quark+anti-squark or an anti-quark+squark with equal probability. Therefore, pairs of gluinos can decay  to
+This is a distinctive signature because it has same-sign di-leptons and has very little background in the Standard Model.
+Sleptons
+Sleptons are the scalar partners of the leptons of the Standard Model.  They are not strongly interacting and therefore are not produced very often at hadron colliders unless they are very light.
+Because of the high mass of the tau lepton there will be left-right mixing of the stau similar to that of stop and sbottom (see above).
+Sleptons will typically be found in decays of a charginos and neutralinos if they are light enough to be a decay product.
+MSSM fields
+Fermions have bosonic superpartners (called sfermions), and bosons have fermionic superpartners (called bosinos). For most of the Standard Model particles, doubling is very straightforward. However, for the Higgs boson, it is more complicated.
+A single Higgsino (the fermionic superpartner of the Higgs boson) would lead to a gauge anomaly and would cause the theory to be inconsistent. However, if two Higgsinos are added, there is no gauge anomaly. The simplest theory is one with two Higgsinos and therefore two scalar Higgs doublets.
+Another reason for having two scalar Higgs doublets rather than one is in order to have Yukawa couplings between the Higgs and both down-type quarks and up-type quarks; these are the terms responsible for the quarks' masses. In the Standard Model the down-type quarks couple to the Higgs field (which has Y=−1/2) and the up-type quarks to its complex conjugate (which has Y=+1/2). However, in a supersymmetric theory this is not allowed, so two types of Higgs fields are needed.
+MSSM superfields
+In supersymmetric theories, every field and its superpartner can be written together as a superfield. The superfield formulation of supersymmetry is very convenient to write down manifestly supersymmetric theories (i.e. one does not have to tediously check that the theory is supersymmetric term by term in the Lagrangian). The MSSM contains vector superfields associated with the Standard Model gauge groups which contain the vector bosons and associated gauginos. It also contains  chiral superfields for the Standard Model fermions and Higgs bosons (and their respective superpartners).
+MSSM Higgs mass
+The MSSM Higgs mass is a prediction of the Minimal Supersymmetric Standard Model. The mass of the lightest Higgs boson is set by the Higgs quartic coupling. Quartic couplings are not soft supersymmetry-breaking parameters since they lead to a quadratic divergence of the Higgs mass.  Furthermore, there are no supersymmetric parameters to make the Higgs mass a free parameter in the MSSM (though not in non-minimal extensions). This means that Higgs mass is a prediction of the MSSM.  The LEP II and the IV experiments placed a lower limit on the Higgs mass of 114.4 GeV. This lower limit is significantly above where the MSSM would typically predict it to be but does not rule out the MSSM; the discovery of the Higgs with a mass of 125 GeV is within the maximal upper bound of approximately 130 GeV that loop corrections within the MSSM would raise the Higgs mass to. Proponents of the MSSM point out that a Higgs mass within the upper bound of the MSSM calculation of the Higgs mass is a successful prediction, albeit pointing to more fine tuning than expected.
+Formulas
+The only susy-preserving operator that creates a quartic coupling for the Higgs in the MSSM arise for the D-terms of the SU(2) and U(1) gauge sector and the magnitude of the quartic coupling is set by the size of the gauge couplings.
+This leads to the prediction that the Standard Model-like Higgs mass (the scalar that couples approximately to the VEV) is limited to be less than the Z mass:
+$MATH$ .
+Since supersymmetry is broken, there are radiative corrections to the quartic coupling that can increase the Higgs mass.  These dominantly arise from the 'top sector':
+$MATH$
+where $MATH$ is the top mass and $MATH$ is the mass of the top squark.  This result can be interpreted as the RG running of the Higgs quartic coupling from the scale of supersymmetry to the top mass—however since the top squark mass should be relatively close to the top mass, this is usually a fairly modest contribution and increases the Higgs mass to roughly the LEP II bound of 114 GeV before the top squark becomes too heavy.
+Finally there is a contribution from the top squark A-terms:
+$MATH$
+where $MATH$ is a dimensionless number. This contributes an additional term to the Higgs mass at loop level, but is not logarithmically enhanced
+$MATH$
+by pushing $MATH$ (known as 'maximal mixing') it is possible to push the Higgs mass to 125 GeV without decoupling the top squark or adding new dynamics to the MSSM.
+As the Higgs was found at around 125 GeV (along with no other superparticles) at the LHC, this strongly hints at new dynamics beyond the MSSM, such as the 'Next to Minimal Supersymmetric Standard Model' (NMSSM); and suggests some correlation to the little hierarchy problem.
+The MSSM Lagrangian
+The Lagrangian for the MSSM contains several pieces.
+$MATH$
+The constant term is unphysical in global supersymmetry (as opposed to supergravity).
+Soft Susy breaking
+The last piece of the MSSM Lagrangian is the soft supersymmetry breaking Lagrangian. The vast majority of the parameters of the MSSM are in the susy breaking Lagrangian.  The soft susy breaking are divided into roughly three pieces.
+$MATH$
+Where $MATH$ are the gauginos and $MATH$ is different for the wino, bino and gluino.
+$MATH$
+where $MATH$ are any of the scalars in the MSSM and $MATH$ are $MATH$ Hermitian matrices for the squarks and sleptons of a given set of gauge quantum numbers. The eigenvalues of these matrices are actually the masses squared, rather than the masses.
+$MATH$
+The $MATH$ terms are $MATH$ complex matrices much as the scalar masses are.
+$MATH$
+The reason these soft terms are not often mentioned are that they arise through local supersymmetry and not global supersymmetry, although they are required otherwise if the Goldstino were massless it would contradict observation. The Goldstino mode is eaten by the Gravitino to become massive, through a gauge shift, which also absorbs the would-be "mass" term of the Goldstino.
+Problems with the MSSM
+There are several problems with the MSSM — most of them falling into understanding the parameters.
+Theories of supersymmetry breaking
+A large amount of theoretical effort has been spent trying to understand the mechanism for soft supersymmetry breaking that produces the desired properties in the superpartner masses and interactions.  The three most extensively studied mechanisms are:
+Gravity-mediated supersymmetry breaking
+Gravity-mediated supersymmetry breaking is a method of communicating supersymmetry breaking to the supersymmetric Standard Model through gravitational interactions.  It was the first method proposed to communicate supersymmetry breaking. In  gravity-mediated supersymmetry-breaking models, there is a part of the theory that only interacts with the MSSM through gravitational interaction.  This hidden sector of the theory breaks supersymmetry.  Through the supersymmetric version of the Higgs mechanism, the gravitino, the supersymmetric version of the graviton, acquires a mass.  After the gravitino has a mass, gravitational radiative corrections to soft masses are incompletely cancelled beneath the gravitino's mass.
+It is currently believed that it is not generic to have a sector completely decoupled from the MSSM and there should be higher dimension operators that couple different sectors together with the higher dimension operators suppressed by the Planck scale.  These operators give as large of a contribution to the soft supersymmetry breaking masses as the gravitational loops; therefore, today people usually consider gravity mediation to be gravitational sized direct interactions between the hidden sector and the MSSM.
+mSUGRA stands for minimal supergravity. The construction of a realistic model of interactions within N = 1 supergravity framework where supersymmetry breaking is communicated through the supergravity interactions was carried out by Ali Chamseddine, Richard Arnowitt, and Pran Nath in 1982. mSUGRA is one of the most widely investigated models of particle physics due to its predictive power requiring only 4 input parameters and a sign,  to determine  the low energy phenomenology from the scale of Grand Unification. The most widely used set of parameters is:
+Gravity-Mediated Supersymmetry Breaking was assumed to be flavor universal because of the universality of gravity; however, in 1986 Hall, Kostelecky, and Raby showed that Planck-scale physics that are necessary to generate the Standard-Model Yukawa couplings spoil the universality of the supersymmetry breaking.
+Gauge-mediated supersymmetry breaking (GMSB)
+Gauge-mediated supersymmetry breaking is method of communicating supersymmetry breaking to the supersymmetric Standard Model through the Standard Model's gauge interactions.  Typically a hidden sector breaks supersymmetry and communicates it to massive messenger fields that are charged under the Standard Model.  These messenger fields induce a gaugino mass at one loop and then this is transmitted on to the scalar superpartners at two loops. Requiring stop squarks below 2 TeV, the maximum Higgs boson mass predicted is just 121.5GeV. With the Higgs being discovered at 125GeV - this model requires stops above 2 TeV.
+Anomaly-mediated supersymmetry breaking (AMSB)
+Anomaly-mediated supersymmetry breaking is a special type of gravity mediated supersymmetry breaking that results in supersymmetry breaking being communicated to the supersymmetric Standard Model through the conformal anomaly. Requiring stop squarks below 2 TeV, the maximum Higgs boson mass predicted is just 121.0GeV. With the Higgs being discovered at 125GeV - this scenario requires stops heavier than 2 TeV.
+Phenomenological MSSM (pMSSM)
+The unconstrained MSSM has more than 100 parameters in addition to the Standard Model parameters.
+This makes any phenomenological analysis (e.g. finding regions in parameter space consistent
+with observed data) impractical. Under the following three assumptions:
+one can reduce the number of additional parameters to the following 19 quantities of the phenomenological MSSM (pMSSM):
+The large parameter space of pMSSM makes searches in pMSSM extremely challenging and makes pMSSM difficult to exclude.
+Experimental tests
+Terrestrial detectors
+XENON1T (a dark matter WIMP detector - being commissioned in 2016) is expected to explore/test supersymmetry candidates such as CMSSM.: Fig 7(a), p15-16 

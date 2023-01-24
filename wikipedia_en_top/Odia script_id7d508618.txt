@@ -1,0 +1,63 @@
+Odia script
+The Odia script (Odia: ଓଡ଼ିଆ ଅକ୍ଷର, romanized: Odiā akṣara) is a Brahmic script used to write primarily Odia language and others including Sanskrit and other regional languages. The script has developed over more than 1000 years from a variant of Siddhaṃ script which was used in Eastern India, where the characteristic top line transformed into a distinct round umbrella shape due to the influence of palm leaf manuscripts and also being influenced by the neighbouring scripts from the Western and Southern regions.
+
+
+Odia is a syllabic alphabet or an abugida wherein all consonants have an inherent vowel embedded within. Diacritics (which can appear above, below, before, or after the consonant they belong to) are used to change the form of the inherent vowel. When vowels appear at the beginning of a syllable, they are written as independent letters. Also, when certain consonants occur together, special conjunct symbols combine the essential parts of each consonant symbol.
+An important feature of the Odia language seen in the script is the retention of inherent vowel in consonants, also known as schwa, at both medial and final positions. This absence of schwa deletion, which is also seen in Sanskrit, marks it from the rest of modern Indo-Aryan languages and their equivalent usage in related Brahmic scripts. The absence of the inherent vowel in the consonant is marked by a virama or halanta sign below the consonant.
+History
+In Eastern India, a derivative of Siddhaṃ script yielded a group of scripts that eventually became Bengali-Assamese scripts, Tirhuta script and the Odia script, with the latter turning the hook into a characteristic umbrella. The earliest known example of Odia language, in the Kalinga script, dates from 1051.
+The curved appearance of the Odia script is a result of the practice of writing on palm leaves, which have a tendency to tear with the use of too many straight lines.
+As with all the Brahmic scripts in the region, the Odia script developed through four stages which can be seen from the stone inscriptions, copper-plates and the manuscripts. The periods of development are in the following order,
+The archaic and medieval forms of Odia are more influenced by the calligraphy of the scripts of neighbouring regions, such as,
+With regards to the epigraphical sources, the antiquities which display the various historical forms of writing in Odia script include rock-edicts, temple inscriptions, stone-slabs, pillar inscriptions, sculptures, copper-plates, coins and palm-leaf manuscripts, illustrated manuscripts, ivory plates and allied materials. Numerous instances of the items depicting all the respective stages of the development of the Odia script during the illustrious dynasties of Eastern Ganga, Somavanshi, Bhanja, Bhauma-kara, Sailodbhava dynasties.
+Some of them belonging to different centuries are as follows-
+With regards to the manuscript sources, the full-fledged script of Odia acquires its classical umbrella hook shape through the development, modification as well as simplification between the 14th and 15th CE, when the palm-leaf manuscript culture becomes dominant in this region. Since the palm-leaves are perishable in nature, no manuscripts are currently available pre-15th CE. Hence, recent works are also important as they show the rare and ancient text as well as artistic illustrations. One of the earliest dated palm-leaf manuscripts is that of Abhinava Gita-Govinda kept in Odisha State Museum. The date of completion of the manuscript is estimated to be that of 1494 CE. Among other manuscripts present at the museum, includes historical works like manuscripts of Jayadeva’s Gita-Govinda (16th CE) to the relatively recent works of 18th,19th and 20th century.
+Overwhelmingly, the Odia script was used to write the Odia language. However, it has been used as a regional writing-system for Sanskrit. Furthermore, Grierson in his famed Linguistic Survey of India mentioned that the Odia script is sometimes used for Chhattisgarhi, an Eastern Hindi language, in the eastern border regions of Chhattisgarh. However it appears to have been replaced with the Devanagari script.
+Alphabet
+Odia is a alphasyllabic alphabet or an abugida wherein all consonants have an inherent vowel embedded within. Diacritics (which can appear above, below, before or after the consonant they belong to) are used to change the form of the inherent vowel.  When vowels appear at the beginning of a syllable, they are written as independent letters. Also, when certain consonants occur together, special conjunct symbols are used to combine the essential parts of each consonant symbol. The list of vowels and consonants(both structured and unstructured) are as follows:
+Independent vowels
+The following are the list of Odia vowels.
+There is no significant difference in the pronunciation of both short and long vowels (ଇ, ଈ & ଉ, ଊ). Also, the vowels ୠ, ଌ, ୡ and their diacritics are only required while writing Sanskrit in Odia script and not used significantly in modern Odia, hence they are not always mentioned in the Odia alphabet.
+Consonants
+Two categories of consonant letters (ବ୍ୟଞ୍ଜନ byan̄jana) are defined in Odia: the structured consonants (ବର୍ଗ୍ୟ ବ୍ୟଞ୍ଜନ bargya byan̄jana) and the unstructured consonants (ଅବର୍ଗ୍ୟ ବ୍ୟଞ୍ଜନ abargya byan̄jana).
+The first standardised Odia alphabet book was compiled by Madhusudan Rao named Barnabodha in 1895. As seen from the alphabet list, the phonemes Ba, Va and Wa were represented by the same letter ବ, with the sound Va & Wa being represented by the name abargya ba (ଅବର୍ଗ୍ୟ ବ). This can be seen in Barnabodha in 1896. This was because the phonemes Ba and Va merged in the Eastern Indo-Aryan languages and was represented by the same letter, in case of Odia- ବ. While the phoneme Wa existed through the consonant ligature symbol, which it shared with Ba- ୍ୱ (ସ୍ୱାଧୀନ- swādhīna). Gopala Chandra Praharaj, who compiled and published the first comprehensive Odia dictionary, Purnachandra Odia Bhashakosha(1931-40), introduced a new letter ୱ to the script inventory to represent the phonetic sound of Wa in order to distinguish it from the same symbol which it earlier shared with Ba. While an alternate letter for Wa was represented by ଵ, but has not gained full acceptance and instead Praharaj's letter has remained the widely used and recognised letter.
+Structured consonants
+The structured consonants(ବର୍ଗ୍ୟ ବ୍ୟଞ୍ଜନ) are classified according to where the tongue touches the palate of the mouth and are classified accordingly into five structured groups. These consonants are shown here with their ISO transliteration.
+Unstructured consonants
+The unstructured consonants (ଅବର୍ଗ୍ୟ ବ୍ୟଞ୍ଜନ) are consonants that do not fall into any of the above structures:
+Although the sibilants ଶ, ଷ, ସ have their independent orthography, in modern spoken Odia all three of them are pronounced the same as ସ(sa).
+ଵ - This letter is used sporadically for the phonetic Va/Wa as an alternative for the officially recognised letter ୱ, but has not gained widespread acceptance.
+Notes
+Vowel diacritics
+The following table shows the list of vowel diacritics on consonants.
+Signs and punctuation
+List of diacritic signs and punctuation marks present in languages with Brahmi-derived scripts.
+Consonant ligatures
+Clusters of two or more consonants form a ligature. Basically Odia has two types of such consonant ligatures. The "northern" type is formed by fusion of two or more consonants as in northern scripts like Devanāgarī (but to a lesser extent also in the Malayalam script in the south). In some instances the components can be easily identified, but sometimes completely new glyphs are formed. With the "southern" type the second component is reduced in size and put under the first as in the southern scripts used for Kannaḍa and Telugu (and to some extent also for Malayalam script).
+List of diacritic signs and punctuation marks present in languages with Brahmi-derived scripts.
+The following table lists all conjunct forms. (Different fonts may use different ligatures.)
+Ambiguities
+The subjoined form of ଛ cha is also used for subjoined ଥ tha:
+The sign for the nasal ଂ ṃ looks similar to the right side of the glyph used for ଫ pha and ଙ ṅa:
+Karani script or Odia cursive/calligraphic style
+Karani script (କରଣୀ ଅକ୍ଷର) (also Chata script ଛଟା ଅକ୍ଷର) was a cursive/calligraphic style variant of the Odia script developed by the Karana (କରଣ) community, the scribes (professional writer-class) of the Odia royal courts. It was used in the pre-Independence Orissa (Odisha) region in South Asia and was primarily used by the Karana community who were working for  administrative purposes, documentation and keeping records in the royal courts of the Odia princely states (Orissa Tributary States). The name Karani is derived from the metal stylus, Karani that was used for writing on palm leaf.
+Numerals
+Fraction symbols are obsolete post decimalisation on 1 April 1957.
+Comparison of Odia script with ancestral and related scripts
+Odia letters are mostly round shaped whereas Devanagari and Bengali have horizontal lines. So in most cases the reader of Odia will find the related distinctive parts of the letter only below the curved hoop.
+Vowel diacritics
+The vowel diacritics observed in Odia is similar to that of Bengali-Assamese as inherited from the Siddham pristhmatra style, differing from the diacritic symbols inherited by the scripts related to Devanagari line.
+Sample text
+Universal Declaration of Human Rights
+The following is a sample text in Odia of Article 1 of the Universal Declaration of Human Rights (ମାନବିକ ଅଧିକାରର ସାର୍ବଜନୀନ ଘୋଷଣା):
+Odia in the Odia script
+Odia in ISO 15919
+Odia in the IPA
+Gloss
+Translation
+Gayatri Mantra
+The following is a sample text in Sanskrit of Gayatri Mantra in Odia Script.
+Unicode
+Odia script was added to the Unicode Standard in October 1991 with the release of version 1.0.
+The Unicode block for Odia is U+0B00–U+0B7F:
+Notes

@@ -1,0 +1,126 @@
+Invertible matrix
+In linear algebra, an n-by-n square matrix A is called invertible (also nonsingular or nondegenerate), if there exists an n-by-n square matrix B such that
+where In denotes the n-by-n identity matrix and the multiplication used is ordinary matrix multiplication. If this is the case, then the matrix B is uniquely determined by A, and is called the (multiplicative) inverse of A, denoted by A−1. Matrix inversion is the process of finding the matrix B that satisfies the prior equation for a given invertible matrix A.
+A square matrix that is not invertible is called singular or degenerate. A square matrix is singular if and only if its determinant is zero. Singular matrices are rare in the sense that if a square matrix's entries are randomly selected from any finite region on the number line or complex plane, the probability that the matrix is singular is 0, that is, it will "almost never" be singular. Non-square matrices (m-by-n matrices for which m ≠ n) do not have an inverse.  However, in some cases such a matrix may have a left inverse or right inverse.  If A is m-by-n and the rank of A is equal to n (n ≤ m), then A has a left inverse, an n-by-m matrix B such that BA = In.  If A has rank m (m ≤ n), then it has a right inverse, an n-by-m matrix B such that AB = Im.
+While the most common case is that of matrices over the real or complex numbers, all these definitions can be given for matrices over any ring. However, in the case of the ring being commutative, the condition for a square matrix to be invertible is that its determinant is invertible in the ring, which in general is a stricter requirement than being nonzero. For a noncommutative ring, the usual determinant is not defined.  The conditions for existence of left-inverse or right-inverse are more complicated, since a notion of rank does not exist over rings.
+The set of n × n invertible matrices together with the operation of matrix multiplication (and entries from ring R) form a group, the general linear group of degree n, denoted GLn(R).
+Properties
+The invertible matrix theorem
+Let A be a square n-by-n matrix over a field K (e.g., the field $MATH$ of real numbers). The following statements are equivalent (i.e., they are either all true or all false for any given matrix):
+Other properties
+Furthermore, the following properties hold for an invertible matrix A:
+The rows of the inverse matrix V of a matrix U are orthonormal to the columns of U (and vice versa interchanging rows for columns). To see this, suppose that UV = VU = I where the rows of V are denoted as $MATH$ and the columns of U as $MATH$ for $MATH$ Then clearly, the Euclidean inner product of any two $MATH$ This property can also be useful in constructing the inverse of a square matrix in some instances, where a set of orthogonal vectors (but not necessarily orthonormal vectors) to the columns of U are known. In which case, one can apply the iterative Gram–Schmidt process to this initial set to determine the rows of the inverse V. 
+A matrix that is its own inverse (i.e., a matrix A such that A = A−1 and A2 = I), is called an involutory matrix.
+In relation to its adjugate
+The adjugate of a matrix A can be used to find the inverse of A as follows:
+If A is an invertible matrix, then
+In relation to the identity matrix
+It follows from the associativity of matrix multiplication that if
+for finite square matrices A and B, then also
+Density
+Over the field of real numbers, the set of singular n-by-n matrices, considered as a subset of $MATH$ is a null set, that is, has Lebesgue measure zero. This is true because singular matrices are the roots of the determinant function. This is a continuous function because it is a polynomial in the entries of the matrix. Thus in the language of measure theory, almost all n-by-n matrices are invertible.
+Furthermore, the n-by-n invertible matrices are a dense open set in the topological space of all n-by-n matrices.  Equivalently, the set of singular matrices is closed and nowhere dense in the space of n-by-n matrices.
+In practice however, one may encounter non-invertible matrices. And in numerical calculations, matrices which are invertible, but close to a non-invertible matrix, can still be problematic; such matrices are said to be ill-conditioned.
+Examples
+An example with rank of n-1 to be a non-invertible matrix
+We can easily see the rank of this 2*2 matrix is one, which is n-1≠n, so it is a non-invertible matrix.
+Consider the following 2-by-2 matrix:
+The matrix $MATH$ is invertible. To check this, one can compute that $MATH$, which is non-zero. 
+As an example of a non-invertible, or singular, matrix, consider the matrix
+The determinant of $MATH$ is 0, which is a necessary and sufficient condition for a matrix to be non-invertible.
+Methods of matrix inversion
+Gaussian elimination
+Gaussian elimination is a useful and easy way to compute the inverse of a matrix. To compute a matrix inverse using this method, an augmented matrix is first created with the left side being the matrix to invert and the right side being the identity matrix. Then, Gaussian elimination is used to convert the left side into the identity matrix, which causes the right side to become the inverse of the input matrix.
+For example, take the following matrix: $MATH$
+The first step to compute its inverse is to create the augmented matrix $MATH$
+Call the first row of this matrix $MATH$ and the second row $MATH$. Then, add row 1 to row 2 $MATH$ This yields $MATH$
+Next, subtract row 2, multiplied by 3, from row 1 $MATH$ which yields $MATH$
+Finally, multiply row 1 by –1 $MATH$ and row 2 by 2 $MATH$ This yields the identity matrix on the left side and the inverse matrix on the right:$MATH$
+Thus, $MATH$
+The reason it works is that the process of Gaussian Elimination can be viewed as a sequence of applying left matrix mutliplication using elementary row operations using Elementary matrix ($MATH$), such as $MATH$
+Applying right-multiplication using $MATH$ we get $MATH$ And the right side $MATH$ which is the inverse we want.  
+To obtain $MATH$ we create the augumented matrix by combining A with I and applying Gaussian elimination. The two portions will be transformed using the same sequence of elementary row operations. When the left portion becomes I, the right portion applied the same elementary row operation sequence will become A–1.
+Newton's method
+A generalization of Newton's method as used for a multiplicative inverse algorithm may be convenient, if it is convenient to find a suitable starting seed:
+Victor Pan and John Reif have done work that includes ways of generating a starting seed. Byte magazine summarised one of their approaches.
+Newton's method is particularly useful when dealing with families of related matrices that behave enough like the sequence manufactured for the homotopy above: sometimes a good starting point for refining an approximation for the new inverse can be the already obtained inverse of a previous matrix that nearly matches the current matrix, for example, the pair of sequences of inverse matrices used in obtaining matrix square roots by Denman–Beavers iteration; this may need more than one pass of the iteration at each new matrix, if they are not close enough together for just one to be enough. Newton's method is also useful for "touch up" corrections to the Gauss–Jordan algorithm which has been contaminated by small errors due to imperfect computer arithmetic.
+Cayley–Hamilton method
+The Cayley–Hamilton theorem allows the inverse of A to be expressed in terms of det(A), traces and powers of A:
+where n is dimension of A, and tr(A) is the trace of matrix A given by the sum of the main diagonal.  The sum is taken over s and the sets of all $MATH$ satisfying the linear Diophantine equation
+The formula can be rewritten in terms of complete Bell polynomials of arguments $MATH$ as
+Eigendecomposition
+If matrix A can be eigendecomposed, and if none of its eigenvalues are zero, then A is invertible and its inverse is given by
+where Q is the square (N × N) matrix whose i-th column is the eigenvector $MATH$ of A, and Λ is the diagonal matrix whose diagonal elements are the corresponding eigenvalues, that is, $MATH$ If
+A is symmetric, Q is guaranteed to be an orthogonal matrix, therefore $MATH$ Furthermore, because Λ is a diagonal matrix, its inverse is easy to calculate:
+Cholesky decomposition
+If matrix A is positive definite, then its inverse can be obtained as
+where L is the lower triangular Cholesky decomposition of A, and L* denotes the conjugate transpose of L.
+Analytic solution
+Writing the transpose of the matrix of cofactors, known as an adjugate matrix, can also be an efficient way to calculate the inverse of small matrices, but this recursive method is inefficient for large matrices. To determine the inverse, we calculate a matrix of cofactors:
+so that
+where |A| is the determinant of A, C is the matrix of cofactors, and CT represents the matrix transpose.
+Inversion of 2 × 2 matrices
+The cofactor equation listed above yields the following result for 2 × 2 matrices. Inversion of these matrices can be done as follows:
+This is possible because 1/(ad − bc) is the reciprocal of the determinant of the matrix in question, and the same strategy could be used for other matrix sizes.
+The Cayley–Hamilton method gives
+Inversion of 3 × 3 matrices
+A computationally efficient 3 × 3 matrix inversion is given by
+(where the scalar A is not to be confused with the matrix A).
+If the determinant is non-zero, the matrix is invertible, with the elements of the intermediary matrix on the right side above given by
+The determinant of A can be computed by applying the rule of Sarrus as follows:
+The Cayley–Hamilton decomposition gives
+
+The general 3 × 3 inverse can be expressed concisely in terms of the cross product and triple product. If a matrix $MATH$ (consisting of three column vectors, $MATH$, $MATH$, and $MATH$) is invertible, its inverse is given by 
+The determinant of A, det(A), is equal to the triple product of x0, x1, and x2—the volume of the parallelepiped formed by the rows or columns: 
+The correctness of the formula can be checked by using cross- and triple-product properties and by noting that for groups, left and right inverses always coincide. Intuitively, because of the cross products, each row of A–1 is orthogonal to the non-corresponding two columns of A (causing the off-diagonal terms of $MATH$ be zero). Dividing by 
+causes the diagonal elements of I = A–1A to be unity. For example, the first diagonal is:
+Inversion of 4 × 4 matrices
+With increasing dimension, expressions for the inverse of A get complicated. For n = 4, the Cayley–Hamilton method leads to an expression that is still tractable:
+Blockwise inversion
+Matrices can also be inverted blockwise by using the following analytic inversion formula:
+where A, B, C and D are matrix sub-blocks of arbitrary size. (A must be square, so that it can be inverted. Furthermore, A and D – CA–1B must be nonsingular.) This strategy is particularly advantageous if A is diagonal and D – CA–1B (the Schur complement of A) is a small matrix, since they are the only matrices requiring inversion.
+This technique was reinvented several times and is due to Hans Boltz (1923), who used it for the inversion of geodetic matrices, and Tadeusz Banachiewicz (1937), who generalized it and proved its correctness.
+The nullity theorem says that the nullity of A equals the nullity of the sub-block in the lower right of the inverse matrix, and that the nullity of B equals the nullity of the sub-block in the upper right of the inverse matrix.
+The inversion procedure that led to Equation (1) performed matrix block operations that operated on C and D first. Instead, if A and B are operated on first, and provided D and A – BD–1C are nonsingular, the result is
+Equating Equations (1) and (2) leads to
+where Equation (3) is the Woodbury matrix identity, which is equivalent to the binomial inverse theorem.
+If A and D are both invertible, then the above two block matrix inverses can be combined to provide the simple factorization
+By the Weinstein–Aronszajn identity, one of the two matrices in the block-diagonal matrix is invertible exactly when the other is.
+Since a blockwise inversion of an n × n matrix requires inversion of two half-sized matrices and 6 multiplications between two half-sized matrices, it can be shown that a divide and conquer algorithm that uses blockwise inversion to invert a matrix runs with the same time complexity as the matrix multiplication algorithm that is used internally. Research into matrix multiplication complexity shows that there exist matrix multiplication algorithms with a complexity of O(n2.3727) operations, while the best proven lower bound is Ω(n2 log n).
+This formula simplifies significantly when the upper right block matrix B is the zero matrix. This formulation is useful when the matrices A and D have relatively simple inverse formulas (or pseudo inverses in the case where the blocks are not all square. In this special case, the block matrix inversion formula stated in full generality above becomes 
+By Neumann series
+If a matrix A has the property that
+then A is nonsingular and its inverse may be expressed by a Neumann series:
+Truncating the sum results in an "approximate" inverse which may be useful as a preconditioner. Note that a truncated series can be accelerated exponentially by noting that the Neumann series is a geometric sum. As such, it satisfies 
+Therefore, only 2L – 2 matrix multiplications are needed to compute 2L terms of the sum.
+More generally, if A is "near" the invertible matrix X in the sense that
+then A is nonsingular and its inverse is
+If it is also the case that A − X has rank 1 then this simplifies to
+p-adic approximation
+If A is a matrix with integer or rational coefficients and we seek a solution in arbitrary-precision rationals, then a p-adic approximation method converges to an exact solution in O(n4 log2 n), assuming standard O(n3) matrix multiplication is used. The method relies on solving n linear systems via Dixon's method of p-adic approximation (each in O(n3 log2 n)) and is available as such in software specialized in arbitrary-precision matrix operations, for example, in IML.
+Reciprocal basis vectors method
+Given an n × n square matrix $MATH$, $MATH$, with n rows interpreted as n vectors $MATH$ (Einstein summation assumed) where the $MATH$ are a standard orthonormal basis of Euclidean space $MATH$ ($MATH$), then using Clifford algebra (or Geometric Algebra) we compute the reciprocal (sometimes called dual) column vectors:
+as the columns of the inverse matrix $MATH$ Note that, the place "$MATH$" indicates that "$MATH$" is removed from that place in the above expression for $MATH$. We then have $MATH$, where $MATH$ is the Kronecker delta. We also have $MATH$, as required. If the vectors $MATH$ are not linearly independent, then $MATH$ and the matrix $MATH$ is not invertible (has no inverse).
+Derivative of the matrix inverse
+Suppose that the invertible matrix A depends on a parameter t. Then the derivative of the inverse of A with respect to t is given by
+To derive the above expression for the derivative of the inverse of A, one can differentiate the definition of the matrix inverse $MATH$ and then solve for the inverse of A:
+Subtracting $MATH$ from both sides of the above and multiplying on the right by $MATH$ gives the correct expression for the derivative of the inverse:
+Similarly, if $MATH$ is a small number then
+More generally, if
+then,
+Given a positive integer $MATH$,
+Therefore,
+Generalized inverse
+Some of the properties of inverse matrices are shared by generalized inverses (for example, the Moore–Penrose inverse), which can be defined for any m-by-n matrix.
+Applications
+For most practical applications, it is not necessary to invert a matrix to solve a system of linear equations; however, for a unique solution, it is necessary that the matrix involved be invertible.
+Decomposition techniques like LU decomposition are much faster than inversion, and various fast algorithms for special classes of linear systems have also been developed.
+Regression/least squares
+Although an explicit inverse is not necessary to estimate the vector of unknowns, it is the easiest way to estimate their accuracy, found in the diagonal of a matrix inverse (the posterior covariance matrix of the vector of unknowns). However, faster algorithms to compute only the diagonal entries of a matrix inverse are known in many cases.
+Matrix inverses in real-time simulations
+Matrix inversion plays a significant role in computer graphics, particularly in 3D graphics rendering and 3D simulations. Examples include screen-to-world ray casting, world-to-subspace-to-world object transformations, and physical simulations.
+Matrix inverses in MIMO wireless communication
+Matrix inversion also plays a significant role in the MIMO (Multiple-Input, Multiple-Output) technology in wireless communications. The MIMO system consists of N transmit and M receive antennas. Unique signals, occupying the same frequency band, are sent via N transmit antennas and are received via M receive antennas. The signal arriving at each receive antenna will be a linear combination of the N transmitted signals forming an N × M transmission matrix H. It is crucial for the matrix H to be invertible for the receiver to be able to figure out the transmitted information.
+See also
+References
+Further reading

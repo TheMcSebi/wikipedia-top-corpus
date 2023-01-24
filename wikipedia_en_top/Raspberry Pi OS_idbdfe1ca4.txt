@@ -1,0 +1,27 @@
+Raspberry Pi OS
+Raspberry Pi OS (formerly Raspbian) is a Unix-like operating system based on the Debian Linux distribution for the Raspberry Pi family of compact single-board computers. First developed independently in 2012, it has been produced as the primary operating system for these boards since 2013, distributed by the Raspberry Pi Foundation.
+Raspberry Pi OS is highly optimized for the Raspberry Pi with ARM CPUs. It runs on every Raspberry Pi except the Pico microcontroller. Raspberry Pi OS uses a modified LXDE desktop environment with the Openbox stacking window manager, along with a unique theme. The default distribution is shipped with a copy of the computer algebra system Wolfram Mathematica, VLC, and a lightweight version of the Chromium web browser.
+History
+Raspberry Pi OS was first developed by Mike Thompson and Peter Green as Raspbian, an independent and unofficial port of Debian to the Raspberry Pi. The first build was released on July 15, 2012. As the Raspberry Pi had no officially provided operating system at the time, the Raspberry Pi Foundation built on the work by the Raspbian project and began producing and releasing their own version of the software. The Foundation's first release of Raspbian, which now referred both to the community project as well as the official operating system, was announced on September 10th, 2013.
+On May 28th, 2020, the Raspberry Pi Foundation announced a beta 64-bit version. However, this version was not based on Raspbian, instead taking its user space software from Debian GNU/Linux. When the Foundation did not want to use the name Raspbian to refer to software that was not based on the Raspbian project, the name of the officially provided operating system was changed to Raspberry Pi OS. This change was also carried over to the 32-bit version, though it continued to be based on Raspbian. The 64-bit version of Raspberry Pi OS was officially released on February 2nd, 2022.
+Features
+User interface
+Raspberry Pi OS has a desktop environment, PIXEL, based on LXDE, which looks similar to many common desktops, such as macOS and Microsoft Windows. The desktop has a background image. A menu bar is positioned at the top and contains an application menu and shortcuts to a web browser (Chromium), file manager, and terminal. The other end of the menu bar shows a Bluetooth menu, Wi-Fi menu, volume control, and clock. The desktop can also be changed from its default appearance, such as repositioning the menu bar.
+Package management
+Packages can be installed via APT, the Recommended Software app, and by using the Add/Remove Software tool, a GUI wrapper for APT.
+Components
+PCManFM is a file browser allowing quick access to all areas of the computer, and was redesigned in the first Raspberry Pi OS Buster release (2019-06-20).
+Raspberry Pi OS originally distributed the web browser Epiphany, but switched to Chromium with the launch of its redesigned desktop. The built-in browser comes preinstalled with uBlock Origin and h264ify.
+Raspberry Pi OS comes with many beginner IDEs, such as Thonny Python IDE, Mu Editor, and Greenfoot. It also ships with educational software, such as Scratch and Bookshelf.
+Reception
+The download statistics from the Raspberry Pi Imager indicate that Raspberry Pi OS is by far the most used operating system on the Raspberry Pi, accounting for 68.44% of all OS downloads in the month preceding 24 February 2022.
+Jesse Smith from DistroWatch reviewed Raspbian in 2015:
+Microsoft repository controversy
+In late January 2021, the Raspberry Pi OS package raspberrypi-sys-mods added a trusted GPG key and configuration entry in the APT package manager. This addition made it easier to install Visual Studio Code, a source code editor developed by Microsoft. This change initiated a query to Microsoft's package servers every time the system checked for updates. Given Microsoft's once adversarial history with Linux, this form of telemetry upset some users. The changes were later removed.
+Versions
+Raspberry Pi OS is produced in three installation versions:
+Two legacy versions are recognized:
+Raspberry Pi OS Lite is the smallest version, and does not include a desktop environment. The desktop version includes the Pixel desktop environment. Raspberry Pi OS with desktop and recommended software comes pre-installed with additional productivity software, such as Libre Office.
+On December 2nd, 2021, the Raspberry Pi Foundation released Raspberry Pi OS (Legacy), a branch of the operating system that continued to receive security and hardware compatibility updates but was based on Buster, an older version of Debian.
+All versions are distributed as disk image files, having the file extension img, intended to be flashed to microSD cards from which Raspberry Pi OS is booted. In March 2020, the Raspberry Pi Foundation published the Raspberry Pi Imager, a custom disk installer for Raspberry Pi OS, as well as other operating systems designed for the Raspberry Pi, including RetroPi, and Kodi OS,
+The Raspberry Pi documentation recommends at least a 4 GiB microSD card for Raspberry Pi OS Lite, and at least an 8 GiB microSD card for all other versions.

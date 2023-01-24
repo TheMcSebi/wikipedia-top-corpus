@@ -1,0 +1,110 @@
+Multiple integral
+In mathematics (specifically multivariable calculus), a multiple integral is a definite integral of a function of several real variables, for instance, f(x, y) or f(x, y, z). Integrals of a function of two variables over a region in $MATH$ (the real-number plane) are called double integrals, and integrals of a function of three variables over a region in $MATH$ (real-number 3D space) are called triple integrals. For multiple integrals of a single-variable function, see the Cauchy formula for repeated integration.
+Introduction
+Just as the definite integral of a positive function of  one variable represents the area of the region between the graph of the function and the x-axis, the double integral of a positive function of two variables represents the volume of the region between the surface defined by the function (on the three-dimensional Cartesian plane where z = f(x, y)) and the plane which contains its domain. If there are more variables, a multiple integral will yield hypervolumes of multidimensional functions.
+Multiple integration of a function in n variables: f(x1, x2, ..., xn) over a domain D is most commonly represented by nested integral signs in the reverse order of execution (the leftmost integral sign is computed last), followed by the function and integrand arguments in proper order (the integral with respect to the rightmost argument is computed last). The domain of integration is either represented symbolically for every argument over each integral sign, or is abbreviated by a variable at the rightmost integral sign:
+Since the concept of an antiderivative is only defined for functions of a single real variable, the usual definition of the indefinite integral does not immediately extend to the multiple integral.
+Mathematical definition
+For n > 1, consider a so-called "half-open" n-dimensional hyperrectangular domain T, defined as:
+Partition each interval [aj, bj) into a finite family Ij of non-overlapping subintervals ijα, with each subinterval closed at the left end, and open at the right end.
+Then the finite family of subrectangles C given by
+is a partition of T; that is, the subrectangles Ck are non-overlapping and their union is T.
+Let f : T → R be a function defined on T. Consider a partition C of T as defined above, such that C is a family of m subrectangles Cm and
+We can approximate the total (n + 1)-dimensional volume bounded below by the n-dimensional hyperrectangle T and above by the n-dimensional graph of f with the following Riemann sum:
+where Pk is a point in Ck and m(Ck) is the product of the lengths of the intervals whose Cartesian product is Ck, also known as the measure of Ck.
+The diameter of a subrectangle Ck is the largest of the lengths of the intervals whose Cartesian product is Ck. The diameter of a given partition of T is defined as the largest of the diameters of the subrectangles in the partition. Intuitively, as the diameter of the partition C is restricted smaller and smaller, the number of subrectangles m gets larger, and the measure m(Ck) of each subrectangle grows smaller. The function f is said to be Riemann integrable if the limit
+exists, where the limit is taken over all possible partitions of T of diameter at most δ.
+If f is Riemann integrable, S is called the Riemann integral of f over T and is denoted
+Frequently this notation is abbreviated as
+where x represents the n-tuple (x1, …, xn) and dnx is the n-dimensional volume differential.
+The Riemann integral of a function defined over an arbitrary bounded n-dimensional set can be defined by extending that function to a function defined over a half-open rectangle whose values are zero outside the domain of the original function. Then the integral of the original function over the original domain is defined to be the integral of the extended function over its rectangular domain, if it exists.
+In what follows the Riemann integral in n dimensions will be called the multiple integral.
+Properties
+Multiple integrals have many properties common to those of integrals of functions of one variable (linearity, commutativity, monotonicity, and so on). One important property of multiple integrals is that the value of an integral is independent of the order of integrands under certain conditions. This property is popularly known as Fubini's theorem.
+Particular cases
+In the case of $MATH$, the integral
+is the double integral of f on T, and if $MATH$ the integral
+is the triple integral of f on T.
+Notice that, by convention, the double integral has two integral signs, and the triple integral has three; this is a notational convention which is convenient when computing a multiple integral as an iterated integral, as shown later in this article.
+Methods of integration
+The resolution of problems with multiple integrals consists, in most cases, of finding a way to reduce the multiple integral to an iterated integral, a series of integrals of one variable, each being directly solvable. For continuous functions, this is justified by Fubini's theorem. Sometimes, it is possible to obtain the result of the integration by direct examination without any calculations.
+The following are some simple methods of integration:
+Integrating constant functions
+When the integrand is a constant function c, the integral is equal to the product of c and the measure of the domain of integration. If c = 1 and the domain is a subregion of R2, the integral gives the area of the region, while if the domain is a subregion of R3, the integral gives the volume of the region. 
+Use of symmetry
+When the domain of integration is symmetric about the origin with respect to at least one of the variables of integration and the integrand is odd with respect to this variable, the integral is equal to zero, as the integrals over the two halves of the domain have the same absolute value but opposite signs. When the integrand is even with respect to this variable, the integral is equal to twice the integral over one half of the domain, as the integrals over the two halves of the domain are equal.
+Normal domains on R2
+This method is applicable to any domain D for which:
+Such a domain will be here called a normal domain.  Elsewhere in the literature, normal domains are sometimes called type I or type II domains, depending on which axis the domain is fibred over.  In all cases, the function to be integrated must be Riemann integrable on the domain, which is true (for instance) if the function is continuous.
+x-axis
+If the domain D is normal with respect to the x-axis, and f : D → R is a continuous function; then α(x) and β(x) (both of which are defined on the interval [a, b]) are the two functions that determine D. Then, by Fubini's theorem:
+y-axis
+If D is normal with respect to the y-axis and f : D → R is a continuous function; then α(y) and β(y) (both of which are defined on the interval [a, b]) are the two functions that determine D. Again, by Fubini's theorem:
+Normal domains on R3
+If T is a domain that is normal with respect to the xy-plane and determined by the functions α(x, y) and β(x, y), then
+This definition is the same for the other five normality cases on R3.  It can be generalized in a straightforward way to domains in Rn.
+Change of variables
+The limits of integration are often not easily interchangeable (without normality or with complex formulae to integrate). One makes a change of variables to rewrite the integral in a more "comfortable" region, which can be described in simpler formulae. To do so, the function must be adapted to the new coordinates.
+There exist three main "kinds" of changes of variable (one in R2, two in R3); however, more general substitutions can be made using the same principle.
+Polar coordinates
+In R2 if the domain has a circular symmetry and the function has some particular characteristics one can apply the transformation to polar coordinates (see the example in the picture) which means that the generic points P(x, y) in Cartesian coordinates switch to their respective points in polar coordinates. That allows one to change the shape of the domain and simplify the operations.
+The fundamental relation to make the transformation is the following:
+The transformation of the domain is made by defining the radius' crown length and the amplitude of the described angle to define the ρ, φ intervals starting from x, y.
+Cylindrical coordinates
+In R3 the integration on domains with a circular base can be made by the passage to cylindrical coordinates; the transformation of the function is made by the following relation:
+The domain transformation can be graphically attained, because only the shape of the base varies, while the height follows the shape of the starting region.
+Spherical coordinates
+In R3 some domains have a spherical symmetry, so it's possible to specify the coordinates of every point of the integration region by two angles and one distance. It's possible to use therefore the passage to spherical coordinates; the function is transformed by this relation:
+Points on the z-axis do not have a precise characterization in spherical coordinates, so θ can vary between 0 and 2π.
+The better integration domain for this passage is the sphere.
+It is better to use this method in case of spherical domains and in case of functions that can be easily simplified by the first fundamental relation of trigonometry extended to R3 (see Example 4b); in other cases it can be better to use cylindrical coordinates (see Example 4c).
+The extra ρ2 and sin φ come from the Jacobian.
+In the following examples the roles of φ and θ have been reversed.
+See also the differential volume entry in nabla in cylindrical and spherical coordinates.
+Examples
+Double integral over a rectangle
+Let us assume that we wish to integrate a multivariable function f over a region A:
+From this we formulate the iterated integral
+The inner integral is performed first, integrating with respect to x and taking y as a constant, as it is not the variable of integration. The result of this integral, which is a function depending only on y, is then integrated with respect to y.
+We then integrate the result with respect to y.
+In cases where the double integral of the absolute value of the function is finite, the order of integration is interchangeable, that is, integrating with respect to x first and integrating with respect to y first produce the same result. That is Fubini's theorem. For example, doing the previous calculation with order reversed gives the same result:
+Double integral over a normal domain
+Consider the region (please see the graphic in the example):
+Calculate
+This domain is normal with respect to both the x- and y-axes. To apply the formulae it is required to find the functions that determine D and the intervals over which these functions are defined. In this case the two functions are:
+while the interval is given by the intersections of the functions with x = 0, so the interval is [a, b] = [0, 1] (normality has been chosen with respect to the x-axis for a better visual understanding).
+It is now possible to apply the formula:
+(at first the second integral is calculated considering x as a constant). The remaining operations consist of applying the basic techniques of integration:
+If we choose normality with respect to the y-axis we could calculate
+and obtain the same value.
+Calculating volume
+Using the methods previously described, it is possible to calculate the volumes of some common solids.
+This is in agreement with the formula for the volume of a prism
+Multiple improper integral
+In case of unbounded domains or functions not bounded near the boundary of the domain, we have to introduce the double improper integral or the triple improper integral.
+Multiple integrals and iterated integrals
+Fubini's theorem states that if
+that is, if the integral is absolutely convergent, then the multiple integral will give the same result as either of the two iterated integrals:
+In particular this will occur if |f(x, y)| is a bounded function and A and B are bounded sets.
+If the integral is not absolutely convergent, care is needed not to confuse the concepts of multiple integral and iterated integral, especially since the same notation is often used for either concept. The notation
+means, in some cases, an iterated integral rather than a true double integral. In an iterated integral, the outer integral
+is the integral with respect to x of the following function of x:
+A double integral, on the other hand, is defined with respect to area in the xy-plane. If the double integral exists, then it is equal to each of the two iterated integrals (either "dy dx" or "dx dy") and one often computes it by computing either of the iterated integrals. But sometimes the two iterated integrals exist when the double integral does not, and in some such cases the two iterated integrals are different numbers, i.e., one has
+This is an instance of rearrangement of a conditionally convergent integral.
+On the other hand, some conditions ensure that the two iterated integrals are equal even though the double integral need not exist. By the Fichtenholz–Lichtenstein theorem, if f is bounded on [0, 1] × [0, 1] and both iterated integrals exist, then they are equal. Moreover, existence of the inner integrals ensures existence of the outer integrals. The double integral need not exist in this case even as Lebesgue integral, according to Sierpiński.
+The notation
+may be used if one wishes to be emphatic about intending a double integral rather than an iterated integral. 
+Triple integral
+Triple integral was demonstrated by Fubini's theorem. Drichlet theorem and Liouville 's extension theorem on Triple integral.
+Some practical applications
+Quite generally, just as in one variable, one can use the multiple integral to find the average of a function over a given set. Given a set D ⊆ Rn and an integrable function f over D, the average value of f over its domain is given by
+where m(D) is the measure of D.
+Additionally, multiple integrals are used in many applications in physics. The examples below also show some variations in the notation.
+In mechanics, the moment of inertia is calculated as the volume integral (triple integral) of the density weighed with the square of the distance from the axis:
+The gravitational potential associated with a mass distribution given by a mass measure dm on three-dimensional Euclidean space R3 is
+If there is a continuous function ρ(x) representing the density of the distribution at x, so that dm(x) = ρ(x)d3x, where d3x is the Euclidean volume element, then the gravitational potential is
+In electromagnetism, Maxwell's equations can be written using multiple integrals to calculate the total magnetic and electric fields. In the following example, the electric field produced by a distribution of charges given by the volume charge density ρ( r→ ) is obtained by a triple integral of a vector function:
+This can also be written as an integral with respect to a signed measure representing the charge distribution.
+See also
+References
+Further reading

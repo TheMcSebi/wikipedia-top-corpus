@@ -1,0 +1,160 @@
+Poisson distribution
+In probability theory and statistics, the Poisson distribution is a discrete probability distribution that expresses the probability of a given number of events occurring in a fixed interval of time or space if these events occur with a known constant mean rate and independently of the time since the last event. It is named after French mathematician Siméon Denis Poisson (/ˈpwɑːsɒn/; French pronunciation: [pwasɔ̃]). The Poisson distribution can also be used for the number of events in other specified interval types such as distance, area, or volume.
+For instance, a call center receives an average of 180 calls per hour, 24 hours a day.  The calls are independent; receiving one does not change the probability of when the next one will arrive. The number of calls received during any minute has a Poisson probability distribution with mean 3: the most likely numbers are 2 and 3 but 1 and 4 are also likely and there is a small probability of it being as low as zero and a very small probability it could be 10.
+Another example is the number of decay events that occur from a radioactive source during a defined observation period.
+History
+The distribution was first introduced by Siméon Denis Poisson (1781–1840) and published together with his probability theory in his work Recherches sur la probabilité des jugements en matière criminelle et en matière civile (1837).: 205-207  The work theorized about the number of wrongful convictions in a given country by focusing on certain random variables N that count, among other things, the number of discrete occurrences (sometimes called "events" or "arrivals") that take place during a time-interval of given length. The result had already been given in 1711 by Abraham de Moivre in De Mensura Sortis seu; de Probabilitate Eventuum in Ludis a Casu Fortuito Pendentibus .: 219 : 14-15 : 193 : 157  This makes it an example of Stigler's law and it has prompted some authors to argue that the Poisson distribution should bear the name of de Moivre.
+In 1860, Simon Newcomb fitted the Poisson distribution to the number of stars found in a unit of space.
+A further practical application of this distribution was made by Ladislaus Bortkiewicz in 1898 when he was given the task of investigating the number of soldiers in the Prussian army killed accidentally by horse kicks;: 23-25  this experiment introduced the Poisson distribution to the field of reliability engineering.
+Definitions
+Probability mass function
+A discrete random variable X is said to have a Poisson distribution, with parameter $MATH$ if it has a probability mass function given by:: 60 
+where
+The positive real number λ is equal to the expected value of X and also to its variance.
+The Poisson distribution can be applied to systems with a large number of possible events, each of which is rare. The number of such events that occur during a fixed time interval is, under the right circumstances, a random number with a Poisson distribution.
+The equation can be adapted if, instead of the average number of events $MATH$ we are given the average rate $MATH$ at which events occur. Then $MATH$ and:
+Example
+The Poisson distribution may be useful to model events such as:
+Assumptions and validity
+The Poisson distribution is an appropriate model if the following assumptions are true:
+If these conditions are true, then k is a Poisson random variable, and the distribution of k is a Poisson distribution.
+The Poisson distribution is also the limit of a binomial distribution, for which the probability of success for each trial equals λ divided by the number of trials, as the number of trials approaches infinity (see Related distributions).
+Once in an interval events: The special case of λ = 1 and k = 0
+Suppose that astronomers estimate that large meteorites (above a certain size) hit the earth on average once every 100 years ( λ = 1  event per 100 years), and that the number of meteorite hits follows a Poisson distribution. What is the probability of  k = 0  meteorite hits in the next 100 years?
+Under these assumptions, the probability that no large meteorites hit the earth in the next 100 years is roughly 0.37. The remaining 1 − 0.37 = 0.63 is the probability of 1, 2, 3, or more large meteorite hits in the next 100 years.
+In an example above, an overflow flood occurred once every 100 years (λ = 1). The probability of no overflow floods in 100 years was roughly 0.37, by the same calculation.
+In general, if an event occurs on average once per interval (λ = 1), and the events follow a Poisson distribution, then P(0 events in next interval) = 0.37. In addition, P(exactly one event in next interval) = 0.37, as shown in the table for overflow floods.
+Examples that violate the Poisson assumptions
+The number of students who arrive at the student union per minute will likely not follow a Poisson distribution, because the rate is not constant (low rate during class time, high rate between class times) and the arrivals of individual students are not independent (students tend to come in groups). The non-constant arrival rate may be modeled as a mixed Poisson distribution, and the arrival of groups rather than individual students as a compound Poisson process.
+The number of magnitude 5 earthquakes per year in a country may not follow a Poisson distribution, if one large earthquake increases the probability of aftershocks of similar magnitude.
+Examples in which at least one event is guaranteed are not Poisson distributed; but may be modeled using a zero-truncated Poisson distribution.
+Count distributions in which the number of intervals with zero events is higher than predicted by a Poisson model may be modeled using a zero-inflated model.
+Properties
+Descriptive statistics
+Median
+Bounds for the median ($MATH$) of the distribution are known and are sharp:
+Higher moments
+
+The higher non-centered moments, mk of the Poisson distribution, are Touchard polynomials in λ: 
+ where the {braces} denote Stirling numbers of the second kind.: 6  The coefficients of the polynomials have a combinatorial meaning. In fact, when the expected value of the Poisson distribution is 1, then Dobinski's formula says that the n‑th moment equals the number of partitions of a set of size n.
+A simple bound is
+Sums of Poisson-distributed random variables
+If $MATH$ for $MATH$ are independent, then $MATH$: 65  A converse is Raikov's theorem, which says that if the sum of two independent random variables is Poisson-distributed, then so are each of those two independent random variables.
+Other properties
+Poisson races
+Let $MATH$ and $MATH$ be independent random variables, with $MATH$ then we have that
+The upper bound is proved using a standard Chernoff bound.
+The lower bound can be proved by noting that $MATH$ is the probability that $MATH$ where $MATH$ which is bounded below by $MATH$ where $MATH$ is relative entropy (See the entry on bounds on tails of binomial distributions for details). Further noting that $MATH$ and computing a lower bound on the unconditional probability gives the result. More details can be found in the appendix of Kamath et al..
+Related distributions
+As a Binomial distribution with infinitesimal time-steps
+
+The Poisson distribution can be derived as a limiting case to the binomial distribution as the number of trials goes to infinity and the expected number of successes remains fixed — see law of rare events below. Therefore, it can be used as an approximation of the binomial distribution if n is sufficiently large and p is sufficiently small. The Poisson distribution is a good approximation of the binomial distribution if n is at least 20 and p is smaller than or equal to 0.05, and an excellent approximation if n ≥ 100 and n p ≤ 10.
+General
+Poisson approximation
+Assume $MATH$ where $MATH$ then $MATH$ is multinomially distributed
+$MATH$ conditioned on $MATH$
+This means: 101-102 , among other things, that for any nonnegative function $MATH$
+if $MATH$ is multinomially distributed, then
+where $MATH$
+The factor of $MATH$ can be replaced by 2 if $MATH$ is further assumed to be monotonically increasing or decreasing.
+Bivariate Poisson distribution
+This distribution has been extended to the bivariate case. The generating function for this distribution is
+
+
+with 
+The marginal distributions are Poisson(θ1) and Poisson(θ2) and the correlation coefficient is limited to the range
+A simple way to generate a bivariate Poisson distribution $MATH$ is to take three independent Poisson distributions $MATH$ with means $MATH$ and then set $MATH$ The probability function of the bivariate Poisson distribution is
+Free Poisson distribution
+The free Poisson distribution with jump size $MATH$ and rate $MATH$ arises in free probability theory as the limit of repeated free convolution
+as N → ∞.
+In other words, let $MATH$ be random variables so that $MATH$ has value $MATH$ with probability $MATH$ and value 0 with the remaining probability. Assume also that the family $MATH$ are freely independent. Then the limit as $MATH$ of the law of $MATH$ is given by the Free Poisson law with parameters $MATH$
+This definition is analogous to one of the ways in which the classical Poisson distribution is obtained from a (classical) Poisson process.
+The measure associated to the free Poisson law is given by
+
+where 
+ and has support $MATH$
+This law also arises in random matrix theory as the Marchenko–Pastur law. Its free cumulants are equal to $MATH$
+Some transforms of this law
+We give values of some important transforms of the free Poisson law; the computation can be found in e.g. in the book Lectures on the Combinatorics of Free Probability by A. Nica and R. Speicher
+The R-transform of the free Poisson law is given by
+The Cauchy transform (which is the negative of the Stieltjes transformation) is given by
+The S-transform is given by
+in the case that $MATH$
+Weibull and Stable count
+Poisson's probability mass function $MATH$ can be expressed in a form similar to the product distribution of a Weibull distribution and a variant form of the stable count distribution. 
+The variable $MATH$ can be regarded as inverse of Lévy's stability parameter in the stable count distribution:
+where $MATH$ is a standard stable count distribution of shape $MATH$ and $MATH$ is a standard Weibull distribution of shape $MATH$
+Statistical inference
+Parameter estimation
+Given a sample of n measured values $MATH$ for  i = 1, ..., n, we wish to estimate the value of the parameter λ of the Poisson population from which the sample was drawn. The maximum likelihood estimate is 
+Since each observation has expectation λ so does the sample mean. Therefore, the maximum likelihood estimate is an unbiased estimator of λ. It is also an efficient estimator since its variance achieves the Cramér–Rao lower bound (CRLB). Hence it is minimum-variance unbiased. Also it can be proven that the sum (and hence the sample mean as it is a one-to-one function of the sum) is a complete and sufficient statistic for λ.
+To prove sufficiency we may use the factorization theorem. Consider partitioning the probability mass function of the joint Poisson distribution for the sample into two parts: one that depends solely on the sample $MATH$ (called $MATH$) and one that depends on the parameter $MATH$ and the sample $MATH$ only through the function $MATH$ Then $MATH$ is a sufficient statistic for $MATH$
+The first term, $MATH$ depends only on $MATH$ The second term, $MATH$ depends on the sample only through $MATH$ Thus, $MATH$ is sufficient.
+To find the parameter λ that maximizes the probability function for the Poisson population, we can use the logarithm of the likelihood function:
+We take the derivative of $MATH$ with respect to λ and compare it to zero:
+Solving for λ gives a stationary point.
+So λ is the average of the ki values. Obtaining the sign of the second derivative of L at the stationary point will determine what kind of extreme value λ is.
+Evaluating the second derivative at the stationary point gives:
+which is the negative of n times the reciprocal of the average of the ki. This expression is negative when the average is positive. If this is satisfied, then the stationary point maximizes the probability function.
+For completeness, a family of distributions is said to be complete if and only if $MATH$ implies that $MATH$ for all $MATH$ If the individual $MATH$ are iid $MATH$ then $MATH$ Knowing the distribution we want to investigate, it is easy to see that the statistic is complete.
+For this equality to hold, $MATH$ must be 0. This follows from the fact that none of the other terms will be 0 for all $MATH$ in the sum and for all possible values of $MATH$ Hence, $MATH$ for all $MATH$ implies that $MATH$ and the statistic has been shown to be complete.
+Confidence interval
+The confidence interval for the mean of a Poisson distribution can be expressed using the relationship between the cumulative distribution functions of the Poisson and chi-squared distributions. The chi-squared distribution is itself closely related to the gamma distribution, and this leads to an alternative expression. Given an observation k from a Poisson distribution with mean μ, a confidence interval for μ with confidence level 1 – α is
+or equivalently,
+where $MATH$ is the quantile function (corresponding to a lower tail area p) of the chi-squared distribution with n degrees of freedom and $MATH$ is the quantile function of a gamma distribution with shape parameter n and scale parameter 1.: 176-178  This interval is 'exact' in the sense that its coverage probability is never less than the nominal 1 – α.
+When quantiles of the gamma distribution are not available, an accurate approximation to this exact interval has been proposed (based on the Wilson–Hilferty transformation):
+where $MATH$ denotes the standard normal deviate with upper tail area α / 2.
+For application of these formulae in the same context as above (given a sample of n measured values ki each drawn from a Poisson distribution with mean λ), one would set
+calculate an interval for  μ = n λ , and then derive the interval for λ.
+Bayesian inference
+In Bayesian inference, the conjugate prior for the rate parameter λ of the Poisson distribution is the gamma distribution. Let
+denote that λ is distributed according to the gamma density g parameterized in terms of a shape parameter α and an inverse scale parameter β:
+Then, given the same sample of n measured values ki as before, and a prior of Gamma(α, β), the posterior distribution is
+Note that the posterior mean is linear and is given by 
+It can be shown that gamma distribution is the only prior that induces linearity of the conditional mean. Moreover, a converse result exists which states that if the conditional mean is close to a linear function in the $MATH$ distance than the prior distribution of λ must be close to gamma distribution in Levy distance.
+The posterior mean E[λ] approaches the maximum likelihood estimate $MATH$ in the limit as $MATH$ which follows immediately from the general expression of the mean of the gamma distribution.
+The posterior predictive distribution for a single additional observation is a negative binomial distribution,: 53  sometimes called a gamma–Poisson distribution.
+Simultaneous estimation of multiple Poisson means
+Suppose $MATH$ is a set of independent random variables from a set of $MATH$ Poisson distributions, each with a parameter $MATH$ $MATH$ and we would like to estimate these parameters. Then, Clevenson and Zidek show that under the normalized squared error loss $MATH$ when $MATH$ then, similar as in Stein's example for the Normal means, the MLE estimator $MATH$ is inadmissible. 
+In this case, a family of minimax estimators is given for any $MATH$ and $MATH$ as
+Occurrence and applications
+Applications of the Poisson distribution can be found in many fields including:
+The Poisson distribution arises in connection with Poisson processes. It applies to various phenomena of discrete properties (that is, those that may happen 0, 1, 2, 3, … times during a given period of time or in a given area) whenever the probability of the phenomenon happening is constant in time or space. Examples of events that may be modelled as a Poisson distribution include:
+Gallagher showed in 1976 that the counts of prime numbers in short intervals obey a Poisson distribution provided a certain version of the unproved prime r-tuple conjecture of Hardy-Littlewood is true.
+Law of rare events
+The rate of an event is related to the probability of an event occurring in some small subinterval (of time, space or otherwise). In the case of the Poisson distribution, one assumes that there exists a small enough subinterval for which the probability of an event occurring twice is "negligible". With this assumption one can derive the Poisson distribution from the Binomial one, given only the information of expected number of total events in the whole interval.
+Let the total number of events in the whole interval be denoted by $MATH$ Divide the whole interval into $MATH$ subintervals $MATH$ of equal size, such that $MATH$ (since we are interested in only very small portions of the interval this assumption is meaningful). This means that the expected number of events in each of the n subintervals is equal to $MATH$
+Now we assume that the occurrence of an event in the whole interval can be seen as a sequence of n Bernoulli trials, where the $MATH$-th Bernoulli trial corresponds to looking whether an event happens at the subinterval $MATH$ with probability $MATH$ The expected number of total events in $MATH$ such trials would be $MATH$ the expected number of total events in the whole interval. Hence for each subdivision of the interval we have approximated the occurrence of the event as a Bernoulli process of the form $MATH$ As we have noted before we want to consider only very small subintervals. Therefore, we take the limit as $MATH$ goes to infinity.
+In this case the binomial distribution converges to what is known as the Poisson distribution by the Poisson limit theorem.
+In several of the above examples — such as, the number of mutations in a given sequence of DNA—the events being counted are actually the outcomes of discrete trials, and would more precisely be modelled using the binomial distribution, that is
+
+
+In such cases n is very large and p is very small (and so the expectation n p is of intermediate magnitude). Then the distribution may be approximated by the less cumbersome Poisson distribution 
+This approximation is sometimes known as the law of rare events,: 5  since each of the n individual Bernoulli events rarely occurs.
+The name "law of rare events" may be misleading because the total count of success events in a Poisson process need not be rare if the parameter n p is not small. For example, the number of telephone calls to a busy switchboard in one hour follows a Poisson distribution with the events appearing frequent to the operator, but they are rare from the point of view of the average member of the population who is very unlikely to make a call to that switchboard in that hour.
+The variance of the binomial distribution is 1 − p times that of the Poisson distribution, so almost equal when p is very small.
+The word law is sometimes used as a synonym of probability distribution, and convergence in law means convergence in distribution. Accordingly, the Poisson distribution is sometimes called the "law of small numbers" because it is the probability distribution of the number of occurrences of an event that happens rarely but has very many opportunities to happen. The Law of Small Numbers is a book by Ladislaus Bortkiewicz about the Poisson distribution, published in 1898.
+Poisson point process
+The Poisson distribution arises as the number of points of a Poisson point process located in some finite region. More specifically, if D is some region space, for example Euclidean space Rd, for which |D|, the area, volume or, more generally, the Lebesgue measure of the region is finite, and if  N(D)  denotes the number of points in D, then
+Poisson regression and negative binomial regression
+Poisson regression and negative binomial regression are useful for analyses where the dependent (response) variable is the count  (0, 1, 2, ... )  of the number of events or occurrences in an interval.
+Other applications in science
+In a Poisson process, the number of observed occurrences fluctuates about its mean λ with a standard deviation $MATH$ These fluctuations are denoted as Poisson noise or (particularly in electronics) as shot noise.
+The correlation of the mean and standard deviation in counting independent discrete occurrences is useful scientifically. By monitoring how the fluctuations vary with the mean signal, one can estimate the contribution of a single occurrence, even if that contribution is too small to be detected directly. For example, the charge e on an electron can be estimated by correlating the magnitude of an electric current with its shot noise. If N electrons pass a point in a given time t on the average, the mean current is $MATH$; since the current fluctuations should be of the order $MATH$ (i.e., the standard deviation of the Poisson process), the charge $MATH$ can be estimated from the ratio $MATH$
+An everyday example is the graininess that appears as photographs are enlarged; the graininess is due to Poisson fluctuations in the number of reduced silver grains, not to the individual grains themselves. By correlating the graininess with the degree of enlargement, one can estimate the contribution of an individual grain (which is otherwise too small to be seen unaided). Many other molecular applications of Poisson noise have been developed, e.g., estimating the number density of receptor molecules in a cell membrane.
+In causal set theory the discrete elements of spacetime follow a Poisson distribution in the volume.
+Computational methods
+The Poisson distribution poses two different tasks for dedicated software libraries: evaluating the distribution $MATH$, and drawing random numbers according to that distribution.
+Evaluating the Poisson distribution
+Computing $MATH$ for given $MATH$ and $MATH$ is a trivial task that can be accomplished by using the standard definition of $MATH$ in terms of exponential, power, and factorial functions. However, the conventional definition of the Poisson distribution contains two terms that can easily overflow on computers: λk and k!. The fraction of λk to k! can also produce a rounding error that is very large compared to e−λ, and therefore give an erroneous result. For numerical stability the Poisson probability mass function should therefore be evaluated as
+which is mathematically equivalent but numerically stable. The natural logarithm of the Gamma function can be obtained using the lgamma function in the C standard library (C99 version) or R, the gammaln function in MATLAB or SciPy, or the log_gamma function in Fortran 2008 and later.
+Some computing languages provide built-in functions to evaluate the Poisson distribution, namely
+Random variate generation
+The less trivial task is to draw integer random variate from the Poisson distribution with given $MATH$
+Solutions are provided by:
+A simple algorithm to generate random Poisson-distributed numbers (pseudo-random number sampling) has been given by Knuth:: 137-138 
+The complexity is linear in the returned value k, which is λ on average.  There are many other algorithms to improve this. Some are given in Ahrens & Dieter, see § References below.
+For large values of λ, the value of L = e−λ may be so small that it is hard to represent.  This can be solved by a change to the algorithm which uses an additional parameter STEP such that e−STEP does not underflow: 
+The choice of STEP depends on the threshold of overflow. For double precision floating point format the threshold is near e700, so 500 should be a safe STEP.
+Other solutions for large values of λ include rejection sampling and using Gaussian approximation.
+Inverse transform sampling is simple and efficient for small values of λ, and requires only one uniform random number u per sample. Cumulative probabilities are examined in turn until one exceeds u.

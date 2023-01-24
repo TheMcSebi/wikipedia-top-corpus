@@ -1,0 +1,78 @@
+Astronomical clock
+An astronomical clock, horologium, or orloj is a clock with special mechanisms and dials to display astronomical information, such as the relative positions of the Sun, Moon, zodiacal constellations, and sometimes major planets.
+Definition
+The term is loosely used to refer to any clock that shows, in addition to the time of day, astronomical information. This could include the location of the Sun and Moon in the sky, the age and Lunar phases, the position of the Sun on the ecliptic and the current zodiac sign, the sidereal time, and other astronomical data such as the Moon's nodes (for indicating eclipses) or a rotating star map. The term should not be confused with astronomical regulator, a high precision but otherwise ordinary pendulum clock used in observatories.
+Astronomical clocks usually represent the Solar System using the geocentric model. The center of the dial is often marked with a disc or sphere representing the Earth, located at the center of the Solar System. The Sun is often represented by a golden sphere (as it initially appeared in the Antikythera mechanism, back in the 2nd century BC), shown rotating around the Earth once a day around a 24-hour analog dial. This view accorded both with the daily experience and with the philosophical world view of pre-Copernican Europe.
+History
+The Antikythera mechanism is the oldest known analog computer and astronomical clock. A complex arrangement of multiple gears and gear trains could perform functions such as determining the position of the sun, moon and planets, predict eclipses and other astronomical phenomena and tracking the dates of Olympic Games. Research in 2011 and 2012 led an expert group of researchers to posit that European astronomical clocks are descended from the technology of the Antikythera mechanism.
+In the 11th century, the Song dynasty Chinese horologist, mechanical engineer, and astronomer Su Song created a water-driven astronomical clock for his clock-tower of Kaifeng City. Su Song is noted for having incorporated an escapement mechanism and the earliest known endless power-transmitting chain drive for his clock-tower and armillary sphere to function. Contemporary Muslim astronomers and engineers also constructed a variety of highly accurate astronomical clocks for use in their observatories, such as the astrolabic clock by Ibn al-Shatir in the early 14th century.
+
+
+The early development of mechanical clocks in Europe is not fully understood, but there is general agreement that by 1300–1330 there existed mechanical clocks (powered by weights rather than by water and using an escapement) which were intended for two main purposes: for signalling and notification (e.g. the timing of services and public events), and for modelling the solar system. The latter is an inevitable development because the astrolabe was used both by astronomers and astrologers, and it was natural to apply a clockwork drive to the rotating plate to produce a working model of the solar system. American historian Lynn White Jr. of Princeton University wrote:
+The astronomical clocks developed by the English mathematician and cleric Richard of Wallingford in St Albans during the 1330s, and by medieval Italian physician and astronomer Giovanni de Dondi in Padua between 1348 and 1364 are masterpieces of their type. They no longer exist, but detailed descriptions of their design and construction survive, and modern reproductions have been made. Wallingford's clock may have shown the sun, moon (age, phase, and node), stars and planets, and had, in addition, a wheel of fortune and an indicator of the state of the tide at London Bridge. De Dondi's clock was a seven-faced construction with 107 moving parts, showing the positions of the sun, moon, and five planets, as well as religious feast days.
+Both these clocks, and others like them, were probably less accurate than their designers would have wished. The gear ratios may have been exquisitely calculated, but their manufacture was somewhat beyond the mechanical abilities of the time, and they never worked reliably. Furthermore, in contrast to the intricate advanced wheelwork, the timekeeping mechanism in nearly all these clocks until the 16th century was the simple verge and foliot escapement, which had errors of at least half an hour a day.
+Astronomical clocks were built as demonstration or exhibition pieces, to impress as much as to educate or inform. The challenge of building these masterpieces meant that clockmakers would continue to produce them, to demonstrate their technical skill and their patrons' wealth. The philosophical message of an ordered, heavenly-ordained universe, which accorded with the Gothic era view of the world, helps explain their popularity.
+The growing interest in astronomy during the 18th century revived interest in astronomical clocks, less for the philosophical message, more for the accurate astronomical information that pendulum-regulated clocks could display.
+Generic description
+Although each astronomical clock is different, they share some common features.
+Time of day
+Most astronomical clocks have a 24-hour analog dial around the outside edge, numbered from I to XII then from I to XII again. The current time is indicated by a golden ball or a picture of the sun at the end of a pointer. Local noon is usually at the top of the dial, and midnight at the bottom. Minute hands are rarely used.
+The Sun indicator or hand gives an approximate indication of both the Sun's azimuth and altitude. For azimuth (bearing from the north), the top of the dial indicates South, and the two VI points of the dial East and West. For altitude, the top is the zenith and the two VI and VI points define the horizon. (This is for the astronomical clocks designed for use in the northern hemisphere.) This interpretation is most accurate at the equinoxes, of course.
+If XII is not at the top of the dial, or if the numbers are Arabic rather than Roman, then the time may be shown in Italian hours (also called Bohemian, or Old Czech, hours). In this system, 1 o'clock occurs at sunset, and counting continues through the night and into the next afternoon, reaching 24 an hour before sunset.
+In the photograph of the Prague clock shown at the top of the article, the time indicated by the Sun hand is about 9am (IX in Roman numerals), or about the 13th hour (Italian time in Arabic numerals).
+Calendar and zodiac
+The year is usually represented by the 12 signs of the zodiac, arranged either as a concentric circle inside the 24-hour dial, or drawn onto a displaced smaller circle, which is a projection of the ecliptic, the path of the Sun and planets through the sky, and the plane of the Earth's orbit.
+The ecliptic plane is projected onto the face of the clock, and, because of the Earth's tilted angle of rotation relative to its orbital plane, it is displaced from the center and appears to be distorted. The projection point for the stereographic projection is the North pole; on astrolabes the South pole is more common.
+The ecliptic dial makes one complete revolution in 23 hours 56 minutes (a sidereal day), and will therefore gradually get out of phase with the hour hand, drifting slowly further apart during the year.
+To find the date, find the place where the hour hand or Sun disk intersects the ecliptic dial: this indicates the current star sign, the sun's current location on the ecliptic. The intersection point slowly moves around the ecliptic dial during the year, as the Sun moves out of one astrological sign into another.
+In the diagram showing the clock face on the right, the Sun's disk has recently moved into Aries (the stylized ram's horns), having left Pisces. The date is therefore late March or early April.
+If the zodiac signs run around inside the hour hands, either this ring rotates to align itself with the hour hand, or there's another hand, revolving once per year, which points to the Sun's current zodiac sign.
+Moon
+A dial or ring indicating the numbers 1 to 29 or 30 indicates the moon's age: a new moon is 0, waxes become full around day 15, and then wanes up to 29 or 30. The phase is sometimes shown by a rotating globe or black hemisphere, or a window that reveals part of a wavy black shape beneath.
+Hour lines
+Unequal hours were the result of dividing up the period of daylight into 12 equal hours and nighttime into another 12. In Europe, there is more daylight in the summer, and less night, so each of the 12 daylight hours is longer than a night hour. Similarly in winter, daylight hours are shorter, and night hours are longer. These unequal hours are shown by the curved lines radiating from the center. The longer daylight hours in summer can usually be seen at the outer edge of the dial, and the time in unequal hours is read by noting the intersection of the sun hand with the appropriate curved line.
+Aspects
+Astrologers placed importance on how the Sun, Moon, and planets were arranged and aligned in the sky. If certain planets appeared at the points of a triangle, hexagon, or square, or if they were opposite or next to each other, the appropriate aspect was used to determine the event's significance. On some clocks you can see the common aspects – triangle, square, and hexagon – drawn inside the central disc, with each line marked by the symbol for that aspect, and you may also see the signs for conjunction and opposition. On an astrolabe, the corners of the different aspects could be lined up on any of the planets. On a clock, though, the disc containing the aspect lines can't be rotated at will, so they usually show only the aspects of the Sun or Moon.
+On the Torre dell'Orologio, Brescia clock in northern Italy, the triangle, square, and star in the centre of the dial show these aspects (the third, fourth, and sixth phases) of (presumably) the moon.
+Dragon hand: eclipse prediction and lunar nodes
+The Moon's orbit is not in the same plane as the Earth's orbit around the Sun but crosses it in two places. The Moon crosses the ecliptic plane twice a month, once when it goes up above the plane, and again 15 or so days later when it goes back down below the ecliptic. These two locations are the ascending and descending lunar nodes. Solar and lunar eclipses will occur only when the Moon is positioned near one of these nodes because at other times the Moon is either too high or too low for an eclipse to be noticed from the earth. Some astronomical clocks keep track of the position of the lunar nodes with a long pointer that crosses the dial. This so-called dragon hand makes one complete rotation around the ecliptic dial every 19 years. When the dragon hand and the new moon coincide, the Moon is on the same plane as the Earth and Sun, and so there is every chance that an eclipse will be visible from somewhere on Earth.
+Historical examples
+Su Song's Cosmic Engine
+The Science Museum (London) has a scale model of the 'Cosmic Engine', which Su Song, a Chinese polymath, designed and constructed in China in 1092. This great astronomical hydromechanical clock tower was about ten metres high (about 30 feet) and featured a clock escapement and was indirectly powered by a rotating wheel either with falling water and liquid mercury, which freezes at a much lower temperature than water, allowing operation of the clock during colder weather. A full-sized working replica of Su Song's clock exists in the Republic of China (Taiwan)'s National Museum of Natural Science, Taichung city. This full-scale, fully functional replica, approximately 12 meters (39 feet) in height, was constructed from Su Song's original descriptions and mechanical drawings.
+Astrarium of Giovanni Dondi dell'Orologio
+The Astrarium of Giovanni Dondi dell'Orologio was a complex astronomical clock built between 1348 and 1364 in Padova, Italy, by the doctor and clock-maker Giovanni Dondi dell'Orologio. The Astrarium had seven faces and 107 moving gears; it showed the positions of the sun, the moon and the five planets then known, as well as religious feast days. The astrarium stood about 1 metre high, and consisted of a seven-sided brass or iron framework resting on 7 decorative paw-shaped feet. The lower section provided a 24-hour dial and a large calendar drum, showing the fixed feasts of the church, the movable feasts, and the position in the zodiac of the moon's ascending node. The upper section contained 7 dials, each about 30 cm in diameter, showing the positional data for the Primum Mobile, Venus, Mercury, the moon, Saturn, Jupiter, and Mars. Directly above the 24-hour dial is the dial of the Primum Mobile, so called because it reproduces the diurnal motion of the stars and the annual motion of the sun against the background of stars. Each of the 'planetary' dials used complex clockwork to produce reasonably accurate models of the planets' motion. These agreed reasonably well both with Ptolemaic theory and with observations. For example, Dondi's dial for Mercury uses a number of intermediate wheels, including: a wheel with 146 teeth, and a wheel with 63 internal (facing inwards) teeth that meshed with a 20 tooth pinion.
+Interior clocks and watches
+The Rasmus Sørnes Clock
+Arguably the most complicated of its kind ever constructed, the last of a total of four astronomical clocks designed and made by Norwegian Rasmus Sørnes (1893–1967), is characterized by its superior complexity compactly housed in a casing with the modest measurements of 0.70 x 0.60 x 2.10 m. Features include locations of the sun and moon in the zodiac, Julian calendar, Gregorian calendar, sidereal time, GMT, local time with daylight saving time and leap year, solar and lunar cycle corrections, eclipses, local sunset and sunrise, moon phase, tides, sunspot cycles and a planetarium including Pluto's 248-year orbit and the 25 800-year periods of the polar ecliptics (precession of the Earth's axis). All wheels are in brass and gold-plated. Dials are silver-plated. The clock has an electromechanical pendulum.
+Sørnes also made the necessary tools and based his work on his own astronomical observations. Having been exhibited at the Time Museum in Rockford, Illinois, and at The Chicago Museum of Science and Industry, the clock was sold in 2002 and its current location is not known. The Rasmus Sørnes Astronomical Clock No. 3, the precursor to the Chicago Clock, his tools, patents, drawings, telescope, and other items, are exhibited at the Borgarsyssel Museum in Sarpsborg, Norway.
+Table clocks
+There are many examples of astronomical table clocks, due to their popularity as showpieces. To become a master clockmaker in 17th-century Augsburg, candidates had to design and build a 'masterpiece' clock, an astronomical table-top clock of formidable complexity. Examples can be found in museums, such as London's British Museum.
+Currently Edmund Scientific among other retailers offers a mechanical Tellurium clock, perhaps the first mechanical astronomical clock to be mass-marketed.
+In Japan, Tanaka Hisashige made a Myriad year clock in 1851.
+Watches
+More recently, independent clockmaker Christiaan van der Klaauw created a wristwatch astrolabe, the "Astrolabium" in addition to the "Planetarium 2000", the "Eclipse 2001" and the "Real Moon."  Ulysse Nardin also sells several astronomical wristwatches, the "Astrolabium," "Planetarium", and the "Tellurium J. Kepler."
+Examples by country
+Austria
+Belgium
+Croatia
+Czech Republic
+Denmark
+France
+Georgia
+Germany
+Hungary
+Italy
+Latvia
+Malta
+Netherlands
+Norway
+Poland
+Slovakia
+Spain
+Sweden
+Switzerland
+United Kingdom
+See also
+Notes
+References
+Further reading

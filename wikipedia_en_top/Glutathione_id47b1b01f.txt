@@ -1,0 +1,51 @@
+Glutathione
+
+
+Glutathione (GSH, /ˌɡluːtəˈθaɪoʊn/) is an antioxidant in plants, animals, fungi, and some bacteria and archaea. Glutathione is capable of preventing damage to important cellular components caused by sources such as reactive oxygen species, free radicals, peroxides, lipid peroxides, and heavy metals. It is a tripeptide with a gamma peptide linkage between the carboxyl group of the glutamate side chain and cysteine. The carboxyl group of the cysteine residue is attached by normal peptide linkage to glycine.
+Biosynthesis and occurrence
+Glutathione biosynthesis involves two adenosine triphosphate-dependent steps:
+While all animal cells are capable of synthesizing glutathione, glutathione synthesis in the liver has been shown to be essential.  GCLC knockout mice die within a month of birth due to the absence of hepatic GSH synthesis.
+The unusual gamma amide linkage in glutathione protects it from hydrolysis by peptidases.
+Occurrence
+Glutathione is the most abundant thiol in animal cells, ranging from 0.5 to 10 mmol/L. It is present in the cytosol and the organelles.
+Human beings synthesize glutathione, but a few eukaryotes do not, including some members of Fabaceae, Entamoeba, and Giardia. The only known archaea that make glutathione are halobacteria. Some bacteria, such as "Cyanobacteria" and Pseudomonadota, can biosynthesize glutathione.
+Biochemical function
+Glutathione exists in reduced (GSH) and oxidized (GSSG) states. The ratio of reduced glutathione to oxidized glutathione within cells is a measure of cellular oxidative stress where increased GSSG-to-GSH ratio is indicative of greater oxidative stress. In healthy cells and tissue, more than 90% of the total glutathione pool is in the reduced form (GSH), with the remainder in the disulfide form (GSSG).
+In the reduced state, the thiol group of cysteinyl residue is a source of one reducing equivalent. Glutathione disulfide (GSSG) is thereby generated. The oxidized state is converted to the reduced state by NADPH. This conversion is catalyzed by glutathione reductase:
+Roles
+Antioxidant
+GSH protects cells by neutralising (reducing) reactive oxygen species. This conversion is illustrated by the reduction of peroxides:
+and with free radicals:
+Regulation
+Aside from deactivating radicals and reactive oxidants, glutathione participates in thiol protection and redox regulation of cellular thiol proteins under oxidative stress by protein S-glutathionylation, a redox-regulated post-translational thiol modification.  The general reaction involves formation of an unsymmetrical disulfide from the protectable protein (RSH) and GSH:
+Glutathione is also employed for the detoxification of methylglyoxal and formaldehyde, toxic metabolites produced under oxidative stress. This detoxification reaction is carried out by the glyoxalase system. Glyoxalase I (EC 4.4.1.5) catalyzes the conversion of methylglyoxal and reduced glutathione to S-D-lactoylglutathione. Glyoxalase II (EC 3.1.2.6) catalyzes the hydrolysis of S-D-lactoylglutathione to glutathione and D-lactic acid.
+It maintains exogenous antioxidants such as vitamins C and E in their reduced (active) states.
+Metabolism
+Among the many metabolic processes in which it participates, glutathione is required for the biosynthesis of leukotrienes and prostaglandins. It plays a role in the storage of cysteine. Glutathione enhances the function of citrulline as part of the nitric oxide cycle. It is a cofactor and acts on glutathione peroxidase.
+Conjugation
+Glutathione facilitates metabolism of xenobiotics. Glutathione S-transferase enzymes catalyze its conjugation to lipophilic xenobiotics, facilitating their excretion or further metabolism. The conjugation process is illustrated by the metabolism of N-acetyl-p-benzoquinone imine (NAPQI). NAPQI is a reactive metabolite formed by the action of cytochrome P450 on paracetamol (acetaminophen). Glutathione conjugates to NAPQI, and the resulting ensemble is excreted.
+Potential neurotransmitters
+Glutathione, along with oxidized glutathione (GSSG) and S-nitrosoglutathione (GSNO), bind to the glutamate recognition site of the NMDA and AMPA receptors (via their γ-glutamyl moieties). GSH and GSSG may be neuromodulators. At millimolar concentrations, GSH and GSSG may also modulate the redox state of the NMDA receptor complex. Glutathione binds and activates ionotropic receptors, potentially making it a neurotransmitter.
+GSH activates the purinergic P2X7 receptor from Müller glia, inducing acute calcium transient signals and GABA release from both retinal neurons and glial cells.
+In plants
+In plants, glutathione is involved in stress management. It is a component of the glutathione-ascorbate cycle, a system that reduces poisonous hydrogen peroxide. It is the precursor of phytochelatins, glutathione oligomers that chelate heavy metals such as cadmium. Glutathione is required for efficient defence against plant pathogens such as Pseudomonas syringae and Phytophthora brassicae. Adenylyl-sulfate reductase, an enzyme of the sulfur assimilation pathway, uses glutathione as an electron donor. Other enzymes using glutathione as a substrate are glutaredoxins. These small oxidoreductases are involved in flower development, salicylic acid, and plant defence signalling.
+Bioavailability
+Systemic availability of orally consumed glutathione is poor because the tripeptide is the substrate of proteases (peptidases) of the alimentary canal, and due to the absence of a specific carrier of glutathione at the level of cell membrane.
+Determination of glutathione
+Ellman's reagent and monobromobimane
+Reduced glutathione may be visualized using Ellman's reagent or bimane derivatives such as monobromobimane. The monobromobimane method is more sensitive. In this procedure, cells are lysed and thiols extracted using a HCl buffer. The thiols are then reduced with dithiothreitol and labelled by monobromobimane. Monobromobimane becomes fluorescent after binding to GSH. The thiols are then separated by HPLC and the fluorescence quantified with a fluorescence detector.
+Monochlorobimane
+Using monochlorobimane, the quantification is done by confocal laser scanning microscopy after application of the dye to living cells. This quantification process relies on measuring the rates of fluorescence changes and is limited to plant cells.
+CMFDA has also been mistakenly used as a glutathione probe. Unlike monochlorobimane, whose fluorescence increases upon reacting with glutathione, the fluorescence increase of CMFDA is due to the hydrolysis of the acetate groups inside cells. Although CMFDA may react with glutathione in cells, the fluorescence increase does not reflect the reaction. Therefore, studies using CMFDA as a glutathione probe should be revisited and reinterpreted.
+ThiolQuant Green
+The major limitation of these bimane-based probes and many other reported probes is that these probes are based on irreversible chemical reactions with glutathione, which renders these probes incapable of monitoring the real-time glutathione dynamics. Recently, the first reversible reaction based fluorescent probe-ThiolQuant Green (TQG)-for glutathione was reported. ThiolQuant Green can not only perform high resolution measurements of glutathione levels in single cells using a confocal microscope, but also be applied in flow cytometry to perform bulk measurements.
+RealThiol
+The RealThiol (RT) probe is a second-generation reversible reaction-based GSH probe. A few key features of RealThiol: 
+RealThiol can be used to perform measurements of glutathione levels in single cells using a high-resolution confocal microscope, as well as be applied in flow cytometry to perform bulk measurements in high throughput manner.
+An organelle-targeted RT probe has also been developed. A mitochondria-targeted version, MitoRT, was reported and demonstrated in monitoring the dynamic of mitochondrial glutathione both on confocoal microscope and FACS based analysis.
+Protein-based glutathione probes
+Another approach, which allows measurement of the glutathione redox potential at a high spatial and temporal resolution in living cells, is based on redox imaging using the redox-sensitive green fluorescent protein (roGFP) or redox-sensitive yellow fluorescent protein (rxYFP).
+Because of its very low physiological concentration, GSSG is difficult to measure accurately. GSSG concentration ranges from 10 to 50 μM in all solid tissues, and from 2 to 5 μM in blood (13–33 nmol/g Hb). GSH-to-GSSG ratio of whole cell extracts is estimated from 100 to 700. Those ratios represent a mixture from the glutathione pools of different redox states from different subcellular compartments (e.g. more oxidized in the ER, more reduced in the mitochondrial matrix), however. In vivo GSH-to-GSSG ratios can be measured with subcellular accuracy using fluorescent protein-based redox sensors, which have revealed ratios from 50,000 to 500,000 in the cytosol, which implies that GSSG concentration is maintained in the pM range.
+Uses
+Winemaking
+The content of glutathione in must, the first raw form of wine, determines the browning, or caramelizing effect, during the production of white wine by trapping the caffeoyltartaric acid quinones generated by enzymic oxidation as grape reaction product. Its concentration in wine can be determined by UPLC-MRM mass spectrometry.

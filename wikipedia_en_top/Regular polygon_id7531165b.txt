@@ -1,0 +1,76 @@
+Regular polygon
+In Euclidean geometry, a regular polygon is a polygon that is direct equiangular (all angles are equal in measure) and equilateral (all sides have the same length). Regular polygons may be either convex, star or skew. In the limit, a sequence of regular polygons with an increasing number of sides approximates a circle, if the perimeter or area is fixed, or a regular apeirogon (effectively a straight line), if the edge length is fixed.
+General properties
+These properties apply to all regular polygons, whether convex or star.
+A regular n-sided polygon has rotational symmetry of order n.
+All vertices of a regular polygon lie on a common circle (the circumscribed circle); i.e., they are concyclic points. That is, a regular polygon is a cyclic polygon.
+Together with the property of equal-length sides, this implies that every regular polygon also has an inscribed circle or incircle that is tangent to every side at the midpoint. Thus a regular polygon is a tangential polygon.
+A regular n-sided polygon can be constructed with compass and straightedge if and only if the odd prime factors of n are distinct Fermat primes. See constructible polygon.
+A regular n-sided polygon can be constructed with origami if and only if $MATH$ for some $MATH$, where each distinct $MATH$is a Pierpont prime.
+Symmetry
+The symmetry group of an n-sided regular polygon is dihedral group Dn (of order 2n): D2, D3, D4, ... It consists of the rotations in Cn, together with reflection symmetry in n axes that pass through the center. If n is even then half of these axes pass through two opposite vertices, and the other half through the midpoint of opposite sides. If n is odd then all axes pass through a vertex and the midpoint of the opposite side.
+Regular convex polygons
+All regular simple polygons (a simple polygon is one that does not intersect itself anywhere) are convex. Those having the same number of sides are also similar.
+An n-sided convex regular polygon is denoted by its Schläfli symbol {n}. For n < 3, we have two degenerate cases:
+In certain contexts all the polygons considered will be regular. In such circumstances it is customary to drop the prefix regular. For instance, all the faces of uniform polyhedra must be regular and the faces will be described simply as triangle, square, pentagon, etc.
+Angles
+For a regular convex n-gon, each interior angle has a measure of:
+and each exterior angle (i.e., supplementary to the interior angle) has a measure of $MATH$ degrees, with the sum of the exterior angles equal to 360 degrees or 2π radians or one full turn.
+As n approaches infinity, the internal angle approaches 180 degrees. For a regular polygon with 10,000 sides (a myriagon) the internal angle is 179.964°. As the number of sides increase, the internal angle can come very close to 180°, and the shape of the polygon approaches that of a circle. However the polygon can never become a circle. The value of the internal angle can never become exactly equal to 180°, as the circumference would effectively become a straight line. For this reason, a circle is not a polygon with an infinite number of sides.
+Diagonals
+For n > 2, the number of diagonals is $MATH$; i.e., 0, 2, 5, 9, ..., for a triangle, square, pentagon, hexagon, ... . The diagonals divide the polygon into 1, 4, 11, 24, ... pieces OEIS: A007678.
+For a regular n-gon inscribed in a unit-radius circle, the product of the distances from a given vertex to all other vertices (including adjacent vertices and vertices connected by a diagonal) equals n.
+Points in the plane
+For a regular simple n-gon with circumradius R and distances di from an arbitrary point in the plane to the vertices, we have
+For higher powers of distances $MATH$ from an arbitrary point in the plane to the vertices of a regular $MATH$-gon, if
+then
+and
+where $MATH$ is a positive integer less than $MATH$.
+If $MATH$ is the distance from an arbitrary point in the plane to the centroid of a regular $MATH$-gon with circumradius $MATH$, then
+where $MATH$ = 1, 2, …, $MATH$.
+Interior points
+For a regular n-gon, the sum of the perpendicular distances from any interior point to the n sides is n times the apothem: p. 72  (the apothem being the distance from the center to any side). This is a generalization of Viviani's theorem for the n = 3 case.
+Circumradius
+The circumradius R from the center of a regular polygon to one of the vertices is related to the side length s or to the apothem a by
+For constructible polygons, algebraic expressions for these relationships exist; see Bicentric polygon#Regular polygons.
+The sum of the perpendiculars from a regular n-gon's vertices to any line tangent to the circumcircle equals n times the circumradius.: p. 73 
+The sum of the squared distances from the vertices of a regular n-gon to any point on its circumcircle equals 2nR2 where R is the circumradius.: p.73 
+The sum of the squared distances from the midpoints of the sides of a regular n-gon to any point on the circumcircle is 2nR2 − 1/4ns2, where s is the side length and R is the circumradius.: p. 73 
+If $MATH$ are the distances from the vertices of a regular $MATH$-gon to any point on its circumcircle, then 
+Dissections
+Coxeter states that every zonogon (a 2m-gon whose opposite sides are parallel and of equal length) can be dissected into $MATH$ or 1/2m(m − 1) parallelograms.
+These tilings are contained as subsets of vertices, edges and faces in orthogonal projections m-cubes.
+In particular, this is true for any regular polygon with an even number of sides, in which case the parallelograms are all rhombi.
+The list OEIS: A006245 gives the number of solutions for smaller polygons.
+Area
+The area A of a convex regular n-sided polygon having side s, circumradius R, apothem a, and perimeter p is given by
+For regular polygons with side s = 1, circumradius R = 1, or apothem a = 1, this produces the following table: (Note that since $MATH$ as $MATH$, the area when $MATH$ tends to $MATH$ as $MATH$ grows large.)
+Of all n-gons with a given perimeter, the one with the largest area is regular.
+Constructible polygon
+Some regular polygons are easy to construct with compass and straightedge; other regular polygons are not constructible at all.
+The ancient Greek mathematicians knew how to construct a regular polygon with 3, 4, or 5 sides,: p. xi  and they knew how to construct a regular polygon with double the number of sides of a given regular polygon.: pp. 49–50  This led to the question being posed: is it possible to construct all regular n-gons with compass and straightedge? If not, which n-gons are constructible and which are not?
+Carl Friedrich Gauss proved the constructibility of the regular 17-gon in 1796. Five years later, he developed the theory of Gaussian periods in his Disquisitiones Arithmeticae. This theory allowed him to formulate a sufficient condition for the constructibility of regular polygons:
+(A Fermat prime is a prime number of the form $MATH$) Gauss stated without proof that this condition was also necessary, but never published his proof.  A full proof of necessity was given by Pierre Wantzel in 1837. The result is known as the Gauss–Wantzel theorem.
+Equivalently, a regular n-gon is constructible if and only if the cosine of its common angle is a constructible number—that is, can be written in terms of the four basic arithmetic operations and the extraction of square roots.
+Regular skew polygons
+A regular skew polygon in 3-space can be seen as nonplanar paths zig-zagging between two parallel planes, defined as the side-edges of a uniform antiprism. All edges and internal angles are equal.
+More generally regular skew polygons can be defined in n-space. Examples include the Petrie polygons, polygonal paths of edges that divide a regular polytope into two halves, and seen as a regular polygon in orthogonal projection.
+In the infinite limit regular skew polygons become skew apeirogons.
+Regular star polygons
+A non-convex regular polygon is a regular star polygon. The most common example is the pentagram, which has the same vertices as a pentagon, but connects alternating vertices.
+For an n-sided star polygon, the Schläfli symbol is modified to indicate the density or "starriness" m of the polygon, as {n/m}.  If m is 2, for example, then every second point is joined. If m is 3, then every third point is joined. The boundary of the polygon winds around the center m times.
+The (non-degenerate) regular stars of up to 12 sides are:
+m and n must be coprime, or the figure will degenerate.
+The degenerate regular stars of up to 12 sides are:
+Depending on the precise derivation of the Schläfli symbol, opinions differ as to the nature of the degenerate figure. For example, {6/2} may be treated in either of two ways:
+Duality of regular polygons
+All regular polygons are self-dual to congruency, and for odd n they are self-dual to identity.
+In addition, the regular star figures (compounds), being composed of regular polygons, are also self-dual.
+Regular polygons as faces of polyhedra
+A uniform polyhedron has regular polygons as faces, such that for every two vertices there is an isometry mapping one into the other (just as there is for a regular polygon).
+A quasiregular polyhedron is a uniform polyhedron which has just two kinds of face alternating around each vertex.
+A regular polyhedron is a uniform polyhedron which has just one kind of face.
+The remaining (non-uniform) convex polyhedra with regular faces are known as the Johnson solids.
+A polyhedron having regular triangles as faces is called a deltahedron.
+See also
+Notes

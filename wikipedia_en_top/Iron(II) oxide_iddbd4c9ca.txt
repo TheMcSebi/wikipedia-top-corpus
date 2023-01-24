@@ -1,0 +1,16 @@
+Iron(II) oxide
+Iron(II) oxide or ferrous oxide is the inorganic compound with the formula FeO.  Its mineral form is known as wüstite. One of several iron oxides, it is a black-colored powder that is sometimes confused with rust, the latter of which consists of hydrated iron(III) oxide (ferric oxide). Iron(II) oxide also refers to a family of related non-stoichiometric compounds, which are typically iron deficient with compositions ranging from Fe0.84O to Fe0.95O.
+Preparation
+FeO can be prepared by the thermal decomposition of iron(II) oxalate. 
+The procedure is conducted under an inert atmosphere to avoid the formation of iron(III) oxide (Fe2O3).  A similar procedure can also be used for the synthesis of manganous oxide and stannous oxide.
+Stoichiometric FeO can be prepared by heating Fe0.95O with metallic iron at 770 °C and 36 kbar.
+Reactions
+FeO is thermodynamically unstable below 575 °C, tending to disproportionate to metal and Fe3O4:
+Structure
+Iron(II) oxide adopts the cubic, rock salt structure, where iron atoms are octahedrally coordinated by oxygen atoms and the oxygen atoms octahedrally coordinated by iron atoms. The non-stoichiometry occurs because of the ease of oxidation of FeII to FeIII effectively replacing a small portion of FeII with two thirds their number of FeIII, which take up tetrahedral positions in the close packed oxide lattice.
+In contrast to the crystalline solid, in the molten state iron atoms are coordinated by predominantly 4 or 5 oxygen atoms.
+Below 200 K there is a minor change to the structure which changes the symmetry to rhombohedral and samples become antiferromagnetic.
+Occurrence in nature
+Iron(II) oxide makes up approximately 9% of the Earth's mantle. Within the mantle, it may be electrically conductive, which is a possible explanation for perturbations in Earth's rotation not accounted for by accepted models of the mantle's properties.
+Uses
+Iron(II) oxide is used as a pigment. It is FDA-approved for use in cosmetics and it is used in some tattoo inks.  It can also be used as a phosphate remover from home aquaria.

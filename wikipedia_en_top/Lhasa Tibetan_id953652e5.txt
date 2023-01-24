@@ -1,0 +1,44 @@
+Lhasa Tibetan
+Lhasa Tibetan (Tibetan: ལྷ་སའི་སྐད་, Wylie: Lha-sa'i skad, THL: Lhaséké, ZYPY: Lasägä), or Standard Tibetan, is the Tibetan dialect spoken by educated people of Lhasa, the capital of the Tibetan Autonomous Region of China. It is an official language of the Tibet Autonomous Region.
+In the traditional "three-branched" classification of Tibetic languages, the Lhasa dialect belongs to the Central Tibetan branch (the other two being Khams Tibetan and Amdo Tibetan). In terms of mutual intelligibility, speakers of Khams Tibetan are able to communicate at a basic level with Lhasa Tibetan, while Amdo speakers cannot. Both Lhasa Tibetan and Khams Tibetan evolved to become tonal and do not preserve the word-initial consonant clusters, which makes them very far from Classical Tibetan, especially when compared to the more conservative Amdo Tibetan.
+Registers
+Like many languages, Lhasa Tibetan has a variety of language registers:
+Grammar
+Syntax and word order
+Tibetan is an ergative language. Grammatical constituents broadly have head-final word order:
+Numerals
+Unlike many other languages of East Asia  and especially Chinese, another Sino-Tibetan language, there are no numeral auxiliaries or measure words used in counting in Tibetan although words expressive of a collective or integral are often used after the tens, sometimes after a smaller number.
+In scientific and astrological works, the numerals, as in Vedic Sanskrit, are expressed by symbolical words.
+Writing system
+Tibetan is written with an Indic script, with a historically conservative orthography that reflects Old Tibetan phonology and helps unify the Tibetan-language area. It is also helpful in reconstructing Proto Sino-Tibetan and Old Chinese.
+Wylie transliteration is the most common system of romanization used by Western scholars in rendering written Tibetan using the Latin alphabet (such as employed on much of this page), while linguists tend to use other special transliteration systems of their own.  As for transcriptions meant to approximate the pronunciation, Tibetan pinyin is the official romanization system employed by the government of the People's Republic of China, while English language materials use the THL transcription system. Certain names may also retain irregular transcriptions, such as Chomolungma for Mount Everest.
+Phonology
+The following summarizes the sound system of the dialect of Tibetan spoken in Lhasa, the most influential variety of the spoken language.
+Vowels
+Tournadre and Sangda Dorje describe eight vowels in the standard language:
+Three additional vowels are sometimes described as significantly distinct: [ʌ] or [ə], which is normally an allophone of /a/; [ɔ], which is normally an allophone of /o/; and [ɛ̈] (an unrounded, centralised, mid front vowel), which is normally an allophone of /e/. These sounds normally occur in closed syllables; because Tibetan does not allow geminated consonants, there are cases in which one syllable ends with the same sound as the one following it. The result is that the first is pronounced as an open syllable but retains the vowel typical of a closed syllable. For instance, zhabs (foot) is pronounced [ɕʌp] and pad (borrowing from Sanskrit padma, lotus) is pronounced [pɛʔ], but the compound word, zhabs pad is pronounced [ɕʌpɛʔ]. This process can result in minimal pairs involving sounds that are otherwise allophones.
+Sources vary on whether the [ɛ̈] phone (resulting from /e/ in a closed syllable) and the [ɛ] phone (resulting from /a/ through the i-mutation) are distinct or basically identical.
+Phonemic vowel length exists in Lhasa Tibetan but in a restricted set of circumstances. Assimilation of Classical Tibetan's suffixes, normally ‘i (འི་), at the end of a word produces a long vowel in Lhasa Tibetan; the feature is sometimes omitted in phonetic transcriptions. In normal spoken pronunciation, a lengthening of the vowel is also frequently substituted for the sounds [r] and [l] when they occur at the end of a syllable.
+The vowels /i/, /y/, /e/, /ø/, and /ɛ/ each have nasalized forms: /ĩ/, /ỹ/, /ẽ/, /ø̃/, and /ɛ̃/, respectively, which historically results from /in/, /en/, etc. In some unusual cases, the vowels /a/, /u/, and /o/ may also be nasalised.
+Tones
+The Lhasa dialect is usually described as having two tones: high and low. However, in monosyllabic words, each tone can occur with two distinct contours. The high tone can be pronounced with either a flat or a falling contour, and the low tone can be pronounced with either a flat or rising-falling contour, the latter being a tone that rises to a medium level before falling again. It is normally safe to distinguish only between the two tones because there are very few minimal pairs that differ only because of contour. The difference occurs only in certain words ending in the sounds [m] or [ŋ]; for instance, the word kham (Tibetan: ཁམ་, "piece") is pronounced [kʰám] with a high flat tone, whereas the word Khams (Tibetan: ཁམས་, "the Kham region") is pronounced [kʰâm] with a high falling tone.
+In polysyllabic words, tone is not important except in the first syllable. This means that from the point of view of phonological typology, Tibetan could more accurately be described as a pitch-accent language than a true tone language, in which all syllables in a word can carry their own tone.
+Consonants
+Verbal system
+The Lhasa Tibetan verbal system distinguishes four tenses and three evidential moods.
+The three moods may all occur with all three grammatical persons, though early descriptions associated the personal modal category with European first-person agreement.
+Counting system
+Lhasa Tibetan has a base-10 counting system. The basic units of the counting system of Lhasa Tibetan is given in the table below in both the Tibetan script and a Romanisation for those unfamiliar with Written Tibetan.
+Scholarship
+In the 18th and 19th centuries several Western linguists arrived in Tibet:
+Indian indologist and linguist Rahul Sankrityayan wrote a Tibetan grammar in Hindi. Some of his other works on Tibetan were:
+Contemporary usage
+In much of Tibet, primary education is conducted either primarily or entirely in the Tibetan language, and bilingual education is rarely introduced before students reach middle school. However, Chinese is the language of instruction of most Tibetan secondary schools. In April 2020, classroom instruction was switched from Tibetan to Mandarin Chinese in Ngaba, Sichuan. Students who continue on to tertiary education have the option of studying humanistic disciplines in Tibetan at a number of minority colleges in China. This contrasts with Tibetan schools in Dharamsala, India, where the Ministry of Human Resource Development curriculum requires academic subjects to be taught in English from middle school. Literacy and enrollment rates continue to be the main concern of the Chinese government. Much of the adult population in Tibet remains illiterate, and despite compulsory education policies, many parents in rural areas are unable to send their children to school.
+In February 2008, Norman Baker, a UK MP, released a statement to mark International Mother Language Day claiming, "The Chinese government are following a deliberate policy of extinguishing all that is Tibetan, including their own language in their own country" and he asserted a right for Tibetans to express themselves "in their mother tongue". However, Tibetologist Elliot Sperling has noted that "within certain limits the PRC does make efforts to accommodate Tibetan cultural expression" and "the cultural activity taking place all over the Tibetan plateau cannot be ignored."
+Some scholars also question such claims because most Tibetans continue to reside in rural areas where Chinese is rarely spoken, as opposed to Lhasa and other Tibetan cities where Chinese can often be heard. In the Texas Journal of International Law, Barry Sautman stated that "none of the many recent studies of endangered languages deems Tibetan to be imperiled, and language maintenance among Tibetans contrasts with language loss even in the remote areas of Western states renowned for liberal policies... claims that primary schools in Tibet teach Mandarin are in error. Tibetan was the main language of instruction in 98% of TAR primary schools in 1996; today, Mandarin is introduced in early grades only in urban schools.... Because less than four out of ten TAR Tibetans reach secondary school, primary school matters most for their cultural formation."
+Machine translation software and applications
+An incomplete list of machine translation software or applications that can translate Tibetan language from/to a variety of other languages.
+See also
+Notes
+References
+Further reading

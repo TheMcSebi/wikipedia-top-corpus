@@ -1,0 +1,14 @@
+Web Open Font Format
+The Web Open Font Format (WOFF) is a font format for use in web pages.
+WOFF files are OpenType or TrueType fonts, with format-specific compression applied and additional XML metadata added.
+The two primary goals are first to distinguish font files intended for use as web fonts from fonts files intended for use in desktop applications via local installation, and second to reduce web font latency when fonts are transferred from a server to a client over a network connection.
+Standardization
+The first draft of WOFF 1 was published in 2009 by Jonathan Kew, Tal Leming, and Erik van Blokland, with reference conversion code written by Jonathan Kew. Following the submission of WOFF to the World Wide Web Consortium (W3C) by the Mozilla Foundation, Opera Software and Microsoft in April 2010, the W3C commented that it expected WOFF to soon become the "single, interoperable [font] format" supported by all browsers. The W3C published WOFF as a working draft in July 2010. The final draft was published as a W3C Recommendation on 13 December 2012.
+WOFF 2.0, with reference code provided by Google, has an improved compression scheme, using Brotli for byte-level compression, and became a W3C Recommendation in March 2018.
+Specification
+WOFF is a wrapper containing SFNT-based fonts (TrueType or OpenType) that have been compressed using a WOFF-specific encoding tool so they can be embedded in a Web page. WOFF Version 1 uses the widely available zlib compression (specifically, the compress2 function), typically resulting in a file size reduction for TrueType files of over 40%. Since OpenType CFF files (with PostScript glyph outlines) are already compressed, their reduction is typically smaller.
+Vendor support
+Each version of the format has received the backing of many font vendors, also known as type foundries, and has been supported by all major browsers:
+WOFF 2.0, based on the Brotli compression algorithm and other improvements over WOFF 1.0 giving more than 30% reduction in file size, is supported in
+Some browsers enforce a same-origin policy, preventing WOFF fonts from being used across different domains. This restriction is part of the CSS 3 Fonts module, where it applies to all font formats and can be overridden by the server providing the font.
+Some servers may require the manual addition of WOFF's MIME type to serve the files correctly. Since February 2017, the proper MIME type is font/woff for WOFF 1.0 and font/woff2 for WOFF 2.0. Prior to February 2017, the standard MIME type for WOFF 1.0 was application/font-woff, and some applications may still use the old type, though it is now deprecated.

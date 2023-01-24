@@ -1,0 +1,69 @@
+Formal fallacy
+In philosophy, a formal fallacy, deductive fallacy, logical fallacy or non sequitur (/ˌnɒn ˈsɛkwɪtər/; Latin for "[it] does not follow") is a pattern of reasoning rendered invalid by a flaw in its logical structure that can neatly be expressed in a standard logic system, for example propositional logic. It is defined as a deductive argument that is invalid. The argument itself could have true premises, but still have a false conclusion. Thus, a formal fallacy is a fallacy where deduction goes wrong, and is no longer a logical process. This may not affect the truth of the conclusion, since validity and truth are separate in formal logic.
+While a logical argument is a non sequitur if, and only if, it is invalid, the term "non sequitur" typically refers to those types of invalid arguments which do not constitute formal fallacies covered by particular terms (e.g., affirming the consequent). In other words, in practice, "non sequitur" refers to an unnamed formal fallacy.
+A special case is a mathematical fallacy, an intentionally invalid mathematical proof, often with the error subtle and somehow concealed. Mathematical fallacies are typically crafted and exhibited for educational purposes, usually taking the form of spurious proofs of obvious contradictions.
+A formal fallacy is contrasted with an informal fallacy which may have a valid logical form and yet be unsound because one or more premises are false. A formal fallacy; however, may have a true premise, but a false conclusion.
+Taxonomy
+Prior Analytics is Aristotle's treatise on deductive reasoning and the syllogism.  The standard Aristotelian logical fallacies are:
+Other logical fallacies include:
+In philosophy, the term logical fallacy properly refers to a formal fallacy—a flaw in the structure of a deductive argument, which renders the argument invalid.
+It is often used more generally in informal discourse to mean an argument that is problematic for any reason, and encompasses informal fallacies as well as formal fallacies—valid but unsound claims or poor non-deductive argumentation.
+The presence of a formal fallacy in a deductive argument does not imply anything about the argument's premises or its conclusion (see fallacy fallacy). Both may actually be true, or even more probable as a result of the argument (e.g. appeal to authority), but the deductive argument is still invalid because the conclusion does not follow from the premises in the manner described. By extension, an argument can contain a formal fallacy even if the argument is not a deductive one; for instance an inductive argument that incorrectly applies principles of probability or causality can be said to commit a formal fallacy.
+Affirming the consequent
+Any argument that takes the following form is a non sequitur
+Even if the premise and conclusion are both true, the conclusion is not a necessary consequence of the premise. This sort of non sequitur is also called affirming the consequent.
+An example of affirming the consequent would be:
+While the conclusion may be true, it does not follow from the premise:
+The truth of the conclusion is independent of the truth of its premise – it is a 'non sequitur', since Jackson might be a mammal without being human. He might be an elephant.
+Affirming the consequent is essentially the same as the fallacy of the undistributed middle, but using propositions rather than set membership.
+Denying the antecedent
+Another common non sequitur is this:
+While B can indeed be false, this cannot be linked to the premise since the statement is a non sequitur. This is called denying the antecedent.
+An example of denying the antecedent would be:
+While the conclusion may be true, it does not follow from the premise. The statement's declarant could be another ethnicity of Asia, e.g., Chinese, in which case the premise would be true but the conclusion false. This argument is still a fallacy even if the conclusion is true.
+Affirming a disjunct
+Affirming a disjunct is a fallacy when in the following form:
+The conclusion does not follow from the premise as it could be the case that A and B are both true. This fallacy stems from the stated definition of or in propositional logic to be inclusive.
+An example of affirming a disjunct would be:
+While the conclusion may be true, it does not follow from the premise. For all the reader knows, the declarant of the statement very well could be in both the city and their home, in which case the premises would be true but the conclusion false. This argument is still a fallacy even if the conclusion is true.
+*Note that this is only a logical fallacy when the word "or" is in its inclusive form.  If the two possibilities in question are mutually exclusive, this is not a logical fallacy.  For example,
+Denying a conjunct
+Denying a conjunct is a fallacy when in the following form:
+The conclusion does not follow from the premise as it could be the case that A and B are both false.
+An example of denying a conjunct would be:
+While the conclusion may be true, it does not follow from the premise. For all the reader knows, the declarant of the statement very well could neither be at home nor in the city, in which case the premise would be true but the conclusion false. This argument is still a fallacy even if the conclusion is true.
+Illicit commutativity
+Illicit commutativity is a fallacy when in the following form:
+The conclusion does not follow from the premise as unlike other logical connectives, the implies operator is one-way only. "P and Q" is the same as "Q and P", but "P implies Q" is not the same as "Q implies P".
+An example of this fallacy is as follows:
+While this may appear to be a reasonable argument, it is not valid because the first statement does not logically guarantee the second statement. The first statement says nothing like "I do not have my umbrella otherwise", which means that having my umbrella on a sunny day would render the first statement true and the second statement false.
+Fallacy of the undistributed middle
+The fallacy of the undistributed middle is a fallacy that is committed when the middle term in a categorical syllogism is not distributed. It is a syllogistic fallacy. More specifically it is also a form of non sequitur.
+The fallacy of the undistributed middle takes the following form:
+It may or may not be the case that "all Zs are Bs", but in either case it is irrelevant to the conclusion. What is relevant to the conclusion is whether it is true that "all Bs are Zs," which is ignored in the argument.
+An example can be given as follows, where B=mammals, Y=Mary and Z=humans:
+Note that if the terms (Z and B) were swapped around in the first co-premise then it would no longer be a fallacy and would be correct.
+In contrast to informal fallacy
+Formal logic is not used to determine whether or not an argument is true. Formal arguments can either be valid or invalid. A valid argument may also be sound or unsound:
+Ideally, the best kind of formal argument is a sound, valid argument.
+Formal fallacies do not take into account the soundness of an argument, but rather its validity. Premises in formal logic are commonly represented by letters (most commonly p and q). A fallacy occurs when the structure of the argument is incorrect, despite the truth of the premises.
+As modus ponens, the following argument contains no formal fallacies:
+A logical fallacy associated with this format of argument is referred to as affirming the consequent, which would look like this:
+This is a fallacy because it does not take into account other possibilities. To illustrate this more clearly, substitute the letters with premises:
+Although it is possible that this conclusion is true, it does not necessarily mean it must be true. The street could be wet for a variety of other reasons that this argument does not take into account. If we look at the valid form of the argument, we can see that the conclusion must be true:
+This argument is valid and, if it did rain, it would also be sound.
+If statements 1 and 2 are true, it absolutely follows that statement 3 is true.  However, it may still be the case that statement 1 or 2 is not true.  For example:
+In this case, statement 1 is false.  The particular informal fallacy being committed in this assertion is argument from authority.  By contrast, an argument with a formal fallacy could still contain all true premises:
+Although 1 and 2 are true statements, 3 does not follow because the argument commits the formal fallacy of affirming the consequent.
+An argument could contain both an informal fallacy and a formal fallacy yet lead to a conclusion that happens to be true, for example, again affirming the consequent, now also from an untrue premise:
+Common examples
+"Some of your key evidence is missing, incomplete, or even faked! That proves I'm right!"
+"The vet can't find any reasonable explanation for why my dog died. See! See! That proves that you poisoned him! There’s no other logical explanation!"
+In the strictest sense, a logical fallacy is the incorrect application of a valid logical principle or an application of a nonexistent principle:
+This is fallacious. And so is this:
+Indeed, there is no logical principle that states:
+An easy way to show the above inference as invalid is by using Venn diagrams. In logical parlance, the inference is invalid, since under at least one interpretation of the predicates it is not validity preserving.
+People often have difficulty applying the rules of logic. For example, a person may say the following syllogism is valid, when in fact it is not:
+"That creature" may well be a bird, but the conclusion does not follow from the premises. Certain other animals also have beaks, for example: an octopus and a squid both have beaks, some turtles and cetaceans have beaks. Errors of this type occur because people reverse a premise. In this case, "All birds have beaks" is converted to "All beaked animals are birds." The reversed premise is plausible because few people are aware of any instances of beaked creatures besides birds—but this premise is not the one that was given. In this way, the deductive fallacy is formed by points that may individually appear logical, but when placed together are shown to be incorrect.
+Non sequitur in everyday speech
+In everyday speech, a non sequitur is a statement in which the final part is totally unrelated to the first part, for example:
